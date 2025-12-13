@@ -1,0 +1,277 @@
+{
+  "id": "gd_sek_lain_de",
+  "title": "Sek Lain De",
+  "artist": "A-Kay",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "hi",
+  "to_language": "en",
+  "audio": "/audio/gd_sek_lain_de.mp3",
+  "duration": 236,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Sek lain de, tu mainu sek lain de",
+      "translation": "One more day, you one more day",
+      "grammar": "This line uses the idiomatic expression \"sek lain de\" to convey a sense of resignation or acceptance, similar to saying \"oh well\" in English. The repetition of \"one more day\" emphasizes the speaker's surrender to fate."
+    },
+    {
+      "time": 5.549,
+      "text": "Meri haar di ae agg mainu sek lain de x (2)",
+      "translation": "Meri haar di ae agg menuu sek lain de x (2)",
+      "grammar": "The phrase \"ae agg\" is an idiomatic expression in Punjabi, equivalent to the English phrase \"to my heart's content\", conveying a sense of satisfaction or pleasure."
+    },
+    {
+      "time": 13.067,
+      "text": "Dekh lain de, tu mainu dekh lain de",
+      "translation": "Let me see, you just look at me",
+      "grammar": "This line employs a common Punjabi idiom \"dekh lain de\" which translates to \"let me see\" or \"allow me to take a look\". The use of the verb \"dekh\" in the imperative mood and the pronoun \"tu\" (you) indicates a polite request."
+    },
+    {
+      "time": 18.617,
+      "text": "Kehde apne te ghair saare dekh lain de x (2)",
+      "translation": "Where should I look around x (2)",
+      "grammar": "The phrase \"kehde\" is an informal way to ask for advice or guidance, equivalent to \"what do you think?\" or \"how about this?\", using the first person singular pronoun \"mujhe\" (me) in a rhetorical sense."
+    },
+    {
+      "time": 25.479,
+      "text": "Lakh ne buraiyan bande vich hundi aan",
+      "translation": "Lakh ne badaiyan bande bich hundi aan",
+      "grammar": "This line uses the present continuous tense to describe an ongoing habit, with \"hundi\" indicating a habitual action. The phrase \"bande vich\" is an idiomatic expression meaning \"in one's group\" or \"among friends\"."
+    },
+    {
+      "time": 30.372,
+      "text": "Changiyan kise di koyi gaurta hi nai",
+      "translation": "Changiyan kise di koyi gaurta hi nai",
+      "grammar": "This line uses the idiomatic expression \"hi\" to emphasize negation, equivalent to saying \"not at all\". The sentence is in the present tense and the verb \"gaurta\" agrees with the subject \"koyi\", indicating a general or universal truth."
+    },
+    {
+      "time": 35.265,
+      "text": "Lakh ne kamaiyan bande nu ae hundi aan",
+      "translation": "Lakhs of unearned people have no money on their hands.",
+      "grammar": "The verb phrase \"ae hundi\" is in the present continuous tense, indicating an ongoing situation. The use of \"hundi\" (having) instead of \"hai\" (is) emphasizes the lack of money."
+    },
+    {
+      "time": 40.814,
+      "text": "Rabb mehanat'an de mull khaali molta hi nai",
+      "translation": "Lord, if you give hard work, it will not just bring you value.",
+      "grammar": "This line uses the subjunctive mood to express a hypothetical situation, indicating that the speaker is making a suggestion rather than stating a fact. The phrase \"mehanat'an\" (if you give) also employs an idiomatic construction common in Hindi and Urdu."
+    },
+    {
+      "time": 47.02,
+      "text": "Dekhi chalde zamane utte zor apne",
+      "translation": "See, the times are changing",
+      "grammar": "The verb \"dekhi\" is in the imperative mood, used to express a sense of urgency or emphasis. The phrase \"chalde zamane\" is an idiomatic expression meaning \"times are changing\"."
+    },
+    {
+      "time": 51.257,
+      "text": "Hale samay nu halatan naal khed lain de",
+      "translation": "Hale samay nu halatan naal khed lain de",
+      "grammar": "This sentence uses the present continuous tense to describe an ongoing action, with \"hale\" meaning \"now\" or \"at this time\". The phrase \"nu halatan naal\" is an idiomatic expression indicating a specific moment in the past."
+    },
+    {
+      "time": 56.806,
+      "text": "Sek lain de, tu mainu sek lain de",
+      "translation": "One more day, you one more day",
+      "grammar": "This line uses the idiomatic expression \"sek lain de\" to convey a sense of repetition or iteration in the present continuous tense, emphasizing the ongoing nature of the action."
+    },
+    {
+      "time": 62.356,
+      "text": "Meri haar di ae agg mainu sek lain de x (2)",
+      "translation": "Meri haar di ae agg menuu sek lain de x (2)",
+      "grammar": "The phrase \"ae agg\" is an idiomatic expression in Punjabi, equivalent to \"it's all over\" or \"it's done\", conveying a sense of finality. The verb \"lain de\" is in the imperative mood, indicating a command or instruction."
+    },
+    {
+      "time": 69.874,
+      "text": "Dekh lain de, tu mainu dekh lain de",
+      "translation": "Let me see, you just look at me",
+      "grammar": "The phrase \"dekh lain de\" is an idiomatic expression in Punjabi, equivalent to the English idiom \"let me see\". It uses the present continuous tense to convey a sense of hesitation or uncertainty."
+    },
+    {
+      "time": 75.423,
+      "text": "Kehde apne te ghair saare dekh lain de",
+      "translation": "Where should I look at everything beyond my reach?",
+      "grammar": "The phrase \"kehde\" is an informal second-person singular pronoun, equivalent to \"you\" in English, used to address a close friend or someone familiar. It is often used in casual conversations and adds a sense of informality to the sentence."
+    },
+    {
+      "time": 80.973,
+      "text": "Dekh lain de, tu mainu dekh lain de",
+      "translation": "Let me see, you just look at me",
+      "grammar": "This line uses the imperative mood to make a request, with the speaker using the pronoun \"tu\" (you) in an informal address. The phrase \"mainu dekh lain de\" is an idiomatic expression meaning \"just look at me\", where \"mainu\" is an object marker indicating the direct object of the verb \"dekh\" (to see)."
+    },
+    {
+      "time": 86.522,
+      "text": "Kehde apne te ghair saare.",
+      "translation": "Kehde apne te ghair saare.",
+      "grammar": "This line uses the idiomatic expression \"apne te\" to mean \"to one's own people\", with the verb \"kehde\" in the imperative mood, instructing someone to go to their own people."
+    },
+    {
+      "time": 90.103,
+      "text": "Pooja vi karta hoon",
+      "translation": "I also do puja",
+      "grammar": "This line illustrates the use of the present continuous tense (vi karta) to express a habitual or regular action, with the verb pooja meaning \"to worship\" or \"to perform puja\". The phrase \"I also\" is an idiomatic translation of the Hindi phrase \"pooja vi\", emphasizing the speaker's involvement in the activity."
+    },
+    {
+      "time": 93.028,
+      "text": "Jaap bhi karta hoon",
+      "translation": "I also chant",
+      "grammar": "This line uses the present continuous tense (karta hoon) to express a habitual or ongoing action, and the idiomatic phrase \"jaap\" means \"chanting\" or \"reciting\"."
+    },
+    {
+      "time": 95.952,
+      "text": "Kahin devta na ban jaaun",
+      "translation": "I may not become a god",
+      "grammar": "The sentence uses the subjunctive mood to express a hypothetical or uncertain situation, indicating that the speaker is expressing a wish rather than stating a fact."
+    },
+    {
+      "time": 99.533,
+      "text": "Isiliye paap bhi karta hoon",
+      "translation": "That's why I commit sins too",
+      "grammar": "The verb \"karta\" is in the present continuous tense, indicating a habitual or ongoing action. The phrase \"paap bhi karta hoon\" can be translated to \"I commit sins too\" and uses the idiomatic expression \"bhi\" to emphasize the speaker's involvement in committing sins."
+    },
+    {
+      "time": 103.114,
+      "text": "Saukhi chakkni aen unglan de kise hor te",
+      "translation": "Saukhi chakkni aen unglan de kise hor te",
+      "grammar": "This sentence uses the informal imperative mood to express a strong suggestion or command, with the verb \"de\" implying a sense of urgency. The phrase \"kise hor te\" is an idiomatic expression meaning \"to someone else\"."
+    },
+    {
+      "time": 108.664,
+      "text": "Kade apni kamiyan te bol ni hunda x (2)",
+      "translation": "Why don't you say anything to me x (2)",
+      "grammar": "The phrase \"bol ni hunda\" is a polite way of saying \"don't say\" or \"refrain from speaking\", using the negative imperative mood and the verb \"hunda\" in the present tense, which implies a sense of habit or custom."
+    },
+    {
+      "time": 114.869,
+      "text": "Jehde phirde nasihatan dujjeyan nu wadd de",
+      "translation": "Jehde phirde nasihatan dujjeyan nu wadd de",
+      "grammar": "The phrase \"phirde\" is an idiomatic expression indicating a sense of regret or longing, often used in the past tense to convey a feeling of \"if only\"."
+    },
+    {
+      "time": 119.762,
+      "text": "Ohne apne te kitta kade gaur ni hunda",
+      "translation": "Ohne apne te kitta kade gaur ni hunda",
+      "grammar": "This line uses the present continuous tense to express a habitual or ongoing action, with \"hunda\" indicating a general truth rather than a specific occurrence."
+    },
+    {
+      "time": 125.312,
+      "text": "Aithe apne layi aap hi aa painda karda",
+      "translation": "I have brought you here, you have come and made me happy",
+      "grammar": "This line uses the present perfect tense to convey the speaker's actions and emotions, with \"aa\" being an informal way of saying \"come\" in Hindi."
+    },
+    {
+      "time": 130.861,
+      "text": "Aithe apne layi aap hi aa painda karda",
+      "translation": "I have brought you here, you have come and made me happy",
+      "grammar": "This line uses the informal \"you\" (aap) and first-person singular pronoun (main verb is in the present perfect tense, indicating an action completed before another action in the sentence)."
+    },
+    {
+      "time": 136.411,
+      "text": "Fokke hausle aan kolo parhej rehn de",
+      "translation": "Fokke hausle aan kolo abstain rehn de",
+      "grammar": "This line uses the present tense to describe a habitual action, with \"hausle\" and \"rehn\" being idiomatic expressions meaning \"to indulge\" and \"to refrain\" respectively. The sentence structure is informal and conversational in tone."
+    },
+    {
+      "time": 141.304,
+      "text": "Sek lain de, tu mainu sek lain de",
+      "translation": "One more day, you one more day",
+      "grammar": "This line uses the idiomatic expression \"sek lain de\" to emphasize a sense of continuity or repetition, equivalent to saying \"again and again\". The verb \"mainu\" is in the imperative mood, addressing the listener directly."
+    },
+    {
+      "time": 146.853,
+      "text": "Meri haar di ae agg mainu sek lain de x (2)",
+      "translation": "Meri haar di ae agg menuu sek lain de x (2)",
+      "grammar": "In this Punjabi lyric line, the verb \"sek\" is in the imperative mood, used to give a command or make a request. The phrase \"mainu\" is an informal way of saying \"to me\", using the object pronoun \"nu\" instead of the formal \"ko\"."
+    },
+    {
+      "time": 154.371,
+      "text": "Dekh lain de, tu mainu dekh lain de",
+      "translation": "Let me see, you just look at me",
+      "grammar": "This line uses the informal imperative mood to convey a sense of intimacy and familiarity, with the speaker addressing someone directly. The verb \"dekh\" is in the present tense, emphasizing the immediate action of looking."
+    },
+    {
+      "time": 159.921,
+      "text": "Kehde apne te ghair saare dekh lain de x (2)",
+      "translation": "Where should I look around x (2)",
+      "grammar": "The phrase \"kehde\" is an informal way of saying \"where\", often used in casual conversations, and its usage implies a sense of seeking guidance or permission."
+    },
+    {
+      "time": 166.782,
+      "text": "Rukeya peya main hale mukkeya nai",
+      "translation": "Rukeya peya main hale mukkeya nai",
+      "grammar": "This line uses the present tense to express a habitual or general truth, with the verb stem Hale indicating a state of being. The phrase \"mukkeya nai\" is an idiomatic expression meaning \"not at all\", emphasizing the speaker's denial."
+    },
+    {
+      "time": 171.019,
+      "text": "Hove ajj te halatan moore chukeyan nai x (2)",
+      "translation": "Hove ajj te chaltaan moore chukeyan nai x (2)",
+      "grammar": "The phrase \"ajj te\" is an idiomatic expression indicating a sudden or unexpected event, often translated as \"suddenly\" or \"all of a sudden\"."
+    },
+    {
+      "time": 177.225,
+      "text": "Vehde change mahde bade ne handaye jind ne",
+      "translation": "Very change mahde bade ne handaye jind ne",
+      "grammar": "This line uses a playful, idiomatic expression to emphasize the magnitude of change, with \"vehde\" and \"mahde\" serving as intensifiers to convey strong emotions. The sentence structure is informal and conversational, typical of spoken language in Hindi culture."
+    },
+    {
+      "time": 182.774,
+      "text": "Dil laalachan ch aake kade vikkeya nai",
+      "translation": "When did you come to my heart?",
+      "grammar": "The phrase \"laalachan\" is an idiomatic expression indicating the speaker's emotional state, equivalent to \"to my heart\". The verb \"ch aake\" is in the past tense, implying a completed action."
+    },
+    {
+      "time": 187.668,
+      "text": "Sab milna mukaddran da time naal ae",
+      "translation": "The time to meet everyone has come!",
+      "grammar": "This line uses the present perfect tense (sab milna) to indicate that a specific point in time has been reached, emphasizing the completion of an action. The phrase \"mukaddran da\" can be translated as \"everyone\", using the collective noun mukadr (people) with the definite article da."
+    },
+    {
+      "time": 192.561,
+      "text": "Sab milna mukaddran da time naal ae",
+      "translation": "The time to meet everyone has come!",
+      "grammar": "This line uses the present perfect tense (sab milna) to indicate that a specific moment in time has arrived, emphasizing the suddenness and finality of the event."
+    },
+    {
+      "time": 197.454,
+      "text": "Tu meet apne iraadeyan nu nek rehn de",
+      "translation": "Tu meet apne iraadeyan nu nek rehn de",
+      "grammar": "This line uses the informal second-person singular verb form \"meet\" to address the listener, and the phrase \"apne iraadeyan\" is an idiomatic expression meaning \"your own desires\"."
+    },
+    {
+      "time": 203.004,
+      "text": "Sek lain de, tu mainu sek lain de",
+      "translation": "One more day, you one more day",
+      "grammar": "This line uses the idiomatic expression \"sek lain de\" to convey a sense of resignation or acceptance, similar to saying \"oh well\" in English. The phrase is used to express a feeling of inevitability, implying that things will continue as they are for another day."
+    },
+    {
+      "time": 208.553,
+      "text": "Meri haar di ae agg mainu sek lain de x (2)",
+      "translation": "Meri haar di ae agg menuu sek lain de x (2)",
+      "grammar": "This line uses the informal imperative mood to convey a sense of urgency and familiarity, with the speaker directly addressing someone they are close to. The phrase \"mainu\" is an idiomatic way to say \"to me\" or \"with me\", emphasizing the intimacy of the situation."
+    },
+    {
+      "time": 216.071,
+      "text": "Dekh lain de, tu mainu dekh lain de",
+      "translation": "Let me see, you just look at me",
+      "grammar": "This line employs a common Hindi idiom \"dekh lain de\" which is an informal way of saying \"let me see\" or \"I'll take a look\". The verb \"dekh\" is in the present continuous tense, indicating the speaker's willingness to examine the situation."
+    },
+    {
+      "time": 221.62,
+      "text": "Kehde apne te ghair saare dekh lain de",
+      "translation": "Where should I look at everything beyond my reach?",
+      "grammar": "This sentence uses the informal imperative mood, with the verb \"dikh\" (to show) in its passive form \"dekha\" to convey a sense of politeness and humility. The phrase \"ghair saare\" is an idiomatic expression meaning \"everything beyond one's reach\"."
+    },
+    {
+      "time": 227.17,
+      "text": "Dekh lain de, tu mainu dekh lain de",
+      "translation": "Let me see, you just look at me",
+      "grammar": "This line employs a common Indian idiom \"dekh lain\" which means \"to let someone see\" or \"to allow someone to have a glimpse\". The verb \"dekh\" is in the imperative mood, used to make a polite request."
+    },
+    {
+      "time": 232.719,
+      "text": "Kehde apne te ghair saare.",
+      "translation": "Kehde apne te ghair saare.",
+      "grammar": "This line uses the idiomatic expression \"apne te\" to mean \"to someone else\", indicating a change in subjectivity from first person to third person, emphasizing that the speaker is no longer involved."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "language": "ru",
+  "title": "Танцуй",
+  "artist": "NЮ",
+  "slug": "n",
+  "track_length_seconds": 188,
+  "source": {
+    "provider": "musixmatch",
+    "track_id": 357678237,
+    "commontrack_id": 225716270,
+    "track_share_url": "https://www.musixmatch.com/lyrics/N%D0%AE/%D0%A2%D0%B0%D0%BD%D1%86%D1%83%D0%B9?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "track_edit_url": "https://www.musixmatch.com/lyrics/N%D0%AE/%D0%A2%D0%B0%D0%BD%D1%86%D1%83%D0%B9/edit?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "search_language": "ru",
+    "fetched_at": "2025-11-22T09:31:56.014167Z"
+  }
+}

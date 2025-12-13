@@ -1,0 +1,331 @@
+{
+  "id": "fr_formidable",
+  "title": "Formidable",
+  "artist": "Stromae",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_formidable.mp3",
+  "duration": 160,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Formidable, formidable",
+      "translation": "Fantastic, fantastic",
+      "grammar": "This repetition of \"formidable\" emphasizes its intensity and creates an idiomatic expression conveying strong enthusiasm or admiration."
+    },
+    {
+      "time": 1.213,
+      "text": "Tu étais formidable, j'étais fort minable",
+      "translation": "You were amazing, I was pretty pathetic",
+      "grammar": "The use of \"étais\" and \"étais\" in the original French sentence indicates a past perfect tense, describing an action that had been completed before another action in the past."
+    },
+    {
+      "time": 4.668,
+      "text": "Nous étions formidables",
+      "translation": "We were fantastic",
+      "grammar": "The use of the imperfect tense \"étions\" in \"Nous étions formidables\" emphasizes the ongoing nature of being fantastic, rather than a completed or habitual action. This construction is typical of French narrative past tenses and helps to create a sense of vividness and immediacy."
+    },
+    {
+      "time": 6.33,
+      "text": "Formidable",
+      "translation": "Tremendous",
+      "grammar": "The adjective \"formidable\" is used to describe something or someone that inspires awe, respect, or even fear. Note that this idiomatic expression conveys a strong positive emotion in English, similar to the French sense of \"formidable\"."
+    },
+    {
+      "time": 7.53,
+      "text": "Tu étais formidable, j'étais fort minable",
+      "translation": "You were amazing, I was pretty pathetic",
+      "grammar": "The use of the imperfect tense (étais) and the past definite tense (était) to describe a past event or state emphasizes the contrast between the speaker's and someone else's experiences."
+    },
+    {
+      "time": 10.985,
+      "text": "Nous étions formidables",
+      "translation": "We were fantastic",
+      "grammar": "The use of the imperfect tense \"étions\" in \"Nous étions formidables\" indicates a past continuous action, emphasizing the duration or progression of being fantastic during that time."
+    },
+    {
+      "time": 12.646,
+      "text": "Oh, bébé, oups, mademoiselle",
+      "translation": "Oh, baby, oops, miss",
+      "grammar": "This line uses the informal vocative \"bébé\" and \"mademoiselle\" to address someone in a playful manner. The interjection \"oups\" is an expression of surprise or embarrassment."
+    },
+    {
+      "time": 14.756,
+      "text": "J'vais pas vous draguer, promis juré",
+      "translation": "I'm not going to hit on you, I promise.",
+      "grammar": "The phrase \"J'vais\" is a colloquialism used to express future intention or obligation in informal settings, equivalent to saying \"I'm going to\" in English. The verb \"draguer\" has a idiomatic meaning of flirting or hitting on someone."
+    },
+    {
+      "time": 18.211,
+      "text": "J'suis célibataire, depuis hier, putain",
+      "translation": "I'm single, since yesterday, damn it!",
+      "grammar": "The phrase \"J'suis\" is a colloquialism used to emphasize the speaker's current situation, equivalent to saying \"I am\" in formal English. The use of \"putain\" (damn it) adds a touch of informal, conversational tone to the sentence."
+    },
+    {
+      "time": 21.218,
+      "text": "J'peux pas faire d'enfant et bon, c'est pas",
+      "translation": "I can't have children and well, it's not",
+      "grammar": "The phrase \"J'peux pas\" is an informal way of saying \"I don't want to\" or \"I'm unable to\", using the first person singular imperfect tense (imperfective aspect) to express a habitual or repeated inability."
+    },
+    {
+      "time": 26.466,
+      "text": "Hé, reviens, cinq minutes quoi, j't'ai pas insultée",
+      "translation": "Hey, come back, five minutes, what, I didn't insult you",
+      "grammar": "The phrase \"j't'ai\" is a casual, informal way of saying \"I haven't\" in the present perfect tense, often used in spoken French to convey a sense of familiarity or friendliness."
+    },
+    {
+      "time": 31.267,
+      "text": "J'suis poli, courtois, et un peu fort bourré",
+      "translation": "I'm polite, courteous, and a little bit drunk.",
+      "grammar": "The phrase \"un peu fort bourré\" is an idiomatic expression that uses the imperfective aspect to convey a temporary state of being slightly intoxicated. The adverb \"fort\" emphasizes the degree of drunkenness rather than its duration."
+    },
+    {
+      "time": 35.618,
+      "text": "Mais pour les mecs comme moi",
+      "translation": "But for guys like me",
+      "grammar": "The phrase \"pour les mecs comme moi\" is an idiomatic expression that translates to \"for guys like me\". The use of the indefinite article \"les\" (meaning \"some\") and the pronoun \"mecs\" (meaning \"guys\") creates a colloquial tone, implying a sense of solidarity with the speaker's peers."
+    },
+    {
+      "time": 38.625,
+      "text": "Vous avez autre chose à faire, hein",
+      "translation": "You have other things to do, right?",
+      "grammar": "The phrase \"hein\" is an informal way of seeking agreement or confirmation in French, similar to the English expression \"right?\" or \"okay?\", and is often used in casual conversations."
+    },
+    {
+      "time": 42.08,
+      "text": "M'auriez vu hier, j'étais",
+      "translation": "If you had seen me yesterday, I was",
+      "grammar": "The use of the pluperfect tense (j'étais) in the subordinate clause indicates a past time frame, while the main clause remains in the conditional mood (M'auriez vu), creating a hypothetical situation."
+    },
+    {
+      "time": 45.087,
+      "text": "Formidable, formidable",
+      "translation": "Fantastic, fantastic",
+      "grammar": "This repetition of \"formidable\" emphasizes its intensity and creates an idiomatic expression similar to saying \"absolutely fantastic\". The repeated adjective is used to convey strong enthusiasm."
+    },
+    {
+      "time": 46.3,
+      "text": "Tu étais formidable, j'étais fort minable",
+      "translation": "You were amazing, I was pretty pathetic",
+      "grammar": "The use of the imperfect tense (étais) and the past definite tense (était) creates a contrast between the speaker's past selves, emphasizing their differing abilities."
+    },
+    {
+      "time": 49.755,
+      "text": "Nous étions formidables",
+      "translation": "We were fantastic",
+      "grammar": "The use of the imperfect tense \"étions\" (were) in \"Nous étions formidables\" emphasizes a past state or condition, highlighting the intensity of being fantastic."
+    },
+    {
+      "time": 51.416,
+      "text": "Formidable",
+      "translation": "Tremendous",
+      "grammar": "The adjective \"formidable\" is used to describe something or someone that inspires awe or respect, often in an idiomatic sense."
+    },
+    {
+      "time": 52.616,
+      "text": "Tu étais formidable, j'étais fort minable",
+      "translation": "You were amazing, I was pretty pathetic",
+      "grammar": "The use of the imperfect tense (étais) and the past definite tense (étais) to describe a past event or state emphasizes the contrast between the two speakers' experiences."
+    },
+    {
+      "time": 56.071,
+      "text": "Nous étions formidables",
+      "translation": "We were fantastic",
+      "grammar": "The use of the imperfect tense \"étions\" in \"Nous étions formidables\" implies a past continuous or ongoing action, emphasizing the intensity and duration of being fantastic."
+    },
+    {
+      "time": 57.733,
+      "text": "Oh, tu t'es regardé? Tu t'crois beau",
+      "translation": "Oh, have you looked at yourself? You think you're handsome",
+      "grammar": "The phrase \"Tu t'...\" is an idiomatic construction in French, using the reflexive pronoun \"se\" to indicate self-reflection, rather than the literal translation of \"you look at yourself\". This construction is used to express a question about someone's self-perception."
+    },
+    {
+      "time": 62.085,
+      "text": "Parce que tu t'es marié? Mais c'est qu'un anneau",
+      "translation": "Because you got married? But it's just a ring.",
+      "grammar": "The phrase \"Parce que\" is an informal way to ask for reasons or explanations, equivalent to \"Why?\" in English. The sentence also uses the present perfect tense (\"tu t'es marié\") to emphasize the recent nature of the event."
+    },
+    {
+      "time": 67.782,
+      "text": "Mec, t'emballes pas",
+      "translation": "Dude, don't get carried away",
+      "grammar": "The phrase \"t'emballes\" is an informal way of saying \"you're getting too excited\" or \"you're overreacting\", using the reflexive pronoun \"te\" and the verb \"embrasser\" in the imperative mood. This idiomatic expression conveys a sense of caution or warning, similar to \"don't get too worked up\"."
+    },
+    {
+      "time": 69.891,
+      "text": "Elle va t'larguer comme elles le font chaque fois",
+      "translation": "She's going to dump you like they always do.",
+      "grammar": "The phrase \"va t'larguer\" is an idiomatic expression in the present continuous tense, implying a habitual or repeated action. The pronoun \"elles\" agrees with the implied subject \"elles\" (they) rather than \"elle\" (she), emphasizing the collective behavior of women in dumping men."
+    },
+    {
+      "time": 74.692,
+      "text": "Et puis l'autre fille, tu lui en as parlé?",
+      "translation": "And what about the other girl, did you talk to her about her?",
+      "grammar": "The phrase \"tu lui en as parlé\" is an informal way of asking if someone talked to someone else about something, using the imperfect tense to convey a sense of ongoing conversation. The pronoun \"lui\" agrees with the indirect object \"fille\"."
+    },
+    {
+      "time": 79.492,
+      "text": "S'tu veux, j'lui dis, comme ça, c'est réglé",
+      "translation": "If you want, I'll tell him, that way it's settled.",
+      "grammar": "This informal phrase uses the present tense to express a spontaneous decision, with \"s'\" being an idiomatic contraction of \"si tu veux\" (if you want). The sentence structure is flexible and conversational."
+    },
+    {
+      "time": 84.74,
+      "text": "Et au petit aussi, enfin si vous en avez",
+      "translation": "And to the little one too, if you have one.",
+      "grammar": "The phrase \"enfin si vous en avez\" is an idiomatic expression indicating a condition or exception, with \"enfin\" meaning \"finally\" and \"si vous en avez\" translating to \"if you have one\", implying that having something (in this case, a child) is the prerequisite for doing something."
+    },
+    {
+      "time": 89.092,
+      "text": "Attends trois ans, sept ans et là, vous verrez si c'est",
+      "translation": "Wait three years, seven years, and then you'll see if it's",
+      "grammar": "This idiomatic expression uses the present tense to describe a future event, creating a sense of uncertainty. The phrase \"vous verrez\" is an informal way of saying \"you will see\"."
+    },
+    {
+      "time": 94.789,
+      "text": "Formidable, formidable",
+      "translation": "Fantastic, fantastic",
+      "grammar": "This repetition of \"formidable\" emphasizes its intensity and creates an idiomatic expression similar to \"absolutely amazing\". The adjective agrees with the subject in number and gender."
+    },
+    {
+      "time": 96.002,
+      "text": "Tu étais formidable, j'étais fort minable",
+      "translation": "You were amazing, I was pretty pathetic",
+      "grammar": "This line uses the passé composé tense to describe past events, with tu étais and j'étais indicating the speaker's contrasting experiences. The phrase \"fort minable\" is an idiomatic expression meaning \"pretty pathetic\"."
+    },
+    {
+      "time": 99.457,
+      "text": "Nous étions formidables",
+      "translation": "We were fantastic",
+      "grammar": "The past perfect tense \"étions\" indicates a completed action in the past before another action, emphasizing the intensity of being \"formidables\"."
+    },
+    {
+      "time": 101.119,
+      "text": "Formidable",
+      "translation": "Tremendous",
+      "grammar": "In English, \"formidable\" is an adjective used to describe something or someone that inspires awe or respect, often with a sense of intimidation. It can be used in various tenses and contexts to convey this meaning."
+    },
+    {
+      "time": 102.319,
+      "text": "Tu étais formidable, j'étais fort minable",
+      "translation": "You were amazing, I was pretty pathetic",
+      "grammar": "The use of \"étais\" and \"étais\" in the original French sentence indicates the past perfect tense, emphasizing the speaker's contrasting states at a specific point in the past."
+    },
+    {
+      "time": 105.774,
+      "text": "Nous étions formidables",
+      "translation": "We were fantastic",
+      "grammar": "The use of the imperfect tense \"étions\" indicates a past continuous or ongoing action, emphasizing the duration and intensity of being \"formidables\"."
+    },
+    {
+      "time": 107.435,
+      "text": "Hé petite, oh pardon, petit",
+      "translation": "Hey little one, oh sorry, little one",
+      "grammar": "The use of \"petite\" and then \"petit\" is an example of a colloquialism in French, where the feminine form \"petite\" is used to address a young girl or woman, while the masculine form \"petit\" is used for a boy. This is an informal way to show affection and friendliness."
+    },
+    {
+      "time": 109.994,
+      "text": "Tu sais dans la vie, y a ni méchants ni gentils",
+      "translation": "You know, in life, there are neither good guys nor bad guys.",
+      "grammar": "This idiomatic expression uses the present tense to convey a general truth about human nature, rather than describing a specific situation. The phrase \"ni... ni\" is an example of a negation idiom, emphasizing the absence of extremes."
+    },
+    {
+      "time": 115.242,
+      "text": "Si maman est chiante",
+      "translation": "If mom is annoying",
+      "grammar": "This idiomatic expression uses the present tense to describe a habitual or general situation, rather than a specific event. The phrase \"est chiante\" literally means \"is annoying\", but in this context it's an informal way to say that someone has a tendency to be annoying."
+    },
+    {
+      "time": 117.352,
+      "text": "C'est qu'elle a peur d'être mamie",
+      "translation": "It's because she's afraid of becoming a grandma.",
+      "grammar": "This idiomatic expression uses the present tense to describe a hypothetical future situation, creating a sense of immediacy and emphasizing the speaker's emotional response. The phrase \"c'est qu'\" is an informal way to introduce a reason or explanation."
+    },
+    {
+      "time": 121.704,
+      "text": "Si papa trompe maman",
+      "translation": "If Dad cheats on Mom",
+      "grammar": "This idiomatic expression uses the present tense to convey a general truth or habit, rather than a specific event. The phrase \"tromper\" means to cheat or deceive someone in a romantic relationship."
+    },
+    {
+      "time": 123.814,
+      "text": "C'est parce que maman vieillit, tiens",
+      "translation": "It's because Mom is getting old, you know",
+      "grammar": "The phrase \"tiens\" is an informal way to say \"you know\" or \"right?\", used to seek agreement or confirmation from the listener."
+    },
+    {
+      "time": 127.269,
+      "text": "Pourquoi t'es tout rouge? Ben reviens gamin",
+      "translation": "Why are you all red? Come back, kid.",
+      "grammar": "The phrase \"t'es\" is an informal second-person singular subject pronoun in the present tense, used to address a friend or someone familiar."
+    },
+    {
+      "time": 131.172,
+      "text": "Et qu'est-ce que vous avez tous",
+      "translation": "And what do you all have?",
+      "grammar": "The phrase \"tous\" is an idiomatic expression meaning \"all together\" or \"collectively\", rather than the literal \"each one\"."
+    },
+    {
+      "time": 135.076,
+      "text": "À me regarder comme un singe, vous?",
+      "translation": "Are you looking at me like I'm a monkey?",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of surprise or incredulity, with \"regarder\" implying a prolonged or intense gaze. The phrase \"comme un singe\" is an informal way to describe someone's behavior as silly or absurd."
+    },
+    {
+      "time": 138.531,
+      "text": "Ah oui, vous êtes saints, vous",
+      "translation": "Ah yes, you are saints, you",
+      "grammar": "The phrase \"vous êtes\" is a formal way of saying \"you are\" in French, used to show respect or politeness."
+    },
+    {
+      "time": 141.537,
+      "text": "Bande de macaques",
+      "translation": "Bunch of macaques",
+      "grammar": "This idiomatic expression uses the noun phrase \"bande\" (meaning \"group\" or \"gang\") to create a figurative description, rather than literally referring to primates. The phrase is often used in informal settings to describe a group of people behaving in a mischievous or chaotic manner."
+    },
+    {
+      "time": 143.199,
+      "text": "Donnez-moi un bébé singe, il sera",
+      "translation": "Give me a baby monkey, it will be",
+      "grammar": "The use of \"il sera\" (it will be) implies a future intention or promise, rather than a prediction or certainty. This is an example of the subjunctive mood used to express a wish or desire."
+    },
+    {
+      "time": 146.654,
+      "text": "Formidable, formidable",
+      "translation": "Fantastic, fantastic",
+      "grammar": "This idiomatic expression uses the adjective \"formidable\" to convey strong enthusiasm or admiration, rather than its literal meaning of intimidatingly powerful. The repetition emphasizes the speaker's intense emotions."
+    },
+    {
+      "time": 147.867,
+      "text": "Tu étais formidable, j'étais fort minable",
+      "translation": "You were amazing, I was pretty pathetic",
+      "grammar": "The use of the imperfect tense (étais) and passé composé (était) in this sentence is typical of French narrative style, where speakers often describe past events using a mix of tenses to create a sense of intimacy and immediacy."
+    },
+    {
+      "time": 151.322,
+      "text": "Nous étions formidables",
+      "translation": "We were fantastic",
+      "grammar": "The phrase \"nous étions\" is in the imperfect tense, used to describe a past action that was ongoing or repeated. The idiom \"formidables\" means extremely good or impressive."
+    },
+    {
+      "time": 152.983,
+      "text": "Formidable",
+      "translation": "Tremendous",
+      "grammar": "The adjective \"formidable\" is used to describe something or someone that inspires awe, respect, or even fear. In this context, it expresses a strong positive emotion similar to the English idiom \"impressive\"."
+    },
+    {
+      "time": 154.183,
+      "text": "Tu étais formidable, j'étais fort minable",
+      "translation": "You were amazing, I was pretty pathetic",
+      "grammar": "The use of the imperfect tense (étais) and the past definite tense (étais) to describe a past event or state emphasizes the contrast between the speaker's and someone else's experiences."
+    },
+    {
+      "time": 157.638,
+      "text": "Nous étions formidables",
+      "translation": "We were fantastic",
+      "grammar": "The use of the imperfect tense \"étions\" in \"Nous étions formidables\" emphasizes the ongoing nature of being fantastic, rather than a single momentary quality. This construction is typical of French narrative past tenses, where the imperfect indicates a prolonged state or action."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "language": "fr",
+  "title": "LA NUIT",
+  "artist": "Pomme",
+  "slug": "la-nuit-pomme",
+  "track_length_seconds": 192,
+  "source": {
+    "provider": "musixmatch",
+    "track_id": 335537573,
+    "commontrack_id": 207996139,
+    "track_share_url": "https://www.musixmatch.com/lyrics/Pomme-2/LA-NUIT?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "track_edit_url": "https://www.musixmatch.com/lyrics/Pomme-2/LA-NUIT/edit?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "search_language": "fr",
+    "fetched_at": "2025-11-21T10:59:12.976394Z"
+  }
+}

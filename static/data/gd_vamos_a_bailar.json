@@ -1,0 +1,349 @@
+{
+  "id": "gd_vamos_a_bailar",
+  "title": "Vamos A Bailar",
+  "artist": "Gipsy Kings",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/gd_vamos_a_bailar.mp3",
+  "duration": 309,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Regálame",
+      "translation": "Give me",
+      "grammar": "This phrase is an imperative sentence in the present tense, used to make a polite request. The verb \"regalar\" is in the formal form, indicating that it's being addressed to someone of higher social status or authority."
+    },
+    {
+      "time": 1.555,
+      "text": "Tu viente años",
+      "translation": "Your twentieth year",
+      "grammar": "The phrase \"tu viento\" is an idiomatic expression that uses the possessive adjective \"tu\" to indicate a person's age, rather than their actual wind. This construction is common in Spanish to express a person's age or stage of life."
+    },
+    {
+      "time": 5.621,
+      "text": "Regálame",
+      "translation": "Give me",
+      "grammar": "This phrase uses the formal command form \"regálame\" to express a polite request, equivalent to saying \"please give me\"."
+    },
+    {
+      "time": 7.177,
+      "text": "Sin saber por qué",
+      "translation": "Without knowing why",
+      "grammar": "This idiomatic phrase uses the present subjunctive mood to express a hypothetical or uncertain situation, implying that the speaker is unsure about the reason. The phrase \"sin saber\" is an idiomatic expression meaning \"without knowing\"."
+    },
+    {
+      "time": 12.498,
+      "text": "Considere",
+      "translation": "Consider",
+      "grammar": "This verb is in the imperative mood, used to give a command or make a request. It is often translated as \"Consider\" but can also be used to advise or suggest something."
+    },
+    {
+      "time": 14.054,
+      "text": "Ya un amor sincero",
+      "translation": "Already a sincere love",
+      "grammar": "The phrase \"Ya un amor sincero\" is in the present perfect tense, indicating that the speaker has already experienced a sincere love. The word \"ya\" is an adverb meaning \"already\" or \"by now\"."
+    },
+    {
+      "time": 19.375,
+      "text": "De aquel amor",
+      "translation": "Of that love",
+      "grammar": "The phrase \"De aquel amor\" is an idiomatic expression indicating a past experience or memory, with \"aquel\" being a demonstrative adjective in the masculine singular form agreeing with \"amor\"."
+    },
+    {
+      "time": 23.441,
+      "text": "Tanto yo busqué",
+      "translation": "I searched so much",
+      "grammar": "This idiomatic expression uses the present perfect tense to convey a sense of completion, emphasizing the extent of one's search. The phrase \"tanto\" is an intensifier meaning \"so\" or \"to such an extent\"."
+    },
+    {
+      "time": 27.507,
+      "text": "Considere",
+      "translation": "Consider",
+      "grammar": "This imperative verb \"Considere\" is in the second person singular, instructing the listener to consider something."
+    },
+    {
+      "time": 29.063,
+      "text": "Ay, si tu me quieres",
+      "translation": "Oh, if you love me",
+      "grammar": "The phrase \"Ay\" is an interjection used to express strong emotions or emphasis, similar to \"oh\" in English. The sentence then shifts to the conditional tense (\"si\") to convey a hypothetical situation."
+    },
+    {
+      "time": 35.639,
+      "text": "Ay, dímelo",
+      "translation": "Oh, tell me",
+      "grammar": "This interjection \"Ay\" is an informal way to express strong emotions or emphasis in Spanish, often used to seek attention or convey urgency. The verb \"dímelo\" is in the imperative mood, making it a command to someone."
+    },
+    {
+      "time": 38.45,
+      "text": "Dígamelo ya",
+      "translation": "Tell me now",
+      "grammar": "This imperative sentence uses the present tense to convey a sense of urgency, with \"ya\" emphasizing the need for immediate action."
+    },
+    {
+      "time": 41.261,
+      "text": "Niña bonita",
+      "translation": "Pretty girl",
+      "grammar": "This phrase is an idiomatic expression used to address a young woman, equivalent to saying \"pretty girl\" in English. The use of \"niña\" (girl) instead of \"chica\" (young woman) emphasizes the speaker's affection and admiration for her."
+    },
+    {
+      "time": 44.072,
+      "text": "Ay, si tu me quieres",
+      "translation": "Oh, if you love me",
+      "grammar": "The phrase \"Ay\" is an interjection used to express strong emotions or emphasis, often translated as \"oh\". The sentence \"Si tu me quieres\" is in the conditional tense, implying a hypothetical situation."
+    },
+    {
+      "time": 50.648,
+      "text": "Como yo",
+      "translation": "Like me",
+      "grammar": "This phrase uses the idiomatic expression \"como\" to indicate similarity or analogy, rather than its literal meaning of \"as if\". It is often used in informal contexts to express solidarity or shared experience."
+    },
+    {
+      "time": 53.459,
+      "text": "Yo te quiero a ti",
+      "translation": "I love you",
+      "grammar": "This phrase uses the informal \"you\" (tú) and the verb \"querer\" in the present tense, conveying strong affection. The phrase \"a ti\" is an idiomatic expression meaning \"to you specifically\"."
+    },
+    {
+      "time": 60.036,
+      "text": "Vamos a bailar",
+      "translation": "Let's dance",
+      "grammar": "This phrase uses the present tense of the verb \"ir\" (to go) in the first person plural, indicating an invitation or suggestion to do something together. The idiomatic expression \"vamos a\" is equivalent to \"let's\" in English, implying shared action and consent."
+    },
+    {
+      "time": 64.102,
+      "text": "Vamos a cantar",
+      "translation": "Let's sing",
+      "grammar": "The phrase \"Vamos a\" is an idiomatic expression used to express willingness or intention, equivalent to \"Let's\" in English. It indicates the speaker's mood is imperative (commanding) and future tense."
+    },
+    {
+      "time": 68.168,
+      "text": "Vamos a bailar",
+      "translation": "Let's dance",
+      "grammar": "The phrase \"Vamos a\" is an idiomatic expression used to express willingness or intention, equivalent to \"Let's\" in English."
+    },
+    {
+      "time": 72.234,
+      "text": "Este ritmo que tocamos",
+      "translation": "This rhythm we play",
+      "grammar": "The phrase \"Este ritmo\" is in the present tense, indicating a habitual or general truth about the speaker's activity. The use of \"este\" instead of \"el\" agrees with the masculine noun \"ritmo\" because it refers to a specific, familiar rhythm."
+    },
+    {
+      "time": 77.556,
+      "text": "Considere",
+      "translation": "Consider",
+      "grammar": "This verb is in the imperative mood, used to give a command or make a request. Note that it is often translated as \"Consider\" but its usage and tone may vary depending on the context."
+    },
+    {
+      "time": 79.111,
+      "text": "Ya un amor sincero",
+      "translation": "Already a sincere love",
+      "grammar": "The phrase \"Ya\" is an informal way to indicate that something has started or begun, often translated as \"already\" or \"now\". It's used to express the idea that a situation or feeling has become a reality."
+    },
+    {
+      "time": 84.433,
+      "text": "De aquel amor",
+      "translation": "Of that love",
+      "grammar": "This phrase uses the preposition \"de\" to indicate a possessive relationship, equivalent to \"of\" in English. Note that this construction is similar to saying \"from that love\" or \"about that love\"."
+    },
+    {
+      "time": 88.499,
+      "text": "Tanto yo busqué",
+      "translation": "I searched so much",
+      "grammar": "This phrase uses the informal first-person singular pronoun \"yo\" and the adverb \"tanto\" to convey a sense of emphasis, equivalent to \"so much\" or \"to such an extent\". The verb \"busqué\" is in the preterite tense, indicating completed action."
+    },
+    {
+      "time": 92.565,
+      "text": "Corre da ti",
+      "translation": "Run, give it to me",
+      "grammar": "This line illustrates the use of the imperative mood in Spanish, where the verb \"corre\" (run) is used to issue a command. The phrase \"da ti\" is an idiomatic expression meaning \"give it to me\"."
+    },
+    {
+      "time": 96.631,
+      "text": "Ay, yo soy sincero",
+      "translation": "Oh, I'm being honest.",
+      "grammar": "The phrase \"Ay, yo\" is an idiomatic expression used to emphasize sincerity or authenticity, often translated as \"oh, I'm telling the truth\" or \"I swear\". The verb \"soy\" is in the present continuous tense, indicating a state of being that is ongoing."
+    },
+    {
+      "time": 101.952,
+      "text": "Ay, de este amor",
+      "translation": "Alas, this love",
+      "grammar": "The phrase \"Ay\" is an interjection used to express strong emotions or surprise, often translated as \"alas\" or \"oh no\". The sentence is in the present tense, with a sense of urgency and longing."
+    },
+    {
+      "time": 107.274,
+      "text": "Tanto yo busqué",
+      "translation": "I searched so much",
+      "grammar": "This idiomatic expression uses the verb \"busqué\" in the preterite tense to convey a sense of completion or emphasis, similar to \"I looked everywhere\" or \"I searched high and low\". The phrase \"tanto yo\" is an intensifier, emphasizing the extent of the searching."
+    },
+    {
+      "time": 111.34,
+      "text": "Vamos a bailar",
+      "translation": "Let's dance",
+      "grammar": "This phrase uses the present tense of the verb \"ir\" (to go) in the imperative mood, inviting someone to join in an action. The idiom \"vamos a\" is equivalent to \"let's\" in English, indicating a shared intention or plan."
+    },
+    {
+      "time": 115.406,
+      "text": "Vamos a cantar",
+      "translation": "Let's sing",
+      "grammar": "The phrase \"Vamos a\" is an idiomatic expression used to express willingness or intention, equivalent to \"Let's\" in English. It is often translated as \"Let's\" and implies the speaker's involvement in the action that follows."
+    },
+    {
+      "time": 119.472,
+      "text": "Vamos a bailar",
+      "translation": "Let's dance",
+      "grammar": "This phrase uses the present tense of the verb \"ir\" (to go) in the first person plural, indicating an invitation or suggestion to take action. The idiom \"vamos a\" is equivalent to \"let's\" in English, expressing shared intention or agreement."
+    },
+    {
+      "time": 123.538,
+      "text": "Este ritmo que tocamos",
+      "translation": "This rhythm we play",
+      "grammar": "The verb \"tocamos\" is in the present tense, indicating a habitual or general truth about the speaker's activity. The phrase \"Este ritmo\" functions as an idiomatic expression equivalent to \"this kind of music\"."
+    },
+    {
+      "time": 128.86,
+      "text": "Lai lai lai lai lai lai lai",
+      "translation": "Lai lai lai lai lai lai lai",
+      "grammar": "This line is an example of onomatopoeia, a figure of speech that imitates the sound it describes. The repeated \"lai\" is meant to mimic the sound of someone laughing or expressing joy, and its use does not follow traditional grammatical rules."
+    },
+    {
+      "time": 137.947,
+      "text": "Lai lai lai lai lai lai lai",
+      "translation": "Lai lai lai lai lai lai lai",
+      "grammar": "This line is an example of onomatopoeia, a figure of speech that imitates the sound it describes. The repeated \"lai\" sounds mimic the noise of someone laughing or having fun, conveying joy and playfulness."
+    },
+    {
+      "time": 147.035,
+      "text": "Lai lai lai lai lai lai lai",
+      "translation": "Lai lai lai lai lai lai lai",
+      "grammar": "This line is an example of onomatopoeia, a figure of speech that imitates the sound it describes. The repetition of \"lai\" creates a sense of rhythm and emphasizes the speaker's emotional expression."
+    },
+    {
+      "time": 156.122,
+      "text": "Lai lai lai lai lai lai lai",
+      "translation": "Lai lai lai lai lai lai lai",
+      "grammar": "This line is an example of onomatopoeia, a figure of speech that imitates the sound it describes. The repeated \"lai\" sounds mimic the noise of someone laughing or having fun, conveying joy and playfulness."
+    },
+    {
+      "time": 165.21,
+      "text": "Vamos a bailar",
+      "translation": "Let's dance",
+      "grammar": "The phrase \"Vamos a\" is an informal way to express the future tense and mood, equivalent to \"Let's\" in English, inviting someone to join in. The verb \"bailar\" agrees with the subject pronoun \"nosotros/as\" (we) in number and person."
+    },
+    {
+      "time": 169.276,
+      "text": "Vamos a cantar",
+      "translation": "Let's sing",
+      "grammar": "This phrase uses the present tense of the verb \"ir\" (to go) to express a suggestion or invitation, which is a common idiom in Spanish. The pronoun \"a\" indicates direction towards singing."
+    },
+    {
+      "time": 173.342,
+      "text": "Vamos a bailar",
+      "translation": "Let's dance",
+      "grammar": "This phrase uses the present tense and the first person plural pronoun \"vamos\" to express a suggestion or invitation, equivalent to \"let's\" in English. The verb \"bailar\" is in the infinitive form, indicating the action being proposed."
+    },
+    {
+      "time": 177.408,
+      "text": "Este ritmo que tocamos",
+      "translation": "This rhythm we play",
+      "grammar": "The verb \"tocamos\" is in the present tense, indicating a habitual or general truth about the speaker's action. The phrase \"Este ritmo\" is an idiomatic expression meaning \"this kind of music\"."
+    },
+    {
+      "time": 182.73,
+      "text": "Vamos a bailar",
+      "translation": "Let's dance",
+      "grammar": "This phrase uses the present tense of the verb \"ir\" (to go) in the first person plural, indicating an invitation or suggestion to take action. The idiom \"vamos a\" is equivalent to \"let's\" in English, expressing shared intention."
+    },
+    {
+      "time": 186.796,
+      "text": "Vamos a cantar",
+      "translation": "Let's sing",
+      "grammar": "The phrase \"Vamos a\" is an idiomatic expression used to express willingness or intention, equivalent to \"Let's\" in English. It is often translated as \"Let's\" and indicates the speaker's involvement in the action that follows."
+    },
+    {
+      "time": 190.862,
+      "text": "Vamos a bailar",
+      "translation": "Let's dance",
+      "grammar": "The phrase \"Vamos a\" is an informal way to express the future tense and first person plural, equivalent to \"let's\" in English."
+    },
+    {
+      "time": 194.928,
+      "text": "Este ritmo que tocamos",
+      "translation": "This rhythm we play",
+      "grammar": "The verb \"tocamos\" is in the present tense, indicating a habitual or general truth about the speaker's activity. The phrase \"que tocamos\" can be translated as \"which we play\" rather than \"that we play\", highlighting the idiomatic use of \"que\" to indicate an action or state rather than a specific thing."
+    },
+    {
+      "time": 200.249,
+      "text": "Lai lai lai lai lai lai lai",
+      "translation": "Lai lai lai lai lai lai lai",
+      "grammar": "This is an example of onomatopoeia, a figure of speech that imitates the sound it describes. The repeated \"lai\" sounds mimic the noise of laughter or celebration, conveying joy and excitement."
+    },
+    {
+      "time": 209.337,
+      "text": "Lai lai lai lai lai lai lai",
+      "translation": "Lai lai lai lai lai lai lai",
+      "grammar": "This line is an example of onomatopoeia, a figure of speech that imitates the sound it describes. The repetition of \"lai\" creates a sense of rhythm and emphasizes the speaker's emotional expression."
+    },
+    {
+      "time": 218.424,
+      "text": "Lai lai lai lai lai lai lai",
+      "translation": "Lai lai lai lai lai lai lai",
+      "grammar": "This line is an example of onomatopoeia, a figure of speech that imitates the sound it describes. The repeated \"lai\" sounds mimic the noise of someone laughing or having fun."
+    },
+    {
+      "time": 227.512,
+      "text": "Lai lai lai lai lai lai lai",
+      "translation": "Lai lai lai lai lai lai lai",
+      "grammar": "This line is an example of onomatopoeia, a linguistic device that imitates the sound it describes. The repetition of \"lai\" creates a sense of rhythm and emphasizes the speaker's emotional expression."
+    },
+    {
+      "time": 236.6,
+      "text": "Lai lai lai lai lai lai lai",
+      "translation": "Lai lai lai lai lai lai lai",
+      "grammar": "This line is an example of onomatopoeia, a figure of speech that imitates the sound it describes. The repetition of \"lai\" creates a rhythmic effect, emphasizing the joyful and playful tone of the lyrics."
+    },
+    {
+      "time": 245.687,
+      "text": "Lai lai lai lai lai lai lai",
+      "translation": "Lai lai lai lai lai lai lai",
+      "grammar": "This line is an example of onomatopoeia, a figure of speech that imitates the sound it describes. The repeated \"lai\" sounds mimic the noise of laughter or celebration."
+    },
+    {
+      "time": 254.775,
+      "text": "Lai lai lai lai lai lai lai",
+      "translation": "Lai lai lai lai lai lai lai",
+      "grammar": "This line is an example of onomatopoeia, a figure of speech that imitates the sound it describes. The repeated \"lai\" sounds mimic the noise of someone laughing or cheering, conveying joy and excitement."
+    },
+    {
+      "time": 263.862,
+      "text": "Lai lai lai lai lai lai lai",
+      "translation": "Lai lai lai lai lai lai lai",
+      "grammar": "This is an example of onomatopoeia, a figure of speech that imitates the sound it describes. The repeated \"lai\" is used to convey the rhythm and musicality of the original phrase in Spanish."
+    },
+    {
+      "time": 272.95,
+      "text": "Lai lai lai lai lai lai lai",
+      "translation": "Lai lai lai lai lai lai lai",
+      "grammar": "This line is an example of onomatopoeia, a figure of speech that imitates the sound it describes. The repeated \"lai\" sounds mimic the noise of a child's playful laughter or a joyful shout, conveying the speaker's enthusiasm and excitement."
+    },
+    {
+      "time": 282.037,
+      "text": "Lai lai lai lai lai lai lai",
+      "translation": "Lai lai lai lai lai lai lai",
+      "grammar": "This is an example of a repetitive phrase used to convey excitement or emphasis, often translated as \"lai\" in English. The repeated \"lai\"s function as an interjection, adding emotional intensity to the utterance without conveying specific information about tense or aspect."
+    },
+    {
+      "time": 291.125,
+      "text": "Lai lai lai lai lai lai lai",
+      "translation": "Lai lai lai lai lai lai lai",
+      "grammar": "This line is an example of onomatopoeia, a linguistic device that imitates the sound it describes. The repetition of \"lai\" creates a sense of rhythm and emphasizes the speaker's emotional expression."
+    },
+    {
+      "time": 300.212,
+      "text": "Lai lai lai lai lai lai lai",
+      "translation": "Lai lai lai lai lai lai lai",
+      "grammar": "This interjection \"lai\" is an onomatopoeic expression, mimicking the sound of a child's laughter or playful chanting, often used to express joy and excitement. Its repetition emphasizes the speaker's enthusiasm and playfulness."
+    }
+  ]
+}

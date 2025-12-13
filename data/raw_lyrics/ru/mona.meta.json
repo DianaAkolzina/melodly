@@ -1,0 +1,16 @@
+{
+  "language": "ru",
+  "title": "Иордан",
+  "artist": "Mona",
+  "slug": "mona",
+  "track_length_seconds": 126,
+  "source": {
+    "provider": "musixmatch",
+    "track_id": 307396554,
+    "commontrack_id": 188884676,
+    "track_share_url": "https://www.musixmatch.com/lyrics/MONA-51/%D0%98%D0%BE%D1%80%D0%B4%D0%B0%D0%BD?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "track_edit_url": "https://www.musixmatch.com/lyrics/MONA-51/%D0%98%D0%BE%D1%80%D0%B4%D0%B0%D0%BD/edit?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "search_language": "ru",
+    "fetched_at": "2025-11-27T14:52:48.647607Z"
+  }
+}

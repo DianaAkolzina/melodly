@@ -1,0 +1,205 @@
+{
+  "id": "fr_tous_les_mmes",
+  "title": "Tous les mêmes",
+  "artist": "Stromae",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_tous_les_mmes.mp3",
+  "duration": 96,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Vous les hommes vous êtes tous les mêmes",
+      "translation": "You're all the same men",
+      "grammar": "The phrase 'vous êtes' is a formal way of saying 'you are', used to address multiple people or someone you don't know well."
+    },
+    {
+      "time": 3.0,
+      "text": "Macho mais cheap, bande de mauviettes infidèles",
+      "translation": "Macho but cheap, gang of unfaithful little scoundrels",
+      "grammar": "The phrase 'bande de' is an idiomatic expression meaning 'gang of', and 'mauviettes' is a colloquial term for young people or kids."
+    },
+    {
+      "time": 6.0,
+      "text": "Si prévisibles, non je ne suis pas certaine, que-que-que tu l'mérites",
+      "translation": "So predictable, but I'm not sure if you deserve it",
+      "grammar": "The phrase 'si prévisibles' is an adverbial clause meaning 'if they're so predictable', and the sentence structure is complex with multiple clauses."
+    },
+    {
+      "time": 9.0,
+      "text": "Z'avez d'la chance qu'on vous aime",
+      "translation": "You have the luck that someone loves you",
+      "grammar": "The phrase 'z'avez' is a colloquial way of saying 'you have', and 'd'la chance' means 'of good luck'."
+    },
+    {
+      "time": 12.0,
+      "text": "Dis-moi \"merci\"",
+      "translation": "Tell me 'thank you'",
+      "grammar": "The quotation marks around 'merci' indicate that the speaker is quoting someone else's words."
+    },
+    {
+      "time": 15.0,
+      "text": "Rendez-vous, rendez-vous, rendez-vous au prochain règlement",
+      "translation": "Meet again, meet again, meet again at the next regulation",
+      "grammar": "The phrase 'rendez-vous' means 'meet again', and the repetition emphasizes the idea of meeting repeatedly."
+    },
+    {
+      "time": 18.0,
+      "text": "Rendez-vous, rendez-vous, rendez-vous sûrement aux prochaines règles",
+      "translation": "Meet again, meet again, meet again surely at the next rules",
+      "grammar": "The phrase 'sûrement' means 'surely', and the sentence structure is repetitive with multiple instances of 'rendez-vous'."
+    },
+    {
+      "time": 21.0,
+      "text": "Cette fois c'était la dernière, tu peux croire que c'est qu'une crise",
+      "translation": "This time it was the last one, you can believe it's just a crisis",
+      "grammar": "The phrase 'cette fois' means 'this time', and the sentence structure is complex with multiple clauses."
+    },
+    {
+      "time": 24.0,
+      "text": "Mate une dernière fois mon derrière, il est à côté de mes valises",
+      "translation": "Give me one last look at my behind, it's next to my suitcases",
+      "grammar": "The phrase 'mate' means 'give me a', and the sentence structure is informal with colloquial expressions."
+    },
+    {
+      "time": 27.0,
+      "text": "Tu diras au revoir à ta mère, elle qui t'idéalise",
+      "translation": "You'll say goodbye to your mother, who idealizes you",
+      "grammar": "The phrase 'tu diras' means 'you will say', and the sentence structure is complex with multiple clauses."
+    },
+    {
+      "time": 30.0,
+      "text": "Tu n'vois même pas tout c'que tu perds avec une autre ce serait pire",
+      "translation": "You don't even see all that you're losing with someone else, it would be worse",
+      "grammar": "The phrase 'n'vois' means 'don't see', and the sentence structure is complex with multiple clauses."
+    },
+    {
+      "time": 33.0,
+      "text": "Quoi toi aussi tu veux finir maintenant? C'est l'monde à l'envers",
+      "translation": "What, do you also want to finish now? It's like the world is upside down",
+      "grammar": "The phrase 'quoi' means 'what', and the sentence structure is complex with multiple clauses."
+    },
+    {
+      "time": 36.0,
+      "text": "Moi, je l'disais pour t'faire réagir seulement, toi t'y pensais",
+      "translation": "I was saying it to make you react only, but you were thinking about it",
+      "grammar": "The phrase 'moi, je l'disais' means 'I was saying it', and the sentence structure is complex with multiple clauses."
+    },
+    {
+      "time": 39.0,
+      "text": "Rendez-vous, rendez-vous, rendez-vous au prochain règlement",
+      "translation": "Meet again, meet again, meet again at the next regulation",
+      "grammar": "The phrase 'rendez-vous' means 'meet again', and the repetition emphasizes the idea of meeting repeatedly."
+    },
+    {
+      "time": 42.0,
+      "text": "Rendez-vous, rendez-vous, rendez-vous sûrement aux prochaines règles",
+      "translation": "Meet again, meet again, meet again surely at the next rules",
+      "grammar": "The phrase 'sûrement' means 'surely', and the sentence structure is repetitive with multiple instances of 'rendez-vous'."
+    },
+    {
+      "time": 45.0,
+      "text": "Facile à dire, je suis gnangnan",
+      "translation": "Easy to say, I'm a nag",
+      "grammar": "The phrase 'facile à dire' means 'easy to say', and the sentence structure is informal with colloquial expressions."
+    },
+    {
+      "time": 48.0,
+      "text": "Et que j'aime trop les bla-bla-bla, mais non, non, non, c'est important",
+      "translation": "And I love talking too much, but no, no, no, it's important",
+      "grammar": "The phrase 'bla-bla-bla' is an idiomatic expression meaning 'idle chatter', and the sentence structure is complex with multiple clauses."
+    },
+    {
+      "time": 51.0,
+      "text": "Ce que t'appelles les ragnagnas, tu sais la vie, c'est des enfants",
+      "translation": "What you call the nagging, you know life is like children",
+      "grammar": "The phrase 'ce que' means 'what', and the sentence structure is complex with multiple clauses."
+    },
+    {
+      "time": 54.0,
+      "text": "Mais comme toujours, c'est pas l'bon moment",
+      "translation": "But as always, it's not a good time",
+      "grammar": "The phrase 'c'est pas' means 'it's not', and the sentence structure is informal with colloquial expressions."
+    },
+    {
+      "time": 57.0,
+      "text": "Ah oui pour les faire là, tu es présent, mais pour les élever y aura qu'des absents",
+      "translation": "Ah yes, for making them there, you're present, but for raising them, there will only be absentees",
+      "grammar": "The phrase 'ah oui' means 'ah yes', and the sentence structure is complex with multiple clauses."
+    },
+    {
+      "time": 60.0,
+      "text": "Lorsque je n'serais plus belle ou du moins au naturel",
+      "translation": "When I'm no longer beautiful or at least natural",
+      "grammar": "The phrase 'n'serais' means 'won't be', and the sentence structure is complex with multiple clauses."
+    },
+    {
+      "time": 63.0,
+      "text": "Arrête je sais que tu mens, il n'y a que Kate Moss qui est éternelle",
+      "translation": "Stop, I know you're lying, only Kate Moss is eternal",
+      "grammar": "The phrase 'arrête' means 'stop', and the sentence structure is informal with colloquial expressions."
+    },
+    {
+      "time": 66.0,
+      "text": "Moche ou bête (c'est jamais bon)",
+      "translation": "Ugly or beastly (it's never good)",
+      "grammar": "The phrase '(c'est jamais)' means 'it's never', and the sentence structure is informal with colloquial expressions."
+    },
+    {
+      "time": 69.0,
+      "text": "Bête ou belle (c'est jamais bon)",
+      "translation": "Beastly or beautiful (it's never good)",
+      "grammar": "The phrase '(c'est jamais)' means 'it's never', and the sentence structure is informal with colloquial expressions."
+    },
+    {
+      "time": 72.0,
+      "text": "Belle ou moi (c'est jamais bon)",
+      "translation": "Beautiful or me (it's never good)",
+      "grammar": "The phrase '(c'est jamais)' means 'it's never', and the sentence structure is informal with colloquial expressions."
+    },
+    {
+      "time": 75.0,
+      "text": "Moi ou elle (c'est jamais bon)",
+      "translation": "Me or her (it's never good)",
+      "grammar": "The phrase '(c'est jamais)' means 'it's never', and the sentence structure is informal with colloquial expressions."
+    },
+    {
+      "time": 78.0,
+      "text": "Rendez-vous, rendez-vous, rendez-vous au prochain règlement",
+      "translation": "Meet again, meet again, meet again at the next regulation",
+      "grammar": "The phrase 'rendez-vous' means 'meet again', and the repetition emphasizes the idea of meeting repeatedly."
+    },
+    {
+      "time": 81.0,
+      "text": "Rendez-vous, rendez-vous, rendez-vous sûrement aux prochaines règles",
+      "translation": "Meet again, meet again, meet again surely at the next rules",
+      "grammar": "The phrase 'sûrement' means 'surely', and the sentence structure is repetitive with multiple instances of 'rendez-vous'."
+    },
+    {
+      "time": 84.0,
+      "text": "Tous les mêmes, tous les mêmes, tous les mêmes et y'en a marre",
+      "translation": "All the same, all the same, all the same and we're fed up",
+      "grammar": "The phrase 'tous les mêmes' means 'all the same', and the sentence structure is repetitive with multiple instances of the phrase."
+    },
+    {
+      "time": 87.0,
+      "text": "Tous les mêmes, tous les mêmes, tous les mêmes et y'en a marre",
+      "translation": "All the same, all the same, all the same and we're fed up",
+      "grammar": "The phrase 'tous les mêmes' means 'all the same', and the sentence structure is repetitive with multiple instances of the phrase."
+    },
+    {
+      "time": 90.0,
+      "text": "Tous les mêmes, tous les mêmes, tous les mêmes et y'en a marre",
+      "translation": "All the same, all the same, all the same and we're fed up",
+      "grammar": "The phrase 'tous les mêmes' means 'all the same', and the sentence structure is repetitive with multiple instances of the phrase."
+    },
+    {
+      "time": 93.0,
+      "text": "Tous les mêmes, tous les mêmes, tous les mêmes",
+      "translation": "All the same, all the same, all the same",
+      "grammar": "The phrase 'tous les mêmes' means 'all the same', and the sentence structure is repetitive with multiple instances of the phrase."
+    }
+  ]
+}

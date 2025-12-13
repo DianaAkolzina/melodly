@@ -1,0 +1,373 @@
+{
+  "id": "lv_sekundes",
+  "title": "Sekundes",
+  "artist": "Musiqq",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "lv",
+  "to_language": "en",
+  "audio": "/audio/lv_sekundes.mp3",
+  "duration": 180,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Kad debesīs nežēlo ūdeni",
+      "translation": "When the heavens reject water",
+      "grammar": "The verb nežēlo is in the third person singular present tense, indicating a general truth or a situation that is typical of the heavens."
+    },
+    {
+      "time": 3.0,
+      "text": "Mēs dedzinām tiltus ar pagātni",
+      "translation": "We built bridges with the past",
+      "grammar": "The phrase 'ar pagātni' means 'with the past', indicating a connection between the present and the past."
+    },
+    {
+      "time": 6.0,
+      "text": "Lai līst, lai visa pasaule plīst",
+      "translation": "So that it pours, so that the whole world pours",
+      "grammar": "The verb līst is in the infinitive form, indicating a purpose or intention."
+    },
+    {
+      "time": 9.0,
+      "text": "Ja man nav lemts redzēt tevi sev līdzās",
+      "translation": "If I don't get to see you next to me",
+      "grammar": "The verb redzēt is in the third person singular present tense, indicating a hypothetical situation."
+    },
+    {
+      "time": 12.0,
+      "text": "Atņemiet amoram bultas",
+      "translation": "Take away love's pillars",
+      "grammar": "The phrase 'amoram' means 'of love', modifying the noun 'bultas' (pillars)."
+    },
+    {
+      "time": 15.0,
+      "text": "Atņemiet amoram tās",
+      "translation": "Take away those of love",
+      "grammar": "The pronoun 'tās' is in the accusative case, indicating the direct object of the verb 'atņemiet'."
+    },
+    {
+      "time": 18.0,
+      "text": "Lai atkal ir gaisma uz manas ielas",
+      "translation": "So that there's light on my street again",
+      "grammar": "The phrase 'lai atkal' means 'so that once more', indicating a repeated action or situation."
+    },
+    {
+      "time": 21.0,
+      "text": "Atņemiet amoram bultas",
+      "translation": "Take away love's pillars",
+      "grammar": "See previous note on the phrase 'amoram'."
+    },
+    {
+      "time": 24.0,
+      "text": "Atņemiet amoram tās",
+      "translation": "Take away those of love",
+      "grammar": "See previous note on the pronoun 'tās'."
+    },
+    {
+      "time": 27.0,
+      "text": "Lai atkal ir gaisma",
+      "translation": "So that there's light again",
+      "grammar": "The phrase 'lai atkal' means 'so that once more', indicating a repeated action or situation."
+    },
+    {
+      "time": 30.0,
+      "text": "Sekundes rit, rit, sekundēm līdz",
+      "translation": "Seconds tick, tick, until they reach",
+      "grammar": "The verb 'sekundēm' is in the infinitive form, indicating a purpose or intention."
+    },
+    {
+      "time": 33.0,
+      "text": "Sekundes līdz, līdz, mainās skats uz dzīvi",
+      "translation": "Until they reach, until they change the view on life",
+      "grammar": "The verb 'mainās' is in the third person singular present tense, indicating a repeated action or situation."
+    },
+    {
+      "time": 36.0,
+      "text": "Sekundes rit, rit, sekundēm līdz",
+      "translation": "Seconds tick, tick, until they reach",
+      "grammar": "See previous note on the verb 'sekundēm'."
+    },
+    {
+      "time": 39.0,
+      "text": "Sekundes līdz, līdz, mainās skats uz dzīvi",
+      "translation": "Until they reach, until they change the view on life",
+      "grammar": "See previous note on the verb 'mainās'."
+    },
+    {
+      "time": 42.0,
+      "text": "Rokas, tukšumu tausta, tukšumā sirds tevi rausta",
+      "translation": "Hands, empty space whispers, in empty space hearts beat for you",
+      "grammar": "The phrase 'tukšumu' means 'empty space', modifying the noun 'tausta' (whispers)."
+    },
+    {
+      "time": 45.0,
+      "text": "Rokas, tukšumu tausta, tukšums- jo sirds tev ir lauzta",
+      "translation": "Hands, empty space whispers, silence - for your heart is broken",
+      "grammar": "The phrase 'tukšums' means 'silence', modifying the verb 'ir lauzta' (is broken)."
+    },
+    {
+      "time": 48.0,
+      "text": "Rokas, tukšumu tausta, tukšumā sirds tevi rausta",
+      "translation": "Hands, empty space whispers, in empty space hearts beat for you",
+      "grammar": "See previous note on the phrase 'tukšumu'."
+    },
+    {
+      "time": 51.0,
+      "text": "Rokas, tukšumu tausta, tukšums- jo sirds tev ir lauzta",
+      "translation": "Hands, empty space whispers, silence - for your heart is broken",
+      "grammar": "See previous note on the phrase 'tukšums'."
+    },
+    {
+      "time": 54.0,
+      "text": "Rokas",
+      "translation": "Hands",
+      "grammar": "The noun 'Rokas' (hands) is repeated several times, emphasizing its importance in the song."
+    },
+    {
+      "time": 57.0,
+      "text": "Rokas",
+      "translation": "",
+      "grammar": ""
+    },
+    {
+      "time": 60.0,
+      "text": "Rokas",
+      "translation": "",
+      "grammar": ""
+    },
+    {
+      "time": 63.0,
+      "text": "Rokas",
+      "translation": "",
+      "grammar": ""
+    },
+    {
+      "time": 66.0,
+      "text": "Kad debesīs nežēlo ūdeni",
+      "translation": "",
+      "grammar": ""
+    },
+    {
+      "time": 69.0,
+      "text": "Mēs dedzinām tiltus ar pagātni",
+      "translation": "",
+      "grammar": ""
+    },
+    {
+      "time": 72.0,
+      "text": "Lai līst, lai visa pasaule plīst",
+      "translation": "",
+      "grammar": ""
+    },
+    {
+      "time": 75.0,
+      "text": "Ja man nav lemts redzēt tevi sev līdzās",
+      "translation": "",
+      "grammar": ""
+    },
+    {
+      "time": 78.0,
+      "text": "Atņemiet amoram bultas",
+      "translation": "",
+      "grammar": ""
+    },
+    {
+      "time": 81.0,
+      "text": "Atņemiet amoram tās",
+      "translation": "",
+      "grammar": ""
+    },
+    {
+      "time": 84.0,
+      "text": "Lai atkal ir gaisma uz manas ielas",
+      "translation": "",
+      "grammar": ""
+    },
+    {
+      "time": 87.0,
+      "text": "Atņemiet amoram bultas",
+      "translation": "",
+      "grammar": ""
+    },
+    {
+      "time": 90.0,
+      "text": "Atņemiet amoram tās",
+      "translation": "",
+      "grammar": ""
+    },
+    {
+      "time": 93.0,
+      "text": "Lai atkal ir gaisma",
+      "translation": "",
+      "grammar": ""
+    },
+    {
+      "time": 96.0,
+      "text": "Sekundes rit, rit, sekundēm līdz",
+      "translation": "",
+      "grammar": ""
+    },
+    {
+      "time": 99.0,
+      "text": "Sekundes līdz, līdz, mainās skats uz dzīvi",
+      "translation": "",
+      "grammar": ""
+    },
+    {
+      "time": 102.0,
+      "text": "Sekundes rit, rit, sekundēm līdz",
+      "translation": "",
+      "grammar": ""
+    },
+    {
+      "time": 105.0,
+      "text": "Sekundes līdz, līdz, mainās skats uz dzīvi",
+      "translation": "",
+      "grammar": ""
+    },
+    {
+      "time": 108.0,
+      "text": "Rokas, tukšumu tausta, tukšumā sirds tevi rausta",
+      "translation": "",
+      "grammar": ""
+    },
+    {
+      "time": 111.0,
+      "text": "Rokas, tukšumu tausta, tukšums- jo sirds tev ir lauzta",
+      "translation": "",
+      "grammar": ""
+    },
+    {
+      "time": 114.0,
+      "text": "Rokas, tukšumu tausta, tukšumā sirds tevi rausta",
+      "translation": "",
+      "grammar": ""
+    },
+    {
+      "time": 117.0,
+      "text": "Rokas, tukšumu tausta, tukšums- jo sirds tev ir lauzta",
+      "translation": "",
+      "grammar": ""
+    },
+    {
+      "time": 120.0,
+      "text": "Rokas",
+      "translation": "Wheels",
+      "grammar": "The word 'rokas' is a noun in the nominative case, referring to wheels."
+    },
+    {
+      "time": 123.0,
+      "text": "Rokas",
+      "translation": "Wheels",
+      "grammar": "Repetition of the same phrase for emphasis or rhythm."
+    },
+    {
+      "time": 126.0,
+      "text": "Rokas",
+      "translation": "Wheels",
+      "grammar": "See previous notes on repetition."
+    },
+    {
+      "time": 129.0,
+      "text": "Rokas",
+      "translation": "Seconds go, go, until the end",
+      "grammar": "The phrase 'sekundes' is a noun in the nominative case, meaning seconds. The verb 'rit' is in the imperative mood, with the prefix 'sekundēm' indicating duration."
+    },
+    {
+      "time": 132.0,
+      "text": "Sekundes rit, rit, sekundēm līdz",
+      "translation": "Until the end, until, the view changes to life",
+      "grammar": "The phrase 'līdz' is an adverb meaning 'until', and 'mainās' is a verb in the present tense, indicating change or transformation."
+    },
+    {
+      "time": 135.0,
+      "text": "Sekundes līdz, līdz, mainās skats uz dzīvi",
+      "translation": "Seconds go, go, until the end",
+      "grammar": "See previous notes on repetition and grammar."
+    },
+    {
+      "time": 138.0,
+      "text": "Sekundes rit, rit, sekundēm līdz",
+      "translation": "Until the end, until, the view changes to life",
+      "grammar": "See previous notes on grammar."
+    },
+    {
+      "time": 141.0,
+      "text": "Sekundes līdz, līdz, mainās skats uz dzīvi",
+      "translation": "Wheels, emptiness surrounds, in emptiness the heart beats for you",
+      "grammar": "The phrase 'tukšumu' is a noun in the accusative case, meaning emptiness. The verb 'tausta' is in the present tense, indicating surrounding or enveloping."
+    },
+    {
+      "time": 144.0,
+      "text": "Rokas, tukšumu tausta, tukšumā sirds tevi rausta",
+      "translation": "Wheels, emptiness surrounds, but your heart is broken",
+      "grammar": "The phrase 'tukšums' is a noun in the nominative case, meaning emptiness. The verb 'ir lauzta' is in the present tense, indicating a state of being broken."
+    },
+    {
+      "time": 147.0,
+      "text": "Rokas, tukšumu tausta, tukšums- jo sirds tev ir lauzta",
+      "translation": "Wheels, emptiness surrounds, in emptiness the heart beats for you",
+      "grammar": "See previous notes on grammar."
+    },
+    {
+      "time": 150.0,
+      "text": "Rokas, tukšumu tausta, tukšumā sirds tevi rausta",
+      "translation": "Wheels, emptiness surrounds, but your heart is broken",
+      "grammar": "See previous notes on grammar."
+    },
+    {
+      "time": 153.0,
+      "text": "Rokas, tukšumu tausta, tukšums- jo sirds tev ir lautza",
+      "translation": "Wheels",
+      "grammar": "Repetition of the same phrase for emphasis or rhythm."
+    },
+    {
+      "time": 156.0,
+      "text": "Rokas",
+      "translation": "Wheels, emptiness surrounds",
+      "grammar": "The phrase 'tukšumu' is a noun in the accusative case, meaning emptiness. The verb 'tausta' is in the present tense, indicating surrounding or enveloping."
+    },
+    {
+      "time": 159.0,
+      "text": "Rokas, tukšumu tausta",
+      "translation": "Wheels",
+      "grammar": "Repetition of the same phrase for emphasis or rhythm."
+    },
+    {
+      "time": 162.0,
+      "text": "Rokas",
+      "translation": "In emptiness, the heart beats for you",
+      "grammar": "The phrase 'tukšumā' is a noun in the locative case, meaning in emptiness. The verb 'rausta' is in the present tense, indicating beating or pulsing."
+    },
+    {
+      "time": 165.0,
+      "text": "Tukšumā sirds tevi rausta",
+      "translation": "Wheels",
+      "grammar": "Repetition of the same phrase for emphasis or rhythm."
+    },
+    {
+      "time": 168.0,
+      "text": "Rokas",
+      "translation": "Wheels, emptiness surrounds",
+      "grammar": "See previous notes on grammar."
+    },
+    {
+      "time": 171.0,
+      "text": "Rokas, tukšumu tausta",
+      "translation": "Wheels",
+      "grammar": "Repetition of the same phrase for emphasis or rhythm."
+    },
+    {
+      "time": 174.0,
+      "text": "Rokas",
+      "translation": "But your heart is broken",
+      "grammar": "The phrase 'tukšms' is a noun in the nominative case, meaning emptiness. The verb 'ir lauzta' is in the present tense, indicating a state of being broken."
+    },
+    {
+      "time": 177.0,
+      "text": "Tukšums- jo sirds tev ir lautza",
+      "translation": "",
+      "grammar": ""
+    }
+  ]
+}

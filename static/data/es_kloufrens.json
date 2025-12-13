@@ -1,0 +1,325 @@
+{
+  "id": "es_kloufrens",
+  "title": "KLOuFRENS",
+  "artist": "Bad Bunny",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_kloufrens.mp3",
+  "duration": 150,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "¿Cómo diablos vo'a olvidarte",
+      "translation": "How the hell am I going to forget you",
+      "grammar": "The phrase \"¿Cómo diablos?\" is an idiomatic expression used to emphasize strong emotions, equivalent to \"What in the world\" or \"Good grief\". The use of \"diablos\" instead of \"cómo\" adds intensity and informal tone."
+    },
+    {
+      "time": 2.028,
+      "text": "Si ya te vi sin ropa?",
+      "translation": "Did I already see you without clothes?",
+      "grammar": "This line uses the present perfect tense (si ya) to express an action that started in the past and has a connection to the present, implying a sense of familiarity or intimacy. The phrase \"sin ropa\" is an idiomatic expression meaning \"without clothes\", rather than literally without clothing."
+    },
+    {
+      "time": 4.403,
+      "text": "Guau, qué obra de arte",
+      "translation": "Wow, what a work of art",
+      "grammar": "The phrase \"Guau\" is an interjection equivalent to \"Wow\", used to express strong surprise or admiration."
+    },
+    {
+      "time": 6.431,
+      "text": "Sé que prometí que iba a alejarme",
+      "translation": "I know I promised I would stay away",
+      "grammar": "The phrase \"prometí que\" is an idiomatic expression meaning \"I promised that\". The verb \"prometí\" is in the preterite tense, indicating a completed action."
+    },
+    {
+      "time": 9.151,
+      "text": "¿Pero cómo quieres que me vaya bien",
+      "translation": "But how do you expect me to do well?",
+      "grammar": "The phrase \"¿Pero cómo quieres que...\" is an example of a rhetorical question, used to express the speaker's frustration and seek understanding from the listener. The use of the conditional \"que\" (that) implies a hypothetical scenario, emphasizing the speaker's emotional state."
+    },
+    {
+      "time": 11.871,
+      "text": "Si tú no me sacas de lo' close friend'?",
+      "translation": "If you don't take me out of the 'close friend'?",
+      "grammar": "The phrase \"¿Si tú no me...\" is a rhetorical question in the present tense, using the conditional mood to express doubt or uncertainty. The pronoun \"tú\" indicates informal address, typical in conversations with friends."
+    },
+    {
+      "time": 15.282,
+      "text": "Me paso stalkeándote pa ver qué hace'",
+      "translation": "I spend my time stalking you to see what you're doing.",
+      "grammar": "The verb \"paso\" is in the present continuous tense, indicating an ongoing action. The phrase \"stalkeándote\" is a colloquialism and idiom that means to secretly observe or follow someone."
+    },
+    {
+      "time": 18.001,
+      "text": "Enchulao, puede que se me pase",
+      "translation": "Enchulao, maybe I'll miss it",
+      "grammar": "This line uses the informal imperative \"enchulao\" to address someone familiarly, and the conditional tense \"puede que se me pase\" expresses a possibility or uncertainty about missing something."
+    },
+    {
+      "time": 20.376,
+      "text": "¿Pero cómo quieres que me vaya bien",
+      "translation": "But how do you expect me to do well?",
+      "grammar": "The phrase ¿Pero cómo quieres que me vaya bien? uses the present subjunctive mood (querre) to express a hypothetical or uncertain situation, emphasizing the speaker's emotional state."
+    },
+    {
+      "time": 23.095,
+      "text": "Si tú no me sacas de lo' close friend'?",
+      "translation": "If you don't take me out of the 'close friend'?",
+      "grammar": "The phrase \"¿Si tú no me...\" is an example of a rhetorical question, used to express strong feeling or emphasis. The use of \"tú\" instead of \"usted\" shows informal tone and close relationship with the speaker."
+    },
+    {
+      "time": 26.507,
+      "text": "Me paso stalkeándote pa ver qué hace'",
+      "translation": "I spend my time stalking you to see what you're doing.",
+      "grammar": "The verb phrase \"paso stalkeándote\" is in the present continuous tense, indicating an ongoing action. The use of \"stalkeándote\" is an informal idiom that translates to \"stalking you\", conveying a sense of obsessive attention."
+    },
+    {
+      "time": 29.226,
+      "text": "Enchulao, puede que se me pase",
+      "translation": "Enchulao, maybe I'll miss it",
+      "grammar": "The phrase \"puede que\" is a common way to express doubt or uncertainty in Spanish, equivalent to the English idiom \"maybe\". It indicates a possibility rather than a certainty."
+    },
+    {
+      "time": 31.6,
+      "text": "¿Cómo diablo' vo'a olvidarte",
+      "translation": "How the hell am I going to forget you",
+      "grammar": "The phrase \"¿Cómo diablo'?\" is an idiomatic expression used to convey strong emotions, equivalent to saying \"how on earth\" or \"what a nightmare\". The use of \"diablo'\" (devil) emphasizes the speaker's frustration and desperation."
+    },
+    {
+      "time": 33.629,
+      "text": "Si cuando estoy solo y prendo lo que hago es pensarte?, eh-eh",
+      "translation": "If when I'm alone and I turn on the lights, all I do is think about you? eh-eh",
+      "grammar": "The phrase \"pensarte\" is an informal way of saying \"to think about someone\", using the infinitive form as a direct object. This construction is common in spoken Spanish, especially when expressing personal thoughts or feelings."
+    },
+    {
+      "time": 38.423,
+      "text": "Mami, me dejaste hipnotizao, colonizao",
+      "translation": "Mommy, you left me hypnotized, captivated",
+      "grammar": "The use of \"dejaste\" and \"colonizao\" in the original Spanish lyrics is an example of the present perfect tense being used to express a completed action that has a lingering effect, similar to the English phrase \"you've got me under your spell\"."
+    },
+    {
+      "time": 40.451,
+      "text": "Otra galla como tú, todavía no he pisao",
+      "translation": "I haven't yet met another hen like you.",
+      "grammar": "The phrase \"todavía no he\" is in the present perfect tense, indicating that the action of meeting someone has not been completed at the moment of speaking."
+    },
+    {
+      "time": 43.517,
+      "text": "Ese totito era bello, precioso, cute",
+      "translation": "That little booty was beautiful, precious, cute",
+      "grammar": "The phrase \"ese totito\" is an idiomatic expression used to emphasize the speaker's affection or admiration for something. The use of \"totito\" (little one) as a term of endearment adds a playful and intimate tone to the sentence."
+    },
+    {
+      "time": 45.891,
+      "text": "Me dejaste enviciao, ey",
+      "translation": "You got me hooked, hey",
+      "grammar": "The phrase \"Me dejaste\" is an idiomatic expression that uses the preterite tense to convey a sense of suddenness or surprise, equivalent to \"You got me\" in English. The use of \"dejaste\" instead of \"me dejaste\" emphasizes the speaker's emotional state and creates a sense of intimacy with the listener."
+    },
+    {
+      "time": 47.573,
+      "text": "Pelinegra o blondie, ma, tú ere la baby",
+      "translation": "Black hair or blondie, ma, you are the baby",
+      "grammar": "The phrase \"tú ere\" is an informal way of saying \"you are\" in Spanish, using the verb \"ser\" (to be) in the present tense and the pronoun \"tú\" for the second person singular."
+    },
+    {
+      "time": 50.639,
+      "text": "Dando vueltas por la SanSe escuchando a Dei V y a Ousi",
+      "translation": "Wandering around SanSe listening to Dei V and Ousi",
+      "grammar": "The verb \"escuchando\" is in the present continuous tense, indicating an ongoing action. The phrase \"dando vueltas\" is an idiom meaning \"wandering around\"."
+    },
+    {
+      "time": 55.087,
+      "text": "To lo mío e' tuyo, si quieres te doy la OC",
+      "translation": "Everything I have is yours, if you want I'll give you the OC",
+      "grammar": "The phrase \"si quieres\" is an idiom expressing willingness or agreement, equivalent to \"if you want\" in English. The verb \"quieres\" is in the second person singular form, agreeing with the pronoun \"tú\"."
+    },
+    {
+      "time": 59.19,
+      "text": "Quiero comerte esos labio' glossy",
+      "translation": "I want to eat those glossy lips",
+      "grammar": "This line uses the informal second person singular verb form \"quiero\" and the idiomatic expression \"comerte\" instead of \"comerme\" or \"comerle\", emphasizing a strong desire."
+    },
+    {
+      "time": 61.218,
+      "text": "Oh, sí, mm",
+      "translation": "Oh, yes, mm",
+      "grammar": "This interjection \"Oh\" is used to express strong agreement or confirmation, and the phrase \"sí, mm\" is an idiomatic expression equivalent to saying \"yes, indeed\"."
+    },
+    {
+      "time": 62.555,
+      "text": "Esto no tiene que pasar, no",
+      "translation": "This doesn't have to happen, no",
+      "grammar": "The phrase \"no\" is an interjection used to express strong negation or emphasis, often translated as \"don't\" or \"not\". It's used in informal contexts and can be omitted in formal translations."
+    },
+    {
+      "time": 64.929,
+      "text": "Pero veo el circulito verde y me vuelvo a ilusionar",
+      "translation": "But I see the little green circle and I get my hopes up again.",
+      "grammar": "The verb \"vuelvo\" is in the present tense, indicating a habitual or repeated action, which contrasts with the sudden hopefulness expressed. The phrase \"me vuelvo\" is an idiomatic expression meaning \"I get my hopes up\"."
+    },
+    {
+      "time": 68.686,
+      "text": "Tú eres mala, tú lo haces intencional",
+      "translation": "You're evil, you do it on purpose",
+      "grammar": "The phrase \"tú eres\" is a colloquial way to express strong criticism or accusation in Spanish, equivalent to saying \"you are really bad\" or \"you're terrible\". The use of the verb \"eres\" (second person singular form) emphasizes the speaker's personal involvement and emotional tone."
+    },
+    {
+      "time": 71.406,
+      "text": "Una player profesional",
+      "translation": "A professional player",
+      "grammar": "The phrase \"una player\" is an idiomatic expression in Spanish, where \"una\" (a) is used to emphasize the noun \"player\" rather than indicating a feminine singular article."
+    },
+    {
+      "time": 72.743,
+      "text": "Total, esto no iba a funcionar",
+      "translation": "In short, this wasn't going to work.",
+      "grammar": "This phrase uses the present perfect tense (ibas) to convey a sense of inevitability or certainty about something not working out. The idiom \"total\" is used to emphasize the conclusion that things wouldn't go as planned."
+    },
+    {
+      "time": 75.117,
+      "text": "Pero te veo y me vuelvo a ilusionar",
+      "translation": "But when I see you, I get excited again.",
+      "grammar": "The verb \"ilusionar\" is in the present tense and implies a sense of continuous or repeated action, conveying the speaker's enthusiasm and renewed excitement."
+    },
+    {
+      "time": 78.183,
+      "text": "Tú eres mala, tú lo haces intencional",
+      "translation": "You're evil, you do it on purpose",
+      "grammar": "The use of \"tú\" instead of \"you\" in the phrase indicates a formal or informal address depending on the context and relationship between the speaker and listener. This is an example of direct object pronoun agreement with the subject \"tú\"."
+    },
+    {
+      "time": 80.902,
+      "text": "A tu nombre me lo voy a lesionar",
+      "translation": "I'm going to injure myself in your name.",
+      "grammar": "The phrase \"voy a\" is used to express future intention, indicating the speaker's decision to take an action. This construction combines the present tense of the verb \"ir\" (to go) with the infinitive \"a\" and the preposition \"llevar\" (to carry), conveying a sense of determination or commitment."
+    },
+    {
+      "time": 83.968,
+      "text": "Ta cabrón que pa ti es normal",
+      "translation": "It's messed up that you think it's normal.",
+      "grammar": "The phrase \"pa ti\" is an idiomatic expression meaning \"to you\" or \"in your case\", used to emphasize a point or express surprise, and the verb \"es\" is in the present tense, indicating a general truth or habitual behavior."
+    },
+    {
+      "time": 86.688,
+      "text": "¿Pero cómo quieres que me vaya bien",
+      "translation": "But how do you expect me to do well?",
+      "grammar": "The phrase ¿Pero cómo quieres que me vaya bien? uses the present subjunctive mood (querre) to express a hypothetical or uncertain situation, emphasizing the speaker's emotional state and seeking understanding from the listener."
+    },
+    {
+      "time": 89.407,
+      "text": "Si tú no me sacas de los close friend'?",
+      "translation": "If you don't take me out of the close friends?",
+      "grammar": "This sentence uses the informal second-person singular pronoun \"tú\" and the conditional tense \"no me sacas\", emphasizing a personal request. The phrase \"close friend'\" is an idiomatic expression, equivalent to \"inner circle\"."
+    },
+    {
+      "time": 92.818,
+      "text": "Mm-mm, mm-mm, mm-mm, mm-mm",
+      "translation": "Mm-mm, mm-mm, mm-mm, mm-mm",
+      "grammar": "This line is an example of onomatopoeia, a figure of speech that imitates the sound it describes. The repeated \"mm\" sounds mimic the humming or murmuring noise, conveying the speaker's emotional state without using explicit language."
+    },
+    {
+      "time": 95.884,
+      "text": "Dime qué pasó, mi amor",
+      "translation": "Tell me what happened, my love",
+      "grammar": "The phrase \"mi amor\" is an idiomatic expression used to address a loved one in an informal setting, equivalent to saying \"my dear\" or \"beloved\"."
+    },
+    {
+      "time": 97.912,
+      "text": "Que ya no me envías los buenos días por las mañanas",
+      "translation": "You don't send me good morning messages anymore.",
+      "grammar": "The phrase \"ya no\" is a common idiomatic expression in Spanish, equivalent to the English phrase \"not anymore\". It indicates a change of state or habit, and is often used to express regret or disappointment."
+    },
+    {
+      "time": 102.015,
+      "text": "Y en la noche antes de acostarte ya no me llamas",
+      "translation": "And at night before you go to bed you don't call me anymore",
+      "grammar": "The use of \"ya\" in \"ya no me llamas\" is an adverb indicating the completion of an action, equivalent to \"already\" or \"no longer\". This implies a sense of regret or longing for a past situation."
+    },
+    {
+      "time": 106.117,
+      "text": "¿Será que ya encontraste",
+      "translation": "Have you found it yet?",
+      "grammar": "The phrase ¿Será que...? is a polite way to ask a question in Spanish, equivalent to \"Do you think...\" or \"Is it possible that...\", using the subjunctive mood and the verb será (to be) in the conditional tense. This idiomatic expression softens the tone of the inquiry."
+    },
+    {
+      "time": 107.8,
+      "text": "A alguien má' y me cambiaste?",
+      "translation": "And you replaced me with someone else?",
+      "grammar": "The phrase \"a alguien\" is an idiomatic expression meaning \"with someone else\", using the impersonal pronoun \"a alguien\" to convey a sense of replacement or substitution, rather than specifying who that person is."
+    },
+    {
+      "time": 110.174,
+      "text": "Está cabrón cómo de tu vida ya desaparecí",
+      "translation": "It's messed up how I've already disappeared from your life",
+      "grammar": "The phrase \"cómo de\" is an idiomatic expression used to emphasize the extent or degree of something, similar to \"how much\" or \"to what extent\". The verb \"está\" is in the present tense, describing a state or condition that has been reached."
+    },
+    {
+      "time": 113.24,
+      "text": "Qué triste que terminó así, que terminó así, eh",
+      "translation": "How sad that it ended like that, that it ended like that, huh",
+      "grammar": "The phrase \"qué\" is used to introduce a comment or an opinion, and the repetition of \"que\" emphasizes the speaker's sadness. The interjection \"eh\" is a casual way to seek agreement or confirmation from the listener."
+    },
+    {
+      "time": 116.651,
+      "text": "¿Será que a otro ahora le cuentas tu día",
+      "translation": "Will you tell someone else about your day now?",
+      "grammar": "The phrase \"¿Será que\" is an idiomatic expression used to seek confirmation or speculation, equivalent to \"I wonder if\" in English. The verb \"será\" is in the conditional mood, indicating a hypothetical situation."
+    },
+    {
+      "time": 120.062,
+      "text": "Y lo haces reír con los chistes que tú me hacía'?",
+      "translation": "And you make him laugh with the jokes you used to tell me?",
+      "grammar": "The verb phrase \"me hacía\" is in the imperfect tense, indicating a habitual or repeated action in the past. This usage of the imperfect tense to describe a past habit is common in Spanish and can be tricky for English speakers to master."
+    },
+    {
+      "time": 124.165,
+      "text": "No tengo stickers nuevos, mami, porque ya tú no me los envía'",
+      "translation": "I don't have any new stickers, Mommy, because you don't send them to me anymore.",
+      "grammar": "The use of \"ya\" (already) in \"ya tú no me los envías\" implies the past continuous tense, indicating that the habit of sending stickers has stopped."
+    },
+    {
+      "time": 128.613,
+      "text": "Te fuiste cuando más yo te quería, eh",
+      "translation": "You left when I loved you the most, huh",
+      "grammar": "The use of \"quería\" (loved) in the past tense indicates a past perfective aspect, emphasizing the intensity of the speaker's feelings at that moment. The phrase \"te fuiste\" is an idiomatic expression meaning \"you left\", with \"fuiste\" being the second person singular form of the verb \"fuir\", which means \"to leave\"."
+    },
+    {
+      "time": 131.678,
+      "text": "Y ya nadie sabrá lo que tú y yo pudo ser",
+      "translation": "And no one will ever know what you and I could have been.",
+      "grammar": "The use of \"pudo ser\" in the past perfect tense indicates a hypothetical or conditional situation, implying that the speaker is reflecting on what could have been if circumstances had been different."
+    },
+    {
+      "time": 135.781,
+      "text": "Qué triste, no conocerás",
+      "translation": "How sad, you won't know",
+      "grammar": "This idiomatic expression uses the verb \"conocer\" in the subjunctive mood to convey a sense of regret or longing for something that may not happen. The phrase \"qué triste\" is an interjection expressing sadness."
+    },
+    {
+      "time": 137.464,
+      "text": "Esa parte de mí que yo sé que te iba a gustar",
+      "translation": "That part of me that I know you would like",
+      "grammar": "The phrase \"yo sé\" is an idiomatic expression used to emphasize the speaker's certainty, equivalent to saying \"I'm absolutely sure\"."
+    },
+    {
+      "time": 141.912,
+      "text": "Y nadie sabrá lo que tú y yo pudo ser",
+      "translation": "And no one will know what you and I could have been.",
+      "grammar": "The use of \"pudo ser\" in the present tense implies a hypothetical or conditional situation, emphasizing the uncertainty of what \"you and I\" could have become."
+    },
+    {
+      "time": 145.669,
+      "text": "Qué triste, no conocerás",
+      "translation": "How sad, you won't know",
+      "grammar": "This phrase uses the idiomatic expression \"qué\" to convey strong emotions, equivalent to \"how\" in English. The sentence is in the present tense, with a negative prediction about the future using the verb \"conocerás\" (you won't know)."
+    },
+    {
+      "time": 147.351,
+      "text": "Esa parte de mí que yo a nadie le suelo mostrar",
+      "translation": "That part of me that I don't usually show to anyone",
+      "grammar": "The phrase \"esa parte de mí\" is an idiomatic expression, equivalent to \"that part of myself\". The verb \"suelo\" is in the present tense, indicating a habitual or usual action."
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "id": "ru_track_98d7bc9",
+  "title": "Ты мне покажи...",
+  "artist": "Akmal'",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_track_98d7bc9.mp3",
+  "duration": 238,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 20.82169999998808,
+      "text": "Ты мне покажи вечную любовь, как с нею жить?",
+      "translation": "Show me eternal love and how to live with it?",
+      "grammar": "The sentence uses the polite form of address (ты) and the verb in the imperative mood (покажи), which is typical for romantic or intimate relationships."
+    },
+    {
+      "time": 29.621099999964237,
+      "text": "В этом мире поровну звёзды с неба падают",
+      "translation": "In this world, stars fall from the sky equally",
+      "grammar": ""
+    },
+    {
+      "time": 34.8245,
+      "text": "Лишь чтобы нас порадовать",
+      "translation": "Just to please us",
+      "grammar": ""
+    },
+    {
+      "time": 37.40390000003576,
+      "text": "А мы с тобою так же всё одни",
+      "translation": "And you and I are still alone",
+      "grammar": ""
+    },
+    {
+      "time": 42.89570000004768,
+      "text": "Звёзды рисовали твой портрет в сумерках",
+      "translation": "The stars painted your portrait in the twilight",
+      "grammar": ""
+    },
+    {
+      "time": 46.130900000035766,
+      "text": "Не поверишь, даже в него я влюбился",
+      "translation": "You won't believe it, but I even fell in love with him.",
+      "grammar": ""
+    },
+    {
+      "time": 48.47510000002384,
+      "text": "Я без вести пропал на пустынных улицах",
+      "translation": "I disappeared without a trace on the deserted streets",
+      "grammar": ""
+    },
+    {
+      "time": 50.9355,
+      "text": "Но легче мне не стало, ведь не забыл я",
+      "translation": "But it didn’t make me feel any better, because I didn’t forget",
+      "grammar": ""
+    },
+    {
+      "time": 53.59670000004768,
+      "text": "Прикосновения, что плавили меня до дрожи",
+      "translation": "Touches that melted me to the point of trembling",
+      "grammar": ""
+    },
+    {
+      "time": 56.00010000002384,
+      "text": "Из разных Вселенных, вовсе не похожи",
+      "translation": "From different universes, not similar at all",
+      "grammar": ""
+    },
+    {
+      "time": 58.3,
+      "text": "Пытаясь опустить руки, ты поднимала их",
+      "translation": "Trying to lower your hands, you raised them",
+      "grammar": ""
+    },
+    {
+      "time": 61.06810000002384,
+      "text": "Заставляла верить, что и сейчас всё сможем мы",
+      "translation": "She made me believe that we can do anything now too.",
+      "grammar": ""
+    },
+    {
+      "time": 63.51870000004769,
+      "text": "Мы падали, плакали, но подходили молча, обнимая плечи друг друга",
+      "translation": "We fell, cried, but approached silently, hugging each other's shoulders.",
+      "grammar": ""
+    },
+    {
+      "time": 69.27490000003576,
+      "text": "Мы начали это всё крепко, сжимая ладони, поверь мне, так нужно было",
+      "translation": "We started this all tightly, squeezing our palms, believe me, it was necessary",
+      "grammar": ""
+    },
+    {
+      "time": 74.17880000001192,
+      "text": "Просто знать о том, что рядом ты, чтобы спокойно ночами спать",
+      "translation": "Just knowing that you are nearby, so I can sleep peacefully at night.",
+      "grammar": ""
+    },
+    {
+      "time": 80.06110000002384,
+      "text": "О тебе мысли, ночами сны, и прошу, не дай мне сейчас упасть",
+      "translation": "I think about you, I dream about you at night, and I ask you, don’t let me fall now",
+      "grammar": ""
+    },
+    {
+      "time": 86.01390000003576,
+      "text": "Ты мне покажи вечную любовь, как с нею жить?",
+      "translation": "Show me eternal love, how to live with it?",
+      "grammar": ""
+    },
+    {
+      "time": 94.52590000003576,
+      "text": "В этом мире поровну звезды с неба падают",
+      "translation": "In this world, stars fall from the sky equally",
+      "grammar": ""
+    },
+    {
+      "time": 99.87510000002383,
+      "text": "Лишь чтобы нас порадовать",
+      "translation": "Just to please us",
+      "grammar": ""
+    },
+    {
+      "time": 102.58340000003577,
+      "text": "А мы с тобою так же всё одни",
+      "translation": "And you and I are still alone",
+      "grammar": ""
+    },
+    {
+      "time": 106.50440000003576,
+      "text": "Ты мне покажи вечную любовь, как с нею жить?",
+      "translation": "Show me eternal love, how to live with it?",
+      "grammar": ""
+    },
+    {
+      "time": 115.67370000004769,
+      "text": "В этом мире поровну звёзды с неба падают",
+      "translation": "In this world, stars fall from the sky equally",
+      "grammar": ""
+    },
+    {
+      "time": 120.0135,
+      "text": "Лишь чтобы нас порадовать",
+      "translation": "Just to please us",
+      "grammar": ""
+    },
+    {
+      "time": 123.21510000002384,
+      "text": "А мы с тобою так же всё одни, yeah",
+      "translation": "And you and I are still alone, yeah",
+      "grammar": ""
+    },
+    {
+      "time": 129.1448000000119,
+      "text": "Я в омуте потерялся давно",
+      "translation": "I was lost in the whirlpool a long time ago",
+      "grammar": ""
+    },
+    {
+      "time": 131.94060000002384,
+      "text": "С тобой закончили мы слишком рано (да)",
+      "translation": "We finished with you too soon (yes)",
+      "grammar": ""
+    },
+    {
+      "time": 134.64910000002385,
+      "text": "Ты спешишь на поезд, а я за тобой",
+      "translation": "You're rushing to catch the train, and I'm following you.",
+      "grammar": ""
+    },
+    {
+      "time": 136.7895,
+      "text": "Чтобы в последний раз сказать о том, как я люблю",
+      "translation": "To say one last time how much I love",
+      "grammar": ""
+    },
+    {
+      "time": 139.63540000003576,
+      "text": "Сонную тебя по утрам, честно",
+      "translation": "I make you sleepy in the mornings, honestly.",
+      "grammar": ""
+    },
+    {
+      "time": 142.19390000003577,
+      "text": "Когда волосы твои нежно ласкает прибой",
+      "translation": "When the surf gently caresses your hair",
+      "grammar": ""
+    },
+    {
+      "time": 145.49840000003576,
+      "text": "Что меня ждёт завтра — неизвестно",
+      "translation": "What awaits me tomorrow is unknown",
+      "grammar": "The verb 'ждёт' (zhdet) is in the infinitive form, indicating uncertainty about the future."
+    },
+    {
+      "time": 147.37270000004767,
+      "text": "Самый сильный воин сломлен перед одной тобой",
+      "translation": "The strongest warrior is broken before you alone",
+      "grammar": ""
+    },
+    {
+      "time": 150.8817000000477,
+      "text": "Покажи мне вечное тепло",
+      "translation": "Show me eternal warmth",
+      "grammar": ""
+    },
+    {
+      "time": 152.62260000002385,
+      "text": "Мягко обнимая плечи, спой мне шёпотом",
+      "translation": "Gently hugging my shoulders, sing to me in a whisper",
+      "grammar": ""
+    },
+    {
+      "time": 155.2575,
+      "text": "Расскажи о том, как не повезло",
+      "translation": "Tell me about your bad luck.",
+      "grammar": ""
+    },
+    {
+      "time": 157.9355,
+      "text": "Дарить друг другу нелепые поводы",
+      "translation": "Give each other ridiculous excuses",
+      "grammar": ""
+    },
+    {
+      "time": 160.49960000002383,
+      "text": "Она та, кто заставляет меня верить в любовь",
+      "translation": "She is the one who makes me believe in love",
+      "grammar": ""
+    },
+    {
+      "time": 163.35190000003576,
+      "text": "Самая яркая из всех плеяд",
+      "translation": "The brightest of all the Pleiades",
+      "grammar": ""
+    },
+    {
+      "time": 166.28610000002385,
+      "text": "И меж нами неравный бой",
+      "translation": "And between us there is an unequal fight",
+      "grammar": ""
+    },
+    {
+      "time": 168.32710000002385,
+      "text": "Я буду с тобой, пока не научусь летать",
+      "translation": "I will be with you until I learn to fly.",
+      "grammar": ""
+    },
+    {
+      "time": 172.06870000004767,
+      "text": "Ты мне покажи вечную любовь, как с нею жить?",
+      "translation": "Show me eternal love, how to live with it?",
+      "grammar": ""
+    },
+    {
+      "time": 180.84910000002384,
+      "text": "В этом мире поровну звезды с неба падают",
+      "translation": "In this world, stars fall from the sky equally",
+      "grammar": ""
+    },
+    {
+      "time": 187.19470000004767,
+      "text": "Лишь чтобы нас порадовать",
+      "translation": "Just to please us",
+      "grammar": ""
+    },
+    {
+      "time": 188.64520000004768,
+      "text": "А мы с тобою так же всё одни",
+      "translation": "And you and I are still alone",
+      "grammar": ""
+    },
+    {
+      "time": 192.5908000000119,
+      "text": "Ты мне покажи вечную любовь, как с нею жить?",
+      "translation": "Show me eternal love, how to live with it?",
+      "grammar": ""
+    },
+    {
+      "time": 201.63410000002384,
+      "text": "В этом мире поровну звёзды с неба падают",
+      "translation": "In this world, stars fall from the sky equally",
+      "grammar": ""
+    },
+    {
+      "time": 206.60640000003576,
+      "text": "Лишь чтобы нас порадовать",
+      "translation": "Just to please us",
+      "grammar": ""
+    },
+    {
+      "time": 209.08640000003575,
+      "text": "А мы с тобою так же всё одни, yeah",
+      "translation": "And you and I are still alone, yeah",
+      "grammar": ""
+    }
+  ]
+}

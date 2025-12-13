@@ -1,0 +1,16 @@
+{
+  "language": "ru",
+  "title": "Стеклянная",
+  "artist": "GUMA",
+  "slug": "guma",
+  "track_length_seconds": 166,
+  "source": {
+    "provider": "musixmatch",
+    "track_id": 220990003,
+    "commontrack_id": 131301090,
+    "track_share_url": "https://www.musixmatch.com/lyrics/Guma-1/%D0%A1%D1%82%D0%B5%D0%BA%D0%BB%D1%8F%D0%BD%D0%BD%D0%B0%D1%8F?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "track_edit_url": "https://www.musixmatch.com/lyrics/Guma-1/%D0%A1%D1%82%D0%B5%D0%BA%D0%BB%D1%8F%D0%BD%D0%BD%D0%B0%D1%8F/edit?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "search_language": "ru",
+    "fetched_at": "2025-11-27T14:54:52.367001Z"
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "id": "fr_aicha",
+  "title": "Aicha",
+  "artist": "Khaled",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_aicha.mp3",
+  "duration": 257,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 12.832800000011922,
+      "text": "Comme si je n'existais pas",
+      "translation": "As if I didn't exist",
+      "grammar": "This idiomatic expression uses the subjunctive mood to convey a hypothetical or conditional situation, implying that the speaker feels invisible or ignored."
+    },
+    {
+      "time": 18.27770000001788,
+      "text": "Elle est passée à côté de moi",
+      "translation": "She walked right past me",
+      "grammar": "The phrase \"passé à côté\" is an idiomatic expression meaning to walk or move by someone without noticing them, often implying a sense of indifference. The verb \"passer\" is in the passé composé tense, indicating completed action in the past."
+    },
+    {
+      "time": 23.9285,
+      "text": "Sans un regard reine de Saba",
+      "translation": "Without a glance from the Queen of Sheba",
+      "grammar": "This idiomatic expression uses the metaphorical Queen of Sheba to convey an extraordinary or unmatched level, implying that something is extremely rare or exceptional."
+    },
+    {
+      "time": 29.77360000002384,
+      "text": "J'ai dit Aïcha prends tout est pour toi",
+      "translation": "I said Aisha, take everything, it's all for you",
+      "grammar": "The verb \"dit\" is in the passé composé tense, indicating that the speaker has already said something to Aisha. The phrase \"prends tout est pour toi\" is an idiomatic expression meaning \"take everything, it's all yours\", with \"prends\" being a second-person singular imperative and \"est\" agreeing with \"pour toi\"."
+    },
+    {
+      "time": 35.31759999999404,
+      "text": "Voici des perles des bijoux",
+      "translation": "Here are some pearls of jewelry",
+      "grammar": "The phrase \"Voici des\" is an idiomatic expression used to introduce a list or a series, similar to \"Here are\" in English. The verb \"voici\" is in the present tense and indicates that what follows is a direct presentation or introduction."
+    },
+    {
+      "time": 41.047699999988076,
+      "text": "Aussi l'or autour de ton cou",
+      "translation": "Also the gold around your neck",
+      "grammar": "The phrase \"aussi\" is an adverb indicating addition or similarity, often translated as \"also\". In this context, it emphasizes the idea that the speaker is not only considering the gold itself but also its proximity to the person's neck."
+    },
+    {
+      "time": 46.70959999999404,
+      "text": "Les fruits bien mûrs au goût de miel",
+      "translation": "Ripe fruit with a honeyed taste",
+      "grammar": "The phrase \"bien mûrs\" is an idiomatic expression meaning \"ripe\" or \"fully developed\", using the adverb \"bien\" to emphasize the state of being ripe."
+    },
+    {
+      "time": 52.435,
+      "text": "Ma vie Aïcha si tu m'aimes",
+      "translation": "My life, Aïcha, if you love me",
+      "grammar": "The phrase \"si tu m'aimes\" is an example of the subjunctive mood in French, used to express doubt or uncertainty about someone's feelings. The verb \"aimes\" agrees with the subject \"tu\" in number and person, indicating a hypothetical situation."
+    },
+    {
+      "time": 58.27890000000596,
+      "text": "J'irai où ton souffle nous mène",
+      "translation": "I will go wherever your breath leads us",
+      "grammar": "This idiomatic expression uses the future tense to convey a sense of willingness and surrender, with \"j'irai\" implying a commitment to follow one's intuition. The phrase also employs a subtle pronoun shift from \"je\" (I) to \"nous\" (us), emphasizing the shared experience and unity implied by the metaphorical \"souffle\" (breath)."
+    },
+    {
+      "time": 63.462400000005964,
+      "text": "Dans les pays d'ivoire et d'ébène",
+      "translation": "In the lands of ivory and ebony",
+      "grammar": "This idiomatic expression uses a poetic metaphor to describe a place or culture, rather than literal materials. The phrase is in the nominative absolute construction, functioning as an adverbial phrase modifying the main clause."
+    },
+    {
+      "time": 69.40659999999404,
+      "text": "J'effacerai tes larmes tes peines",
+      "translation": "I will wipe away your tears, your sorrows.",
+      "grammar": "The verb \"effacerai\" is in the future tense, indicating a promise or intention to take action. The phrase \"tes larmes tes peines\" uses the possessive adjective \"tes\" to emphasize the speaker's commitment to wiping away the listener's emotional pain."
+    },
+    {
+      "time": 75.13159999999404,
+      "text": "Rien n'est trop beau pour une si belle",
+      "translation": "Nothing is too good for such a beautiful woman",
+      "grammar": "This idiomatic expression uses the superlative form \"trop\" to emphasize the speaker's admiration, conveying that nothing is too wonderful or exceptional for this remarkable woman."
+    },
+    {
+      "time": 81.03840000000596,
+      "text": "Aïcha Aïcha écoute-moi",
+      "translation": "Aïcha, Aïcha, listen to me.",
+      "grammar": "The imperative mood is used in this line, with the verb \"écoute-moi\" (listen to me) addressed directly to someone, emphasizing the speaker's request."
+    },
+    {
+      "time": 86.49619999998808,
+      "text": "Aïcha Aïcha t'en va pas",
+      "translation": "Aïcha, Aïcha, don't go!",
+      "grammar": "The phrase \"t'en va\" is an idiomatic expression in French, equivalent to the English idiom \"don't go\". It uses the informal \"tu\" form and the imperative mood to convey a sense of urgency."
+    },
+    {
+      "time": 92.15169999998808,
+      "text": "Aïcha Aïcha regarde-moi",
+      "translation": "Aïcha, Aïcha, look at me!",
+      "grammar": "The imperative mood is used to express a command or request, as seen in \"regarde-moi\" (look at me!), which is the second person singular form of the verb. The use of the reflexive pronoun \"moi\" emphasizes the speaker's direct address."
+    },
+    {
+      "time": 97.87229999998212,
+      "text": "Aïcha Aïcha réponds-moi",
+      "translation": "Aïcha, Aïcha, answer me!",
+      "grammar": "The use of the verb \"réponds\" in the present tense implies a sense of urgency or immediacy, as if the speaker is expecting an immediate response from Aïcha. The phrase \"réponds-moi\" can be translated to English as \"answer me\", emphasizing the imperative mood and the speaker's request for a prompt response."
+    },
+    {
+      "time": 103.82279999998212,
+      "text": "Je dirai les mots des poèmes",
+      "translation": "I will recite the words of the poems.",
+      "grammar": "The verb \"dirai\" is in the future tense, indicating a planned action. The phrase \"les mots des poèmes\" uses the definite article \"les\" to refer to a specific set of words, emphasizing their importance."
+    },
+    {
+      "time": 109.24679999998212,
+      "text": "Je jouerai les musiques du ciel",
+      "translation": "I will play the music of the sky",
+      "grammar": "The phrase \"je jouerai\" is in the future tense, indicating a planned or intended action. The idiomatic expression \"du ciel\" means \"of the sky\" rather than literally referring to celestial music."
+    },
+    {
+      "time": 114.96559999999404,
+      "text": "Je prendrai les rayons du soleil",
+      "translation": "I will take the sun's rays",
+      "grammar": "The verb prendre is in the future tense, indicating a planned action. The idiomatic expression \"prendre les rayons\" means to absorb or benefit from something, rather than literally taking physical rays of sunlight."
+    },
+    {
+      "time": 120.65269999998807,
+      "text": "Pour éclairer tes yeux de reine",
+      "translation": "To light up your queenly eyes",
+      "grammar": "The phrase \"pour éclairer\" is an idiomatic expression that conveys a figurative action, using the present tense to describe a desired or intended action in the future."
+    },
+    {
+      "time": 126.5885,
+      "text": "Aïcha Aïcha écoute-moi",
+      "translation": "Aïcha, Aïcha, listen to me.",
+      "grammar": "The imperative mood is used in \"écoute-moi\" to express a direct command, with the reflexive pronoun \"moi\" emphasizing the speaker's request."
+    },
+    {
+      "time": 132.09759999999403,
+      "text": "Aïcha Aïcha t'en va pas",
+      "translation": "Aïcha, Aïcha, don't go!",
+      "grammar": "The phrase \"t'en va\" is an idiomatic expression in French, equivalent to the English idiom \"don't go\". The verb \"va\" is in the imperative mood and second person singular form, agreeing with the pronoun \"t'en\", which is a contraction of \"te\" (to you) and the possessive adverb \"en\" meaning \"from it/them\"."
+    },
+    {
+      "time": 138.58690000000595,
+      "text": "Elle a dit garde tes trésors",
+      "translation": "She said, \"Keep your treasures.\"",
+      "grammar": "The verb \"a dit\" is in the passé composé tense, indicating that the action of saying was completed before another action in the past. The phrase \"garde tes trésors\" is an idiomatic expression meaning \"keep your valuables\", with \"tes\" agreeing with the feminine subject \"Elle\"."
+    },
+    {
+      "time": 143.4451999999881,
+      "text": "Moi je vaux mieux que tout ça",
+      "translation": "I'm worth more than all that",
+      "grammar": "This informal expression uses the present tense to convey a sense of self-assertion, with \"je\" (I) and \"vaux\" (am worth) in the same sentence emphasizing the speaker's confidence. The phrase \"Moi je\" is an idiomatic way to express personal pride or self-worth."
+    },
+    {
+      "time": 149.23729999998213,
+      "text": "Des barreaux sont des barreaux même en or",
+      "translation": "Bars are bars, even if they're made of gold.",
+      "grammar": "This idiomatic expression illustrates the concept of \"equivocation\" in French, where a phrase is used to convey a universal truth despite its literal meaning. The sentence emphasizes that social status or material wealth do not change one's fundamental nature."
+    },
+    {
+      "time": 153.99079999998213,
+      "text": "Je veux les mêmes droits que toi",
+      "translation": "I want the same rights as you.",
+      "grammar": "This line illustrates the use of the informal \"tu\" form, which is often used in spoken French among friends or people with a close relationship. The phrase \"que toi\" is an idiomatic expression meaning \"as you\"."
+    },
+    {
+      "time": 161.19959999999404,
+      "text": "Et du respect pour chaque jour",
+      "translation": "And respect for each day",
+      "grammar": "This phrase uses the present continuous tense to express a sense of ongoing commitment, emphasizing the importance of showing respect every day."
+    },
+    {
+      "time": 164.4175,
+      "text": "Moi je ne veux que de l'amour",
+      "translation": "All I want is love.",
+      "grammar": "The phrase \"Moi je\" is an idiomatic expression used to emphasize the speaker's personal desire, equivalent to saying \"I myself\". The verb \"veux\" is in the present tense, indicating a persistent and ongoing desire."
+    },
+    {
+      "time": 175.3261999999881,
+      "text": "نبغيك عيشة ونموت عليك",
+      "translation": "نبغيك عيشة ونموت عليك",
+      "grammar": "This line is an idiomatic expression in Arabic, where the verb \"نبغيك\" (nabgik) means \"to live\" or \"to exist\" in the present tense, and \"عيشة\" (aya) is a possessive pronoun meaning \"your life\"."
+    },
+    {
+      "time": 188.36929999998213,
+      "text": "هادي قصية حياتي وحبي",
+      "translation": "هادي قصية حياتي وحبي",
+      "grammar": "This phrase uses the idiomatic expression \"هادي\" (hadi), which is an adverb meaning \"like this\" or \"in this way\", indicating a sense of familiarity and intimacy."
+    },
+    {
+      "time": 188.8617999999821,
+      "text": "أنتي عمري وأنتي حياتي",
+      "translation": "أنتي عمري وأنتي حياتي",
+      "grammar": "This line is an idiomatic expression, where \"أنتي\" (anti) is used as a possessive pronoun to mean \"my life\" or \"my time\", emphasizing the speaker's strong emotional connection."
+    },
+    {
+      "time": 189.2717999999821,
+      "text": "تمنيت نعيش معاك غير أنتي، اوه اوه",
+      "translation": "تمنيت نعيش معاك غير أنتي، اوه اوه",
+      "grammar": "The phrase \"تمنيت\" (tmanit) is an expression of regret or longing, often translated as \"I wish\" in English. Note that the verb tense remains unchanged throughout the sentence, conveying a sense of perpetual yearning."
+    },
+    {
+      "time": 199.93240000000597,
+      "text": "Aïcha Aïcha écoute-moi",
+      "translation": "Aïcha, Aïcha, listen to me.",
+      "grammar": "The imperative mood is used in this line, with the verb \"écoute-moi\" (listen to me) being a direct command addressed to someone. The use of the particle \"-moi\" at the end of the sentence emphasizes the speaker's request and adds a sense of intimacy."
+    },
+    {
+      "time": 225.587,
+      "text": "عيشة عيشة أنا نبغيك، اوه اوه",
+      "translation": "عيشة عيشة أنا نبغيك، اوه اوه",
+      "grammar": "This line features an exclamation (\"أنا نبغيك\" and \"اوه اوه\") used to express strong emotions, emphasizing the speaker's enthusiasm. The verb \"نبغيك\" is in the present tense, indicating a sense of urgency or emphasis."
+    },
+    {
+      "time": 225.587,
+      "text": "Aïcha Aïcha t'en va pas",
+      "translation": "Aïcha, Aïcha, don't go!",
+      "grammar": "The phrase \"t'en va\" is an idiomatic expression in French, equivalent to the English idiom \"don't go\". It uses the informal second-person singular pronoun \"t'\" (meaning \"you\") and the verb \"aller\" (\"to go\") in the imperative mood."
+    },
+    {
+      "time": 239.001,
+      "text": "عيشة عيشة ونموت غليك",
+      "translation": "عيشة عيشة ونموت غليك",
+      "grammar": "This idiomatic expression uses the imperative mood to convey a sense of urgency and intimacy, with the repeated use of \"عيشة\" emphasizing the speaker's emotional plea. The phrase is often used to express deep affection or longing."
+    },
+    {
+      "time": 239.001,
+      "text": "Aïcha Aïcha réponds-moi",
+      "translation": "Aïcha, Aïcha, answer me!",
+      "grammar": "The imperative mood is used to express a direct request or command, as in \"réponds-moi\" (answer me!), with the verb agreeing with the subject \"moi\" (me)."
+    },
+    {
+      "time": 248.17,
+      "text": "Lalala lalala lalala يا ليلي",
+      "translation": "Lalala lalala lalala يا ليلي",
+      "grammar": "This line features a playful use of repetition, with the phrase \"Lalala\" functioning as an interjection to convey joy and excitement. The Arabic phrase \"يا ليلي\" is an address or vocative, used to express affection or familiarity towards someone named Lily."
+    },
+    {
+      "time": 248.17,
+      "text": "Lalala lalala lalala",
+      "translation": "Lalala lalala lalala",
+      "grammar": "This line is an example of onomatopoeia, a figure of speech that imitates the sound it describes. The repeated \"la\" sounds mimic the musical or melodic quality of the phrase, creating a playful and carefree atmosphere."
+    }
+  ]
+}

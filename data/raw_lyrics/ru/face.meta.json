@@ -1,0 +1,16 @@
+{
+  "language": "ru",
+  "title": "ЛАБИРИНТ",
+  "artist": "FACE",
+  "slug": "face",
+  "track_length_seconds": 169,
+  "source": {
+    "provider": "musixmatch",
+    "track_id": 185421699,
+    "commontrack_id": 101372241,
+    "track_share_url": "https://www.musixmatch.com/lyrics/Face/%D0%9B%D0%90%D0%91%D0%98%D0%A0%D0%98%D0%9D%D0%A2?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "track_edit_url": "https://www.musixmatch.com/lyrics/Face/%D0%9B%D0%90%D0%91%D0%98%D0%A0%D0%98%D0%9D%D0%A2/edit?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "search_language": "ru",
+    "fetched_at": "2025-11-27T14:56:23.513735Z"
+  }
+}

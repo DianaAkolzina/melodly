@@ -1,0 +1,313 @@
+{
+  "id": "lv_etri_krasti",
+  "title": "Četri krasti",
+  "artist": "Prāta Vētra",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "lv",
+  "to_language": "en",
+  "audio": "/audio/lv_etri_krasti.mp3",
+  "duration": 250,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 7.27140000000596,
+      "text": "Lai iesper zibens, gaudo suns",
+      "translation": "Let the lightning strike, the dog howls",
+      "grammar": "The phrase \"Lai iesper zibens\" is an idiomatic expression that uses the imperative mood to convey a sense of urgency and permission, similar to English phrases like \"Let it happen\" or \"Let things take their course\". The verb \"iesper\" is in the third person singular form, indicating a general permission rather than a specific action."
+    },
+    {
+      "time": 11.847799999982119,
+      "text": "Mēs šonakt piedzimsim no jauna",
+      "translation": "We will be born again tonight",
+      "grammar": "The verb \"piedzimsim\" is in the future tense, indicating a planned or intended action. The phrase \"no jauna\" can be translated as \"again\" and implies repetition or renewal."
+    },
+    {
+      "time": 16.23240000000596,
+      "text": "Tad četros krastos degsies guns",
+      "translation": "Then the fire will burn on the four shores",
+      "grammar": "The verb \"krastos\" is in the future tense, indicating that the action of burning will continue to happen. The phrase \"degšu sētās\" can be translated as \"on the four shores\", using a common Latvian idiom where \"sētas\" means \"shores\" but also implies a sense of boundaries or limits."
+    },
+    {
+      "time": 20.7485,
+      "text": "Un lidos dzirksteles no kalna",
+      "translation": "And sparks will fly from the mountain",
+      "grammar": "The phrase \"un lidos\" is an idiomatic expression in Latvian, equivalent to English \"and sparks will fly\", conveying sudden and intense action. The verb \"lidos\" is in the future tense, indicating a predicted event."
+    },
+    {
+      "time": 26.05119999998808,
+      "text": "Šampaniet's līst",
+      "translation": "It's raining champagne.",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a vivid and whimsical scenario, rather than describing an actual weather condition."
+    },
+    {
+      "time": 30.01779999998212,
+      "text": "Ikreiz gadu mijā",
+      "translation": "Every year at the turn of the year",
+      "grammar": "This idiomatic phrase uses the present tense to describe a recurring annual event, with \"gadu\" implying a specific point in time rather than an entire period. The possessive pronoun \"mijā\" emphasizes the speaker's personal experience."
+    },
+    {
+      "time": 34.6335,
+      "text": "Domīgas zvaigznes",
+      "translation": "Thoughtful stars",
+      "grammar": "The phrase \"Domīgas zvaigznes\" uses the present participle form of the verb \"domīgt\" to convey a sense of continuous or ongoing thoughtfulness, rather than a specific moment in time."
+    },
+    {
+      "time": 38.107,
+      "text": "Slīkst manā akvārijā",
+      "translation": "Drowning in my aquarium",
+      "grammar": "The phrase \"slīkst\" is an idiomatic expression meaning \"to be overwhelmed\" or \"to feel suffocated\", rather than a literal description of being underwater. The verb \"slīkst\" is in the present continuous tense, indicating a sense of ongoing emotional distress."
+    },
+    {
+      "time": 43.59280000001192,
+      "text": "Viss it kā bijis",
+      "translation": "Everything seemed to be",
+      "grammar": "The phrase \"Viss it\" is an idiomatic expression in Latvian, equivalent to English \"everything seems to be\" or \"it all appears to be\". The verb \"bīt\" is in the past tense and has a sense of completed action."
+    },
+    {
+      "time": 47.49340000000596,
+      "text": "Un viss vēl ir priekšā",
+      "translation": "And everything is still ahead",
+      "grammar": "This phrase uses the present continuous tense to convey a sense of ongoing or future possibility, rather than a specific plan. The idiom \"viss\" (everything) emphasizes the scope of what's yet to come."
+    },
+    {
+      "time": 52.24360000002384,
+      "text": "Gaisma tik spoža",
+      "translation": "The light is so bright",
+      "grammar": "This idiomatic expression uses the present continuous tense to emphasize the intensity of the action, similar to English phrases like \"it's really happening\" or \"it's going on\". The adverb \"tik\" reinforces this idea, implying a strong and sudden brightness."
+    },
+    {
+      "time": 55.43780000001192,
+      "text": "Atver acis un droši nāc iekšā",
+      "translation": "Open your eyes and come inside safely.",
+      "grammar": "The verb \"atver\" is in the imperative mood, instructing the listener to take action. The phrase \"un droši\" uses the adverb \"droši\" to modify the verb \"nāc\", indicating the manner of coming inside."
+    },
+    {
+      "time": 60.26270000001788,
+      "text": "Lai iesper zibens, gaudo suns",
+      "translation": "Let the lightning strike, the dog howls",
+      "grammar": "The imperative mood is used to express a command or request, as in \"Let the lightning strike\" and \"the dog howls\". The verb agreement with the subject pronoun \"zibens\" (lightning) is omitted, which is common in Latvian when referring to abstract concepts."
+    },
+    {
+      "time": 64.495,
+      "text": "Mēs šonakt piedzimsim no jauna",
+      "translation": "We will be born again tonight",
+      "grammar": "The phrase \"šonakt\" is an idiomatic expression indicating a future event, equivalent to \"tonight\" in English. The verb \"piedzimsim\" is in the future tense, agreeing with the subject pronoun \"mēs\" (we)."
+    },
+    {
+      "time": 69.021,
+      "text": "Tad četros krastos degsies guns",
+      "translation": "Then the fire will burn on the four shores",
+      "grammar": "The verb \"krastos\" is in the future tense, indicating an action that will happen at a later time. The phrase \"degšies guns\" uses the idiomatic expression \"four shores\" to mean all or everything."
+    },
+    {
+      "time": 73.55410000002384,
+      "text": "Un lidos dzirksteles no kalna",
+      "translation": "And sparks will fly from the mountain",
+      "grammar": "This line uses the present tense to describe a future event, which is a common idiomatic expression in Latvian. The phrase \"lidos\" (will fly) is an idiom that implies sudden and unexpected action."
+    },
+    {
+      "time": 78.27840000000596,
+      "text": "Mēs būsim ceļa zīmes ceļā",
+      "translation": "We will be signposts on the way.",
+      "grammar": "The sentence uses the future tense with the verb \"būsim\" to express a promise or intention, indicating that the speakers plan to take an active role in guiding others."
+    },
+    {
+      "time": 82.35530000001192,
+      "text": "Un Sprīdītis uz meža takas",
+      "translation": "And Sprīdītis on the forest path",
+      "grammar": "The verb \"un\" is an idiomatic expression meaning \"and\" in English, used to connect two clauses or ideas. It does not indicate a specific tense or aspect, but rather serves as a conjunction to link the sentence parts together."
+    },
+    {
+      "time": 86.7625,
+      "text": "Ja vajag - caurums apakšveļā",
+      "translation": "If necessary - a hole in the underwear",
+      "grammar": "The phrase \"ja vajag\" is an idiomatic expression meaning \"if necessary\" or \"in case of need\", using the conditional mood to convey a sense of possibility."
+    },
+    {
+      "time": 91.10620000001788,
+      "text": "Lai ko par mums tad arī saka",
+      "translation": "No matter what they say about us",
+      "grammar": "The phrase \"no matter what\" is an idiom expressing indifference to various opinions or statements, often used in the present tense to convey a sense of resignation."
+    },
+    {
+      "time": 96.54220000001789,
+      "text": "Gaiši zils logs",
+      "translation": "Light blue window",
+      "grammar": "The phrase \"Gaiši\" is an idiomatic expression meaning \"light blue\", with \"gaiši\" being an adjective agreeing in number and case with the noun \"zils\" (window)."
+    },
+    {
+      "time": 100.92380000001192,
+      "text": "Vakaros vēlos",
+      "translation": "I want to in the evenings.",
+      "grammar": "The phrase \"vākaro\" is an idiomatic expression indicating a desire or intention, often translated as \"to want to\"."
+    },
+    {
+      "time": 105.227,
+      "text": "Es savus mīļos",
+      "translation": "I love you.",
+      "grammar": "The verb \"savus\" is in the present tense and expresses a strong emotional state, using the idiomatic phrase \"mīļos\" to convey affection."
+    },
+    {
+      "time": 108.76470000001788,
+      "text": "Zaudēju nakts seriālos",
+      "translation": "I lost my night in TV series",
+      "grammar": "The verb \"zaudēju\" is in the present tense, indicating a habitual or repeated action of losing one's time watching TV series. The phrase \"nakts seriālos\" can be translated as \"my night\" and functions as an idiomatic expression meaning \"one's free time\"."
+    },
+    {
+      "time": 114.02570000001788,
+      "text": "Gaiši zils stars",
+      "translation": "Light blue ray",
+      "grammar": "The phrase \"Gaiši\" is an idiomatic expression in Latvian, equivalent to \"beautifully\" or \"lovely\", used to describe something pleasant. It's often used to emphasize the beauty of a scene or experience."
+    },
+    {
+      "time": 118.317,
+      "text": "Neliek man mieru",
+      "translation": "Don't leave me alone.",
+      "grammar": "The phrase \"neliek\" is an imperative verb form, used to express a strong request or command, similar to the English idiom \"don't leave me\"."
+    },
+    {
+      "time": 122.80530000001193,
+      "text": "Un maldās uz vietas",
+      "translation": "And gets lost in the place",
+      "grammar": "The phrase \"un maldās\" is an idiomatic expression that uses the present continuous tense to convey a sense of habitual or frequent occurrence, implying that getting lost happens often in this particular place."
+    },
+    {
+      "time": 126.14620000001788,
+      "text": "Kā ģeogrāfs amatieru",
+      "translation": "As an amateur geographer",
+      "grammar": "This phrase uses the infinitive verb form ģeogrāfs to indicate a profession or occupation, similar to saying \"as a geographer\" in English. The use of amatieru emphasizes the speaker's lack of expertise in this field."
+    },
+    {
+      "time": 130.969,
+      "text": "Lai iesper zibens, gaudo suns",
+      "translation": "Let the lightning strike, the dog howls",
+      "grammar": "The imperative mood is used to express a command or request, with the verb \"lai\" (let) and \"giesper\" (strike) in the present tense. The phrase \"gaudo suns\" (the dog howls) functions as an idiomatic expression, emphasizing the intensity of the situation."
+    },
+    {
+      "time": 135.1935,
+      "text": "Mēs šonakt piedzimsism no jauna",
+      "translation": "We will be born again tonight",
+      "grammar": "The phrase \"piedzimsism\" is an idiomatic expression, literally meaning \"to give birth\", but figuratively conveying the idea of a new beginning or rebirth. The verb agrees with the subject pronoun \"mēs\" in the future tense, indicating a promise or intention to happen tonight."
+    },
+    {
+      "time": 139.43040000000596,
+      "text": "Tad četrsos krastos degsies guns",
+      "translation": "Then the fire will burn on the four shores",
+      "grammar": "The verb \"krastos\" is in the future tense, indicating a planned or anticipated action. The phrase \"degšies guns\" is an idiomatic expression meaning \"on all sides\" or \"everywhere\"."
+    },
+    {
+      "time": 143.9555,
+      "text": "Un lidos dzirksteles no kalna",
+      "translation": "And sparks will fly from the mountain",
+      "grammar": "The phrase \"lidos\" is in the future tense, indicating an expected or predicted action. The idiom \"dzirksteles\" means \"sparks\" but can also imply a sense of excitement or energy."
+    },
+    {
+      "time": 148.73090000000596,
+      "text": "Mēs būsim ceļa zīmes ceļā",
+      "translation": "We will be signposts on the way.",
+      "grammar": "The verb \"būsim\" is in the future tense, indicating a planned or intended action. The phrase \"ceļa zīmes\" uses an idiomatic expression to convey being a guiding force or example for others."
+    },
+    {
+      "time": 152.89930000001192,
+      "text": "Un Sprīdītis uz meža takas",
+      "translation": "And Sprīdītis on the forest path",
+      "grammar": "The phrase \"un\" is an indefinite article, equivalent to \"a\" in English, used with nouns that start with a consonant sound. In this context, it agrees with the noun \"Sprīdītis\", which is also masculine."
+    },
+    {
+      "time": 157.12010000002385,
+      "text": "Ja vajag- caurums apakšveļā",
+      "translation": "If necessary - a hole in the underwear",
+      "grammar": "The phrase \"vajag\" is an idiomatic expression indicating a hypothetical or conditional situation, equivalent to \"if necessary\" in English. The sentence is in the present tense, with a modal verb implying possibility or necessity."
+    },
+    {
+      "time": 161.53610000002385,
+      "text": "Lai ko par mums tad arī saka",
+      "translation": "No matter what they say about us",
+      "grammar": "The phrase \"Lai ko\" is an idiomatic expression indicating a hypothetical or speculative situation, often translated as \"no matter what\" or \"whatever\". It is used to express indifference or nonchalance towards external opinions or events."
+    },
+    {
+      "time": 186.80690000000595,
+      "text": "Kad diena ir galā var nākamo sākt",
+      "translation": "When the day is over, you can start the next one.",
+      "grammar": "The phrase \"kad diena ir galā\" is an idiomatic expression indicating a point in time when something ends or finishes. The verb \"ir\" is in the present tense, describing a completed action."
+    },
+    {
+      "time": 194.83280000001193,
+      "text": "Tā ir ar tām dienām- kāds iet un kāds nāk",
+      "translation": "That's how it is with those days - some go and some come.",
+      "grammar": "The phrase \"kāds iet\" and \"kāds nāk\" uses the indefinite pronoun \"kāds\" to indicate a general or unspecified group, equivalent to English \"some\"."
+    },
+    {
+      "time": 202.23660000002386,
+      "text": "Pulkstenis smilšu",
+      "translation": "Hourglass of sand",
+      "grammar": "This idiomatic expression uses the metaphorical concept of an hourglass to convey the fleeting nature of time, emphasizing the idea that life is slipping away like grains of sand. The phrase remains in the present tense, highlighting the urgency and immediacy of this concept."
+    },
+    {
+      "time": 206.29820000001789,
+      "text": "Nekad nekļūs lēnāks",
+      "translation": "Will never get slower",
+      "grammar": "This idiomatic expression uses the present tense to describe a future situation, which is common in Latvian. The phrase \"nekļūs\" means \"will not\" rather than \"won't\", emphasizing the speaker's determination that they will never slow down."
+    },
+    {
+      "time": 210.3375,
+      "text": "Kopā ir drošāk",
+      "translation": "It's safer together",
+      "grammar": "The phrase \"Kopā ir\" is an idiomatic expression indicating a change in tense from singular to plural, implying a sense of unity and collective safety."
+    },
+    {
+      "time": 213.7525,
+      "text": "Mēs vairs nedrīkstam slēpties ēnā",
+      "translation": "We can no longer hide in the shadows.",
+      "grammar": "The verb \"nedrīkstam\" is in the present tense, indicating a general truth or a sense of impossibility, rather than a specific action. The phrase \"vairs nedrīkstam\" is an idiomatic expression meaning \"can no longer\" or \"are unable to\"."
+    },
+    {
+      "time": 218.89460000002384,
+      "text": "Un lai iesper zibens, gaudo suns",
+      "translation": "And let the lightning strike, the dog howls",
+      "grammar": "The phrase \"un lai\" is an idiomatic expression meaning \"and then\" or \"next\", used to indicate a sequence of events. It is often translated as \"and\" in English, but its usage implies a sense of anticipation or expectation."
+    },
+    {
+      "time": 223.05220000001788,
+      "text": "Mēs šonakt piedzimsim no jauna",
+      "translation": "We will be born again tonight",
+      "grammar": "The phrase \"šonakt\" is an idiomatic expression indicating a future event, equivalent to \"tonight\" in English. The verb \"piedzimsim\" is in the future tense, agreeing with the first person plural subject pronoun \"mēs\"."
+    },
+    {
+      "time": 228.19480000001192,
+      "text": "Tad četros krastos degsies guns",
+      "translation": "Then the fire will burn on the four shores",
+      "grammar": "The verb \"krastos\" is in the future tense, indicating that the action of burning will continue to happen. The phrase \"degšu sētas\" can be translated as \"on the four shores\", using a common idiomatic expression in Latvian where the preposition \"sētā\" means \"on\" or \"at\"."
+    },
+    {
+      "time": 231.73160000002383,
+      "text": "Un lidos dzirksteles no kalna",
+      "translation": "And sparks will fly from the mountain",
+      "grammar": "This line uses the present tense to describe a hypothetical future event, which is common in poetic and lyrical language. The phrase \"dzirksteles\" is an idiom that means \"sparks\" or \"flashes of light\", adding to the vivid imagery of the lyrics."
+    },
+    {
+      "time": 236.461,
+      "text": "Mēs būsim ceļa zīmes ceļā",
+      "translation": "We will be signposts on the way.",
+      "grammar": "The verb \"būsim\" is in the future tense, indicating a planned or intended action. The phrase \"ceļa zīmes\" can be translated as \"signposts\" and is an idiomatic expression meaning to guide or direct others."
+    },
+    {
+      "time": 240.74180000001192,
+      "text": "Un Sprīdītis uz meža takas",
+      "translation": "And Sprīdītis on the forest path",
+      "grammar": "The verb \"Sprīdītis\" is in the present continuous tense, indicating an ongoing action. The phrase \"uz meža takas\" uses the preposition \"uz\" to indicate location, similar to English \"on the\"."
+    },
+    {
+      "time": 244.97420000001787,
+      "text": "Ja vajag - caurums apakšveļā",
+      "translation": "If necessary - a hole in the underwear",
+      "grammar": "The phrase \"ja vajag\" is an idiomatic expression meaning \"if necessary\" and is used to indicate a condition that may or may not occur, often with a sense of resignation. The verb \"vajag\" is in the third person singular present tense, indicating a general truth rather than a specific action."
+    },
+    {
+      "time": 249.39860000002383,
+      "text": "La ko par mums tad arī saka",
+      "translation": "So what do they say about us?",
+      "grammar": "The phrase \"La ko\" is an idiomatic expression used to ask about rumors or gossip, with the verb \"ko\" being in the present tense and indicating a general or ongoing situation."
+    }
+  ]
+}

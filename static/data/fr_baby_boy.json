@@ -1,0 +1,361 @@
+{
+  "id": "fr_baby_boy",
+  "title": "Baby Boy",
+  "artist": "Aya Nakamura feat. Kali Uchis",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_baby_boy.mp3",
+  "duration": 187,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 4.858300000011921,
+      "text": "Ooh",
+      "translation": "Ooh",
+      "grammar": "This interjection \"Ooh\" is an expression of surprise or excitement, often used to draw attention or convey enthusiasm."
+    },
+    {
+      "time": 6.790800000011921,
+      "text": "Inocente, no sea' tan inocente",
+      "translation": "Inocente, no sea' tan innocent",
+      "grammar": "This line uses the imperative mood to address someone directly, with a hint of irony and playfulness. The phrase \"no sea\" is an idiomatic expression meaning \"don't be\" or \"stop being\"."
+    },
+    {
+      "time": 8.92009999999404,
+      "text": "Aya Nakamura",
+      "translation": "Aya Nakamura",
+      "grammar": "This phrase is a proper noun and refers to the French singer-songwriter Aya Nakamura, rather than being a grammatical construction."
+    },
+    {
+      "time": 13.002099999994039,
+      "text": "J'suis la capitaine de son bateau",
+      "translation": "I'm the captain of his boat",
+      "grammar": "The use of \"j'suis\" instead of \"je suis\" is an informal idiomatic expression, typical in spoken French, to emphasize the speaker's role as the captain."
+    },
+    {
+      "time": 15.96080000001192,
+      "text": "Mais bébé, toi, j'te laisse me piloter",
+      "translation": "But baby, you, I'll let you take the reins.",
+      "grammar": "The phrase \"j'te laisse\" is an informal way of saying \"I'll let you\" in the present tense, using the reflexive pronoun \"te\" to emphasize the speaker's willingness to give up control."
+    },
+    {
+      "time": 18.7525,
+      "text": "T'es du genre à aimer tout commander",
+      "translation": "You're the type who likes to be in charge of everything",
+      "grammar": "The phrase \"du genre\" is an idiomatic expression meaning \"of the type\" or \"like\". It's used to describe someone's personality or behavior, and is often used informally."
+    },
+    {
+      "time": 21.61659999999404,
+      "text": "Monte à bord, monte à bord sans chavirer",
+      "translation": "Come aboard, come aboard without capsizing",
+      "grammar": "The imperative verb \"monte\" is in the present tense, emphasizing the urgency of the action. The idiom \"sans chavirer\" literally means \"without capsizing,\" but figuratively means to remain calm and composed."
+    },
+    {
+      "time": 24.9315,
+      "text": "À la base, j'les mène tous en bateau",
+      "translation": "Basically, I'm leading them all on.",
+      "grammar": "The phrase \"j'les mène\" is an idiomatic expression meaning \"to lead someone on\" or \"to deceive someone\". The verb \"mener\" is in the present tense and has a nuance of ongoing action."
+    },
+    {
+      "time": 27.66059999999404,
+      "text": "Il a mis son pied, son coeur sur moi dé-ter",
+      "translation": "He put his foot, his heart on me, determined",
+      "grammar": "This idiomatic expression uses the present perfect tense to convey a sense of completed action, emphasizing the speaker's determination. The phrase \"son pied, son coeur\" is an idiomatic way to express one's commitment or trust in someone."
+    },
+    {
+      "time": 30.48109999999404,
+      "text": "De mentir, j'ai cessé, cessé",
+      "translation": "I stopped lying, stopped",
+      "grammar": "The phrase \"j'ai cessé\" is in the passé composé tense, indicating a completed action in the past. The repetition of \"cessé\" emphasizes the speaker's decisive change."
+    },
+    {
+      "time": 33.72129999998212,
+      "text": "Il faut cesser, Il faut cesser de faire semblant",
+      "translation": "We must stop, we must stop pretending.",
+      "grammar": "The phrase \"il faut\" is an idiomatic expression meaning \"it's necessary\" or \"one must\", used to emphasize the importance of doing something. It is often used in the present tense to express a general necessity rather than a specific obligation."
+    },
+    {
+      "time": 36.45129999998212,
+      "text": "J'sais pas comment tu m'as vu, j'sais pas comment tu m'a eu",
+      "translation": "I don't know how you saw me, I don't know how you got me",
+      "grammar": "The use of \"j'sais\" instead of \"je sais\" is an informal, spoken idiom in French, indicating a casual tone and familiarity with the speaker."
+    },
+    {
+      "time": 39.14289999997616,
+      "text": "J'suis la reine de la sphère, pas deux comme moi dans la rue (nan, nan)",
+      "translation": "I'm the queen of the sphere, there's no one else like me on the street (no, no)",
+      "grammar": "The phrase \"J'suis\" is a casual, informal way to express the present tense in French, equivalent to \"I am\" or \"I'm\", often used in spoken language. The use of \"J'suis\" instead of formal \"Je suis\" emphasizes the speaker's confidence and assertiveness."
+    },
+    {
+      "time": 42.23989999997616,
+      "text": "C'était comme ça que ça s'est passé (s'est passé)",
+      "translation": "That's how it happened (happened)",
+      "grammar": "The use of \"c'était\" and \"ça\" in the sentence is an example of the French imperfect tense used to describe a past event, indicating that the speaker is not specifying exactly when the event occurred. The phrase \"comme ça que ça s'est passé\" is also an idiomatic expression meaning \"that's how it happened\"."
+    },
+    {
+      "time": 45.690299999982116,
+      "text": "Mes bobos au coeur, il a tout effacé (tout effacé)",
+      "translation": "He erased all my heartache (erased all)",
+      "grammar": "The phrase \"il a tout effacé\" is in the passé composé tense, indicating that the action of erasing was completed at some point in the past. The idiomatic expression \"tout effacé\" means to completely erase or eliminate something."
+    },
+    {
+      "time": 48.238,
+      "text": "Il a (il a) ce charme particulier (particulier)",
+      "translation": "He has (he has) that particular (particular) charm",
+      "grammar": "The repeated phrase \"Il a il a\" is an idiomatic expression in French, emphasizing the speaker's emphasis on having this unique charm. The use of the present perfect tense \"a\" with the pronoun \"il\" creates a sense of possession and certainty."
+    },
+    {
+      "time": 52.551799999982116,
+      "text": "Du bout des doigts me fait vibrer (fait vibrer)",
+      "translation": "The touch of my fingertips makes me vibrate (makes me vibrate)",
+      "grammar": "This idiomatic expression uses the present participle \"faint vibrer\" to convey a vivid and dynamic effect, emphasizing the intense emotional response triggered by the gentle touch."
+    },
+    {
+      "time": 55.50979999998212,
+      "text": "Il est bâti comme j'aime",
+      "translation": "It's built the way I like it.",
+      "grammar": "The phrase \"il est bâti\" is in the passive voice, indicating that the focus is on the building itself rather than who or what built it. The use of \"comme je aime\" is an idiomatic expression meaning \"the way I like it\"."
+    },
+    {
+      "time": 57.13619999998808,
+      "text": "Me fait kiffer, kiffer, kiffer, kiffer (kiffer, kiffer, kiffer)",
+      "translation": "It makes me love it, love it, love it, love it (love it, love it, love it)",
+      "grammar": "The phrase \"Me fait kiffer\" is an idiomatic expression that uses the reflexive pronoun \"me\" to indicate the subject's emotional response, rather than a literal action. The verb \"fait\" is in the present tense, describing the ongoing effect of something on the speaker."
+    },
+    {
+      "time": 60.50969999998808,
+      "text": "Il a (il a) ce charme particulier (particulier, 'lier 'lier)",
+      "translation": "He has (he has) that particular charm (particular, 'to bind')",
+      "grammar": "The repeated phrase \"il a\" is an idiomatic expression in French, equivalent to the English idiom \"he's got\", emphasizing possession and emphasizing the idea of having or possessing a certain quality."
+    },
+    {
+      "time": 64.21859999999404,
+      "text": "Du bout des doigts me fait vibrer",
+      "translation": "The touch of my fingertips makes me vibrate",
+      "grammar": "This idiomatic expression uses the present participle \"fait vibrer\" to convey a sense of immediate emotional response, emphasizing the sudden and intense effect of someone's touch."
+    },
+    {
+      "time": 67.587,
+      "text": "Il est bâti comme j'aime",
+      "translation": "It's built the way I like it.",
+      "grammar": "The phrase \"il est bâti\" is in the present passive voice, indicating a general or permanent state. The idiomatic expression \"comme je aime\" means \"the way I like it\"."
+    },
+    {
+      "time": 69.15559999999404,
+      "text": "Me fait kiffer, kiffer, kiffer, kiffer",
+      "translation": "It makes me love it, love it, love it, love it",
+      "grammar": "The phrase \"Me fait kiffer\" is an idiomatic expression using the verb faire in the passive voice to convey a strong emotional reaction, equivalent to \"I'm crazy about it\". The repeated use of \"kiffer\" emphasizes the intensity of the feeling."
+    },
+    {
+      "time": 72.46789999997615,
+      "text": "Qué miedo mi mente",
+      "translation": "How afraid my mind is",
+      "grammar": "This idiomatic expression uses the verb \"ser\" in the present tense to describe a state of being, rather than an action. The phrase \"mi mente\" is a possessive pronoun agreeing with the subject \"miedo\"."
+    },
+    {
+      "time": 74.36969999998809,
+      "text": "Todo lo que quiero lo tengo en frente",
+      "translation": "Todo lo queero lo tengo en frente",
+      "grammar": "This phrase uses the present perfect tense to express a sense of having everything one wants right in front of them, emphasizing possession rather than action. The idiom \"lo que quiero\" means \"what I want\"."
+    },
+    {
+      "time": 77.287,
+      "text": "Inocente, no sea' tan inocente",
+      "translation": "Inocente, no sea' tan innocent",
+      "grammar": "The phrase \"no sea'\" is an idiomatic expression in Spanish, equivalent to the English phrase \"don't be so\" or \"not that\". It's used to soften a criticism or advice, and the verb \"sea'\" is in the subjunctive mood."
+    },
+    {
+      "time": 80.41629999998212,
+      "text": "He was begging for a chance to be el siguiente",
+      "translation": "He was begging for a chance to be el siguiente",
+      "grammar": "The phrase \"el siguiente\" is an idiomatic expression meaning \"the next one\" or \"the following opportunity\"."
+    },
+    {
+      "time": 84.05569999998808,
+      "text": "In a room full of hoes, y me aburrí",
+      "translation": "In a room full of hoes, ye aburrí",
+      "grammar": "The phrase \"y me\" is an informal way to express the first person singular pronoun \"I\" in Spanish, often used in colloquial speech or song lyrics."
+    },
+    {
+      "time": 86.58489999997616,
+      "text": "Not easily impressed, this shit don't excite me",
+      "translation": "Not easily impressed, this shit don't excite me",
+      "grammar": "This informal expression uses the present simple tense to describe a general attitude, with the addition of \"don't\" for negation in the subordinate clause, creating a colloquial tone."
+    },
+    {
+      "time": 89.38519999998807,
+      "text": "Put me in a Rolls-Royce and an AMG",
+      "translation": "Put me in a Rolls-Royce and an AMG",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of desire or preference, rather than describing a specific action. The phrase \"put me\" is an imperative construction, equivalent to \"please put me\"."
+    },
+    {
+      "time": 92.27659999999403,
+      "text": "Tell these bitches play they role, can't no one compete",
+      "translation": "Tell these bitches play they role, can't no one compete",
+      "grammar": "This line uses the informal imperative mood to issue a command, with the idiomatic expression \"play their role\" meaning to take on a particular attitude or behavior. The sentence also employs the negation \"can't no one\" to emphasize the impossibility of competition."
+    },
+    {
+      "time": 95.23929999998212,
+      "text": "Can't no one compete",
+      "translation": "Can't no one compete",
+      "grammar": "This idiomatic expression uses the negation \"can't\" to emphasize the impossibility of someone competing, and the pronoun \"no one\" is used to indicate that it's not just anyone, but literally nobody."
+    },
+    {
+      "time": 96.51889999997616,
+      "text": "J'sais pas comment tu m'as vu, j'sais pas comment tu m'a eu",
+      "translation": "I don't know how you saw me, I don't know how you got me",
+      "grammar": "The use of \"j'sais\" instead of \"je sais\" is an informal idiomatic expression in French, often used in spoken language to convey a sense of uncertainty or hesitation."
+    },
+    {
+      "time": 99.31129999998213,
+      "text": "J'suis la reine de la sphère, pas deux comme moi dans la rue (nan, nan)",
+      "translation": "I'm the queen of the sphere, there's no one else like me on the street (no, no)",
+      "grammar": "The phrase \"J'suis\" is a contraction of \"je suis\", which is a formal way to express the present tense in French, used to emphasize the speaker's identity or status. The use of \"suis\" instead of \"sont\" agrees with the singular subject \"reine\"."
+    },
+    {
+      "time": 102.0955,
+      "text": "C'était comme ça que ça s'est passé (s'est passé)",
+      "translation": "That's how it happened (happened)",
+      "grammar": "The phrase \"C'était comme ça que ça s'est passé\" uses the passé composé tense to describe a completed past action, with \"c'était\" implying a narrative tone and \"comme ça\" conveying a sense of inevitability."
+    },
+    {
+      "time": 105.20029999998212,
+      "text": "Mes bobos au coeur, il a tout effacé (tout effacé)",
+      "translation": "He erased all my heartache (erased all)",
+      "grammar": "The phrase \"il a tout effacé\" is in the passé composé tense, indicating that the action of erasing was completed at some point in the past. The idiomatic expression \"tout effacé\" emphasizes the completeness of the erasure, implying that everything related to the heartache has been eliminated."
+    },
+    {
+      "time": 108.49439999997615,
+      "text": "Il a (il a) ce charme particulier (particulier)",
+      "translation": "He has (he has) that particular (particular) charm",
+      "grammar": "The repeated use of \"il a\" is an idiomatic expression in French, equivalent to the English phrase \"has got\", emphasizing possession and inherent quality. The agreement between \"il a\" and \"ce charme\" highlights the subject-possessor relationship."
+    },
+    {
+      "time": 112.14839999997616,
+      "text": "Du bout des doigts me fait vibrer (fait vibrer)",
+      "translation": "The touch of my fingertips makes me vibrate (makes me vibrate)",
+      "grammar": "This idiomatic expression uses the present tense to convey a vivid emotional experience, rather than describing an ongoing action. The use of \"fait vibrer\" instead of \"fait vibrer encore\" emphasizes the sudden and intense nature of the sensation."
+    },
+    {
+      "time": 115.607,
+      "text": "Il est bâti comme j'aime",
+      "translation": "It's built the way I like it.",
+      "grammar": "The phrase \"il est bâti\" is in the passive voice, indicating that the focus is on the building rather than the person or entity responsible for its construction. The use of \"j'aime\" (I like) suggests a subjective opinion, emphasizing the speaker's personal taste."
+    },
+    {
+      "time": 117.9465,
+      "text": "Me fait kiffer, kiffer, kiffer, kiffer (kiffer, kiffer, kiffer)",
+      "translation": "It makes me love it, love it, love it, love it (love it, love it, love it)",
+      "grammar": "The repeated phrase \"kiffer\" is an informal idiom meaning \"to love\" or \"to be fond of\", often used to express enthusiasm or affection."
+    },
+    {
+      "time": 120.27309999999405,
+      "text": "Il a (il a) ce charme particulier (particulier, 'lier 'lier)",
+      "translation": "He has (he has) that particular charm (particular, 'to bind')",
+      "grammar": "The repeated phrase \"il a\" is an idiomatic expression in French, equivalent to \"he's got\" or \"he possesses\", emphasizing the permanent nature of someone's charm."
+    },
+    {
+      "time": 124.57329999998211,
+      "text": "Du bout des doigts me fait vibrer",
+      "translation": "The touch of my fingertips makes me vibrate",
+      "grammar": "This idiomatic expression uses the present tense to convey a vivid, immediate experience, emphasizing the emotional impact of someone's gentle touch. The phrase \"du bout des doigts\" literally means \"from the tips of the fingers\", but figuratively describes the tender sensation that resonates deeply within."
+    },
+    {
+      "time": 127.49989999997617,
+      "text": "Il est bâti comme j'aime",
+      "translation": "It's built the way I like it.",
+      "grammar": "The phrase \"il est bâti\" is in the present passive voice, indicating that something is currently being constructed according to one's preferences. The idiomatic expression \"comme j'aime\" means \"the way I like it\", emphasizing personal taste."
+    },
+    {
+      "time": 129.10719999998807,
+      "text": "Me fait kiffer, kiffer, kiffer, kiffer",
+      "translation": "It makes me love it, love it, love it, love it",
+      "grammar": "This line uses the informal imperative verb form \"fait\" to express strong enthusiasm and affection, equivalent to saying \"makes me absolutely adore it\". The repetition of \"kiffer\" emphasizes the speaker's intense emotions."
+    },
+    {
+      "time": 132.32139999997617,
+      "text": "Il m'a donné rendez-vous au Garden",
+      "translation": "He arranged to meet me at the Garden",
+      "grammar": "The construction \"Il m'a donné\" is an idiomatic expression of the passive voice in French, using the auxiliary verb \"avoir\" and the past participle \"donné\"."
+    },
+    {
+      "time": 135.14609999999405,
+      "text": "Qu'est-ce qu'il est beau baby bout, goddamn",
+      "translation": "He's so handsome, baby bout, goddamn",
+      "grammar": "The phrase \"Qu'est-ce qu'il est\" is an idiomatic expression used to ask a rhetorical question in informal French, equivalent to \"What is he?\" or \"How beautiful is he?\" in English. The use of \"goddamn\" is an interjection expressing strong emphasis and surprise."
+    },
+    {
+      "time": 138.14089999997617,
+      "text": "J'habite, j'habite par ici",
+      "translation": "I live, I live around here",
+      "grammar": "The phrase \"j'habite\" is in the present tense and implies a sense of habit or routine, similar to the English idiom \"I live around here.\" The use of \"par ici\" instead of \"ici\" emphasizes the speaker's familiarity with their surroundings."
+    },
+    {
+      "time": 141.3025,
+      "text": "Baby, baby bout, viens me caresser",
+      "translation": "Baby, baby, come and pet me",
+      "grammar": "The phrase \"viens me caresser\" is an idiomatic expression using the imperative mood to convey a request or invitation. The verb \"venir\" (to come) is in the second person singular form, indicating that it's directed at someone specific."
+    },
+    {
+      "time": 144.1865,
+      "text": "Il m'a donné rendez-vous au Garden",
+      "translation": "He arranged to meet me at the Garden",
+      "grammar": "The use of \"Il\" and \"m'\" indicates a formal, polite tone, with \"il\" being the subject pronoun in the third person singular masculine and \"m'\" being the object pronoun in the accusative case. This construction is an example of the formal \"vous\" form used to show respect or politeness."
+    },
+    {
+      "time": 147.16239999997615,
+      "text": "Qu'est-ce qu'il est beau baby bout, goddamn",
+      "translation": "He's so handsome, baby bout, goddamn",
+      "grammar": "The phrase \"Qu'est-ce qu'il est\" is an idiomatic expression used to ask a question about someone's appearance or character, equivalent to \"How good-looking is he?\" in English. The use of \"goddamn\" is an interjection expressing strong emphasis and surprise."
+    },
+    {
+      "time": 150.16559999999404,
+      "text": "J'habite, j'habite par ici",
+      "translation": "I live, I live around here",
+      "grammar": "The phrase \"j'habite\" is in the present tense and implies a sense of being settled or accustomed to a place, similar to the English idiom \"I'm from around here\". The repeated use of \"j'habite\" emphasizes the speaker's connection to their surroundings."
+    },
+    {
+      "time": 153.14529999998211,
+      "text": "Baby, baby bout, viens me caresser",
+      "translation": "Baby, baby, come and pet me",
+      "grammar": "The phrase \"viens me caresser\" is an informal invitation in the imperative mood, using the second person singular \"viens\" to address someone."
+    },
+    {
+      "time": 160.2965,
+      "text": "Baby, baby bout",
+      "translation": "Baby, baby but",
+      "grammar": "This informal phrase uses the idiomatic expression \"bout\" to convey a sense of excitement or enthusiasm, rather than its literal meaning. The sentence is likely in the present tense and has an imperative mood, encouraging the listener to share in the speaker's emotions."
+    },
+    {
+      "time": 160.95509999999405,
+      "text": "Baby, baby bout",
+      "translation": "Baby, baby but",
+      "grammar": "This informal phrase uses a colloquialism to express enthusiasm or excitement, with \"bout\" being an idiomatic particle equivalent to \"about\" or \"concerning\"."
+    },
+    {
+      "time": 162.60879999998212,
+      "text": "Baby, baby bout",
+      "translation": "Baby, baby but",
+      "grammar": "This line uses an informal, colloquial expression to address someone in a familiar tone. The phrase \"bout\" is an idiom meaning \"about\" or \"concerning\"."
+    },
+    {
+      "time": 165.49719999998808,
+      "text": "Baby, baby bout",
+      "translation": "Baby, baby but",
+      "grammar": "This informal phrase uses a colloquialism to express affection or familiarity, similar to saying \"honey\" or \"sweetheart\". The sentence is in the present tense and has an imperative mood, as it's an invitation or expression of enthusiasm."
+    },
+    {
+      "time": 166.86829999998213,
+      "text": "Baby, baby bout",
+      "translation": "Baby, baby but",
+      "grammar": "This line uses an informal idiomatic expression \"bout\" to convey a sense of excitement or enthusiasm, rather than indicating a specific topic. The sentence is written in the present continuous tense, emphasizing the ongoing nature of the speaker's emotions."
+    },
+    {
+      "time": 179.32380000001191,
+      "text": "Gabriel, call me back",
+      "translation": "Gabriel, call me back",
+      "grammar": "The imperative mood is used to express a direct command or request, as in \"call me back\"."
+    }
+  ]
+}

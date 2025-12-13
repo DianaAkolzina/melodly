@@ -1,0 +1,367 @@
+{
+  "id": "ru_baby_mama",
+  "title": "Baby mama",
+  "artist": "Scriptonite feat. Райда",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_baby_mama.mp3",
+  "duration": 232,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 13.400899999976158,
+      "text": "Это греховная связь, но я хотел только грязь",
+      "translation": "This is a sinful bond, but I wanted only dirt",
+      "grammar": "The phrase 'греховная связь' uses the noun 'связь' in the sense of a strong emotional connection or tie, rather than its literal meaning of 'connection'."
+    },
+    {
+      "time": 18.45469999998808,
+      "text": "Изначально, детка, мы с тобой долго молчали",
+      "translation": "At first, baby, you and I were silent for a long time",
+      "grammar": ""
+    },
+    {
+      "time": 22.84219999998808,
+      "text": "О наших тайнах, твои подруги развеют печаль",
+      "translation": "About our secrets, your friends will dispel sadness",
+      "grammar": ""
+    },
+    {
+      "time": 27.229799999952316,
+      "text": "Рассмотрим детально",
+      "translation": "Let's take a closer look",
+      "grammar": ""
+    },
+    {
+      "time": 29.175799999952318,
+      "text": "Будем делать это всю ночь, всю ночь",
+      "translation": "We'll do this all night, all night",
+      "grammar": ""
+    },
+    {
+      "time": 32.857600000023844,
+      "text": "За окном ливень стеной",
+      "translation": "There's a wall of rain outside the window",
+      "grammar": ""
+    },
+    {
+      "time": 34.53260000002384,
+      "text": "С утра — немое кино, кино",
+      "translation": "In the morning - silent film, cinema",
+      "grammar": ""
+    },
+    {
+      "time": 36.84269999998808,
+      "text": "Oh no-no-no (no-no-no)",
+      "translation": "Oh no-no-no (no-no-no)",
+      "grammar": ""
+    },
+    {
+      "time": 38.50119999998808,
+      "text": "Будем делать это всю ночь, всю ночь",
+      "translation": "We'll do this all night, all night",
+      "grammar": ""
+    },
+    {
+      "time": 41.43340000003576,
+      "text": "За окном ливень стеной",
+      "translation": "There's a wall of rain outside the window",
+      "grammar": ""
+    },
+    {
+      "time": 43.47940000003576,
+      "text": "С утра — немое кино, кино",
+      "translation": "In the morning - silent film, cinema",
+      "grammar": ""
+    },
+    {
+      "time": 46.033,
+      "text": "Oh no-no-no (no-no-no)",
+      "translation": "Oh no-no-no (no-no-no)",
+      "grammar": ""
+    },
+    {
+      "time": 47.935100000023844,
+      "text": "Прости, я не смог",
+      "translation": "Sorry, I couldn't",
+      "grammar": ""
+    },
+    {
+      "time": 49.88769999998808,
+      "text": "Тут невиновен ни smoke, ни дымок",
+      "translation": "Neither smoke nor fumes are to blame here.",
+      "grammar": ""
+    },
+    {
+      "time": 52.66280000001192,
+      "text": "Всё это тянет на срок, я не тот",
+      "translation": "All this drags on for a while, I'm not the one",
+      "grammar": ""
+    },
+    {
+      "time": 56.677199999988076,
+      "text": "Детка, пойми я не тот, всё время на занятом",
+      "translation": "Baby, understand I'm not the same, I'm always busy",
+      "grammar": ""
+    },
+    {
+      "time": 61.15769999998808,
+      "text": "Так что читай между строк",
+      "translation": "So read between the lines.",
+      "grammar": ""
+    },
+    {
+      "time": 64.46780000001192,
+      "text": "Это стоп! Это всё",
+      "translation": "Stop it! That's it!",
+      "grammar": ""
+    },
+    {
+      "time": 66.16610000002385,
+      "text": "Будем делать это всю ночь, всю ночь",
+      "translation": "We'll do this all night, all night",
+      "grammar": ""
+    },
+    {
+      "time": 68.18740000003577,
+      "text": "За окном ливень стеной",
+      "translation": "There's a wall of rain outside the window",
+      "grammar": ""
+    },
+    {
+      "time": 70.98360000002384,
+      "text": "С утра — немое кино, кино",
+      "translation": "In the morning - silent film, cinema",
+      "grammar": ""
+    },
+    {
+      "time": 73.73940000003576,
+      "text": "Oh no-no-no (no-no-no)",
+      "translation": "Oh no-no-no (no-no-no)",
+      "grammar": ""
+    },
+    {
+      "time": 75.47469999998808,
+      "text": "Будем делать это всю ночь, всю ночь",
+      "translation": "We'll do this all night, all night",
+      "grammar": ""
+    },
+    {
+      "time": 78.338,
+      "text": "За окном ливень стеной",
+      "translation": "There's a wall of rain outside the window",
+      "grammar": ""
+    },
+    {
+      "time": 80.02969999998808,
+      "text": "С утра — немое кино, кино",
+      "translation": "In the morning - silent film, cinema",
+      "grammar": ""
+    },
+    {
+      "time": 82.99830000001192,
+      "text": "Oh no-no-no (no-no-no)",
+      "translation": "Oh no-no-no (no-no-no)",
+      "grammar": ""
+    },
+    {
+      "time": 85.68030000001193,
+      "text": "Погода влажная, как шлюха",
+      "translation": "The weather is wet as a whore",
+      "grammar": ""
+    },
+    {
+      "time": 88.66669999998808,
+      "text": "Льётся не бумага, но жара или вьюга",
+      "translation": "It's not paper that's pouring, but heat or a blizzard",
+      "grammar": ""
+    },
+    {
+      "time": 94.0915,
+      "text": "Всем всё одинаково, мне нужна не шуба",
+      "translation": "It's the same for everyone, I don't need a fur coat",
+      "grammar": ""
+    },
+    {
+      "time": 98.0465,
+      "text": "Мне нужна афганка, у меня есть трубка",
+      "translation": "I need an Afghan, I have a pipe",
+      "grammar": ""
+    },
+    {
+      "time": 102.771,
+      "text": "Мне всё фиолетово",
+      "translation": "Everything is purple to me",
+      "grammar": "The phrase 'Мне всё' is a common way to express that something is true or the case for oneself, similar to 'to me' in English."
+    },
+    {
+      "time": 105.39640000003577,
+      "text": "Индика — подруга",
+      "translation": "Indica is a friend",
+      "grammar": ""
+    },
+    {
+      "time": 107.49619999998808,
+      "text": "Сатива — baby-мама",
+      "translation": "Sativa - baby-mother",
+      "grammar": ""
+    },
+    {
+      "time": 109.47669999998809,
+      "text": "Индика — подруга",
+      "translation": "Indica is a friend",
+      "grammar": ""
+    },
+    {
+      "time": 111.81369999998807,
+      "text": "Сатива — baby-мама",
+      "translation": "Sativa - baby-mother",
+      "grammar": ""
+    },
+    {
+      "time": 114.22869999998808,
+      "text": "Некрасиво вокруг, но",
+      "translation": "It's not pretty around, but",
+      "grammar": ""
+    },
+    {
+      "time": 116.39130000001192,
+      "text": "У меня есть трубка",
+      "translation": "I have a pipe",
+      "grammar": ""
+    },
+    {
+      "time": 118.71069999998808,
+      "text": "Индика — подруга",
+      "translation": "Indica is a friend",
+      "grammar": ""
+    },
+    {
+      "time": 120.91569999998808,
+      "text": "Сатива — baby-мама",
+      "translation": "Sativa - baby-mother",
+      "grammar": ""
+    },
+    {
+      "time": 123.45590000003577,
+      "text": "Мысли и бумага, вся аппаратура",
+      "translation": "Thoughts and paper, all the equipment",
+      "grammar": ""
+    },
+    {
+      "time": 128.95269999998808,
+      "text": "Звоню не по деньгам, я звоню прямо с Сатурна",
+      "translation": "I'm not calling for money, I'm calling directly from Saturn",
+      "grammar": ""
+    },
+    {
+      "time": 132.56040000003577,
+      "text": "Ты пишешь хиты, у меня для них есть урна",
+      "translation": "You write hits, I have a bin for them",
+      "grammar": ""
+    },
+    {
+      "time": 137.08610000002383,
+      "text": "Фемида в кружевах, на потоке всё ажурно",
+      "translation": "Themis in lace, everything is openwork on the flow",
+      "grammar": ""
+    },
+    {
+      "time": 141.83560000002385,
+      "text": "Сатива — подруга",
+      "translation": "Sativa - girlfriend",
+      "grammar": ""
+    },
+    {
+      "time": 144.094,
+      "text": "Индика — baby-мама",
+      "translation": "Indica - baby-mama",
+      "grammar": ""
+    },
+    {
+      "time": 146.31110000002383,
+      "text": "Сатива — подруга",
+      "translation": "Sativa - girlfriend",
+      "grammar": ""
+    },
+    {
+      "time": 148.52669999998807,
+      "text": "Индика — baby-мама",
+      "translation": "Indica - baby-mama",
+      "grammar": ""
+    },
+    {
+      "time": 150.93890000003577,
+      "text": "Некрасиво вокруг, но",
+      "translation": "It's not pretty around, but",
+      "grammar": ""
+    },
+    {
+      "time": 153.153,
+      "text": "У меня есть трубка",
+      "translation": "I have a pipe",
+      "grammar": ""
+    },
+    {
+      "time": 155.4863000000119,
+      "text": "Сатива — подруга",
+      "translation": "Sativa - girlfriend",
+      "grammar": ""
+    },
+    {
+      "time": 157.83760000002385,
+      "text": "Индика — baby-мама",
+      "translation": "Indica - baby-mama",
+      "grammar": ""
+    },
+    {
+      "time": 160.13730000001192,
+      "text": "Индика — подруга",
+      "translation": "Indica is a friend",
+      "grammar": ""
+    },
+    {
+      "time": 162.3733000000119,
+      "text": "Сатива — baby-мама",
+      "translation": "Sativa - baby-mother",
+      "grammar": ""
+    },
+    {
+      "time": 164.2895,
+      "text": "Индика — подруга",
+      "translation": "Indica is a friend",
+      "grammar": ""
+    },
+    {
+      "time": 166.7925,
+      "text": "Сатива — baby-мама",
+      "translation": "Sativa - baby-mother",
+      "grammar": ""
+    },
+    {
+      "time": 169.4195,
+      "text": "Некрасиво вокруг, но",
+      "translation": "It's not pretty around, but",
+      "grammar": ""
+    },
+    {
+      "time": 171.71010000002383,
+      "text": "У меня есть трубка",
+      "translation": "I have a pipe",
+      "grammar": ""
+    },
+    {
+      "time": 174.0186999999881,
+      "text": "Индика — подруга",
+      "translation": "Indica is a friend",
+      "grammar": ""
+    },
+    {
+      "time": 175.92110000002384,
+      "text": "Сатива — baby-мама",
+      "translation": "Sativa - baby-mother",
+      "grammar": ""
+    }
+  ]
+}

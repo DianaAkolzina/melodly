@@ -1,0 +1,259 @@
+{
+  "id": "gd_zulfa",
+  "title": "Zulfa",
+  "artist": "Jaz Dhami feat. Dr. Zeus, Shortie, Fateh & Yasmine",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "jam",
+  "to_language": "en",
+  "audio": "/audio/gd_zulfa.mp3",
+  "duration": 195,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Tu paa zulfa de jaal jaal,",
+      "translation": "You on zulfa the jaal jaal,",
+      "grammar": "This line uses the present continuous tense to describe an ongoing action, with \"jaal\" likely being an idiomatic expression meaning \"to be in a situation\"."
+    },
+    {
+      "time": 4.837,
+      "text": "neele naina de naal naal,",
+      "translation": "needles sew the needle needle,",
+      "grammar": "This line employs a metaphorical idiom, where \"needles\" and \"needle\" are used to convey the idea of sewing or stitching together, rather than referring to actual sewing tools. The repetition of \"naal\" emphasizes this creative process."
+    },
+    {
+      "time": 8.918,
+      "text": "munda keel pitari paya...",
+      "translation": "munda keel pitari swamp...",
+      "grammar": "The phrase \"munda keel\" is an idiomatic expression meaning \"swamp\" or \"muddy water\", which is used to describe a difficult or confusing situation. The verb \"pitari\" is in the present continuous tense, indicating ongoing action."
+    },
+    {
+      "time": 12.243,
+      "text": "Tu paa zulfa de jaal jaal,",
+      "translation": "You on zulfa the jaal jaal,",
+      "grammar": "This line uses the informal second-person singular pronoun \"tu\" to address someone, which is a common feature of Jamaican Patois. The verb phrase \"paa zulfa de jaal jaal\" is in the present continuous tense, indicating an ongoing action or situation."
+    },
+    {
+      "time": 17.08,
+      "text": "neele naina de naal naal,",
+      "translation": "needles sew the needle needle,",
+      "grammar": "This line employs a metaphorical idiom, where \"needles\" and \"needle\" are used to describe a creative process, rather than their literal meaning. The repetition of \"needle\" emphasizes the idea that small details or actions can collectively contribute to a larger whole."
+    },
+    {
+      "time": 21.161,
+      "text": "munda keel pitari paya...",
+      "translation": "munda keel pitari swamp...",
+      "grammar": "The phrase \"munda keel\" is an idiomatic expression, equivalent to \"my neck of the woods\", implying a familiar or native place. The verb \"pitari\" is in the present continuous tense, indicating ongoing action."
+    },
+    {
+      "time": 24.486,
+      "text": "na akh lagge na bhukh lagge",
+      "translation": "don't eat lagge don't bhukh lagge",
+      "grammar": "This idiomatic expression uses the negation \"na\" to convey a sense of reluctance or hesitation, rather than a straightforward prohibition. The verb forms \"lagge\" and \"bhukh lagge\" are in the imperative mood, emphasizing the speaker's reluctance to engage in these actions."
+    },
+    {
+      "time": 29.323,
+      "text": "na kidhre v hun sukh lagge",
+      "translation": "na kidhre v hun sukh lagge",
+      "grammar": "This line uses the present continuous tense to express a habitual or ongoing action, with \"sukh\" meaning \"peace\" or \"contentment\". The phrase \"na kidhre\" is an idiomatic expression indicating that this peaceful state is not found in worldly pursuits."
+    },
+    {
+      "time": 34.16,
+      "text": "tu rog keho jeha laya,",
+      "translation": "to the complaint of jeha laya,",
+      "grammar": "The phrase \"tu rog\" is an idiomatic expression in Jam, equivalent to English \"to the complaint of\", using the verb \"rog\" in the accusative case to indicate a sense of response or reaction."
+    },
+    {
+      "time": 38.241,
+      "text": "Tu paa zulfa de jaal jaal,",
+      "translation": "You on zulfa the jaal jaal,",
+      "grammar": "This line uses the informal second-person singular pronoun \"tu\" instead of the formal \"you\", which is common in casual conversations among friends."
+    },
+    {
+      "time": 43.079,
+      "text": "neele naina de naal naal,",
+      "translation": "needles sew the needle needle,",
+      "grammar": "This line employs a metaphorical idiom, where \"needles\" and \"needle\" are used to describe an intricate process, conveying the idea of careful attention or precision. The repetition of \"naal\" emphasizes this concept."
+    },
+    {
+      "time": 47.16,
+      "text": "munda keel pitari paya,",
+      "translation": "munda keel pitari swamp,",
+      "grammar": "This line uses the present participle form of the verb \"to be\" (paya) to describe a state or condition, which is common in Bangla poetry. The phrase \"munda keel pitari\" can be translated as \"swampy\" or \"overgrown\", conveying a sense of decay and neglect."
+    },
+    {
+      "time": 50.484,
+      "text": "Tu paa zulfa de jaal jaal,",
+      "translation": "You on zulfa the jaal jaal,",
+      "grammar": "This line uses the informal second-person singular pronoun \"tu\" and the idiomatic expression \"paa zulfa\", which is an Africanism in Jamaican Patois, equivalent to \"getting caught up\" or \"in a situation\"."
+    },
+    {
+      "time": 55.321,
+      "text": "neele naina de naal naal,",
+      "translation": "needles sew the needle needle,",
+      "grammar": "This line uses a metaphorical idiom to describe a creative process, where the speaker compares sewing with needles and thread to the act of creating art. The repetition of \"needle\" emphasizes the idea that the creative process is intricate and requires attention to detail."
+    },
+    {
+      "time": 59.402,
+      "text": "munda keel pitari paya,",
+      "translation": "munda keel pitari swamp,",
+      "grammar": "This line uses the present participle (-ing) form of the verb \"to be\" (paya) to describe a state or condition, indicating the mood is descriptive rather than imperative."
+    },
+    {
+      "time": 62.727,
+      "text": "tu dhadkan ban gai a chandre de dil di ni,",
+      "translation": "tu dhadkan ban gai a chandre de dil di ni,",
+      "grammar": "This line uses the present perfect tense to convey the idea that the speaker's heartbeat has become one with their soul, emphasizing the emotional connection."
+    },
+    {
+      "time": 70.589,
+      "text": "din kattda mar mar k jis din na mil di ni,",
+      "translation": "din kattda mar mar k jis din na mil di ni,",
+      "grammar": "This line uses the present continuous tense to describe an ongoing action, emphasizing the speaker's emotional state. The phrase \"jis din\" is an idiomatic expression meaning \"at that time\"."
+    },
+    {
+      "time": 79.207,
+      "text": "tu dhadkan ban gai a chandre de dil di ni,",
+      "translation": "tu dhadkan ban gai a chandre de dil di ni,",
+      "grammar": "This line uses the present perfect tense to convey a sense of completion, implying that the speaker's heart has been filled with longing. The phrase \"dhadkan ban gai\" is an idiomatic expression meaning \"my heartbeat has become\"."
+    },
+    {
+      "time": 87.069,
+      "text": "din kattda mar mar k jis din na mil di ni,",
+      "translation": "din kattda mar mar k jis din na mil di ni,",
+      "grammar": "This line uses the present continuous tense to describe an ongoing action, with \"din\" indicating a repeated or habitual occurrence. The phrase \"jis din\" is an idiomatic expression meaning \"at that time\"."
+    },
+    {
+      "time": 95.688,
+      "text": "kade ess mod kade oss mod,",
+      "translation": "so ess mod so oss mod,",
+      "grammar": "The phrase \"kade\" and \"oss\" are idiomatic expressions indicating a comparison or equivalence, similar to \"as... as\" in English. The sentence is structured in the present tense, with no specific mood or aspect indicated."
+    },
+    {
+      "time": 100.525,
+      "text": "teri lagdi ohnu tod tod,",
+      "translation": "teri lagdi ohnu tod tod,",
+      "grammar": "This line uses the present continuous tense to convey a sense of ongoing action, with \"lagdi\" indicating something is happening repeatedly. The phrase \"tod tod\" is an idiomatic expression meaning \"to tease or playfully bother someone\"."
+    },
+    {
+      "time": 104.606,
+      "text": "tu kehre nashe te laya,",
+      "translation": "you can't go home,",
+      "grammar": "The phrase \"tu kehre\" is an idiomatic expression in Punjabi, equivalent to the English idiom \"can't go home\", conveying a sense of being unable to return or go back."
+    },
+    {
+      "time": 108.687,
+      "text": "Tu paa zulfa de jaal jaal,",
+      "translation": "You on zulfa the jaal jaal,",
+      "grammar": "The phrase \"Tu paa\" is an idiomatic expression in Jamaican Patois, equivalent to \"You're on it\" or \"You got this\", using the informal second-person pronoun \"tu\" and the verb \"paa\" in the present continuous tense."
+    },
+    {
+      "time": 113.524,
+      "text": "neele naina de naal naal,",
+      "translation": "needles sew the needle needle,",
+      "grammar": "This line employs a metaphorical idiom, where \"needles\" and \"needle\" are used to describe the process of sewing or repairing something, rather than referring to actual needles. The repetition of \"naal\" emphasizes the idea that small actions can lead to larger consequences."
+    },
+    {
+      "time": 117.605,
+      "text": "munda keel pitari paya...",
+      "translation": "munda keel pitari swamp...",
+      "grammar": "The phrase \"munda keel\" is an idiomatic expression meaning \"to get stuck or bogged down\", with \"keel\" implying a sense of being mired in difficulties."
+    },
+    {
+      "time": 120.93,
+      "text": "Tu paa zulfa de jaal jaal,",
+      "translation": "You on zulfa the jaal jaal,",
+      "grammar": "The phrase \"Tu paa\" is an idiomatic expression in Jamaican Patois, equivalent to English \"You're on it\", using the present continuous tense to convey a sense of urgency or emphasis."
+    },
+    {
+      "time": 125.767,
+      "text": "neele naina de naal naal,",
+      "translation": "needles sew the needle needle,",
+      "grammar": "This idiom uses the present continuous tense to convey a sense of ongoing action, emphasizing the repetitive nature of sewing. The phrase \"needles sew\" is an idiomatic expression that mimics the sound and rhythm of actual sewing, rather than describing a specific action or event."
+    },
+    {
+      "time": 129.848,
+      "text": "munda keel pitari paya...",
+      "translation": "munda keel pitari swamp...",
+      "grammar": "The phrase \"munda keel\" is an idiomatic expression, literally meaning \"fool's field\", used to describe a situation that is chaotic or out of control. The verb \"pitari\" is in the present continuous tense, indicating ongoing chaos."
+    },
+    {
+      "time": 133.173,
+      "text": "gabru c phull warga firda kumlaya ni,",
+      "translation": "gabru c phull warga firda kumlaya ni,",
+      "grammar": "This line uses the present continuous tense to describe an ongoing action, with \"kumlaya\" meaning \"to be in a state of\" or \"to have\", implying a temporary or changing situation."
+    },
+    {
+      "time": 138.766,
+      "text": "tainu kokideep dil di gal keh na paya ni,,,",
+      "translation": "tainu kokideep dil di gal keh na paya ni,,,",
+      "grammar": "The use of \"\" (ni) is a casual particle indicating the speaker's emotional tone, similar to an interjection in English. It can be translated as \"you know\" or \"I mean\", and is often used to soften the tone of a sentence."
+    },
+    {
+      "time": 145.872,
+      "text": "gabru c phull warga firda kumlaya ni,",
+      "translation": "gabru c phull warga firda kumlaya ni,",
+      "grammar": "This line uses the present continuous tense to describe an ongoing action, with \"kumlaya\" indicating a gradual process. The phrase \"ni\" is a particle used to soften the tone and make the sentence more polite."
+    },
+    {
+      "time": 151.465,
+      "text": "tainu kokideep dil di gal keh na paya ni,,,",
+      "translation": "tainu kokideep dil di gal keh na paya ni,,,",
+      "grammar": "This line uses the present continuous tense to describe an ongoing action, with \"keh\" functioning as a particle indicating a habitual or customary action."
+    },
+    {
+      "time": 158.571,
+      "text": "kade behja aake kol kol,",
+      "translation": "so behja aake kol kol,",
+      "grammar": "This line uses the present continuous tense to express an ongoing or habitual action, with \"behja\" indicating simultaneous actions."
+    },
+    {
+      "time": 162.652,
+      "text": "do bol pyaar de bol bol,",
+      "translation": "do bol pyaar de bol bol,",
+      "grammar": "This line is an example of onomatopoeia, where the repetition of \"bol\" mimics the sound of a heartbeat or a rapid pulse, emphasizing the intensity of the emotions."
+    },
+    {
+      "time": 167.489,
+      "text": "haa karde kyu tadfaya,",
+      "translation": "haa karde kyu tadfaya,",
+      "grammar": "This line uses the informal, colloquial expression \"haa\" to convey a sense of surprise or excitement, similar to an interjection like \"oh wow\". The sentence is written in the present tense, with no specific subject-verb agreement required."
+    },
+    {
+      "time": 170.814,
+      "text": "Tu paa zulfa de jaal jaal,",
+      "translation": "You on zulfa the jaal jaal,",
+      "grammar": "This line uses the informal second-person singular pronoun \"tu\" and the idiomatic expression \"paa zulfa\", which is an African proverbial phrase meaning \"to be stuck in a situation\"."
+    },
+    {
+      "time": 175.651,
+      "text": "neele naina de naal naal,",
+      "translation": "needles sew the needle needle,",
+      "grammar": "This line employs a metaphorical idiom, where \"needles\" and \"needle\" are used to convey the idea of sewing or connecting things together, rather than referring to actual sewing tools. The repetition of \"naal\" emphasizes this creative connection."
+    },
+    {
+      "time": 179.732,
+      "text": "munda keel pitari paya...",
+      "translation": "inside keel pitari swamp...",
+      "grammar": "The phrase \"munda keel\" is an idiomatic expression in Jam, equivalent to \"deep inside\" or \"in the heart of\", conveying a sense of being thoroughly immersed in a situation."
+    },
+    {
+      "time": 183.057,
+      "text": "Tu paa zulfa de jaal jaal,",
+      "translation": "You on zulfa the jaal jaal,",
+      "grammar": "This line uses the informal second-person singular pronoun \"tu\" to address someone, which is common in Jamaican Patois. The phrase \"on zulfa\" can be translated as \"in a situation\" or \"in trouble\", and \"jaal jaal\" is an idiomatic expression emphasizing the gravity of the situation."
+    },
+    {
+      "time": 187.894,
+      "text": "neele naina de naal naal,",
+      "translation": "needles sew the needle needle,",
+      "grammar": "This line employs a metaphorical idiom, where \"needles\" and \"needle\" are used to describe an action (sewing) in a creative and imaginative way. The verb \"sew\" is implied through this poetic description, rather than being explicitly stated."
+    },
+    {
+      "time": 191.975,
+      "text": "munda keel pitari paya...",
+      "translation": "inside keel pitari swamp...",
+      "grammar": "The phrase \"munda keel\" is an idiomatic expression, equivalent to \"deep inside\" or \"in the heart of\", conveying a sense of being fully immersed in a particular situation. The verb \"pitari\" is in the imperative mood, indicating a command or instruction."
+    }
+  ]
+}

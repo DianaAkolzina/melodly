@@ -1,0 +1,217 @@
+{
+  "id": "gd_kokaina_20",
+  "title": "Kokaina 2.0",
+  "artist": "Don Xhoni feat. Gzuz",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fur",
+  "to_language": "en",
+  "audio": "/audio/gd_kokaina_20.mp3",
+  "duration": 119,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Mhm, ti s'ke punë knej, unë s'vij anej",
+      "translation": "Mhm, if you're not, you're right.",
+      "grammar": "This line uses the informal second-person singular pronoun \"you\" (unë) and the particle \"s'\" to indicate a negative response, which is a common idiomatic expression in Fur."
+    },
+    {
+      "time": 4.011,
+      "text": "Unë ty senë nuk t'them",
+      "translation": "Here's how to try",
+      "grammar": "In Fur, \"nuk\" is a negation particle used to form the present tense of the verb \"t'them\", indicating prohibition or refusal. This construction translates to English as a negative imperative, conveying the meaning \"Don't do it!"
+    },
+    {
+      "time": 6.537,
+      "text": "Ti s'ke punë knej, unë s'vij anej",
+      "translation": "If you don't know, you'll s'vij anej",
+      "grammar": "The phrase \"s'vij anej\" is a colloquial expression meaning \"you'll be in trouble\" or \"you're in for it\", using the informal second-person singular pronoun \"unë\" and the idiomatic verb \"s'vij\"."
+    },
+    {
+      "time": 10.177,
+      "text": "Unë ty senë nuk t'them (ça? Ça?)",
+      "translation": "This is the test (ça? Ça?)",
+      "grammar": "The use of \"ça?\" and \"Ça?\" is an idiomatic expression in Fur, equivalent to \"what\" or \"huh?\" in English, used to seek confirmation or clarification. The repetition of \"ça\" emphasizes the speaker's uncertainty or surprise."
+    },
+    {
+      "time": 13.446,
+      "text": "Je si kokaina, kokaina, s'po muj me t'lan (uh-uh)",
+      "translation": "If it's cocaine, cocaine, let's talk about it (uh-uh)",
+      "grammar": "The phrase \"s'po\" is an informal way to say \"let's\" in the first person plural, used to express a sense of shared experience or agreement."
+    },
+    {
+      "time": 18.199,
+      "text": "Je si kokaina, kokaina, ça je ka m'bon? (Ça? Ça?)",
+      "translation": "If I'm on cocaine, cocaine, is that good for me? (What? What?)",
+      "grammar": "The use of \"ça\" as a pronoun and particle to seek confirmation or agreement is a common idiomatic expression in French, often translated as \"what?\" or \"is that so?\", conveying a sense of inquiry or uncertainty."
+    },
+    {
+      "time": 22.581,
+      "text": "Ça je ka m'bon? Ça je ka m'bon? Hiç s'po menon (ça? Ça?)",
+      "translation": "Isn't that good? Isn't that good? Hiç if less (what? What?)",
+      "grammar": "The repeated use of \"Ça\" with different verb forms and particles (\"je\", \"ka\") illustrates the flexible nature of the Fur language, where word order can vary to convey emphasis or nuance."
+    },
+    {
+      "time": 28.818,
+      "text": "Je si kokaina",
+      "translation": "If cocaine",
+      "grammar": "This line uses the conditional tense (je) to express a hypothetical situation, and the phrase \"si kokaina\" is an idiomatic expression meaning \"if [something] were true\"."
+    },
+    {
+      "time": 30.232,
+      "text": "Ein paar Tausender am Tag, die sind schnell gemacht (schnell)",
+      "translation": "A pair of Tausender am Tag, die sind schnell gemacht (schnell)",
+      "grammar": "The phrase \"schnell gemacht\" is an idiomatic expression meaning \"done quickly\", with the verb \"gemacht\" in the passive voice and the adverb \"schnell\" indicating the manner."
+    },
+    {
+      "time": 34.243,
+      "text": "Jedes Problem mit AK aus der Welt geschafft (wow)",
+      "translation": "Thursday Problem with AK from the Welt geschafft (wow)",
+      "grammar": "The phrase \"jedes Problem\" is in the present tense, emphasizing that every issue has been resolved. The idiomatic expression \"aus der Welt geschafft\" literally means \"taken out of the world\", figuratively conveying a sense of complete removal or elimination."
+    },
+    {
+      "time": 37.882,
+      "text": "Geh für uns rein und hol raus, wie gefällt dir das? (Wie?)",
+      "translation": "Go for a kidney and whose head, wie gefällt say that? (End?)",
+      "grammar": "The phrase \"wie gefällt dir das?\" is an idiomatic way to ask someone's opinion or taste, using the verb \"gefallen\" in the present tense to convey a sense of general liking or disliking."
+    },
+    {
+      "time": 42.635,
+      "text": "Und ich kaufe dir ein'n brandneuen Felgensatz (wrrm)",
+      "translation": "And in the coffee shop, there's a Felgensatz brand (wrrm)",
+      "grammar": "The phrase \"kaufe dir\" is an informal way of saying \"buy for you\", using the dative object pronoun \"dir\" and the verb \"kaufen\" in the present tense. This construction is common in spoken German, particularly among friends or acquaintances."
+    },
+    {
+      "time": 46.275,
+      "text": "Was für 99? (Ja) wir hab'n tausende Luftballons (hah)",
+      "translation": "Was for 99? (Ja) there hab'n a thousand Luftballons (hah)",
+      "grammar": "The phrase \"wir hab'n\" is an informal, colloquial way to say \"we have\" in German, using the present perfect tense and the pronoun \"wir\" (we)."
+    },
+    {
+      "time": 50.286,
+      "text": "Baby, Hauptsachе, runterkomm'n (yes)",
+      "translation": "Baby, Hauptsachе, runterkomm'n (yes)",
+      "grammar": "The phrase \"Hauptsachе\" is an idiomatic expression meaning \"mainly\" or \"essentially\", used to emphasize the importance of something. The verb \"runterkomm'n\" is in the informal imperative mood, indicating a casual and intimate tone."
+    },
+    {
+      "time": 52.441,
+      "text": "Weißе Rosen und paar blaue Pill'n (blau)",
+      "translation": "Weißе Rose and a pair of Pill'n blue (black)",
+      "grammar": "The use of \"und paar\" is an idiomatic expression in Fur, equivalent to \"and some\" or \"a few\" in English, indicating a small quantity."
+    },
+    {
+      "time": 55.71,
+      "text": "Du hast 'ne rosarote Brille über dein'n Augenring'n (ah)",
+      "translation": "You've got the pink Brille on the right side of the Augenring (ah)",
+      "grammar": "The use of \"hast\" instead of \"hat\" indicates the speaker is addressing someone in the second person singular, maintaining a familiar tone. The phrase \"über dein'n Augenring'n\" employs the dative plural form to indicate the location on one's eyes."
+    },
+    {
+      "time": 60.092,
+      "text": "Na-Nase weiß, Schuhe mit rote Sohle",
+      "translation": "Na-Nase weiß, Schuhe mit rote Sohle",
+      "grammar": "The phrase \"mit rote\" is an idiomatic expression meaning \"with red\" rather than a literal description of the color."
+    },
+    {
+      "time": 62.99,
+      "text": "Verlass nie das Hause mehr ohne Kanone (nein)",
+      "translation": "Verlass daughter of Hause more about Kanone (grandchild)",
+      "grammar": "The phrase \"nie das\" is an idiomatic expression indicating a strong negation, equivalent to \"nevermore\". The use of \"mehr\" in the context of \"ohne Kanone\" implies a sense of necessity or obligation."
+    },
+    {
+      "time": 66.259,
+      "text": "Prishtina, ich bin stoned hier des Todes (ja)",
+      "translation": "Prishtina, I was stoned yesterday (yes)",
+      "grammar": "The use of the past perfect tense \"was stoned\" to describe a completed action in the past emphasizes its significance and connection to the speaker's current situation."
+    },
+    {
+      "time": 69.527,
+      "text": "Bist besser als Drogen, Babe, sag mir, ça bone? (Ça bone? Ça? Ça?)",
+      "translation": "Just kiss the Drogen, Babe, sag me, okay? (What good? What? What?)",
+      "grammar": "The repeated \"ça\" is an idiomatic expression in French, equivalent to \"what's good?\" or \"how's it going?\", used informally to seek agreement or confirmation."
+    },
+    {
+      "time": 74.651,
+      "text": "Je si kokaina, kokaina, s'po muj me t'lan (uh-uh)",
+      "translation": "If it's cocaine, cocaine, let's talk about it (uh-uh)",
+      "grammar": "The phrase \"s'po\" is a Fur idiomatic expression meaning \"let's\", used to invite conversation or action."
+    },
+    {
+      "time": 79.404,
+      "text": "Je si kokaina, kokaina, ça je ka m'bon? (Ça? Ça?)",
+      "translation": "If I'm on cocaine, cocaine, is that good for me? (What? What?)",
+      "grammar": "The use of \"ça\" in the lyric line is an idiomatic expression equivalent to \"what\" or \"is that so?\" in English, emphasizing the speaker's skepticism."
+    },
+    {
+      "time": 83.786,
+      "text": "Ça je ka m'bon? Ça je ka m'bon? Hiç s'po menon (ça? Ça?)",
+      "translation": "Isn't that good? Isn't that good? Hiç if less (what? What?)",
+      "grammar": "The repeated use of \"Ça\" in this lyric line is an idiomatic expression, where \"Ça\" functions as a pronoun and an adverb to ask for agreement or confirmation."
+    },
+    {
+      "time": 90.024,
+      "text": "Je si kokaina",
+      "translation": "If cocaine",
+      "grammar": "This line uses the conditional tense (je) to express a hypothetical situation, and the phrase \"si kokaina\" is an idiomatic expression meaning \"if cocaine\"."
+    },
+    {
+      "time": 91.437,
+      "text": "Nuk pritojna hiç për aksione",
+      "translation": "Nuk Pritojna hit for action.",
+      "grammar": "In Albanian, \"nuk\" is a negation particle used to indicate the absence or non-existence of something, similar to English \"not\". In this context, it's used to express the idea that something doesn't exist or happen."
+    },
+    {
+      "time": 93.593,
+      "text": "Jena t'njëjtë na, nuk ndërrojna role",
+      "translation": "Jena is right, we play the role",
+      "grammar": "The phrase \"nuk ndërrojna\" uses the plural form of the verb \"to change\" to agree with the plural subject \"we\", indicating a shared action. This construction is an example of the imperfective aspect in Albanian, used to describe ongoing or repeated actions."
+    },
+    {
+      "time": 96.49,
+      "text": "Kur t'dush ma shumë, veç a ki bole?",
+      "translation": "Where does the shower work, does it hurt?",
+      "grammar": "The phrase \"t'dush\" is an idiomatic expression meaning \"to work\" or \"to function\", often used to inquire about someone's well-being. The sentence uses the present tense to convey a sense of inquiry and curiosity."
+    },
+    {
+      "time": 100.13,
+      "text": "Na shkoi jeta n'rrugë me revole",
+      "translation": "The shkoi throws a rugë and turns me",
+      "grammar": "This line uses the idiomatic expression \"n'rrugë\" to mean \"and turns me\", employing the particle \"n'\" to indicate a change in direction or state, rather than a literal throwing of a rug."
+    },
+    {
+      "time": 103.028,
+      "text": "Pa-pak rëndësi ka se t'shkon trimnia",
+      "translation": "Fathers rendering to se t'shkon trimnia",
+      "grammar": "The verb \"rëndësi\" is in the imperative mood, indicating a command or instruction. The phrase \"t'shkon trimnia\" can be translated as \"to render\" and is an idiomatic expression meaning \"to give account\"."
+    },
+    {
+      "time": 106.296,
+      "text": "Mos ta msyfsha se t'shkon burrnia",
+      "translation": "How can I be like Burrnia?",
+      "grammar": "The phrase \"mos\" is an interrogative particle used to form a question, equivalent to \"how\" or \"what\". The verb \"msyfsha\" is in the present tense and polite mood, indicating a humble inquiry."
+    },
+    {
+      "time": 109.194,
+      "text": "Ëm kanë rrit mu me çiftelia",
+      "translation": "This is my rrit in çiftelia",
+      "grammar": "The phrase \"ëm kanë\" is a possessive construction, where \"ëm\" is an indefinite pronoun meaning \"my\" and \"kanë\" is the verb \"to be\" in the third person singular, indicating possession."
+    },
+    {
+      "time": 111.72,
+      "text": "Xhon Mafia (Albania)",
+      "translation": "Xhon Mafia (Albania)",
+      "grammar": "This phrase is an interjection, used to express surprise or emphasis, and remains in its original form in the English translation."
+    },
+    {
+      "time": 113.134,
+      "text": "Je si kokaina, kokaina, s'po muj me t'lan (uh-uh)",
+      "translation": "If it's cocaine, cocaine, let's talk about it (uh-uh)",
+      "grammar": "The phrase \"s'po\" is a Furic idiomatic expression meaning \"let's\" or \"shall we\", used to invite conversation."
+    },
+    {
+      "time": 117.887,
+      "text": "Je si kokaina",
+      "translation": "If cocaine",
+      "grammar": "This line uses the conditional tense (je) to express a hypothetical situation, and the phrase \"si kokaina\" is an idiomatic expression meaning \"if cocaine\"."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "gd_im_blue",
+  "title": "I'm Blue",
+  "artist": "Kirby",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ha",
+  "to_language": "en",
+  "audio": "/audio/gd_im_blue.mp3",
+  "duration": 145,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "I'm blue da ba dee da ba die",
+      "translation": "I'm blue and I don't die and I don't die",
+      "grammar": "The song uses the present continuous tense to express a state of being (\"I'm blue\"), which is idiomatic in English, implying a feeling or emotional state rather than a literal condition."
+    },
+    {
+      "time": 5.82,
+      "text": "Da ba dee da ba die, da ba dee da ba die, da ba dee da ba die",
+      "translation": "If you don't die, if you don't die, if you don't die, if you don't die",
+      "grammar": "The repeated phrase \"da ba dee\" is an idiom, emphasizing the idea of not dying through rhythmic repetition rather than a literal translation. The sentence remains in the present tense, expressing a sense of urgency and warning."
+    },
+    {
+      "time": 17.007,
+      "text": "Da ba dee da ba die, da ba dee da ba die, da ba dee da ba die",
+      "translation": "If you don't die, if you don't die, if you don't die, if you don't die",
+      "grammar": "The repeated phrase \"da ba dee\" is an idiom used to emphasize the idea of not dying, with the verb \"die\" in the imperative mood and present tense."
+    },
+    {
+      "time": 28.194,
+      "text": "I'm blue da ba dee da ba die",
+      "translation": "I'm blue and I don't die and I don't die",
+      "grammar": "This line uses the present continuous tense to express a state of being, with \"I'm\" indicating ongoing emotional distress. The phrase \"da ba dee da ba die\" is an idiomatic expression conveying a sense of resignation rather than literal death."
+    },
+    {
+      "time": 34.014,
+      "text": "Da ba dee da ba die, da ba dee da ba die, da ba dee da ba die",
+      "translation": "If you don't die, if you don't die, if you don't die, if you don't die",
+      "grammar": "The repeated phrase \"da ba dee\" is an idiom expressing repetition or emphasis, often used in informal speech. The consistent verb tense and mood (\"don't die\") create a sense of urgency and warning."
+    },
+    {
+      "time": 45.201,
+      "text": "Da ba dee da ba die, da ba dee da ba die, da ba dee da ba die",
+      "translation": "If you don't die, if you don't die, if you don't die, if you don't die",
+      "grammar": "The repeated phrase \"da ba dee\" is an idiom, emphasizing the importance of not dying, with each iteration increasing the sense of urgency. The consistent verb tense and mood (\"if you don't die\") maintain a sense of continuity throughout the lyric."
+    },
+    {
+      "time": 56.388,
+      "text": "I'm blue da ba dee da ba die",
+      "translation": "I'm blue and I don't die and I don't die",
+      "grammar": "This line uses the present continuous tense to express a state of being, with \"I'm\" indicating ongoing emotional experience. The phrase \"da ba dee da ba die\" is an idiomatic expression used to emphasize the intensity of feeling \"blue\"."
+    },
+    {
+      "time": 62.208,
+      "text": "Da ba dee da ba die, da ba dee da ba die, da ba dee da ba die",
+      "translation": "If you don't die, if you don't die, if you don't die, if you don't die",
+      "grammar": "This line uses the imperative mood to convey a sense of urgency and repetition, emphasizing the importance of not dying. The repeated phrase \"if you don't die\" creates an idiomatic expression that conveys a strong warning or caution."
+    },
+    {
+      "time": 73.394,
+      "text": "Da ba dee da ba die, da ba dee da ba die, da ba dee da ba die",
+      "translation": "If you don't die, if you don't die, if you don't die, if you don't die",
+      "grammar": "The repeated phrase \"da ba dee\" is an idiom, emphasizing the idea of not dying through rhythmic repetition rather than a literal translation. The sentence remains in the imperative mood, encouraging the listener to take action and avoid death."
+    },
+    {
+      "time": 84.581,
+      "text": "I'm blue",
+      "translation": "I'm blue.",
+      "grammar": "This line uses the present continuous tense to express a temporary emotional state, with \"I'm\" indicating the speaker's current feeling of sadness or depression. The phrase is an idiomatic expression meaning to feel extremely sad or downhearted."
+    },
+    {
+      "time": 86.823,
+      "text": "I'm blue da ba dee da ba die",
+      "translation": "I'm blue and I don't die and I don't die",
+      "grammar": "This line uses the present continuous tense to express a state of being, with \"I'm\" indicating ongoing emotional experience. The phrase \"da ba dee da ba die\" is an idiomatic expression used to emphasize the intensity of feeling blue."
+    },
+    {
+      "time": 92.643,
+      "text": "Da ba dee da ba die, da ba dee da ba die, da ba dee da ba die",
+      "translation": "If you don't die, if you don't die, if you don't die, if you don't die",
+      "grammar": "This line employs a repetitive structure to emphasize the idiom \"if you don't die\" (literally), using the present continuous tense to convey a sense of urgency and repetition."
+    },
+    {
+      "time": 103.83,
+      "text": "Da ba dee da ba die, da ba dee da ba die, da ba dee da ba die",
+      "translation": "If you don't die, if you don't die, if you don't die, if you don't die",
+      "grammar": "The repetition of \"da ba dee\" is an idiomatic expression emphasizing the speaker's urgency and insistence, with a sense of rhythm and emotional intensity."
+    },
+    {
+      "time": 115.017,
+      "text": "I'm blue da ba dee da ba die",
+      "translation": "I'm blue and I don't die and I don't die",
+      "grammar": "The use of \"I'm\" instead of \"I am\" is an informal, conversational tone typical in spoken English."
+    },
+    {
+      "time": 120.837,
+      "text": "Da ba dee da ba die, da ba dee da ba die, da ba dee da ba die",
+      "translation": "If you don't die, if you don't die, if you don't die, if you don't die",
+      "grammar": "The repeated phrase \"da ba dee\" is an idiom expressing urgency or emphasis, similar to English phrases like \"if only\" or \"as long as\". The consistent verb tense and repetition of \"don't die\" create a sense of insistent warning."
+    },
+    {
+      "time": 132.024,
+      "text": "Da ba dee da ba die, da ba dee da ba die, da ba dee da ba die",
+      "translation": "If you don't die, if you don't die, if you don't die, if you don't die",
+      "grammar": "This line uses the imperative mood to convey a sense of urgency and repetition, emphasizing the importance of not dying. The repeated phrase \"if you don't die\" creates an idiomatic expression that conveys a strong warning or caution."
+    },
+    {
+      "time": 143.211,
+      "text": "I'm blue",
+      "translation": "I'm blue.",
+      "grammar": "This line uses the present continuous tense to express a temporary emotional state, with \"I'm\" indicating the speaker's current feeling of sadness or melancholy. The phrase is an idiomatic expression meaning \"feeling sad or depressed\"."
+    }
+  ]
+}

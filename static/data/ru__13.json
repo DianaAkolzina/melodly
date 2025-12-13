@@ -1,0 +1,205 @@
+{
+  "id": "ru__13",
+  "title": "Ты полюбила хулигана",
+  "artist": "Ислам Итляшев",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_.mp3",
+  "duration": 220,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 5.935799999982119,
+      "text": "Ночью не спишь и громко плачеш",
+      "translation": "You can't sleep at night and cry loudly.",
+      "grammar": "The phrase \"громко плачеш\" is an idiomatic expression indicating intense or uncontrollable crying, with the verb \"плачеш\" being in the present tense of the imperative mood."
+    },
+    {
+      "time": 10.448799999982118,
+      "text": "Сыграла партию удача",
+      "translation": "Luck played a hand",
+      "grammar": "In this idiomatic expression, \"сыграла\" (luck played) is in the third person feminine singular past tense, indicating that luck had an active role in the situation. The phrase \"партию удача\" can be translated as \"a favorable turn of events\"."
+    },
+    {
+      "time": 15.42,
+      "text": "Кожаный плащ и шляпа набок",
+      "translation": "Leather coat and hat on the side",
+      "grammar": "The phrase \"набок\" (on the side) is an idiomatic expression indicating a casual or relaxed attitude, rather than a literal position. This usage note highlights the importance of understanding cultural nuances in language learning."
+    },
+    {
+      "time": 20.08009999999404,
+      "text": "И тлеет дым смертельно сладок",
+      "translation": "And the smoldering smoke is deadly sweet",
+      "grammar": "The phrase \"тлеет\" (smolders) in the present continuous tense creates a sense of ongoing danger, emphasizing the intensity and persistence of the deadly sweetness."
+    },
+    {
+      "time": 24.92919999998808,
+      "text": "Горели дни, сгорали ночи",
+      "translation": "The days burned, the nights burned",
+      "grammar": "This idiom uses the verb \"гореть\" in the plural form to convey a sense of intense duration or overwhelming experience, rather than describing multiple instances of burning. The use of the same verb and tense for both \"дни\" (days) and \"ночи\" (nights) emphasizes the all-encompassing nature of the described situation."
+    },
+    {
+      "time": 29.590099999994038,
+      "text": "И не любила его очень",
+      "translation": "And I didn't love him very much",
+      "grammar": "The phrase \"не любила\" is in the past tense and imperfective aspect, indicating a completed action that had no specific end point. The use of \"не\" instead of \"не любить\" emphasizes the extent or degree of not loving someone."
+    },
+    {
+      "time": 34.4225,
+      "text": "Все в темноте перемешалось",
+      "translation": "Everything was mixed up in the darkness",
+      "grammar": "The phrase \"все в темноте\" is an idiomatic expression indicating a state of chaos or confusion, often used to describe a situation where everything seems disorganized. The verb \"перемешалось\" is in the past passive voice, emphasizing the completed action of mixing up."
+    },
+    {
+      "time": 39.23870000001788,
+      "text": "И что теперь тебе осталось",
+      "translation": "So what's left for you now?",
+      "grammar": "The phrase \"что теперь\" is an idiomatic expression indicating a conclusion or a result, often used to summarize the situation. It can be translated as \"so\" or \"now that\"."
+    },
+    {
+      "time": 44.1435,
+      "text": "Ты полюбила хулигана",
+      "translation": "You fell in love with a bully",
+      "grammar": "The verb \"полюбила\" is in the past tense, indicating that the action of falling in love occurred at some point in the past. Note also the use of the pronoun \"ты\" (you) in the nominative case, which agrees with the subject-verb agreement rules in Russian."
+    },
+    {
+      "time": 48.98640000000596,
+      "text": "А за спиною два нагана",
+      "translation": "And behind my back there are two revolvers",
+      "grammar": "The phrase \"two nagana\" is an idiom, where \"наган\" (nagan) means revolver or pistol, but in this context it implies a sense of threat or danger lurking behind the speaker."
+    },
+    {
+      "time": 53.6865,
+      "text": "Он не бросает слов на ветер",
+      "translation": "He doesn't throw words to the wind",
+      "grammar": "This idiom \"не бросать слова на ветер\" literally means \"not throwing words into the air\", conveying the idea of not speaking carelessly or thoughtlessly, but rather with a purpose."
+    },
+    {
+      "time": 58.536,
+      "text": "Люби его, люби ты крепче",
+      "translation": "Love him, love him more.",
+      "grammar": "This idiomatic phrase uses the imperative mood to express a strong emotional recommendation. The verb \"люби\" (love) is in the second person singular form, emphasizing the personal responsibility of the listener to love someone more."
+    },
+    {
+      "time": 82.60580000001193,
+      "text": "Любовь была как сон красива",
+      "translation": "Love was as beautiful as a dream",
+      "grammar": "The phrase \"была как\" is an idiomatic expression indicating a comparison in the past, using the imperfective aspect to describe a completed action."
+    },
+    {
+      "time": 87.21559999999404,
+      "text": "Цветы, бриллианты и фата",
+      "translation": "Flowers, diamonds and a veil",
+      "grammar": "The phrase \"и фата\" is an idiomatic expression meaning \"and a veil\" rather than a literal combination of words. The use of \"фата\" (veil) in this context implies secrecy or mystery."
+    },
+    {
+      "time": 92.15720000001788,
+      "text": "И ты была неотразима",
+      "translation": "And you were irresistible",
+      "grammar": "The verb \"была\" is in the past passive voice, indicating a completed action in the past. The phrase \"неотразима\" is an idiomatic expression meaning \"irresistible\"."
+    },
+    {
+      "time": 96.88109999999403,
+      "text": "Но стала рана глубока",
+      "translation": "But the wound became deep",
+      "grammar": "The verb \"стала\" (became) is in the past passive voice, indicating a completed action. The phrase \"Но стала\" also functions as an idiomatic expression to emphasize the suddenness or unexpectedness of the wound's depth."
+    },
+    {
+      "time": 101.67709999999404,
+      "text": "Сгорали дни, горели ночи",
+      "translation": "The days burned, the nights burned",
+      "grammar": "This idiomatic expression uses the verb вести (to burn) to describe the passage of time, conveying a sense of intense emotional experience. The present tense is used to emphasize the ongoing nature of this burning process."
+    },
+    {
+      "time": 106.46659999999405,
+      "text": "И все прошло так, между прочим",
+      "translation": "And everything went like this, by the way",
+      "grammar": "The phrase \"между прочим\" is an idiomatic expression meaning \"by the way\" or \"incidentally\", used to introduce a tangential thought or add a casual remark."
+    },
+    {
+      "time": 110.9825,
+      "text": "Душу залив печалью дыма",
+      "translation": "Filling the soul with sorrow and smoke",
+      "grammar": "This idiomatic phrase uses the metaphorical verb \"залив\" (to fill) to convey a sense of overwhelming emotion, rather than literal filling. The use of \"душу\" (soul) emphasizes the intensity of the feeling."
+    },
+    {
+      "time": 116.08090000000595,
+      "text": "Любила ты его красиво",
+      "translation": "You loved him beautifully",
+      "grammar": "The phrase \"любила ты его\" is in the past tense, using the verb \"любила\" (loved) in the feminine singular form to agree with the pronoun \"ты\" (you), indicating that the speaker is referring to a past experience."
+    },
+    {
+      "time": 120.87890000000596,
+      "text": "Ты полюбила хулигана",
+      "translation": "You fell in love with a bully",
+      "grammar": "The verb \"полюбила\" is in the past tense, indicating that the action of falling in love has already occurred. Note the use of the pronoun \"ты\" (you), which is informal and often used with friends or those close to the speaker."
+    },
+    {
+      "time": 125.6895,
+      "text": "А за спиною два нагана",
+      "translation": "And behind my back there are two revolvers",
+      "grammar": "The phrase \"two nagana\" is an idiom, where \"наган\" (revolver) implies a sense of threat or danger, conveying the idea that someone has power or control over you."
+    },
+    {
+      "time": 130.54509999999405,
+      "text": "Он не бросает слов на ветер",
+      "translation": "He doesn't throw words to the wind",
+      "grammar": "This idiom \"не бросать слова на ветер\" literally means \"not throwing words into the air\" and figuratively implies that someone is not speaking carelessly or thoughtlessly, but rather with intention."
+    },
+    {
+      "time": 135.50709999999404,
+      "text": "Люби его, люби ты крепче",
+      "translation": "Love him, love him more.",
+      "grammar": "This idiomatic expression uses the imperative mood to convey a strong emotional appeal, with the verb \"люби\" (love) in the second person singular (\"ты\") emphasizing the speaker's personal involvement."
+    },
+    {
+      "time": 159.4902000000179,
+      "text": "Горели дни, горели ночи",
+      "translation": "The days burned, the nights burned",
+      "grammar": "This idiom uses the verb \"гореть\" (to burn) to describe a period of intense activity or passion, rather than literal burning. The present tense is used to convey a sense of continuity and duration."
+    },
+    {
+      "time": 164.04190000000597,
+      "text": "И не любила его очень",
+      "translation": "And I didn't love him very much",
+      "grammar": "The phrase \"не любила\" is in the past tense, indicating a completed action. The use of \"не\" negates the verb, implying that the speaker's love was not strong or intense."
+    },
+    {
+      "time": 168.85430000001193,
+      "text": "Все в темноте перемешалось",
+      "translation": "Everything was mixed up in the darkness",
+      "grammar": "The phrase \"все\" (everything) is used with the past tense \"был\" (was) to indicate a completed action in the past, showing that the mixing up occurred at some point in the past."
+    },
+    {
+      "time": 173.4252000000179,
+      "text": "И что теперь тебе осталось",
+      "translation": "So what's left for you now?",
+      "grammar": "The phrase \"что теперь\" is an idiomatic expression indicating a conclusion or a result, often used to summarize a situation. The verb \"осталось\" is in the past tense, implying that something has been left behind after a process or event."
+    },
+    {
+      "time": 178.80459999999405,
+      "text": "Ты полюбила хулигана",
+      "translation": "You fell in love with a bully",
+      "grammar": "The verb \"полюбила\" (fell in love) is in the past tense, indicating that the action of falling in love has already occurred. The phrase \"хулигана\" (a bully) is an idiomatic expression used to describe someone who is considered unpleasant or unlikable."
+    },
+    {
+      "time": 183.42820000001788,
+      "text": "А за спиною два нагана",
+      "translation": "And behind my back there are two revolvers",
+      "grammar": "The phrase \"two nagana\" is an idiom, where \"наган\" (revolver) implies a threat or intimidation, conveying the idea that someone has power or control over you."
+    },
+    {
+      "time": 188.19240000000596,
+      "text": "Он не бросает слов на ветер",
+      "translation": "He doesn't throw words to the wind",
+      "grammar": "This idiom \"не бросать слова на ветер\" literally means \"not throwing words to the wind\", but figuratively conveys that someone is sincere and serious about what they're saying, not just speaking flippantly."
+    },
+    {
+      "time": 192.8325,
+      "text": "Люби его, люби ты крепче",
+      "translation": "Love him, love him more.",
+      "grammar": "This idiomatic expression uses the imperative mood to convey a sense of urgency and emphasis, encouraging someone to love someone else even more. The pronoun \"его\" (him) agrees with the preceding noun phrase in number and case."
+    }
+  ]
+}

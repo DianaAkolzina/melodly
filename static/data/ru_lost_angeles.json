@@ -1,0 +1,187 @@
+{
+  "id": "ru_lost_angeles",
+  "title": "Lost Angeles",
+  "artist": "FRIENDLY THUG 52 NGG",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_lost_angeles.mp3",
+  "duration": 114,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 9.452399999976159,
+      "text": "That be YG Woods, ho",
+      "translation": "This is YG Woods, okay",
+      "grammar": "The phrase 'ho' is a colloquialism and an informal way to address someone or express agreement."
+    },
+    {
+      "time": 15.092800000011922,
+      "text": "Как оставить угол, я зависимый от страха",
+      "translation": "How to leave the corner, I'm addicted to fear",
+      "grammar": ""
+    },
+    {
+      "time": 15.356600000023843,
+      "text": "Всё снизу пакеты (а), ща я буду делать сахар (sugar)",
+      "translation": "All the bags below, now I'm going to make sugar.",
+      "grammar": ""
+    },
+    {
+      "time": 18.14060000002384,
+      "text": "Я давно на чистом, но мне снится постоянно (постоянно)",
+      "translation": "I've been clean for a long time, but I still dream about it all the time.",
+      "grammar": ""
+    },
+    {
+      "time": 21.35130000001192,
+      "text": "Как я курю бланты, будто меня заставляют",
+      "translation": "How I smoke blunts like I'm being forced to",
+      "grammar": ""
+    },
+    {
+      "time": 24.51789999997616,
+      "text": "Молодой и белый, мы выросли не в LA",
+      "translation": "Young and white, we didn't grow up in LA",
+      "grammar": ""
+    },
+    {
+      "time": 27.7195,
+      "text": "Я хочу скупать одежду в шоу-руме sale",
+      "translation": "I want to buy clothes in the showroom sale",
+      "grammar": ""
+    },
+    {
+      "time": 30.78069999998808,
+      "text": "Жёлтый дым disable, какой нахуй лейбл? (A?)",
+      "translation": "Yellow smoke disable, what the fuck label? (Huh?)",
+      "grammar": ""
+    },
+    {
+      "time": 34.10969999998808,
+      "text": "В моей сумке полкило, я делаю деньги (на, сука)",
+      "translation": "I got half a kilo in my bag, I'm making money (here, bitch)",
+      "grammar": ""
+    },
+    {
+      "time": 37.26409999996424,
+      "text": "Орги хотят букать жопу гэнга прямо ща (эй)",
+      "translation": "The orgs want to fuck the gang's ass right now (hey)",
+      "grammar": ""
+    },
+    {
+      "time": 40.145399999976156,
+      "text": "Я всё тот же белый (52), но в дорогущих вещах",
+      "translation": "I'm still the same white guy (52), but in expensive clothes",
+      "grammar": ""
+    },
+    {
+      "time": 43.23389999997616,
+      "text": "All city — дерьмо, видим на 360",
+      "translation": "The whole city is crap, we see it in 360",
+      "grammar": ""
+    },
+    {
+      "time": 46.43889999997616,
+      "text": "Если хочешь кинуть банду — будешь двигаться в лещах",
+      "translation": "If you want to screw a gang, you'll be in trouble.",
+      "grammar": ""
+    },
+    {
+      "time": 49.94159999996424,
+      "text": "Рыжие купюры, боже, где же их душа?",
+      "translation": "Red bills, oh my God, where is their soul?",
+      "grammar": ""
+    },
+    {
+      "time": 52.90169999998808,
+      "text": "Почему мы пиздюками все хотели в США?",
+      "translation": "Why did we all want to go to the USA like assholes?",
+      "grammar": ""
+    },
+    {
+      "time": 56.09039999997616,
+      "text": "На карте дохуя (cash), звёзды рядом так (эй)",
+      "translation": "There's a shitload of cash on the map, the stars are so close (hey)",
+      "grammar": ""
+    },
+    {
+      "time": 59.476599999964236,
+      "text": "Хочу сделать сына и построить особняк (эй)",
+      "translation": "I want to have a son and build a mansion (hey)",
+      "grammar": ""
+    },
+    {
+      "time": 62.68719999998808,
+      "text": "За своих собак (52) всегда рвать и метать",
+      "translation": "Always tear and throw for your dogs (52)",
+      "grammar": ""
+    },
+    {
+      "time": 65.7015,
+      "text": "Под ногами высота, мама, мы рождены летать",
+      "translation": "There's heights beneath our feet, Mom, we were born to fly",
+      "grammar": ""
+    },
+    {
+      "time": 68.92259999996423,
+      "text": "На сцене весь район, даже когда это нельзя (вся моя банда, нахуй)",
+      "translation": "The whole neighborhood is on stage, even when it's not allowed (my whole gang, fuck)",
+      "grammar": ""
+    },
+    {
+      "time": 72.19769999998807,
+      "text": "Господи, спасибо, что рядом есть друзья (эй)",
+      "translation": "Lord, thank you for having friends around (hey)",
+      "grammar": ""
+    },
+    {
+      "time": 75.10889999997616,
+      "text": "Мы пьём из горла, малая тащит спать, так бы висели до утра",
+      "translation": "We drink from the bottle, the little one drags us to bed, we could hang like that until the morning",
+      "grammar": ""
+    },
+    {
+      "time": 79.63319999998808,
+      "text": "То, что искренне, всегда доходит до нутра (52)",
+      "translation": "What is sincere always reaches the core (52)",
+      "grammar": ""
+    },
+    {
+      "time": 83.33359999996424,
+      "text": "Братья курят дрянь, бегу от газа (52), как всегда",
+      "translation": "Brothers smoke crap, I run from gas (52), as always",
+      "grammar": ""
+    },
+    {
+      "time": 86.54859999996424,
+      "text": "Хочу верить в то, что наша любовь навсегда (ещё раз)",
+      "translation": "I want to believe that our love is forever (once again)",
+      "grammar": ""
+    },
+    {
+      "time": 89.6895,
+      "text": "Молодой и белый, мы выросли не в LA",
+      "translation": "Young and white, we didn't grow up in LA",
+      "grammar": ""
+    },
+    {
+      "time": 92.87659999996424,
+      "text": "Я хочу скупать одежду в шоу-руме sale",
+      "translation": "I want to buy clothes in the showroom sale",
+      "grammar": ""
+    },
+    {
+      "time": 95.9515,
+      "text": "Жёлтый дым disable, какой нахуй лейбл?",
+      "translation": "Yellow smoke disable, what the fuck label?",
+      "grammar": ""
+    },
+    {
+      "time": 99.33530000001193,
+      "text": "В моей сумке полкило, я делаю деньги",
+      "translation": "There's half a kilo in my bag, I'm making money",
+      "grammar": ""
+    }
+  ]
+}

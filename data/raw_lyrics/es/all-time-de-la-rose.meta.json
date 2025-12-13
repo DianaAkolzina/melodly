@@ -1,0 +1,16 @@
+{
+  "language": "es",
+  "title": "ALL TIME",
+  "artist": "De La Rose",
+  "slug": "all-time-de-la-rose",
+  "track_length_seconds": 174,
+  "source": {
+    "provider": "musixmatch",
+    "track_id": 357654546,
+    "commontrack_id": 225747659,
+    "track_share_url": "https://www.musixmatch.com/lyrics/De-La-Rose-1/Track-08?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "track_edit_url": "https://www.musixmatch.com/lyrics/De-La-Rose-1/Track-08/edit?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "search_language": "es",
+    "fetched_at": "2025-11-21T10:48:52.486080Z"
+  }
+}

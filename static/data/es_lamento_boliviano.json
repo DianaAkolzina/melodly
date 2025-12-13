@@ -1,0 +1,253 @@
+{
+  "id": "es_lamento_boliviano",
+  "title": "Lamento Boliviano",
+  "artist": "Los Enanitos Verdes",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_lamento_boliviano.mp3",
+  "duration": 223,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Me quieren agitar",
+      "translation": "They want to agitate me",
+      "grammar": "The phrase \"Me quieren agitar\" is an idiomatic expression, where \"quieren\" is in the plural form but refers to a singular action of wanting to agitate someone."
+    },
+    {
+      "time": 3.672,
+      "text": "Me incitan a gritar",
+      "translation": "They incite me to scream",
+      "grammar": "The phrase \"Me incitan\" is in the passive voice, with the subject \"me\" receiving the action of the verb \"incitar\". This construction emphasizes the external motivation or influence on the speaker's behavior."
+    },
+    {
+      "time": 8.468,
+      "text": "Soy como una roca",
+      "translation": "I'm like a rock",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of stability and permanence, similar to saying \"I'm as solid as a rock\" in English. The verb soy is in the first person singular form, agreeing with the subject I."
+    },
+    {
+      "time": 13.263,
+      "text": "Palabras no me tocan",
+      "translation": "Words don't affect me",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or general truth, emphasizing that words have no lasting impact on the speaker. The phrase also employs a common Spanish idiom where \"no me\" is used instead of \"no me afectan\" for a more informal and emphatic tone."
+    },
+    {
+      "time": 18.059,
+      "text": "Adentro hay un volcán",
+      "translation": "Inside there is a volcano",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of permanence, implying that the volcano is always present and potentially explosive, even when not immediately visible. The phrase also employs a metaphorical extension of the physical concept of a volcano to describe an intense emotional or psychological state."
+    },
+    {
+      "time": 22.855,
+      "text": "Que pronto va a estallar",
+      "translation": "It's going to explode soon",
+      "grammar": "The phrase \"que pronto\" is an idiomatic expression indicating future action, equivalent to \"soon\" or \"in the near future\". The verb \"va a estallar\" is in the future tense, emphasizing the imminent nature of the explosion."
+    },
+    {
+      "time": 28.774,
+      "text": "Yo quiero estar tranquilo",
+      "translation": "I want to be at peace.",
+      "grammar": "The phrase \"Yo quiero\" is an informal way of expressing the first person singular present tense, equivalent to \"I want\" in English. The use of \"quiero\" instead of \"desear\" emphasizes the speaker's strong desire for tranquility."
+    },
+    {
+      "time": 33.57,
+      "text": "Es mi situación",
+      "translation": "This is my situation",
+      "grammar": "The phrase \"Es mi situación\" uses the present tense to describe a general or habitual situation, and \"mi\" agrees with \"situación\" in number and gender."
+    },
+    {
+      "time": 37.242,
+      "text": "Una desolación",
+      "translation": "A desolation",
+      "grammar": "The phrase \"Una desolación\" is an idiomatic expression that uses the indefinite article \"una\" to convey a sense of something being utterly devastated or ruined, rather than simply indicating a singular desolation."
+    },
+    {
+      "time": 39.79,
+      "text": "Soy como un lamento",
+      "translation": "I am like a lament",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of permanent or inherent quality, similar to English phrases starting with \"I am like\" or \"I feel like\". The verb soy is in the first person singular form, agreeing with the subject I."
+    },
+    {
+      "time": 44.586,
+      "text": "Lamento boliviano",
+      "translation": "Bolivian lament",
+      "grammar": "This phrase is an interjection, used to express a sense of sorrow or regret. The use of \"lamento\" (lament) in the title implies a sense of mourning or loss, setting the tone for the song's emotional content."
+    },
+    {
+      "time": 47.134,
+      "text": "Que un día empezó",
+      "translation": "That one day began",
+      "grammar": "This phrase uses the present perfect tense to indicate that a specific point in time has been reached, implying that something significant started happening at some point in the past and continues up to the moment of speaking."
+    },
+    {
+      "time": 51.929,
+      "text": "Y no va a terminar",
+      "translation": "And it's not going to end",
+      "grammar": "This phrase uses the present continuous tense (va) to express an ongoing or future action, indicating that something will continue indefinitely. The idiom \"no va a\" is equivalent to \"isn't going to\" in English, emphasizing the certainty of the situation."
+    },
+    {
+      "time": 57.849,
+      "text": "Y a nadie hace daño",
+      "translation": "And it doesn't hurt anyone.",
+      "grammar": "The phrase \"y a nadie\" is an idiomatic expression used to emphasize that something does not cause harm or offense to anyone, conveying a sense of universality."
+    },
+    {
+      "time": 63.769,
+      "text": "Uoh, io, io, io-uoh-oh, ye-eh-eh-eh, yeh-eh",
+      "translation": "Uoh, io, io, io-uoh-oh, ye-eh-eh-eh, yeh-eh",
+      "grammar": "This line is an interjection, used to express excitement or surprise. The repeated use of \"io\" and \"uoh\" creates a sense of urgency and emphasizes the speaker's emotional state."
+    },
+    {
+      "time": 77.556,
+      "text": "Y yo estoy aquí",
+      "translation": "And I am here",
+      "grammar": "The phrase \"yo estoy\" is a colloquial way to express present continuous tense, equivalent to saying \"I am\" in standard English. This informal construction is commonly used in spoken Spanish to emphasize the speaker's presence or action at the moment of speaking."
+    },
+    {
+      "time": 82.352,
+      "text": "Borracho y loco",
+      "translation": "Drunk and crazy",
+      "grammar": "This idiomatic phrase uses the present participle of two adjectives to describe a state, with borracho conveying intense drunkenness and loco emphasizing extreme craziness."
+    },
+    {
+      "time": 86.023,
+      "text": "Y mi corazón idiota",
+      "translation": "And my foolish heart",
+      "grammar": "The phrase \"mi corazón idiota\" is an idiomatic expression, where \"idiota\" is used to convey a sense of vulnerability or impulsiveness rather than literal foolishness. The possessive adjective \"mi\" agrees with the noun \"corazón\" in number and gender."
+    },
+    {
+      "time": 90.819,
+      "text": "Siempre brillará (Siempre brillará)",
+      "translation": "It will always shine (It will always shine)",
+      "grammar": "The verb \"brillará\" is in the future tense, indicating a future action that is certain to happen. The phrase \"siempre\" emphasizes this certainty, implying that the shining will be perpetual."
+    },
+    {
+      "time": 95.615,
+      "text": "Y yo te amaré",
+      "translation": "And I will love you",
+      "grammar": "The verb \"amaré\" is in the future tense, indicating a promise or intention to love someone. The phrase \"yo te\" uses the indirect object pronoun \"te\" agreeing with the subject \"yo\"."
+    },
+    {
+      "time": 100.411,
+      "text": "Te amaré por siempre",
+      "translation": "I will love you forever",
+      "grammar": "The phrase \"Te amaré\" is in the future tense, indicating a promise or intention to love someone. The use of \"te\" instead of \"yo\" (first person singular) emphasizes the subject's willingness to take action and show affection towards the recipient."
+    },
+    {
+      "time": 105.206,
+      "text": "Nena, no te peines en la cama",
+      "translation": "Honey, don't comb your hair in bed",
+      "grammar": "This idiomatic expression uses the informal address \"nena\" and the imperative mood to convey a gentle warning, with the verb \"peinarse\" (to comb one's hair) in the present tense. The phrase is an invitation to relax and not worry about personal appearance before sleep."
+    },
+    {
+      "time": 113.374,
+      "text": "Que los viajantes se van a atrasar",
+      "translation": "That travelers will be delayed",
+      "grammar": "The verb \"se van\" is in the future subjunctive mood, indicating a hypothetical or uncertain situation. This construction is used to express doubt or uncertainty about the outcome of an action."
+    },
+    {
+      "time": 121.541,
+      "text": "Uoh, io, io, io-uoh-oh, ye-eh-eh-eh, yeh-eh",
+      "translation": "Uoh, io, io, io-uoh-oh, ye-eh-eh-eh, yeh-eh",
+      "grammar": "This line is an interjection, used to express excitement or surprise. The repetition of \"io\" and \"uoh\" creates a sense of urgency and emphasizes the speaker's emotions."
+    },
+    {
+      "time": 135.329,
+      "text": "Y hoy estoy aquí",
+      "translation": "And today I am here",
+      "grammar": "The phrase \"y hoy estoy aquí\" is in the present tense, emphasizing the speaker's current location and state. The use of \"hoy\" (today) adds a sense of immediacy to the sentence."
+    },
+    {
+      "time": 140.124,
+      "text": "Borracho y loco",
+      "translation": "Drunk and crazy",
+      "grammar": "This idiomatic phrase uses the present participle \"borracho\" (drunk) and \"loco\" (crazy) to describe a state of being, conveying intense emotions. The verb forms agree with the subject in number and person, but the focus is on the descriptive adjectives rather than the tense or aspect."
+    },
+    {
+      "time": 143.796,
+      "text": "Y mi corazón idiota",
+      "translation": "And my foolish heart",
+      "grammar": "The phrase \"mi corazón idiota\" is an idiomatic expression, where \"idiota\" means \"foolish\" or \"silly\", rather than its literal meaning of \"idiot\". The possessive adjective \"mi\" agrees with the noun \"corazón\" in gender and number."
+    },
+    {
+      "time": 148.592,
+      "text": "Siempre brillará (Siempre brillará)",
+      "translation": "It will always shine (It will always shine)",
+      "grammar": "The verb \"brillará\" is in the future tense, indicating a future action that is certain to happen. The phrase \"siempre\" emphasizes this certainty, implying that the shining will be perpetual."
+    },
+    {
+      "time": 153.388,
+      "text": "Y yo te amaré",
+      "translation": "And I will love you",
+      "grammar": "The verb \"amaré\" is in the future tense, indicating a promise or commitment to love someone. The phrase \"yo te\" uses the indirect object pronoun \"te\" agreeing with the subject \"yo\"."
+    },
+    {
+      "time": 158.184,
+      "text": "Te amaré por siempre",
+      "translation": "I will love you forever",
+      "grammar": "The verb \"amaré\" is in the future tense, indicating a promise or intention to love someone forever. The phrase \"por siempre\" is an idiom meaning \"forever\" or \"always\"."
+    },
+    {
+      "time": 162.979,
+      "text": "Nena, no te peines en la cama",
+      "translation": "Honey, don't comb your hair in bed",
+      "grammar": "This idiomatic expression uses the informal address \"nena\" and the imperative mood to convey a casual tone, encouraging the listener not to worry about their appearance while in bed."
+    },
+    {
+      "time": 171.147,
+      "text": "Que los viajantes se van a atrasar",
+      "translation": "That travelers will be delayed",
+      "grammar": "The verb \"se van\" is in the future subjunctive mood, indicating a hypothetical or uncertain situation. This construction is used to express a prediction or possibility about the future."
+    },
+    {
+      "time": 179.314,
+      "text": "Y yo estoy aquí",
+      "translation": "And I am here",
+      "grammar": "This line uses the present continuous tense (estoy) to emphasize the speaker's current presence, and the phrase \"y yo\" is an idiomatic expression meaning \"and I\"."
+    },
+    {
+      "time": 184.11,
+      "text": "Borracho y loco",
+      "translation": "Drunk and crazy",
+      "grammar": "This idiomatic phrase uses the present participle \"borracho\" (drunk) and \"loco\" (crazy) to describe a state of being, conveying a sense of intense emotional or physical turmoil. The use of \"y\" (and) connects two descriptive adjectives to emphasize the speaker's chaotic condition."
+    },
+    {
+      "time": 187.782,
+      "text": "Y mi corazón idiota",
+      "translation": "And my foolish heart",
+      "grammar": "The phrase \"mi corazón idiota\" is an idiomatic expression, where \"idiota\" doesn't literally mean \"foolish\" but rather conveys a sense of emotional vulnerability or impulsiveness. The possessive adjective \"mi\" agrees with the noun \"corazón\" in number and gender."
+    },
+    {
+      "time": 192.578,
+      "text": "Siempre brillará (Siempre brillará)",
+      "translation": "It will always shine (It will always shine)",
+      "grammar": "The verb \"brillará\" is in the future tense, indicating a promise or certainty about something that will happen. The use of \"siempre\" emphasizes the duration and frequency of this action, implying it will be a constant and perpetual shining."
+    },
+    {
+      "time": 197.373,
+      "text": "Y yo te amaré",
+      "translation": "And I will love you",
+      "grammar": "The verb \"amaré\" is in the future tense, indicating a promise or intention to love someone. The phrase \"yo te\" is an idiomatic expression meaning \"I\" or \"me\" with the object of affection, emphasizing the speaker's personal involvement and commitment."
+    },
+    {
+      "time": 202.169,
+      "text": "Te amaré por siempre",
+      "translation": "I will love you forever",
+      "grammar": "The verb \"amar\" is in the future tense, indicating a promise or intention to love someone forever. The phrase \"por siempre\" is an idiom that means \"forever\" or \"always\"."
+    },
+    {
+      "time": 206.965,
+      "text": "Nena, no te peines en la cama",
+      "translation": "Honey, don't comb your hair in bed",
+      "grammar": "This idiomatic expression uses the informal address \"nena\" and the imperative mood to convey a gentle warning, emphasizing the relaxed atmosphere of being in bed."
+    },
+    {
+      "time": 215.132,
+      "text": "Que los viajantes se van a atrasar",
+      "translation": "That travelers will be delayed",
+      "grammar": "The verb \"se van\" is in the future subjunctive mood, indicating a hypothetical or uncertain situation. This construction is used to express doubt or uncertainty about the outcome of an action."
+    }
+  ]
+}

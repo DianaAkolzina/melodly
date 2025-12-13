@@ -1,0 +1,259 @@
+{
+  "id": "fr_dernire_danse",
+  "title": "Dernière danse",
+  "artist": "Indila",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_dernire_danse.mp3",
+  "duration": 123,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 13.1,
+      "text": "Oh, ma douce souffrance",
+      "translation": "Oh, my sweet suffering",
+      "grammar": "The phrase 'ma douce souffrance' is an idiomatic expression that combines a possessive adjective ('ma') with a noun ('souffrance'), emphasizing the speaker's emotional state."
+    },
+    {
+      "time": 18.04,
+      "text": "Pourquoi s'acharner? Tu recommences",
+      "translation": "Why bother? You start again",
+      "grammar": "The verb 's'acharner' is in the imperative mood, and the phrase 'Tu recommences' uses the informal second-person singular pronoun 'tu', indicating a sense of familiarity or intimacy."
+    },
+    {
+      "time": 22.22,
+      "text": "Je n'suis qu'un être sans importance",
+      "translation": "I am just an unimportant being",
+      "grammar": "The contraction 'n'suis' is used to indicate the speaker's lack of importance, and the phrase 'sans importance' uses the preposition 'sans' to convey a sense of insignificance."
+    },
+    {
+      "time": 25.8,
+      "text": "Sans lui, je suis un peu paro",
+      "translation": "Without him, I am a little lost",
+      "grammar": "The phrase 'un peu paro' is an idiomatic expression that uses the adjective 'paro' to convey a sense of disorientation or confusion."
+    },
+    {
+      "time": 28.52,
+      "text": "Je déambule seule dans le métro",
+      "translation": "I wander alone in the subway",
+      "grammar": "The verb 'déambule' is in the present tense, indicating a habitual action, and the phrase 'seule dans le métro' uses the preposition 'dans' to indicate location."
+    },
+    {
+      "time": 30.99,
+      "text": "Une dernière danse",
+      "translation": "One last dance",
+      "grammar": "The phrase 'une dernière danse' uses the definite article 'une' and the adjective 'dernière' to emphasize the finality of the action."
+    },
+    {
+      "time": 34.15,
+      "text": "Pour oublier ma peine immense",
+      "translation": "To forget my immense pain",
+      "grammar": "The phrase 'ma peine immense' uses the possessive adjective 'ma' and the adjective 'immense' to emphasize the speaker's emotional state."
+    },
+    {
+      "time": 38.82,
+      "text": "Je veux m'enfuir, que tout recommence",
+      "translation": "I want to escape, for everything to start again",
+      "grammar": "The verb 'veux' is in the present tense, indicating a desire or intention, and the phrase 'que tout recommence' uses the subjunctive mood to express a hypothetical situation."
+    },
+    {
+      "time": 41.78,
+      "text": "Oh, ma douce souffrance",
+      "translation": "Oh, my sweet suffering",
+      "grammar": "The repetition of the phrase 'ma douce souffrance' emphasizes the speaker's emotional state and creates a sense of intimacy or familiarity."
+    },
+    {
+      "time": 46.92,
+      "text": "Je remue le ciel, le jour, la nuit",
+      "translation": "I stir the sky, day and night",
+      "grammar": "The verb 'remue' is in the present tense, indicating an ongoing action, and the phrase 'le ciel, le jour, la nuit' uses the definite article 'le' to indicate a specific location or time."
+    },
+    {
+      "time": 52.91,
+      "text": "Je danse avec le vent, la pluie",
+      "translation": "I dance with the wind, rain",
+      "grammar": "The verb 'danse' is in the present tense, indicating an ongoing action, and the phrase 'avec le vent, la pluie' uses the preposition 'avec' to indicate accompaniment or association."
+    },
+    {
+      "time": 57.62,
+      "text": "Un peu d'amour, un brin de miel",
+      "translation": "A little love, a strand of honey",
+      "grammar": "The phrase 'un peu d'amour' uses the adjective 'peu' to convey a sense of modesty or humility, and the phrase 'un brin de miel' uses the metaphorical expression 'brin de miel' to convey a sense of sweetness or tenderness."
+    },
+    {
+      "time": 59.96,
+      "text": "Et je danse, danse, danse, danse, danse, danse, danse",
+      "translation": "And I dance, dance, dance, dance, dance, dance, dance",
+      "grammar": "The repetition of the verb 'danse' emphasizes the speaker's emotional state and creates a sense of rhythm or musicality."
+    },
+    {
+      "time": 65.32,
+      "text": "Et dans le bruit, je cours et j'ai peur",
+      "translation": "And in the noise, I run and I'm afraid",
+      "grammar": "The phrase 'dans le bruit' uses the preposition 'dans' to indicate location or situation, and the verb 'cours' is in the present tense, indicating an ongoing action."
+    },
+    {
+      "time": 70.26,
+      "text": "Est-ce mon tour? Vient la douleur",
+      "translation": "Is it my turn? Pain comes",
+      "grammar": "The phrase 'est-ce mon tour?' uses the interrogative pronoun 'est-ce' to ask a question, and the verb 'vient' is in the present tense, indicating an ongoing action."
+    },
+    {
+      "time": 74.24,
+      "text": "Dans tout Paris, je m'abandonne",
+      "translation": "In all of Paris, I abandon myself",
+      "grammar": "The phrase 'dans tout Paris' uses the preposition 'dans' to indicate location or situation, and the verb 'm'abandonne' is in the present tense, indicating an ongoing action."
+    },
+    {
+      "time": 77.26,
+      "text": "Et je m'envole, vole, vole, vole, vole, vole, vole",
+      "translation": "And I take flight, fly, fly, fly, fly, fly, fly",
+      "grammar": "The repetition of the verb 'envole' emphasizes the speaker's emotional state and creates a sense of freedom or release."
+    },
+    {
+      "time": 81.72,
+      "text": "Que d'espérance",
+      "translation": "How much hope",
+      "grammar": "The phrase 'que d'espérance' uses the interrogative pronoun 'que' to ask a question, and the noun 'espérance' emphasizes the speaker's emotional state."
+    },
+    {
+      "time": 84.62,
+      "text": "Sur ce chemin en ton absence",
+      "translation": "On this path in your absence",
+      "grammar": "The phrase 'en ton absence' uses the preposition 'en' to indicate a situation or circumstance, and the noun 'absence' emphasizes the speaker's emotional state."
+    },
+    {
+      "time": 89.16,
+      "text": "J'ai beau trimer, sans toi, ma vie n'est qu'un décor qui brille",
+      "translation": "I work hard, but without you, my life is just a stage that shines",
+      "grammar": "The phrase 'j'ai beau trimer' uses the verb 'trimer' in the present tense to indicate an ongoing action, and the phrase 'sans toi' emphasizes the speaker's emotional state."
+    },
+    {
+      "time": 93.88,
+      "text": "Vide de sens",
+      "translation": "Empty of sense",
+      "grammar": "The phrase 'vide de sens' uses the adjective 'vide' to convey a sense of emptiness or lack, and the preposition 'de' indicates a relationship between the subject and the predicate."
+    },
+    {
+      "time": 99.22,
+      "text": "Je remue le ciel, le jour, la nuit",
+      "translation": "I stir the sky, day and night",
+      "grammar": "The verb 'remue' is in the present tense, indicating an ongoing action, and the phrase 'le ciel, le jour, la nuit' uses the definite article 'le' to indicate a specific location or time."
+    },
+    {
+      "time": 102.96,
+      "text": "Je danse avec le vent, la pluie",
+      "translation": "I dance with the wind, rain",
+      "grammar": "The verb 'danse' is in the present tense, indicating an ongoing action, and the phrase 'avec le vent, la pluie' uses the preposition 'avec' to indicate accompaniment or association."
+    },
+    {
+      "time": 107.74,
+      "text": "Un peu d'amour, un brin de miel",
+      "translation": "A little love, a strand of honey",
+      "grammar": "The phrase 'un peu d'amour' uses the adjective 'peu' to convey a sense of modesty or humility, and the phrase 'un brin de miel' uses the metaphorical expression 'brin de miel' to convey a sense of sweetness or tenderness."
+    },
+    {
+      "time": 109.48,
+      "text": "Et je danse, danse, danse, danse, danse, danse, danse",
+      "translation": "And I dance, dance, dance, dance, dance, dance, dance",
+      "grammar": "The repetition of the verb 'danse' emphasizes the speaker's emotional state and creates a sense of rhythm or musicality."
+    },
+    {
+      "time": 115.64,
+      "text": "Et dans le bruit, je cours et j'ai peur",
+      "translation": "And in the noise, I run and I'm afraid",
+      "grammar": "The phrase 'dans le bruit' uses the preposition 'dans' to indicate location or situation, and the verb 'cours' is in the present tense, indicating an ongoing action."
+    },
+    {
+      "time": 119.9,
+      "text": "Est-ce mon tour? Vient la douleur",
+      "translation": "Is it my turn? Pain comes",
+      "grammar": "The phrase 'est-ce mon tour?' uses the interrogative pronoun 'est-ce' to ask a question, and the verb 'vient' is in the present tense, indicating an ongoing action."
+    },
+    {
+      "time": 124.32,
+      "text": "Dans tout Paris, je m'abandonne",
+      "translation": "In all of Paris, I abandon myself",
+      "grammar": "The phrase 'dans tout Paris' uses the preposition 'dans' to indicate location or situation, and the verb 'm'abandonne' is in the present tense, indicating an ongoing action."
+    },
+    {
+      "time": 127.1,
+      "text": "Et je m'envole, vole, vole, vole, vole, vole, vole",
+      "translation": "And I take flight, fly, fly, fly, fly, fly, fly",
+      "grammar": "The repetition of the verb 'envole' emphasizes the speaker's emotional state and creates a sense of freedom or release."
+    },
+    {
+      "time": 128.66,
+      "text": "Dans cette douce souffrance",
+      "translation": "In this sweet suffering",
+      "grammar": "The phrase 'dans cette douce souffrance' uses the preposition 'dans' to indicate location or situation, and the adjective 'douce' emphasizes the speaker's emotional state."
+    },
+    {
+      "time": 131.1,
+      "text": "Dont j'ai payé toutes les offenses",
+      "translation": "For which I have paid all the debts",
+      "grammar": "The phrase 'dont j'ai payé' uses the relative pronoun 'dont' to indicate a relationship between the subject and the predicate, and the verb 'payé' is in the past tense, indicating an action that has been completed."
+    },
+    {
+      "time": 133.26,
+      "text": "Écoute comme mon cœur est immense",
+      "translation": "Listen how my heart is immense",
+      "grammar": "The phrase 'écoute comme' uses the imperative mood to address someone, and the verb 'est' is in the present tense, indicating an ongoing state."
+    },
+    {
+      "time": 159.56,
+      "text": "Je suis une enfant du monde",
+      "translation": "I am a child of the world",
+      "grammar": "The phrase 'je suis' uses the verb 'être' to indicate a state or condition, and the noun 'enfant' emphasizes the speaker's emotional state."
+    },
+    {
+      "time": 166.02,
+      "text": "J'remue le ciel, le jour, la nuit",
+      "translation": "I stir the sky, day and night",
+      "grammar": "The verb 'remue' is in the present tense, indicating an ongoing action, and the phrase 'le ciel, le jour, la nuit' uses the definite article 'le' to indicate a specific location or time."
+    },
+    {
+      "time": 169.3,
+      "text": "Je danse avec le vent, la pluie",
+      "translation": "I dance with the wind, rain",
+      "grammar": "The verb 'danse' is in the present tense, indicating an ongoing action, and the phrase 'avec le vent, la pluie' uses the preposition 'avec' to indicate accompaniment or association."
+    },
+    {
+      "time": 174.5,
+      "text": "Un peu d'amour, un brin de miel",
+      "translation": "A little love, a strand of honey",
+      "grammar": "The phrase 'un peu d'amour' uses the adjective 'peu' to convey a sense of modesty or humility, and the phrase 'un brin de miel' uses the metaphorical expression 'brin de miel' to convey a sense of sweetness or tenderness."
+    },
+    {
+      "time": 176.46,
+      "text": "Et je danse, danse, danse, danse, danse, danse, danse",
+      "translation": "And I dance, dance, dance, dance, dance, dance, dance",
+      "grammar": "The repetition of the verb 'danse' emphasizes the speaker's emotional state and creates a sense of rhythm or musicality."
+    },
+    {
+      "time": 182.18,
+      "text": "Et dans le bruit, je cours et j'ai peur",
+      "translation": "And in the noise, I run and I'm afraid",
+      "grammar": "The phrase 'dans le bruit' uses the preposition 'dans' to indicate location or situation, and the verb 'cours' is in the present tense, indicating an ongoing action."
+    },
+    {
+      "time": 187.0,
+      "text": "Est-ce mon tour? Vient la douleur",
+      "translation": "Is it my turn? Pain comes",
+      "grammar": "The phrase 'est-ce mon tour?' uses the interrogative pronoun 'est-ce' to ask a question, and the verb 'vient' is in the present tense, indicating an ongoing action."
+    },
+    {
+      "time": 191.18,
+      "text": "Dans tout Paris, je m'abandonne",
+      "translation": "In all of Paris, I abandon myself",
+      "grammar": "The phrase 'dans tout Paris' uses the preposition 'dans' to indicate location or situation, and the verb 'm'abandonne' is in the present tense, indicating an ongoing action."
+    },
+    {
+      "time": 193.84,
+      "text": "Et je m'envole, vole, vole, vole, vole, vole, vole",
+      "translation": "And I take flight",
+      "grammar": "The verb envoler is an idiomatic expression meaning to leave or depart, often used in the context of emotional release."
+    }
+  ]
+}

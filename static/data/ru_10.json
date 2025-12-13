@@ -1,0 +1,127 @@
+{
+  "id": "ru_10",
+  "title": "10",
+  "artist": "Эндшпиль",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_10.mp3",
+  "duration": 164,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 10.216900000035762,
+      "text": "Ты дарованный богом мне ангел, и знай, я люблю без остатка",
+      "translation": "You are a divine gift to me, an angel, and know that I love you completely",
+      "grammar": "The phrase 'дарованный богом' is an idiomatic expression meaning 'a divine gift', highlighting the importance of religious connotation in Russian culture."
+    },
+    {
+      "time": 14.802200000047684,
+      "text": "Сквозь занудные будни и мрачные тени, ты всегда светишь ярко",
+      "translation": "Through the tedious everyday life and dark shadows, you always shine brightly",
+      "grammar": ""
+    },
+    {
+      "time": 19.521100000023843,
+      "text": "Май, согревай наши души, в гармонии — чистая сила",
+      "translation": "May, warm our souls, in harmony there is pure power",
+      "grammar": ""
+    },
+    {
+      "time": 25.92330000001192,
+      "text": "Ты подарила мне два мира",
+      "translation": "You gave me two worlds",
+      "grammar": ""
+    },
+    {
+      "time": 29.29980000001192,
+      "text": "На закате, сквозь туман",
+      "translation": "At sunset, through the fog",
+      "grammar": ""
+    },
+    {
+      "time": 33.6135,
+      "text": "Давай бежать от суеты",
+      "translation": "Let's escape from the hustle and bustle",
+      "grammar": ""
+    },
+    {
+      "time": 38.22830000001192,
+      "text": "Ты излучаешь красоту",
+      "translation": "You radiate beauty",
+      "grammar": ""
+    },
+    {
+      "time": 85.79080000001193,
+      "text": "Я поломаю все траблы, залечу раны ради любви моей дамы",
+      "translation": "I will break all the troubles, heal the wounds for the love of my lady",
+      "grammar": ""
+    },
+    {
+      "time": 90.44270000004768,
+      "text": "Летим на крыльях, родная, я знаю, как будет",
+      "translation": "Let's fly on wings, my dear, I know how it will be",
+      "grammar": ""
+    },
+    {
+      "time": 93.12830000001192,
+      "text": "Им не поломать наши планы",
+      "translation": "They can't ruin our plans.",
+      "grammar": ""
+    },
+    {
+      "time": 95.50010000002383,
+      "text": "Мало надо нам — так мало надо, мало надо нам, счастья навалом",
+      "translation": "We need little - so we need little, we need little, happiness in abundance",
+      "grammar": ""
+    },
+    {
+      "time": 148.66680000001193,
+      "text": "Дай мне силы, дай мне руку",
+      "translation": "Give me strength, give me your hand",
+      "grammar": ""
+    },
+    {
+      "time": 149.20669999998807,
+      "text": "Дай мне море, дай мне солнце",
+      "translation": "Give me the sea, give me the sun",
+      "grammar": ""
+    },
+    {
+      "time": 151.0125,
+      "text": "Дай мне силы, дай мне руку",
+      "translation": "Give me strength, give me your hand",
+      "grammar": ""
+    },
+    {
+      "time": 151.66719999998807,
+      "text": "Дай мне море, дай мне солнце",
+      "translation": "Give me the sea, give me the sun",
+      "grammar": ""
+    },
+    {
+      "time": 152.64510000002383,
+      "text": "Дай мне силы, дай мне руку",
+      "translation": "Give me strength, give me your hand",
+      "grammar": ""
+    },
+    {
+      "time": 154.65130000001193,
+      "text": "Дай мне море, дай мне солнце",
+      "translation": "Give me the sea, give me the sun",
+      "grammar": ""
+    },
+    {
+      "time": 157.07369999998807,
+      "text": "Дай мне силы, дай мне руку",
+      "translation": "Give me strength, give me your hand",
+      "grammar": ""
+    },
+    {
+      "time": 159.497,
+      "text": "Дай мне море",
+      "translation": "Give me the sea",
+      "grammar": ""
+    }
+  ]
+}

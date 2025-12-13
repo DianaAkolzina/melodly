@@ -1,0 +1,481 @@
+{
+  "id": "es_despacito",
+  "title": "Despacito",
+  "artist": "Luis Fonsi ft. Daddy Yankee",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_despacito.mp3",
+  "duration": 262,
+  "licensing_note": "User-provided full lyrics (Spanish).",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "¡Ay!",
+      "translation": "Oh!",
+      "grammar": "This interjection ¡Ay! is an exclamation of surprise or shock, often used to express strong emotions. It is typically translated as \"Oh!\" in English and is used to convey a sudden reaction or feeling."
+    },
+    {
+      "time": 1.2,
+      "text": "Fonsi, DY",
+      "translation": "Fonsi, DY",
+      "grammar": "This line is an interjection, used to express excitement or enthusiasm. The use of \"Fonsi\" and \"DY\" likely refers to the artists' names, Fonsi and DY, rather than being a grammatical subject."
+    },
+    {
+      "time": 2.438,
+      "text": "Oh, oh no, oh no (oh)",
+      "translation": "Oh, oh no, oh no (oh)",
+      "grammar": "This interjection is an expression of strong negation or refusal, often used to emphasize the speaker's disappointment or frustration. The repetition of \"oh no\" creates a sense of urgency and emphasizes the intensity of the feeling."
+    },
+    {
+      "time": 5.518,
+      "text": "Hey yeah",
+      "translation": "Hey yeah",
+      "grammar": "This interjection is an informal way to express enthusiasm or agreement, often used in spoken English. The use of \"yeah\" after \"Hey\" creates a colloquial tone."
+    },
+    {
+      "time": 6.756,
+      "text": "Diridiri, dirididi Daddy",
+      "translation": "Diridiri, dirididi Daddy",
+      "grammar": "This line is an interjection, used to express excitement or playfulness. The repetition of \"diri\" creates a rhythmic effect, emphasizing the speaker's enthusiasm."
+    },
+    {
+      "time": 8.454,
+      "text": "Go!",
+      "translation": "Go!",
+      "grammar": "This interjection \"Go!\" is an imperative mood, used to give a command or instruction, and remains in the present tense."
+    },
+    {
+      "time": 9.654,
+      "text": "Sí, sabes que ya llevo un rato mirándote",
+      "translation": "Yes, you know I've been looking at you for a while now.",
+      "grammar": "The verb \"llevo\" is in the present perfect tense, indicating an action started in the past and continuing up to the moment of speaking. The phrase \"un rato\" is an idiomatic expression meaning \"a while\"."
+    },
+    {
+      "time": 13.656,
+      "text": "Tengo que bailar contigo hoy (DY)",
+      "translation": "I have to dance with you today (DY)",
+      "grammar": "The use of \"tengo\" in this sentence indicates the present obligation or necessity, emphasizing that dancing with the person is a required action for that day."
+    },
+    {
+      "time": 16.737,
+      "text": "Vi que tu mirada ya estaba llamándome",
+      "translation": "I saw that your gaze was already calling me",
+      "grammar": "The verb \"estaba\" is in the imperfect past tense, indicating a continuous or ongoing action in the past, and \"llamándome\" is an idiomatic expression meaning \"to be attracted to someone\"."
+    },
+    {
+      "time": 20.278,
+      "text": "Muéstrame el camino que yo voy",
+      "translation": "Show me the way I'm going",
+      "grammar": "The phrase \"yo voy\" is an idiomatic expression in Spanish, equivalent to \"I am going\" or \"I'm heading in that direction\". The verb \"voy\" is in the present continuous tense, indicating the speaker's ongoing action."
+    },
+    {
+      "time": 23.359,
+      "text": "Oh, tú, tú eres el imán y yo soy el metal",
+      "translation": "Oh, you, you are the magnet and I am the metal.",
+      "grammar": "The use of \"tú\" instead of \"you\" emphasizes intimacy and familiarity in this lyrical declaration, highlighting the speaker's emotional connection with the addressee."
+    },
+    {
+      "time": 28.743,
+      "text": "Me voy acercando y voy armando el plan",
+      "translation": "I'm getting closer and putting the plan together.",
+      "grammar": "The verb phrase \"voy acercando\" is in the present continuous tense, indicating an ongoing action. The use of \"voy\" instead of just \"voy acercar\" implies a sense of gradual approach, similar to the English idiom \"I'm getting closer\"."
+    },
+    {
+      "time": 32.745,
+      "text": "Solo con pensarlo se acelera el pulso (oh yeah)",
+      "translation": "Just thinking about it makes my pulse race (oh yeah)",
+      "grammar": "The phrase \"se acelera\" is in the passive voice, indicating that the subject's pulse accelerates as soon as they think about it. The use of \"se\" implies a spontaneous or automatic reaction."
+    },
+    {
+      "time": 37.208,
+      "text": "Ya, ya me estás gustando más de lo normal",
+      "translation": "Yes, I'm starting to like you more than usual.",
+      "grammar": "The phrase \"ya\" is an informal intensifier used to emphasize the speaker's emotions, equivalent to \"really\" or \"honestly\". It's often used in spoken language and can be translated as \"yes\" or \"indeed\", but its primary function is to add emphasis to the following verb."
+    },
+    {
+      "time": 41.671,
+      "text": "Todos mis sentidos van pidiendo más",
+      "translation": "All my senses are craving more",
+      "grammar": "The verb phrase \"van pidiendo\" is in the present continuous tense, indicating a ongoing desire or craving. The idiom \"van pidiendo\" literally means \"are asking for\" but here conveys the idea of intense longing."
+    },
+    {
+      "time": 44.752,
+      "text": "Esto hay que tomarlo sin ningún apuro",
+      "translation": "This should be taken without any rush.",
+      "grammar": "The phrase \"hay que\" is a common idiomatic expression in Spanish, used to indicate obligation or necessity, similar to the English phrase \"must\" or \"should\". It is often translated as \"one must\" or \"it's necessary that\", and is typically used in the present tense."
+    },
+    {
+      "time": 48.293,
+      "text": "Despacito",
+      "translation": "Slowly",
+      "grammar": "The verb \"despacito\" is an adverbial phrase in the imperative mood, instructing someone to do something at a slow pace. It's often used as a command or exhortation to take one's time."
+    },
+    {
+      "time": 49.493,
+      "text": "Quiero respirar tu cuello despacito",
+      "translation": "I want to breathe slowly on your neck",
+      "grammar": "The phrase \"despacito\" is an idiom that means \"slowly\" or \"gently\", often used in informal settings. It's a colloquial expression that adds a sense of intimacy and tenderness to the sentence, emphasizing the desire to take things slowly with someone."
+    },
+    {
+      "time": 52.113,
+      "text": "Deja que te diga cosas al oído",
+      "translation": "Let me whisper things in your ear.",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of intimacy and permission, with \"deja\" implying \"allow me\" or \"let me\". The phrase is an invitation to share secrets or whispers."
+    },
+    {
+      "time": 55.655,
+      "text": "Para que te acuerdes si no estás conmigo",
+      "translation": "So you remember if you're not with me",
+      "grammar": "The phrase \"para que\" is an idiomatic expression indicating a purpose or condition, equivalent to \"so that\" in English. It is used to express the intended consequence of an action or situation."
+    },
+    {
+      "time": 59.657,
+      "text": "Despacito",
+      "translation": "Slowly",
+      "grammar": "This interjection \"Despacito\" is an idiomatic expression that conveys a sense of slowing down or taking it easy, often used to request someone to do something at a slower pace."
+    },
+    {
+      "time": 60.857,
+      "text": "Quiero desnudarte a besos despacito",
+      "translation": "I want to undress you slowly with kisses",
+      "grammar": "The verb phrase \"quiero desnudarte\" is in the present tense, using the first person singular \"quiero\" and the infinitive \"desnudarte\", conveying a sense of desire or intention. The idiomatic expression \"a besos despacito\" uses the preposition \"a\" to indicate the means by which the action will be performed."
+    },
+    {
+      "time": 63.477,
+      "text": "Firmar las paredes de tu laberinto",
+      "translation": "Sign the walls of your labyrinth",
+      "grammar": "This idiomatic expression uses the metaphorical concept of signing a document to convey the idea of acknowledging or accepting one's own thoughts, emotions, and experiences. The verb \"firmar\" is in the present tense, indicating a sense of ongoing commitment or recognition."
+    },
+    {
+      "time": 66.557,
+      "text": "Y hacer de tu cuerpo todo un manuscrito (sube, sube, sube)",
+      "translation": "And make your body a whole manuscript (go up, go up, go up)",
+      "grammar": "The phrase \"hacer de\" is an idiomatic expression indicating to use or treat something as if it were something else. In this context, the speaker is suggesting that one's body should be used as a canvas for self-expression."
+    },
+    {
+      "time": 71.942,
+      "text": "(Sube, sube) Oh",
+      "translation": "(Go up, go up) Oh",
+      "grammar": "This line uses the imperative mood to convey a sense of urgency and encouragement, with the repeated phrase \"sube\" (go up) emphasizing the idea of ascension or progress."
+    },
+    {
+      "time": 73.64,
+      "text": "Quiero ver bailar tu pelo",
+      "translation": "I want to see your hair dance",
+      "grammar": "This line uses the imperative mood, with a playful and idiomatic expression that combines the desire to see someone's hair move as if it were dancing."
+    },
+    {
+      "time": 76.26,
+      "text": "Quiero ser tu ritmo (uh oh, uh oh)",
+      "translation": "I want to be your rhythm (uh oh, uh oh)",
+      "grammar": "The verb \"quiero\" is in the present tense and expresses a desire or intention, which is typical of the first conditional. The phrase \"ser tu ritmo\" uses the idiomatic expression \"ser el [acción]\" meaning \"to be someone's [action]\"."
+    },
+    {
+      "time": 80.262,
+      "text": "Que le enseñes a mi boca (uh oh, uh oh)",
+      "translation": "Teach my mouth (uh oh, uh oh)",
+      "grammar": "The phrase \"que le enseñes\" is an indirect command in the subjunctive mood, used to express a polite request or suggestion. The speaker is asking someone to teach them something, rather than giving a direct instruction."
+    },
+    {
+      "time": 85.186,
+      "text": "Tus lugares favoritos (favoritos, favoritos baby)",
+      "translation": "Your favorite places (favorites, favorites baby)",
+      "grammar": "The use of \"favoritos\" twice in a row is an idiomatic expression emphasizing the speaker's affection for these places. The repetition creates a sense of intimacy and fondness, similar to saying \"my absolute favorite places\"."
+    },
+    {
+      "time": 88.266,
+      "text": "Déjame sobrepasar tus zonas de peligro (uh oh, uh oh)",
+      "translation": "Let me go beyond your danger zones (uh oh, uh oh)",
+      "grammar": "The phrase \"Déjame\" is an imperative verb form in the present tense, used to make a polite request. The use of \"sobrepasar\" instead of \"pasar\" emphasizes the idea of going beyond or exceeding something, rather than just passing through it."
+    },
+    {
+      "time": 93.19,
+      "text": "Hasta provocar tus gritos (uh oh, uh oh)",
+      "translation": "Until I make you scream (uh oh, uh oh)",
+      "grammar": "The phrase \"hasta\" is used to indicate the extent or degree of an action, similar to \"until\" in English. In this context, it implies that the speaker's actions will continue until they provoke a strong reaction from the listener."
+    },
+    {
+      "time": 97.192,
+      "text": "Y que olvides tu apellido (dirididi Daddy)",
+      "translation": "And forget your last name (diridi Daddy)",
+      "grammar": "The phrase \"olvides\" is in the imperative mood, used to give a command or make a request. The use of \"olvides\" instead of \"recuerdes\" (remember) emphasizes the idea of forgetting something."
+    },
+    {
+      "time": 100.734,
+      "text": "Yo sé que estás pensándolo (eh)",
+      "translation": "I know you're thinking about it (eh)",
+      "grammar": "The phrase \"yo sé\" is an informal way to express certainty, equivalent to \"I know\" in English. The use of \"yo\" instead of \"I\" indicates a more casual tone and is common in spoken language among friends or acquaintances."
+    },
+    {
+      "time": 103.814,
+      "text": "Llevo tiempo intentándolo (eh)",
+      "translation": "I've been trying for a while now (eh)",
+      "grammar": "The use of \"llevo\" in \"Llevo tiempo intentándolo\" indicates the present perfect tense, showing that the action of trying started in the past and continues up to the present moment."
+    },
+    {
+      "time": 105.973,
+      "text": "Mami, esto es dando y dándolo",
+      "translation": "Mommy, this is give and take.",
+      "grammar": "The phrase \"esto es\" is an idiomatic expression used to emphasize a point or introduce a contrasting idea, equivalent to saying \"this is about\" or \"it's all about\". The verb \"dando y dándolo\" is in the present continuous tense, indicating ongoing action."
+    },
+    {
+      "time": 109.054,
+      "text": "Sabes que tu corazón conmigo te hace bam bam",
+      "translation": "You know your heart goes bam bam with me",
+      "grammar": "The phrase \"te hace\" is an idiomatic expression indicating a strong emotional connection, using the verb \"hacer\" in the present tense to convey a sense of ongoing or habitual action."
+    },
+    {
+      "time": 113.517,
+      "text": "Sabe que esa beba 'tá buscando de mi bam bam",
+      "translation": "He knows that baby's looking for my bam bam",
+      "grammar": "This line uses the present tense to describe a situation known to someone, and the phrase \"¿buscando de mi\" is an idiomatic expression meaning \"looking for mine\"."
+    },
+    {
+      "time": 118.441,
+      "text": "Ven prueba de mi boca para ver cómo te sabe",
+      "translation": "Come taste my mouth and see how it tastes to you",
+      "grammar": "The phrase \"prueba de mi boca\" is an idiomatic expression meaning \"taste\" or \"experience\", rather than a literal test. The verb \"sabe\" is in the present tense, indicating a general truth about the speaker's mouth."
+    },
+    {
+      "time": 123.364,
+      "text": "Quiero, quiero, quiero ver cuánto amor a ti te cabe",
+      "translation": "I want, I want, I want to see how much love you can hold.",
+      "grammar": "The repeated \"quiero\" is an idiomatic expression emphasizing the speaker's strong desire, equivalent to saying \"I really want\". The verb \"cabe\" is in the impersonal form, used to describe a general or unknown quantity."
+    },
+    {
+      "time": 128.288,
+      "text": "Yo no tengo prisa, yo me quiero dar el viaje",
+      "translation": "I'm not in a hurry, I want to take the trip",
+      "grammar": "The phrase \"yo me quiero\" is an idiomatic expression meaning \"I want\" or \"I'd like\", using the reflexive pronoun \"me\" and the verb \"querer\" in the subjunctive mood. This construction is commonly used to express personal desire or intention."
+    },
+    {
+      "time": 133.212,
+      "text": "Empezamo' lento, después salvaje",
+      "translation": "We started slow, then went wild",
+      "grammar": "The use of \"'lento\" and \"salvaje\" in this phrase is an idiomatic expression, where the verb \"empezamo'\" is in the present tense, indicating a habitual or general truth about how they started."
+    },
+    {
+      "time": 135.371,
+      "text": "Pasito a pasito, suave suavecito",
+      "translation": "Step by step, nice and easy",
+      "grammar": "This idiomatic phrase uses the present participle \"pasito\" to convey gradual action, while \"suave\" and \"suavecito\" emphasize the gentle pace. The phrase as a whole expresses a sense of calm progression."
+    },
+    {
+      "time": 137.991,
+      "text": "Nos vamos pegando poquito a poquito",
+      "translation": "We're getting closer little by little.",
+      "grammar": "This idiomatic expression uses the present continuous tense (nos vamos) to convey gradual progress, and the adverbial phrase \"poquito a poquito\" emphasizes the slow and steady nature of this process."
+    },
+    {
+      "time": 141.071,
+      "text": "Cuando tú me besas con esa destreza",
+      "translation": "When you kiss me with that skill",
+      "grammar": "The verb phrase \"me besas\" is in the present tense, indicating a habitual or repeated action. The use of \"tú\" instead of \"usted\" shows informal familiarity between the speaker and the person being addressed."
+    },
+    {
+      "time": 144.613,
+      "text": "Veo que eres malicia con delicadeza",
+      "translation": "I see that you are malice disguised as delicacy.",
+      "grammar": "The phrase \"eres malicia\" is an idiomatic expression, where the verb \"ser\" (to be) is used to describe a person's inherent nature or character, rather than their current state. This construction emphasizes the speaker's perception of the person's true nature being one of malice."
+    },
+    {
+      "time": 147.693,
+      "text": "Pasito a pasito, suave suavecito",
+      "translation": "Step by step, nice and easy",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey gradual progress, with \"pasito\" emphasizing small steps. The phrase \"suave suavecito\" is an intensification of the adjective \"suave\", meaning smooth or gentle."
+    },
+    {
+      "time": 150.313,
+      "text": "Nos vamos pegando, poquito a poquito (oh oh)",
+      "translation": "We're getting closer, little by little (oh oh)",
+      "grammar": "The phrase \"pegando\" is an idiomatic expression meaning \"getting closer\", using the present continuous tense to convey gradual progress."
+    },
+    {
+      "time": 154.315,
+      "text": "Y es que esa belleza es un rompecabezas (oh no)",
+      "translation": "And that beauty is a puzzle (oh no)",
+      "grammar": "The phrase \"Y es que\" is an idiomatic expression in Spanish, equivalent to \"And it's that\" or \"What I mean is\", used to introduce a reason or explanation. The sentence is in the present tense, describing a general truth about beauty being a puzzle."
+    },
+    {
+      "time": 159.239,
+      "text": "Pero pa' montarlo aquí tengo la pieza (slow, oh yeah)",
+      "translation": "But to assemble it, I have the part here (slow, oh yeah)",
+      "grammar": "The phrase \"tengo la pieza\" is in the present tense, indicating that the speaker has the necessary part at the moment of speaking. The use of \"tengo\" instead of \"he tenido\" implies a sense of availability or accessibility."
+    },
+    {
+      "time": 164.163,
+      "text": "Despacito (yeh, yo)",
+      "translation": "Slowly (yeah, me)",
+      "grammar": "The phrase \"yeh, yo\" is an informal way to express agreement or confirmation in Spanish, equivalent to saying \"yes\" or \"okay\". The use of \"yo\" instead of the formal \"usted\" or the more common \"sí\" adds a playful and casual tone."
+    },
+    {
+      "time": 165.861,
+      "text": "Quiero respirar tu cuello despacito (yo)",
+      "translation": "I want to breathe on your neck slowly (me)",
+      "grammar": "The phrase \"despacito\" is an idiom, literally meaning \"slowly\", but in this context it's used to convey a sense of intimacy or closeness. The use of the pronoun \"yo\" instead of \"me\" emphasizes the speaker's desire for personal connection."
+    },
+    {
+      "time": 168.942,
+      "text": "Deja que te diga cosas al oído (yo)",
+      "translation": "Let me whisper things in your ear (me)",
+      "grammar": "The phrase \"yo\" is an informal way to refer to oneself, often used with friends or in casual settings. This usage is equivalent to saying \"I\" in English, but with a more relaxed tone."
+    },
+    {
+      "time": 172.944,
+      "text": "Para que te acuerdes si no estás conmigo",
+      "translation": "So you remember if you're not with me",
+      "grammar": "The phrase \"para que\" is used to express purpose or intention, similar to the English idiom \"so that\". The sentence is in the subjunctive mood, indicating a hypothetical situation."
+    },
+    {
+      "time": 176.946,
+      "text": "Despacito",
+      "translation": "Slowly",
+      "grammar": "The verb \"despacito\" is an adverbial phrase used to modify the action of moving or doing something, conveying a sense of gradualness and caution. It functions as a command or instruction, urging someone to perform an action at a slow pace."
+    },
+    {
+      "time": 178.146,
+      "text": "Quiero desnudarte a besos despacito (yeh)",
+      "translation": "I want to undress you slowly with kisses (yeah)",
+      "grammar": "The verb \"quiero\" is in the present tense, indicating a desire or intention. The phrase \"desnudarte a besos\" uses the idiomatic expression \"a besos\", meaning \"with kisses\"."
+    },
+    {
+      "time": 181.227,
+      "text": "Firmar las paredes de tu laberinto",
+      "translation": "Sign the walls of your labyrinth",
+      "grammar": "This idiomatic expression uses the metaphorical concept of signing a document to convey the idea of acknowledging or accepting one's own thoughts and emotions, rather than literally signing physical walls. The verb firmar is in the present tense, emphasizing the ongoing process of self-reflection."
+    },
+    {
+      "time": 184.307,
+      "text": "Y hacer de tu cuerpo todo un manuscrito (sube, sube, sube)",
+      "translation": "And make your body a whole manuscript (go up, go up, go up)",
+      "grammar": "This line uses the idiomatic expression \"hacer de\" to mean \"to make something of\", implying that one's body is a canvas for self-expression. The imperative verb \"sube\" is in the second person singular, addressing the listener directly."
+    },
+    {
+      "time": 189.692,
+      "text": "(Sube, sube) Oh",
+      "translation": "(Go up, go up) Oh",
+      "grammar": "This interjection is an idiomatic expression used to urge someone to take action or make progress. The repeated verb \"sube\" emphasizes the sense of urgency and encouragement."
+    },
+    {
+      "time": 191.39,
+      "text": "Quiero ver bailar tu pelo",
+      "translation": "I want to see your hair dance",
+      "grammar": "This line uses the idiomatic expression \"ver bailar\" which is a figurative way of saying you want to see someone's hair move or swing, rather than literally dancing. The verb \"querer\" is in the present tense, indicating a desire or intention."
+    },
+    {
+      "time": 194.01,
+      "text": "Quiero ser tu ritmo (uh oh, uh oh)",
+      "translation": "I want to be your rhythm (uh oh, uh oh)",
+      "grammar": "The verb \"quiero\" is in the present tense and expresses a desire or intention, which is typical of the first conditional construction. The use of \"ser\" instead of \"estar\" implies a more permanent or inherent quality, suggesting the speaker wants to be an integral part of someone's rhythm."
+    },
+    {
+      "time": 198.012,
+      "text": "Que le enseñes a mi boca (uh oh, uh oh)",
+      "translation": "Teach my mouth (uh oh, uh oh)",
+      "grammar": "The phrase \"que le enseñes\" is an indirect command in the subjunctive mood, used to express a polite request or suggestion."
+    },
+    {
+      "time": 202.936,
+      "text": "Tus lugares favoritos (favoritos, favoritos baby)",
+      "translation": "Your favorite places (favorites, favorites baby)",
+      "grammar": "The use of \"favoritos\" twice in a row is an idiomatic expression emphasizing the speaker's affection for their favorite places. The repetition creates a sense of intimacy and playfulness, similar to saying \"my absolute favorite places\"."
+    },
+    {
+      "time": 206.017,
+      "text": "Déjame sobrepasar tus zonas de peligro (uh oh, uh oh)",
+      "translation": "Let me go beyond your danger zones (uh oh, uh oh)",
+      "grammar": "The phrase \"Déjame\" is an imperative verb form in the present tense, used to make a polite request. The use of \"sobrepasar\" instead of \"pasar\" implies a sense of urgency and permission."
+    },
+    {
+      "time": 210.94,
+      "text": "Hasta provocar tus gritos (uh oh, uh oh)",
+      "translation": "Until I make you scream (uh oh, uh oh)",
+      "grammar": "The phrase \"hasta\" indicates a purpose or intention in the present tense, implying that the speaker's actions will eventually lead to the desired outcome. The use of \"gritos\" (screams) is an idiomatic expression emphasizing strong emotions."
+    },
+    {
+      "time": 214.942,
+      "text": "Y que olvides tu apellido",
+      "translation": "And that you forget your last name",
+      "grammar": "This sentence uses the present subjunctive mood to express a hypothetical or uncertain situation, indicating that the speaker is making a suggestion rather than stating a fact. The phrase \"que olvides\" is an example of the indirect object construction in Spanish, where the verb \"olvidar\" is in the subjunctive mood because it is preceded by the conjunction \"que\"."
+    },
+    {
+      "time": 217.562,
+      "text": "Despacito",
+      "translation": "Slowly",
+      "grammar": "This interjection \"Despacito\" is an idiomatic expression that conveys a sense of slowing down or doing something at ease, often used to encourage someone to take their time."
+    },
+    {
+      "time": 218.762,
+      "text": "Vamo' a hacerlo en una playa en Puerto Rico",
+      "translation": "Let's do it on a beach in Puerto Rico",
+      "grammar": "This line uses the informal, colloquial phrase \"Vamo'\" as an idiom to express agreement and encouragement, equivalent to saying \"let's\" or \"come on\". The verb \"hacerlo\" is in the present tense, indicating a plan or intention."
+    },
+    {
+      "time": 223.225,
+      "text": "Hasta que las olas griten \"Ay, bendito\"",
+      "translation": "Until the waves cry out \"Oh, blessed one\"",
+      "grammar": "The phrase \"las olas griten\" is an idiomatic expression that uses the present continuous tense to convey a vivid and intense situation, as if the waves are screaming in distress. The use of the verb \"griten\" (to scream) emphasizes the urgency and drama of the moment."
+    },
+    {
+      "time": 226.767,
+      "text": "Para que mi sello se quede contigo (báilalo)",
+      "translation": "So that my mark stays with you (dance it)",
+      "grammar": "The phrase \"para que\" is a subordinate conjunction introducing a purpose clause, indicating the speaker's intention to ensure their mark remains with the listener."
+    },
+    {
+      "time": 230.769,
+      "text": "Pasito a pasito, suave suavecito (hey yeah, yeah)",
+      "translation": "Step by step, nice and easy (hey yeah, yeah)",
+      "grammar": "The phrase \"pasito a pasito\" is an idiom that translates to \"step by step\", conveying gradual progress or ease. The use of the verb \"pasito\" in the present tense emphasizes the ongoing process."
+    },
+    {
+      "time": 234.771,
+      "text": "Nos vamos pegando, poquito a poquito (oh no)",
+      "translation": "We're getting closer, little by little (oh no)",
+      "grammar": "The phrase \"pegando\" is an idiomatic expression meaning \"getting closer\", using the present continuous tense to convey gradual progress."
+    },
+    {
+      "time": 238.773,
+      "text": "Que le enseñes a mi boca (uh oh, uh oh)",
+      "translation": "Teach my mouth (uh oh, uh oh)",
+      "grammar": "The phrase \"que le enseñes\" is an indirect command in the subjunctive mood, used to express a polite request."
+    },
+    {
+      "time": 243.697,
+      "text": "Tus lugares favoritos (favoritos, favoritos baby)",
+      "translation": "Your favorite places (favorites, favorites baby)",
+      "grammar": "The use of \"favoritos\" twice in a row is an idiomatic expression emphasizing the speaker's affection for the mentioned places. The repetition creates a sense of intimacy and fondness."
+    },
+    {
+      "time": 246.777,
+      "text": "Pasito a pasito, suave suavecito",
+      "translation": "Step by step, nice and easy",
+      "grammar": "This idiomatic expression uses the present participle \"pasito\" to convey gradual movement, emphasizing the slow and gentle process. The adjectives \"suave\" and \"suavecito\" reinforce this idea of smooth progression."
+    },
+    {
+      "time": 249.397,
+      "text": "Nos vamos pegando, poquito a poquito",
+      "translation": "We're getting closer, little by little.",
+      "grammar": "The phrase \"pegando\" is an idiomatic expression indicating gradual progress or approach. The verb \"ir\" (to go) in the present continuous tense (\"nos vamos\") conveys ongoing action."
+    },
+    {
+      "time": 252.478,
+      "text": "Hasta provocar tus gritos (eh-oh) (Fonsi)",
+      "translation": "Until I make you scream (eh-oh) (Fonsi)",
+      "grammar": "The phrase \"hasta provocar\" is an idiomatic expression meaning \"until I make\", using the preposition \"hasta\" to indicate a point of completion, rather than a specific time."
+    },
+    {
+      "time": 256.019,
+      "text": "Y que olvides tu apellido (DY)",
+      "translation": "And that you forget your last name (DY)",
+      "grammar": "The phrase \"olvides\" is in the second person plural imperative, indicating a command to forget one's last name. This usage is idiomatic and common in Spanish, where the speaker is urging someone else to let go of their identity."
+    },
+    {
+      "time": 259.1,
+      "text": "Despacito",
+      "translation": "Slowly",
+      "grammar": "The verb \"despacito\" is an adverbial phrase in the imperative mood, instructing someone to perform an action at a slow pace. It can be translated as \"slowly\" or \"at a slow tempo\"."
+    }
+  ]
+}

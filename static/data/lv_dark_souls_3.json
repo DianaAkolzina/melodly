@@ -1,0 +1,73 @@
+{
+  "id": "lv_dark_souls_3",
+  "title": "Dark Souls 3",
+  "artist": "Yuka Kitamura",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ltg",
+  "to_language": "en",
+  "audio": "/audio/lv_dark_souls_3.mp3",
+  "duration": 167,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Forsan dia piāvī dī sopha vetō tābī ēditī",
+      "translation": "Forsan dia piavy di sopha veto table edit",
+      "grammar": "The verb \"edit\" is in the imperative mood, indicating a command or instruction. Note that the original sentence uses the archaic phrase \"vetō tābī\" which translates to \"to the table\", implying a formal or official setting."
+    },
+    {
+      "time": 23.592,
+      "text": "Tābī ēditī vetō tābī aderō sānxī vīta diū",
+      "translation": "How to eat veto how to adero sanxi place diū",
+      "grammar": "The line uses the imperative mood, instructing on actions to take. The phrase \"Tābī ēditī\" is an idiom meaning \"how to do something\", while \"vetō\" and \"aderō\" are idiomatic expressions for \"to eat\" and \"to place\", respectively."
+    },
+    {
+      "time": 47.184,
+      "text": "Abambulā, abambulā, abambulābit",
+      "translation": "Ambulā, abambulā, abambulābit",
+      "grammar": "The repeated phrase \"abambulā\" is an idiom expressing strong emphasis or urgency, similar to English \"oh no\" or \"good grief\". The use of the verb \"bit\" in the imperative mood suggests a sense of warning or caution."
+    },
+    {
+      "time": 56.611,
+      "text": "Vītā pie dium hī vīta piābāmus",
+      "translation": "Instead at dium hī place piābāmus",
+      "grammar": "This line uses the idiomatic expression \"vīta\" to mean \"life\" or \"lifestyle\", and the phrase \"pie dium hī\" is an adverbial phrase indicating a specific location, with no direct translation."
+    },
+    {
+      "time": 74.537,
+      "text": "Vādī titubem",
+      "translation": "Lead to Titube",
+      "grammar": "The verb \"vādī\" is in the imperative mood, instructing someone to lead or guide. The phrase \"titubem\" is an idiomatic expression meaning \"to a place\" rather than literally \"to Titube\"."
+    },
+    {
+      "time": 81.131,
+      "text": "Hi ōtia, hi ōtia",
+      "translation": "Hi soldier, hi soldier",
+      "grammar": "The repeated use of \"hi\" in this lyric line is an idiomatic expression, emphasizing the speaker's familiarity and friendliness towards the addressee. The phrase is used in the imperative mood to address someone directly."
+    },
+    {
+      "time": 93.391,
+      "text": "Nitor sēsē tōtī nūda annectātis fōrsit vāniorī longae ōrātī",
+      "translation": "Now in the session of the annexed forsit vanior longae ORatī",
+      "grammar": "This line employs a poetic, archaic tone and features an idiomatically modified verb phrase (\"nitor\" instead of standard \"nominor\") to convey a sense of urgency. The use of \"forsit\" (perhaps) adds a hint of uncertainty, while the repetition of \"longae\" emphasizes the speaker's longing."
+    },
+    {
+      "time": 119.816,
+      "text": "Fōrsit sancīre nova dium, vītā pia",
+      "translation": "Forget the sanction nova dium, instead of pia",
+      "grammar": "The phrase \"sancīre\" is in the imperative mood, instructing someone to forget something. The verb agrees with the subject in number and person, using the second-person singular form \"sancīre\" to address the listener directly."
+    },
+    {
+      "time": 137.742,
+      "text": "Dium adī sōle dēdō dium sānctificā",
+      "translation": "Dium's most promising dium is Dium Sanctifá",
+      "grammar": "This line appears to be a poetic or liturgical phrase, using the archaic verb forms and Latin-inspired vocabulary typical of the Lithuanian language. The sentence structure and word order are reminiscent of ancient languages, with no clear indication of tense or aspect."
+    },
+    {
+      "time": 155.668,
+      "text": "Abambulā, abambulā, abambulābam, abambulā",
+      "translation": "Abambula, abambula, abambulām, abambulām",
+      "grammar": "This line features a repetitive pattern of the verb \"abambulā\" in different tenses and moods, demonstrating the use of verb conjugation to express emphasis and rhythm."
+    }
+  ]
+}

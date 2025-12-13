@@ -1,0 +1,325 @@
+{
+  "id": "es_mi_gente",
+  "title": "Mi Gente",
+  "artist": "J Balvin & Willy William",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_mi_gente.mp3",
+  "duration": 156,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "¡Wuh!",
+      "translation": "Wow!",
+      "grammar": "The use of '!Wuh!' is an interjection to express surprise or excitement."
+    },
+    {
+      "time": 3.0,
+      "text": "Si el ritmo te lleva a mover la cabeza",
+      "translation": "If the rhythm takes you to move your head",
+      "grammar": "This sentence uses the conditional tense 'si' (if) and the verb 'llevar' in the present tense."
+    },
+    {
+      "time": 6.0,
+      "text": "Ya empezamos como es",
+      "translation": "We're already getting started like this",
+      "grammar": "The use of 'ya' is an adverb indicating that something has already begun or is happening now."
+    },
+    {
+      "time": 9.0,
+      "text": "Mi música no discrimina a nadie",
+      "translation": "My music doesn't discriminate against anyone",
+      "grammar": "This sentence uses the negation 'no' and the verb 'discriminar' in the present tense."
+    },
+    {
+      "time": 12.0,
+      "text": "Así que vamos a romper",
+      "translation": "So we're going to break it up",
+      "grammar": "The use of 'así que' is a conjunction indicating cause and effect."
+    },
+    {
+      "time": 15.0,
+      "text": "Toda mi gente se mueve (rra)",
+      "translation": "All my people are moving (yeah)",
+      "grammar": "The use of '(rra)' is an interjection to emphasize the action or feeling described in the sentence."
+    },
+    {
+      "time": 18.0,
+      "text": "Mira el ritmo cómo los tiene (okay)",
+      "translation": "Look at the rhythm how it has them (okay)",
+      "grammar": "This sentence uses the verb 'tener' in the present tense and the adverb 'cómo' to describe a manner or way."
+    },
+    {
+      "time": 21.0,
+      "text": "Hago música que entretiene",
+      "translation": "I make music that entertains",
+      "grammar": "The use of 'hacer' is a verb indicating action or creation, and 'que' introduces the object of the sentence."
+    },
+    {
+      "time": 24.0,
+      "text": "El mundo nos quiere, nos quiere, me quiere a mí",
+      "translation": "The world loves us, loves us, wants to be with me",
+      "grammar": "This sentence uses the verb 'querer' in the present tense and the pronoun 'nos' (us) to indicate inclusivity."
+    },
+    {
+      "time": 27.0,
+      "text": "Toda mi gente se mueve (rra)",
+      "translation": "All my people are moving (yeah)",
+      "grammar": "The use of '(rra)' is an interjection to emphasize the action or feeling described in the sentence."
+    },
+    {
+      "time": 30.0,
+      "text": "Mira el ritmo cómo los tiene",
+      "translation": "Look at the rhythm how it has them",
+      "grammar": "This sentence uses the verb 'tener' in the present tense and the adverb 'cómo' to describe a manner or way."
+    },
+    {
+      "time": 33.0,
+      "text": "Hago música que entretiene",
+      "translation": "I make music that entertains",
+      "grammar": "The use of 'hacer' is a verb indicating action or creation, and 'que' introduces the object of the sentence."
+    },
+    {
+      "time": 36.0,
+      "text": "Mi música los tiene fuerte bailando y se baila así (let's go)",
+      "translation": "My music has them dancing strongly and they dance like this (let's go)",
+      "grammar": "This sentence uses the verb 'tener' in the present tense to describe a state or condition, and the adverb 'fuerte' to indicate intensity."
+    },
+    {
+      "time": 39.0,
+      "text": "Estamo rompiendo la discoteca",
+      "translation": "We're breaking up the nightclub",
+      "grammar": "The use of 'estamo' is an irregular verb in the present tense indicating action or state."
+    },
+    {
+      "time": 42.0,
+      "text": "La fiesta no para, apenas comienza",
+      "translation": "The party doesn't stop, it's just starting",
+      "grammar": "This sentence uses the negation 'no' and the verb 'parar' in the present tense to indicate a state or condition."
+    },
+    {
+      "time": 45.0,
+      "text": "¡Eh! C'est comme ci, ¡eh!, c'est comme ça",
+      "translation": "Hey! It's like this, yeah, it's like that",
+      "grammar": "The use of '!Eh!' is an interjection to express surprise or excitement, and the phrase 'c'est comme' is a French expression indicating similarity."
+    },
+    {
+      "time": 48.0,
+      "text": "¡Eh! Ma chérie, la-la-la-la-la",
+      "translation": "Hey! My dear, la-la-la-la-la",
+      "grammar": "The use of '!Eh!' is an interjection to express surprise or excitement, and the phrase 'Ma chérie' is a French expression indicating affection."
+    },
+    {
+      "time": 51.0,
+      "text": "Eh, Francia, eh, Colombia, eh",
+      "translation": "Hey, France, hey, Colombia, hey",
+      "grammar": "The use of 'eh' is an interjection to express surprise or excitement, and the names of countries are used as proper nouns."
+    },
+    {
+      "time": 54.0,
+      "text": "Me gusta (¡freeze!)",
+      "translation": "I like it (freeze!)",
+      "grammar": "The use of 'me gusta' is a phrase indicating liking or preference, and the interjection '!Freeze!' is an instruction to stop or freeze in place."
+    },
+    {
+      "time": 57.0,
+      "text": "Eh, J Balvin, eh, Willy William, eh",
+      "translation": "Hey, J Balvin, hey, Willy William, hey",
+      "grammar": "The use of 'eh' is an interjection to express surprise or excitement, and the names of people are used as proper nouns."
+    },
+    {
+      "time": 60.0,
+      "text": "Me gusta (¡freeze!)",
+      "translation": "I like it (freeze!)",
+      "grammar": "The use of 'me gusta' is a phrase indicating liking or preference, and the interjection '!Freeze!' is an instruction to stop or freeze in place."
+    },
+    {
+      "time": 63.0,
+      "text": "Los DJs no miente', les gusta a mi gente",
+      "translation": "The DJs don't lie, they like my people",
+      "grammar": "This sentence uses the verb 'mentir' in the present tense and the negation 'no' to indicate a state or condition."
+    },
+    {
+      "time": 66.0,
+      "text": "Y eso se fue mundial (¡freeze!)",
+      "translation": "And that went global (freeze!)",
+      "grammar": "The use of 'eso' is an object pronoun indicating what happened, and the phrase 'se fue mundial' indicates a global or worldwide scope."
+    },
+    {
+      "time": 69.0,
+      "text": "No le bajamos, mas nunca paramos",
+      "translation": "We don't slow down, but we never stop",
+      "grammar": "This sentence uses the negation 'no' and the verb 'bajar' in the present tense to indicate a state or condition."
+    },
+    {
+      "time": 72.0,
+      "text": "Es otro palo y, ¡blam!",
+      "translation": "It's another stick and, boom!",
+      "grammar": "The use of 'otro' is an adjective indicating something new or different, and the interjection '!Blam!' is an expression of excitement or energy."
+    },
+    {
+      "time": 75.0,
+      "text": "¿Y dónde está mi gente?",
+      "translation": "And where's my people?",
+      "grammar": "This sentence uses the interrogative pronoun '¿dónde?' to ask a question about location, and the possessive adjective 'mi' indicates ownership or possession."
+    },
+    {
+      "time": 78.0,
+      "text": "Mais fais bouger la tête",
+      "translation": "Make your head move",
+      "grammar": "The use of 'fais' is an imperative verb indicating action or instruction, and the phrase 'bouger la tête' describes a physical action or movement."
+    },
+    {
+      "time": 81.0,
+      "text": "¿Y dónde está mi gente?",
+      "translation": "And where's my people?",
+      "grammar": "This sentence uses the interrogative pronoun '¿dónde?' to ask a question about location, and the possessive adjective 'mi' indicates ownership or possession."
+    },
+    {
+      "time": 84.0,
+      "text": "Say yeah, yeah, yeah",
+      "translation": "Say yeah, yeah, yeah",
+      "grammar": "This sentence uses the imperative verb 'say' to instruct someone to say something, and the repetition of 'yeah' emphasizes the action or feeling described in the sentence."
+    },
+    {
+      "time": 87.0,
+      "text": "¡Un, dos, tres, leggo! (Ay, di que sí)",
+      "translation": "One, two, three, let's go! (Yeah, I'll say yes)",
+      "grammar": "The use of '!Un, dos, tres' is a countdown or count-in to indicate the start of an action, and the phrase 'leggo' is an imperative verb indicating action or instruction."
+    },
+    {
+      "time": 90.0,
+      "text": "Esquina a esquina, y ahí nos vamo",
+      "translation": "Corner to corner, and we're going there",
+      "grammar": "The use of 'esquina' is a noun indicating a location or direction, and the verb 'vamos' in the present tense indicates action or movement."
+    },
+    {
+      "time": 93.0,
+      "text": "El mundo es grande, pero lo tengo en mis manos",
+      "translation": "The world is big, but I have it in my hands",
+      "grammar": "This sentence uses the adjective 'grande' to describe something as large or extensive, and the phrase 'lo tengo en mis manos' indicates possession or control."
+    },
+    {
+      "time": 96.0,
+      "text": "Estoy muy duro, sí, okay, ahí vamos",
+      "translation": "I'm very tough, yes, okay, let's go",
+      "grammar": "The use of 'estoy' is an irregular verb in the present tense indicating a state or condition, and the phrase 'ahí vamos' indicates action or movement."
+    },
+    {
+      "time": 99.0,
+      "text": "Y con el tiempo nos seguimos elevando, yeah",
+      "translation": "And with time we keep on rising, yeah",
+      "grammar": "This sentence uses the verb 'elevar' in the present tense to indicate a state or condition, and the phrase 'con el tiempo' indicates a period of time."
+    },
+    {
+      "time": 102.0,
+      "text": "Que seguimos rompiendo aquí, yeah",
+      "translation": "We keep on breaking it up here, yeah",
+      "grammar": "The use of 'que' is a conjunction introducing a subordinate clause, and the verb 'romper' in the present tense indicates action or movement."
+    },
+    {
+      "time": 105.0,
+      "text": "Esta fiesta no tiene fin, yeah",
+      "translation": "This party has no end, yeah",
+      "grammar": "The use of 'no' is a negation indicating that something does not exist or have a certain quality, and the phrase 'tiene fin' indicates a state or condition."
+    },
+    {
+      "time": 108.0,
+      "text": "Botellas para arriba, sí",
+      "translation": "Bottles up high, yes",
+      "grammar": "The use of 'botellas' is a noun indicating objects or containers, and the phrase 'para arriba' indicates direction or location."
+    },
+    {
+      "time": 111.0,
+      "text": "Los tengo bailando, rompiendo y yo sigo aquí (yeah)",
+      "translation": "I have them dancing, breaking it up, and I'm still here (yeah)",
+      "grammar": "The use of 'tengo' is an irregular verb in the present tense indicating possession or control, and the phrase 'y yo sigo aquí' indicates a state or condition."
+    },
+    {
+      "time": 114.0,
+      "text": "Que seguimos rompiendo aquí, yeah",
+      "translation": "We keep on breaking it up here, yeah",
+      "grammar": "The use of 'que' is a conjunction introducing a subordinate clause, and the verb 'romper' in the present tense indicates action or movement."
+    },
+    {
+      "time": 117.0,
+      "text": "Esta fiesta no tiene fin, yeah",
+      "translation": "This party has no end, yeah",
+      "grammar": "The use of 'no' is a negation indicating that something does not exist or have a certain quality, and the phrase 'tiene fin' indicates a state or condition."
+    },
+    {
+      "time": 120.0,
+      "text": "Botellas para arriba, sí",
+      "translation": "Bottles up high, yes",
+      "grammar": "The phrase 'para arriba' is an idiomatic expression meaning 'up high' or 'at the top'."
+    },
+    {
+      "time": 123.0,
+      "text": "Los tengo bailando, rompiendo",
+      "translation": "I have them dancing, breaking",
+      "grammar": "The verb 'tengo' is in the present tense and agrees with the plural subject 'los'."
+    },
+    {
+      "time": 126.0,
+      "text": "¿Y dónde está mi gente?",
+      "translation": "And where's my people?",
+      "grammar": "The question starts with a rhetorical particle '?Y' which is equivalent to 'and' or 'so'."
+    },
+    {
+      "time": 129.0,
+      "text": "Mais fais bouger la tête",
+      "translation": "Make the head move",
+      "grammar": "The verb 'fais' is in the imperative mood and means 'make' or 'do'."
+    },
+    {
+      "time": 132.0,
+      "text": "¿Y dónde está mi gente?",
+      "translation": "And where's my people?",
+      "grammar": ""
+    },
+    {
+      "time": 135.0,
+      "text": "Say yeah, yeah, yeah",
+      "translation": "Say yes, yes, yes",
+      "grammar": ""
+    },
+    {
+      "time": 138.0,
+      "text": "¡Un, dos, tres, leggo! (Ay, di que sí)",
+      "translation": "One, two, three, let's go! (Ah, say yes)",
+      "grammar": "The phrase 'leggo' is an idiomatic expression meaning 'let's go' or 'come on'."
+    },
+    {
+      "time": 141.0,
+      "text": "Worldwide, Willy William",
+      "translation": "Worldwide, Willy William",
+      "grammar": ""
+    },
+    {
+      "time": 144.0,
+      "text": "J Balvin, man, ajá",
+      "translation": "J Balvin, dude, yeah",
+      "grammar": "The phrase 'man' is an informal way to address someone, similar to 'dude'."
+    },
+    {
+      "time": 147.0,
+      "text": "Ajá",
+      "translation": "Yeah",
+      "grammar": ""
+    },
+    {
+      "time": 150.0,
+      "text": "Ajá",
+      "translation": "Yeah",
+      "grammar": ""
+    },
+    {
+      "time": 153.0,
+      "text": "Ajá",
+      "translation": "Yeah",
+      "grammar": ""
+    }
+  ]
+}

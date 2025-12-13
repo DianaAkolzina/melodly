@@ -1,0 +1,247 @@
+{
+  "id": "ru__11",
+  "title": "Замок из дождя",
+  "artist": "Lesha Svik",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_.mp3",
+  "duration": 247,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 10.40709999999404,
+      "text": "Дождь, город пуст и мы идём",
+      "translation": "It's raining, the city is empty and we're walking.",
+      "grammar": "The phrase \"мы идём\" uses the present continuous tense to convey a sense of ongoing action, emphasizing that the speakers are still walking despite the rain."
+    },
+    {
+      "time": 16.47,
+      "text": "Вниз по улице вдвоём",
+      "translation": "Down the street together",
+      "grammar": "The phrase \"вдвоём\" (vdvoem) is an idiomatic expression indicating togetherness or companionship, often used in informal settings. It can be translated as \"together\" but maintains its unique connotation in Russian culture."
+    },
+    {
+      "time": 21.27390000000596,
+      "text": "Забрели с тобой шутя",
+      "translation": "We wandered in together jokingly",
+      "grammar": "The verb \"забрели\" is in the past tense, indicating a completed action. The phrase \"с тобой\" uses the informal \"ты\" instead of formal \"вы\", implying a close relationship or familiarity between the speaker and the person they're with."
+    },
+    {
+      "time": 26.325700000017882,
+      "text": "Мы за стены дождя",
+      "translation": "We are behind the walls of rain",
+      "grammar": "The phrase \"мы за стены дождя\" uses the idiomatic expression \"за стены\" to convey being in a state of seclusion or isolation, rather than literally being behind physical walls. The verb \"быть\" is in the present continuous tense, indicating an ongoing action."
+    },
+    {
+      "time": 30.81339999997616,
+      "text": "В мокрых окнах гаснет свет",
+      "translation": "The light goes out in the wet windows",
+      "grammar": "The phrase \"в мокрых окнах\" uses the instrumental case to indicate a location where something happens, rather than specifying the exact window. This idiomatic expression creates a vivid image of a gloomy atmosphere."
+    },
+    {
+      "time": 35.75819999998808,
+      "text": "Только нас давно там нет",
+      "translation": "But we haven't been there for a long time.",
+      "grammar": "The phrase \"только нас\" is an idiomatic expression, where \"только\" indicates the absence of something (\"not...for a long time\"), and \"нас\" is a contraction of \"нам не\" meaning \"we haven't\"."
+    },
+    {
+      "time": 41.03929999998212,
+      "text": "Мы не знаем, что потом",
+      "translation": "We don't know what will happen next",
+      "grammar": "The phrase \"потом\" is a future tense particle indicating an uncertain or unpredictable event. It can be translated as \"what will happen\" rather than simply \"next\"."
+    },
+    {
+      "time": 45.08119999998808,
+      "text": "Словно связаны дождём",
+      "translation": "As if tied by the rain",
+      "grammar": "This idiomatic phrase uses the comparative form of the verb \"связать\" (to tie) to convey a sense of connection or unity, rather than a literal physical bond. The use of \"словно\" (as if) adds a figurative tone to the sentence."
+    },
+    {
+      "time": 50.17729999998212,
+      "text": "В нашем призрачном замке",
+      "translation": "In our ghostly castle",
+      "grammar": "The phrase \"в нашем\" is a possessive construction indicating that the speaker is referring to their own ghostly castle, using the first person plural pronoun \"наш\" (our) in agreement with the noun \"замке\"."
+    },
+    {
+      "time": 57.57629999998212,
+      "text": "Мы вошли в этот замок из дождя",
+      "translation": "We entered this castle from the rain",
+      "grammar": "The phrase \"из дождя\" is an idiomatic expression meaning \"from the rain\" or \"after a storm\". It's used to indicate the sudden change in weather, rather than describing the actual physical act of entering."
+    },
+    {
+      "time": 64.36859999999405,
+      "text": "Только двое — ты и я",
+      "translation": "Just two of us - you and me",
+      "grammar": "In English, when referring to a small number of people, including oneself, it's common to use the subjective pronoun \"us\" instead of \"me\" for emphasis on the shared experience."
+    },
+    {
+      "time": 69.531,
+      "text": "И так долго были вместе",
+      "translation": "And we were together for so long",
+      "grammar": "The phrase \"были\" is in the past perfect tense, indicating that the duration of their time together had ended before the current moment."
+    },
+    {
+      "time": 76.59369999998808,
+      "text": "Мы спаслись в этом замке из дождя",
+      "translation": "We escaped the rain in this castle.",
+      "grammar": "The verb \"спаслись\" is in the past perfect tense, indicating that the action of escaping was completed before another action in the past. The phrase \"из дождя\" is an idiomatic expression meaning \"from the rain\"."
+    },
+    {
+      "time": 83.6905,
+      "text": "Только двое — ты и я",
+      "translation": "Just two of us - you and me",
+      "grammar": "In this idiomatic expression, the verb \"быть\" (to be) is implied in the phrase \"двое\" meaning \"two people\", which is a common construction in Russian. This usage highlights the informal and intimate nature of the speaker's relationship with the listener."
+    },
+    {
+      "time": 88.66829999998212,
+      "text": "В самом одиноком месте",
+      "translation": "In the loneliest place",
+      "grammar": "The phrase \"В самом\" is an idiomatic expression indicating the most extreme or intense state of something, often translated as \"in the most\" or \"at its most\". This construction is used to emphasize the degree of loneliness."
+    },
+    {
+      "time": 95.88469999998807,
+      "text": "Ты и я",
+      "translation": "You and me",
+      "grammar": "In informal English, \"you and me\" is a common idiomatic expression used to refer to two people, including oneself. This construction is an example of a subject-verb-object inversion, where the object (\"me\") comes before the verb (\"are\")."
+    },
+    {
+      "time": 99.33459999999404,
+      "text": "Но близко утро, и сейчас",
+      "translation": "But the morning is near, and now",
+      "grammar": "The phrase \"но близко утро\" uses the future tense to express a sense of imminence or proximity, rather than a specific time in the future. The word \"сейчас\" is an adverb meaning \"now\", emphasizing the contrast between the distant morning and the present moment."
+    },
+    {
+      "time": 105.1915,
+      "text": "Первый луч коснулся нас",
+      "translation": "The first ray touched us",
+      "grammar": "This line uses the present perfect tense to convey a sense of suddenness and intimacy, emphasizing that the experience is still relevant. The phrase \"коснулся нас\" (touched us) employs an idiomatic expression to describe a profound emotional impact."
+    },
+    {
+      "time": 110.19419999998807,
+      "text": "Разрушая волшебство",
+      "translation": "Breaking the Magic",
+      "grammar": "The verb \"разрушать\" (to break) is in the present participle form, indicating ongoing action. The phrase \"Разрушая волшебство\" can be translated as \"as I'm breaking the magic\"."
+    },
+    {
+      "time": 114.95169999998808,
+      "text": "Откровенья твоего",
+      "translation": "Your revelation",
+      "grammar": "The possessive adjective твой (your) agrees in gender and number with the noun откровение (revelation), indicating that it is a singular masculine or neuter noun."
+    },
+    {
+      "time": 119.6555,
+      "text": "И уже издалека",
+      "translation": "And already from afar",
+      "grammar": "The phrase \"издалека\" (izdal'eka) is an adverbial phrase indicating a distance, often used to convey a sense of anticipation or expectation. It can be translated as \"from afar\" and implies that the speaker has been waiting or expecting something for some time."
+    },
+    {
+      "time": 124.3885,
+      "text": "Встречный смотрит свысока",
+      "translation": "The oncoming person looks down on you",
+      "grammar": "In Russian, the verb \"смотреть\" (to look) is often used to convey a sense of superiority or disdain, as seen in this idiom. The phrase \"свисока\" (from above) emphasizes the condescending attitude of the oncoming person."
+    },
+    {
+      "time": 129.1165,
+      "text": "И смеётся нам в глаза",
+      "translation": "And laughs in our eyes",
+      "grammar": "The verb \"смеётся\" is in the third person singular present tense, indicating that it's not about the speaker or listener, but rather an external entity laughing at them. The phrase \"в глаза\" idiomatically means \"in one's face\", emphasizing the direct and intimate nature of this laughter."
+    },
+    {
+      "time": 134.0341999999881,
+      "text": "Как не верит в чудеса",
+      "translation": "How he doesn't believe in miracles",
+      "grammar": "The phrase \"не верит\" is a negated verb form, indicating the speaker's disbelief in miracles. The use of \"не\" to negate the verb \"верить\" (to believe) creates a sense of strong denial or skepticism."
+    },
+    {
+      "time": 139.1821999999881,
+      "text": "Одинокий прохожий",
+      "translation": "A lonely passerby",
+      "grammar": "The phrase \"одинокий прохожий\" is in the nominative case, with the adjective \"одинокий\" agreeing with the noun \"прохожий\"."
+    },
+    {
+      "time": 146.2696999999881,
+      "text": "Мы вошли в этот замок из дождя",
+      "translation": "We entered this castle from the rain",
+      "grammar": "The phrase \"из дождя\" is an idiomatic expression indicating a sudden or unexpected change in circumstances, similar to \"in the nick of time\". The verb \"вошли\" is in the past tense, describing a completed action."
+    },
+    {
+      "time": 153.55389999997615,
+      "text": "Только двое — ты и я",
+      "translation": "Just two of us - you and me",
+      "grammar": "In English, when referring to a small group or pair, it's common to use the plural pronoun \"us\" instead of \"me\" to maintain grammatical agreement."
+    },
+    {
+      "time": 157.96669999998807,
+      "text": "И так долго были вместе",
+      "translation": "And we were together for so long",
+      "grammar": "The verb \"были\" is in the past perfect tense, indicating an action that started before another action in the past and finished before it."
+    },
+    {
+      "time": 165.78829999998212,
+      "text": "Мы спаслись в этом замке из дождя",
+      "translation": "We escaped the rain in this castle.",
+      "grammar": "The verb \"спаслись\" is in the past perfect tense, indicating that the action of escaping was completed before another action in the past. The phrase \"из дождя\" is an idiomatic expression meaning \"from the rain\"."
+    },
+    {
+      "time": 172.63489999997617,
+      "text": "Только двое — ты и я",
+      "translation": "Just two of us - you and me",
+      "grammar": "In English, the phrase \"you and me\" is an idiomatic expression used to emphasize the exclusivity of a situation, rather than using the more formal \"you and I\". This usage note highlights the informal tone and emphasis on intimacy in this lyric line."
+    },
+    {
+      "time": 177.2375,
+      "text": "В самом одиноком месте",
+      "translation": "In the loneliest place",
+      "grammar": "The phrase \"в самом\" is an idiomatic expression indicating the most extreme or absolute state, similar to \"at its most\" or \"in the most\". The preposition \"сам\" agrees with the noun \"месте\" in gender and number."
+    },
+    {
+      "time": 184.68539999997617,
+      "text": "Ты и я",
+      "translation": "You and me",
+      "grammar": "In informal English speech, \"you and me\" is a common idiomatic expression used to refer to two people, including oneself. This construction is an example of a subject-verb-object pronoun order, where the object pronouns \"me\" and \"you\" are used instead of the subject forms \"I\" and \"you\"."
+    },
+    {
+      "time": 189.45209999999403,
+      "text": "Ты и я",
+      "translation": "You and me",
+      "grammar": "In informal English speech, \"you and me\" is a common idiomatic expression used to refer to two people, including oneself. This construction is an example of a subject-verb agreement error in formal writing, but it's acceptable in spoken language."
+    },
+    {
+      "time": 194.01979999998213,
+      "text": "Ты и я",
+      "translation": "You and me",
+      "grammar": "In informal spoken English, \"you and me\" is a common idiomatic expression used to refer to two people, including oneself. This construction is an example of a first-person inclusive pronoun usage, where the speaker includes themselves in the group being referred to."
+    },
+    {
+      "time": 198.04459999999403,
+      "text": "Ты и я, ты и я, ты и я",
+      "translation": "You and me, you and me, you and me",
+      "grammar": "The repetition of \"ты и я\" emphasizes the unity and equality between the speaker and the listener, using a rhetorical device called anaphora. This idiomatic expression is used to convey a sense of shared experience or solidarity."
+    },
+    {
+      "time": 203.86609999999405,
+      "text": "Мы спаслись в этом замке из дождя",
+      "translation": "We escaped the rain in this castle.",
+      "grammar": "The phrase \"спаслись\" is in the past passive voice, indicating that the subject (we) had an action done to them. The idiom \"спаслись\" means to escape or get away from something unpleasant."
+    },
+    {
+      "time": 210.82429999998212,
+      "text": "Только двое — ты и я",
+      "translation": "Just two of us - you and me",
+      "grammar": "In English, when referring to a small number of people, including oneself, it's common to use the subjective pronoun \"us\" instead of \"me\" for grammatical agreement."
+    },
+    {
+      "time": 215.51709999999403,
+      "text": "В самом одиноком месте",
+      "translation": "In the loneliest place",
+      "grammar": "The phrase \"в самом\" is an idiomatic expression indicating the most extreme or intense state of something, often used to emphasize a feeling or situation."
+    },
+    {
+      "time": 222.9795,
+      "text": "Ты и я",
+      "translation": "You and me",
+      "grammar": "In informal English, \"you and me\" is a common idiomatic expression used to refer to two people, including oneself. This construction is an example of a subject-verb-object inversion, where the object (me) comes before the verb in the sentence."
+    }
+  ]
+}

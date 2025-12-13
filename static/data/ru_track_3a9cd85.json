@@ -1,0 +1,229 @@
+{
+  "id": "ru_track_3a9cd85",
+  "title": "Чему Учат в Школе",
+  "artist": "Эдуард Хиль",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_track_3a9cd85.mp3",
+  "duration": 107,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Буквы разные писать",
+      "translation": "Write different letters",
+      "grammar": "The verb 'писать' is in the infinitive form, indicating a general action or ability."
+    },
+    {
+      "time": 2.31,
+      "text": "Тонким пёрышком в тетрадь",
+      "translation": "With a thin pen in a notebook",
+      "grammar": ""
+    },
+    {
+      "time": 5.291,
+      "text": "Учат в школе, учат в школе",
+      "translation": "They teach at school, they teach at school",
+      "grammar": ""
+    },
+    {
+      "time": 9.612,
+      "text": "Учат в школе",
+      "translation": "They teach it at school",
+      "grammar": ""
+    },
+    {
+      "time": 11.922,
+      "text": "Вычитать и умножать",
+      "translation": "Subtract and multiply",
+      "grammar": ""
+    },
+    {
+      "time": 14.233,
+      "text": "Малышей не обижать",
+      "translation": "Don't hurt the little ones",
+      "grammar": ""
+    },
+    {
+      "time": 16.543,
+      "text": "Учат в школе, учат в школе",
+      "translation": "They teach at school, they teach at school",
+      "grammar": ""
+    },
+    {
+      "time": 20.864,
+      "text": "Учат в школе",
+      "translation": "They teach it at school",
+      "grammar": ""
+    },
+    {
+      "time": 23.174,
+      "text": "Вычитать и умножать",
+      "translation": "Subtract and multiply",
+      "grammar": ""
+    },
+    {
+      "time": 25.485,
+      "text": "Малышей не обижать",
+      "translation": "Don't hurt the little ones",
+      "grammar": ""
+    },
+    {
+      "time": 27.795,
+      "text": "Учат в школе, учат в школе",
+      "translation": "They teach at school, they teach at school",
+      "grammar": ""
+    },
+    {
+      "time": 32.116,
+      "text": "Учат в школе",
+      "translation": "They teach it at school",
+      "grammar": ""
+    },
+    {
+      "time": 34.426,
+      "text": "К четырём прибавить два",
+      "translation": "Add two to four",
+      "grammar": ""
+    },
+    {
+      "time": 37.407,
+      "text": "По слогам читать слова",
+      "translation": "Read words by syllables",
+      "grammar": ""
+    },
+    {
+      "time": 40.387,
+      "text": "Учат в школе, учат в школе",
+      "translation": "They teach at school, they teach at school",
+      "grammar": ""
+    },
+    {
+      "time": 44.708,
+      "text": "Учат в школе",
+      "translation": "They teach it at school",
+      "grammar": ""
+    },
+    {
+      "time": 47.019,
+      "text": "Книжки добрые любить",
+      "translation": "Love good books",
+      "grammar": ""
+    },
+    {
+      "time": 49.329,
+      "text": "И воспитанными быть",
+      "translation": "And be well-mannered",
+      "grammar": ""
+    },
+    {
+      "time": 51.64,
+      "text": "Учат в школе, учат в школе",
+      "translation": "They teach at school, they teach at school",
+      "grammar": ""
+    },
+    {
+      "time": 55.96,
+      "text": "Учат в школе",
+      "translation": "They teach it at school",
+      "grammar": ""
+    },
+    {
+      "time": 58.271,
+      "text": "Книжки добрые любить",
+      "translation": "Love good books",
+      "grammar": ""
+    },
+    {
+      "time": 60.581,
+      "text": "И воспитанными быть",
+      "translation": "And be well-mannered",
+      "grammar": ""
+    },
+    {
+      "time": 62.892,
+      "text": "Учат в школе, учат в школе",
+      "translation": "They teach at school, they teach at school",
+      "grammar": ""
+    },
+    {
+      "time": 67.212,
+      "text": "Учат в школе",
+      "translation": "They teach it at school",
+      "grammar": ""
+    },
+    {
+      "time": 69.523,
+      "text": "Про глагол и про тире",
+      "translation": "About the verb and the dash",
+      "grammar": ""
+    },
+    {
+      "time": 73.174,
+      "text": "И про дождик на дворе",
+      "translation": "And about the rain outside",
+      "grammar": ""
+    },
+    {
+      "time": 76.824,
+      "text": "Учат в школе, учат в школе",
+      "translation": "They teach at school, they teach at school",
+      "grammar": ""
+    },
+    {
+      "time": 81.145,
+      "text": "Учат в школе",
+      "translation": "They teach it at school",
+      "grammar": ""
+    },
+    {
+      "time": 83.456,
+      "text": "Крепко-накрепко дружить",
+      "translation": "Become very, very close friends",
+      "grammar": ""
+    },
+    {
+      "time": 85.766,
+      "text": "С детства дружбой дорожить",
+      "translation": "Cherish friendship from childhood",
+      "grammar": ""
+    },
+    {
+      "time": 88.747,
+      "text": "Учат в школе, учат в школе",
+      "translation": "They learn in school, they learn in school",
+      "grammar": "The repetition of 'учат' (they learn) emphasizes the importance of education."
+    },
+    {
+      "time": 93.067,
+      "text": "Учат в школе",
+      "translation": "They teach it at school",
+      "grammar": ""
+    },
+    {
+      "time": 95.378,
+      "text": "Крепко-накрепко дружить",
+      "translation": "Become very, very close friends",
+      "grammar": ""
+    },
+    {
+      "time": 97.688,
+      "text": "С детства дружбой дорожить",
+      "translation": "Cherish friendship from childhood",
+      "grammar": ""
+    },
+    {
+      "time": 100.669,
+      "text": "Учат в школе, учат в школе",
+      "translation": "They teach at school, they teach at school",
+      "grammar": ""
+    },
+    {
+      "time": 104.99,
+      "text": "Учат в школе",
+      "translation": "They teach it at school",
+      "grammar": ""
+    }
+  ]
+}

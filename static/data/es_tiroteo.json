@@ -1,0 +1,445 @@
+{
+  "id": "es_tiroteo",
+  "title": "Tiroteo",
+  "artist": "Remix — Marc Seguí feat. Rauw Alejandro & Pol Granch",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_tiroteo.mp3",
+  "duration": 322,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Cuando tú empiezas",
+      "translation": "When you start",
+      "grammar": "This phrase uses the present continuous tense to express an ongoing action, and the pronoun \"tú\" indicates a familiar or informal relationship between the speaker and the listener."
+    },
+    {
+      "time": 1.925,
+      "text": "Ojalá nunca termine",
+      "translation": "I hope it never ends",
+      "grammar": "This phrase uses the subjunctive mood to express a wish or desire, rather than stating a fact. The verb \"termine\" is in the subjunctive form because it's expressing a hypothetical situation."
+    },
+    {
+      "time": 3.851,
+      "text": "Porque siempre que me besas",
+      "translation": "Because every time you kiss me",
+      "grammar": "The phrase \"porque siempre\" is an idiomatic expression indicating a habitual or repeated action, equivalent to \"whenever\" in English."
+    },
+    {
+      "time": 6.86,
+      "text": "Florecen to's los jardines",
+      "translation": "All the gardens are in bloom",
+      "grammar": "The verb \"florecen\" is in the present tense, indicating a general truth or habitual action. The phrase \"los jardines\" is plural and agrees with the singular verb \"florecen\" due to the idiomatic expression \"all the X\", where X is a plural noun."
+    },
+    {
+      "time": 9.869,
+      "text": "Pero se fue el sol y nunca volvió",
+      "translation": "But the sun went down and never came back.",
+      "grammar": "The verb \"fue\" is in the preterite tense, indicating a completed action in the past. The phrase \"nunca volvió\" uses the adverb \"nunca\" to emphasize the permanence of the sun's departure."
+    },
+    {
+      "time": 14.503,
+      "text": "Me sentí como un niño sin luz, con miedo",
+      "translation": "I felt like a child in the dark, afraid.",
+      "grammar": "The phrase \"como un niño\" is an idiomatic expression meaning \"like a child\", conveying a sense of vulnerability and fear. The verb \"sentí\" is in the first person singular past tense, indicating a completed emotional experience."
+    },
+    {
+      "time": 19.679,
+      "text": "Este cuento de hadas al final cambió",
+      "translation": "This fairy tale eventually changed",
+      "grammar": "The verb \"cambió\" is in the preterite tense, indicating a completed action in the past. The phrase \"al final\" implies a sense of finally or ultimately, conveying the idea that after some time, the story took a different turn."
+    },
+    {
+      "time": 23.772,
+      "text": "Me llenó de promesas que nunca cumplió",
+      "translation": "He filled me with promises he never kept.",
+      "grammar": "This sentence uses the present perfect tense to express a completed action in the past, emphasizing the speaker's emotional state. The phrase \"Me llenó\" is an idiomatic expression meaning \"filled me with\"."
+    },
+    {
+      "time": 27.865,
+      "text": "Me dijiste que te vas",
+      "translation": "You told me you're leaving",
+      "grammar": "The phrase \"Me dijiste\" is in the preterite tense, indicating that the speaker is referring to a completed action in the past. The use of \"te\" instead of \"me\" shows subject-verb agreement with the verb \"dijiste\", which is in the second person singular form."
+    },
+    {
+      "time": 30.874,
+      "text": "Que estás en busca de algo más",
+      "translation": "That you're looking for something more",
+      "grammar": "This phrase uses the present continuous tense (estás) to express a temporary or ongoing action, and the idiomatic expression \"en busca de\" means \"looking for\"."
+    },
+    {
+      "time": 34.966,
+      "text": "Yo como un tonto en tu portal (ey)",
+      "translation": "I'm like a fool at your doorstep (hey)",
+      "grammar": "The phrase \"como un tonto\" is an idiomatic expression that uses the present continuous tense to convey a sense of habitual foolishness, rather than a specific action. The pronoun \"un tonto\" agrees with the subject \"yo\" in number and gender."
+    },
+    {
+      "time": 39.601,
+      "text": "Sí, como un perro soy leal",
+      "translation": "Yes, like a dog I am loyal",
+      "grammar": "This idiomatic expression uses the present tense to convey a general truth about one's character, rather than describing a specific action. The phrase \"como un perro\" is an idiomatic comparison that equates loyalty with canine behavior."
+    },
+    {
+      "time": 43.152,
+      "text": "Y ahora quiero que vuelvas como un niño los findes",
+      "translation": "And now I want you to come back like a kid on weekends",
+      "grammar": "The phrase \"como un niño\" is an idiomatic expression meaning \"like a child\" or \"in a childish manner\"."
+    },
+    {
+      "time": 48.87,
+      "text": "Desde que te has ido, no hacen gracia los chistes",
+      "translation": "Since you left, the jokes aren't funny anymore.",
+      "grammar": "The phrase \"no hacen gracia\" is an idiomatic expression meaning \"aren't funny\". The verb \"hacer\" is in the present tense and agrees with the subject \"los chistes\" (jokes) in number."
+    },
+    {
+      "time": 54.588,
+      "text": "Me he cortado el pelo, me he comprado otro tinte",
+      "translation": "I've cut my hair, I've bought another dye",
+      "grammar": "This line illustrates the use of the present perfect tense to describe two completed actions in the recent past, with a focus on the speaker's new appearance. The phrase \"me he\" is an idiomatic expression equivalent to \"I've\", used to emphasize the speaker's personal experience."
+    },
+    {
+      "time": 60.306,
+      "text": "Buscando a ver si encuentro alguna como tú en Tinder",
+      "translation": "Looking to see if I can find someone like you on Tinder",
+      "grammar": "The verb phrase \"buscando a ver\" is an idiomatic expression in Spanish, equivalent to the English phrase \"looking to see\". It indicates the speaker's intention and desire to search for something."
+    },
+    {
+      "time": 66.024,
+      "text": "Mi niña, eres la musa de mis canciones tristes",
+      "translation": "My little girl, you are the muse of my sad songs",
+      "grammar": "The phrase \"eres la musa\" is an idiomatic expression meaning \"you are the inspiration\" or \"you are the source of creativity\". The verb \"ser\" is in the present tense and agrees with the subject \"tu\", emphasizing the permanent nature of the person's inspirational role."
+    },
+    {
+      "time": 71.2,
+      "text": "No puedo cerrar los ojos mientras te me desvistes",
+      "translation": "I can't close my eyes while you undress me.",
+      "grammar": "The verb \"puedo\" is in the present tense, indicating a general ability rather than an immediate action. The phrase \"te me\" is an idiomatic expression meaning \"while you undress me\"."
+    },
+    {
+      "time": 76.376,
+      "text": "Haces que de mí se vayan to's mis despiste'",
+      "translation": "You make me forget all my lapses in judgment.",
+      "grammar": "The verb phrase \"haces que\" is a construction used to express cause or result, equivalent to English \"make someone do something\", and the pronoun \"to's\" is an object pronoun agreeing with the subject \"mí\"."
+    },
+    {
+      "time": 82.094,
+      "text": "Y es que olvidarte no será una tarea simple",
+      "translation": "And forgetting you won't be an easy task.",
+      "grammar": "The phrase \"será una tarea\" is in the future tense, indicating that the speaker expects forgetting someone will be a difficult process. The use of \"una tarea\" (a task) is an idiom to emphasize the magnitude of the difficulty."
+    },
+    {
+      "time": 87.27,
+      "text": "No, no-oh, oh-oh-oh",
+      "translation": "No, no-oh, oh-oh-oh",
+      "grammar": "This interjection is an expression of strong negation and emotional emphasis, often used to convey a sense of urgency or insistence. The repetition of \"no\" and the use of \"oh-oh-oh\" creates a sense of rhythm and drama, adding to its emotional impact."
+    },
+    {
+      "time": 90.821,
+      "text": "Se me congela el mundo siempre que no' vemo'",
+      "translation": "My world freezes whenever we don't see each other.",
+      "grammar": "The phrase \"se me\" is an idiomatic expression indicating a sudden, intense emotional reaction, equivalent to \"it feels like\" or \"as if\". The verb \"congela\" is in the present tense, describing a habitual action."
+    },
+    {
+      "time": 95.997,
+      "text": "Discutir contigo es como un tiroteo",
+      "translation": "Arguing with you is like a shootout",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or typical situation, and the phrase \"como un tiroteo\" is an idiom that compares arguing to a violent confrontation."
+    },
+    {
+      "time": 99.548,
+      "text": "Y pienso en morirme el primero, ah, ah-ah, ah-ah",
+      "translation": "And I think about dying first, ah, ah-ah, ah-ah",
+      "grammar": "The use of the present tense \"pienso\" (I think) in this context implies a habitual or frequent thought process, rather than a one-time decision. The repetition of \"ah\" is an idiomatic expression conveying emotional emphasis."
+    },
+    {
+      "time": 105.808,
+      "text": "Tú y yo, los dos juntito' frente al mar",
+      "translation": "You and me, the two of us together in front of the sea",
+      "grammar": "The phrase \"juntito'\" is an informal way to say \"together\" or \"as one\", using the diminutive suffix \"-ito'\" to convey a sense of closeness or intimacy. This idiomatic expression is often used in spoken language to emphasize unity and camaraderie."
+    },
+    {
+      "time": 110.984,
+      "text": "Sé por dónde quieres ir a parar",
+      "translation": "I know where you're going with this.",
+      "grammar": "The phrase \"Sé por\" is an idiomatic expression equivalent to \"I get what you're saying\" or \"I understand where you're coming from\". It implies a sense of comprehension and agreement, using the present tense to convey a sense of ongoing understanding."
+    },
+    {
+      "time": 115.077,
+      "text": "Aunque mires así, no servirá",
+      "translation": "Even if you look at it like that, it won't work.",
+      "grammar": "The phrase \"Aunque mires así\" is an example of the conditional tense in Spanish, used to express a hypothetical or uncertain situation. The verb \"mires\" is in the subjunctive mood because it's part of a condition contrary to fact."
+    },
+    {
+      "time": 118.086,
+      "text": "Si es que nos entendemos sin hablar",
+      "translation": "We understand each other without speaking",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of habitual or general understanding, rather than a specific moment in time. The phrase \"sin hablar\" emphasizes the idea that this understanding is achieved through non-verbal means."
+    },
+    {
+      "time": 122.178,
+      "text": "Muero cuando te vas",
+      "translation": "I die when you leave",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of intense emotional urgency, implying that the speaker's emotional state is directly linked to the person leaving."
+    },
+    {
+      "time": 124.646,
+      "text": "Toco el cielo si estás",
+      "translation": "I'll touch the sky if you're there",
+      "grammar": "The phrase \"si estás\" is an idiomatic expression meaning \"if you're there\" or \"if you exist\", using the present tense to convey a sense of possibility rather than certainty."
+    },
+    {
+      "time": 127.655,
+      "text": "Sentada en mi portal",
+      "translation": "Sitting in my doorway",
+      "grammar": "The phrase \"sentada\" is in the present participle form, indicating ongoing action, and agrees with the subject \"yo\" (I) in number and gender."
+    },
+    {
+      "time": 130.122,
+      "text": "Siempre haciéndote esperar",
+      "translation": "Always making you wait",
+      "grammar": "This idiomatic phrase uses the present continuous tense to convey a sense of habitual action, implying that the speaker is consistently keeping someone in suspense."
+    },
+    {
+      "time": 132.047,
+      "text": "Y ahora quiero que vuelvas como un niño los findes",
+      "translation": "And now I want you to come back like a kid on weekends",
+      "grammar": "The phrase \"como un niño\" is an idiomatic expression meaning \"like a child\" or \"in a childish manner\". The verb \"vuelvas\" is in the subjunctive mood, indicating a desire or wish."
+    },
+    {
+      "time": 137.765,
+      "text": "Desde que te has ido, no hacen gracia los chistes",
+      "translation": "Since you left, the jokes aren't funny anymore.",
+      "grammar": "This sentence uses the present perfect tense to express a change in situation since someone's departure, emphasizing the impact on the speaker's perception of humor."
+    },
+    {
+      "time": 143.483,
+      "text": "Me he cortado el pelo, me he comprado otro tinte",
+      "translation": "I've cut my hair, I've bought another dye",
+      "grammar": "The use of \"me\" and \"me\" is an example of rhetorical repetition in Spanish, emphasizing the speaker's actions. The verb forms \"he cortado\" and \"he comprado\" are both present perfect constructions, indicating that the actions were completed at some point in the past."
+    },
+    {
+      "time": 149.201,
+      "text": "Buscando a ver si encuentro alguna como tú en Tinder",
+      "translation": "Looking to see if I can find someone like you on Tinder",
+      "grammar": "The verb phrase \"buscando a ver\" is an idiomatic expression in Spanish, equivalent to \"looking to see\" or \"trying to find out\". The present continuous tense (buscando) conveys the speaker's ongoing effort to search for someone."
+    },
+    {
+      "time": 154.919,
+      "text": "Mi niña, eres la prota de mis canciones tristes",
+      "translation": "My little girl, you are the protagonist of my sad songs",
+      "grammar": "The phrase \"eres la prota\" is an idiomatic expression meaning \"you are the main character\" or \"you star in\", using the verb \"ser\" (to be) in the present tense to describe a person's role."
+    },
+    {
+      "time": 160.095,
+      "text": "No puedo cerrar los ojos mientras te me desvistes",
+      "translation": "I can't close my eyes while you undress me.",
+      "grammar": "The verb \"puedo\" is in the present tense, indicating the speaker's inability to do something as it happens. The phrase \"te me\" is an idiomatic expression meaning \"while you undress me\", where \"me\" is used instead of \"to me\" for emphasis and intimacy."
+    },
+    {
+      "time": 165.272,
+      "text": "Tú dile a las demás que no me quedan más chicles",
+      "translation": "Tell the others I'm out of chewing gum",
+      "grammar": "The phrase \"dile a las demás\" is an idiomatic expression that translates to \"tell the others\". It's in the imperative mood, instructing someone to perform an action."
+    },
+    {
+      "time": 171.532,
+      "text": "Solo te doy a ti, el amor es así de simple",
+      "translation": "I only give to you, love is that simple",
+      "grammar": "The phrase \"el amor es así\" uses the idiomatic expression \"así de\" to emphasize simplicity, equivalent to \"that's how\" or \"just like\". The verb \"es\" remains in the present tense, describing a general truth about love."
+    },
+    {
+      "time": 177.791,
+      "text": "Woh-oh-oh, oh-oh-oh-oh",
+      "translation": "Woh-oh-oh, oh-oh-oh-oh",
+      "grammar": "This line is an interjection, used to express excitement or emphasis, and its repetition creates a sense of rhythm and musicality."
+    },
+    {
+      "time": 181.884,
+      "text": "Se me congela el mundo siempre que nos vemos",
+      "translation": "My world freezes whenever we see each other.",
+      "grammar": "The phrase \"se me\" is an idiomatic expression indicating that the speaker's emotions or state are affected by something, in this case, seeing someone. It's equivalent to saying \"I feel like...\" or \"It feels as though...\"."
+    },
+    {
+      "time": 187.06,
+      "text": "Discutir contigo e' como un tiroteo",
+      "translation": "Arguing with you is like a shootout",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or common experience, and the phrase \"como un tiroteo\" is an idiomatic comparison that equates arguing with a violent confrontation."
+    },
+    {
+      "time": 190.611,
+      "text": "Y pienso en morirme el primero, ah, ah-ah, ah-ah",
+      "translation": "And I think about dying first, ah, ah-ah, ah-ah",
+      "grammar": "The use of the present tense \"pienso\" (I think) in this context implies a habitual or continuous action, suggesting that the speaker frequently thinks about dying."
+    },
+    {
+      "time": 196.871,
+      "text": "Tú y yo, los dos juntitos, sin pensar",
+      "translation": "You and me, the two of us together, without thinking",
+      "grammar": "The phrase \"juntitos\" is an idiomatic expression meaning \"together\" or \"as one\", used to emphasize unity or closeness. It is often translated as \"the two of us\" in English."
+    },
+    {
+      "time": 201.505,
+      "text": "Contigo, como un niño en Toys \"R\" Us",
+      "translation": "With you, like a kid in Toys \"R\" Us",
+      "grammar": "The phrase \"como un niño\" is an idiomatic expression that uses the present perfect tense to convey a sense of ongoing or continuous action, similar to English \"like a kid\"."
+    },
+    {
+      "time": 206.14,
+      "text": "Que se apague la luz en Navidad",
+      "translation": "Turn off the lights at Christmas",
+      "grammar": "This idiomatic expression uses the subjunctive mood to make a polite request, rather than an imperative sentence. The phrase \"que se apague\" is a way of saying \"let it be turned off\"."
+    },
+    {
+      "time": 210.232,
+      "text": "Si desprendemos electricidad",
+      "translation": "If we give off electricity",
+      "grammar": "This line uses the present subjunctive mood (\"desprendamos\") to express a hypothetical or uncertain situation, indicating that the speaker is suggesting an unlikely event."
+    },
+    {
+      "time": 212.158,
+      "text": "Mira que yo lo intento, pero te desvaneces",
+      "translation": "Look, I try, but you just fade away.",
+      "grammar": "The verb phrase \"yo lo intento\" is in the present tense, indicating a habitual or repeated action. The use of \"desvaneces\" instead of \"desapareces\" emphasizes the sudden and complete disappearance of the person being addressed."
+    },
+    {
+      "time": 216.792,
+      "text": "Siempre me hago el contento, pero hoy no me apetece",
+      "translation": "I always try to be happy, but today I don't feel like it.",
+      "grammar": "The phrase \"me hago el contento\" is an idiomatic expression that translates to \"try to be happy\". It's in the present tense and uses the reflexive verb \"hacerse\", which emphasizes the speaker's intention or effort."
+    },
+    {
+      "time": 222.51,
+      "text": "Y no entienden que siempre has sido diferente",
+      "translation": "And they don't understand that you've always been different.",
+      "grammar": "The use of \"has sido\" in the present perfect tense indicates a completed action in the past with relevance to the present, emphasizing the speaker's long-standing uniqueness."
+    },
+    {
+      "time": 227.145,
+      "text": "Como Venecia sin agua, como Madrid sin gente",
+      "translation": "Like Venice without water, like Madrid without people",
+      "grammar": "This idiomatic comparison uses the present participle \"sin\" to convey a sense of absence or lack, emphasizing the drastic consequences of something missing. The phrase is structured around the metaphorical idea that these cities' identities are deeply tied to their characteristic features (water and crowds)."
+    },
+    {
+      "time": 231.779,
+      "text": "Y ahora quiero que vuelvas como un niño los findes",
+      "translation": "And now I want you to come back like a kid on weekends",
+      "grammar": "The phrase \"como un niño\" is an idiomatic expression meaning \"like a child\" or \"in a childish manner\". The verb \"vuelvas\" is in the subjunctive mood, indicating a desire or wish for something to happen."
+    },
+    {
+      "time": 237.497,
+      "text": "Desde que te has ido, no hacen gracia los chistes",
+      "translation": "Since you left, the jokes aren't funny anymore.",
+      "grammar": "The phrase \"no hacen gracia\" is an idiomatic expression meaning \"aren't funny\". The verb \"hacer\" is in the present tense and agrees with the subject \"los chistes\" (jokes) in number."
+    },
+    {
+      "time": 243.215,
+      "text": "Me he cortado el pelo, me he comprado otro tinte",
+      "translation": "I've cut my hair, I've bought another dye",
+      "grammar": "The use of \"me he\" is a common idiomatic expression in Spanish, equivalent to \"I've\" in English, indicating the present perfect tense. This construction emphasizes the completion of an action and its relevance to the current situation."
+    },
+    {
+      "time": 248.933,
+      "text": "Buscando a ver si encuentro alguna como tú en Tinder",
+      "translation": "Looking to see if I can find someone like you on Tinder",
+      "grammar": "The verb phrase \"buscando a ver\" is an idiomatic expression meaning \"looking to see\" in English, used to describe the speaker's intention or purpose. The sentence uses the present continuous tense to convey the ongoing nature of their search."
+    },
+    {
+      "time": 254.651,
+      "text": "Mi niña, eres la prota de mis canciones tristes",
+      "translation": "My little girl, you are the protagonist of my sad songs",
+      "grammar": "The phrase \"eres la prota\" is an idiomatic expression meaning \"you are the main character\" or \"you are the star\". The verb \"ser\" is in the present tense, indicating a general truth about the person's role in the speaker's life."
+    },
+    {
+      "time": 259.827,
+      "text": "No puedo cerrar los ojos mientras te me desvistes",
+      "translation": "I can't close my eyes while you undress me.",
+      "grammar": "The verb \"puedo\" is in the present tense, indicating the speaker's inability to stop watching. The phrase \"te me\" is an idiomatic expression meaning \"while you undress me\"."
+    },
+    {
+      "time": 265.003,
+      "text": "Tú dile a las demás que no me quedan más chicles",
+      "translation": "Tell the others I'm out of chewing gum",
+      "grammar": "The phrase \"dile a las demás\" is an informal way to say \"tell them\" in Spanish, using the indirect object pronoun \"le\" (to him/her/it) and the verb \"decir\" (to tell), which is often shortened to \"dile\"."
+    },
+    {
+      "time": 271.263,
+      "text": "Solo te doy a ti, el amor es así de simple",
+      "translation": "I only give to you, love is that simple",
+      "grammar": "The phrase \"el amor es así\" uses the informal way of expressing \"that's how it is\" or \"that's the way it goes\", emphasizing the simplicity of love. The verb \"es\" is in the present tense, indicating a general truth."
+    },
+    {
+      "time": 277.523,
+      "text": "Woh-oh-oh, oh-oh-oh-oh",
+      "translation": "Woh-oh-oh, oh-oh-oh-oh",
+      "grammar": "This line is an example of a musical interjection, used to add emotional emphasis and create a sense of atmosphere. The repetition of \"oh\" creates a sense of rhythm and unity with the surrounding lyrics."
+    },
+    {
+      "time": 281.616,
+      "text": "Se me congela el mundo siempre que nos vemos",
+      "translation": "My world freezes whenever we see each other.",
+      "grammar": "The phrase \"se me\" is an idiomatic expression indicating a sudden or intense emotional reaction, equivalent to \"it feels like\" or \"as if\". The verb \"congela\" is in the present tense, describing a habitual or recurring experience."
+    },
+    {
+      "time": 286.792,
+      "text": "Discutir contigo es como un tiroteo",
+      "translation": "Arguing with you is like a shootout",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or typical situation, and the phrase \"es como\" introduces a simile that compares arguing with someone to a violent confrontation."
+    },
+    {
+      "time": 290.343,
+      "text": "Y pienso en morirme el primero, oh, oh-oh, oh-oh",
+      "translation": "And I think about dying first, oh, oh-oh, oh-oh",
+      "grammar": "The use of the verb \"pienso\" (think) in the present tense indicates a habitual or continuous action, suggesting that the speaker frequently thinks about dying. The phrase \"el primero\" is an idiomatic expression meaning \"first\" or \"initially\", emphasizing the speaker's willingness to take the lead in dying."
+    },
+    {
+      "time": 296.603,
+      "text": "Siempre te vas de mí (siempre te vas de mí)",
+      "translation": "You always leave me (you always leave me)",
+      "grammar": "The phrase \"te vas\" is an idiomatic expression in Spanish, equivalent to the English idiom \"always leave\", conveying a sense of constant departure or abandonment. The verb \"vas\" is in the present tense and second person singular form, agreeing with the pronoun \"te\"."
+    },
+    {
+      "time": 302.321,
+      "text": "Siempre te vas de mí (siempre te vas de mí)",
+      "translation": "You always leave me (you always leave me)",
+      "grammar": "This line uses the present tense of the verb \"ir\" to express a habitual or repeated action, conveying a sense of resignation and frustration. The repetition of \"te vas\" emphasizes the speaker's feeling of being constantly abandoned."
+    },
+    {
+      "time": 308.039,
+      "text": "Siempre te vas de mí (de mí)",
+      "translation": "You always leave me (me)",
+      "grammar": "The phrase \"te vas\" is an idiomatic expression in Spanish, where \"vas\" is the second person singular form of the verb \"ir\", meaning \"to go away\" or \"to leave\". This construction implies a sense of habitual action, equivalent to the English phrase \"you always leave me\"."
+    },
+    {
+      "time": 312.131,
+      "text": "De mí, oh-oh, oh-oh",
+      "translation": "From me, oh-oh, oh-oh",
+      "grammar": "This line uses the vocative case to address someone directly, with \"mí\" (from me) functioning as a nominative pronoun in apposition to the vocative phrase \"De mí\". The repetition of \"oh-oh\" is an interjection expressing strong emotions."
+    },
+    {
+      "time": 315.682,
+      "text": "This is the remix",
+      "translation": "This is the remix",
+      "grammar": "The phrase \"this is the remix\" uses the present tense to indicate a general truth or a statement of fact, rather than describing a specific action in progress. The phrase also employs an idiomatic expression to convey that what follows is a reworked or reinterpreted version of something."
+    },
+    {
+      "time": 318.149,
+      "text": "Rauw Alejandro",
+      "translation": "Rauw Alejandro",
+      "grammar": "This line is an example of a proper noun, specifically a person's name, and is used as a title or heading. It does not convey any grammatical information about tense, aspect, mood, or agreement."
+    },
+    {
+      "time": 319.533,
+      "text": "Marc Seguí",
+      "translation": "Marc Seguí",
+      "grammar": "This phrase is a proper noun and refers to the name of a person, Marc Seguí."
+    },
+    {
+      "time": 320.916,
+      "text": "Pol Granch",
+      "translation": "Pol Granch",
+      "grammar": "This phrase is an interjection, used to express surprise or astonishment."
+    }
+  ]
+}

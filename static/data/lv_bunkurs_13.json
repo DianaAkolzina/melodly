@@ -1,0 +1,325 @@
+{
+  "id": "lv_bunkurs_13",
+  "title": "Bunkurs 13",
+  "artist": "Vilki",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "lv",
+  "to_language": "en",
+  "audio": "/audio/lv_bunkurs_13.mp3",
+  "duration": 127,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 5.782,
+      "text": "Reiz bija bunkurs 13",
+      "translation": "Once upon a time there was a bunker 13",
+      "grammar": "The phrase \"Reiz bija\" is an idiomatic expression in Latvian, equivalent to the English phrase \"once upon a time\". It indicates a past situation or event."
+    },
+    {
+      "time": 9.135399999976158,
+      "text": "Kur veči dzīvoja",
+      "translation": "Where the old people lived",
+      "grammar": "The phrase \"Kur veči dzīvoja\" is in the past tense, using the verb \"dzīvoja\" in the imperfective aspect to describe a completed action in the past."
+    },
+    {
+      "time": 11.499399999976157,
+      "text": "Kad granātu tur iemeta",
+      "translation": "When the grenade was thrown there",
+      "grammar": "The verb \"iemeta\" is in the passive voice, indicating that the focus is on the grenade being thrown rather than the person doing the throwing. This usage is common in Latvian to emphasize the action or state of the object rather than the subject performing it."
+    },
+    {
+      "time": 13.7515,
+      "text": "Tad sūdi pajuka",
+      "translation": "Then shit got messy.",
+      "grammar": "The phrase \"tad\" is an idiomatic expression used to indicate a sudden change or escalation, equivalent to the English idiom \"things took a turn for the worse\"."
+    },
+    {
+      "time": 16.20509999999404,
+      "text": "Atskan sprādziens",
+      "translation": "An explosion is heard.",
+      "grammar": "The verb \"atskan\" is in the passive voice, indicating that the focus is on the action being performed on the subject (the sound of the explosion), rather than the doer of the action."
+    },
+    {
+      "time": 18.51919999998808,
+      "text": "Un nobīstas pats velns",
+      "translation": "And the devil himself is afraid",
+      "grammar": "The phrase \"un nobīstas\" is an idiomatic expression meaning \"the devil himself\", using the indefinite article \"un\" to emphasize the extreme nature of the situation."
+    },
+    {
+      "time": 20.6435,
+      "text": "Kur agrāk bunkurs stāvēja",
+      "translation": "Where the bunker used to stand",
+      "grammar": "The verb \"used to stand\" is in the past habitual tense, indicating a repeated action in the past. The phrase \"agrāk\" (meaning \"ago\") adds a sense of remoteness, emphasizing that the event is no longer relevant."
+    },
+    {
+      "time": 22.726,
+      "text": "Tur paliek caurums melns",
+      "translation": "There remains a black hole.",
+      "grammar": "The phrase \"Tur paliek\" is an idiomatic expression that indicates the existence or persistence of something, conveyed through the use of the verb \"paliek\" in the present continuous tense."
+    },
+    {
+      "time": 25.08459999999404,
+      "text": "Atskan sprādziens",
+      "translation": "An explosion is heard.",
+      "grammar": "The verb \"atskan\" is in the passive voice, indicating that the subject (the sound) is affected by the action (being heard)."
+    },
+    {
+      "time": 27.04469999998808,
+      "text": "Un nobīstas pats velns",
+      "translation": "And the devil himself is afraid",
+      "grammar": "The phrase \"un nobīstas\" is an idiomatic expression in Latvian, equivalent to saying \"even the devil himself\" in English. The use of \"un\" (meaning \"not\" or \"no\") before \"nobīstas\" (meaning \"devil\") creates a humorous effect by implying that even the most evil being would be afraid."
+    },
+    {
+      "time": 29.415,
+      "text": "Kur agrāk bunkurs stāvēja",
+      "translation": "Where the bunker used to stand",
+      "grammar": "The phrase \"agrāk\" is a past tense particle, indicating that the action of the sentence occurred in the past. It's often translated as \"used to\" or \"formerly\"."
+    },
+    {
+      "time": 31.23119999998808,
+      "text": "Tur paliek caurums melns",
+      "translation": "There remains a black hole.",
+      "grammar": "The verb \"paliek\" is in the present continuous tense, indicating an ongoing or permanent state. The phrase \"tur paliek\" can be translated to English as \"there remains\"."
+    },
+    {
+      "time": 33.97489999997616,
+      "text": "Pie cepures mums nāve mirdz",
+      "translation": "Death shines on our hat",
+      "grammar": "The phrase \"nāve\" is an idiomatic expression meaning \"on top of\" or \"over\", rather than a literal location, and the sentence uses the present tense to convey a sense of ongoing or habitual action."
+    },
+    {
+      "time": 36.33789999997616,
+      "text": "Un kaujā līdzi iet",
+      "translation": "And go with me into battle",
+      "grammar": "The verb \"iet\" is in the infinitive form, functioning as an adverb to indicate purpose or intention, similar to English phrases like \"to go with\"."
+    },
+    {
+      "time": 38.416699999988076,
+      "text": "Dreb ienaidnieka sirds",
+      "translation": "The enemy's heart trembles",
+      "grammar": "This idiomatic phrase uses the possessive pronoun \"ienaidnieka\" to convey a figurative sense of fear or anxiety, rather than literal possession. The verb \"sirds\" is in the third person singular present tense, indicating a state of being."
+    },
+    {
+      "time": 40.56289999997616,
+      "text": "Kad iesākam mēs smiet",
+      "translation": "When we start laughing",
+      "grammar": "The verb \"smiet\" is in the present tense, indicating a habitual or repeated action. The phrase \"mēs smiet\" can be translated as \"we tend to laugh\" or \"it's our habit to laugh\"."
+    },
+    {
+      "time": 42.85,
+      "text": "Vaņka laidies",
+      "translation": "Vanka has landed.",
+      "grammar": "The verb \"laidies\" is in the third person singular perfect tense, indicating that Vanka's landing is a completed action."
+    },
+    {
+      "time": 45.03729999998212,
+      "text": "Ka vāļinki vien zib",
+      "translation": "That the cobwebs only flash",
+      "grammar": "The verb \"zib\" is in the present tense, describing a repeated or continuous action of flashing. The phrase \"viens\" emphasizes that this flashing occurs only once."
+    },
+    {
+      "time": 47.11939999997616,
+      "text": "Jo mana roka nadzīgā",
+      "translation": "Because my hand is clawed",
+      "grammar": "The phrase \"Jo mana\" is an idiomatic expression, equivalent to \"because I\" in English, using the possessive pronoun \"mana\" instead of a subject-verb agreement. This construction is typical in Latvian and implies a first-person singular subject."
+    },
+    {
+      "time": 49.36629999998212,
+      "text": "Pie bārdas ķert tev' grib",
+      "translation": "They want to grab you by the beard",
+      "grammar": "The verb \"grib\" is in the imperative mood, indicating a command or strong suggestion. The phrase \"tev' grib\" uses the dative pronoun \"tev'\" and the verb \"grib\" to convey a sense of direct address and intimacy."
+    },
+    {
+      "time": 51.27309999999404,
+      "text": "Vaņka laidies",
+      "translation": "Vanka has landed.",
+      "grammar": "The verb \"laidies\" is in the third person singular past tense, indicating that Vanka has completed an action in the past. The word \"laidies\" is a colloquial or dialectical form of the standard Latvian verb \"liegt\", which means to land or arrive."
+    },
+    {
+      "time": 53.37939999997616,
+      "text": "Ka vāļinki vien zib",
+      "translation": "That the cobwebs only flash",
+      "grammar": "The verb \"zib\" is in the present tense, describing a habitual or repeated action of flashing. The phrase \"viens\" emphasizes that this flashing occurs only once."
+    },
+    {
+      "time": 55.51539999997616,
+      "text": "Jo mana roka nadzīgā",
+      "translation": "Because my hand is clawed",
+      "grammar": "The phrase \"Jo mana\" is an idiomatic expression, equivalent to \"because I\" in English, using the possessive pronoun \"mana\" (my) and the verb \"jo\" (to be), indicating a reason or cause in the present tense."
+    },
+    {
+      "time": 57.46269999998808,
+      "text": "Pie bārdas ķert tev' grib",
+      "translation": "They want to grab you by the beard",
+      "grammar": "The phrase \"grib\" is an idiomatic expression, literally meaning \"to grasp\" or \"to seize\", but in this context it conveys a sense of rough handling or grabbing. The verb agrees with the subject \"they\" in number and person, using the third-person plural form."
+    },
+    {
+      "time": 60.35289999997616,
+      "text": "Reiz bija bunkurs 13",
+      "translation": "Once upon a time there was a bunker 13",
+      "grammar": "The phrase \"Reiz bija\" is an idiomatic expression in Latvian, equivalent to the English phrase \"once upon a time\". It uses the imperfective aspect to convey a sense of pastness."
+    },
+    {
+      "time": 62.41539999997616,
+      "text": "Kur veči dzīvoja",
+      "translation": "Where the old people lived",
+      "grammar": "The phrase \"Kur veči dzīvoja\" is in the past tense, using the verb \"dzīvoja\" in the imperfective aspect to describe a completed action in the past. The word order follows the typical Latvian pattern of subject-verb-adverb."
+    },
+    {
+      "time": 64.57119999998808,
+      "text": "Kad granātu tur iemeta",
+      "translation": "When the grenade was thrown there",
+      "grammar": "The phrase \"kad\" is a subordinating conjunction indicating the past perfect tense, used to describe an action completed before another action in the past."
+    },
+    {
+      "time": 66.808,
+      "text": "Tad sūdi pajuka",
+      "translation": "Then shit got messy.",
+      "grammar": "The phrase \"Tad\" is an idiomatic expression equivalent to \"then\" in English, indicating a sudden change or escalation of a situation."
+    },
+    {
+      "time": 69.04019999998808,
+      "text": "Hei vella veči",
+      "translation": "Hey old man",
+      "grammar": "This idiomatic expression uses the imperative mood to address someone, with a familiar and informal tone. The phrase hei is an interjection equivalent to \"hey\" or \"hi\"."
+    },
+    {
+      "time": 70.956,
+      "text": "Ko visu tie gan prot",
+      "translation": "What do they know?",
+      "grammar": "The phrase \"Ko\" is an interrogative particle used to form a question, equivalent to \"what\" or \"how\". It agrees with the noun \"visu\" in number and case."
+    },
+    {
+      "time": 73.16289999997616,
+      "text": "Uz pirkstiem staigāt, šnabi dzert",
+      "translation": "To walk on tiptoes, drink schnapps",
+      "grammar": "The phrase \"staigāt\" is in the imperative mood, instructing someone to walk quietly. The idiom \"uz pirkstiem\" literally means \"on toes\", but figuratively means \"quietly\"."
+    },
+    {
+      "time": 75.21039999997616,
+      "text": "Ar ausīm mušas ķert",
+      "translation": "Catching flies with your ears",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a humorous and imaginative scenario, rather than describing an actual action. The phrase \"ausīm\" is an informal way of saying \"I would be catching\"."
+    },
+    {
+      "time": 77.32539999997616,
+      "text": "Hei vella veči",
+      "translation": "Hey old man",
+      "grammar": "The phrase \"Hei\" is an informal greeting and interjection, used to address someone in a familiar or affectionate manner. The verb \"veči\" is in the imperative mood, giving a sense of directness and informality."
+    },
+    {
+      "time": 79.3025,
+      "text": "Ko visu tie gan prot",
+      "translation": "What do they know?",
+      "grammar": "The phrase \"Ko\" is an interrogative particle used to form a question, equivalent to \"what\" or \"how\". It agrees with the subject \"visu\" in number and case."
+    },
+    {
+      "time": 81.48059999999404,
+      "text": "Uz pirkstiem staigāt, šnabi dzert",
+      "translation": "To walk on tiptoes, drink schnapps",
+      "grammar": "The phrase \"staigāt\" is in the imperative mood, instructing someone to do something. The idiom \"uz pirkstiem\" means to move quietly or carefully, often used figuratively to describe a cautious approach."
+    },
+    {
+      "time": 83.52279999998211,
+      "text": "Ar ausīm mušas ķert",
+      "translation": "Catching flies with your ears",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or repeated action, rather than a specific moment in time. The phrase also employs a common Latvian idiom that is difficult to translate directly, but essentially means to be completely wrong or mistaken about something."
+    },
+    {
+      "time": 85.95329999998212,
+      "text": "Bet kas ar mums nav draudzīgi",
+      "translation": "But who is not friendly with us?",
+      "grammar": "The phrase \"bet\" indicates a contrastive conjunction, implying a shift from the previous statement to a new idea. The sentence uses the present tense to describe a general situation or a habitual action."
+    },
+    {
+      "time": 88.312,
+      "text": "Lai labāk paiet nost",
+      "translation": "To get away better",
+      "grammar": "The phrase \"Lai labāk\" is an idiomatic expression meaning \"to get away\" or \"to escape\", using the infinitive mood to convey a sense of purpose. The verb \"paiet\" is in the third person singular present tense, indicating a general truth rather than a specific action."
+    },
+    {
+      "time": 90.40259999999404,
+      "text": "Jo neesam mēs saudzīgi",
+      "translation": "Because we are not gentle",
+      "grammar": "The verb \"neesam\" is in the present tense, indicating a general truth or habit, and the phrase \"mēs saudzīgi\" uses the pronoun \"mēs\" (we) to emphasize the shared experience of not being gentle."
+    },
+    {
+      "time": 92.61929999998212,
+      "text": "Mēs šaujam tādus nost",
+      "translation": "We shoot those people.",
+      "grammar": "The phrase \"šaujam\" is in the present tense, indicating a habitual or repeated action. The use of \"mēs\" (we) implies shared responsibility or involvement."
+    },
+    {
+      "time": 94.8785,
+      "text": "Kas vēl dzīvi",
+      "translation": "Who is still alive?",
+      "grammar": "The phrase \"kas vēl\" is an idiomatic expression in Latvian, equivalent to English \"who is still\" or \"who remains\", conveying a sense of inquiry about someone's continued existence."
+    },
+    {
+      "time": 96.94759999999404,
+      "text": "Lai kopā turamies",
+      "translation": "Let's stick together.",
+      "grammar": "This line uses the informal, first-person plural imperative verb form \"lai\" to express a suggestion or invitation, which is equivalent to \"let's\" in English. The phrase also employs the idiomatic expression \"kopturamies\" meaning \"to stick together\"."
+    },
+    {
+      "time": 99.02639999997616,
+      "text": "Jo tik un tā pēc nāves",
+      "translation": "Because after death anyway",
+      "grammar": "The phrase \"tik un tā\" is an idiomatic expression indicating a sense of inevitability or certainty, often used to convey that something will happen regardless. The verb \"pēc\" is in the superlative form, emphasizing the finality of death."
+    },
+    {
+      "time": 100.98309999999404,
+      "text": "Reiz mēs ellē tiksimies",
+      "translation": "We will meet in hell someday.",
+      "grammar": "The phrase \"tiksimies\" is a future passive construction, indicating that the subject (we) will have met someone or something at some point in the future."
+    },
+    {
+      "time": 103.17679999998212,
+      "text": "Kas vēl dzīvi",
+      "translation": "Who is still alive?",
+      "grammar": "The phrase \"kas vēl\" is an idiomatic expression in Latvian, equivalent to English \"who is still\" or \"who remains\", indicating a question about the current state of someone's life."
+    },
+    {
+      "time": 105.20269999998808,
+      "text": "Lai kopā turamies",
+      "translation": "Let's stick together.",
+      "grammar": "The phrase \"Lai\" is a first-person plural imperative particle, used to express a suggestion or invitation, similar to the English idiom \"let's\"."
+    },
+    {
+      "time": 107.39189999997616,
+      "text": "Jo tik un tā pēc nāves",
+      "translation": "Because after death anyway",
+      "grammar": "The phrase \"tik un tā\" is an idiomatic expression indicating a consequence or result, equivalent to English \"anyway\" or \"in the end\". The sentence uses the present simple tense to describe a general truth."
+    },
+    {
+      "time": 109.48890000000596,
+      "text": "Reiz mēs ellē tiksimies",
+      "translation": "We will meet in hell someday.",
+      "grammar": "The phrase \"tiksimies\" is in the future tense, indicating a planned or intended action. The idiom \"ellē\" means \"hell\" but is used figuratively to emphasize the intensity of the situation, rather than literally referring to the underworld."
+    },
+    {
+      "time": 113.88729999998212,
+      "text": "Mēs solam zemei dzimtajai",
+      "translation": "We promise the native land",
+      "grammar": "The verb \"solam\" is in the first person plural present tense, indicating a promise or commitment to fulfill. The phrase \"dzimtajai\" can be translated as \"native land\", emphasizing the importance of one's homeland."
+    },
+    {
+      "time": 116.06009999999404,
+      "text": "To stingri turēt ciet",
+      "translation": "Keep it tightly closed.",
+      "grammar": "The imperative mood is used to give a direct instruction, with the verb \"turēt\" agreeing in number and person with the implied subject. The idiom \"to stingri\" means \"tightly\" or \"firmly\"."
+    },
+    {
+      "time": 118.8075,
+      "text": "Līdz asins lāsei pēdējai",
+      "translation": "Until the last drop of blood",
+      "grammar": "The phrase \"līdz asins\" is an idiomatic expression indicating a point of exhaustion or complete depletion, similar to saying \"to the very end\". The verb \"līdz\" implies a sense of continuity and duration."
+    },
+    {
+      "time": 121.27219999998808,
+      "text": "Par viņu kaujā iet",
+      "translation": "They go to battle for him.",
+      "grammar": "The phrase \"par viņu\" is an idiomatic expression meaning \"for someone\" or \"on behalf of someone\", with \"viņu\" being a possessive pronoun indicating the person being referred to."
+    }
+  ]
+}

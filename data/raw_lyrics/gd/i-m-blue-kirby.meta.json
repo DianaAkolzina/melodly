@@ -1,0 +1,16 @@
+{
+  "language": "gd",
+  "title": "I'm Blue",
+  "artist": "Kirby",
+  "slug": "i-m-blue-kirby",
+  "track_length_seconds": 145,
+  "source": {
+    "provider": "musixmatch",
+    "track_id": 135495365,
+    "commontrack_id": 75167786,
+    "track_share_url": "https://www.musixmatch.com/lyrics/Kirby-12/I-m-Blue?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "track_edit_url": "https://www.musixmatch.com/lyrics/Kirby-12/I-m-Blue/edit?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "search_language": "gd",
+    "fetched_at": "2025-11-22T09:10:00.284837Z"
+  }
+}

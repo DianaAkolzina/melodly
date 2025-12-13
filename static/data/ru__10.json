@@ -1,0 +1,277 @@
+{
+  "id": "ru__10",
+  "title": "Танцуй",
+  "artist": "NЮ",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_.mp3",
+  "duration": 188,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 1.218,
+      "text": "Танцуй искрой пламени, танцуй",
+      "translation": "Dance like a spark of flame, dance",
+      "grammar": "This idiom uses the imperative mood to encourage enthusiastic action, with the verb \"танцуй\" (dance) in the second person singular form, addressing the listener directly. The phrase \"искрой пламени\" is an idiomatic expression meaning \"with great passion\" or \"with fiery enthusiasm\"."
+    },
+    {
+      "time": 4.563199999988079,
+      "text": "Ночь губит, и нам пора",
+      "translation": "The night is killing us, and it's time for us to go",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a sense of urgency, implying that the situation is rapidly deteriorating. The phrase \"губит\" (is killing) is an exaggeration used to emphasize the severity of the situation."
+    },
+    {
+      "time": 8.517600000023842,
+      "text": "Танцуй, когда я скажу",
+      "translation": "Dance when I say",
+      "grammar": "This idiom uses the imperative mood to give a direct instruction, with the verb \"танцуй\" (dance) in the second person singular form \"танцуй\" instead of the expected \"танцуешь\"."
+    },
+    {
+      "time": 12.494100000023842,
+      "text": "Танцуй, я тебя держу",
+      "translation": "Dance, I'm holding you",
+      "grammar": "The imperative mood is used in this phrase, with the speaker giving a direct instruction to dance. The pronoun \"я\" (I) agrees with the verb \"держу\" (hold), indicating the speaker's involvement in the action."
+    },
+    {
+      "time": 16.29719999998808,
+      "text": "Танцуй, есть ты и никого кроме",
+      "translation": "Dance, there is you and no one else",
+      "grammar": "The phrase \"есть ты\" is an idiomatic expression used to emphasize the uniqueness or exclusivity of someone's presence, equivalent to \"you're the only one that matters\"."
+    },
+    {
+      "time": 19.345200000047683,
+      "text": "Меня тоже никто не понял",
+      "translation": "Nobody understood me either.",
+      "grammar": "The phrase \"меня\" is in the accusative case, agreeing with the subject \"никто\" in number and grammatical function. This usage illustrates the common Russian idiom \"никто не [verb] меня\", meaning \"nobody understands me\"."
+    },
+    {
+      "time": 22.90530000001192,
+      "text": "Я тоже танцую один",
+      "translation": "I dance alone too",
+      "grammar": "The phrase \"тоже\" (too) is an adverb indicating agreement or similarity, often used to express shared experience. In this context, it emphasizes the speaker's participation in dancing alone, implying a sense of solidarity with others who may also be doing so."
+    },
+    {
+      "time": 26.61680000001192,
+      "text": "Танцуй и не упади",
+      "translation": "Dance and don't fall",
+      "grammar": "This idiom uses the imperative mood to convey a sense of encouragement or advice, with the particle и (and) connecting two verbs in the same tense. The phrase is urging someone to dance without falling, emphasizing the importance of balance while dancing."
+    },
+    {
+      "time": 30.86359999999404,
+      "text": "Танцуй всегда честно и когда не права",
+      "translation": "Always dance fairly even when you are wrong",
+      "grammar": "This idiom emphasizes the importance of being honest and fair, even in difficult or unpopular situations. The use of \"always\" and \"even when\" indicates a habitual action and a contrastive relationship between the two clauses, respectively."
+    },
+    {
+      "time": 33.93440000000596,
+      "text": "Когда правда известна, и ни жива, ни мертва",
+      "translation": "When the truth is known, and neither alive nor dead",
+      "grammar": "The phrase \"ни жива, ни мертва\" is an idiomatic expression conveying a state of being beyond life or death, often used to emphasize the finality or irrelevance of something."
+    },
+    {
+      "time": 37.77590000000596,
+      "text": "Танцуй, когда предали, неба звёзд не дали",
+      "translation": "Dance when you've been betrayed and haven't been given the stars of the sky.",
+      "grammar": "This idiomatic phrase uses the present tense to convey a sense of timeless betrayal, emphasizing the emotional impact rather than specific timing. The imperative \"Танцуй\" (dance) is used to express a strong emotional urge."
+    },
+    {
+      "time": 42.011,
+      "text": "Когда ты выжжена, выжата, уничтожена",
+      "translation": "When you are burned out, squeezed out, destroyed",
+      "grammar": "This idiomatic expression uses the present participle of the verb \"выжжен\" to convey a state of being in a particular condition, emphasizing the intensity and completeness of the experience."
+    },
+    {
+      "time": 45.79190000000596,
+      "text": "Танцуй у всех на виду или для скрытых камер",
+      "translation": "Dance in public or for hidden cameras",
+      "grammar": "This idiomatic phrase uses the imperative mood to express a suggestion, rather than a direct command. The verb \"танцуй\" (dance) is in the second person singular form, indicating that it's addressed to someone specific."
+    },
+    {
+      "time": 49.22540000000596,
+      "text": "В вере и в полном бреду, когда игра без правил",
+      "translation": "In faith and in complete delirium, when the game has no rules",
+      "grammar": "The phrase \"без правил\" is an idiom translating to \"without rules\" or \"unruly\", emphasizing the chaotic nature of the situation. The verb \"игра\" is in the nominative absolute construction, describing the state of the game rather than its participants."
+    },
+    {
+      "time": 52.8335,
+      "text": "Танцу не судьбы вершить, ему на всё плевать",
+      "translation": "Dance doesn't decide destinies, it doesn't care about anything",
+      "grammar": "The phrase \"ему на всё плевать\" is an idiomatic expression meaning \"it doesn't care about anything\", where the verb \"плевать\" is in the third person singular form to emphasize the subject's indifference."
+    },
+    {
+      "time": 56.61009999999404,
+      "text": "Пусть раны не зашить, их можно затанцевать",
+      "translation": "Even if the wounds can't be stitched up, they can be danced away.",
+      "grammar": "This idiom uses the present tense to convey a sense of possibility or potentiality, rather than describing an actual event. The phrase \"can be danced away\" is an idiomatic expression meaning to overcome or get over something difficult."
+    },
+    {
+      "time": 61.94090000000596,
+      "text": "Танцуй искрой пламени, танцуй",
+      "translation": "Dance like a spark of flame, dance",
+      "grammar": "This idiomatic phrase uses the imperative mood to urge someone to dance with passion and energy, much like a spark of flame. The repetition of \"танцуй\" emphasizes the intensity of the action."
+    },
+    {
+      "time": 65.1565,
+      "text": "Ночь губит, и нам пора",
+      "translation": "The night is killing us, and it's time for us to go",
+      "grammar": "This idiom \"губит\" (gubit) means \"to be unbearable\" or \"to be too much\", rather than literally \"killing\". The verb agrees with the subject \"ночь\" (night) in the singular."
+    },
+    {
+      "time": 68.99720000001788,
+      "text": "Танцуй, когда я скажу",
+      "translation": "Dance when I say",
+      "grammar": "This idiom uses the imperative mood to give a command, with the verb \"танцуй\" (dance) in the second person singular form, addressing someone directly. The phrase \"когда я скажу\" (when I say) indicates the condition for dancing."
+    },
+    {
+      "time": 72.78090000000596,
+      "text": "Танцуй, я тебя держу",
+      "translation": "Dance, I'm holding you",
+      "grammar": "The imperative mood is used to express a command or request, as in \"танцуй\" (dance), and the pronoun \"я\" agrees with the subject-verb agreement."
+    },
+    {
+      "time": 76.78180000001193,
+      "text": "Танцуй, есть ты и никого кроме",
+      "translation": "Dance, there is you and no one else",
+      "grammar": "The phrase \"есть ты\" (there is you) uses the existential construction to emphasize the speaker's presence, rather than stating a fact. This idiomatic expression highlights the uniqueness of the person being addressed."
+    },
+    {
+      "time": 80.08509999999404,
+      "text": "Меня тоже никто не понял",
+      "translation": "Nobody understood me either.",
+      "grammar": "The phrase \"меня\" is in the nominative case, indicating that it's the subject of the sentence. This usage is an example of a common idiomatic expression in Russian, where the pronoun \"меня\" (meaning \"me\") is used to emphasize the speaker's personal experience."
+    },
+    {
+      "time": 83.90730000001192,
+      "text": "Я тоже танцую один",
+      "translation": "I dance alone too",
+      "grammar": "The phrase \"тоже\" is an adverb indicating similarity or equality, often translated as \"too\" or \"also\". It's used to express agreement with someone else's statement or action."
+    },
+    {
+      "time": 87.82190000000595,
+      "text": "Танцуй и не упади",
+      "translation": "Dance and don't fall",
+      "grammar": "This idiomatic phrase uses the imperative mood to give a command, with the verb \"танцуй\" (dance) in the present tense. The particle \"и\" (and) connects two contrasting actions, while \"не упади\" (don't fall) is a negated imperative in the present tense."
+    },
+    {
+      "time": 91.33220000001788,
+      "text": "Храни огонь в глазах, и пусть в душе жара",
+      "translation": "Keep the fire in your eyes and let there be heat in your soul",
+      "grammar": "This idiomatic expression uses the present tense to convey a timeless advice, emphasizing the importance of maintaining inner passion and enthusiasm. The phrase \"в душе жара\" (in your soul) is an idiom that figuratively equates one's emotional state with physical warmth."
+    },
+    {
+      "time": 94.62659999999404,
+      "text": "Но продолжай танцевать, когда ночь и холод",
+      "translation": "But keep dancing when it's night and cold",
+      "grammar": "The phrase \"когда ночь и холод\" is an idiomatic expression indicating a specific time or situation, rather than a literal description of the environment. The verb \"продолжай танцевать\" remains in the imperative mood, giving a sense of urgency and encouraging the listener to continue dancing despite the unfavorable conditions."
+    },
+    {
+      "time": 98.42220000001788,
+      "text": "Танцуй завтра, танцуй вчера",
+      "translation": "Dance tomorrow, dance yesterday",
+      "grammar": "This idiom uses the present tense to express a general or universal truth, rather than referring to specific times. The phrase \"танцуй\" (dance) is used in both clauses to convey the idea that dancing is always possible, regardless of time."
+    },
+    {
+      "time": 102.27940000000596,
+      "text": "Когда нет любви и лютый голод",
+      "translation": "When there is no love and there is fierce hunger",
+      "grammar": "The phrase \"когда нет\" is an adverbial construction indicating a condition, equivalent to \"when not\" or \"in the absence of\". The use of \"нет\" (there is not) implies a negative tense, emphasizing the lack of love and hunger."
+    },
+    {
+      "time": 106.73,
+      "text": "Пусть будут танцы во льдах, душа и тело в огне",
+      "translation": "Let there be dancing on ice, soul and body on fire",
+      "grammar": "The phrase \"пусть будут\" is an idiomatic expression used to express a wish or desire, equivalent to \"let there be\" in English. It is often used to introduce a hypothetical scenario or a desired outcome."
+    },
+    {
+      "time": 110.16109999999404,
+      "text": "А когда ноги в бинтах, ты приходи ко мне",
+      "translation": "And when your legs are in bandages, you come to me",
+      "grammar": "The phrase \"когда ноги в бинтах\" is an idiomatic expression indicating a state of being worn out or exhausted, using the present continuous tense to convey a sense of ongoing weariness."
+    },
+    {
+      "time": 113.81480000001191,
+      "text": "Прошлое ворошить, некогда горевать",
+      "translation": "There's no time to dredge up the past, no time to grieve",
+      "grammar": "The phrase \"некогда\" is an idiom translating to \"no time\", conveying a sense of urgency or impossibility. It is used in the present tense to emphasize the speaker's reluctance to dwell on the past."
+    },
+    {
+      "time": 117.48059999999404,
+      "text": "Жизнь эту не прожить, но можно протанцевать",
+      "translation": "You can't live this life, but you can dance it",
+      "grammar": "This idiom uses the present tense to convey a sense of impossibility or unattainability in the first part, while switching to the imperative mood in the second part to suggest taking action."
+    },
+    {
+      "time": 122.95020000001789,
+      "text": "Танцуй искрой пламени, танцуй",
+      "translation": "Dance like a spark of flame, dance",
+      "grammar": "This idiom uses the present tense to convey a sense of urgency and enthusiasm, encouraging someone to fully immerse themselves in an activity. The repeated phrase \"танцуй\" (dance) emphasizes the importance of letting go and enjoying oneself."
+    },
+    {
+      "time": 126.0615,
+      "text": "Ночь губит, и нам пора",
+      "translation": "The night is killing us, and it's time for us to go",
+      "grammar": "This idiom \"губит\" (gubit) means \"to be unbearable\" or \"to be too much\", rather than literally \"killing\". The phrase implies that the situation has become intolerable."
+    },
+    {
+      "time": 129.98209999999403,
+      "text": "Танцуй, когда я скажу",
+      "translation": "Dance when I say",
+      "grammar": "This idiom uses the imperative mood to give a direct instruction, with the verb \"танцуй\" (dance) in the second person singular form, addressing someone to follow the speaker's command."
+    },
+    {
+      "time": 133.67340000000596,
+      "text": "Танцуй, я тебя держу",
+      "translation": "Dance, I'm holding you",
+      "grammar": "The imperative mood is used to convey a sense of urgency and directness in this phrase, with the speaker encouraging someone to dance while simultaneously expressing their physical support."
+    },
+    {
+      "time": 137.43640000000596,
+      "text": "Танцуй, есть ты и никого кроме",
+      "translation": "Dance, there is you and no one else",
+      "grammar": "The phrase \"есть ты\" is an idiomatic expression used to emphasize the uniqueness or exclusivity of someone's presence, rather than a literal statement about existence. It implies that the person being addressed is the only one who truly matters in this moment."
+    },
+    {
+      "time": 141.07830000001192,
+      "text": "Меня тоже никто не понял",
+      "translation": "Nobody understood me either.",
+      "grammar": "The phrase \"меня\" is in the accusative case, agreeing with the subject \"никто\" in number and grammatical function. This usage illustrates the common Russian idiom where the pronoun \"меня\" can be used to emphasize one's own experience or emotions."
+    },
+    {
+      "time": 144.70720000001788,
+      "text": "Я тоже танцую один",
+      "translation": "I dance alone too",
+      "grammar": "The phrase \"я тоже танцую\" uses the informal first-person singular verb form \"танцую\" in the present tense, indicating a habitual or ongoing action."
+    },
+    {
+      "time": 148.4975,
+      "text": "Танцуй и не упади",
+      "translation": "Dance and don't fall",
+      "grammar": "This idiomatic phrase uses the imperative mood to give a command, with the present tense verb \"танцуй\" (dance) and the negation \"не упади\" (don't fall), emphasizing the importance of balance while dancing."
+    },
+    {
+      "time": 152.44090000000597,
+      "text": "Танцуй искрой пламени",
+      "translation": "Dance with a spark of flame",
+      "grammar": "This idiomatic phrase uses the imperative mood to convey a sense of urgency and passion, encouraging the listener to dance with enthusiasm. The verb \"танцуй\" (dance) is in the second person singular form, indicating direct address."
+    },
+    {
+      "time": 156.32709999999403,
+      "text": "Танцуй, танцуй",
+      "translation": "Dance, dance",
+      "grammar": "This imperative sentence uses the present tense to convey a sense of urgency and encouragement, with the repetition of \"танцуй\" emphasizing the importance of dancing. The idiom is equivalent to saying \"Come on, let's dance!\" in English."
+    },
+    {
+      "time": 159.686,
+      "text": "Я тоже танцую один",
+      "translation": "I dance alone too",
+      "grammar": "The phrase \"тоже\" is an adverb indicating similarity or equality, often translated as \"too\" or \"also\". It's used to express agreement with someone else's statement or action."
+    },
+    {
+      "time": 163.5355,
+      "text": "Танцуй, танцуй",
+      "translation": "Dance, dance",
+      "grammar": "This imperative phrase uses the present tense to convey a sense of continuous action and emphasizes the idea through repetition."
+    }
+  ]
+}

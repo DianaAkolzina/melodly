@@ -1,0 +1,331 @@
+{
+  "id": "fr_formidable",
+  "title": "Formidable",
+  "artist": "Stromae",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_formidable.mp3",
+  "duration": 159,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 6.1,
+      "text": "Formidable, formidable",
+      "translation": "Formidable, formidable",
+      "grammar": "The repetition of 'formidable' emphasizes its importance."
+    },
+    {
+      "time": 11.66,
+      "text": "Tu étais formidable, j'étais fort minable",
+      "translation": "You were formidable, I was pretty weak",
+      "grammar": "The use of the imperfect tense (étais) to describe past actions is typical in French."
+    },
+    {
+      "time": 16.62,
+      "text": "Nous étions formidables",
+      "translation": "We were formidable",
+      "grammar": "The plural subject 'nous' takes the verb 'étions' in the imperfect tense."
+    },
+    {
+      "time": 178.07,
+      "text": "Formidable",
+      "translation": "Formidable",
+      "grammar": ""
+    },
+    {
+      "time": 178.07,
+      "text": "Tu étais formidable, j'étais fort minable",
+      "translation": "You were formidable, I was pretty weak",
+      "grammar": "The use of the imperfect tense (étais) to describe past actions is typical in French."
+    },
+    {
+      "time": 178.07,
+      "text": "Nous étions formidables",
+      "translation": "We were formidable",
+      "grammar": "The plural subject 'nous' takes the verb 'étions' in the imperfect tense."
+    },
+    {
+      "time": 178.07,
+      "text": "Oh, bébé, oups, mademoiselle",
+      "translation": "Formidable",
+      "grammar": ""
+    },
+    {
+      "time": 178.07,
+      "text": "J'vais pas vous draguer, promis juré",
+      "translation": "You were formidable, I was pretty weak",
+      "grammar": "The use of the imperfect tense (étais) to describe past actions is typical in French."
+    },
+    {
+      "time": 178.07,
+      "text": "J'suis célibataire, depuis hier, putain",
+      "translation": "We were formidable",
+      "grammar": "The plural subject 'nous' takes the verb 'étions' in the imperfect tense."
+    },
+    {
+      "time": 178.07,
+      "text": "J'peux pas faire d'enfant et bon, c'est pas",
+      "translation": "Oh, baby, oh no, miss",
+      "grammar": ""
+    },
+    {
+      "time": 178.07,
+      "text": "Hé, reviens, cinq minutes quoi, j't'ai pas insultée",
+      "translation": "I won't hit on you, I promise sworn",
+      "grammar": "The use of the informal 'j' and the formal 'vous' reflects the speaker's tone."
+    },
+    {
+      "time": 178.07,
+      "text": "J'suis poli, courtois, et un peu fort bourré",
+      "translation": "I'm single, since yesterday, damn it",
+      "grammar": ""
+    },
+    {
+      "time": 178.07,
+      "text": "Mais pour les mecs comme moi",
+      "translation": "I can't have a kid and that's not okay",
+      "grammar": "The use of the informal 'j' and the colloquial 'peux pas' is typical in French."
+    },
+    {
+      "time": 178.07,
+      "text": "Vous avez autre chose à faire, hein",
+      "translation": "Hey, come back, five minutes what, I didn't insult you",
+      "grammar": ""
+    },
+    {
+      "time": 178.07,
+      "text": "M'auriez vu hier, j'étais",
+      "translation": "I'm polite, courteous, and a bit drunk",
+      "grammar": "The use of the informal 'j' and the colloquial 'fort bourré' is typical in French."
+    },
+    {
+      "time": 178.07,
+      "text": "Formidable, formidable",
+      "translation": "But for guys like me",
+      "grammar": ""
+    },
+    {
+      "time": 178.07,
+      "text": "Tu étais formidable, j'étais fort minable",
+      "translation": "You have something else to do, right",
+      "grammar": "The use of the informal 'vous' and the colloquial 'hein' is typical in French."
+    },
+    {
+      "time": 178.07,
+      "text": "Nous étions formidables",
+      "translation": "You would have seen me yesterday, I was",
+      "grammar": "The use of the conditional tense (auriez) to describe a hypothetical situation is typical in French."
+    },
+    {
+      "time": 178.07,
+      "text": "Formidable",
+      "translation": "Formidable, formidable",
+      "grammar": "The repetition of 'formidable' emphasizes its importance."
+    },
+    {
+      "time": 178.07,
+      "text": "Tu étais formidable, j'étais fort minable",
+      "translation": "You were formidable, I was pretty weak",
+      "grammar": "The use of the imperfect tense (étais) to describe past actions is typical in French."
+    },
+    {
+      "time": 178.07,
+      "text": "Nous étions formidables",
+      "translation": "We were formidable",
+      "grammar": "The plural subject 'nous' takes the verb 'étions' in the imperfect tense."
+    },
+    {
+      "time": 178.07,
+      "text": "Oh, tu t'es regardé? Tu t'crois beau",
+      "translation": "Formidable",
+      "grammar": ""
+    },
+    {
+      "time": 178.07,
+      "text": "Parce que tu t'es marié? Mais c'est qu'un anneau",
+      "translation": "You were formidable, I was pretty weak",
+      "grammar": "The use of the imperfect tense (étais) to describe past actions is typical in French."
+    },
+    {
+      "time": 178.07,
+      "text": "Mec, t'emballes pas",
+      "translation": "We were formidable",
+      "grammar": "The plural subject 'nous' takes the verb 'étions' in the imperfect tense."
+    },
+    {
+      "time": 178.07,
+      "text": "Elle va t'larguer comme elles le font chaque fois",
+      "translation": "Formidable",
+      "grammar": ""
+    },
+    {
+      "time": 178.07,
+      "text": "Et puis l'autre fille, tu lui en as parlé?",
+      "translation": "You were formidable, I was pretty weak",
+      "grammar": "The use of the imperfect tense (étais) to describe past actions is typical in French."
+    },
+    {
+      "time": 178.07,
+      "text": "S'tu veux, j'lui dis, comme ça, c'est réglé",
+      "translation": "We were formidable",
+      "grammar": "The plural subject 'nous' takes the verb 'étions' in the imperfect tense."
+    },
+    {
+      "time": 178.07,
+      "text": "Et au petit aussi, enfin si vous en avez",
+      "translation": "Oh, did you look at yourself? You think you're handsome",
+      "grammar": ""
+    },
+    {
+      "time": 178.07,
+      "text": "Attends trois ans, sept ans et là, vous verrez si c'est",
+      "translation": "Because you got married? But it's just a ring",
+      "grammar": ""
+    },
+    {
+      "time": 178.07,
+      "text": "Formidable, formidable",
+      "translation": "Guy, don't get too worked up",
+      "grammar": ""
+    },
+    {
+      "time": 178.07,
+      "text": "Tu étais formidable, j'étais fort minable",
+      "translation": "She'll dump you like they do every time",
+      "grammar": ""
+    },
+    {
+      "time": 178.07,
+      "text": "Nous étions formidables",
+      "translation": "And then the other girl, did you talk to her?",
+      "grammar": ""
+    },
+    {
+      "time": 178.07,
+      "text": "Formidable",
+      "translation": "If you want, I'll tell her, like that, it's settled",
+      "grammar": ""
+    },
+    {
+      "time": 178.07,
+      "text": "Tu étais formidable, j'étais fort minable",
+      "translation": "And the little one too, finally if you have one",
+      "grammar": ""
+    },
+    {
+      "time": 178.07,
+      "text": "Nous étions formidables",
+      "translation": "Wait three years, seven years and then you'll see if it's",
+      "grammar": "The use of the imperfect tense (attends) to describe a hypothetical situation is typical in French."
+    },
+    {
+      "time": 178.07,
+      "text": "Hé petite, oh pardon, petit",
+      "translation": "Formidable, formidable",
+      "grammar": "The repetition of 'formidable' emphasizes its importance."
+    },
+    {
+      "time": 178.07,
+      "text": "Tu sais dans la vie, y a ni méchants ni gentils",
+      "translation": "You were formidable, I was pretty weak",
+      "grammar": "The use of the imperfect tense (étais) to describe past actions is typical in French."
+    },
+    {
+      "time": 178.07,
+      "text": "Si maman est chiante",
+      "translation": "We were formidable",
+      "grammar": "The plural subject 'nous' takes the verb 'étions' in the imperfect tense."
+    },
+    {
+      "time": 178.07,
+      "text": "C'est qu'elle a peur d'être mamie",
+      "translation": "Formidable",
+      "grammar": ""
+    },
+    {
+      "time": 178.07,
+      "text": "Si papa trompe maman",
+      "translation": "You were formidable, I was pretty weak",
+      "grammar": "The use of the imperfect tense (étais) to describe past actions is typical in French."
+    },
+    {
+      "time": 178.07,
+      "text": "C'est parce que maman vieillit, tiens",
+      "translation": "It's because mom is aging, okay",
+      "grammar": "The use of 'tiens' (okay) at the end of the sentence is a colloquialism and informal way to conclude a thought"
+    },
+    {
+      "time": 178.07,
+      "text": "Pourquoi t'es tout rouge? Ben reviens gamin",
+      "translation": "Why are you so red?",
+      "grammar": "The use of the verb 't'es' instead of 'tu es' is a casual, informal way to address someone in French"
+    },
+    {
+      "time": 178.07,
+      "text": "Et qu'est-ce que vous avez tous",
+      "translation": "Well, come back kid",
+      "grammar": "The use of 'ben' (well) and 'reviens' (come back) is an idiomatic expression used to tell someone to leave or go away"
+    },
+    {
+      "time": 178.07,
+      "text": "À me regarder comme un singe, vous?",
+      "translation": "And what do you all have",
+      "grammar": "The use of the phrase 'qu'est-ce que' (what does) is an informal way to ask a question in French"
+    },
+    {
+      "time": 178.07,
+      "text": "Ah oui, vous êtes saints, vous",
+      "translation": "Why are you looking at me like a monkey, you?",
+      "grammar": "The use of the phrase 'comme un' (like a) is an idiomatic expression used to compare something or someone"
+    },
+    {
+      "time": 178.07,
+      "text": "Bande de macaques",
+      "translation": "Oh yeah, you're saints, you",
+      "grammar": "The use of 'ah' at the beginning of the sentence is an informal way to express surprise or emphasis"
+    },
+    {
+      "time": 178.07,
+      "text": "Donnez-moi un bébé singe, il sera",
+      "translation": "A bunch of monkeys",
+      "grammar": "The use of the phrase 'bande de' (bunch of) is an idiomatic expression used to describe a group of people or things"
+    },
+    {
+      "time": 178.07,
+      "text": "Formidable, formidable",
+      "translation": "Give me a baby monkey, it will be",
+      "grammar": "The use of the verb 'sera' (it will be) is an informal way to express future tense in French"
+    },
+    {
+      "time": 178.07,
+      "text": "Tu étais formidable, j'étais fort minable",
+      "translation": "Awesome, awesome",
+      "grammar": "The repetition of the adjective 'formidable' emphasizes its intensity or magnitude"
+    },
+    {
+      "time": 178.07,
+      "text": "Nous étions formidables",
+      "translation": "You were awesome, I was pretty weak",
+      "grammar": "The use of the verb 'étais' (was) is an informal way to express past tense in French"
+    },
+    {
+      "time": 178.07,
+      "text": "Formidable",
+      "translation": "We were awesome",
+      "grammar": "The use of the plural verb 'étions' (were) agrees with the subject 'nous' (we)"
+    },
+    {
+      "time": 178.07,
+      "text": "Tu étais formidable, j'étais fort minable",
+      "translation": "Awesome",
+      "grammar": "The repetition of the adjective 'formidable' emphasizes its intensity or magnitude"
+    },
+    {
+      "time": 178.07,
+      "text": "Nous étions formidables",
+      "translation": "You were awesome, I was pretty weak",
+      "grammar": "The use of the verb 'étais' (was) is an informal way to express past tense in French"
+    }
+  ]
+}

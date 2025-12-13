@@ -1,0 +1,325 @@
+{
+  "id": "es_despech",
+  "title": "DESPECHÁ",
+  "artist": "ROSALÍA",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_despech.mp3",
+  "duration": 157,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 2.5377000000178813,
+      "text": "Yeah-yeah",
+      "translation": "Yeah-yeah",
+      "grammar": "This interjection \"Yeah-yeah\" is an informal expression of agreement or confirmation, often used in spoken English to show enthusiasm or affirmation."
+    },
+    {
+      "time": 3.429300000011921,
+      "text": "Yeah-yeah",
+      "translation": "Yeah-yeah",
+      "grammar": "This interjection \"Yeah-yeah\" is an informal expression of agreement or confirmation, often used in spoken English to show enthusiasm or concurrence."
+    },
+    {
+      "time": 5.416600000023842,
+      "text": "Mmm",
+      "translation": "Hmm",
+      "grammar": "This interjection \"Mmm\" is an informal expression of thoughtfulness or consideration, often used to convey a sense of contemplation or agreement."
+    },
+    {
+      "time": 7.516800000011921,
+      "text": "Baby, no me llame'",
+      "translation": "Baby, don't call me",
+      "grammar": "This line uses the imperative mood to express a direct command, with \"no\" serving as an adverb to emphasize the prohibition. The phrase \"no me llame\" is an idiomatic expression that means \"don't call me\"."
+    },
+    {
+      "time": 9.81940000000596,
+      "text": "Que yo estoy ocupá' olvidando tus male'",
+      "translation": "I'm busy forgetting your troubles",
+      "grammar": "The phrase \"estoy ocupá'\" is an idiomatic expression indicating the speaker's current activity, using the present continuous tense to convey a sense of busyness."
+    },
+    {
+      "time": 13.83470000001788,
+      "text": "Ya decidí que esta noche se sale",
+      "translation": "I've decided that we're going out tonight.",
+      "grammar": "The phrase \"ya decidí\" is an informal way to express the present perfect tense, indicating a decision made at some point in the past with ongoing relevance. The use of \"ya\" (already) emphasizes the completion of the action."
+    },
+    {
+      "time": 17.055300000011922,
+      "text": "Con toda' mis motomami', con toda' mis gyale'",
+      "translation": "With all my motomami, with all my gyale",
+      "grammar": "This line uses the idiomatic expression \"con toda'\" (with all) to emphasize the speaker's strong emotions and commitment, similar to saying \"with every fiber of my being\" in English. The use of \"mis\" (my) agrees with the plural nouns \"motomami\" and \"gyale\", indicating possession."
+    },
+    {
+      "time": 21.05820000001788,
+      "text": "Y ando despechá', oah, alocá'",
+      "translation": "And I'm heartbroken, oh, crazy",
+      "grammar": "The phrase \"ando\" is an informal way to express the present continuous tense in Spanish, often used with friends or in casual conversations. Note that this usage is not formal and may vary depending on the context and region."
+    },
+    {
+      "time": 24.35870000001788,
+      "text": "Bajé con un flow nuevo de caja, baby, hackeá'",
+      "translation": "I came down with a new flow, baby, hack it",
+      "grammar": "The phrase \"bajé\" is in the preterite tense, indicating completed action in the past. The use of \"bajé\" instead of \"vengo\" (present continuous) or \"vine\" (future) creates a sense of suddenness and emphasizes the speaker's arrival with this new flow."
+    },
+    {
+      "time": 28.38380000001192,
+      "text": "Lo muevo de la'o a la'o y a otro la'o",
+      "translation": "I move it from side to side and to the other side",
+      "grammar": "This line uses the idiomatic expression \"de la'o a la'o\" which is an informal way of saying \"back and forth\" or \"to and fro\". The verb \"muevo\" is in the present tense, indicating ongoing action."
+    },
+    {
+      "time": 31.8925,
+      "text": "Hoy salgo con mi baby de la disco coroná'",
+      "translation": "Today I'm going out with my baby from the Corona club",
+      "grammar": "The phrase \"salgo\" is in the present continuous tense, indicating a planned or scheduled action for the present moment. The use of \"voy\" instead of \"iré\" (future tense) emphasizes the immediacy and spontaneity of the plan to go out with one's partner."
+    },
+    {
+      "time": 35.74030000001192,
+      "text": "Y ando despechá', oah, alocá'",
+      "translation": "And I'm heartbroken, oh, crazy",
+      "grammar": "The phrase \"ando despechá'\" is an informal way of expressing the present continuous tense, indicating the speaker's emotional state. The use of \"oah\" as an interjection emphasizes their emotional distress."
+    },
+    {
+      "time": 39.2885,
+      "text": "Que Dios me libre de volver a tu la'o",
+      "translation": "God forbid I ever return to your side.",
+      "grammar": "This idiomatic expression uses the subjunctive mood to convey strong negation, emphasizing the speaker's reluctance to revisit a past situation. The phrase \"Dios me libre\" is an equivalent of \"may God protect me,\" but in this context, it serves as a rhetorical device to stress the speaker's determination not to return."
+    },
+    {
+      "time": 43.20070000001788,
+      "text": "Lo muevo de la'o a la'o y a otro la'o",
+      "translation": "I move it from side to side and to the other side",
+      "grammar": "This line uses the idiomatic expression \"de la'o a la'o\" to convey movement or oscillation, which is a common figurative way to describe repetitive actions in Spanish. The verb \"muevo\" is in the present tense, indicating an ongoing action."
+    },
+    {
+      "time": 46.692200000017884,
+      "text": "Hoy salgo con mi baby de la disco coroná', coroná', yeah",
+      "translation": "Today I'm going out with my baby from the disco, crowned, crowned, yeah",
+      "grammar": "The phrase \"coroná', coroná'\" is an idiomatic expression used to emphasize excitement or celebration, similar to saying \"we're on top of the world\" in English. The repeated use of \"coroná'\" creates a sense of euphoria and playfulness, typical of the disco era."
+    },
+    {
+      "time": 51.41070000001788,
+      "text": "Voy con la falda (ah), aro' y cadena' (eh)",
+      "translation": "I'm wearing a skirt (ah), hoops and a chain (eh)",
+      "grammar": "The use of \"ah\" and \"eh\" is an idiomatic expression in Spanish, often used to soften the tone or add a touch of informality to the sentence."
+    },
+    {
+      "time": 53.429,
+      "text": "Piña colada (sí), no tengo pena (no)",
+      "translation": "Piña colada (yes), I'm not ashamed (no)",
+      "grammar": "The use of \"sí\" and \"no\" in parentheses indicates a rhetorical question, where the speaker is expressing their opinion rather than asking for confirmation. The verb tense remains present simple throughout, emphasizing the speaker's attitude towards piña coladas."
+    },
+    {
+      "time": 55.29920000001788,
+      "text": "'Toy con la Fefa (wuh), ella es la jefa (sí)",
+      "translation": "'I'm with Fefa (wuh), she's the boss (yes)",
+      "grammar": "The phrase \"ella es la jefa\" is an idiomatic expression meaning \"she's in charge\", using the present tense to convey a sense of certainty and authority. The use of \"sí\" at the end emphasizes agreement with this statement."
+    },
+    {
+      "time": 57.17,
+      "text": "Ella lo baila (yeh), ella me enseña (yeh)",
+      "translation": "She dances it (yeah), she teaches me (yeah)",
+      "grammar": "The use of \"ella\" and the repetition of \"yeh\" indicate a casual, informal tone, typical of spoken language in Spanish. The verb forms are in the present tense, describing a habitual or ongoing action."
+    },
+    {
+      "time": 59.23130000001192,
+      "text": "Hoy no trabaja (uh) esta morena (no)",
+      "translation": "This brunette isn't working today (uh) (no)",
+      "grammar": "The phrase \"esta morena\" is an idiomatic expression meaning \"this woman\" or \"this girl\", rather than a literal description of someone's hair color. The use of the pronoun \"esta\" instead of \"aquella\" or \"esa\" emphasizes the speaker's familiarity with the person being referred to."
+    },
+    {
+      "time": 60.7775,
+      "text": "Fuck la fama (eh), fuck la faena (ja)",
+      "translation": "Fuck fame (eh), fuck the job (ha)",
+      "grammar": "This line uses the imperative mood to express strong negation, with \"fuck\" as an idiomatic intensifier. The use of \"eh\" and \"ja\" is a colloquialism, adding a casual tone to the phrase."
+    },
+    {
+      "time": 62.45,
+      "text": "La noche es larga (eh), la noche está buena (eh)",
+      "translation": "The night is long (eh), the night is good (eh)",
+      "grammar": "In this line, the use of \"es\" instead of \"es largo\" or \"está bien\" to describe the night's length and quality is an idiomatic expression, emphasizing the speaker's subjective experience. The repetition of \"eh\" is a colloquial particle used for emphasis and to engage the listener."
+    },
+    {
+      "time": 64.54290000000596,
+      "text": "Un mambo violento y fin del problema",
+      "translation": "A violent mambo and the problem is solved",
+      "grammar": "This idiomatic phrase uses the present tense to convey a sense of suddenness or unexpectedness, implying that the solution to the problem has been found in an unconventional or dramatic way. The phrase \"fin del problema\" literally means \"end of the problem\", but the idiom as a whole suggests a more dynamic and intense resolution."
+    },
+    {
+      "time": 66.3775,
+      "text": "Mira qué fácil te lo v'y a decir",
+      "translation": "Look how easy it is for me to tell you.",
+      "grammar": "The phrase \"te lo\" is an idiomatic expression used to indicate that the speaker is about to say something, with \"te\" being a direct object pronoun agreeing in number and person with the subject. The verb \"v'y\" is a colloquial way of saying \"hay\" (there is), emphasizing the ease of speaking."
+    },
+    {
+      "time": 67.76070000001788,
+      "text": "A, B, C, one, two, three",
+      "translation": "A, B, C, one, two, three",
+      "grammar": "This line uses a common English idiom to list items in a sequence, with the numbers \"one\" and \"two\" used for emphasis rather than literal counting. The use of \"A\", \"B\", and \"C\" followed by numerical values creates a playful and rhythmic effect."
+    },
+    {
+      "time": 69.50520000001788,
+      "text": "Mira qué fácil te lo v'y a decir",
+      "translation": "Look how easy it is for me to tell you.",
+      "grammar": "The phrase \"te lo\" is an idiomatic expression indicating the speaker's willingness to share information, with \"te\" being a direct object pronoun agreeing with the subject \"yo\" (I)."
+    },
+    {
+      "time": 71.36610000002385,
+      "text": "Que esta motomami ya no está pa' ti",
+      "translation": "This motomami isn't for you anymore",
+      "grammar": "The phrase \"ya no está\" is a common idiomatic expression in Spanish, equivalent to \"isn't\" or \"is no longer\" in English, used to indicate the negation of a state or condition. It's a present perfect construction, implying that the change has occurred at some point in the past and continues up to the moment of speaking."
+    },
+    {
+      "time": 73.19240000000596,
+      "text": "Mira qué fácil te lo v'y a decir",
+      "translation": "Look how easy it is for me to tell you.",
+      "grammar": "The phrase \"te lo\" is an idiomatic expression indicating that the speaker is about to share information with the listener, and the verb \"v'ya\" is in the informal first person singular form, emphasizing the speaker's personal experience."
+    },
+    {
+      "time": 75.03610000002384,
+      "text": "A, B, C, one, two, three",
+      "translation": "A, B, C, one, two, three",
+      "grammar": "This line uses a common English idiom to list items in an ascending order, with the numbers \"one\" and \"two\" used for emphasis rather than their literal meaning."
+    },
+    {
+      "time": 76.91690000000597,
+      "text": "Mira qué fácil te lo v'y a decir",
+      "translation": "Look how easy it is for me to tell you.",
+      "grammar": "The phrase \"te lo\" is an idiomatic expression indicating possession or direct object, equivalent to \"to you\" in English. The verb \"v'ya\" is the informal way of saying \"it's easy\" and agrees with the subject pronoun \"me\"."
+    },
+    {
+      "time": 78.76610000002384,
+      "text": "Que esta motomami ya -",
+      "translation": "That this motomami already -",
+      "grammar": "The phrase \"¿Qué está motoMami ya\" is an exclamatory sentence in the present tense, using the verb \"estar\" to indicate a temporary or changing situation. The use of \"ya\" (already) emphasizes the suddenness or promptness of the action."
+    },
+    {
+      "time": 80.0555,
+      "text": "Y ando despechá', oah, alocá'",
+      "translation": "And I'm heartbroken, oh, crazy",
+      "grammar": "The phrase \"ando despechá'\" is an informal way of expressing the present continuous tense in Spanish, equivalent to \"I am being heartbroken\" or \"I am still reeling from the heartbreak\"."
+    },
+    {
+      "time": 83.48530000001192,
+      "text": "Bajé con un flow nuevo de caja, baby, hackeá'",
+      "translation": "I came down with a new flow from the box, baby, hack it",
+      "grammar": "The phrase \"bajé con\" is an idiomatic expression that indicates a sudden change or arrival of something (in this case, a new flow), using the preterite tense to convey a sense of surprise."
+    },
+    {
+      "time": 87.4465,
+      "text": "Lo muevo de la'o a la'o y a otro la'o",
+      "translation": "I move it from side to side and to the other side",
+      "grammar": "This line uses the idiomatic expression \"de la'o a la'o\" to convey movement or oscillation, equivalent to \"back and forth\" in English. The use of \"la'o\" instead of \"lado\" emphasizes the repetitive motion implied by \"muevo\"."
+    },
+    {
+      "time": 90.79290000000596,
+      "text": "Hoy salgo con mi baby de la disco coroná'",
+      "translation": "Today I'm going out with my baby from the Corona club",
+      "grammar": "The phrase \"salgo\" is in the present continuous tense, indicating an arrangement or plan that has been made and will be carried out. The use of \"voy a salir\" instead of simply \"voy a la disco\" emphasizes the excitement and spontaneity of the outing."
+    },
+    {
+      "time": 94.84040000000596,
+      "text": "Y ando despechá', oah, alocá'",
+      "translation": "And I'm heartbroken, oh, crazy",
+      "grammar": "The phrase \"ando despechá'\" is an informal way to express the present continuous tense of being heartbroken, using the verb \"andar\" (to walk) in an idiomatic expression."
+    },
+    {
+      "time": 98.1215,
+      "text": "Que Dios me libre de volver a tu la'o",
+      "translation": "God forbid I ever return to your side.",
+      "grammar": "This idiomatic expression uses the subjunctive mood, implying a hypothetical or undesirable situation, and is often used to express strong negation or reluctance. The phrase \"Dios me libre\" is an equivalent of \"God spare me\", emphasizing the speaker's unwillingness to return to someone's side."
+    },
+    {
+      "time": 102.37710000002384,
+      "text": "Lo muevo de la'o a la'o y a otro la'o",
+      "translation": "I move it from side to side and to the other side",
+      "grammar": "This line uses the idiomatic expression \"de la'o a la'o\" to convey movement, equivalent to English \"from side to side\". The verb \"muevo\" is in the present tense, indicating an ongoing action."
+    },
+    {
+      "time": 105.6755,
+      "text": "Hoy salgo con mi baby de la disco coroná', coroná', yeah",
+      "translation": "Today I'm going out with my baby from the disco, crowned, crowned, yeah",
+      "grammar": "The phrase \"coroná', coroná', yeah\" is an idiomatic expression used to emphasize excitement or triumph, similar to saying \"I'm on top of the world!\" in English. The repeated use of \"coroná'\" creates a sense of euphoria and celebration."
+    },
+    {
+      "time": 110.51720000001788,
+      "text": "Mmm, voy a 180 porque soy una racineta, ¿qué, qué?",
+      "translation": "Mmm, I'm going 180 because I'm a speed demon, what, what?",
+      "grammar": "The phrase \"voy a\" indicates the speaker's intention to take immediate action, using the present continuous tense to convey a sense of spontaneity. The idiomatic expression \"ser una racineta\" is equivalent to being a speed demon or thrill-seeker in English."
+    },
+    {
+      "time": 114.29730000001192,
+      "text": "Te distrae' y yo te adelanto por la derecha, uh",
+      "translation": "It distracts you and I overtake you on the right, uh",
+      "grammar": "The verb \"distrae\" is in the present tense, indicating a habitual or ongoing action. The phrase \"yo te adelanto\" uses the indirect object pronoun \"te\" to indicate the person being overtaken, with the speaker using the first-person singular \"yo\" to express their own action."
+    },
+    {
+      "time": 118.40220000001788,
+      "text": "Voy a 180 porque soy una racineta, ey, ey",
+      "translation": "I'm going 180 because I'm a speed demon, hey, hey",
+      "grammar": "The phrase \"soy una racineta\" is an idiomatic expression meaning \"I'm a speed demon\", using the present tense to emphasize the speaker's personality trait."
+    },
+    {
+      "time": 121.98890000000596,
+      "text": "Te distrae' y yo te adelanto por la derecha, mmm, mmm, mmm",
+      "translation": "It distracts you and I overtake you on the right, mmm, mmm, mmm",
+      "grammar": "The verb phrase \"Te distrae'\" is in the present tense, using the informal second person singular form \"te\" to address the listener."
+    },
+    {
+      "time": 125.85560000002384,
+      "text": "Yeah-yeah-yeah-yeah-yeah-yeah",
+      "translation": "Yeah-yeah-yeah-yeah-yeah-yeah",
+      "grammar": "This is an example of a repeated interjection, used to express strong agreement or emphasis. The use of the same word multiple times creates a sense of rhythm and emphasizes the speaker's enthusiasm."
+    },
+    {
+      "time": 128.44360000002385,
+      "text": "Ey, yeah-yeah-yeah-yeah",
+      "translation": "Hey, yeah-yeah-yeah-yeah",
+      "grammar": "This interjection \"Ey\" is an informal way to get someone's attention in Spanish, similar to the English phrase \"Hey\". The repetition of \"yeah-yeah-yeah-yeah\" emphasizes enthusiasm and agreement."
+    },
+    {
+      "time": 131.80310000002385,
+      "text": "Chris Jedi",
+      "translation": "Chris Jedi",
+      "grammar": "This phrase is an idiomatic expression, where \"Jedi\" is used to describe someone who is skilled or wise, similar to saying \"Chris is a master\" or \"Chris is all-knowing\". The use of \"Jedi\" here is a playful reference to the Star Wars franchise."
+    },
+    {
+      "time": 133.17140000000597,
+      "text": "Gaby, Gaby, Gaby",
+      "translation": "Gaby, Gaby, Gaby",
+      "grammar": "This line is an example of a repetitive phrase or refrain in song lyrics, often used to emphasize the name or character being referred to. The repetition of \"Gaby\" in different forms (subjective and objective) creates a sense of rhythm and musicality."
+    },
+    {
+      "time": 134.6893000000119,
+      "text": "De Barcelona pa' Santo Domingo",
+      "translation": "From Barcelona to Santo Domingo",
+      "grammar": "This phrase uses the preposition \"pa'\" as an informal way of saying \"to\" or \"for\", which is a common idiomatic expression in Spanish. The use of \"pa'\" instead of the more formal \"a\" or \"hasta\" conveys a sense of informality and familiarity, similar to using \"to\" instead of \"toward\" in English."
+    },
+    {
+      "time": 137.99,
+      "text": "La ROSALÍA, mmm, jaja, je",
+      "translation": "Rosalía, mmm, haha, heh",
+      "grammar": "The use of \"mmm\" and \"jaja\" is an informal idiom, often used to express enthusiasm or playfulness in spoken language. The interjection \"je\" is a colloquial way to emphasize agreement or confirmation."
+    },
+    {
+      "time": 143.732,
+      "text": "Jeje, ey, uh, uh, uh, uh",
+      "translation": "Hehe, hey, uh, uh, uh, uh",
+      "grammar": "This interjection \"Jeje\" is an informal expression of laughter or amusement in Spanish, often used to soften the tone of a statement. It's translated as \"Hehe\" in English, conveying a similar lighthearted and playful atmosphere."
+    },
+    {
+      "time": 149.50659999999405,
+      "text": "Omega, ey, ey, ey",
+      "translation": "Omega, hey, hey, hey",
+      "grammar": "The repeated use of \"ey\" is an informal idiom in Spanish, equivalent to English's \"hey\" or \"hi\", used to grab attention or express enthusiasm. It remains unchanged in translation, conveying the same casual tone."
+    },
+    {
+      "time": 153.85290000000597,
+      "text": "Uh, uh, uh, uh",
+      "translation": "Uh, uh, uh, uh",
+      "grammar": "This interjection is an example of a repetitive phrase used to express hesitation or uncertainty, with no specific grammatical function."
+    }
+  ]
+}

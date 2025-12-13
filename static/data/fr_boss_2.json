@@ -1,0 +1,541 @@
+{
+  "id": "fr_boss_2",
+  "title": "Boss",
+  "artist": "Orelsan",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_boss.mp3",
+  "duration": 189,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Faut qu'j'vous raconte, euh, quelque chose sur mon couple",
+      "translation": "I need to tell you, uh, something about my relationship",
+      "grammar": "The phrase \"faut qu'\" is a colloquial way of saying \"il faut\" (it's necessary) in informal spoken French, used to express the speaker's intention or obligation."
+    },
+    {
+      "time": 2.135,
+      "text": "Que moi-même, j'ai mis beaucoup de temps à m'avouer",
+      "translation": "It took me a long time to admit it to myself.",
+      "grammar": "The phrase \"m'avouer\" is an idiomatic expression meaning \"to admit\" or \"to confess\", and the use of the reflexive pronoun \"moi-même\" emphasizes the speaker's personal involvement in the action."
+    },
+    {
+      "time": 4.437,
+      "text": "Mais j'pense que ça pourrait être libérateur",
+      "translation": "But I think it could be liberating.",
+      "grammar": "The use of \"j'pense\" instead of \"je pense\" is an informal, colloquial expression common in spoken French, equivalent to \"I think\" or \"I reckon\"."
+    },
+    {
+      "time": 6.072,
+      "text": "Vivre à deux, c'est facile au début, tu veux plaire donc tu mets du tien",
+      "translation": "Living together is easy at first; you want to please, so you put in the effort.",
+      "grammar": "The phrase \"c'est facile\" implies a temporary or initial ease, using the imperfective aspect of the verb \"être\". This idiomatic expression suggests that the ease is not necessarily permanent."
+    },
+    {
+      "time": 9.041,
+      "text": "Mais plus l'temps passe et plus c'est dur, et plus t'es plus d'accord sur rien",
+      "translation": "But the more time passes, the harder it gets, and the less you agree on anything.",
+      "grammar": "This sentence illustrates the use of the French subjunctive mood in a conditional clause, indicating a hypothetical or uncertain situation. The phrase \"plus t'es plus d'accord\" is an idiomatic expression meaning \"the less you agree\", where \"t'es\" is a contraction of \"tu es\"."
+    },
+    {
+      "time": 12.511,
+      "text": "Toi tu dis \"matin\", l'autre dit \"soirée\", toi, tu veux avant, l'autre veut après",
+      "translation": "You say \"morning,\" the other says \"evening,\" you want it before, the other wants it after.",
+      "grammar": "This line illustrates the use of the present tense to describe a habitual or repeated action, with the speaker and another person having different preferences. The phrase \"toi tu veux\" is an idiomatic expression meaning \"you want\", where \"tu\" is used instead of \"vous\" due to the informal tone."
+    },
+    {
+      "time": 15.48,
+      "text": "Certains choisissent de batailler, moi j'dois t'avouer, c'est elle qu'a gagné",
+      "translation": "Some choose to fight, but I have to tell you, she's the one who won.",
+      "grammar": "The use of \"j'dois\" is an informal, spoken equivalent of \"je dois\", indicating a first-person singular obligation in the present tense."
+    },
+    {
+      "time": 18.282,
+      "text": "C'est pas moi l'boss",
+      "translation": "I'm not the boss",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of denial, with \"c'est\" (it's) implying a temporary or situational state. The phrase is often used informally to express that someone else has authority or control."
+    },
+    {
+      "time": 19.583,
+      "text": "Dans mon couple, c'est pas moi l'boss",
+      "translation": "In my relationship, I'm not the boss.",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or general truth about the speaker's role in their relationship. The phrase \"c'est pas moi\" is an informal way of saying \"it's not me\" and implies that someone else has control or authority."
+    },
+    {
+      "time": 21.385,
+      "text": "J'décide de rien, c'est pas moi l'boss",
+      "translation": "I don't decide anything, I'm not the boss.",
+      "grammar": "The phrase \"c'est pas moi\" is an idiomatic expression meaning \"it's not me\". The verb \"décide\" is in the present tense and has a negative connotation, emphasizing the speaker's lack of control or authority."
+    },
+    {
+      "time": 23.354,
+      "text": "À la maison, c'est pas moi l'boss",
+      "translation": "At home, I'm not the boss.",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or general truth about the speaker's role at home, rather than describing a specific situation. The phrase \"c'est pas moi\" is an informal way of saying \"it's not me\", emphasizing that the speaker is not in charge at home."
+    },
+    {
+      "time": 25.155,
+      "text": "J'peux mentir à mes potes, mais c'est pas moi l'boss",
+      "translation": "I can lie to my friends, but I'm not the boss.",
+      "grammar": "The phrase \"J'peux\" is a colloquialism used to indicate permission or ability, equivalent to \"je peux\" in formal French. This informal tone is characteristic of spoken language and common among young people."
+    },
+    {
+      "time": 27.624,
+      "text": "J'aimerais être un bonhomme, mais c'est pas moi le boss",
+      "translation": "I'd like to be a man, but I'm not the boss.",
+      "grammar": "The phrase \"c'est pas\" is an idiomatic expression meaning \"it's not\" or \"that's not\", used to express negation in informal contexts."
+    },
+    {
+      "time": 29.926,
+      "text": "J'peux mentir à moi-même, mais c'est pas moi l'boss",
+      "translation": "I can lie to myself, but I'm not the boss.",
+      "grammar": "The phrase \"J'peux\" is an informal way of saying \"je peux\" (I can), commonly used in spoken French. This colloquialism is often translated as \"can\" or \"am able to\"."
+    },
+    {
+      "time": 32.395,
+      "text": "J'peux faire le mâle alpha, mais c'est pas moi l'boss",
+      "translation": "I can act like the alpha male, but I'm not the boss.",
+      "grammar": "The phrase \"J'peux\" is an informal way of saying \"je peux\" (I can), using the contraction of \"je\" and \"peux\". This colloquialism is common in spoken French."
+    },
+    {
+      "time": 34.864,
+      "text": "J'peux donner mon avis, mais c'est pas moi l'boss",
+      "translation": "I can give my opinion, but I'm not the boss.",
+      "grammar": "The phrase \"c'est pas moi\" is an idiomatic expression meaning \"it's not me\". The use of \"c'est\" instead of \"ce n'est pas\" is a colloquialism common in informal spoken French."
+    },
+    {
+      "time": 37.166,
+      "text": "J'peux payer les factures, mais c'est pas moi l'boss",
+      "translation": "I can pay the bills, but I'm not the boss.",
+      "grammar": "The phrase \"c'est pas moi\" is an idiomatic expression meaning \"it's not me\" or \"that's not my responsibility\". The verb \"payer\" is in the present tense, indicating ability rather than action."
+    },
+    {
+      "time": 39.468,
+      "text": "C'est pas moi l'boss, c'est pas moi l'boss",
+      "translation": "I'm not the boss, I'm not the boss",
+      "grammar": "This idiomical phrase uses the present tense to express a repeated action or situation, with the negation \"c'est pas\" emphasizing the speaker's denial of being in charge. The repetition of \"c'est pas moi l'boss\" creates a sense of rhythm and emphasizes the speaker's point."
+    },
+    {
+      "time": 41.77,
+      "text": "J'pourrais lutter, mais j'ai pas la force",
+      "translation": "I could fight, but I don't have the strength",
+      "grammar": "The phrase \"j'ai pas\" is an idiomatic expression in French, equivalent to \"don't have\" or \"haven't got\" in English, used to indicate a lack of ability or resources. The verb \"avoir\" (to have) is in the imperfect tense, indicating a general truth rather than a specific action."
+    },
+    {
+      "time": 43.571,
+      "text": "C'est elle qui tranche quand on n'est pas d'accord",
+      "translation": "She's the one who makes the final decision when there's a disagreement.",
+      "grammar": "This idiomatic expression uses the present tense to describe a habitual or general situation, and the pronoun \"elle\" agrees with the noun \"personne\" (someone) in the preceding clause."
+    },
+    {
+      "time": 45.873,
+      "text": "C'est ma chérie, c'est pas ma pote",
+      "translation": "She's my sweetheart, not my friend.",
+      "grammar": "The phrase \"c'est pas\" is an idiomatic expression used to convey negation or contradiction, equivalent to \"it's not\" in English. The sentence uses the present tense and the informal \"tu\" form of address, characteristic of spoken French."
+    },
+    {
+      "time": 47.675,
+      "text": "Y a une hiérarchie, c'est pas moi l'boss, c'est pas moi l'boss",
+      "translation": "There's a hierarchy, I'm not the boss, I'm not the boss",
+      "grammar": "The phrase \"c'est pas moi\" is an idiomatic expression meaning \"it's not me\", where \"c'est\" is used to emphasize the negation and \"moi\" is the subject pronoun in the nominative case."
+    },
+    {
+      "time": 50.644,
+      "text": "Tout s'passe bien, c'est juste pas moi l'boss",
+      "translation": "Everything's fine, I'm just not the boss.",
+      "grammar": "The phrase \"c'est juste pas moi\" is an idiomatic expression meaning \"I'm not\" or \"it's not me\". The verb agreement is informal, typical of spoken French."
+    },
+    {
+      "time": 52.779,
+      "text": "J'vais pas m'plaindre, c'est une bonne patronne",
+      "translation": "I'm not going to complain, she's a good boss.",
+      "grammar": "The phrase \"J'vais pas\" is an informal way of saying \"I'm not going to\" in the present tense, using the future tense verb \"aller\" (to go) and the negation \"pas\". This idiomatic expression is commonly used in spoken French."
+    },
+    {
+      "time": 54.748,
+      "text": "C'est trop tard, j'changerai pas la donne",
+      "translation": "It's too late, I can't change the situation.",
+      "grammar": "The phrase \"c'est trop tard\" is an idiomatic expression meaning \"it's too late\", conveying a sense of finality and impossibility. The verb \"changerai\" is in the conditional tense, indicating a hypothetical or impossible action."
+    },
+    {
+      "time": 56.55,
+      "text": "Elle a le final cut, c'est elle à la prod'",
+      "translation": "She has final cut; she's in charge of production.",
+      "grammar": "The phrase \"c'est elle à la prod'\" is an idiomatic expression used to emphasize the person's responsibility and control over the production process. The use of \"c'est\" instead of \"elle est\" implies a strong sense of possession, emphasizing that she not only has final cut but also takes charge of it."
+    },
+    {
+      "time": 58.685,
+      "text": "Chérie est têtue, chérie est très dure",
+      "translation": "Darling is stubborn, darling is very hard",
+      "grammar": "The use of \"est\" twice in this sentence indicates that the speaker is emphasizing the stubbornness and hardness of their loved one by repeating the verb phrase in a similar way to an idiom."
+    },
+    {
+      "time": 60.153,
+      "text": "Donc j'ferme juste ma gueule et j'exécute",
+      "translation": "So I just shut my mouth and do it.",
+      "grammar": "The phrase \"j'ferme juste ma gueule\" is an idiomatic expression that roughly translates to \"I'm not going to say anything more about it\". The verb \"fermer sa gueule\" means \"to keep quiet\", implying a sense of resignation or acceptance."
+    },
+    {
+      "time": 61.955,
+      "text": "Ça va plus vite de m'faire marcher dessus",
+      "translation": "It's quicker to just walk all over me",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or general truth, rather than describing a specific event. The phrase \"m'faire marcher\" is an informal way of saying \"to treat someone with disrespect\"."
+    },
+    {
+      "time": 63.756,
+      "text": "Et des fois, même quand j'ai raison, j'm'excuse",
+      "translation": "And sometimes, even when I'm right, I apologize.",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or general truth, rather than describing a specific situation. The use of \"j'm'excuse\" is an informal way of saying \"I apologize\", with the speaker acknowledging their tendency to apologize even when they are right."
+    },
+    {
+      "time": 65.891,
+      "text": "Elle est droite, elle a rien à perdre",
+      "translation": "She's honest, she has nothing to lose",
+      "grammar": "The phrase \"elle a rien à perdre\" is an idiomatic expression meaning \"she has nothing to gain or lose\", emphasizing the idea that someone has no stakes or motivations in a particular situation."
+    },
+    {
+      "time": 67.526,
+      "text": "Quand elle a une idée, rien n'l'arrête",
+      "translation": "When she has an idea, nothing can stop her.",
+      "grammar": "The phrase \"rien n'l'arrête\" is an idiomatic expression that translates to \"nothing can stop her\". The construction \"n'l'\" is a contraction of \"ne l'\" meaning \"not it\" or \"not this\", and is used to emphasize the idea that nothing, not even this particular thing, can stop her."
+    },
+    {
+      "time": 69.328,
+      "text": "Moi, j'm'arrête avant d'avoir une idée",
+      "translation": "I stop before I have an idea",
+      "grammar": "The phrase \"j'm'arrête\" is a colloquialism and informal way to say \"I stop\" in the present tense, using the reflexive verb \"s'arrêter\" with the pronoun \"je\"."
+    },
+    {
+      "time": 71.13,
+      "text": "J'vais pas gagner l'tête-à-tête",
+      "translation": "I'm not going to win this one-on-one.",
+      "grammar": "The phrase \"J'vais\" is an informal way of saying \"je vais\" (I am going), using the contraction and a casual tone, typical in spoken French."
+    },
+    {
+      "time": 72.765,
+      "text": "J'fais la gueule deux heures et j'ai la flemme",
+      "translation": "I'm sulking for two hours and I'm feeling lazy.",
+      "grammar": "This informal expression uses the present tense to describe a prolonged state of being, with \"j'fais\" (I'm doing) conveying a sense of habitual or continuous action. The phrase \"faire la gueule\" is an idiomatic way to say someone is sulking or pouting."
+    },
+    {
+      "time": 74.9,
+      "text": "Elle peut faire la gueule pendant trois semaines",
+      "translation": "She can sulk for three weeks",
+      "grammar": "The phrase \"faire la gueule\" is an idiomatic expression meaning to sulk or pout, and it is in the present tense, implying a habitual ability rather than a specific action."
+    },
+    {
+      "time": 76.535,
+      "text": "Elle vit sa vie, mais m'parle sur un ton qui veut dire \"n'oublie pas qu'c'est la guerre\"",
+      "translation": "She lives her life, but speaks to me in a tone that says \"don't forget that this is war.\"",
+      "grammar": "The phrase \"sur un ton qui veut dire\" is an idiomatic expression indicating the speaker's intention or underlying message, rather than their literal words. This construction uses the present tense to convey a sense of ongoing reality."
+    },
+    {
+      "time": 80.338,
+      "text": "Elle joue sur les nerfs, elle m'esquive, moi, j'dépends d'elle, j'sais pas l'faire",
+      "translation": "She's playing with my nerves, she's dodging me, I'm dependent on her, I don't know how to do it",
+      "grammar": "The use of \"j'dépends\" and \"j'sais\" is an informal way of expressing dependency and uncertainty in the present tense, characteristic of spoken French."
+    },
+    {
+      "time": 83.64,
+      "text": "J'veux du soleil, elle veut d'la neige donc j'me renseigne sur les skis",
+      "translation": "I want sunshine, she wants snow, so I'm looking into skis.",
+      "grammar": "The use of \"j'veux\" and \"elle veut\" is an informal way to express desire in French, equivalent to the English phrase \"I want\" and \"she wants\"."
+    },
+    {
+      "time": 86.61,
+      "text": "J'dis du chinois, elle dit du thaï, j'propose du jap' et elle dit \"taille\"",
+      "translation": "I say Chinese, she says Thai, I suggest Japanese and she says \"size\"",
+      "grammar": "The use of \"j'\" is a informal first-person singular pronoun in the present tense, equivalent to \"I\" or \"me\", often used in spoken French."
+    },
+    {
+      "time": 89.579,
+      "text": "Donc j'mange une salade de papayes",
+      "translation": "So I'm eating a papaya salad.",
+      "grammar": "The use of \"j'mange\" instead of \"je mange\" is an informal, conversational idiom in French, equivalent to the English phrase \"I'm eating\"."
+    },
+    {
+      "time": 91.047,
+      "text": "Mais au moins, j'ai la paix quand j'la graille",
+      "translation": "But at least I have peace and quiet when I eat it.",
+      "grammar": "The use of \"j'la\" instead of \"je le\" is an informal idiomatic expression, common in spoken French, where the pronoun \"le\" is contracted with the verb \"graille\" to create a colloquial tone."
+    },
+    {
+      "time": 93.182,
+      "text": "C'est pas moi l'boss",
+      "translation": "I'm not the boss",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of denial or rejection, with \"c'est\" (it is) and \"pas\" (not) forming a negation. The phrase \"l'boss\" is an informal way to refer to someone in charge."
+    },
+    {
+      "time": 94.483,
+      "text": "Dans mon couple, c'est pas moi l'boss",
+      "translation": "In my relationship, I'm not the boss.",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or general truth about the speaker's relationship, rather than describing a specific situation. The phrase \"c'est pas moi\" is an informal way of saying \"it's not me\", emphasizing that the speaker doesn't have control in their partnership."
+    },
+    {
+      "time": 96.285,
+      "text": "J'décide de rien, c'est pas moi l'boss",
+      "translation": "I don't decide anything, I'm not the boss.",
+      "grammar": "The phrase \"c'est pas\" is an idiomatic expression meaning \"it's not\" or \"that's not\", used to negate a statement. The sentence remains in the present tense, with the speaker refusing to take responsibility for decisions."
+    },
+    {
+      "time": 98.253,
+      "text": "À la maison, c'est pas moi l'boss",
+      "translation": "At home, I'm not the boss.",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or general truth about the speaker's role at home. The phrase \"c'est pas moi\" is an informal way of saying \"it's not me\"."
+    },
+    {
+      "time": 100.055,
+      "text": "J'peux mentir à mes potes, mais c'est pas moi l'boss",
+      "translation": "I can lie to my friends, but I'm not the boss.",
+      "grammar": "The phrase \"J'peux\" is a colloquialism used in informal spoken French, equivalent to \"je peux\" (I can) in formal language. This usage note highlights the casual tone and relaxed grammar often employed in everyday conversations among friends."
+    },
+    {
+      "time": 102.524,
+      "text": "J'aimerais être un bonhomme, mais c'est pas moi le boss",
+      "translation": "I'd like to be a man, but I'm not the boss.",
+      "grammar": "The phrase \"c'est pas\" is an idiomatic expression meaning \"it's not\" or \"that's not\", used to express negation."
+    },
+    {
+      "time": 104.826,
+      "text": "J'peux mentir à moi-même",
+      "translation": "I can lie to myself",
+      "grammar": "The phrase \"j'peux\" is a colloquialism, using the informal first-person singular pronoun \"je\" and the verb \"pouvoir\" in the imperfective aspect, indicating ability or permission. This construction is often used in spoken French to express a casual tone."
+    },
+    {
+      "time": 106.127,
+      "text": "Mais c'est pas moi l'boss, c'est pas moi l'boss",
+      "translation": "But I'm not the boss, I'm not the boss",
+      "grammar": "This line uses the idiomatic expression \"c'est pas\" to convey negation, equivalent to English \"it's not\". The repetition of \"c'est pas moi l'boss\" emphasizes the speaker's denial of being in charge."
+    },
+    {
+      "time": 108.596,
+      "text": "Han, elle a pris l'contrôle de ma vie",
+      "translation": "Han, she took control of my life",
+      "grammar": "The phrase \"elle a pris\" is in the past perfect tense, indicating that the action of taking control happened before another action in the past. The use of \"a pris\" (taken) implies a sense of completion or finality."
+    },
+    {
+      "time": 110.398,
+      "text": "Han, c'est l'héroïne, j'suis son sidekick",
+      "translation": "Han, she's the heroine, I'm her sidekick",
+      "grammar": "The informal pronoun \"j'\" is used to indicate first person singular subject, and the verb \"suis\" is in the present tense, indicating a habitual or permanent state."
+    },
+    {
+      "time": 112.199,
+      "text": "Han, j'sais pas, c'est pas moi qui choisis",
+      "translation": "Well, I don't know, it's not up to me.",
+      "grammar": "The phrase \"j'sais pas\" is an informal way of saying \"I don't know\" in French, using the contraction of \"je sais pas\" and the negation \"pas\". This idiomatic expression is often used in spoken language to convey uncertainty or lack of knowledge."
+    },
+    {
+      "time": 114.168,
+      "text": "Han, c'est l'héroïne, j'suis son sidekick",
+      "translation": "Han, she's the heroine, I'm her sidekick",
+      "grammar": "This informal expression uses the first-person singular pronoun \"j'\" instead of the standard \"je\" to create a sense of camaraderie and shared identity with Han."
+    },
+    {
+      "time": 115.97,
+      "text": "Ça fait longtemps qu'elle a gagné",
+      "translation": "She won a long time ago.",
+      "grammar": "The phrase \"ça fait\" is an idiomatic expression used to indicate that something happened at some point in the past, equivalent to \"it's been\" or \"it took\". The verb \"faire\" here is in the passive voice and the imperfect tense, conveying a sense of duration."
+    },
+    {
+      "time": 117.438,
+      "text": "J'vis ma meilleure vie d'employé",
+      "translation": "I'm living my best employee life",
+      "grammar": "The phrase \"j'vis\" is an informal way to express the present continuous tense, equivalent to \"I am living\" in English. The idiomatic expression \"ma meilleure vie\" means \"my best life\"."
+    },
+    {
+      "time": 118.906,
+      "text": "Quand tu m'demandes si j'viens, j'dis qu'j'réfléchis",
+      "translation": "When you ask me if I'm coming, I say I'm thinking about it.",
+      "grammar": "The use of the verb \"réfléchis\" in the present tense indicates that the speaker is still considering their decision, rather than having already made up their mind. The informal \"tu\" and \"j'\" forms create a conversational tone."
+    },
+    {
+      "time": 121.208,
+      "text": "Ça veut juste dire j'vais lui demander",
+      "translation": "It just means I'm going to ask him",
+      "grammar": "This informal expression uses the present tense to convey a future action, characteristic of spoken French. The phrase \"ça veut dire\" is an idiomatic way to introduce an explanation or interpretation."
+    },
+    {
+      "time": 122.843,
+      "text": "À la maison, j'ai l'second rôle",
+      "translation": "At home, I play the supporting role",
+      "grammar": "The phrase \"j'ai l'second rôle\" uses the informal \"l'\" instead of \"le\" to agree with the preceding indefinite article \"un\". This is a common colloquialism in spoken French."
+    },
+    {
+      "time": 124.478,
+      "text": "M. Pokora, \"Elle me contrôle\"",
+      "translation": "M. Pokora, \"She controls me\"",
+      "grammar": "The verb \"contrôle\" is in the present tense and implies a sense of ongoing control, rather than a one-time event. The idiomatic expression \"elle me contrôle\" literally means \"she controls me\", conveying a sense of emotional or psychological manipulation."
+    },
+    {
+      "time": 125.678,
+      "text": "Devant les gens, faut qu'j'garde la face",
+      "translation": "In front of people, I have to save face.",
+      "grammar": "The phrase \"faut qu'\" is a colloquial way to express obligation or necessity in the present tense, equivalent to \"must\" or \"have to\"."
+    },
+    {
+      "time": 127.479,
+      "text": "Donc, on a un pacte où faut pas qu'ça s'sache",
+      "translation": "So, we have a pact where it mustn't get out.",
+      "grammar": "The use of \"faut pas\" is an idiomatic expression meaning \"must not\" or \"should not\", indicating the imperative mood and negation in French."
+    },
+    {
+      "time": 129.781,
+      "text": "Mais, crois pas qu'j'vais choisir le resto, crois pas qu'j'vais choisir la série",
+      "translation": "But don't think I'm going to choose the restaurant, don't think I'm going to choose the series",
+      "grammar": "The use of \"crois pas\" is an idiomatic expression meaning \"don't think\" or \"I doubt\", with a negative connotation. The speaker's tone implies skepticism about their own actions."
+    },
+    {
+      "time": 132.917,
+      "text": "Crois pas qu'j'vais choisir la déco, bien sûr j'peux donner mon avis",
+      "translation": "Don't think I'm going to choose the decor, of course I can give my opinion",
+      "grammar": "This informal conversation uses the present tense (je vais) and the first-person singular pronoun (j') in a colloquial expression, where \"crois pas\" is an idiomatic way to express doubt or skepticism."
+    },
+    {
+      "time": 135.72,
+      "text": "Mais crois pas qu'j'vais passer son veto",
+      "translation": "But don't think I'm going to override his veto.",
+      "grammar": "The phrase \"crois pas\" is an idiomatic expression meaning \"don't think\" or \"think not\", used to convey skepticism or doubt. The verb \"crois\" is in the present tense, indicating a general attitude rather than a specific action."
+    },
+    {
+      "time": 137.521,
+      "text": "J'pourrais m'battre, mais j'ai pas la foi, en vrai, c'est elle le mâle alpha",
+      "translation": "I could fight her, but I don't have the faith, honestly, she's the alpha male",
+      "grammar": "The use of \"j'pourrais\" (I would be able to) in the present tense indicates a hypothetical situation, while \"je n'ai pas la foi\" (I don't have the faith) is in the present simple, emphasizing the speaker's current lack of conviction."
+    },
+    {
+      "time": 140.824,
+      "text": "T'façon moi j'sais pas faire de choix",
+      "translation": "Anyway, I don't know how to make a choice",
+      "grammar": "The phrase \"t'façon\" is an idiomatic expression used to convey the speaker's uncertainty or hesitation, equivalent to saying \"I guess\" or \"I suppose\". The verb \"faire\" is in the infinitive form, indicating the speaker's inability to decide."
+    },
+    {
+      "time": 142.626,
+      "text": "Elle les fait pour moi donc en fait, elle est faite pour moi",
+      "translation": "She does them for me, so in fact, she's made for me.",
+      "grammar": "This line illustrates the use of the present tense to express a general truth or habitual action, with \"elle\" (she) being used to describe someone's inherent nature (\"elle est faite pour moi\", she's made for me)."
+    },
+    {
+      "time": 145.094,
+      "text": "Des fois, quand elle voit qu'j'sature, elle m'laisse décider d'un truc",
+      "translation": "Sometimes, when she sees that I'm fed up, she lets me decide something.",
+      "grammar": "The use of \"quand j'sature\" is an informal idiomatic expression in French, equivalent to \"when I'm had it\" or \"when I've had enough\", conveying a sense of frustration."
+    },
+    {
+      "time": 147.897,
+      "text": "Mais c'est du bluff, c'est juste un moyen d'assurer sa dictature",
+      "translation": "But it's a bluff, it's just a way to secure his dictatorship.",
+      "grammar": "The phrase \"c'est juste un moyen\" is an idiomatic expression meaning \"it's just a means\" or \"it's just a way\"."
+    },
+    {
+      "time": 150.532,
+      "text": "D'ailleurs, c'est un peu tabou, donc s'il vous plaît",
+      "translation": "Besides, it's a bit of a taboo subject, so please",
+      "grammar": "The phrase \"d'ailleurs\" is an adverbial expression indicating a transition to a new topic or idea, often used to soften the tone or introduce a sensitive subject. Its usage implies a polite request for understanding or consideration (\"s'il vous plaît\")."
+    },
+    {
+      "time": 152.834,
+      "text": "Faites comme si vous savez rien",
+      "translation": "Act as if you know nothing",
+      "grammar": "This idiomatic phrase uses the subjunctive mood to express a hypothetical situation, suggesting that someone should pretend to be uninformed. The verb \"faire\" is in the imperative form, giving a sense of instruction or recommendation."
+    },
+    {
+      "time": 154.136,
+      "text": "Elle a pas envie d'passer pour un tyran, même si c'en est un",
+      "translation": "She doesn't want to come across as a tyrant, even if she is one.",
+      "grammar": "The phrase \"même si\" indicates a concession or exception, often used in conditional sentences to show that the speaker knows something might be true but still wants to emphasize their point."
+    },
+    {
+      "time": 156.938,
+      "text": "C'est pas moi l'boss",
+      "translation": "I'm not the boss",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of denial, with \"c'est\" (it is) implying a temporary or hypothetical situation. The phrase \"pas moi\" means \"not me\", rather than \"I am not\"."
+    },
+    {
+      "time": 158.239,
+      "text": "Dans mon couple, c'est pas moi l'boss",
+      "translation": "In my relationship, I'm not the boss.",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or general truth about the speaker's role in their relationship. The phrase \"c'est pas moi\" is an informal way of saying \"it's not me\" and is often used to express humility or self-deprecation."
+    },
+    {
+      "time": 160.041,
+      "text": "J'décide de rien, c'est pas moi l'boss",
+      "translation": "I don't decide anything, I'm not the boss.",
+      "grammar": "The phrase \"c'est pas moi\" is an idiomatic expression meaning \"it's not me\". The use of \"c'est\" (it's) instead of \"je suis\" (I am) emphasizes that the speaker is not taking responsibility for a decision."
+    },
+    {
+      "time": 162.009,
+      "text": "À la maison, c'est pas moi l'boss",
+      "translation": "At home, I'm not the boss.",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or general truth about the speaker's role at home, rather than describing an actual situation. The phrase \"c'est pas\" is a common way to express negation in informal French."
+    },
+    {
+      "time": 163.811,
+      "text": "J'peux mentir à mes potes, mais c'est pas moi l'boss",
+      "translation": "I can lie to my friends, but I'm not the boss.",
+      "grammar": "This informal expression uses the first person singular verb form \"j'peux\" (I can) in a colloquial construction, where \"peux\" is used as an auxiliary verb to indicate permission or ability."
+    },
+    {
+      "time": 166.28,
+      "text": "J'aimerais être un bonhomme, mais c'est pas moi le boss",
+      "translation": "I'd like to be a man, but I'm not the boss.",
+      "grammar": "The phrase \"c'est pas\" is an idiomatic expression meaning \"it's not\" or \"that's not\", used to express negation in informal contexts."
+    },
+    {
+      "time": 168.582,
+      "text": "J'peux mentir à moi-même, mais c'est pas moi l'boss",
+      "translation": "I can lie to myself, but I'm not the boss.",
+      "grammar": "The phrase \"J'peux\" is a colloquialism used in informal French, equivalent to \"je peux\" (I can) in formal language. This usage note highlights the casual tone and relaxed grammar often found in spoken French."
+    },
+    {
+      "time": 171.051,
+      "text": "J'peux faire le mâle alpha, mais c'est pas moi l'boss",
+      "translation": "I can act like the alpha male, but I'm not the boss.",
+      "grammar": "The phrase \"J'peux\" is a colloquialism used to indicate informal permission or ability, equivalent to \"je peux\" in formal French. The use of \"j'peux\" instead of \"je peux\" adds a casual tone to the sentence."
+    },
+    {
+      "time": 173.52,
+      "text": "J'peux donner mon avis, mais c'est pas moi l'boss",
+      "translation": "I can give my opinion, but I'm not the boss.",
+      "grammar": "The phrase \"c'est pas\" is an idiomatic expression meaning \"it's not\" or \"that's not\", used to express negation."
+    },
+    {
+      "time": 175.822,
+      "text": "J'peux payer les factures, mais c'est pas moi l'boss",
+      "translation": "I can pay the bills, but I'm not the boss.",
+      "grammar": "The phrase \"c'est pas moi\" is an idiomatic expression meaning \"it's not me\" or \"that's not my responsibility\". The verb \"payer\" is in the present tense, indicating ability rather than action."
+    },
+    {
+      "time": 178.124,
+      "text": "C'est pas moi l'boss, c'est pas moi l'boss",
+      "translation": "I'm not the boss, I'm not the boss",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of repetition and emphasis, rather than describing an ongoing action. The phrase \"c'est pas\" is a common way to express negation in informal French."
+    },
+    {
+      "time": 180.426,
+      "text": "J'pourrais lutter, mais j'ai pas la force",
+      "translation": "I could fight, but I don't have the strength",
+      "grammar": "The phrase \"j'ai pas\" is an informal way to say \"I don't have\" in French, using the negation particle \"pas\" instead of the full verb \"ne pas\". This construction is common in spoken French and is often translated as \"don't have\" or \"haven't got\"."
+    },
+    {
+      "time": 182.227,
+      "text": "C'est elle qui tranche quand on n'est pas d'accord",
+      "translation": "She's the one who makes the final decision when there's a disagreement.",
+      "grammar": "This idiomatic expression uses the present tense to describe a habitual or general situation, and the pronoun \"elle\" agrees with the noun \"personne\" (someone) in the preceding clause."
+    },
+    {
+      "time": 184.529,
+      "text": "C'est ma chérie, c'est pas ma pote",
+      "translation": "She's my sweetheart, not my friend.",
+      "grammar": "The phrase \"c'est pas\" is an idiomatic expression used to convey negation or contradiction in informal French speech. It is often translated as \"it's not\" or \"that's not\"."
+    },
+    {
+      "time": 186.331,
+      "text": "Y a une hiérarchie, c'est pas moi l'boss, c'est pas moi l'boss",
+      "translation": "There's a hierarchy, I'm not the boss, I'm not the boss",
+      "grammar": "The phrase \"c'est pas moi\" is an idiomatic expression meaning \"it's not me\". The use of the pronoun \"moi\" (me) instead of \"mon\" (my) emphasizes that the speaker is not claiming responsibility."
+    }
+  ]
+}

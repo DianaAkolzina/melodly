@@ -1,0 +1,307 @@
+{
+  "id": "lv_zaudjam_brli",
+  "title": "Zaudējam Brāli",
+  "artist": "Bermudu Divsturis",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "lv",
+  "to_language": "en",
+  "audio": "/audio/lv_zaudjam_brli.mp3",
+  "duration": 204,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Ar Dievu mans draugs, viss bija 'cool'",
+      "translation": "By God my friend, everything was 'cool'",
+      "grammar": "The phrase \"viss bija 'cool'\" is an idiomatic expression in Latvian, equivalent to saying \"everything was fine\" or \"everythings was okay\", using the present perfect tense to convey a sense of completed action."
+    },
+    {
+      "time": 5.385,
+      "text": "Ar Dievu mans draugs, tālāk tu bez mums",
+      "translation": "With God my friend, you'll be fine without us.",
+      "grammar": "The phrase \"tālāk\" is an idiomatic expression meaning \"goodbye\" or \"farewell\", often used to bid someone a safe journey."
+    },
+    {
+      "time": 11.497,
+      "text": "Raudat meitenes, jūs zaudējat čali (normālu čali)",
+      "translation": "Cry girls, you're losing a guy (a normal guy)",
+      "grammar": "The phrase \"zaudējat čali\" is in the present tense and uses the idiomatic expression \"zaudēt čalu\", meaning to lose one's mind or go crazy."
+    },
+    {
+      "time": 16.882,
+      "text": "Raudiet bratuki, mēs zaudējam brāli (mēs zaudējam brāli)",
+      "translation": "Cry, brats, we're losing a brother (we're losing a brother)",
+      "grammar": "The phrase \"mēs zaudējam\" is in the present continuous tense, emphasizing the ongoing process of losing someone. The use of \"brāli\" instead of \"brother\" adds an idiomatic touch, conveying a sense of closeness and affection."
+    },
+    {
+      "time": 22.993,
+      "text": "Bratuks pie sievas ticis",
+      "translation": "The brother has met his wife.",
+      "grammar": "This sentence uses the present perfect tense to indicate that the meeting with the wife occurred at some point in the past and its effects still continue."
+    },
+    {
+      "time": 26.199,
+      "text": "Bratuks pie sievas ticis",
+      "translation": "The brother has met his wife.",
+      "grammar": "This sentence is in the present perfect tense, indicating that the meeting with the wife occurred at some point in the past and its effects still continue up to the present. The phrase \"bratuks\" agrees with \"sievass\" in gender and number, showing a consistent grammatical structure."
+    },
+    {
+      "time": 29.405,
+      "text": "Bratuks pie sievas ticis",
+      "translation": "The brother has met his wife.",
+      "grammar": "In Latvian, the verb \"pie\" is a perfective aspect marker indicating that the action of meeting has been completed, and its use implies a sense of definiteness or completion."
+    },
+    {
+      "time": 32.61,
+      "text": "Škic, škic. Viss šiks",
+      "translation": "Sketch, sketch. Everything is chic.",
+      "grammar": "The repeated phrase \"Škic, škic\" is an idiomatic expression emphasizing the speaker's enthusiasm and approval, similar to saying \"Great job!\" or \"Well done!\" in English. The verb \"šiks\" is in the present tense, indicating a general truth or a state of being."
+    },
+    {
+      "time": 35.816,
+      "text": "Bratukam tagad zelts uz pirkst'",
+      "translation": "The brother now has gold on his finger.",
+      "grammar": "In this line, the verb \"tagad\" is in the present perfect tense, indicating that the action of having gold started in the past and continues up to the moment of speaking. The phrase \"zelts uz pirkst'\" is an idiomatic expression meaning \"on one's finger\", rather than a literal description of physical location."
+    },
+    {
+      "time": 39.748,
+      "text": "Škic, škic. Viss šiks",
+      "translation": "Sketch, sketch. Everything is chic.",
+      "grammar": "The repeated phrase \"Škic, škic\" is an idiomatic expression emphasizing the speaker's enthusiasm and approval, similar to saying \"Great job!\" or \"Well done!\" in English. The sentence is written in the imperative mood, with a sense of urgency and encouragement."
+    },
+    {
+      "time": 42.954,
+      "text": "Sols pa kreis', tam Titāniks",
+      "translation": "Bench to the left, then Titanic",
+      "grammar": "The phrase \"Sols pa kreis'\" is an idiomatic expression indicating a change of direction or plan. The verb \"pa\" implies movement towards something, and the preposition \"krais'\" means \"to the left\"."
+    },
+    {
+      "time": 46.886,
+      "text": "Škic, škic. Viss šiks",
+      "translation": "Sketch, sketch. Everything is chic.",
+      "grammar": "The repeated phrase \"Škic, škic\" is an idiomatic expression emphasizing the speaker's enthusiasm and approval, similar to saying \"That's great!\" or \"I love it!\" in English. The sentence is written in the imperative mood, with a sense of urgency and encouragement."
+    },
+    {
+      "time": 50.092,
+      "text": "Bratuks tagad cits džigits",
+      "translation": "Brother, now another jigit",
+      "grammar": "The phrase \"tagad\" is an adverb indicating the present moment, equivalent to \"now\" or \"at this time\"."
+    },
+    {
+      "time": 53.298,
+      "text": "Škic, škic. Viss šiks",
+      "translation": "Sketch, sketch. Everything is chic.",
+      "grammar": "The repeated phrase \"Škic, škic\" is an idiomatic expression emphasizing the speaker's enthusiasm and approval, similar to saying \"That's great!\" or \"I love it!\" in English. The verb \"šiks\" is in the present tense, indicating a general truth or a state of being."
+    },
+    {
+      "time": 56.503,
+      "text": "Bratuks pie sievas ticis",
+      "translation": "The brother has met his wife.",
+      "grammar": "In Latvian, the verb \"ticis\" is in the perfective aspect, indicating that the action of meeting is completed. The use of \"has met\" translates the perfective tense, conveying a sense of completion or result."
+    },
+    {
+      "time": 59.709,
+      "text": "Tagad tavi 'maņņi maņņi'",
+      "translation": "Now your 'smart smart'",
+      "grammar": "The phrase \"Tagad tavi\" is an idiomatic expression, where \"tagad\" means \"now\" and \"tavi\" is a colloquial way to address someone, similar to \"okay\" or \"alright\". The quotation marks around \"maņņi maņņi\" indicate irony, implying that the person being addressed is pretending to be overly clever."
+    },
+    {
+      "time": 62.915,
+      "text": "Vairs nav tie tikai tavi",
+      "translation": "They're not just yours anymore.",
+      "grammar": "The phrase \"nav\" is a contraction of \"neatā\" meaning \"no longer\" or \"not any more\", used to express the idea that something has stopped being someone's possession, indicating a change in ownership."
+    },
+    {
+      "time": 66.847,
+      "text": "Tagad tavi 'maņņi maņņi'",
+      "translation": "Now your 'smart smart'",
+      "grammar": "The phrase \"maņņi\" is an idiomatic expression, where the repetition of \"maņņi\" emphasizes the speaker's sarcasm and irony, implying that someone is being overly clever or pretentious."
+    },
+    {
+      "time": 70.053,
+      "text": "Pazūd tā ka nepamani",
+      "translation": "Disappears without you noticing",
+      "grammar": "The phrase \"pazūd\" is an idiomatic expression indicating something happens unnoticed or unobserved, often used to describe a subtle change or disappearance."
+    },
+    {
+      "time": 73.259,
+      "text": "Naktī tagad citi plāni",
+      "translation": "I have other plans for tonight.",
+      "grammar": "The phrase \"tagad\" is an adverb indicating the present moment, equivalent to English \"now\"."
+    },
+    {
+      "time": 76.464,
+      "text": "Jo var mazāk 'parķi, parķi'",
+      "translation": "The less 'parks, parks'",
+      "grammar": "This idiomatic expression uses the comparative form of the adjective \"mazāks\" to convey a sense of irony or understatement, rather than indicating a literal comparison. The use of the same word \"parķi\" twice emphasizes the speaker's point about the lack of parks."
+    },
+    {
+      "time": 80.397,
+      "text": "Bet ja skumji paliek, brāli",
+      "translation": "But if you remain sad, brother",
+      "grammar": "The phrase \"bet\" is an adverbial conjunction used to indicate a hypothetical or conditional situation in the present tense, implying a sense of possibility or uncertainty."
+    },
+    {
+      "time": 84.329,
+      "text": "Nekautrējies! Zvani, zvani",
+      "translation": "Don't be shy! Call, call",
+      "grammar": "The interjection \"Nekautrējies\" is an imperative, urging the listener to take action, while the repeated verb \"zvani\" emphasizes the importance of calling."
+    },
+    {
+      "time": 86.808,
+      "text": "Ar Dievu mans draugs, viss bija 'cool'",
+      "translation": "By God my friend, everything was 'cool'",
+      "grammar": "The phrase \"viss bija 'cool'\" uses the past perfect tense to convey a sense of completed action in the past, implying that everything was indeed cool at some point. The quotation marks around \"cool\" indicate it's an idiomatic expression meaning something was satisfactory or pleasant."
+    },
+    {
+      "time": 92.193,
+      "text": "Ar Dievu mans draugs, tālāk tu bez mums",
+      "translation": "With God my friend, you'll be fine without us.",
+      "grammar": "The phrase \"tālāk\" is an idiom meaning \"goodbye\" or \"farewell\", often used to bid someone a positive farewell."
+    },
+    {
+      "time": 98.305,
+      "text": "Raudat meitenes, jūs zaudējat čali (normālu čali)",
+      "translation": "Cry girls, you're losing a guy (a normal guy)",
+      "grammar": "The phrase \"zaudējat čali\" is in the present tense and uses the idiomatic expression \"zaudēt čalu\", which means to lose someone's favor or approval."
+    },
+    {
+      "time": 103.69,
+      "text": "Raudiet bratuki, mēs zaudējam brāli (mēs zaudējam brāli)",
+      "translation": "Cry, brats, we're losing a brother (we're losing a brother)",
+      "grammar": "The phrase \"mēs zaudējam\" is in the present continuous tense, emphasizing the ongoing process of losing someone. The use of \"brāli\" instead of \"brother\" adds an idiomatic touch, conveying a sense of affection and closeness."
+    },
+    {
+      "time": 109.801,
+      "text": "Bratuks pie sievas ticis",
+      "translation": "The brother has met his wife.",
+      "grammar": "This sentence uses the present perfect tense to indicate that the meeting with the wife occurred at some point in the past, but the exact time is not specified. The phrase \"bratuks\" (brother) agrees with \"sievā\" (wife) in gender and number, showing a grammatical agreement typical of Latvian nouns."
+    },
+    {
+      "time": 113.007,
+      "text": "Bratuks pie sievas ticis",
+      "translation": "The brother has met his wife.",
+      "grammar": "In Latvian, the verb \"ticis\" is in the present perfect tense, indicating that the action of meeting started in the past and continues up to the present moment. The phrase \"Bratuks pie sievas\" can be translated as \"with his wife\", using the prepositional phrase with the possessive pronoun \"sievos\"."
+    },
+    {
+      "time": 116.213,
+      "text": "Bratuks pie sievas ticis",
+      "translation": "The brother has met his wife.",
+      "grammar": "In Latvian, the verb \"ticis\" is in the perfective aspect, indicating that the action of meeting has been completed at some point in the past. The use of the verb \"has met\" (ticis) implies a completed action in the past, which is then linked to the present through the possessive pronoun \"his\"."
+    },
+    {
+      "time": 119.418,
+      "text": "Bai, bai Bohēmai, tagad uz vis' jābūt atļaujai",
+      "translation": "Oh, oh, Bohemia, now everything needs permission",
+      "grammar": "The phrase \"tagad\" is an adverb indicating the present moment, equivalent to \"now\". The sentence uses the imperative mood, with the verb \"būt\" in the third person singular form \"jābūt\", agreeing with the noun \"atļaujai\"."
+    },
+    {
+      "time": 125.53,
+      "text": "Bai, bai Bohēmai, katrai atrunai jābūt ticamai",
+      "translation": "Bai, bai Bohemia, every reservation must be credible",
+      "grammar": "The phrase \"jābūt\" is a construction of the verb \"būt\" in the imperative mood, indicating a strong recommendation or necessity."
+    },
+    {
+      "time": 130.915,
+      "text": "Bai, bai Bohēmai, Baibai arī atelpai",
+      "translation": "Bai, Bai for Bohemia, Bai for respite too",
+      "grammar": "The repeated use of \"Bai\" is an idiomatic expression, emphasizing the speaker's strong sentiment and emotional tone. The phrase functions as a vocative, directly addressing Bohemia and respite, creating a sense of urgency and longing."
+    },
+    {
+      "time": 135.574,
+      "text": "Bai, bai Bohēmai, piektai mašīnai 'gudbai'",
+      "translation": "Bye, bye Bohemia, goodbye to the fifth car",
+      "grammar": "The phrase \"gudbai\" is an informal way of saying \"goodbye\", often used in spoken language, and its use indicates a casual tone. The verb \"sākt\" (to say) is implied but not explicitly stated, as it's common in Latvian to omit verbs when the meaning is clear from context."
+    },
+    {
+      "time": 140.232,
+      "text": "Esi gatavs kveščoniem",
+      "translation": "Be prepared for questions.",
+      "grammar": "The verb \"gatavs\" is in the imperative mood, instructing someone to be prepared. The phrase \"kveščoniem\" means \"for questions\", indicating the purpose or context of being prepared."
+    },
+    {
+      "time": 142.711,
+      "text": "Kad tad tiksim pie mazbērniem?",
+      "translation": "When will we get to have grandchildren?",
+      "grammar": "The phrase \"kād\" is an adverb indicating a future time, equivalent to \"when\" in English. The sentence structure is informal and conversational, typical of spoken Latvian."
+    },
+    {
+      "time": 146.644,
+      "text": "Un kad pirmais būs jau klāt",
+      "translation": "And when the first one arrives",
+      "grammar": "The phrase \"un kad\" is an idiomatic expression in Latvian, equivalent to \"when\" or \"as soon as\" in English. It indicates a future event and is often used with the present continuous tense, implying that the action will start once the specified condition is met."
+    },
+    {
+      "time": 151.302,
+      "text": "Vai tad otro negaidāt?",
+      "translation": "Aren't you waiting for the second one?",
+      "grammar": "The phrase \"vai\" is an informal way to ask a question, equivalent to \"isn't it\" or \"don't you\", and indicates the speaker's assumption that the listener is indeed waiting. The sentence uses the present tense to express a habitual or ongoing action."
+    },
+    {
+      "time": 154.508,
+      "text": "Ja agrāk staigāji pa klubu",
+      "translation": "If you walked around the club before",
+      "grammar": "The verb \"staigāji\" is in the past imperfective mood, indicating an ongoing action in the past. The phrase \"ja agrāk\" can be translated to \"if you\" and implies a hypothetical situation."
+    },
+    {
+      "time": 158.44,
+      "text": "Tad tagad dziedi: \"Aijā, žūžū\"",
+      "translation": "So now sing: \"Ay",
+      "grammar": "The phrase \"Aijā, žūžū\" is an interjection and idiom in Latvian, used to express excitement or enthusiasm, similar to the English expression \"Hey, yeah!\" The verb \"dziedi\" is in the present tense, indicating a habitual or repeated action."
+    },
+    {
+      "time": 162.372,
+      "text": "Bet es ceru, ka viss ko muldu",
+      "translation": "But I hope that everything I say",
+      "grammar": "The phrase \"bet\" is an idiomatic expression equivalent to \"but\" in English, used to indicate a contrast or concession."
+    },
+    {
+      "time": 167.757,
+      "text": "Neļauj domāt, ka pieļauj kļūdu",
+      "translation": "Don't let it seem like you're making a mistake.",
+      "grammar": "The phrase \"neļauj\" is an imperative verb form in the second person singular, instructing the listener not to allow something. The sentence expresses a prohibition or warning against doing something that might be perceived as a mistake."
+    },
+    {
+      "time": 171.69,
+      "text": "Ar Dievu mans draugs, viss bija 'cool'",
+      "translation": "By God my friend, everything was 'cool'",
+      "grammar": "The phrase \"viss bija 'cool'\" is an idiomatic expression in Latvian, equivalent to saying \"everything was fine\" or \"everythings was okay\", using the adjective \"cool\" to convey a sense of calmness."
+    },
+    {
+      "time": 177.075,
+      "text": "Ar Dievu mans draugs, tālāk tu bez mums",
+      "translation": "With God my friend, you'll be fine without us.",
+      "grammar": "The phrase \"tālāk\" is an idiomatic expression meaning \"goodbye\" or \"farewell\", often used to bid someone a safe journey or separation."
+    },
+    {
+      "time": 183.186,
+      "text": "Raudat meitenes, jūs zaudējat čali (normālu čali)",
+      "translation": "Cry girls, you're losing a guy (a normal guy)",
+      "grammar": "The phrase \"zaudējat čali\" is in the present tense, using the verb \"zaudēt\" to convey the idea of gradually losing something, which is an idiomatic expression in Latvian."
+    },
+    {
+      "time": 188.571,
+      "text": "Raudiet bratuki, mēs zaudējam brāli (mēs zaudējam brāli)",
+      "translation": "Cry, brats, we're losing a brother (we're losing a brother)",
+      "grammar": "The use of the imperative \"Raudiet\" (\"cry\") and the first-person plural verb \"zaudējam\" (\"are losing\") creates an emotional appeal to the listener, emphasizing the collective sorrow and urgency of the situation."
+    },
+    {
+      "time": 194.683,
+      "text": "Bratuks pie sievas ticis",
+      "translation": "The brother has met his wife.",
+      "grammar": "This sentence uses the present perfect tense to indicate that the meeting with the wife occurred at some point in the past and its effects are still relevant."
+    },
+    {
+      "time": 197.889,
+      "text": "Bratuks pie sievas ticis",
+      "translation": "The brother has met his wife.",
+      "grammar": "In this sentence, \"has met\" is in the present perfect tense, indicating that the meeting with the wife occurred at an unspecified time before now. The use of \"bratuks\" (brother) agrees with \"his\" in number and gender."
+    },
+    {
+      "time": 201.094,
+      "text": "Bratuks pie sievas ticis",
+      "translation": "The brother has met his wife.",
+      "grammar": "In Latvian, the verb \"ticis\" is in the perfective aspect, indicating that the action of meeting has been completed at some point in the past. The phrase \"has met\" translates the perfective tense, conveying a sense of completion or result."
+    }
+  ]
+}

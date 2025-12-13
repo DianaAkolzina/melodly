@@ -1,0 +1,16 @@
+{
+  "language": "es",
+  "title": "Tití Me Preguntó",
+  "artist": "Bad Bunny",
+  "slug": "titi-me-pregunto-bad-bunny",
+  "track_length_seconds": 244,
+  "source": {
+    "provider": "musixmatch",
+    "track_id": 235614871,
+    "commontrack_id": 143342304,
+    "track_share_url": "https://www.musixmatch.com/lyrics/Bad-Bunny/Titi-Me-Pregunt%C3%B3?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "track_edit_url": "https://www.musixmatch.com/lyrics/Bad-Bunny/Titi-Me-Pregunt%C3%B3/edit?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "search_language": "es",
+    "fetched_at": "2025-11-21T10:50:45.431344Z"
+  }
+}

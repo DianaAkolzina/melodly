@@ -1,0 +1,361 @@
+{
+  "id": "es_pepas",
+  "title": "Pepas",
+  "artist": "Farruko",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_pepas.mp3",
+  "duration": 287,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 2.661699999988079,
+      "text": "No me importa lo que de mí se diga",
+      "translation": "I don't care what people say about me.",
+      "grammar": "This phrase uses the informal pronoun \"me\" and the idiomatic expression \"no me importa\" to convey a casual tone, emphasizing the speaker's indifference. The verb \"se diga\" is in the passive voice, indicating that the focus is on what others say rather than who says it."
+    },
+    {
+      "time": 4.024099999994039,
+      "text": "Viva usted su vida, que yo vivo la mía",
+      "translation": "You live your life, and I'll live mine.",
+      "grammar": "This line uses the imperative mood to express a wish or encouragement (\"Viva\"), with the speaker urging someone to live their own life. The phrase \"que yo vivo la mía\" is an idiomatic expression indicating a contrast between the two lives being lived."
+    },
+    {
+      "time": 8.028399999976157,
+      "text": "Que solo es una, disfruta el momento",
+      "translation": "You only get one, enjoy the moment",
+      "grammar": "This phrase uses the present imperative mood to convey a sense of urgency and importance, encouraging the listener to take action in the present moment. The idiomatic expression \"que solo es una\" translates to \"you only get one,\" emphasizing the limited nature of life's experiences."
+    },
+    {
+      "time": 11.21059999999404,
+      "text": "Que el tiempo se acaba y pa'trás no vira",
+      "translation": "Time is running out and there's no going back.",
+      "grammar": "The phrase \"pa'trás\" is an idiomatic expression meaning \"backwards\", used to emphasize the irreversibility of a situation."
+    },
+    {
+      "time": 15.683,
+      "text": "Bebiendo, fumando y jodiendo",
+      "translation": "Drinking, smoking, and fucking",
+      "grammar": "This phrase uses the present participle (-ing form) to describe simultaneous actions in the present continuous tense, conveying a sense of ongoing behavior. The idiomatic expression \"jodiendo\" is an informal way to say \"having sex\"."
+    },
+    {
+      "time": 18.707799999982118,
+      "text": "Sigo vacilando de party to' los día'",
+      "translation": "I'm still partying every day",
+      "grammar": "The verb \"sigo\" is in the present continuous tense, indicating an ongoing action. The phrase \"de party\" is an idiomatic expression meaning \"about parties\"."
+    },
+    {
+      "time": 22.78679999998212,
+      "text": "Síguelo, oh-oh-oh, oh-oh-oh, oh-oh (Farru)",
+      "translation": "Follow it, oh-oh-oh, oh-oh-oh, oh-oh (Farru)",
+      "grammar": "The imperative verb \"síguelo\" is in the second person singular, instructing someone to follow something. The repeated \"oh-oh-oh\" is an idiomatic expression used for emphasis or excitement."
+    },
+    {
+      "time": 30.424299999982118,
+      "text": "Síguelo, oh-oh-oh, oh-oh-oh, oh-oh (la rola y pepa)",
+      "translation": "Follow it, oh-oh-oh, oh-oh-oh, oh-oh (the song and the seed)",
+      "grammar": "The imperative verb \"síguelo\" is in the present tense, instructing the listener to follow something. The repetition of \"oh-oh-oh\" is an idiomatic expression used for emphasis or excitement."
+    },
+    {
+      "time": 37.83709999999404,
+      "text": "Pepa y agua pa' la seca",
+      "translation": "Pepa and water for the dry",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or customary action, with \"agua\" (water) being used figuratively to mean \"liquid refreshment\". The phrase \"pa' la seca\" is an idiomatic way of saying \"for the dry\" or \"to quench thirst\", emphasizing the need for hydration."
+    },
+    {
+      "time": 40.55019999998808,
+      "text": "To' el mundo en pastilla' en la discoteca",
+      "translation": "Everyone's on pills at the disco",
+      "grammar": "This line uses the informal, colloquial expression \"en pastilla\" to mean \"on drugs\" or \"under the influence,\" which is a common idiom in Spanish. The phrase \"To' el mundo\" can be translated as \"everyone\" and indicates a generalization about a situation."
+    },
+    {
+      "time": 45.19909999999404,
+      "text": "Pepa y agua pa' la seca",
+      "translation": "Pepa and water for the dry",
+      "grammar": "The phrase \"pa' la seca\" is an idiomatic expression meaning \"for the dry\" or \"to dry something\". It uses the preposition \"pa'\" (meaning \"for\" or \"to\") in a colloquial way to indicate purpose."
+    },
+    {
+      "time": 47.98919999998808,
+      "text": "To' el mundo en pastilla' en la discoteca",
+      "translation": "Everyone's on pills at the disco",
+      "grammar": "The phrase \"en pastilla\" is an idiomatic expression meaning \"on drugs\" or \"under the influence,\" using the verb \"estar\" in the present continuous tense to convey a sense of ongoing behavior."
+    },
+    {
+      "time": 58.94959999999404,
+      "text": "Desacata'o",
+      "translation": "Disobey",
+      "grammar": "This interjection \"Desacata'o\" is an imperative verb in the second person singular, instructing someone to disobey."
+    },
+    {
+      "time": 66.47589999997616,
+      "text": "Empastilla'o",
+      "translation": "Pill",
+      "grammar": "This interjection \"Empastilla'o\" is an informal way to express strong agreement or confirmation, often used in spoken Spanish. The \"o\" at the end is a colloquial particle that adds emphasis and friendliness to the phrase."
+    },
+    {
+      "time": 88.6435,
+      "text": "Qué maldita nota",
+      "translation": "What a damn note",
+      "grammar": "This interjection \"qué\" is used to express strong emotions, similar to English phrases like \"what a...\" or \"how...\". The verb \"maldita\" is an adjective meaning \"cursed\" or \"damn\", and the phrase as a whole conveys strong disapproval."
+    },
+    {
+      "time": 93.40469999998808,
+      "text": "Arcoíris",
+      "translation": "Rainbow",
+      "grammar": "The word \"Arcoíris\" is a noun in the nominative case, used as an interjection to express wonder or admiration."
+    },
+    {
+      "time": 95.57579999998212,
+      "text": "Fa-Fa-rru",
+      "translation": "Fa-Fa-rru",
+      "grammar": "This interjection is an onomatopoeic expression, mimicking the sound of a fast-paced, rhythmic movement."
+    },
+    {
+      "time": 96.91819999998808,
+      "text": "Sube las mano' y las botella' pa' arriba (¡blep!)",
+      "translation": "Raise your hands and bottles up (blep!)",
+      "grammar": "The phrase \"pa' arriba\" is an idiomatic expression meaning \"up\" or \"high\", used to emphasize the action of raising hands and bottles. The exclamation \"¡blep!\" is a colloquial interjection expressing enthusiasm and excitement."
+    },
+    {
+      "time": 98.81379999998212,
+      "text": "Siempre la movie la tenemo' prendi'a",
+      "translation": "We always have the movie on",
+      "grammar": "The use of \"tenemo'\" instead of \"tenemos\" is an informal, colloquial expression that indicates a relaxed, casual tone. This construction is common in spoken Spanish and is often used to convey a sense of familiarity or shared experience with the listener."
+    },
+    {
+      "time": 100.82939999997616,
+      "text": "Hoy vamo' a darle hasta que se haga de día",
+      "translation": "Today we're going to keep at it until dawn",
+      "grammar": "The phrase \"vamo'\" is an informal way of saying \"let's go\" or \"we're going,\" used in colloquial Spanish, and the sentence uses the present continuous tense to convey a sense of ongoing action."
+    },
+    {
+      "time": 102.51539999997615,
+      "text": "Sigo rulay y 'toy en la mía",
+      "translation": "I'm still doing my own thing.",
+      "grammar": "The phrase \"sigo rulay\" is an idiomatic expression, equivalent to \"I'm still doing my own thing\", using the present continuous tense (sigo) and the verb \"rulay\" in a figurative sense, meaning to maintain one's independence."
+    },
+    {
+      "time": 104.13979999998212,
+      "text": "Salió el sol, wol",
+      "translation": "The sun came out, wol",
+      "grammar": "This line uses the present perfect tense to describe an action that started in the past and continues up to the moment of speaking. The idiomatic expression \"wol\" is likely a colloquialism or interjection used to convey excitement or emphasis."
+    },
+    {
+      "time": 108.08509999999404,
+      "text": "Tráeme la hookah y el alcohol",
+      "translation": "Bring me the hookah and the alcohol",
+      "grammar": "The imperative verb \"tráeme\" is in the informal, second-person singular form, used to address a friend or someone familiar. The phrase \"y el alcohol\" is an idiomatic expression meaning \"and the drinks\"."
+    },
+    {
+      "time": 111.18379999998211,
+      "text": "Y préndelo, woh-oh-oh",
+      "translation": "And light it up, woh-oh-oh",
+      "grammar": "This line uses the imperative mood to give a command (\"prendlo\" means \"light it up\"), with the particle \"woh-oh-oh\" serving as an interjection to emphasize the action."
+    },
+    {
+      "time": 115.35709999999403,
+      "text": "Esto se salió de control",
+      "translation": "This got out of control",
+      "grammar": "The phrase \"esto se salió\" is an idiomatic expression indicating a situation has become chaotic or uncontrollable, using the verb \"salir\" in its figurative sense to convey a loss of control."
+    },
+    {
+      "time": 118.52359999999403,
+      "text": "Y síguelo, oh-oh-oh, oh-oh-oh, oh-oh (la rola y pepa)",
+      "translation": "And follow it, oh-oh-oh, oh-oh-oh, oh-oh (the song and the seed)",
+      "grammar": "The repeated use of \"oh-oh-oh\" is an idiomatic expression used to emphasize excitement or enthusiasm, similar to saying \"yes!\" or \"absolutely!\". The verb \"síguelo\" is in the present continuous tense, indicating ongoing action."
+    },
+    {
+      "time": 126.439,
+      "text": "Pepa y agua pa' la seca",
+      "translation": "Pepa and water for the dry",
+      "grammar": "The phrase \"pa' la seca\" is an idiomatic expression meaning \"for the dry\" or \"to dry something\". It uses the preposition \"pa'\" (meaning \"for\" or \"to\") in a colloquial manner, common in Latin American Spanish."
+    },
+    {
+      "time": 129.19329999998212,
+      "text": "To' el mundo en pastilla' en la discoteca (desacata'o)",
+      "translation": "Everyone's on pills at the disco (out of control)",
+      "grammar": "The phrase \"en pastilla\" is an idiomatic expression meaning \"on drugs\" or \"under the influence\", using the present participle \"pastilla\" to describe a state of being."
+    },
+    {
+      "time": 133.79239999997617,
+      "text": "Pepa y agua pa' la seca",
+      "translation": "Pepa and water for the dry",
+      "grammar": "The phrase \"pa' la seca\" is an idiomatic expression meaning \"for the dry\" or \"to dry something\". It uses the preposition \"pa'\" to indicate purpose, which is a common construction in Spanish."
+    },
+    {
+      "time": 136.61559999999403,
+      "text": "To' el mundo en pastilla' en la discoteca (empastilla'o)",
+      "translation": "Everyone's on pills at the disco (on pills)",
+      "grammar": "The phrase \"en pastilla\" is an idiomatic expression meaning \"on drugs\" or \"under the influence\", using the verb \"pastillar\" in a figurative sense, implying that everyone is high or intoxicated."
+    },
+    {
+      "time": 148.29,
+      "text": "¡Blep!",
+      "translation": "Blep!",
+      "grammar": "This interjection ¡Blep! is an informal expression of surprise or excitement, often used in casual conversations. Its exclamation mark emphasizes its emotional tone and adds to the overall energetic feel."
+    },
+    {
+      "time": 154.73039999997616,
+      "text": "Fa-Fa-rru",
+      "translation": "Fa-Fa-rru",
+      "grammar": "This interjection \"Fa-Fa-rru\" is an onomatopoeic expression, mimicking the sound of a fast-paced rhythm or energetic movement, often used to convey excitement or enthusiasm."
+    },
+    {
+      "time": 162.95289999997615,
+      "text": "Qué maldita nota",
+      "translation": "What a damn note",
+      "grammar": "This interjection \"qué\" is used to express strong emotions, similar to English phrases like \"what a\" or \"how a\". The verb \"maldita\" is an adjective meaning \"cursed\" or \"damn\", and the phrase as a whole conveys frustration or annoyance."
+    },
+    {
+      "time": 167.08919999998807,
+      "text": "Arcoíris",
+      "translation": "Rainbow",
+      "grammar": "The noun \"Arcoíris\" is used as a metaphorical expression, equivalent to saying \"a sign of hope\" or \"a symbol of diversity\"."
+    },
+    {
+      "time": 170.4977999999821,
+      "text": "No me importa lo que de mí se diga",
+      "translation": "I don't care what people say about me.",
+      "grammar": "This phrase uses the informal pronoun \"me\" instead of \"mi\" to emphasize the speaker's indifference, and the verb \"importa\" is in the present tense to convey a sense of general apathy."
+    },
+    {
+      "time": 173.57759999999405,
+      "text": "Viva usted su vida, que yo vivo la mía",
+      "translation": "You live your life, and I'll live mine.",
+      "grammar": "This line uses the present tense to express a general truth or advice, with the speaker encouraging others to live their own lives. The phrase \"viva\" is an idiomatic expression meaning \"long live\" or \"cheers\", used here to convey enthusiasm and support."
+    },
+    {
+      "time": 177.78259999999403,
+      "text": "Que solo es una, disfruta el momento",
+      "translation": "You only get one, enjoy the moment",
+      "grammar": "This sentence uses the present imperative mood to convey a sense of urgency and advice. The phrase \"que solo es una\" is an idiomatic expression emphasizing the uniqueness or scarcity of something, similar to saying \"you only get one chance\"."
+    },
+    {
+      "time": 182.49189999997617,
+      "text": "Que el tiempo se acaba y pa'trás no vira",
+      "translation": "Time is running out and there's no going back.",
+      "grammar": "The phrase \"pa'trás\" is an idiomatic expression meaning \"backwards\" or \"in reverse\". It's used to emphasize the irreversibility of a situation, conveying a sense of finality."
+    },
+    {
+      "time": 185.12309999999405,
+      "text": "Bebiendo, fumando y jodiendo",
+      "translation": "Drinking, smoking, and fucking",
+      "grammar": "This phrase uses the present participle (-ing form) to describe simultaneous actions, conveying a sense of casual indulgence. The idiomatic expression \"bebiendo, fumando y jodiendo\" is equivalent to saying \"while drinking, smoking, and having sex\", emphasizing the speaker's carefree attitude."
+    },
+    {
+      "time": 188.23609999999405,
+      "text": "Sigo vacilando de party to' los día'",
+      "translation": "I'm still partying every day",
+      "grammar": "The verb \"sigo\" is in the present continuous tense, indicating an ongoing action. The phrase \"vacilando de party\" is an idiomatic expression meaning \"to keep partying\"."
+    },
+    {
+      "time": 192.4741999999881,
+      "text": "Y síguelo, oh-oh-oh, oh-oh-oh, oh-oh (Farru)",
+      "translation": "And follow it, oh-oh-oh, oh-oh-oh, oh-oh (Farru)",
+      "grammar": "The phrase \"y síguelo\" is an idiomatic expression in Spanish, literally meaning \"and follow it\", but figuratively conveying the idea of following one's intuition or passion."
+    },
+    {
+      "time": 200.18329999998213,
+      "text": "Síguelo, oh-oh-oh, oh-oh-oh, oh-oh (la rola y pepa)",
+      "translation": "Follow it, oh-oh-oh, oh-oh-oh, oh-oh (the song and the seed)",
+      "grammar": "This line uses the imperative mood to instructively command someone to follow something. The repetition of \"oh-oh-oh\" is an idiomatic expression used to emphasize or punctuate the speaker's enthusiasm."
+    },
+    {
+      "time": 207.41559999999404,
+      "text": "Pepa y agua pa' la seca",
+      "translation": "Pepa and water for the dry",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or customary action, with \"agua\" (water) functioning as an object rather than a subject. The phrase \"pa' la seca\" is an adverbial phrase indicating the purpose or destination of the action."
+    },
+    {
+      "time": 210.3665,
+      "text": "To' el mundo en pastilla' en la discoteca",
+      "translation": "Everyone's on pills at the disco",
+      "grammar": "This idiomatic expression uses the present tense to describe a habitual or common situation, and the phrase \"en pastilla\" is an informal way of saying \"on drugs\"."
+    },
+    {
+      "time": 215.07179999998212,
+      "text": "Pepa y agua pa' la seca",
+      "translation": "Pepa and water for the dry",
+      "grammar": "This idiomatic expression uses the preposition \"pa'\" to indicate purpose, similar to English \"for\". The phrase is in the present tense, describing a common practice."
+    },
+    {
+      "time": 217.7885,
+      "text": "To' el mundo en pastilla' en la discoteca",
+      "translation": "Everyone's on pills at the disco",
+      "grammar": "This phrase uses the informal, colloquial expression \"en pastilla\" to mean \"on drugs\" or \"under the influence,\" which is often used in Spanish-speaking cultures. The sentence also employs a casual, conversational tone and verb tense, characteristic of spoken language."
+    },
+    {
+      "time": 228.74259999999404,
+      "text": "Desacata'o",
+      "translation": "Disobey",
+      "grammar": "This interjection \"Desacata'o\" is an imperative verb in the second person singular, instructing someone to disobey."
+    },
+    {
+      "time": 236.19679999998212,
+      "text": "Empastilla'o",
+      "translation": "Pill",
+      "grammar": "This interjection \"Empastilla'o\" is an informal way to express strong agreement or confirmation, similar to saying \"I totally agree!\" in English. The use of the particle \"o\" at the end adds a sense of emphasis and informality."
+    },
+    {
+      "time": 258.86569999998807,
+      "text": "Qué maldita nota",
+      "translation": "What a damn note",
+      "grammar": "This idiomatic expression uses the interjection \"qué\" to convey strong emotions, and \"maldita\" is an intensifier emphasizing the speaker's frustration."
+    },
+    {
+      "time": 263.0052999999821,
+      "text": "Arcoíris",
+      "translation": "Rainbow",
+      "grammar": "The noun \"Arcoíris\" is used as a metaphorical expression to describe something beautiful and diverse, equivalent to saying \"a pot of gold at the end of the rainbow\"."
+    },
+    {
+      "time": 265.431,
+      "text": "Fa-Fa-rru",
+      "translation": "Fa-Fa-rru",
+      "grammar": "This interjection \"Fa-Fa-rru\" is an onomatopoeic expression, mimicking the sound of a loud, excited cheer, often used to express enthusiasm or approval."
+    },
+    {
+      "time": 266.6785,
+      "text": "Dímelo, Chino",
+      "translation": "Tell me, Chino",
+      "grammar": "This line uses the imperative mood to make a request, with the verb \"dímelo\" (tell me) in the second person singular form, addressing someone directly."
+    },
+    {
+      "time": 269.20719999998806,
+      "text": "The Most Winning",
+      "translation": "The Most Winning",
+      "grammar": "This phrase is an idiomatic expression used to emphasize the winner or champion, with no specific tense or mood implications."
+    },
+    {
+      "time": 271.1986999999881,
+      "text": "Victor Cárdenas",
+      "translation": "Victor Cardenas",
+      "grammar": "This proper noun phrase is in the nominative case, functioning as a subject."
+    },
+    {
+      "time": 273.2301999999881,
+      "text": "White Star",
+      "translation": "White Star",
+      "grammar": "This phrase is an interjection, used to express admiration or approval, and remains in the present tense."
+    },
+    {
+      "time": 277.0875,
+      "text": "Sharo Towers",
+      "translation": "Sharo Towers",
+      "grammar": "This phrase is an interjection, used to express excitement or emphasis, and remains in the present tense."
+    },
+    {
+      "time": 278.7251999999881,
+      "text": "La 167",
+      "translation": "The 167",
+      "grammar": "In this context, \"La\" is an article used to refer to a specific noun or object, rather than indicating possession."
+    },
+    {
+      "time": 280.0052999999821,
+      "text": "La 167",
+      "translation": "The 167",
+      "grammar": "In English, \"The 167\" is an example of a direct object noun phrase used as a title or label, rather than a descriptive phrase. This usage is idiomatic and does not follow the typical subject-verb-object word order."
+    }
+  ]
+}

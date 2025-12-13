@@ -1,0 +1,391 @@
+{
+  "id": "fr_feel_good",
+  "title": "Feel Good",
+  "artist": "Charlotte Cardin",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_feel_good.mp3",
+  "duration": 163,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 3.4227000000178815,
+      "text": "Il y a ma main dans la fenêtre",
+      "translation": "There's my hand in the window",
+      "grammar": "The phrase \"il y a\" is an idiomatic expression used to indicate the existence or presence of something, equivalent to \"there is\" or \"it exists\". It is often used to describe a situation that is currently happening."
+    },
+    {
+      "time": 5.259400000005961,
+      "text": "Titanic",
+      "translation": "Titanic",
+      "grammar": "The word \"Titanic\" is used as a proper noun and an idiom, referring to the famous ship that sank, but also implying something of enormous scale or magnitude."
+    },
+    {
+      "time": 6.922200000017882,
+      "text": "Il y a des choses que je comprendrai jamais",
+      "translation": "There are things I will never understand",
+      "grammar": "The use of \"jamais\" (never) indicates the future perfect tense, implying that the speaker is certain they will never come to comprehend these things."
+    },
+    {
+      "time": 9.3675,
+      "text": "Pyramides",
+      "translation": "Pyramids",
+      "grammar": "The phrase \"Pyramides\" is used as a metaphorical expression to refer to something that has been built up over time, emphasizing its grandeur and importance."
+    },
+    {
+      "time": 11.034300000011921,
+      "text": "Et j'ai pensé tomber contre toi",
+      "translation": "And I thought I'd fall on you",
+      "grammar": "The phrase \"tomber contre\" is an idiomatic expression meaning to collapse or faint into someone's arms, rather than literally falling onto them. The verb \"penser\" is in the passé composé tense, indicating that this is a completed action in the past."
+    },
+    {
+      "time": 13.789100000023842,
+      "text": "Italique",
+      "translation": "Italics",
+      "grammar": "The phrase \"Italique\" is an interjection, used to emphasize the importance of using italics in writing."
+    },
+    {
+      "time": 15.245100000023841,
+      "text": "J'entends toujours le son de ta voix",
+      "translation": "I can still hear the sound of your voice",
+      "grammar": "The use of \"j'entends\" (I can still hear) in the present perfect tense indicates that the speaker is emphasizing their ongoing ability to hear the sound, rather than a specific moment in the past."
+    },
+    {
+      "time": 17.77270000001788,
+      "text": "Qui m'invite, mon amour",
+      "translation": "Who's inviting me, my love?",
+      "grammar": "The phrase \"Qui m'invite\" is an idiomatic expression using the present participle of the verb \"inviter\" in the passive voice to convey the idea of being invited."
+    },
+    {
+      "time": 26.5935,
+      "text": "I've been away",
+      "translation": "I've been away",
+      "grammar": "This line uses the present perfect tense to indicate a completed action in the past with ongoing consequences, emphasizing the duration of being away."
+    },
+    {
+      "time": 26.59530000001192,
+      "text": "And now I'm back to you",
+      "translation": "And now I'm back to you",
+      "grammar": "This line uses the present continuous tense (I'm) to express a return or reconnection, which is a common idiomatic expression in English."
+    },
+    {
+      "time": 26.5965,
+      "text": "C'est animal",
+      "translation": "It's animalistic.",
+      "grammar": "The phrase \"C'est\" is a contraction of \"ce est,\" which indicates a subject-verb agreement in the present tense, equivalent to saying \"it is.\" This idiomatic expression is used to emphasize or describe something as being wild or untamed."
+    },
+    {
+      "time": 28.36040000000596,
+      "text": "You make me feel good",
+      "translation": "You make me feel good",
+      "grammar": "This line uses the present tense and imperative mood to express a direct instruction or command, with the idiomatic phrase \"make someone feel\" conveying a positive emotional impact."
+    },
+    {
+      "time": 30.26479999998212,
+      "text": "Ta main sur ma taille",
+      "translation": "Your hand on my waist",
+      "grammar": "This idiomatic expression uses the possessive adjective \"ma\" (my) to indicate a close physical proximity, emphasizing intimacy and possession."
+    },
+    {
+      "time": 32.528,
+      "text": "Ensemble dans le taxi",
+      "translation": "Together in the taxi",
+      "grammar": "This idiomatic expression uses the present participle \"ensemble\" to convey simultaneous action, equivalent to \"together\" in English."
+    },
+    {
+      "time": 35.26559999999404,
+      "text": "C'est vraiment super sexy",
+      "translation": "It's really super sexy",
+      "grammar": "The phrase \"c'est\" is used to indicate a subjective opinion, equivalent to \"it's\" in English. Note that the adjective \"super\" intensifies the meaning of \"sexy\"."
+    },
+    {
+      "time": 36.866199999988076,
+      "text": "You make me feel nice",
+      "translation": "You make me feel nice",
+      "grammar": "This line uses the present simple tense to express a habitual or general feeling, and the idiomatic phrase \"make someone feel\" to convey a positive emotional state."
+    },
+    {
+      "time": 38.97369999998808,
+      "text": "Frissons everytime",
+      "translation": "Chills every time",
+      "grammar": "This idiomatic expression uses the present participle \"-ing\" form to convey a habitual or repeated action, indicating a frequent experience of feeling chills."
+    },
+    {
+      "time": 41.15159999999404,
+      "text": "J'y ai pensé mille fois",
+      "translation": "I've thought about it a thousand times.",
+      "grammar": "The phrase \"j'y ai pensé\" is an idiomatic expression in French, using the informal pronoun \"y\" to indicate the location where one has thought or considered something. This construction is often translated as \"I've thought about it\" rather than literally \"I've thought there\"."
+    },
+    {
+      "time": 43.45179999998212,
+      "text": "If you want me, dis-le-moi",
+      "translation": "If you want me, tell me",
+      "grammar": "The phrase \"dis-le-moi\" is an idiomatic expression in French, literally meaning \"tell it to me\", but figuratively conveying the idea of sharing one's thoughts or feelings with someone. The imperative verb \"dis\" (tell) is used in the informal tone, indicating a sense of intimacy and familiarity between the speaker and listener."
+    },
+    {
+      "time": 45.408099999994036,
+      "text": "You make me feel good",
+      "translation": "You make me feel good",
+      "grammar": "This line illustrates a common idiomatic expression in English, where \"make\" is used to indicate an emotional effect rather than a physical action. The sentence is in the present tense and expresses a state of being."
+    },
+    {
+      "time": 49.77789999997616,
+      "text": "You make me feel good, ah-ah-ah",
+      "translation": "You make me feel good, ah-ah-ah",
+      "grammar": "The phrase \"make someone feel something\" is an idiomatic expression indicating a positive emotional impact. The verb \"make\" is in the present tense, describing a habitual or general sense of feeling."
+    },
+    {
+      "time": 53.97939999997616,
+      "text": "You make me feel good",
+      "translation": "You make me feel good",
+      "grammar": "This sentence is in the present tense, using the verb \"make\" to express a habitual or general feeling. The phrase \"make me feel\" is an idiom that conveys a sense of emotional impact."
+    },
+    {
+      "time": 58.33569999998808,
+      "text": "You make me feel good, ah-ah-ah",
+      "translation": "You make me feel good, ah-ah-ah",
+      "grammar": "The phrase \"make someone feel something\" is an idiomatic expression indicating a positive emotional impact. The verb \"make\" is in the present tense, describing a general or habitual action."
+    },
+    {
+      "time": 62.57169999998808,
+      "text": "On arrive à la falaise",
+      "translation": "We arrive at the cliff",
+      "grammar": "The phrase \"On arrive\" is in the present tense, indicating a planned or scheduled arrival, rather than an actual one. Note that \"on\" is used as a first-person plural pronoun equivalent to \"we\"."
+    },
+    {
+      "time": 66.45309999999404,
+      "text": "Iconique",
+      "translation": "Iconic",
+      "grammar": "The adjective \"iconique\" is used to describe something that has a strong and lasting impact, often in a cultural or artistic sense. In this context, the verb tense is present perfect, emphasizing the enduring nature of the icon's influence."
+    },
+    {
+      "time": 67.22569999998808,
+      "text": "Plus il y a de danger, plus je me sens à l'aise",
+      "translation": "The more danger there is, the more comfortable I feel.",
+      "grammar": "This idiomatic expression illustrates the use of the subjunctive mood in French to describe a hypothetical situation, where \"il y a\" (there is) indicates a subjective notion of danger rather than an objective fact."
+    },
+    {
+      "time": 69.89959999999404,
+      "text": "Ironique",
+      "translation": "Ironic",
+      "grammar": "This interjection uses the adjective ironic to convey a sense of unexpected or contradictory circumstances, often with a hint of irony or sarcasm."
+    },
+    {
+      "time": 71.49529999998212,
+      "text": "Et j'ai pensé mourir avec toi",
+      "translation": "And I thought I would die with you",
+      "grammar": "The phrase \"j'ai pensé\" is in the imperfect tense, indicating a completed action in the past that had a significant impact on the present. The use of \"penser\" (to think) in this context also implies a strong emotional connection between the speaker and the person they're addressing."
+    },
+    {
+      "time": 74.09,
+      "text": "Cyanide",
+      "translation": "Cyanide",
+      "grammar": "This interjection uses the same form in both French and English, conveying a strong sense of disgust or revulsion."
+    },
+    {
+      "time": 75.77819999998808,
+      "text": "J'entends toujours le son de ta voix",
+      "translation": "I can still hear the sound of your voice",
+      "grammar": "The use of \"j'entends\" (I can still hear) in the present perfect tense indicates that the speaker is emphasizing their ongoing experience of hearing the other person's voice, rather than a completed action."
+    },
+    {
+      "time": 78.43979999998211,
+      "text": "Qui m'invite, mon amour",
+      "translation": "Who's inviting me, my love?",
+      "grammar": "The phrase \"Qui m'invite\" uses the informal \"tu\" form of the verb \"inviter\" with the reflexive pronoun \"m'\" to create a possessive meaning, equivalent to \"who is inviting me\"."
+    },
+    {
+      "time": 86.5345,
+      "text": "I've been away",
+      "translation": "I've been away",
+      "grammar": "This line uses the present perfect tense to indicate a completed action in the past with ongoing consequences, conveying a sense of duration and connection to the present."
+    },
+    {
+      "time": 86.53609999999404,
+      "text": "And now I'm back to you",
+      "translation": "And now I'm back to you",
+      "grammar": "This line uses the present continuous tense (I'm) to express a return or reunion, which is a common idiomatic expression in English."
+    },
+    {
+      "time": 86.53719999998808,
+      "text": "C'est animal",
+      "translation": "It's animalistic.",
+      "grammar": "The phrase \"C'est\" is a contraction of \"ce est,\" which translates to \"it is,\" and indicates that what follows is a noun or an adjective. In this context, it sets the tone for the idiomatic expression \"animal,\" emphasizing its intensity rather than its literal meaning."
+    },
+    {
+      "time": 88.81519999998808,
+      "text": "You make me feel good",
+      "translation": "You make me feel good",
+      "grammar": "This line uses the present tense to express a general feeling, with the verb \"make\" in the passive voice indicating the speaker's emotional state. The phrase is an idiom that conveys a positive emotional response."
+    },
+    {
+      "time": 91.00069999998809,
+      "text": "Ta main sur ma taille",
+      "translation": "Your hand on my waist",
+      "grammar": "This idiomatic expression uses the possessive adjective \"ma\" (my) to indicate a close physical proximity, emphasizing intimacy and possession."
+    },
+    {
+      "time": 93.11289999997616,
+      "text": "Ensemble dans le taxi",
+      "translation": "Together in the taxi",
+      "grammar": "This idiomatic expression uses the present participle \"ensemble\" to convey simultaneous action, equivalent to \"together\" in English."
+    },
+    {
+      "time": 95.1205,
+      "text": "C'est vraiment super sexy",
+      "translation": "It's really super sexy",
+      "grammar": "The phrase \"c'est\" is used to indicate a subjective opinion, equivalent to \"it's\" in English. The adjective \"sexy\" is used idiomatically to convey a strong positive impression."
+    },
+    {
+      "time": 97.428,
+      "text": "You make me feel nice",
+      "translation": "You make me feel nice",
+      "grammar": "This line uses the present simple tense to express a habitual or general feeling, and the phrase \"make someone feel\" is an idiom that means to cause someone to have a certain emotion."
+    },
+    {
+      "time": 99.53369999998807,
+      "text": "Frissons every time",
+      "translation": "Chills every time",
+      "grammar": "This idiomatic expression uses the present participle \"every time\" to convey a habitual or repeated action, rather than a specific point in time."
+    },
+    {
+      "time": 101.71529999998212,
+      "text": "J'y ai pensé mille fois",
+      "translation": "I've thought about it a thousand times.",
+      "grammar": "The phrase \"j'y ai pensé\" is an idiomatic expression using the passé composé tense, literally meaning \"I have thought there\" but implying \"I've thought about it\"."
+    },
+    {
+      "time": 103.53309999999404,
+      "text": "If you want me, dis-le-moi",
+      "translation": "If you want me, tell me",
+      "grammar": "This line uses the informal imperative mood to convey a sense of urgency and intimacy. The phrase \"dis-le-moi\" is an idiomatic expression that roughly translates to \"tell me\" in English, emphasizing the speaker's desire for immediate communication."
+    },
+    {
+      "time": 106.45789999997616,
+      "text": "You make me feel good",
+      "translation": "You make me feel good",
+      "grammar": "This line uses the present tense to express a habitual or general feeling, and the phrase \"make someone feel\" is an idiom that means to cause someone to have a particular emotional state."
+    },
+    {
+      "time": 108.55489999997616,
+      "text": "Ta main sur ma taille",
+      "translation": "Your hand on my waist",
+      "grammar": "The phrase \"Ta main\" is an idiomatic expression used to address someone in a familiar or intimate manner, equivalent to saying \"your\" in English."
+    },
+    {
+      "time": 110.42029999998212,
+      "text": "Ensemble dans le taxi",
+      "translation": "Together in the taxi",
+      "grammar": "This idiomatic expression uses the present participle \"ensemble\" to convey simultaneous action, implying a shared experience."
+    },
+    {
+      "time": 112.41329999998212,
+      "text": "C'est vraiment super sexy",
+      "translation": "It's really super sexy",
+      "grammar": "The phrase \"c'est\" is used to express a subjective opinion, indicating that the speaker finds something appealing. It is equivalent to saying \"it's really\" in English, but with a more informal tone."
+    },
+    {
+      "time": 114.5465,
+      "text": "You make me feel nice",
+      "translation": "You make me feel nice",
+      "grammar": "This line uses the present simple tense to express a habitual or general feeling, with the verb \"make\" in its causative sense, implying that the speaker's emotional state is influenced by someone else."
+    },
+    {
+      "time": 116.68079999998211,
+      "text": "Frissons every time",
+      "translation": "Chills every time",
+      "grammar": "This idiomatic expression uses the present participle \"every time\" to convey a habitual or repeated action, implying that the speaker experiences chills each time they encounter something."
+    },
+    {
+      "time": 118.96219999998807,
+      "text": "J'y ai pensé mille fois",
+      "translation": "I've thought about it a thousand times.",
+      "grammar": "The phrase \"j'y ai pensé\" is an idiomatic expression using the present perfect tense to convey that the speaker has had multiple thoughts or reflections on the topic, with \"mille fois\" emphasizing the frequency."
+    },
+    {
+      "time": 121.39879999998212,
+      "text": "If you want me, dis-le-moi",
+      "translation": "If you want me, tell me",
+      "grammar": "This line uses the informal imperative mood to convey a sense of urgency and intimacy. The phrase \"dis-le-moi\" is an idiomatic expression that roughly translates to \"tell me\" in English, but it's more like saying \"come on, tell me\" or \"hurry up and tell me\"."
+    },
+    {
+      "time": 123.25089999997616,
+      "text": "You make me feel good",
+      "translation": "You make me feel good",
+      "grammar": "This line illustrates a common idiomatic expression in English, where \"make\" is used to indicate an emotional effect rather than a physical action. The sentence is in the present tense and expresses a speaker's subjective experience."
+    },
+    {
+      "time": 125.463,
+      "text": "Ta main sur ma taille",
+      "translation": "Your hand on my waist",
+      "grammar": "This idiomatic expression uses the possessive adjective \"ma\" to indicate a close, intimate relationship between the speaker and the person whose hand is on their waist."
+    },
+    {
+      "time": 127.687,
+      "text": "Ensemble dans le taxi",
+      "translation": "Together in the taxi",
+      "grammar": "The phrase \"Ensemble\" is an adverb indicating simultaneous action, equivalent to \"together\" or \"at the same time\". It's used to describe a shared experience or activity."
+    },
+    {
+      "time": 129.71839999997616,
+      "text": "C'est vraiment super sexy",
+      "translation": "It's really super sexy",
+      "grammar": "The phrase \"c'est\" is used to indicate a subjective opinion, equivalent to saying \"it seems to me that\". The verb \"être\" (to be) is implied but not explicitly stated, making it an example of the French idiomatic expression \"c'est + adjective\", which translates to \"it's + adjective\" in English."
+    },
+    {
+      "time": 131.87119999998808,
+      "text": "You make me feel nice",
+      "translation": "You make me feel nice",
+      "grammar": "This line uses the present simple tense to express a general truth or habitual action, and the idiomatic phrase \"make someone feel\" to convey a positive emotional state."
+    },
+    {
+      "time": 134.10419999998808,
+      "text": "Frissons every time",
+      "translation": "Chills every time",
+      "grammar": "This idiomatic expression uses the present participle \"every time\" to convey a habitual or repeated action, implying that the speaker experiences chills each time they encounter something."
+    },
+    {
+      "time": 136.28439999997616,
+      "text": "J'y ai pensé mille fois",
+      "translation": "I've thought about it a thousand times.",
+      "grammar": "The phrase \"j'y ai pensé\" is an idiomatic expression using the passé composé tense, where \"j'y\" is a contraction of \"je suis venu\" meaning \"I have come to\"."
+    },
+    {
+      "time": 143.68639999997615,
+      "text": "If you want me, dis-le-moi",
+      "translation": "If you want me, tell me",
+      "grammar": "This line uses the informal imperative mood to convey a sense of urgency and intimacy, with \"dis-le-moi\" being an idiomatic expression that roughly translates to \"tell me\" in English. The use of \"dis-\" (meaning \"this\" or \"such\") adds a touch of informality and emphasis to the phrase."
+    },
+    {
+      "time": 143.71239999997616,
+      "text": "You make me feel good",
+      "translation": "You make me feel good",
+      "grammar": "This line uses the present simple tense to express a general truth about someone's effect on the speaker, and the idiomatic phrase \"make someone feel\" conveys a positive emotional impact."
+    },
+    {
+      "time": 144.92759999999404,
+      "text": "You make me feel good, ah-ah-ah",
+      "translation": "You make me feel good, ah-ah-ah",
+      "grammar": "The phrase \"make someone feel\" is an idiom that expresses a positive emotional impact on the person. The verb \"make\" is in the present tense, indicating a general or habitual effect."
+    },
+    {
+      "time": 149.18469999998808,
+      "text": "You make me feel good",
+      "translation": "You make me feel good",
+      "grammar": "This line uses the present tense to express a habitual or general feeling, and the idiom \"make someone feel\" conveys a positive emotional impact."
+    },
+    {
+      "time": 153.4855,
+      "text": "You make me feel good",
+      "translation": "You make me feel good",
+      "grammar": "This line uses the present tense to express a general feeling, and the idiom \"make someone feel\" conveys a positive emotional impact."
+    },
+    {
+      "time": 157.046,
+      "text": "Good",
+      "translation": "Good",
+      "grammar": "This interjection \"Good\" is used to express approval or agreement, and its meaning remains consistent across different contexts."
+    }
+  ]
+}

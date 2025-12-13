@@ -1,0 +1,332 @@
+{
+  "id": "fr_gims_damso_tu_me_rends_bete",
+  "title": "Tu me rends bête (excerpt)",
+  "artist": "Gims & Damso",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_gims_damso_tu_me_rends_bete.mp3",
+  "duration": 230,
+  "is_excerpt": true,
+  "licensing_note": "User-provided excerpt. To complete, add licensed full lyrics locally.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Mmh, mmh",
+      "translation": "Mmh, mmh",
+      "grammar": "This interjection \"Mmh\" is an informal expression of agreement or confirmation in French, often used to show understanding or empathy."
+    },
+    {
+      "time": 1.238,
+      "text": "Viens dans mes bras, viens",
+      "translation": "Come into my arms, come",
+      "grammar": "The imperative verb \"viens\" is in the second person singular, addressing a single person to come into your arms. The repeated phrase creates an intimate and inviting atmosphere, emphasizing the urgency of the request."
+    },
+    {
+      "time": 3.884,
+      "text": "Viens dans mes bras, parle-moi tout doucement",
+      "translation": "Come into my arms, speak to me very softly",
+      "grammar": "The verb \"parle-moi\" is in the imperative mood, used to give a command or make a request. The pronoun \"moi\" is an object pronoun and agrees with the subject \"vous\" (you) in the implied sentence."
+    },
+    {
+      "time": 7.937,
+      "text": "Viens dans mes bras, viens dans mes bras",
+      "translation": "Come into my arms, come into my arms",
+      "grammar": "The imperative mood is used to express a direct command or request, as in \"viens\" and \"viens\", which are repeated for emphasis. The use of the same verb form with different pronouns (\"mes bras\") emphasizes possession and intimacy."
+    },
+    {
+      "time": 11.99,
+      "text": "Et parle-moi tout doucement",
+      "translation": "And speak to me very softly",
+      "grammar": "The phrase \"parle-moi\" is an idiomatic expression that uses the informal \"tu\" form of the verb \"parler\" and the pronoun \"moi\" to convey a sense of intimacy, emphasizing the speaker's desire for gentle communication."
+    },
+    {
+      "time": 14.636,
+      "text": "J'osais pas te le dire, tu me rends bête",
+      "translation": "I didn't dare tell you, you make me feel stupid",
+      "grammar": "The phrase \"j'osais pas\" is an idiomatic expression in the present perfect tense, indicating the speaker's reluctance to do something. The verb \"osai\" is in the conditional imperfect tense, implying a hypothetical situation."
+    },
+    {
+      "time": 19.628,
+      "text": "J'veux revoir ton sourire donc, je m'endette",
+      "translation": "I want to see your smile again, so I'm going into debt.",
+      "grammar": "The phrase \"je m'endette\" is an idiomatic expression meaning \"to go into debt\", using the reflexive pronoun \"me\" to emphasize the speaker's willingness to take on financial risk."
+    },
+    {
+      "time": 24.15,
+      "text": "Pense à moi (quand ça va), n'oublie pas (n'oublie pas)",
+      "translation": "Think of me (when things are going well), don't forget (don't forget)",
+      "grammar": "The use of \"quand ça va\" is an idiomatic expression indicating a condition for thinking about someone, whereas \"n'oublie pas\" is an imperative sentence with a repetitive particle emphasizing the importance of not forgetting."
+    },
+    {
+      "time": 30.08,
+      "text": "Que j'étais là (j'étais là) quand ça n'allait pas (ah, ah)",
+      "translation": "That I was there (I was there) when things weren't going well (ah, ah)",
+      "grammar": "The use of the past imperfect tense \"j'étais\" emphasizes the ongoing nature of the situation, implying that the speaker's presence was a constant factor throughout. The repeated phrase \"j'étais là\" also serves as an idiomatic expression to stress the importance of being present at a particular moment."
+    },
+    {
+      "time": 36.948,
+      "text": "Ah, ah, ah, ah, ah, ah, ah, ah",
+      "translation": "Ah, ah, ah, ah, ah, ah, ah, ah",
+      "grammar": "This line is an example of a repeated interjection, used to express strong emotions or emphasis. The use of the same phrase multiple times creates a sense of rhythm and emphasizes the speaker's feelings."
+    },
+    {
+      "time": 41.001,
+      "text": "Ah, ah, ah, ah, ah, tu me rends bête",
+      "translation": "Ha, ha, ha, ha, ha, you're making me stupid",
+      "grammar": "The use of \"ah\" and the repetition of \"tu me rends\" creates an idiomatic expression conveying strong emotions, emphasizing the speaker's frustration. The imperative mood and informal tone convey a sense of exasperation."
+    },
+    {
+      "time": 45.523,
+      "text": "J'vais quitter l'Europe, j'monte dans l'avion",
+      "translation": "I'm leaving Europe, I'm getting on the plane",
+      "grammar": "This line uses the informal \"je vais\" construction to express future intention, equivalent to \"I'm going to\" in English. The use of \"j'\" instead of \"je\" is a common spoken French idiom, similar to dropping the \"g\" from \"going to\"."
+    },
+    {
+      "time": 50.515,
+      "text": "Je chеcke le pilote, j'bloque",
+      "translation": "I'm checking the driver, I'm stuck",
+      "grammar": "The phrase \"j'bloque\" is an idiomatic expression meaning \"to be stuck\" or \"to be in a difficult situation\", using the verb bloquer in the present tense to convey a sense of being trapped."
+    },
+    {
+      "time": 53.63,
+      "text": "J't'ai vue à l'avant dans la rame",
+      "translation": "I saw you at the front of the train.",
+      "grammar": "The informal pronoun \"j'\" is used to indicate a familiar relationship with the listener, and the verb \"vue\" is in the passé composé tense, indicating that the action happened before the moment of speaking."
+    },
+    {
+      "time": 58.621,
+      "text": "J'me canalise pas, faut qu'je te parle (han, han, han)",
+      "translation": "I can't control myself, I need to talk to you (han, han, han)",
+      "grammar": "The phrase \"j'me\" is a casual, informal way of saying \"je me\" in French, used to emphasize the speaker's emotional state. The verb \"canalise\" is in the present tense and has an idiomatic meaning of losing control or being overwhelmed."
+    },
+    {
+      "time": 64.551,
+      "text": "Porsche Carrera, j'frappe fort comme Pereira",
+      "translation": "Porsche Carrera, I hit hard like Pereira",
+      "grammar": "The phrase \"j'frappe fort\" is an idiomatic expression meaning \"I'm doing something well\" or \"I excel at something\", using the informal \"je\" and the verb \"frapper\" in its figurative sense."
+    },
+    {
+      "time": 68.135,
+      "text": "Grosse caille-ra, toi et moi devant les caméras",
+      "translation": "You and me, you big thug, in front of the cameras",
+      "grammar": "The phrase \"caille-ra\" is an idiomatic expression used to address someone informally, with a tone of familiarity and even mockery. The use of \"toi\" instead of \"vous\" emphasizes the informal nature of the interaction."
+    },
+    {
+      "time": 72.657,
+      "text": "Viens dans mes bras, dans mes draps, sur Telegram",
+      "translation": "Come into my arms, into my sheets, on Telegram",
+      "grammar": "The phrase \"Viens dans mes bras\" is an idiomatic expression that uses the imperative mood to convey a sense of intimacy and invitation. The verb \"viens\" is in the second person singular form, indicating direct address to someone."
+    },
+    {
+      "time": 77.179,
+      "text": "Tu s'ras à moi quand l'avion atterrira",
+      "translation": "You'll be mine when the plane lands",
+      "grammar": "The phrase \"Tu s'ras\" is a future tense construction, using the verb \"être\" in the subjunctive mood to express a hypothetical or uncertain situation. The pronoun \"tu\" agrees with the subject of the sentence, indicating a direct address."
+    },
+    {
+      "time": 81.702,
+      "text": "Donc, on s'évade, on s'efface, j'fais pas de vagues",
+      "translation": "So, we escape, we disappear, I don't make waves",
+      "grammar": "The use of \"on\" instead of \"je\" or \"nous\" to refer to the speaker's actions is an idiomatic expression in French, indicating a casual and informal tone."
+    },
+    {
+      "time": 87.632,
+      "text": "J'fais pas de blagues, j'vais bientôt t'passer la bague",
+      "translation": "I'm not joking, I'm going to put the ring on you soon",
+      "grammar": "The phrase \"j'vais\" is a colloquial way of saying \"I'm going to\" in informal situations, often used with friends or acquaintances. The verb \"passer la bague\" is an idiomatic expression meaning \"to get married\", implying a romantic commitment."
+    },
+    {
+      "time": 93.561,
+      "text": "Ça faisait longtemps qu'toi et moi, on n's'était pas brouillé comme ça",
+      "translation": "It's been a long time since you and I had such a falling out.",
+      "grammar": "The use of \"faisait\" instead of \"fait\" indicates the past perfect tense, emphasizing that the period without conflict was longer than just the duration of the conflict itself. The phrase \"Ça faisait longtemps\" is an idiomatic expression equivalent to \"It's been a long time\"."
+    },
+    {
+      "time": 100.898,
+      "text": "C'est pour ça qu'on se débat",
+      "translation": "That's why we're struggling",
+      "grammar": "The phrase \"c'est pour ça\" is an idiomatic expression translating to \"that's why\", using the subjunctive mood to indicate a reason or explanation, which is common in French."
+    },
+    {
+      "time": 104.952,
+      "text": "J'osais pas te le dire (oh, la, la), tu me rends bête (oh, la, la)",
+      "translation": "I didn't dare tell you (oh, la, la), you make me stupid (oh, la, la)",
+      "grammar": "The use of the verb \"osais\" in the present perfect tense (\"j'osais pas\") indicates a past action that has relevance to the present moment. The idiomatic expression \"te le dire\" is an informal way to say \"to tell you something\"."
+    },
+    {
+      "time": 112.758,
+      "text": "J'veux revoir ton sourire (oh, la, la), donc je m'endette",
+      "translation": "I want to see your smile again (oh, la, la), so I'm going into debt",
+      "grammar": "The use of \"j'veux\" instead of \"je veux\" is an informal idiomatic expression, common in spoken French, which conveys a sense of urgency and intimacy."
+    },
+    {
+      "time": 118.688,
+      "text": "Pense à moi (quand ça va), n'oublie pas (n'oublie pas)",
+      "translation": "Think of me (when things are going well), don't forget (don't forget)",
+      "grammar": "The use of \"quand ça va\" is an idiomatic expression meaning \"when things are going well\", indicating a conditional relationship between the speaker's thoughts and the listener's circumstances."
+    },
+    {
+      "time": 124.618,
+      "text": "Que j'étais là (j'étais là) quand ça n'allait pas (ah, ah)",
+      "translation": "That I was there (I was there) when things weren't going well (ah, ah)",
+      "grammar": "The use of the imperfect tense \"j'étais là\" emphasizes the ongoing nature of being present at a particular moment in the past."
+    },
+    {
+      "time": 131.486,
+      "text": "Ah, ah, ah, ah, ah, ah, ah, ah",
+      "translation": "Ah, ah, ah, ah, ah, ah, ah, ah",
+      "grammar": "This line is an example of onomatopoeia, a figure of speech that imitates the sound it describes. The repeated \"ah\" sounds create a sense of rhythm and emphasize the speaker's emotional response."
+    },
+    {
+      "time": 135.539,
+      "text": "Ah, ah, ah, ah, ah, tu me rends bête",
+      "translation": "Ha, ha, ha, ha, ha, you're making me stupid",
+      "grammar": "The use of \"ah\" and \"tu\" in this line is an informal, playful idiom, often used to express frustration or annoyance, with the speaker's tone conveyed through the repetition of \"ah\". The verb \"rends\" is in the present tense, indicating a continuous action."
+    },
+    {
+      "time": 140.061,
+      "text": "Dems, RDC, Palestine",
+      "translation": "Dems, DRC, Palestine",
+      "grammar": "This phrase is an idiomatic expression, where \"Dems\" is a shortened form of \"Democrats\", used to refer to the political party in the United States. The use of \"DRC\" instead of \"Democratic Republic of Congo\" suggests that the speaker is using informal language and abbreviations to convey their message."
+    },
+    {
+      "time": 141.768,
+      "text": "Agressé, pas d'estime",
+      "translation": "Attacked, no self-respect",
+      "grammar": "The phrase \"Agressé, pas d'estime\" uses the present participle \"agressé\" to convey a sense of ongoing or continuous action, emphasizing the speaker's emotional state. The idiomatic expression \"pas d'estime\" translates to \"no self-respect\", implying a loss of dignity and confidence."
+    },
+    {
+      "time": 143.945,
+      "text": "Le sang se vide, j'sais plus quoi dire",
+      "translation": "My blood is draining away, I don't know what to say anymore",
+      "grammar": "The phrase \"j'sais\" is a casual, informal way of saying \"je sais\" (I know) in French, often used in spoken language. The apostrophe replaces the silent \"e\" at the end of the verb \"saisir\"."
+    },
+    {
+      "time": 148.467,
+      "text": "Nan, j'comprends pas tes streams",
+      "translation": "No, I don't understand your streams.",
+      "grammar": "The phrase \"j'comprends\" is in the present tense and uses the informal \"je\" instead of formal \"on\" to show empathy and familiarity with the speaker."
+    },
+    {
+      "time": 151.582,
+      "text": "Nan, j'comprends pas tes streams",
+      "translation": "No, I don't understand your streams.",
+      "grammar": "The phrase \"j'comprends\" is in the present tense and uses the informal \"je\" instead of formal \"on\" to emphasize the speaker's personal lack of understanding."
+    },
+    {
+      "time": 154.697,
+      "text": "On dit qu'la Chine t'a vue grandir",
+      "translation": "They say China watched you grow up",
+      "grammar": "The phrase \"on dit\" is an idiomatic expression used to introduce a piece of gossip or rumor, and the verb \"vue\" is in the passive voice, indicating that China is being described as having witnessed the speaker's growth."
+    },
+    {
+      "time": 159.219,
+      "text": "Damso, Meuguiwarano",
+      "translation": "Damso, Meuguiwarano",
+      "grammar": "This line appears to be a vocative phrase, with \"Damso\" and \"Meuguiwarano\" functioning as names or titles, likely used to address someone. The sentence is in the imperative mood, implying a command or exhortation."
+    },
+    {
+      "time": 160.458,
+      "text": "J'veux son body sans l'anneau",
+      "translation": "I want her body without the ring",
+      "grammar": "The use of \"j'veux\" instead of \"je veux\" is an informal, colloquial expression, typical in spoken French, which conveys a sense of urgency and intimacy. The verb tense remains present simple, emphasizing the speaker's desire."
+    },
+    {
+      "time": 164.042,
+      "text": "Comme Hakimi, maman signe",
+      "translation": "Like Hakimi, Mom signs",
+      "grammar": "This idiomatic expression uses the verb \"signe\" in the present tense to convey a habitual or general sense of signing, rather than a specific instance."
+    },
+    {
+      "time": 166.218,
+      "text": "J'osais pas te le dire, tu me rends bête",
+      "translation": "I didn't dare tell you, you make me feel stupid",
+      "grammar": "The phrase \"j'osais pas\" is a colloquial way to express the present tense of the verb \"oser\" (to dare) in the negative, equivalent to \"je ne sais pas osé dire\" (I don't dare say). The idiomatic expression \"tu me rends bête\" literally means \"you make me go crazy\", but figuratively conveys that someone's behavior or words are embarrassing or humiliating."
+    },
+    {
+      "time": 171.21,
+      "text": "J'veux revoir ton sourire, donc je m'endette",
+      "translation": "I want to see your smile again, so I'm going into debt.",
+      "grammar": "The use of \"j'veux\" instead of \"je veux\" is an informal idiom in French, equivalent to \"I'd love to\" or \"I really want to\"."
+    },
+    {
+      "time": 175.732,
+      "text": "Pense à moi (quand ça va), n'oublie pas (n'oublie pas)",
+      "translation": "Think of me (when things are going well), don't forget (don't forget)",
+      "grammar": "The use of \"quand ça va\" is an idiomatic expression indicating a condition or circumstance, equivalent to \"when things are going well\". The repeated \"n'oublie pas\" emphasizes the importance of remembering."
+    },
+    {
+      "time": 181.662,
+      "text": "Que j'étais là (que j'étais là) quand ça n'allait pas (ah, ah)",
+      "translation": "That I was there (that I was there) when things weren't going well (ah, ah)",
+      "grammar": "The use of the past imperfect tense \"j'étais\" emphasizes a prolonged state or action in the past, highlighting the speaker's presence at a specific moment. The repetition of \"que j'étais là\" creates an idiomatic expression emphasizing the speaker's personal experience."
+    },
+    {
+      "time": 188.999,
+      "text": "Ah, ah, ah, ah, ah, ah, ah, ah, tu me rends bête",
+      "translation": "Ah, ah, ah, ah, ah, ah, ah, you're making me stupid",
+      "grammar": "The repeated \"ah\" is an interjection expressing strong emotions, while the phrase \"tu me rends bête\" uses the informal \"tu\" and agrees with \"me\" in number and person, emphasizing the speaker's personal experience."
+    },
+    {
+      "time": 194.929,
+      "text": "Ah, ah, ah, ah, ah, tu me rends bête",
+      "translation": "Ha, ha, ha, ha, ha, you're making me stupid",
+      "grammar": "The repeated \"ah\" interjections convey strong emotions and emphasize the speaker's frustration, while the verb \"rends\" is in the present tense, indicating a current state of being made to feel foolish."
+    },
+    {
+      "time": 199.451,
+      "text": "Tu me rends bête, donc je m'endette",
+      "translation": "You make me stupid, so I go into debt.",
+      "grammar": "The phrase \"Tu me rends bête\" is an idiomatic expression that uses the present tense to convey a sense of habitual or repeated action, rather than a specific past event. The pronoun \"me\" agrees with the subject \"tu\" in the indirect object position."
+    },
+    {
+      "time": 203.504,
+      "text": "Ah, ah, ah, ah, ah, ah, ah, ah",
+      "translation": "Ah, ah, ah, ah, ah, ah, ah, ah",
+      "grammar": "This line is an example of onomatopoeia, a figure of speech that imitates the sound it describes. The repeated \"ah\"s convey excitement and emphasis, with no grammatical significance in terms of tense, aspect, or mood."
+    },
+    {
+      "time": 207.558,
+      "text": "Ah, ah, ah, ah, ah",
+      "translation": "Ah, ah, ah, ah, ah",
+      "grammar": "This interjection is an expression of excitement or emphasis, often used to punctuate a statement or draw attention. The repeated \"ah\"s create a sense of rhythm and emphasize the speaker's emotions."
+    },
+    {
+      "time": 210.203,
+      "text": "Ah, ah, ah, ah, ah, ah, ah, ah",
+      "translation": "Ah, ah, ah, ah, ah, ah, ah, ah",
+      "grammar": "This line is an example of a repeated interjection in the present tense, used to express excitement or emphasis. The repetition of \"ah\" creates a sense of rhythm and emphasizes the speaker's emotions."
+    },
+    {
+      "time": 214.256,
+      "text": "Ah, ah, ah, ah, ah",
+      "translation": "Ah, ah, ah, ah, ah",
+      "grammar": "This interjection is an expression of excitement or emphasis, often used to punctuate a statement or draw attention. The repeated \"ah\"s convey a sense of enthusiasm and playfulness."
+    },
+    {
+      "time": 216.902,
+      "text": "Ah, ah, ah, ah, ah, ah, ah, ah",
+      "translation": "Ah, ah, ah, ah, ah, ah, ah, ah",
+      "grammar": "This interjection is an example of a repetitive phrase used to express strong emotions or emphasis, with no specific tense or aspect implications."
+    },
+    {
+      "time": 220.955,
+      "text": "Ah, ah, ah, ah, ah",
+      "translation": "Ah, ah, ah, ah, ah",
+      "grammar": "This interjection is an expression of excitement or emphasis, often used to punctuate a statement or draw attention. The repetition of \"ah\" emphasizes the speaker's enthusiasm and creates a sense of rhythm."
+    },
+    {
+      "time": 223.601,
+      "text": "Ah, ah, ah, ah, ah, ah, ah, ah",
+      "translation": "Ah, ah, ah, ah, ah, ah, ah, ah",
+      "grammar": "This interjection is an expression of excitement or emphasis, using repetition to convey strong emotions. The repeated \"ah\"s are a common idiomatic way to show enthusiasm in English."
+    },
+    {
+      "time": 227.654,
+      "text": "Ah, ah, ah, ah, ah",
+      "translation": "Ah, ah, ah, ah, ah",
+      "grammar": "This interjection is an expression of excitement or emphasis, often used to punctuate a statement or draw attention. Its repetitive structure and rising intonation create a sense of urgency or enthusiasm."
+    }
+  ]
+}

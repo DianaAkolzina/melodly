@@ -1,0 +1,241 @@
+{
+  "id": "fr_la_vie_en_rose",
+  "title": "La vie en rose",
+  "artist": "Édith Piaf",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_la_vie_en_rose.mp3",
+  "duration": 114,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Des yeux qui font baisser les miens",
+      "translation": "The eyes that make mine lower",
+      "grammar": "The verb 'font' is in the present tense and agrees with the subject 'yeux' (eyes) in number and gender."
+    },
+    {
+      "time": 3.0,
+      "text": "Un rire qui se perd sur sa bouche",
+      "translation": "A laugh that gets lost on her mouth",
+      "grammar": "The verb 'se perd' is in the present tense and agrees with the subject 'rire' (laugh) in number and gender."
+    },
+    {
+      "time": 6.0,
+      "text": "Voila le portrait sans retouche",
+      "translation": "There it is, the portrait without retouching",
+      "grammar": "The phrase 'Voilà' is an interjection used to draw attention or emphasize a point."
+    },
+    {
+      "time": 9.0,
+      "text": "De l'homme auquel j'appartiens",
+      "translation": "Of the man to whom I belong",
+      "grammar": "The preposition 'de' indicates possession, and the phrase 'auquel j'appartiens' is a relative clause describing the subject."
+    },
+    {
+      "time": 12.0,
+      "text": "Quand il me prend dans ses bras",
+      "translation": "When he takes me in his arms",
+      "grammar": "The verb 'prend' is in the present tense and agrees with the subject 'il' (he) in number and gender."
+    },
+    {
+      "time": 15.0,
+      "text": "Qu'il me parle tout bas",
+      "translation": "So that he speaks to me softly",
+      "grammar": "The phrase 'qu'il' is a subordinate conjunction introducing a dependent clause."
+    },
+    {
+      "time": 18.0,
+      "text": "Je vois la vie en rose",
+      "translation": "I see life in pink",
+      "grammar": "The verb 'vois' is in the present tense and agrees with the subject 'je' (I) in number and gender."
+    },
+    {
+      "time": 21.0,
+      "text": "Il me dit des mots d'amour",
+      "translation": "He tells me words of love",
+      "grammar": "The verb 'dit' is in the present tense and agrees with the subject 'il' (he) in number and gender."
+    },
+    {
+      "time": 24.0,
+      "text": "Des mots de tous les jours",
+      "translation": "Words of every day",
+      "grammar": "The phrase 'de tous les jours' is an idiomatic expression meaning 'everyday'."
+    },
+    {
+      "time": 27.0,
+      "text": "Et ça me fait quelque chose",
+      "translation": "And that makes something to me",
+      "grammar": "The verb 'fait' is in the present tense and agrees with the subject 'ça' (that) in number and gender."
+    },
+    {
+      "time": 30.0,
+      "text": "Il est entré dans mon coeur",
+      "translation": "He has entered my heart",
+      "grammar": "The verb 'est' is in the present tense and agrees with the subject 'il' (he) in number and gender, while 'mon coeur' is a possessive phrase."
+    },
+    {
+      "time": 33.0,
+      "text": "Une part de bonheur",
+      "translation": "A part of happiness",
+      "grammar": "The preposition 'de' indicates possession, and the phrase 'une part' is an idiomatic expression meaning 'a share'."
+    },
+    {
+      "time": 36.0,
+      "text": "Dont je connais la cause",
+      "translation": "Which I know the reason",
+      "grammar": "The pronoun 'dont' is a relative pronoun introducing a dependent clause."
+    },
+    {
+      "time": 39.0,
+      "text": "C'est lui pour moi",
+      "translation": "It's him for me",
+      "grammar": "The phrase 'c'est lui' is an idiomatic expression meaning 'it's him'."
+    },
+    {
+      "time": 42.0,
+      "text": "Moi pour lui dans la vie",
+      "translation": "Me for him in life",
+      "grammar": "The preposition 'pour' indicates purpose or destination."
+    },
+    {
+      "time": 45.0,
+      "text": "Il me l'a dit, l'a juré pour la vie",
+      "translation": "He told me, he swore to me for life",
+      "grammar": "The verb 'dit' and 'juré' are in the past tense and agree with the subject 'il' (he) in number and gender."
+    },
+    {
+      "time": 48.0,
+      "text": "Et dès que je l'aperçois",
+      "translation": "And as soon as I see him",
+      "grammar": "The phrase 'dès que' is an idiomatic expression meaning 'as soon as'."
+    },
+    {
+      "time": 51.0,
+      "text": "Alors je sens dans moi",
+      "translation": "Then I feel within me",
+      "grammar": "The verb 'sens' is in the present tense and agrees with the subject 'je' (I) in number and gender."
+    },
+    {
+      "time": 54.0,
+      "text": "Mon coeur qui bat",
+      "translation": "My heart that beats",
+      "grammar": "The phrase 'mon coeur' is a possessive phrase, and the verb 'bat' is in the present tense and agrees with the subject 'mon coeur' (my heart) in number and gender."
+    },
+    {
+      "time": 57.0,
+      "text": "Des nuits d'amour à plus finir",
+      "translation": "Of nights of love to finish",
+      "grammar": "The phrase 'des nuits' is an idiomatic expression meaning 'of nights'."
+    },
+    {
+      "time": 60.0,
+      "text": "Un grand bonheur qui prend sa place",
+      "translation": "A great happiness that takes its place",
+      "grammar": "The verb 'prend' is in the present tense and agrees with the subject 'un grand bonheur' (a great happiness) in number and gender."
+    },
+    {
+      "time": 63.0,
+      "text": "Des enuis des chagrins, s'effacent",
+      "translation": "Of troubles of sorrows, fade away",
+      "grammar": "The verb 's'effacent' is in the present tense and agrees with the subject 'des ennuis' (troubles) in number and gender."
+    },
+    {
+      "time": 66.0,
+      "text": "Heureux, heureux à en mourir",
+      "translation": "Happy, happy to die from it",
+      "grammar": "The phrase 'à en mourir' is an idiomatic expression meaning 'to the point of death'."
+    },
+    {
+      "time": 69.0,
+      "text": "Quand il me prend dans ses bras",
+      "translation": "When he takes me in his arms",
+      "grammar": "The verb 'prend' is in the present tense and agrees with the subject 'il' (he) in number and gender."
+    },
+    {
+      "time": 72.0,
+      "text": "Qu'il me parle tout bas",
+      "translation": "So that he speaks to me softly",
+      "grammar": "The phrase 'qu'il' is a subordinate conjunction introducing a dependent clause."
+    },
+    {
+      "time": 75.0,
+      "text": "Je vois la vie en rose",
+      "translation": "I see life in pink",
+      "grammar": "The verb 'vois' is in the present tense and agrees with the subject 'je' (I) in number and gender."
+    },
+    {
+      "time": 78.0,
+      "text": "Il me dit des mots d'amour",
+      "translation": "He tells me words of love",
+      "grammar": "The verb 'dit' is in the present tense and agrees with the subject 'il' (he) in number and gender."
+    },
+    {
+      "time": 81.0,
+      "text": "Des mots de tous les jours",
+      "translation": "Words of every day",
+      "grammar": "The phrase 'de tous les jours' is an idiomatic expression meaning 'everyday'."
+    },
+    {
+      "time": 84.0,
+      "text": "Et ça me fait quelque chose",
+      "translation": "And that makes something to me",
+      "grammar": "The verb 'fait' is in the present tense and agrees with the subject 'ça' (that) in number and gender."
+    },
+    {
+      "time": 87.0,
+      "text": "Il est entré dans mon coeur",
+      "translation": "He has entered my heart",
+      "grammar": "The verb 'est' is in the present tense and agrees with the subject 'il' (he) in number and gender, while 'mon coeur' is a possessive phrase."
+    },
+    {
+      "time": 90.0,
+      "text": "Une part de bonheur",
+      "translation": "A part of happiness",
+      "grammar": "The preposition 'de' indicates possession, and the phrase 'une part' is an idiomatic expression meaning 'a share'."
+    },
+    {
+      "time": 93.0,
+      "text": "Dont je connais la cause",
+      "translation": "Which I know the reason",
+      "grammar": "The pronoun 'dont' is a relative pronoun introducing a dependent clause."
+    },
+    {
+      "time": 96.0,
+      "text": "C'est toi pour moi",
+      "translation": "It's you for me",
+      "grammar": "The phrase 'c'est toi' is an idiomatic expression meaning 'it's you'."
+    },
+    {
+      "time": 99.0,
+      "text": "Moi pour toi dans ma vie",
+      "translation": "Me for you in my life",
+      "grammar": "The preposition 'pour' indicates purpose or destination."
+    },
+    {
+      "time": 102.0,
+      "text": "Tu me l'a dis, l'a juré pour la vie",
+      "translation": "You told me, you swore to me for life",
+      "grammar": "The verb 'dit' and 'juré' are in the past tense and agree with the subject 'tu' (you) in number and gender."
+    },
+    {
+      "time": 105.0,
+      "text": "Et dès que je t'aperçois",
+      "translation": "And as soon as I see you",
+      "grammar": "The phrase 'dès que' is an idiomatic expression meaning 'as soon as'."
+    },
+    {
+      "time": 108.0,
+      "text": "Alors je sens dans moi",
+      "translation": "Then I feel within me",
+      "grammar": "The verb 'sens' is in the present tense and agrees with the subject 'je' (I) in number and gender."
+    },
+    {
+      "time": 111.0,
+      "text": "Mon coeur qui bat",
+      "translation": "My heart that beats",
+      "grammar": "The phrase 'mon coeur' is a possessive phrase, and the verb 'bat' is in the present tense and agrees with the subject 'mon coeur' (my heart) in number and gender."
+    }
+  ]
+}

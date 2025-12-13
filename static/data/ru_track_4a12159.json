@@ -1,0 +1,163 @@
+{
+  "id": "ru_track_4a12159",
+  "title": "я не собираюсь мешать",
+  "artist": "KRISTIEE",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_track_4a12159.mp3",
+  "duration": 128,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 16.10430000001192,
+      "text": "Я не собираюсь мешать",
+      "translation": "I'm not going to interfere",
+      "grammar": "The verb сбораться means 'to gather' or 'to collect', but in this context it implies a sense of reluctance or unwillingness."
+    },
+    {
+      "time": 31.86960000002384,
+      "text": "Теперь ты счастлива там, наверно, я опоздал",
+      "translation": "Now you're happy there, I guess I was late",
+      "grammar": ""
+    },
+    {
+      "time": 31.86960000002384,
+      "text": "И это чувства, что я не могу в себе держать",
+      "translation": "And these are feelings that I can’t keep inside",
+      "grammar": ""
+    },
+    {
+      "time": 31.86960000002384,
+      "text": "И поступать как-то правильно — это не для меня",
+      "translation": "And doing the right thing is not for me.",
+      "grammar": ""
+    },
+    {
+      "time": 31.86960000002384,
+      "text": "Наверно, больше не смогу сказать Привет",
+      "translation": "I guess I won't be able to say hello anymore.",
+      "grammar": ""
+    },
+    {
+      "time": 32.65510000002384,
+      "text": "Кому-то, у кого глаза имеют голубой цвет",
+      "translation": "Someone who has blue eyes",
+      "grammar": ""
+    },
+    {
+      "time": 36.766300000011924,
+      "text": "И среди тех, кто сказал Да — я выбрал, кто скажет Нет",
+      "translation": "And among those who said Yes, I chose who would say No.",
+      "grammar": ""
+    },
+    {
+      "time": 40.74860000002384,
+      "text": "Один ответ и моя жизнь — это полный пиздец",
+      "translation": "One answer and my life is total crap.",
+      "grammar": ""
+    },
+    {
+      "time": 44.781700000047685,
+      "text": "Она проходит каждый раз мимо меня",
+      "translation": "She passes me by every time",
+      "grammar": ""
+    },
+    {
+      "time": 48.528,
+      "text": "Делает вид, что незнакомы и не целовал её губы, и укрывал во время дождя",
+      "translation": "He pretends that he doesn't know her and didn't kiss her lips and covered her during the rain",
+      "grammar": ""
+    },
+    {
+      "time": 56.557200000047686,
+      "text": "Теперь не знаю, как мне жить, блять, без тебя?",
+      "translation": "Now I don’t know how the fuck I’m supposed to live without you?",
+      "grammar": ""
+    },
+    {
+      "time": 60.7325,
+      "text": "Ты та самая, что я полюбил",
+      "translation": "You are the one that I fell in love with",
+      "grammar": ""
+    },
+    {
+      "time": 64.70670000004769,
+      "text": "Я не могу больше так, прости",
+      "translation": "I can't do this anymore, I'm sorry.",
+      "grammar": ""
+    },
+    {
+      "time": 68.65720000004768,
+      "text": "Хочу спросить: Как дела?, потом уйти",
+      "translation": "I want to ask: How are you?, then leave.",
+      "grammar": ""
+    },
+    {
+      "time": 72.5705,
+      "text": "Чтоб ты ответила, что скучаешь, bitch",
+      "translation": "So you'd say you miss me, bitch.",
+      "grammar": ""
+    },
+    {
+      "time": 76.76130000001191,
+      "text": "Что ты скучаешь, bitch, что ты скучаешь, bitch",
+      "translation": "What are you missing, bitch, what are you missing, bitch",
+      "grammar": ""
+    },
+    {
+      "time": 80.67330000001192,
+      "text": "Что ты скучаешь, bitch, что ты скучаешь, bitch",
+      "translation": "What are you missing, bitch, what are you missing, bitch",
+      "grammar": ""
+    },
+    {
+      "time": 84.888,
+      "text": "Просто хотел любви, внимания, не тоски",
+      "translation": "I just wanted love, attention, not melancholy.",
+      "grammar": ""
+    },
+    {
+      "time": 88.40970000004768,
+      "text": "Просто хотел ценить кого-то, как они (Как они, как они)",
+      "translation": "Just wanted to appreciate somebody like them (Like them, like them)",
+      "grammar": ""
+    },
+    {
+      "time": 94.29970000004768,
+      "text": "Я не собираюсь мешать",
+      "translation": "I'm not going to interfere",
+      "grammar": ""
+    },
+    {
+      "time": 96.56560000002384,
+      "text": "Теперь ты счастлива там, наверно, я опоздал (Я, я)",
+      "translation": "Now you're happy there, I guess I'm late (I, I)",
+      "grammar": ""
+    },
+    {
+      "time": 100.51580000001192,
+      "text": "И это чувства, что я не могу в себе держать (Я, я)",
+      "translation": "And these are feelings that I can't contain (I, I)",
+      "grammar": ""
+    },
+    {
+      "time": 104.56110000002384,
+      "text": "И поступать как-то правильно — это не для меня (Я, я)",
+      "translation": "And doing the right thing is not for me (Me, me)",
+      "grammar": ""
+    },
+    {
+      "time": 110.642,
+      "text": "Наверно больше не смогу",
+      "translation": "I probably won't be able to anymore.",
+      "grammar": ""
+    },
+    {
+      "time": 112.84920000004769,
+      "text": "Я, я, я, я, я, я",
+      "translation": "Me, me, me, me, me, me",
+      "grammar": ""
+    }
+  ]
+}

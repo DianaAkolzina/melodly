@@ -1,0 +1,523 @@
+{
+  "id": "es_tit_me_pregunt",
+  "title": "Tití Me Preguntó",
+  "artist": "Bad Bunny",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_tit_me_pregunt.mp3",
+  "duration": 244,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 10.4465,
+      "text": "Ey, Tití me preguntó si tengo mucha' novia'",
+      "translation": "Hey, Titi asked me if I have a lot of girlfriends.",
+      "grammar": "The use of \"Ey\" is an informal greeting and interjection, equivalent to \"Hey\", while \"me preguntó\" is the formal way to say \"asked me\", indicating a switch from informal to formal tone."
+    },
+    {
+      "time": 14.724600000023841,
+      "text": "Mucha' novia'",
+      "translation": "Lots of girlfriends",
+      "grammar": "This phrase uses the informal adjective \"mucha\" to convey a casual tone, typical in spoken Spanish. The possessive particle \"'novia'\" is used to emphasize the speaker's experience with multiple romantic partners."
+    },
+    {
+      "time": 16.032700000017883,
+      "text": "Hoy tengo a una, mañana otra, ey",
+      "translation": "Today I have one, tomorrow another, hey",
+      "grammar": "The phrase \"ey\" is an informal interjection used to add a casual tone to the sentence, equivalent to saying \"hey\" or \"oh\"."
+    },
+    {
+      "time": 19.249,
+      "text": "Pero no hay boda",
+      "translation": "But there's no wedding.",
+      "grammar": "The phrase \"no hay\" is an idiomatic expression meaning \"there isn't\" or \"there's not\", used to negate the existence of something, often in a context where it would be expected. This construction is equivalent to saying \"there is not\" but with a more casual tone."
+    },
+    {
+      "time": 20.53630000001192,
+      "text": "Tití me preguntó si tengo mucha' novia'",
+      "translation": "Titi asked me if I have a lot of girlfriends.",
+      "grammar": "The phrase \"mucha' novia\" is an idiomatic expression, where the apostrophe indicates a colloquial or informal tone. The adjective \"mucha\" agrees with the feminine noun \"novia\", using the feminine form to refer to multiple female partners."
+    },
+    {
+      "time": 23.787,
+      "text": "Mucha' novia'",
+      "translation": "Lots of girlfriends",
+      "grammar": "This phrase uses the informal adjective \"mucha\" to describe a plural noun, which is a common idiomatic expression in Spanish. The apostrophe in \"novia'\" indicates that it's an irregular plural form."
+    },
+    {
+      "time": 25.009700000017883,
+      "text": "Hoy tengo a una, mañana otra",
+      "translation": "Today I have one, tomorrow another.",
+      "grammar": "This idiomatic expression uses the present tense to describe future events, a common feature of Spanish. The phrase \"tengo a\" is an informal way of saying \"I have got\" or \"I've got\"."
+    },
+    {
+      "time": 28.01240000000596,
+      "text": "Me las vo'a llevar a toa' pa un VIP, un VIP",
+      "translation": "I'm going to take them all to a VIP, a VIP",
+      "grammar": "The phrase \"Me las\" is an idiomatic expression used to indicate the speaker's intention to include themselves in the action, with \"me\" functioning as a subject pronoun and \"las\" referring to the third-person plural object."
+    },
+    {
+      "time": 31.84859999999404,
+      "text": "Ey, saluden a Tití",
+      "translation": "Hey, say hi to Titi",
+      "grammar": "This informal greeting uses the imperative mood and the familiar form of address (\"Ey\" is an affectionate way to say \"hey\"), instructing someone to greet someone else."
+    },
+    {
+      "time": 33.93059999999404,
+      "text": "Vamo a tirarno un selfi, say \"cheese\", ey",
+      "translation": "Let's take a selfie, say \"cheese\", hey",
+      "grammar": "The phrase \"Vamo\" is an informal way of saying \"let's go\" in the present tense, using the vosotros pronoun and verb agreement. The idiom \"say 'cheese'\" is a common expression used to ask someone to smile for a photo."
+    },
+    {
+      "time": 36.855,
+      "text": "Que sonrían las que ya les metí",
+      "translation": "Let those I've already put in smile.",
+      "grammar": "The verb \"sonrían\" is in the subjunctive mood, used to express a hypothetical or uncertain situation. The phrase \"que sonrían\" can be translated as \"that they may smile\" rather than \"let them smile\", emphasizing the idea of a desired outcome."
+    },
+    {
+      "time": 38.33280000001192,
+      "text": "En un VIP, un VIP",
+      "translation": "In a VIP, a VIP",
+      "grammar": "This phrase uses the idiomatic expression \"un VIP\" to emphasize the exclusivity of being in a high-end environment. The repetition of \"un VIP\" creates a sense of irony and highlights the speaker's desire to belong among the elite."
+    },
+    {
+      "time": 40.77140000000596,
+      "text": "Ey, saluden a Tití",
+      "translation": "Hey, say hi to Titi",
+      "grammar": "This informal greeting uses the imperative mood and employs the idiomatic expression \"saluden\" (say hello), which is often used in colloquial Spanish. The use of \"ey\" as an interjection adds a casual tone to the phrase."
+    },
+    {
+      "time": 42.56580000001192,
+      "text": "Vamo a tirarno un selfi, say \"cheese\"",
+      "translation": "Let's take a selfie, say \"cheese\"",
+      "grammar": "The phrase \"Vamo\" is an informal way to express \"let's go\" or \"come on\", using the vosotros pronoun and verb conjugation, which is typical in spoken Spanish."
+    },
+    {
+      "time": 44.898800000011924,
+      "text": "Que sonrían las que ya se olvidaron de mí",
+      "translation": "Let those who have already forgotten me smile.",
+      "grammar": "The verb \"sonrían\" is in the subjunctive mood, used to express a wish or desire, and agrees with the plural subject \"las que\"."
+    },
+    {
+      "time": 46.88890000000596,
+      "text": "Me gustan mucho las Gabriela', las Patricia'",
+      "translation": "I really like the Gabrielas, the Patricias.",
+      "grammar": "The phrase \"me gustan\" is in the present tense and informal mood, indicating a personal preference or liking. This construction is an idiomatic expression used to describe a fondness for something or someone, where \"gustar\" means \"to please\" rather than \"to like\"."
+    },
+    {
+      "time": 49.13259999999404,
+      "text": "Las Nicole', las Sofía'",
+      "translation": "The Nicoles, the Sofias",
+      "grammar": "This line uses the plural definite article \"las\" to refer to two specific groups of people, indicating a sense of familiarity or intimacy. The use of the same article and noun form (\"Nicole\", \"Sofia\") emphasizes the similarity between these individuals."
+    },
+    {
+      "time": 51.35480000001192,
+      "text": "Mi primera novia en kínder, María",
+      "translation": "My first girlfriend in kindergarten, Maria",
+      "grammar": "In Spanish, it's common to use the present perfect tense (e.g., \"mi primera novia\") to describe a completed action from the past that has relevance to the present. This usage note highlights the informal tone and conversational style of the sentence."
+    },
+    {
+      "time": 53.51120000001788,
+      "text": "Y mi primer amor se llamaba Thalía",
+      "translation": "And my first love was named Thalía",
+      "grammar": "The verb \"se llamaba\" is in the third person singular past tense, indicating that Thalía is being referred to as the speaker's first love. The phrase \"mi primer amor\" uses the possessive adjective \"mi\" agreeing with the noun \"amor\"."
+    },
+    {
+      "time": 55.5305,
+      "text": "Tengo una colombiana que me escribe to los día'",
+      "translation": "I have a Colombian woman who writes to me every day.",
+      "grammar": "The verb tener (to have) is used in the present tense to describe a permanent possession, and the phrase \"que me escribe\" is an idiomatic expression meaning \"who writes to me\"."
+    },
+    {
+      "time": 57.81370000001788,
+      "text": "Y una mexicana que ni yo sabía",
+      "translation": "And a Mexican woman I didn't even know about.",
+      "grammar": "The phrase \"ni yo sabía\" is an idiomatic expression indicating the speaker's surprise or astonishment, equivalent to \"I had no idea\"."
+    },
+    {
+      "time": 60.19590000000596,
+      "text": "Otra en San Antonio que me quiere todavía",
+      "translation": "Another one in San Antonio who still loves me",
+      "grammar": "The phrase \"que me quiere\" is a subordinate clause in the present tense, indicating a continuing action. The use of \"que\" introduces a relative clause that functions as an adjective modifying the noun \"otra\"."
+    },
+    {
+      "time": 62.08170000001788,
+      "text": "Y las de PR que toítas son mía'",
+      "translation": "And those from PR, which are all mine'",
+      "grammar": "This line uses the possessive adjective \"mía\" (mine) in agreement with the plural noun \"toítas\", demonstrating the use of feminine agreement for plural nouns ending in -as."
+    },
+    {
+      "time": 64.27490000000596,
+      "text": "Una dominicana que es uva bombón",
+      "translation": "A Dominican woman who is a sweet grape",
+      "grammar": "This idiomatic expression uses the verb \"ser\" in the present tense to describe a person's character, rather than their physical appearance. The phrase \"uva bombón\" is an affectionate way to refer to someone, similar to saying \"sweetheart\" or \"darling\"."
+    },
+    {
+      "time": 67.131,
+      "text": "Uva, uva bombón",
+      "translation": "Grape, chocolate grape",
+      "grammar": "This interjection-like phrase uses a playful repetition of \"uva\" to emphasize the sweetness and indulgence of the treat, similar to saying \"oh, oh, so good!\" in English. The use of \"bombón\" as an affectionate term for chocolate is also idiomatic in Spanish."
+    },
+    {
+      "time": 68.63340000000596,
+      "text": "La de Barcelona que vino en avión",
+      "translation": "The one from Barcelona who came by plane",
+      "grammar": "This sentence uses the presentative pronoun \"la\" to introduce a specific person or thing, emphasizing their origin from Barcelona. The verb \"vino\" is in the past tense, indicating that this person arrived at some point in the past."
+    },
+    {
+      "time": 71.264,
+      "text": "Y dice que mi bicho está cabrón",
+      "translation": "And he says my thing is a badass",
+      "grammar": "The phrase \"mi bicho\" uses the idiomatic expression \"bicho\" to mean \"thing\" or \"guy\", rather than its literal meaning of \"animal\". The verb \"está\" is in the present continuous tense, indicating an ongoing situation."
+    },
+    {
+      "time": 72.87009999999404,
+      "text": "Yo dejo que jueguen con mi corazón",
+      "translation": "I let them play with my heart",
+      "grammar": "The phrase \"yo dejo\" is an informal way to express permission or consent, equivalent to \"I let\" in English. The verb \"dejo\" is in the present tense and indicates a habitual or general permission."
+    },
+    {
+      "time": 74.99780000001192,
+      "text": "Quisiera mudarme con toas pa una mansión",
+      "translation": "I'd like to move with everyone to a mansion",
+      "grammar": "The phrase \"quisiera\" is a conditional tense, expressing a hypothetical wish or desire. Note that the verb \"mudarme\" is in the informal first person singular form, indicating a personal and intimate tone."
+    },
+    {
+      "time": 77.1515,
+      "text": "El día que me case te envío la invitación",
+      "translation": "I'll send you the invitation the day I get married.",
+      "grammar": "This sentence uses the future tense to express a promise, with \"me caso\" being an idiomatic expression meaning \"get married\"."
+    },
+    {
+      "time": 79.35590000000596,
+      "text": "Muchacho, deja eso",
+      "translation": "Kid, leave that alone.",
+      "grammar": "The phrase \"Muchacho, deja eso\" uses the informal address \"muchacho\" to convey a sense of familiarity and friendliness, while the imperative verb \"deja\" (leave) is in the present tense, making it a polite request."
+    },
+    {
+      "time": 81.15190000000597,
+      "text": "Ey, Tití me preguntó si tengo mucha' novia'",
+      "translation": "Hey, Titi asked me if I have a lot of girlfriends.",
+      "grammar": "The phrase \"Ey, Tití\" is an informal greeting and idiom, used to address someone in a friendly or familiar manner. The use of \"me preguntó\" in the present perfect tense indicates that the question was asked at some point in the past, but the speaker is still experiencing its effects."
+    },
+    {
+      "time": 84.26840000000595,
+      "text": "Mucha' novia'",
+      "translation": "Lots of girlfriends",
+      "grammar": "This idiomatic expression uses the possessive adjective \"mucha\" to convey a large quantity, rather than indicating ownership. It is often used in informal contexts to express surprise or exaggeration."
+    },
+    {
+      "time": 85.86270000001788,
+      "text": "Hoy tengo a una, mañana otra, ey",
+      "translation": "Today I have one, tomorrow another, hey",
+      "grammar": "The phrase \"hoy tengo\" is in the present tense, indicating that the speaker has something at this moment. The use of \"una\" and \"otra\" agrees with the singular pronoun \"una\"."
+    },
+    {
+      "time": 89.363,
+      "text": "Pero no hay boda",
+      "translation": "But there's no wedding.",
+      "grammar": "The phrase \"no hay\" is an idiomatic expression meaning \"there isn't\" or \"there's not\", used to negate the existence of something, rather than a literal translation of \"there is not\"."
+    },
+    {
+      "time": 90.3165,
+      "text": "Tití me preguntó si tengo mucha' novia', ey, ey",
+      "translation": "Titi asked me if I have a lot of girlfriends, hey, hey",
+      "grammar": "The phrase \"mucha' novia\" is an informal idiom used to ask about the number of romantic partners someone has. The apostrophe in \"mucha'\" indicates that it's a colloquialism and not a literal quantity."
+    },
+    {
+      "time": 93.83040000000597,
+      "text": "Mucha' novia'",
+      "translation": "Lots of girlfriends",
+      "grammar": "This idiomatic expression uses the possessive adjective \"mucha\" to convey a large quantity, rather than indicating ownership."
+    },
+    {
+      "time": 94.73770000001788,
+      "text": "Hoy tengo a una, mañana otra (mañana otra)",
+      "translation": "Today I have one, tomorrow another (tomorrow another)",
+      "grammar": "The use of \"tengo\" in the present tense indicates that the speaker has already acquired or obtained something, rather than having it at the moment of speaking. This is an example of the Spanish imperfective aspect, where the focus is on the completion of the action rather than its duration."
+    },
+    {
+      "time": 98.9545,
+      "text": "Tití me preguntó-to-to-to-to-to-to",
+      "translation": "Marmoset asked me-to-to-to-to-to-to",
+      "grammar": "The use of \"-to\" in \"Tití me preguntó-to-to-to-to-to-to\" is an example of a repetitive particle, emphasizing the sudden and repeated nature of Marmoset's questions."
+    },
+    {
+      "time": 103.49409999999403,
+      "text": "Tití me preguntó-to-to-to-to-to-to (qué pámpara)",
+      "translation": "Titi asked me-what ...",
+      "grammar": "The use of \"-to\" in \"Tití me preguntó-to-to-to-to-to-to\" is an example of a repetitive idiomatic phrase, emphasizing the speaker's surprise or excitement."
+    },
+    {
+      "time": 107.43059999999404,
+      "text": "Tití me preguntó-to-to-to-to-to-to",
+      "translation": "Marmoset asked me-to-to-to-to-to-to",
+      "grammar": "The use of \"-to\" in \"Tití me preguntó-to-to-to-to-to-to\" is an idiomatic expression, where the repeated \"-to\" indicates a sense of insistence or emphasis, similar to saying \"over and over again\"."
+    },
+    {
+      "time": 111.76890000000596,
+      "text": "Tití me preguntó-to-to-t",
+      "translation": "Titi asked me-to-to-t",
+      "grammar": "The use of \"-to\" in \"Tití me preguntó-to-to-t\" is an idiomatic expression indicating a sequence or repetition, similar to English phrases like \"one after another\" or \"back and forth\"."
+    },
+    {
+      "time": 114.88140000000595,
+      "text": "Pero ven acá, muchacho, ¿y para qué tú quiere' tanta' novia'?",
+      "translation": "But come here, boy, and why do you want so many girlfriends?",
+      "grammar": "The use of the verb \"quiere'\" in the sentence is an informal way to express desire or intention, typical of spoken language. The speaker's tone is colloquial and conversational, with a hint of playfulness."
+    },
+    {
+      "time": 117.05120000001789,
+      "text": "Me las vo'a llevar a toa' pa un VIP, un VIP",
+      "translation": "I'm going to take them all to a VIP, a VIP",
+      "grammar": "The use of \"vo'a\" and \"toa'\" is an idiomatic expression in Spanish, equivalent to the English phrase \"all of them\", emphasizing the inclusivity of the group being referred to."
+    },
+    {
+      "time": 120.48870000001789,
+      "text": "Ey, saluden a Tití",
+      "translation": "Hey, say hi to Titi",
+      "grammar": "This informal greeting uses the imperative mood and employs the idiomatic expression \"saludar\" (to greet) with the pronoun \"a\" indicating direction towards someone."
+    },
+    {
+      "time": 122.65140000000596,
+      "text": "Vamo a tirarno un selfi, say \"cheese\", ey",
+      "translation": "Let's take a selfie, say \"cheese\", hey",
+      "grammar": "The phrase \"Vamo a\" is an informal way to express the future tense in Spanish, equivalent to \"Let's\" in English. The use of \"say 'cheese'\" is an idiomatic expression commonly used when taking a photo."
+    },
+    {
+      "time": 125.61759999999404,
+      "text": "Que sonrían las que ya les metí",
+      "translation": "Let those I've already put in smile.",
+      "grammar": "The phrase \"que sonrían\" is a subordinate clause in the subjunctive mood, used to express a wish or desire. This construction is an idiomatic way to express permission or encouragement, similar to saying \"Let them be happy\"."
+    },
+    {
+      "time": 126.94320000001788,
+      "text": "En un VIP, un VIP",
+      "translation": "In a VIP, a VIP",
+      "grammar": "This idiomatic repetition emphasizes the exclusivity and prestige of being in a VIP area, using the same phrase to convey the speaker's sense of belonging."
+    },
+    {
+      "time": 129.04390000000595,
+      "text": "Ey, saluden a Tití",
+      "translation": "Hey, say hi to Titi",
+      "grammar": "This informal greeting uses the imperative mood and employs the idiomatic expression \"saluden\" (literally \"greet\") to convey a friendly invitation. The use of \"Ey\" is an interjection equivalent to \"Hey\"."
+    },
+    {
+      "time": 131.3015,
+      "text": "Vamo a tirarno un selfie, say \"cheese\"",
+      "translation": "Let's take a selfie, say \"cheese\"",
+      "grammar": "The phrase \"Vamo\" is an informal way of saying \"let's go\" in Spanish, used to express agreement or willingness to do something. It is often translated as \"let's\" in English and is used to indicate the speaker's intention to perform a particular action."
+    },
+    {
+      "time": 133.3737000000179,
+      "text": "Que sonrían las que ya se olvidaron de mí",
+      "translation": "Let those who have already forgotten me smile.",
+      "grammar": "The verb \"sonrían\" is in the subjunctive mood, used to express a hypothetical or uncertain situation. This construction is an idiomatic expression in Spanish, where the speaker wishes for others to be happy despite their own negative emotions."
+    },
+    {
+      "time": 135.60140000000595,
+      "text": "Oye, muchacho del diablo, azaroso",
+      "translation": "Hey, you devilish boy, you wild one",
+      "grammar": "The phrase \"Oye\" is an interjection used to get someone's attention, equivalent to saying \"Hey\". The verb \"azaroso\" is in the present participle form, describing a person's nature or characteristic."
+    },
+    {
+      "time": 138.77709999999405,
+      "text": "Suelta ese mal vivir que tú tiene' en la calle",
+      "translation": "Let go of that bad life you have on the street",
+      "grammar": "The verb \"tienes\" is in the present tense, indicating a general truth or habit, and agrees with the subject \"tú\" in number and person."
+    },
+    {
+      "time": 141.21559999999403,
+      "text": "Búscate una mujer seria pa ti",
+      "translation": "Find yourself a serious woman",
+      "grammar": "This phrase uses the imperative mood to give advice, with the verb \"búscate\" (find yourself) in the second person plural form, which is an idiomatic expression encouraging the listener to find someone suitable for themselves."
+    },
+    {
+      "time": 142.87420000001788,
+      "text": "Muchacho del diablo, coño",
+      "translation": "Devil boy, damn it",
+      "grammar": "The phrase \"coño\" is an informal Spanish interjection equivalent to \"damn it\" in English, used to express strong emotions or frustration. Note that this word has a strong connotation and may not be suitable for formal contexts."
+    },
+    {
+      "time": 146.04340000000596,
+      "text": "Yo quisiera enamorarme",
+      "translation": "I would like to fall in love",
+      "grammar": "The phrase \"yo quisiera\" is an idiomatic expression used to express a desire or longing, with \"yo\" being an informal first-person singular pronoun and \"quisiera\" indicating the subjunctive mood of the verb \"querer\", meaning \"to want\"."
+    },
+    {
+      "time": 149.80720000001787,
+      "text": "Pero no puedo",
+      "translation": "But I can't",
+      "grammar": "This phrase uses the present tense of the verb \"poder\" (can) in the negative form, indicating inability or impossibility. The pronoun \"yo\" (I) agrees with the verb in number and person."
+    },
+    {
+      "time": 151.78159999999403,
+      "text": "Pero no puedo",
+      "translation": "But I can't",
+      "grammar": "The phrase \"Pero no puedo\" is an idiomatic expression indicating a contrast or exception, using the present tense to express inability."
+    },
+    {
+      "time": 153.99430000001192,
+      "text": "Eh, eh",
+      "translation": "Uh, uh",
+      "grammar": "This interjection is an informal way to express hesitation or uncertainty, often used in spoken English. The repetition of \"uh\" emphasizes the speaker's indecision."
+    },
+    {
+      "time": 155.74409999999403,
+      "text": "Yo quisiera enamorarme",
+      "translation": "I would like to fall in love",
+      "grammar": "The phrase \"Yo quisiera\" is an idiomatic expression that combines a first-person singular pronoun with the conditional imperfect tense, conveying a sense of longing or desire. This construction is commonly used in Spanish to express hypothetical or desired situations."
+    },
+    {
+      "time": 158.85990000000595,
+      "text": "Pero no puedo",
+      "translation": "But I can't",
+      "grammar": "The phrase \"Pero no puedo\" is an idiomatic expression that conveys strong negation, using the conjunction \"pero\" to contrast with what comes before. The verb \"puedo\" is in the present tense and negative mood, indicating inability or refusal."
+    },
+    {
+      "time": 161.16520000001788,
+      "text": "Pero no puedo",
+      "translation": "But I can't",
+      "grammar": "This phrase uses the present tense of the verb \"poder\" (can) in a negated sentence, emphasizing the speaker's inability to do something. The phrase \"Pero no puedo\" is an idiomatic expression that conveys strong emotions and emphasizes the impossibility of a situation."
+    },
+    {
+      "time": 163.436,
+      "text": "Sorry, yo no confío, yo no confío",
+      "translation": "Sorry, I don't trust, I don't trust",
+      "grammar": "The phrase \"yo no confío\" is an idiomatic expression that uses the present tense to convey a lack of confidence or distrust in someone."
+    },
+    {
+      "time": 165.9715,
+      "text": "Nah, ni en mí mismo confío",
+      "translation": "Nah, I don't even trust myself",
+      "grammar": "The phrase \"ni en mí mismo\" is an idiomatic expression meaning \"not even in my own case\". The use of \"ni\" (neither) with the preposition \"en\" (in) and the reflexive pronoun \"mismo\" emphasizes the speaker's lack of confidence."
+    },
+    {
+      "time": 168.23290000000597,
+      "text": "Si quieres quedarte hoy que hace frío",
+      "translation": "If you want to stay today, it's cold.",
+      "grammar": "The phrase \"que hace frío\" is an idiomatic expression that conveys the idea of something being unpleasant or undesirable, similar to saying \"it's freezing\"."
+    },
+    {
+      "time": 170.58530000001193,
+      "text": "Y mañana te va', nah",
+      "translation": "And tomorrow you're going, nah",
+      "grammar": "The phrase \"te va'\" is a colloquial way of saying \"you're going\" in the future tense, using the informal \"tú\" form and the verb \"ir\". The \"nah\" at the end is an interjection expressing casual dismissal or agreement."
+    },
+    {
+      "time": 172.22340000000597,
+      "text": "Muchas quieren mi baby gravy",
+      "translation": "Many want my baby gravy",
+      "grammar": "This line is an idiomatic expression, where \"quieren\" (want) is used in a figurative sense to mean \"are interested in\" or \"desire\". The phrase \"mi baby gravy\" is likely being used humorously or ironically."
+    },
+    {
+      "time": 176.61630000001193,
+      "text": "Quieren tener mi primogénito",
+      "translation": "They want to have my firstborn.",
+      "grammar": "The use of \"mi\" (my) with \"primogénito\" (firstborn) implies a possessive relationship, emphasizing the speaker's emotional attachment and ownership."
+    },
+    {
+      "time": 176.61840000000595,
+      "text": "Ey, y llevarse el crédito",
+      "translation": "Hey, and take the credit",
+      "grammar": "This informal greeting \"Ey\" is an interjection used to get someone's attention, similar to \"Hey\" in English. The phrase \"llevarse el crédito\" literally means \"to take the credit\", but idiomatically it means to take advantage of a situation or steal the spotlight."
+    },
+    {
+      "time": 178.06570000001787,
+      "text": "Ya me aburrí, hoy quiero un totito inédito",
+      "translation": "I'm bored now, today I want a brand new pussy",
+      "grammar": "The phrase \"ya me aburrí\" is an idiomatic expression that translates to \"I'm bored now\". It uses the present perfect tense (ya) to convey a sense of sudden boredom."
+    },
+    {
+      "time": 180.59980000001192,
+      "text": "Uno nuevo, uno nuevo, uno nuevo, uno nuevo, ey",
+      "translation": "One new one, one new one, one new one, one new one, hey",
+      "grammar": "The repeated phrase \"uno nuevo\" is an idiomatic expression emphasizing the novelty of something, using the present tense to convey a sense of ongoing discovery."
+    },
+    {
+      "time": 182.27040000000596,
+      "text": "Hazle caso a tu amiga, ella tiene razón",
+      "translation": "Listen to your friend, she's right",
+      "grammar": "The verb \"Hazle\" is in the imperative mood, used to give advice or make a request. The phrase \"Hazle caso\" is an idiomatic expression meaning \"listen to\"."
+    },
+    {
+      "time": 186.82040000000595,
+      "text": "Yo vo'a romperte el corazón",
+      "translation": "I'm going to break your heart",
+      "grammar": "The phrase \"yo vo'a\" is a colloquialism used in some Latin American countries, equivalent to the formal \"voy a\" (I am going to), indicating future intention."
+    },
+    {
+      "time": 189.3565,
+      "text": "Vo'a romperte el corazón",
+      "translation": "I'm going to break your heart",
+      "grammar": "The verb \"romperte\" is in the future tense, indicating a planned or intended action. The phrase \"vo'a\" is an idiomatic expression meaning \"I'm going to\" or \"I will\"."
+    },
+    {
+      "time": 192.11570000001788,
+      "text": "Ey, no te enamores de mí",
+      "translation": "Hey, don't fall in love with me",
+      "grammar": "This informal phrase uses the imperative mood to convey a warning or advice, with \"no\" emphasizing the negation of falling in love. The use of \"ey\" is an interjection equivalent to \"hey\" in English, adding a casual tone to the sentence."
+    },
+    {
+      "time": 194.70309999999404,
+      "text": "No te enamores de mí",
+      "translation": "Don't fall in love with me",
+      "grammar": "The phrase \"no te enamores\" is a second-person imperative, instructing someone not to fall in love with the speaker. The use of \"te\" instead of \"tú\" or \"usted\" emphasizes the informal tone and close relationship between the speaker and the person being addressed."
+    },
+    {
+      "time": 196.77409999999404,
+      "text": "Sorry, yo soy así, ey",
+      "translation": "Sorry, that's just how I am, hey",
+      "grammar": "The phrase \"yo soy así\" is an idiomatic expression in Spanish, equivalent to the English idiom \"that's just how I am\". The verb \"soy\" is in the present tense, indicating a habitual or permanent state."
+    },
+    {
+      "time": 199.1395,
+      "text": "No sé por qué soy así",
+      "translation": "I don't know why I'm like this.",
+      "grammar": "The phrase \"soy así\" is an idiomatic expression meaning \"am like this\", using the present tense to describe a habitual or inherent characteristic, rather than a temporary state."
+    },
+    {
+      "time": 201.83580000001191,
+      "text": "Hazle caso a tu amiga, ella tiene razón",
+      "translation": "Listen to your friend, she's right",
+      "grammar": "The verb \"tienes\" is in the present tense and agrees with the subject \"ella\" in number and gender, emphasizing the importance of considering one's friend's opinion."
+    },
+    {
+      "time": 205.47770000001788,
+      "text": "Yo vo'a romperte el corazón",
+      "translation": "I'm going to break your heart",
+      "grammar": "The phrase \"yo vo'a\" is a colloquialism used in some Latin American countries, equivalent to the formal \"voy a\" (I am going to), indicating future intention. The verb \"romperte\" is in the reflexive form, emphasizing the action's impact on the recipient."
+    },
+    {
+      "time": 207.87730000001193,
+      "text": "Vo'a romperte el corazón",
+      "translation": "I'm going to break your heart",
+      "grammar": "The verb \"romperte\" is in the future tense, indicating a planned or intended action. The phrase \"vo'a\" is an idiomatic expression used to emphasize the speaker's determination or intention."
+    },
+    {
+      "time": 211.78959999999404,
+      "text": "No te enamores de mí",
+      "translation": "Don't fall in love with me",
+      "grammar": "The phrase \"no te enamores\" is a command in the subjunctive mood, used to express a request or warning, rather than a direct instruction. This construction emphasizes the speaker's emotional vulnerability and intimacy."
+    },
+    {
+      "time": 213.23570000001789,
+      "text": "No te enamores de mí, no",
+      "translation": "Don't fall in love with me, no",
+      "grammar": "The phrase \"no\" is an interjection used to express strong negation or refusal. It's often used in informal conversations and adds a sense of urgency or emphasis to the sentence."
+    },
+    {
+      "time": 215.80259999999404,
+      "text": "Sorry, yo soy así, ya",
+      "translation": "Sorry, that's just how I am.",
+      "grammar": "The phrase \"yo soy\" is an idiomatic expression used to emphasize one's personality or character, equivalent to saying \"that's just me\". The verb \"soy\" is in the present tense, indicating a habitual or inherent state."
+    },
+    {
+      "time": 218.01140000000595,
+      "text": "No quiero ser así, no",
+      "translation": "I don't want to be like that, no",
+      "grammar": "The phrase \"no quiero ser así\" is in the present tense and uses the negative adverb \"no\" to express refusal or unwillingness. The idiomatic expression \"ser así\" means \"to be like that\"."
+    }
+  ]
+}

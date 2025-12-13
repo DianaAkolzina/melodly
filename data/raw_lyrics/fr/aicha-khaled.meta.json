@@ -1,0 +1,16 @@
+{
+  "language": "fr",
+  "title": "Aicha",
+  "artist": "Khaled",
+  "slug": "aicha-khaled",
+  "track_length_seconds": 257,
+  "source": {
+    "provider": "musixmatch",
+    "track_id": 85059520,
+    "commontrack_id": 5738289,
+    "track_share_url": "https://www.musixmatch.com/lyrics/Khaled/Aicha?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "track_edit_url": "https://www.musixmatch.com/lyrics/Khaled/Aicha/edit?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "search_language": "fr",
+    "fetched_at": "2025-11-21T10:59:01.982580Z"
+  }
+}

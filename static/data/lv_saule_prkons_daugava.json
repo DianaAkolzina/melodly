@@ -1,0 +1,205 @@
+{
+  "id": "lv_saule_prkons_daugava",
+  "title": "Saule, Pērkons, Daugava",
+  "artist": "Swedbank koris",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "lv",
+  "to_language": "en",
+  "audio": "/audio/lv_saule_prkons_daugava.mp3",
+  "duration": 271,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Saule Latvi sēdināja",
+      "translation": "The sun made Latvia sit down",
+      "grammar": "This line uses a metaphorical expression, where the verb \"sēdināja\" is in the passive voice and takes on an idiomatic meaning, implying that the country of Latvia was somehow influenced or affected by the sun's presence."
+    },
+    {
+      "time": 7.723,
+      "text": "Tur, kur gali satiekas",
+      "translation": "Where the ends meet",
+      "grammar": "The phrase \"Tur, kur\" is an idiomatic expression indicating a point of convergence or meeting, often used to describe a turning point or a place where different things come together. The verb \"gali\" is in the present tense, describing a general or habitual situation."
+    },
+    {
+      "time": 17.876,
+      "text": "Balta jūra, zaļa zeme",
+      "translation": "White sea, green land",
+      "grammar": "This line uses a common Latvian idiom where \"jūra\" (sea) and \"zeme\" (land) are used to describe the world or society, rather than literal geographical features. The phrase is often used to express a sense of harmony between nature and humanity."
+    },
+    {
+      "time": 28.028,
+      "text": "Latvei vārtu atslēdziņa",
+      "translation": "The key to the gate for Latvia",
+      "grammar": "This idiomatic phrase uses the preposition \"vārtu\" (of the gate) in a figurative sense, implying access or entry into something. The possessive pronoun \"Latvei\" is used to emphasize the connection to Latvia."
+    },
+    {
+      "time": 35.751,
+      "text": "Latvei vārtu atslēdziņa",
+      "translation": "The key to the gate for Latvia",
+      "grammar": "This idiomatic phrase uses the preposition \"vārtu\" (of the gate) in a figurative sense, implying access or entry into something. The possessive pronoun \"Latvei\" is used to indicate possession and national identity."
+    },
+    {
+      "time": 43.475,
+      "text": "Daugaviņas sargātāja",
+      "translation": "Guardian of the Daugava River",
+      "grammar": "The phrase \"Daugaviņas sargātāja\" is in the nominative case, functioning as a title or epithet, and its grammatical structure is similar to that of an English possessive noun phrase, such as \"Guardian of the Daugava River\"."
+    },
+    {
+      "time": 48.769,
+      "text": "Sveši ļaudis vārtus lauza",
+      "translation": "Strangers broke down the gate",
+      "grammar": "The verb \"lauza\" is in the past tense, indicating a completed action. The phrase \"sveši ļaudis\" uses the idiomatic expression \"sveši\" to mean \"strangers\" or \"unknown people\", emphasizing their unfamiliarity with the place."
+    },
+    {
+      "time": 58.921,
+      "text": "Jūrā krita atslēdziņa",
+      "translation": "A key fell into the sea",
+      "grammar": "The verb \"krita\" is in the passive voice, indicating that the subject (the key) is having an action done to it rather than performing the action itself."
+    },
+    {
+      "time": 66.645,
+      "text": "Zilzibeņu pērkons spēra",
+      "translation": "A bolt of blue lightning struck",
+      "grammar": "The verb \"spēra\" is in the past tense, indicating a completed action. The phrase \"Zilzibeņu pērkons\" is an idiomatic expression meaning \"blue lightning\"."
+    },
+    {
+      "time": 74.368,
+      "text": "Velniem ņēma atslēdziņu",
+      "translation": "They took the key from the devils",
+      "grammar": "The verb \"ņēma\" is in the past tense, indicating a completed action. The phrase \"atslēdziņu no velniem\" can be translated as \"from the devils\" and uses an idiomatic expression to convey possession or origin."
+    },
+    {
+      "time": 82.092,
+      "text": "Nāvi, dzīvi Latve slēdza",
+      "translation": "Death, life, Latvia closed",
+      "grammar": "The phrase \"Latve slēdza\" is an idiomatic expression that combines the country name with a verb in the past tense, indicating that Latvia has been \"closed\" or brought to a standstill by death and life."
+    },
+    {
+      "time": 92.244,
+      "text": "Baltu jūru, zaļu zemi",
+      "translation": "White sea, green land",
+      "grammar": "This phrase uses a common Latvian idiom where two nouns are juxtaposed to create a vivid image. The phrase is in the nominative case and functions as a poetic description rather than a statement of fact."
+    },
+    {
+      "time": 102.396,
+      "text": "Nāvi, dzīvi Latve slēdza",
+      "translation": "Death, life, Latvia closed",
+      "grammar": "The phrase \"Latve slēdza\" is an idiomatic expression that uses the verb \"slēdza\" in the third person singular form to convey a sense of closure or finality, rather than indicating that Latvia itself has taken action."
+    },
+    {
+      "time": 112.548,
+      "text": "Baltu jūru, zaļu zemi",
+      "translation": "White sea, green land",
+      "grammar": "This phrase uses a common Latvian idiom where the order of words is reversed for poetic effect. The phrase is in the nominative case and functions as a metaphorical description of Latvia's natural beauty."
+    },
+    {
+      "time": 122.7,
+      "text": "Saule Latvi sēdināja",
+      "translation": "The sun made Latvia sit down",
+      "grammar": "This line uses a metaphorical expression, where Saule (Sun) is personified as taking action in the present tense, indicating a figurative rather than literal meaning. The verb \"sēdināja\" agrees with the subject \"Latvi\" in number and case, following Latvian grammatical rules."
+    },
+    {
+      "time": 130.424,
+      "text": "Baltas jūras maliņā",
+      "translation": "On the edge of the White Sea",
+      "grammar": "The phrase \"jūras maliņā\" is in the locative case, indicating a specific location. The use of \"maliņā\" instead of \"krastā\" emphasizes the idea of being on the very edge or boundary of the White Sea."
+    },
+    {
+      "time": 138.147,
+      "text": "Vēji, smiltis putināja",
+      "translation": "The winds blew sand",
+      "grammar": "This line uses the present tense to describe a continuous action, with the verb \"vēji\" (to blow) in its base form. The phrase \"smiltis putināja\" is an idiomatic expression meaning \"sand was blown\"."
+    },
+    {
+      "time": 145.871,
+      "text": "Ko lai dzēra latvju bērni?",
+      "translation": "What should Latvian children drink?",
+      "grammar": "The phrase \"Ko lai\" is an idiomatic expression in Latvian, equivalent to the English question tag \"what about\", used to seek advice or opinion. The verb \"dzēra\" is in the imperative mood, indicating a suggestion rather than a direct instruction."
+    },
+    {
+      "time": 158.452,
+      "text": "Dzīves ūdens, nāves ūdens",
+      "translation": "Water of life, water of death",
+      "grammar": "This idiomatic phrase uses a metaphorical expression to convey a contrast between the sustaining power of life (dzīves) and the finality of death (nāves), employing a poetic device common in Latvian literature."
+    },
+    {
+      "time": 168.604,
+      "text": "Daugavā satecēja",
+      "translation": "Confluence in the Daugava",
+      "grammar": "The phrase \"satecēja\" is in the nominative singular form, agreeing with the noun \"Daugavā\"."
+    },
+    {
+      "time": 173.899,
+      "text": "Es pamērcu pirksta galu",
+      "translation": "I dipped my fingertip.",
+      "grammar": "The verb \"pamērcu\" is in the first person singular imperfective aspect, indicating a completed action in the past. The phrase \"pamērcu pirksta galu\" can be translated as \"I was dipping\" rather than simply \"I dipped\"."
+    },
+    {
+      "time": 184.051,
+      "text": "Abus jūtu dvēselē",
+      "translation": "I feel both in my soul",
+      "grammar": "The phrase \"abus\" is an idiomatic expression meaning \"both\" or \"together\", used to convey a sense of unity or harmony, and the verb \"jūtu\" is in the present continuous tense, emphasizing the ongoing nature of the feeling."
+    },
+    {
+      "time": 191.774,
+      "text": "Nāves ūdens, dzīves ūdens",
+      "translation": "Water of death, water of life",
+      "grammar": "This idiomatic expression uses the metaphorical concept of water to contrast two opposing forces in life, employing a poetic device called oxymoron. The phrase is an exclamation rather than a statement, conveying a sense of urgency and emotional intensity."
+    },
+    {
+      "time": 201.926,
+      "text": "Abus jūtam dvēselē",
+      "translation": "We both feel it in our souls",
+      "grammar": "The phrase \"abus\" is a plural pronoun used to indicate shared experience or agreement, similar to the English idiom \"we both\"."
+    },
+    {
+      "time": 209.65,
+      "text": "Saule mūsu māte",
+      "translation": "The Sun is our mother",
+      "grammar": "In Latvian, \"Saule\" is a noun that can be used as a metaphorical expression to convey a sense of nurturing or guidance, similar to the English idiom \"the sun is shining on us\"."
+    },
+    {
+      "time": 217.373,
+      "text": "Daugav' - sāpju aukle",
+      "translation": "Daugav' - the nurse of pain",
+      "grammar": "The phrase \"sāpju aukle\" is an idiomatic expression, where \"sāpju\" is in the nominative case and \"aukle\" is in the genitive case, indicating that \"pain\" is being personified as a caregiver."
+    },
+    {
+      "time": 225.097,
+      "text": "Pērkons velnu spērējs",
+      "translation": "Thunder Devil Kicker",
+      "grammar": "The phrase \"Pērkons velnu spērējs\" is an idiomatic expression, where \"pērkons\" (thunder) and \"velnu\" (devil) are used to emphasize the intensity of the action described by \"spērējs\" (kicker), conveying a sense of powerful and formidable energy."
+    },
+    {
+      "time": 232.82,
+      "text": "Tas - mūsu tēvs",
+      "translation": "This is our father.",
+      "grammar": "The phrase \"Tas\" is an informal way to say \"this\" in Latvian, often used with friends or family, and its usage implies a sense of shared experience or familiarity."
+    },
+    {
+      "time": 240.543,
+      "text": "Saule mūsu māte",
+      "translation": "The Sun is our mother",
+      "grammar": "In Latvian, the verb \"to be\" is often omitted in poetic expressions, as seen in this line where \"Saule\" (Sun) is used to personify a maternal figure. This idiomatic expression conveys a sense of nurturing and protection."
+    },
+    {
+      "time": 248.267,
+      "text": "Daugav' - sāpju aukle",
+      "translation": "Daugav' - the nurse of pain",
+      "grammar": "The phrase \"sāpju aukle\" is an idiomatic expression, where \"sāpju\" is in the nominative case and \"aukle\" is a noun that functions as a predicate nominative, describing the nature of Daugav', rather than indicating possession."
+    },
+    {
+      "time": 255.99,
+      "text": "Pērkons velnu spērējs",
+      "translation": "Thunder Devil Kicker",
+      "grammar": "The phrase \"Pērkons velnu spērējs\" is an idiomatic expression, where \"pērkons\" (thunder) and \"velnu\" (devil) are used to emphasize the intensity or power of something, similar to saying \"the devil himself\"."
+    },
+    {
+      "time": 263.714,
+      "text": "Tas - mūsu tēvs",
+      "translation": "This is our father.",
+      "grammar": "The phrase \"Tas\" is an idiomatic expression equivalent to \"This is\" in English, used to emphasize the speaker's connection to the person or thing being referred to. The possessive pronoun \"mūsu\" agrees with the noun \"tēvs\" in number and case."
+    }
+  ]
+}

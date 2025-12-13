@@ -1,0 +1,427 @@
+{
+  "id": "fr_dolce_camara",
+  "title": "Dolce Camara",
+  "artist": "Booba feat. SDM",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_dolce_camara.mp3",
+  "duration": 178,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "C'est ça qu'ils veulent",
+      "translation": "That's what they want",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of certainty, implying that this is exactly what someone wants. The pronoun \"ça\" refers back to the preceding phrase, emphasizing the idea being discussed."
+    },
+    {
+      "time": 1.839,
+      "text": "Mip-mip (ouh, ouais)",
+      "translation": "Mip-mip (ooh, yeah)",
+      "grammar": "This interjection \"Mip-mip\" is an informal expression of excitement or agreement, often used in spoken French. The phrase \"ouh, ouais\" translates to \"ooh, yeah\", emphasizing the speaker's enthusiasm and confirmation."
+    },
+    {
+      "time": 3.175,
+      "text": "C'est ça qu'ils veulent (I-Z-I, ouh, ouais)",
+      "translation": "That's what they want (I-Z-I, ooh, yeah)",
+      "grammar": "The phrase \"C'est ça qu'ils veulent\" is an idiomatic expression that uses the present tense to convey a sense of certainty or factuality, rather than describing a specific moment in time."
+    },
+    {
+      "time": 6.272,
+      "text": "On va leur donner (ouh, ouais)",
+      "translation": "We're going to give them (ooh, yeah)",
+      "grammar": "The phrase \"on va\" is a colloquial way of saying \"we're going to\" in the future tense, indicating the speaker's intention or plan. The use of \"ouh\" and \"ouais\" is an informal expression of enthusiasm and agreement."
+    },
+    {
+      "time": 8.111,
+      "text": "C'est ça qu'ils veulent (ouh, ouais)",
+      "translation": "That's what they want (ooh, yeah)",
+      "grammar": "The phrase \"C'est ça qu'ils veulent\" is an idiomatic expression in French, using the present tense to convey a sense of certainty or factuality about what others want. The pronoun \"ça\" can be translated as \"that's what\", implying a direct reference to the preceding clause."
+    },
+    {
+      "time": 10.453,
+      "text": "Okay",
+      "translation": "Okay",
+      "grammar": "This interjection \"Okay\" is used to express agreement or confirmation, and its informal tone makes it suitable for casual conversations."
+    },
+    {
+      "time": 11.653,
+      "text": "J'ai pas besoin d'parler, j'suis grand séducteur",
+      "translation": "I don't need to speak, I'm a great seducer.",
+      "grammar": "The phrase \"j'suis\" is an informal, colloquial way of saying \"je suis\" (I am), using the contraction of \"je\" and \"suis\". This is an example of spoken French using the \"verlan\" slang."
+    },
+    {
+      "time": 14.499,
+      "text": "Le shit, c'est du filtré, la coke, c'est du beurre",
+      "translation": "Hash is filtered, coke is butter",
+      "grammar": "This informal expression uses the present tense to describe a habitual or general truth, with \"c'est\" (it's) implying a sense of familiarity and agreement. The idiomatic comparison of drugs to everyday goods (\"filtered\" hash and \"butter\" coke) adds to the conversational tone."
+    },
+    {
+      "time": 17.847,
+      "text": "J'arrive plus à m'projeter, j'vois que le M-U-R",
+      "translation": "I can't project myself into the future anymore, all I see is the WALL",
+      "grammar": "The phrase \"j'vois\" is an informal way of saying \"je vois\" (I see), using the spoken pronunciation and dropping the formal \"e\". This is a common feature of spoken French, particularly among younger speakers."
+    },
+    {
+      "time": 21.448,
+      "text": "Sa mère, il est D-U-R",
+      "translation": "His mother, he's TOUGH",
+      "grammar": "The phrase \"il est D-U-R\" is an idiomatic expression used to emphasize someone's toughness or strength, with \"D-U-R\" being a playful pronunciation of the French word \"dur\", meaning strong or tough."
+    },
+    {
+      "time": 23.538,
+      "text": "J'vais m'poser dans l'maki (sale, okay)",
+      "translation": "I'm going to sit down in the maki (dirty, okay)",
+      "grammar": "This informal expression uses the future tense \"je vais\" instead of the more formal \"je suis en train de\" to convey a sense of spontaneity and casualness. The use of \"m'poser\" is an idiomatic way to say \"to sit down\", rather than using the more literal \"se poser\"."
+    },
+    {
+      "time": 26.132,
+      "text": "Enterrer sous terre tous mes cellulaires",
+      "translation": "Bury all my cell phones underground",
+      "grammar": "This idiomatic expression uses the metaphor of burial to convey the idea of getting rid of or disconnecting from something (cell phones), emphasizing the desire for a digital detox."
+    },
+    {
+      "time": 27.971,
+      "text": "Piscine à débordement (okay)",
+      "translation": "Infinity pool (okay)",
+      "grammar": "The phrase \"à débordement\" is an idiomatic expression indicating a pool's overflow, and the \"(okay)\" interjection adds a casual tone to the statement."
+    },
+    {
+      "time": 29.307,
+      "text": "Pizza aux fruits de mer",
+      "translation": "Seafood pizza",
+      "grammar": "The phrase \"aux fruits de mer\" is an idiomatic expression meaning \"seafood\" in English, used to describe a type of pizza topping."
+    },
+    {
+      "time": 30.894,
+      "text": "J'aide les miens, ceux qui ont un crochet, fuck mon prochain",
+      "translation": "I help my own, those who have a hook, fuck my neighbor",
+      "grammar": "The phrase \"j'aide les miens\" uses the informal pronoun \"les miens\" to emphasize family ties, whereas \"mon prochain\" is an idiomatic expression meaning \"my neighbor\" or \"the person next door\"."
+    },
+    {
+      "time": 34.243,
+      "text": "Avant d'prendre l'uppercut",
+      "translation": "Before taking the uppercut",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of simultaneous action, implying that the speaker is about to take the uppercut. The phrase \"avant de\" translates to \"before\" and indicates the speaker's intention or plan."
+    },
+    {
+      "time": 35.831,
+      "text": "Tout l'monde a un projet, et puis tout s'éteint",
+      "translation": "Everyone has a project, and then everything fizzles out.",
+      "grammar": "The phrase \"tout s'éteint\" is an idiomatic expression meaning \"everything fizzles out\", where the verb \"s'éteint\" is in the impersonal passive voice, indicating a general or universal truth."
+    },
+    {
+      "time": 38.928,
+      "text": "Pour combattre l'empire, il m'faut R2-D2",
+      "translation": "To fight the empire, I need R2-D2",
+      "grammar": "The phrase \"il m'faut\" is an idiomatic expression meaning \"I need to\" or \"it's necessary that I\". The use of the reflexive pronoun \"m'\" emphasizes the speaker's personal involvement."
+    },
+    {
+      "time": 41.522,
+      "text": "France rime avec chance, j'crois en aucun des deux",
+      "translation": "France rhymes with luck, I believe in neither.",
+      "grammar": "The phrase \"j'crois\" is the informal first-person singular form of the verb \"croire\", used to express a personal opinion or belief. This usage is typical of spoken French and is often translated as \"I think\" or \"I believe\"."
+    },
+    {
+      "time": 44.367,
+      "text": "Elle veut mon WhatsApp, mon numéro de chambre",
+      "translation": "She wants my WhatsApp number, my room number",
+      "grammar": "The phrase \"Elle veut\" is an idiomatic expression meaning \"She wants\" in English, using the formal second-person singular pronoun \"elle\" to refer to a woman. Note that this usage of \"elle\" is informal and friendly, rather than formal or polite."
+    },
+    {
+      "time": 46.709,
+      "text": "J'ai la main dans ses cheveux, je tire, elle se cambre",
+      "translation": "My hand is in her hair, I pull, she arches her back",
+      "grammar": "The use of the present tense \"j'ai\" and \"je\" with \"tire\" and \"se cambre\" indicates a simultaneous action, emphasizing the physical interaction between the speaker and the person being addressed."
+    },
+    {
+      "time": 50.058,
+      "text": "J'finis sur son dos, précis comme Rondo",
+      "translation": "I end up on his back, precise as Rondo",
+      "grammar": "The use of \"j'\" instead of \"je\" is an informal pronunciation and particle combination in French, often used to indicate a more casual tone. This construction is commonly found in spoken language and poetry."
+    },
+    {
+      "time": 52.4,
+      "text": "Riche comme un Bongo, bang-bang",
+      "translation": "Rich as a Bongo, bang-bang",
+      "grammar": "This idiomatic expression uses the comparative form \"riche\" to convey an exaggerated sense of wealth, rather than describing an actual amount. The phrase is meant to be humorous and whimsical, rather than a literal description."
+    },
+    {
+      "time": 54.239,
+      "text": "On les aime fraiches, bien michto, qui savent accueillir comme Demdem",
+      "translation": "We like them fresh, really hot, and welcoming like Demdem.",
+      "grammar": "The phrase \"on les aime\" is an idiomatic expression meaning \"we like them\", using the impersonal pronoun \"on\" to refer to a group of people."
+    },
+    {
+      "time": 57.337,
+      "text": "Plus on étouffe, plus c'est la ville, plus on est d'fous, plus c'est l'asile",
+      "translation": "The more suffocated we become, the more it's like a city; the more madmen there are, the more it's like an asylum.",
+      "grammar": "This line employs a common French idiomatic expression, where the verb \"être\" is used to describe a state or condition, rather than its usual meaning of \"to be\". The sentence structure and verb forms (e.g. \"on étouffe\", \"c'est la ville\") create a sense of irony and exaggeration, emphasizing the chaos and madness described in the lyrics."
+    },
+    {
+      "time": 62.195,
+      "text": "À peine fini d'forniquer, j'me rhabille, les larmes sont halal, le sourire est kabyle",
+      "translation": "I've barely finished fornicating when I get dressed again; the tears are halal, the smile is Kabyle.",
+      "grammar": "This line employs a casual, informal tone and colloquial language, with the use of the first person singular verb form \"j'me rhabille\" indicating an intimate or personal experience. The idiomatic expressions \"les larmes sont halal\" and \"le sourire est kabyle\" add to the conversational nature of the text."
+    },
+    {
+      "time": 66.551,
+      "text": "J'suis de l'ancienne fédé, sans enseigne piégé",
+      "translation": "I'm from the old federation, without a trap sign",
+      "grammar": "The use of \"j'suis\" instead of \"je suis\" is an informal, conversational way to express oneself in French, often used with friends or in casual settings. This construction is a colloquialism that indicates a more relaxed tone and mood."
+    },
+    {
+      "time": 69.144,
+      "text": "OG, BG, OG, BG",
+      "translation": "OG, BG, OG, BG",
+      "grammar": "This line is an example of a repetitive phrase used to emphasize repetition or similarity, often found in hip-hop lyrics. The use of \"OG\" and \"BG\" (Original Gangster and Born Gangsta) are idiomatic expressions that add flavor to the song's tone and style."
+    },
+    {
+      "time": 70.48,
+      "text": "Faites entrer toutes les caméras",
+      "translation": "Bring in all the cameras",
+      "grammar": "The imperative mood is used to give a direct command, with the verb \"faire\" (to do/to make) in the present tense, indicating an immediate action. The phrase \"faites entrer\" literally means \"do enter\", emphasizing the urgency of bringing in all the cameras."
+    },
+    {
+      "time": 72.068,
+      "text": "Je suis beau, j'suis en Dolce Camara",
+      "translation": "I'm handsome, I'm wearing Dolce & Camara",
+      "grammar": "The phrase \"j'suis\" is a colloquialism used to indicate informal spoken French, equivalent to the formal \"je suis\"."
+    },
+    {
+      "time": 74.41,
+      "text": "J'suis de l'ancienne fédé, sans enseigne piégé",
+      "translation": "I'm from the old federation, without a trap sign",
+      "grammar": "The use of \"j'suis\" instead of \"je suis\" is an informal, conversational way to express oneself in French, equivalent to saying \"I'm\" in English. This construction is often used in spoken language and is characteristic of casual speech."
+    },
+    {
+      "time": 77.004,
+      "text": "OG, BG, OG, BG",
+      "translation": "OG, BG, OG, BG",
+      "grammar": "This line is an example of a repetitive phrase used as an interjection, emphasizing excitement or enthusiasm. The repeated use of \"OG\" and \"BG\" creates a rhythmic effect, similar to chanting or cheering."
+    },
+    {
+      "time": 78.339,
+      "text": "Faites entrer toutes les caméras",
+      "translation": "Bring in all the cameras",
+      "grammar": "This imperative sentence uses the present tense to give a direct command, with the verb \"faire\" meaning \"to make\" or \"to have done\". The phrase \"faites entrer\" is an idiomatic expression equivalent to \"bring in\", emphasizing the action of introducing something."
+    },
+    {
+      "time": 79.927,
+      "text": "Je suis beau, j'suis en Dolce Camara",
+      "translation": "I'm handsome, I'm wearing Dolce & Camara",
+      "grammar": "The phrase \"j'suis\" is a casual, informal way of saying \"je suis\" (I am), using the contraction of \"je\" and \"suis\" to convey a sense of relaxed intimacy. This usage is common in spoken French but may not be suitable for formal writing or professional settings."
+    },
+    {
+      "time": 82.269,
+      "text": "Eh",
+      "translation": "Hey",
+      "grammar": "This interjection \"Eh\" is used to get someone's attention, similar to the English phrase \"Hey\"."
+    },
+    {
+      "time": 83.469,
+      "text": "J'descends du singe, j'les visser juste en bas d'la cité",
+      "translation": "I descended from the monkey, I screwed them right at the bottom of the city",
+      "grammar": "The use of \"j'\" is a informal first-person singular pronoun, equivalent to \"I\" in English, but with a more casual tone. It's often used in spoken French and can be translated as \"I\" or \"me\"."
+    },
+    {
+      "time": 87.069,
+      "text": "Devant moi, t'es mimi, prends ton phone, insulte-moi (gros, c'est réel)",
+      "translation": "In front of me, you're cute, take out your phone, insult me (dude, it's real)",
+      "grammar": "The phrase \"prends ton phone\" is an informal idiom, using the imperative mood to convey a sense of urgency and playfulness. The use of \"ton\" instead of \"le/la\" agrees with the speaker's familiarity with the person being addressed."
+    },
+    {
+      "time": 90.922,
+      "text": "La technique à Ronnie, la ce-for à Seedorf",
+      "translation": "Ronnie's technique, Seedorf's ce-for",
+      "grammar": "This line uses the idiomatic expression \"à\" to indicate possession or association, similar to English \"of\" or \"'s\". The phrase \"ce-for\" is likely a colloquialism or slang term, and its meaning may vary depending on context."
+    },
+    {
+      "time": 93.515,
+      "text": "C'qu'ils font en dix années, bah, moi, ça m'prend six mois (ouais, gros, c'est réel)",
+      "translation": "What they do in ten years, well, it takes me six months (yeah, man, it's real)",
+      "grammar": "This line uses the informal first-person singular pronoun \"moi\" and the particle \"ça\" to express a subjective opinion, emphasizing the speaker's personal experience. The phrase \"c'est réel\" is an idiomatic expression meaning \"it's true\" or \"it's really like that\"."
+    },
+    {
+      "time": 98.626,
+      "text": "Cigare en che-bou quand j'arrive sur scène",
+      "translation": "Cigar in hand when I arrive on stage",
+      "grammar": "The phrase \"cigare en che-bou\" is an idiomatic expression meaning \"in one's pocket\" or \"at the ready\", implying that the speaker has a cigar prepared for smoking. The use of the imperfect tense \"j'arrive\" indicates ongoing action, describing a habitual behavior."
+    },
+    {
+      "time": 101.22,
+      "text": "La saga, la cité, Douk Saga en chef, ça dyab (saga la cité)",
+      "translation": "The saga, the city, Douk Saga chief, it's crazy (saga the city)",
+      "grammar": "This line uses the informal phrase \"ça dyab\" to express strong emotions or surprise, equivalent to \"it's crazy\" in English. The phrase is an idiomatic expression that combines the pronoun \"ça\" with the adjective \"dyab\", which intensifies the meaning."
+    },
+    {
+      "time": 104.82,
+      "text": "Poto, ne crois même pas qu'on chôme, ça jobbe (la cité, la cité)",
+      "translation": "Bro, don't even think we're unemployed, we're working (in the hood, in the hood)",
+      "grammar": "The phrase \"ça jobbe\" is an idiomatic expression meaning \"we're working\", using the informal verb \"jobber\" and emphasizing the city or neighborhood (\"la cité\") where this work takes place."
+    },
+    {
+      "time": 108.672,
+      "text": "Y a d'la che-blan, d'la verte et du jaune, ça vend (gros, c'est réel)",
+      "translation": "There's white, green and yellow stuff, it sells (big time, it's real)",
+      "grammar": "The phrase \"ça vend\" is an idiomatic expression meaning \"it sells well\", using the informal pronoun \"ça\" to refer to the unspecified noun \"stuff\"."
+    },
+    {
+      "time": 113.531,
+      "text": "Le business est carré, la BAC fait des rondes (ouh)",
+      "translation": "The business is well-organized, the BAC is patrolling (ooh)",
+      "grammar": "The phrase \"fait des rondes\" uses the present continuous tense to convey a sense of ongoing or habitual action, implying that the BAC's patrols are regular and consistent."
+    },
+    {
+      "time": 116.376,
+      "text": "On encaisse, on rit aux nez des fédéraux (you-ouh-ouh-ouh)",
+      "translation": "We take it in stride, we laugh in the faces of the feds (you-ouh-ouh-ouh)",
+      "grammar": "The phrase \"on encaisse\" is an idiomatic expression meaning \"to take something in stride\", using the imperfect tense to convey a sense of habitual action."
+    },
+    {
+      "time": 119.725,
+      "text": "La mère à Riolo, le père à Riolo (ouh)",
+      "translation": "The mother in Riolo, the father in Riolo (ooh)",
+      "grammar": "This idiomatic phrase uses the present tense to describe a habitual or general situation, rather than a specific past event. The use of \"à\" with place names is an informal way to indicate someone's origin or connection to that location."
+    },
+    {
+      "time": 122.319,
+      "text": "J'arrive en affranchi (ouh, ouh), BG comme Liotta (en Dolce Camara)",
+      "translation": "I arrive as a free man (ooh, ooh), handsome like Liotta (in Dolce Camara)",
+      "grammar": "The phrase \"J'arrive en affranchi\" uses the present participle \"arriver\" to convey a sense of freedom and arrival, rather than the simple past tense which would imply a completed action. This usage is idiomatic in French, emphasizing the speaker's current state."
+    },
+    {
+      "time": 125.668,
+      "text": "J'fais la taille d'un yéti, l'argent du re-four, ouvre business en ïe-Tha (gros, c'est réel)",
+      "translation": "I'm the size of a yeti, I've got the money from the snitch, I'm opening a business in Thailand (dude, it's real)",
+      "grammar": "The phrase \"J'fais\" is an informal way to express \"I do\" or \"I'm doing\", using the first person singular verb form \"faire\" and the pronoun \"je\" in a single contraction. This is a common idiomatic expression in spoken French, often used for emphasis or to convey a sense of accomplishment."
+    },
+    {
+      "time": 131.281,
+      "text": "Solo, j'paie dix teilles, les biatchs ont soif (92i, gros)",
+      "translation": "Solo, I pay for ten bottles, the bitches are thirsty (92i, bro)",
+      "grammar": "The phrase \"les biatchs\" is an informal idiomatic expression used to refer to women in a colloquial or derogatory manner."
+    },
+    {
+      "time": 134.378,
+      "text": "En Dolce Camara, dans costume en soie (Ocho)",
+      "translation": "In Dolce Camara, in a silk suit (Ocho)",
+      "grammar": "The phrase \"en costume en soie\" is an idiomatic expression meaning \"in formal attire\", using the present participle \"en soie\" to describe the state of wearing a silk suit."
+    },
+    {
+      "time": 136.721,
+      "text": "Ils nous aiment pas, mais sont obligés d'faire avec (gang)",
+      "translation": "They don't like us, but they have to deal with it (gang)",
+      "grammar": "The phrase \"ils doivent faire avec\" is an idiomatic expression meaning \"they have to put up with\", using the present tense to convey a sense of obligation rather than current action."
+    },
+    {
+      "time": 139.818,
+      "text": "La ce-for des choses donne la vue aux aveugles (yeah)",
+      "translation": "The power of things gives sight to the blind (yeah)",
+      "grammar": "This idiomatic expression uses the metaphorical extension of a physical ability (sight) to describe a figurative one, illustrating the idea that understanding or insight can be gained through experience or knowledge."
+    },
+    {
+      "time": 142.915,
+      "text": "On est entourés d'faux, le 92i reste vrai (bouh)",
+      "translation": "We're surrounded by fakes, 92i remains real (boo)",
+      "grammar": "The phrase \"On est\" is an informal way of saying \"we are\", using the subject-verb agreement of French spoken language. The use of \"on\" instead of \"nous\" is a common colloquialism in modern French."
+    },
+    {
+      "time": 145.76,
+      "text": "Le serveur met du D.U.C dans mon verre",
+      "translation": "The waiter puts D.U.C. in my glass",
+      "grammar": "In informal French, \"met\" can imply a casual or habitual action, similar to the English idiom \"puts away,\" conveying that the waiter regularly adds D.U.C. to the speaker's drink."
+    },
+    {
+      "time": 148.606,
+      "text": "D'la nouvelle géné comme USKY et Greenzer",
+      "translation": "New generation like USKY and Greenzer",
+      "grammar": "This idiomatic expression uses the preposition \"d'\" to indicate a comparison, similar to \"like\" in English. The phrase is in the present tense, describing a similarity between the new generation and these two individuals."
+    },
+    {
+      "time": 150.948,
+      "text": "OG BG, OG BG",
+      "translation": "OG BG, OG BG",
+      "grammar": "This interjection \"OG BG\" is an informal expression used to address or refer to someone familiarly, with no specific grammatical function."
+    },
+    {
+      "time": 152.284,
+      "text": "Faites entrer toutes les caméras (ouais, ouais, ouais)",
+      "translation": "Bring in all the cameras (yeah, yeah, yeah)",
+      "grammar": "The phrase \"ouais\" is an informal way to say \"yes\" or \"okay\", often used in spoken French to express agreement or confirmation."
+    },
+    {
+      "time": 154.626,
+      "text": "Je suis beau, j'suis en Dolce Camara (Arriba, arriba, 92izi)",
+      "translation": "I'm handsome, I'm wearing Dolce Camara (Arriba, arriba, 92izi)",
+      "grammar": "The use of \"j'suis\" instead of the standard \"je suis\" is an informal colloquialism, common in spoken French, which indicates a relaxed tone and casual mood."
+    },
+    {
+      "time": 157.723,
+      "text": "J'suis de l'ancienne fédé, sans enseigne piégé",
+      "translation": "I'm from the old federation, without a trap sign",
+      "grammar": "The phrase \"J'suis\" is an informal way of saying \"I am\" in French, using the subject-verb agreement of the present tense. This idiomatic expression is commonly used in spoken language to convey a sense of belonging or identity."
+    },
+    {
+      "time": 160.317,
+      "text": "OG BG, OG BG (Ocho)",
+      "translation": "OG BG, OG BG (Ocho)",
+      "grammar": "This line uses the idiomatic expression \"OG\" to refer to an original or authentic person, group, or thing, which is often used in informal settings. The repetition of \"OG BG\" emphasizes the authenticity and authority being claimed."
+    },
+    {
+      "time": 161.905,
+      "text": "Faites entrer toutes les caméras",
+      "translation": "Bring in all the cameras",
+      "grammar": "The imperative mood is used to give a direct order, with the verb \"faire\" (to do/to make) taking the infinitive form \"entrer\" and agreeing with the plural noun \"toutes les caméras\"."
+    },
+    {
+      "time": 163.492,
+      "text": "Je suis beau, j'suis en Dolce Camara",
+      "translation": "I'm handsome, I'm wearing Dolce & Camara",
+      "grammar": "The phrase \"j'suis\" is a casual, informal way of saying \"je suis\" in French, using the contraction of \"je\" and \"suis\". This colloquialism is often used in spoken language to convey a sense of relaxed confidence."
+    },
+    {
+      "time": 165.834,
+      "text": "J'suis de l'ancienne fédé, sans enseigne piégé",
+      "translation": "I'm from the old federation, without a trap sign",
+      "grammar": "The use of \"j'suis\" instead of \"je suis\" is an informal, conversational way to express oneself in French, often used with friends or in casual settings. This construction is a common idiomatic expression in spoken French, equivalent to saying \"I'm from...\" in English."
+    },
+    {
+      "time": 168.428,
+      "text": "OG BG, OG BG (Saddam, Hauts-de-Seine)",
+      "translation": "OG BG, OG BG (Saddam, Hauts-de-Seine)",
+      "grammar": "This line uses the idiomatic expression \"OG\" to refer to an original gangster or a respected individual, which is often used in informal contexts and can be considered a colloquialism."
+    },
+    {
+      "time": 170.77,
+      "text": "Faites entrer toutes les caméras",
+      "translation": "Bring in all the cameras",
+      "grammar": "The imperative mood is used to give a direct command, with the verb \"faire\" (to do/to make) in the present tense. The phrase \"faites entrer\" literally means \"do enter\", emphasizing the action of bringing in the cameras."
+    },
+    {
+      "time": 172.358,
+      "text": "Je suis beau, j'suis en Dolce Camara",
+      "translation": "I'm handsome, I'm wearing Dolce & Camara",
+      "grammar": "The use of \"j'suis\" instead of \"je suis\" is an informal idiomatic expression in French, indicating a casual tone and colloquial language."
+    },
+    {
+      "time": 174.7,
+      "text": "IZI",
+      "translation": "IZI",
+      "grammar": "This interjection \"IZI\" is an informal expression of excitement or enthusiasm, often used in spoken French."
+    },
+    {
+      "time": 175.9,
+      "text": "Okay",
+      "translation": "Okay",
+      "grammar": "This interjection \"Okay\" is used to express agreement or confirmation, and its informal tone is typical of spoken English."
+    },
+    {
+      "time": 177.1,
+      "text": "Bouh",
+      "translation": "Boo",
+      "grammar": "This interjection \"Bouh\" is an informal way to express surprise or alarm, similar to the English phrase \"Oh no!\" or \"Good grief!\", and is often used in casual conversations."
+    }
+  ]
+}

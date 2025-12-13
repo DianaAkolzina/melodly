@@ -1,0 +1,301 @@
+{
+  "id": "fr_boule_de_flipper",
+  "title": "Boule de flipper",
+  "artist": "Maxi Club Version — Corynne Charby",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_boule_de_flipper.mp3",
+  "duration": 410,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Moi j'suis comme une bombe",
+      "translation": "I'm like a bomb",
+      "grammar": "In informal French, the phrase \"Moi j'suis\" is an idiomatic expression used to emphasize one's emotional state or strong feelings, equivalent to saying \"I'm so upset\" or \"I'm furious\". The use of \"j'suis\" instead of \"je suis\" (I am) creates a sense of urgency and intensity."
+    },
+    {
+      "time": 10.381,
+      "text": "Qu'on a larguée",
+      "translation": "That we dumped",
+      "grammar": "This idiomatic expression uses the impersonal pronoun \"on\" to indicate a general or hypothetical situation, rather than referring to a specific person. The verb \"a larguée\" is in the passive voice, describing an action that occurred without specifying who performed it."
+    },
+    {
+      "time": 17.447,
+      "text": "Et puis qui tombe au beau milieu",
+      "translation": "And then who falls right in the middle",
+      "grammar": "The phrase \"au beau milieu\" is an idiomatic expression meaning \"right in the middle\". The verb \"tomber\" (to fall) is in the passive voice, indicating that the subject is not performing the action of falling."
+    },
+    {
+      "time": 29.485,
+      "text": "D'un slow d'enfer sans partenaire",
+      "translation": "A slow dance that's pure bliss, without a partner",
+      "grammar": "The phrase \"d'un slow d'enfer\" is an idiomatic expression using the preposition \"d'\" to indicate the type of slow dance, rather than its origin or location."
+    },
+    {
+      "time": 41.523,
+      "text": "Moi je suis pas faite pour les dollars",
+      "translation": "I'm not made for dollars",
+      "grammar": "The phrase \"je suis pas\" is an informal way to express negation in French, equivalent to \"I'm not\" or \"I don't\". It's a common idiom used in spoken language."
+    },
+    {
+      "time": 55.219,
+      "text": "Et les défaites",
+      "translation": "And the defeats",
+      "grammar": "The phrase \"les défaites\" is in the nominative plural form, agreeing with the preceding noun \"les défaites\"."
+    },
+    {
+      "time": 60.628,
+      "text": "J'ai un chagrin de Baby Doll",
+      "translation": "I have a Baby Doll heartbreak",
+      "grammar": "The phrase \"un chagrin\" is an idiomatic expression meaning a deep emotional pain or sorrow, rather than a physical injury. The verb \"j'ai\" is in the present tense, indicating that the speaker currently experiences this heartbreak."
+    },
+    {
+      "time": 72.666,
+      "text": "Sans idylle, sans idole",
+      "translation": "Without romance, without an idol",
+      "grammar": "This idiomatic expression uses the negation \"sans\" to convey a sense of absence or lack, rather than a physical impossibility. It is often used in French to express a feeling of emotional emptiness or disconnection."
+    },
+    {
+      "time": 79.732,
+      "text": "Et je vis comme une boule de flipper",
+      "translation": "And I live like a pinball.",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of perpetual chaos, likening one's life to a game of pinball where the ball is constantly bouncing around. The phrase \"comme une boule de flipper\" literally means \"like a pinball\" but figuratively conveys a state of being in constant motion and disarray."
+    },
+    {
+      "time": 93.428,
+      "text": "Qui roule",
+      "translation": "Who rolls",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of habitual or repeated action, rather than referring to a specific instance."
+    },
+    {
+      "time": 97.179,
+      "text": "Avec les oreillers du cœur",
+      "translation": "With the pillows of the heart",
+      "grammar": "This idiomatic expression uses the metaphorical concept of pillows to describe the comfort and solace provided by love, conveying a sense of emotional support. The phrase is in the present tense, emphasizing the ongoing nature of this comforting feeling."
+    },
+    {
+      "time": 105.902,
+      "text": "En boule",
+      "translation": "In a ball",
+      "grammar": "This idiomatic expression uses the verb \"être\" in the present participle form to convey the idea of being in a state or condition, rather than describing a specific location. The phrase is often used figuratively to describe feeling overwhelmed or stressed."
+    },
+    {
+      "time": 109.653,
+      "text": "Et je vis comme une boule de flipper",
+      "translation": "And I live like a pinball.",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of perpetual chaos and unpredictability, similar to how a pinball machine operates. The phrase \"comme une boule de flipper\" is an extended metaphor that equates the speaker's life with the unpredictable movement of a pinball."
+    },
+    {
+      "time": 123.349,
+      "text": "Qui roule",
+      "translation": "Who rolls",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of habitual or repeated action, rather than a specific instance. The pronoun \"qui\" is used to ask about the identity of someone who habitually engages in rolling."
+    },
+    {
+      "time": 127.1,
+      "text": "Voilier, si t'as pas de skipper",
+      "translation": "Sailboat, if you don't have a skipper",
+      "grammar": "The phrase \"si t'as\" is an informal way of saying \"if you have\" in French, using the pronoun \"t'\" (you) and the verb \"avoir\" in the imperfect tense. This idiomatic expression is commonly used in spoken French to convey a sense of casualness or familiarity."
+    },
+    {
+      "time": 139.138,
+      "text": "Tu coules",
+      "translation": "You're sinking",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a sense of suddenness or urgency, implying that someone is rapidly losing control or slipping away. The pronoun \"tu\" is informal and conversational in tone."
+    },
+    {
+      "time": 142.889,
+      "text": "J'lis des romans fleuve",
+      "translation": "I read long novels",
+      "grammar": "The phrase \"j'lis\" is an informal way of saying \"I read\" in French, using the verb \"lire\" in the first person singular imperfect tense, which indicates ongoing or repeated action."
+    },
+    {
+      "time": 151.613,
+      "text": "Il faut qu'j'oublie pour être toute neuve",
+      "translation": "I need to forget in order to be brand new.",
+      "grammar": "The phrase \"il faut que\" is a construction used to express necessity or obligation, similar to \"must\" or \"have to\". The verb \"oublie\" is in the subjunctive mood because it's expressing a hypothetical or uncertain situation."
+    },
+    {
+      "time": 166.966,
+      "text": "Les souvenirs c'est du poison",
+      "translation": "Memories are poison",
+      "grammar": "This idiomatic expression uses the present tense to convey a general truth, rather than describing a specific past or future event. The phrase \"c'est\" is used to equate memories with poison, emphasizing their negative impact."
+    },
+    {
+      "time": 177.347,
+      "text": "Au goût citron",
+      "translation": "Lemon flavor",
+      "grammar": "This idiomatic expression uses the preposition \"au\" to indicate a subjective preference, equivalent to saying \"to my taste\"."
+    },
+    {
+      "time": 182.755,
+      "text": "J'rêve à des endroits",
+      "translation": "I dream of places",
+      "grammar": "The phrase \"J'rêve\" is a contraction of \"je rêve\", using the informal \"je\" and the verb \"rêver\" in the present tense, indicating a habitual or general sense of dreaming."
+    },
+    {
+      "time": 191.479,
+      "text": "Que je me dessine du bout des doigts",
+      "translation": "That I draw with my fingertips",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or repeated action, and the phrase \"du bout des doigts\" is an informal way of saying \"with great care\" or \"with precision\"."
+    },
+    {
+      "time": 205.174,
+      "text": "Sur les miroirs de mon studio",
+      "translation": "On the mirrors of my studio",
+      "grammar": "The phrase \"sur les miroirs\" is an idiomatic expression translating to \"on the mirrors\", using the preposition \"sur\" to indicate location, rather than a literal reflection."
+    },
+    {
+      "time": 215.555,
+      "text": "Pas d'histoire, pas de photo",
+      "translation": "No story, no photo",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of absence or lack, rather than describing an ongoing situation. The phrase is often used figuratively to mean that there's no exciting or memorable event to share."
+    },
+    {
+      "time": 225.936,
+      "text": "Et j'vis comme une boule de flipper",
+      "translation": "And I live like a pinball.",
+      "grammar": "This idiomatic expression uses the verb \"vis\" in the present tense, conveying a sense of continuous or habitual action. The phrase \"comme une boule de flipper\" is an informal way to describe someone's life as unpredictable and constantly changing."
+    },
+    {
+      "time": 239.632,
+      "text": "Qui roule",
+      "translation": "Who rolls",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of habitual or repeated action, rather than referring to a specific instance."
+    },
+    {
+      "time": 243.383,
+      "text": "Tous mes beaux châteaux d'Équateur",
+      "translation": "All my beautiful castles in Ecuador",
+      "grammar": "The phrase \"tous mes\" is an idiomatic expression meaning \"all my\", where \"tous\" agrees with the plural noun \"beaux châteaux\". The use of \"d'Équateur\" instead of \"en Équateur\" emphasizes possession rather than location."
+    },
+    {
+      "time": 253.764,
+      "text": "S'écroulent",
+      "translation": "They collapse",
+      "grammar": "The phrase \"S'écroulent\" is in the third person plural imperfective tense, indicating an ongoing or repeated action of collapse. Note that the reflexive pronoun \"s'\" is used to indicate a reciprocal or mutual action among the subjects."
+    },
+    {
+      "time": 257.515,
+      "text": "Et je vis comme une boule de flipper",
+      "translation": "And I live like a pinball.",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of perpetual chaos, likening one's life to the unpredictable and fast-paced game of pinball. The phrase \"comme une boule de flipper\" is an informal way to describe feeling overwhelmed or constantly on edge."
+    },
+    {
+      "time": 271.211,
+      "text": "Qui roule",
+      "translation": "Who rolls",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of habitual or repeated action, rather than referring to a specific instance."
+    },
+    {
+      "time": 274.962,
+      "text": "Capitaine d'un bateau chanteur",
+      "translation": "Captain of a singing boat",
+      "grammar": "This idiomatic expression uses the metaphorical concept of a \"singing boat\" to describe someone who is in charge and has a talent for music, employing the figurative language of personification."
+    },
+    {
+      "time": 283.685,
+      "text": "Tu coules",
+      "translation": "You're sinking",
+      "grammar": "In informal French speech, \"tu\" is used to address a friend or someone familiar, and \"coules\" is an idiomatic expression meaning \"to sink\" in the sense of being overwhelmed."
+    },
+    {
+      "time": 287.436,
+      "text": "Et je vis comme une boule de flipper",
+      "translation": "And I live like a pinball.",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of perpetual chaos and unpredictability, likening one's life to the unpredictable bouncing of a pinball."
+    },
+    {
+      "time": 301.132,
+      "text": "Qui roule",
+      "translation": "Who rolls",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of habitual or repeated action, rather than referring to a specific instance."
+    },
+    {
+      "time": 304.883,
+      "text": "Tous mes beaux châteaux d'Équateur",
+      "translation": "All my beautiful castles in Ecuador",
+      "grammar": "The phrase \"tous mes\" is an idiomatic expression meaning \"all my\", using the plural possessive adjective \"tous\" to agree with the singular noun \"châteaux\"."
+    },
+    {
+      "time": 315.264,
+      "text": "S'écroulent",
+      "translation": "They collapse",
+      "grammar": "The phrase \"S'écroulent\" is in the third person plural imperfective tense, indicating an ongoing or repeated action of collapsing. The reflexive pronoun \"s'\" emphasizes the subject's involvement in the action."
+    },
+    {
+      "time": 319.015,
+      "text": "Et je vis comme une boule de flipper",
+      "translation": "And I live like a pinball.",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of perpetual chaos, likening one's life to a pinball machine. The phrase \"comme une boule de flipper\" is an informal way to describe feeling constantly in motion and reacting to external stimuli."
+    },
+    {
+      "time": 332.711,
+      "text": "Qui roule",
+      "translation": "Who rolls",
+      "grammar": "This idiomatic expression uses the present participle \"roule\" to convey a sense of continuous action, equivalent to \"who is rolling\" or \"who keeps rolling\"."
+    },
+    {
+      "time": 336.462,
+      "text": "Capitaine d'un bateau chanteur",
+      "translation": "Captain of a singing boat",
+      "grammar": "This idiomatic expression uses the present participle (-ing) form to create a vivid and poetic image, emphasizing the captain's role as a performer rather than just a navigator."
+    },
+    {
+      "time": 345.185,
+      "text": "Tu coules",
+      "translation": "You're sinking",
+      "grammar": "The informal \"tu\" form is used to convey a sense of familiarity and intimacy, while the verb \"couler\" is in the present continuous tense, indicating an ongoing action."
+    },
+    {
+      "time": 348.936,
+      "text": "Et je vis comme une boule de flipper",
+      "translation": "And I live like a pinball.",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of perpetual chaos, likening one's life to the unpredictable and fast-paced game of pinball. The phrase \"comme une boule de flipper\" is an English equivalent of the French idiom \"être comme un flipper\", which means to be constantly on the move or in disarray."
+    },
+    {
+      "time": 362.632,
+      "text": "Qui roule",
+      "translation": "Who rolls",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of habitual or continuous action, implying that someone is always rolling. The pronoun \"qui\" (who) is used in an informal way to ask about the identity of the person performing this action."
+    },
+    {
+      "time": 366.383,
+      "text": "Tous mes beaux châteaux d'Équateur",
+      "translation": "All my beautiful castles in Ecuador",
+      "grammar": "The phrase \"tous mes\" is an idiomatic expression used to emphasize possession, equivalent to \"all of my\" or \"my entire\". The use of the plural noun \"châteaux\" agrees with the plural pronoun \"mes\", indicating that the speaker has multiple beautiful castles in Ecuador."
+    },
+    {
+      "time": 376.764,
+      "text": "S'écroulent",
+      "translation": "They collapse",
+      "grammar": "The phrase \"S'écroulent\" is in the third person plural imperfective tense, indicating an ongoing or repeated action of collapsing. The reflexive pronoun \"s'\" emphasizes the subject's involvement in the action."
+    },
+    {
+      "time": 380.515,
+      "text": "Et je vis comme une boule de flipper",
+      "translation": "And I live like a pinball.",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of perpetual chaos, likening one's life to the unpredictable and fast-paced nature of a pinball game. The phrase \"comme une boule de flipper\" is an English equivalent of the French idiom \"être comme un flipper\", which means to be constantly on the move or in disarray."
+    },
+    {
+      "time": 394.211,
+      "text": "Qui roule",
+      "translation": "Who rolls",
+      "grammar": "This idiomatic expression uses the present participle \"roule\" to convey a sense of continuous action, equivalent to \"who is rolling\" or \"who keeps rolling\"."
+    },
+    {
+      "time": 397.962,
+      "text": "Capitaine d'un bateau chanteur",
+      "translation": "Captain of a singing boat",
+      "grammar": "The phrase \"Capitaine d'un bateau chanteur\" uses the present participle \"-ant\" to describe an occupation or role, similar to English phrases like \"singer-songwriter\" or \"dancer-choreographer\". This construction emphasizes the captain's profession as a singer."
+    },
+    {
+      "time": 406.685,
+      "text": "Tu coules",
+      "translation": "You're sinking",
+      "grammar": "The phrase \"Tu coules\" is an informal way to say \"you're in trouble\" or \"things are going wrong,\" using the present continuous tense to convey a sense of urgency. The verb \"couler\" typically means \"to sink\" in a literal sense, but here it's used idiomatically to describe a situation where someone is struggling or failing."
+    }
+  ]
+}

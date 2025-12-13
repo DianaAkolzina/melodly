@@ -1,0 +1,325 @@
+{
+  "id": "fr_biff_pas_dlove",
+  "title": "Biff pas d'love",
+  "artist": "Bouss",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_biff_pas_dlove.mp3",
+  "duration": 154,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "C'est moi, j'plébiscite",
+      "translation": "It's me, I give the overwhelming vote.",
+      "grammar": "The phrase \"c'est moi\" is an idiomatic expression used to assert one's identity or ownership, equivalent to saying \"it's me\" in English. The verb \"j'plébiscite\" is in the first person singular and imperfective aspect, indicating a habitual or repeated action of giving one's vote."
+    },
+    {
+      "time": 1.935,
+      "text": "J'prends cent pour cent, l'air innocent",
+      "translation": "I take it one hundred percent, with an innocent air.",
+      "grammar": "The phrase \"cent pour cent\" is an idiom that translates to \"one hundred percent\" and indicates complete commitment or agreement. The verb \"prends\" is in the present tense, indicating a habitual or ongoing action."
+    },
+    {
+      "time": 4.847,
+      "text": "Même ma mère, elle sait qu'j'fais semblant d'être sage",
+      "translation": "Even my mother knows I'm pretending to be well-behaved.",
+      "grammar": "The use of \"qu'\" before the subordinate clause is an informal way to indicate a reported speech in French, similar to \"that\" in English."
+    },
+    {
+      "time": 9.063,
+      "text": "J'récup' l'argent, mentale d'marchand",
+      "translation": "I'm getting the money back, with a merchant's mindset.",
+      "grammar": "The phrase \"J'récup' l'argent\" is an informal way of saying \"I'm getting the money back\" in French, using the imperfect tense to convey a sense of ongoing action. The use of \"mentale d'marchand\" as an adverbial phrase emphasizes the speaker's mental state while recovering their losses."
+    },
+    {
+      "time": 11.65,
+      "text": "Des frères touchés pourtant elle sait qu'j'ai les mains sales",
+      "translation": "Brothers affected, yet she knows my hands are dirty.",
+      "grammar": "The use of \"qu'\" (which is a contraction of \"que\" meaning \"that\") to introduce the subordinate clause indicates a casual, informal tone and is typical in spoken French."
+    },
+    {
+      "time": 15.866,
+      "text": "Ouais",
+      "translation": "Yeah",
+      "grammar": "This interjection \"Ouais\" is equivalent to \"Yeah\" in English, used to express agreement or confirmation."
+    },
+    {
+      "time": 17.066,
+      "text": "Tu lui dis \"ti amo\", elle t'a envoûté",
+      "translation": "You tell her \"ti amo\", she's bewitched you.",
+      "grammar": "The verb \"dis\" is in the imperfect tense, indicating a habitual or repeated action in the past. The phrase \"tu lui dis\" is an idiomatic way of saying \"you tell someone something\"."
+    },
+    {
+      "time": 20.304,
+      "text": "J'sors la bécane et j'la fous en l'air",
+      "translation": "I take out the motorbike and I crash it",
+      "grammar": "The use of \"j'la\" is an informal, colloquial way to express possession or association in French, similar to using \"my\" or \"mine\" in English. This construction, known as \"le pronom possessif contracté\", is often used in spoken language and can be translated as \"my\" or \"its\"."
+    },
+    {
+      "time": 24.194,
+      "text": "J'peux voir le sky",
+      "translation": "I can see the sky",
+      "grammar": "This informal expression uses the first person singular verb form \"j'peux\" to convey a casual tone, equivalent to saying \"I can\" in English. The use of \"j'peux\" instead of formal \"je peux\" reflects the speaker's relaxed attitude and is common in spoken French."
+    },
+    {
+      "time": 26.129,
+      "text": "Soleil a tapé, j'me suis stylé",
+      "translation": "The sun was beating down, I dressed up.",
+      "grammar": "In informal French, \"j'me\" is an idiomatic contraction of \"je me\" (first person singular reflexive pronoun) used to emphasize the speaker's action."
+    },
+    {
+      "time": 28.716,
+      "text": "Il fait bien shy, oh",
+      "translation": "He's really shy, oh",
+      "grammar": "The phrase \"Il fait bien shy\" is an idiomatic expression that uses the present tense to describe a general tendency or characteristic, rather than a specific action. The use of \"fait\" (does) instead of \"est\" (is) emphasizes the degree of shyness."
+    },
+    {
+      "time": 30.651,
+      "text": "C'est l'moment, ça y est",
+      "translation": "This is it, this is it.",
+      "grammar": "The phrase \"C'est l'moment\" uses the informal \"l'\" instead of \"le\" to agree with the preceding indefinite article \"un moment\". This is a common idiom in spoken French."
+    },
+    {
+      "time": 33.238,
+      "text": "Dis-moi où on s'taille",
+      "translation": "Tell me where we're going",
+      "grammar": "The phrase \"on s'taille\" is an idiomatic expression in French, equivalent to \"where are we headed\" or \"what's the plan\". The verb \"s'taille\" is in the informal plural form and agrees with the pronoun \"on\", indicating a shared action among friends."
+    },
+    {
+      "time": 35.498,
+      "text": "J'suis pas leur tit-pe",
+      "translation": "I'm not their little boy",
+      "grammar": "The phrase \"J'suis\" is a colloquialism used to express familiarity or informality, equivalent to \"I am\" in formal English. It is an informal way of saying \"Je suis\" (I am) and is often used in spoken French."
+    },
+    {
+      "time": 37.759,
+      "text": "Pas b'soin d'ces trous du cul pour être validé",
+      "translation": "No need for these assholes to be validated",
+      "grammar": "This informal expression uses the idiomatic phrase \"pas besoin\" (no need) in the present tense, emphasizing a strong negation and dismissing unwanted validation."
+    },
+    {
+      "time": 41.649,
+      "text": "Single d'or sur le son qu'a déjà leaké",
+      "translation": "Gold single for the track that has already leaked",
+      "grammar": "The phrase \"d'or\" is an idiomatic expression meaning \"gold\" or \"award-winning\", used to describe a successful song. The sentence is in the present perfect tense, indicating that the song's success occurred at some point before the current moment."
+    },
+    {
+      "time": 45.213,
+      "text": "Faut pas paniquer",
+      "translation": "Don't panic",
+      "grammar": "This idiomatic expression uses the imperative mood to convey a sense of urgency, advising against panicked behavior. The phrase \"faut pas\" is an informal way to say \"don't\" or \"mustn't\"."
+    },
+    {
+      "time": 46.497,
+      "text": "En un week-end, j'fais bien plus d'dix poles",
+      "translation": "In one weekend, I get way more than ten pole positions.",
+      "grammar": "The use of \"j'fais\" instead of \"je fais\" is an informal idiomatic expression, common in spoken French, which indicates a casual tone and relaxed agreement with the subject."
+    },
+    {
+      "time": 50.387,
+      "text": "Beaucoup d'relations business, très peu d'amicales",
+      "translation": "Many business relationships, very few friendly ones",
+      "grammar": "The phrase \"d'relations\" is an idiomatic expression indicating a plural noun, where the apostrophe replaces the silent \"s\"."
+    },
+    {
+      "time": 53.299,
+      "text": "Tout est géré, j'suis aux commandes, faut pas paniquer",
+      "translation": "Everything is under control, I'm in charge, there's no need to panic.",
+      "grammar": "The phrase \"j'suis\" is a colloquialism used to indicate informal first-person singular subject agreement, equivalent to the more formal \"je suis\"."
+    },
+    {
+      "time": 56.864,
+      "text": "(Ah non, faut pas paniquer)",
+      "translation": "(Oh no, don't panic)",
+      "grammar": "This idiomatic expression uses the imperative mood to convey a sense of urgency and warning, with \"faut pas\" being an informal way to say \"don't\" or \"must not\". The phrase is often used in everyday conversation to advise against overreacting."
+    },
+    {
+      "time": 58.798,
+      "text": "J'sors un gros gamos (gros gamos)",
+      "translation": "I'm taking out a big gamos (big gamos)",
+      "grammar": "The phrase \"J'sors\" is an informal way of saying \"I'm taking out\" in the present continuous tense, using the verb \"jeter\" in its colloquial form. The idiomatic expression \"un gros gamos\" likely refers to a significant or impressive date, rather than a literal big game."
+    },
+    {
+      "time": 61.385,
+      "text": "Toute la night (j'rôdais dans Paname)",
+      "translation": "All night long (I was roaming around Paris)",
+      "grammar": "The phrase \"toute la night\" is an idiomatic expression meaning \"all night long\", using the adverbial phrase \"toute la\" to convey duration, and the preposition \"la\" indicating a place."
+    },
+    {
+      "time": 63.972,
+      "text": "Beugueuh d'Amsterdam (street, pas d'lol)",
+      "translation": "Beugueuh from Amsterdam (street, no lol)",
+      "grammar": "The phrase \"pas d'\" is an idiomatic expression meaning \"not at all\" or \"none\", used to emphasize the negation of something. It's often translated as \"no\" in English, but its usage and tone are distinct from a literal translation."
+    },
+    {
+      "time": 66.558,
+      "text": "(Biff pas d'love, biff pas d'love)",
+      "translation": "(Biff no love, biff no love)",
+      "grammar": "This idiomatic phrase uses the imperative mood to convey a sense of repetition and emphasis, with \"biff\" being an interjection that means \"no way\" or \"not at all\". The sentence structure is informal and conversational."
+    },
+    {
+      "time": 69.471,
+      "text": "J'sors un gros gamos (gros gamos)",
+      "translation": "I'm taking out a big gamos (big gamos)",
+      "grammar": "The phrase \"Je sors\" is in the present continuous tense, indicating an ongoing action. The idiomatic expression \"un gros gamos\" is used to describe something impressive or exceptional, similar to saying \"a big deal\"."
+    },
+    {
+      "time": 72.057,
+      "text": "Toute la night (j'rôdais dans Paname)",
+      "translation": "All night long (I was roaming around Paris)",
+      "grammar": "The phrase \"toute la night\" is an idiomatic expression meaning \"all night long\", using the indefinite article \"la\" to indicate a period of time rather than a specific thing."
+    },
+    {
+      "time": 74.644,
+      "text": "Beugueuh d'Amsterdam (street, pas d'lol)",
+      "translation": "Beugueuh from Amsterdam (street, no lol)",
+      "grammar": "The phrase \"pas d'\" is an idiomatic expression meaning \"not at all\" or \"no way\", used to emphasize negation. It's often translated as \"no\" in English."
+    },
+    {
+      "time": 77.231,
+      "text": "(Biff pas d'love, biff pas d'love)",
+      "translation": "(Biff no love, biff no love)",
+      "grammar": "This idiom \"biff\" is an interjection used to emphasize the negation of love or affection, with a tone of playfulness and non-seriousness. The repetition of \"pas\" (no) in French reinforces this idiomatic expression's informal nature."
+    },
+    {
+      "time": 80.143,
+      "text": "Pourquoi t'attends ses appels? (Han-han)",
+      "translation": "Why are you waiting for his calls? (Han-han)",
+      "grammar": "The phrase \"t'attends\" is in the present continuous tense, indicating a habitual or ongoing action. The use of \"t'\" instead of \"tu\" is an informal pronoun particle used with close friends or family members."
+    },
+    {
+      "time": 82.73,
+      "text": "Tu mens quand tu dis qu'elle t'intéresse pas",
+      "translation": "You're lying when you say you're not interested in her.",
+      "grammar": "The phrase \"tu mens\" is an informal way to say \"you're lying\" in French, using the second-person singular pronoun \"tu\" and the verb \"mens\" in the present tense. This construction implies a strong emotional tone and is often used in everyday conversations among friends or acquaintances."
+    },
+    {
+      "time": 86.294,
+      "text": "Si c'était une fille qu'n'aime pas la fête, ça s'saurait",
+      "translation": "If she were a girl who didn't like to party, we'd know about it.",
+      "grammar": "The phrase \"ça s'saurait\" is an idiomatic expression indicating that if something were true, people would be aware of it. The use of the conditional tense and the verb \"saurait\" (would know) implies a hypothetical situation."
+    },
+    {
+      "time": 91.162,
+      "text": "J'crois qu'il est mort, il est tombé dedans",
+      "translation": "I think he's dead, he fell in.",
+      "grammar": "The use of \"j'crois\" instead of \"je crois\" is an informal, spoken idiom, indicating a more casual tone. The verb \"tomber\" is used to describe the sudden and unexpected event of someone falling into something."
+    },
+    {
+      "time": 94.726,
+      "text": "Elle enchaîne soirée shit, Hennessy",
+      "translation": "She's having a string of shitty nights, Hennessy",
+      "grammar": "The phrase \"enchaîne\" is an idiomatic expression meaning \"to have a series of something\", in this case, \"soirée shit\" or bad experiences. The verb \"enchaîner\" is often used to describe a sequence of events or situations that are connected by their negative connotations."
+    },
+    {
+      "time": 96.661,
+      "text": "Devant les gens, tu dis qu'elle dégoûte, c'est d'la jalousie",
+      "translation": "In front of people, you say she's disgusting; it's jealousy.",
+      "grammar": "The phrase \"c'est d'la jalousie\" is an idiomatic expression meaning \"it's jealousy\", where the verb \"être\" (to be) is implied but not explicitly stated."
+    },
+    {
+      "time": 101.203,
+      "text": "J'sais que tu la voulais que pour toi",
+      "translation": "I know you wanted her all to yourself",
+      "grammar": "The phrase \"que pour toi\" is an idiomatic expression indicating possession or exclusivity, equivalent to \"all to yourself\" in English."
+    },
+    {
+      "time": 104.441,
+      "text": "T'as voulu jouer, c'est l'jeu (c'est la vie, mon ami)",
+      "translation": "You wanted to play, that's the game (that's life, my friend)",
+      "grammar": "The phrase \"t'as voulu jouer\" is an informal way of saying \"you wanted to play\", using the tu form and the imperfect tense to convey a sense of ongoing action."
+    },
+    {
+      "time": 109.309,
+      "text": "Tu l'aimes plus que ça (il aime la vraie vie)",
+      "translation": "You love him more than that (he loves real life)",
+      "grammar": "The phrase \"Tu l'aimes plus que ça\" is an idiomatic expression, where the verb \"aimer\" is in the imperfect tense to convey a habitual or continuous action in the past."
+    },
+    {
+      "time": 113.199,
+      "text": "Loin d'la té-ci, c'est mieux (sorry, sorry)",
+      "translation": "Far from here, it's better (sorry, sorry)",
+      "grammar": "The phrase \"c'est mieux\" is an idiomatic expression meaning \"it's better\", using the present tense to convey a general truth rather than a specific situation. The use of \"loin d'la té-ci\" implies a sense of distance or removal from something, creating a contrast with the idea that it's actually better."
+    },
+    {
+      "time": 116.763,
+      "text": "C'est que la mort ou le card-pla (j'prends des vacances)",
+      "translation": "It's either death or cardplay (I'm taking a vacation)",
+      "grammar": "The phrase \"c'est que\" is an idiomatic expression used to introduce a reason or explanation, equivalent to \"it's because\" in English. The sentence also employs the present continuous tense (\"j'prends des vacances\") to convey the speaker's current intention."
+    },
+    {
+      "time": 121.305,
+      "text": "J'sors un gros gamos (gros gamos)",
+      "translation": "I'm taking out a big gamos (big gamos)",
+      "grammar": "The phrase \"J'sors\" is an informal way of saying \"I'm going to take out\" in the present continuous tense, using the verb \"sortir\" and the contraction \"j'sors\"."
+    },
+    {
+      "time": 123.892,
+      "text": "Toute la night (j'rôdais dans Paname)",
+      "translation": "All night long (I was roaming around Paris)",
+      "grammar": "The phrase \"toute la night\" is an idiomatic expression meaning \"all night long\", using the indefinite article \"la\" to indicate a period of time, rather than referring to a specific night."
+    },
+    {
+      "time": 126.478,
+      "text": "Beugueuh d'Amsterdam (street, pas d'lol)",
+      "translation": "Beugueuh from Amsterdam (street, no lol)",
+      "grammar": "The phrase \"pas d'\" is an idiomatic expression used to emphasize the negation of something, similar to \"not at all\" or \"none whatsoever\", in this case indicating that it's not a joke."
+    },
+    {
+      "time": 129.065,
+      "text": "(Biff pas d'love, biff pas d'love)",
+      "translation": "(Biff no love, biff no love)",
+      "grammar": "This idiomatic phrase uses the imperative mood to convey a sense of repetition and emphasis, with \"biff\" being an interjection that intensifies the meaning. The verb \"pas\" is used in its negating form to mean \"no\"."
+    },
+    {
+      "time": 131.978,
+      "text": "J'sors un gros gamos (gros gamos)",
+      "translation": "I'm taking out a big gamos (big gamos)",
+      "grammar": "The phrase \"J'sors\" is an informal way to say \"I'm going out with\" or \"I'm dating\", using the imperfect tense to convey a sense of ongoing action. The use of \"un gros gamos\" as an idiomatic expression for a romantic partner emphasizes the casual nature of the relationship."
+    },
+    {
+      "time": 134.564,
+      "text": "Toute la night (j'rôdais dans Paname)",
+      "translation": "All night long (I was roaming around Paris)",
+      "grammar": "The phrase \"toute la night\" is an idiomatic expression meaning \"all night long\", using the indefinite article \"la\" to indicate a period of time, rather than referring to a specific night."
+    },
+    {
+      "time": 137.151,
+      "text": "Beugueuh d'Amsterdam (street, pas d'lol)",
+      "translation": "Beugueuh from Amsterdam (street, no lol)",
+      "grammar": "The phrase \"pas d'\" is an idiomatic expression used to emphasize negation, similar to \"not at all\" or \"none whatsoever\". It is often used in informal contexts and can be translated as \"no way\" or \"absolutely not\"."
+    },
+    {
+      "time": 139.737,
+      "text": "(Biff pas d'love, biff pas d'love)",
+      "translation": "(Biff no love, biff no love)",
+      "grammar": "This idiomatic expression uses the imperative mood to convey a sense of repetition and emphasis, with \"biff\" being an interjection that intensifies the meaning. The phrase is often used to express strong negation or refusal."
+    },
+    {
+      "time": 142.65,
+      "text": "M'arrêter, est-ce qu'ils peuvent? Nan, nan",
+      "translation": "Can they stop me? No, no.",
+      "grammar": "The phrase \"M'arrêter, est-ce qu'ils peuvent?\" is an idiomatic way to ask if someone can prevent or stop something from happening, using the present tense and a rhetorical question."
+    },
+    {
+      "time": 145.888,
+      "text": "Ils aiment quand ça sent la fin",
+      "translation": "They like it when it smells like the end.",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of habitual behavior, rather than a specific event. The phrase \"ça sent la fin\" is an idiomatic way to describe something that feels or seems like the end is near."
+    },
+    {
+      "time": 148.475,
+      "text": "M'arrêter, est-ce qu'ils peuvent? Nan, nan",
+      "translation": "Can they stop me? No, no.",
+      "grammar": "The phrase \"M'arrêter, est-ce qu'ils peuvent?\" is an idiomatic way of asking if someone can prevent or stop something from happening, using the present tense to convey a sense of uncertainty and inquiry."
+    },
+    {
+      "time": 151.713,
+      "text": "Ils aiment quand ça sent la fin",
+      "translation": "They like it when it smells like the end.",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of habitual action, implying that they enjoy situations that feel like they're nearing their conclusion. The phrase \"ça sent\" is an informal way to say \"it feels like\"."
+    }
+  ]
+}

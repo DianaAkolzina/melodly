@@ -1,0 +1,83 @@
+# 20 additional songs to add (4 per language), curated to be fully in the target language
+# Note: Spotify existence verification pending (requires API auth); none overlap with data/songs.yaml
+
+- language: es
+  title: "Mi Gente"
+  artist: "J Balvin & Willy William"
+
+- language: es
+  title: "Felices los 4"
+  artist: "Maluma"
+
+- language: es
+  title: "Hawái"
+  artist: "Maluma"
+
+- language: es
+  title: "Me Rehúso"
+  artist: "Danny Ocean"
+
+- language: fr
+  title: "Alors on danse"
+  artist: "Stromae"
+
+- language: fr
+  title: "La vie en rose"
+  artist: "Édith Piaf"
+
+- language: fr
+  title: "Je t'aime"
+  artist: "Lara Fabian"
+
+- language: fr
+  title: "Je vole"
+  artist: "Louane"
+
+- language: ga
+  title: "Dúlamán"
+  artist: "Clannad"
+
+- language: ga
+  title: "An Poc ar Buile"
+  artist: "Seán Ó Sé"
+
+- language: ga
+  title: "Anach Cuain"
+  artist: "Seán Keane"
+
+- language: ga
+  title: "Trasna na dTonnta"
+  artist: "Seo Linn"
+
+- language: lv
+  title: "Aijā"
+  artist: "Sudden Lights"
+
+- language: lv
+  title: "Debesis iekrita tevī"
+  artist: "Dons"
+
+- language: lv
+  title: "Miljons lietu"
+  artist: "Dons"
+
+- language: lv
+  title: "Ziemeļmeita"
+  artist: "Jumprava"
+
+- language: ru
+  title: "Тает лёд"
+  artist: "Грибы"
+
+- language: ru
+  title: "Пачка сигарет"
+  artist: "Кино"
+
+- language: ru
+  title: "Выхода нет"
+  artist: "Сплин"
+
+- language: ru
+  title: "На заре"
+  artist: "Альянс"
+

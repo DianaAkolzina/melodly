@@ -1,0 +1,205 @@
+{
+  "id": "ru_track_1eca390",
+  "title": "не расслабляйся",
+  "artist": "Скриптонит",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_track_1eca390.mp3",
+  "duration": 164,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 44.60230000001192,
+      "text": "Не расслабляйся, даже когда долго в теме",
+      "translation": "Don't relax, even when you're deeply focused",
+      "grammar": "The phrase 'долго в теме' is an idiomatic expression meaning to be fully engaged or absorbed in something."
+    },
+    {
+      "time": 47.42040000003576,
+      "text": "Тем более, когда долго в теме",
+      "translation": "Especially when you've been in the subject for a long time.",
+      "grammar": ""
+    },
+    {
+      "time": 50.053,
+      "text": "Под жопой немец",
+      "translation": "A German under the ass",
+      "grammar": ""
+    },
+    {
+      "time": 52.233400000035765,
+      "text": "Сделан в Китае, продан за рубль",
+      "translation": "Made in China, sold for a ruble",
+      "grammar": ""
+    },
+    {
+      "time": 54.909,
+      "text": "Не идет, а канает, селедка под шубой",
+      "translation": "It doesn't go, but it flows, herring under a fur coat",
+      "grammar": ""
+    },
+    {
+      "time": 58.62380000001192,
+      "text": "Сейфы спрятаны в тумбах",
+      "translation": "Safes are hidden in cabinets",
+      "grammar": ""
+    },
+    {
+      "time": 60.7725,
+      "text": "Водка, греческий салат",
+      "translation": "Vodka, Greek salad",
+      "grammar": ""
+    },
+    {
+      "time": 62.56590000003576,
+      "text": "Яннис Антетокумнпо, пересмотрели халаты",
+      "translation": "Giannis Antetokounmpo, re-examined his robes",
+      "grammar": ""
+    },
+    {
+      "time": 66.23819999998808,
+      "text": "О себе возомнили, ожидания выше крыши",
+      "translation": "They think too highly of themselves, their expectations are through the roof",
+      "grammar": ""
+    },
+    {
+      "time": 70.34419999998808,
+      "text": "Отжимания помнят и как вставать на лыжи",
+      "translation": "They remember push-ups and how to get up on skis",
+      "grammar": ""
+    },
+    {
+      "time": 74.07610000002384,
+      "text": "Время от времени дышит, иногда засуха",
+      "translation": "Sometimes it breathes, sometimes it's dry",
+      "grammar": ""
+    },
+    {
+      "time": 77.07219999998807,
+      "text": "Иногда со всех сторон летит, запасы за пазухой",
+      "translation": "Sometimes it flies from all sides, reserves in the bosom",
+      "grammar": ""
+    },
+    {
+      "time": 80.7195,
+      "text": "Похуй их тренды, съемки, аренды",
+      "translation": "Fuck their trends, filming, rentals",
+      "grammar": ""
+    },
+    {
+      "time": 84.23510000002385,
+      "text": "Пилево, тендеры, наборы джентельменов",
+      "translation": "Pilevo, tenders, gentlemen's sets",
+      "grammar": ""
+    },
+    {
+      "time": 88.59960000002384,
+      "text": "Кебаб и хумус, репертуар чисто для баб и урок",
+      "translation": "Kebab and hummus, a repertoire purely for women and a lesson",
+      "grammar": ""
+    },
+    {
+      "time": 92.54919999998808,
+      "text": "Лишь бы усадить ее анус в тот Urus",
+      "translation": "Just to put her anus in that Urus",
+      "grammar": ""
+    },
+    {
+      "time": 96.01690000003576,
+      "text": "Чем шире улыбка, тем шире раздвинут ноги",
+      "translation": "The wider the smile, the wider the legs are spread",
+      "grammar": ""
+    },
+    {
+      "time": 99.61469999998808,
+      "text": "Чем чище наличка, тем больше налоги",
+      "translation": "The cleaner the cash, the higher the taxes",
+      "grammar": ""
+    },
+    {
+      "time": 102.82910000002384,
+      "text": "Лестницы - коридоры, с уборных в опорные",
+      "translation": "Stairs - corridors, from restrooms to support",
+      "grammar": ""
+    },
+    {
+      "time": 106.47890000003576,
+      "text": "Осталось в прошлом, 23 под подошвой",
+      "translation": "It's in the past, 23 under the sole",
+      "grammar": ""
+    },
+    {
+      "time": 110.58110000002384,
+      "text": "Изжоги ношпы, ложные выводы",
+      "translation": "Heartburn No-shpa, false conclusions",
+      "grammar": ""
+    },
+    {
+      "time": 114.25419999998807,
+      "text": "Сложные щи, ебать, там, где не светит выгода",
+      "translation": "Complex cabbage soup, fuck, where there is no profit.",
+      "grammar": ""
+    },
+    {
+      "time": 117.94180000001192,
+      "text": "Петли и кредиторы, свары и своры",
+      "translation": "Loops and creditors, quarrels and packs",
+      "grammar": ""
+    },
+    {
+      "time": 121.25869999998808,
+      "text": "Доставили на дом, но не положили приборы",
+      "translation": "They delivered it to my home, but didn't include the appliances.",
+      "grammar": ""
+    },
+    {
+      "time": 125.45919999998807,
+      "text": "Хоккей, но с мячом, шутеры, скореры",
+      "translation": "Hockey, but with a ball, shooters, scorers",
+      "grammar": ""
+    },
+    {
+      "time": 129.583,
+      "text": "Әкең сгейн щегол",
+      "translation": "Әken sgein goldfinch",
+      "grammar": ""
+    },
+    {
+      "time": 131.33680000001192,
+      "text": "Красные, черные",
+      "translation": "Red, black",
+      "grammar": ""
+    },
+    {
+      "time": 132.88040000003576,
+      "text": "Не расслабляйся, даже когда долго в теме",
+      "translation": "Don't relax, even when you've been in the subject for a long time.",
+      "grammar": ""
+    },
+    {
+      "time": 136.35080000001193,
+      "text": "Тем более, когда долго в теме",
+      "translation": "Especially when you've been in the subject for a long time.",
+      "grammar": ""
+    },
+    {
+      "time": 138.27910000002385,
+      "text": "Под жопой немец",
+      "translation": "A German under the ass",
+      "grammar": ""
+    },
+    {
+      "time": 140.14360000002384,
+      "text": "Сделан в Китае, продан за рубль",
+      "translation": "Made in China, sold for a ruble",
+      "grammar": "The phrase 'сделан в Китае' uses the verb 'сделать' in the passive voice, indicating that something was created or manufactured in China."
+    },
+    {
+      "time": 143.59990000003577,
+      "text": "Не идет, а канает, селедка под шубой",
+      "translation": "It doesn't go, but it flows, herring under a fur coat",
+      "grammar": ""
+    }
+  ]
+}

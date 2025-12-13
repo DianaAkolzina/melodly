@@ -1,0 +1,301 @@
+{
+  "id": "ru_track_1c61e07",
+  "title": "Стеклянная",
+  "artist": "GUMA",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_track_1c61e07.mp3",
+  "duration": 166,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 8.804399999976159,
+      "text": "Закрыты двери, а ты поверил",
+      "translation": "Doors are closed, and you believed",
+      "grammar": "The verb 'поверил' is in the second person singular, indicating a direct address to the listener."
+    },
+    {
+      "time": 11.821399999976158,
+      "text": "Стеклянная самая",
+      "translation": "Glass is the most",
+      "grammar": ""
+    },
+    {
+      "time": 15.486,
+      "text": "Закрыты двери, а ты поверил",
+      "translation": "The doors are closed, but you believed",
+      "grammar": ""
+    },
+    {
+      "time": 19.132800000011922,
+      "text": "Стеклянная самая",
+      "translation": "Glass is the most",
+      "grammar": ""
+    },
+    {
+      "time": 22.521199999988077,
+      "text": "Вышла в сад, я забыла твои слова",
+      "translation": "I went out into the garden and forgot your words.",
+      "grammar": ""
+    },
+    {
+      "time": 26.196100000023844,
+      "text": "То, что розы красивы лишь на глазах",
+      "translation": "That roses are only beautiful to the eye",
+      "grammar": ""
+    },
+    {
+      "time": 29.89569999998808,
+      "text": "Уколовшись всего один раз",
+      "translation": "Having been injected only once",
+      "grammar": ""
+    },
+    {
+      "time": 33.84769999998808,
+      "text": "Будто в сказке уснуло сердце без лишних фраз",
+      "translation": "As if in a fairy tale the heart fell asleep without unnecessary phrases",
+      "grammar": ""
+    },
+    {
+      "time": 37.68319999998808,
+      "text": "Не нужно больше фраз, ведь это не показ",
+      "translation": "No need for more phrases, because this is not a show",
+      "grammar": ""
+    },
+    {
+      "time": 41.13710000002384,
+      "text": "Казаться легче, чем быть",
+      "translation": "It's easier to seem than to be",
+      "grammar": ""
+    },
+    {
+      "time": 42.7675,
+      "text": "Мне тошно от игр, не буду любить",
+      "translation": "I'm sick of games, I won't love them.",
+      "grammar": ""
+    },
+    {
+      "time": 45.08739999997616,
+      "text": "Проще всё забыть. Проще всё",
+      "translation": "It's easier to forget everything. It's easier to do everything.",
+      "grammar": ""
+    },
+    {
+      "time": 47.82469999998808,
+      "text": "Рушить — сохранить?",
+      "translation": "Destroy or preserve?",
+      "grammar": ""
+    },
+    {
+      "time": 49.61069999998808,
+      "text": "Выпить и забыть? Влюбить?",
+      "translation": "Drink and forget? Fall in love?",
+      "grammar": ""
+    },
+    {
+      "time": 51.42280000001192,
+      "text": "В сердце закрыты двери, а ты поверил",
+      "translation": "The doors to your heart are closed, but you believed",
+      "grammar": ""
+    },
+    {
+      "time": 55.19769999998808,
+      "text": "Роза стеклянная сама-сама-самая",
+      "translation": "The glass rose is the best",
+      "grammar": ""
+    },
+    {
+      "time": 58.94380000001192,
+      "text": "В сердце закрыты двери, а ты поверил",
+      "translation": "The doors to your heart are closed, but you believed",
+      "grammar": ""
+    },
+    {
+      "time": 62.59780000001192,
+      "text": "Роза стеклянная сама-сама-самая",
+      "translation": "The glass rose is the best",
+      "grammar": ""
+    },
+    {
+      "time": 66.30169999998807,
+      "text": "В сердце закрыты двери, а ты поверил",
+      "translation": "The doors to your heart are closed, but you believed",
+      "grammar": ""
+    },
+    {
+      "time": 70.02089999997615,
+      "text": "Роза стеклянная сама-сама-самая",
+      "translation": "The glass rose is the best",
+      "grammar": ""
+    },
+    {
+      "time": 73.76769999998808,
+      "text": "В сердце закрыты двери, а ты поверил",
+      "translation": "The doors to your heart are closed, but you believed",
+      "grammar": ""
+    },
+    {
+      "time": 77.8,
+      "text": "Роза стеклянная самая-самая",
+      "translation": "The glass rose is the best of the best",
+      "grammar": ""
+    },
+    {
+      "time": 81.42760000002384,
+      "text": "Долго не сердится, тоска укроет",
+      "translation": "He doesn't stay angry for long, he will be overcome with melancholy",
+      "grammar": ""
+    },
+    {
+      "time": 84.18460000002383,
+      "text": "Моя бессонница приходит с болью",
+      "translation": "My insomnia comes with pain",
+      "grammar": ""
+    },
+    {
+      "time": 88.41380000001192,
+      "text": "Радости нет в лице, разводы с солью",
+      "translation": "There is no joy in the face, streaks of salt",
+      "grammar": ""
+    },
+    {
+      "time": 92.20460000002385,
+      "text": "Глаза мои сейчас расскажут, кто я",
+      "translation": "My eyes will now tell who I am",
+      "grammar": ""
+    },
+    {
+      "time": 95.91330000001192,
+      "text": "Обжигает грусть",
+      "translation": "Sadness burns",
+      "grammar": ""
+    },
+    {
+      "time": 97.87210000002383,
+      "text": "По губам бьёт пульс",
+      "translation": "The pulse beats on the lips",
+      "grammar": ""
+    },
+    {
+      "time": 99.52580000001193,
+      "text": "Прочитай мне стих",
+      "translation": "Read me a poem",
+      "grammar": ""
+    },
+    {
+      "time": 101.36369999998809,
+      "text": "Может, я усну",
+      "translation": "Maybe I'll fall asleep",
+      "grammar": ""
+    },
+    {
+      "time": 103.20519999998808,
+      "text": "Мысли в диктофон",
+      "translation": "Thoughts on tape recorder",
+      "grammar": "The preposition в (in) is used to indicate the medium or tool for recording thoughts."
+    },
+    {
+      "time": 105.00489999997616,
+      "text": "Таблетка, как патрон",
+      "translation": "A tablet like a cartridge",
+      "grammar": ""
+    },
+    {
+      "time": 106.92289999997615,
+      "text": "Воздух давит вниз",
+      "translation": "The air presses down",
+      "grammar": ""
+    },
+    {
+      "time": 108.7015,
+      "text": "Выйти на балкон",
+      "translation": "Go out to the balcony",
+      "grammar": ""
+    },
+    {
+      "time": 111.966,
+      "text": "Не нужно больше фраз, ведь это не показ",
+      "translation": "No need for more phrases, because this is not a show",
+      "grammar": ""
+    },
+    {
+      "time": 114.69080000001192,
+      "text": "Казаться легче, чем быть",
+      "translation": "It's easier to seem than to be",
+      "grammar": ""
+    },
+    {
+      "time": 117.38310000002384,
+      "text": "Мне тошно от игр, не буду любить",
+      "translation": "I'm sick of games, I won't love them.",
+      "grammar": ""
+    },
+    {
+      "time": 118.83680000001192,
+      "text": "Проще всё забыть. Проще всё",
+      "translation": "It's easier to forget everything. It's easier to do everything.",
+      "grammar": ""
+    },
+    {
+      "time": 120.6445,
+      "text": "Рушить — сохранить?",
+      "translation": "Destroy or preserve?",
+      "grammar": ""
+    },
+    {
+      "time": 123.42019999998809,
+      "text": "Выпить и забыть? Влюбить?",
+      "translation": "Drink and forget? Fall in love?",
+      "grammar": ""
+    },
+    {
+      "time": 125.26789999997615,
+      "text": "В сердце закрыты двери, а ты поверил",
+      "translation": "The doors to your heart are closed, but you believed",
+      "grammar": ""
+    },
+    {
+      "time": 129.20669999998807,
+      "text": "Роза стеклянная сама-сама-самая",
+      "translation": "The glass rose is the best",
+      "grammar": ""
+    },
+    {
+      "time": 132.6875,
+      "text": "В сердце закрыты двери, а ты поверил",
+      "translation": "The doors to your heart are closed, but you believed",
+      "grammar": ""
+    },
+    {
+      "time": 136.46689999997616,
+      "text": "Роза стеклянная сама-сама-самая",
+      "translation": "The glass rose is the best",
+      "grammar": ""
+    },
+    {
+      "time": 140.14769999998808,
+      "text": "В сердце закрыты двери, а ты поверил",
+      "translation": "The doors to your heart are closed, but you believed",
+      "grammar": ""
+    },
+    {
+      "time": 143.86560000002385,
+      "text": "Роза стеклянная сама-сама-самая",
+      "translation": "The glass rose is the best",
+      "grammar": ""
+    },
+    {
+      "time": 147.49939999997616,
+      "text": "В сердце закрыты двери, а ты поверил",
+      "translation": "The doors to your heart are closed, but you believed",
+      "grammar": ""
+    },
+    {
+      "time": 151.39059999996422,
+      "text": "Роза стеклянная самая-самая",
+      "translation": "The glass rose is the best of the best",
+      "grammar": ""
+    }
+  ]
+}

@@ -1,0 +1,781 @@
+{
+  "id": "gd_maimb_dand",
+  "title": "Maimbê Dandá",
+  "artist": "Daniela Mercury",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "pt",
+  "to_language": "en",
+  "audio": "/audio/gd_maimb_dand.mp3",
+  "duration": 385,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Corre cosme chegou",
+      "translation": "Cosme has arrived!",
+      "grammar": "The verb \"chegou\" is in the preterite tense, indicating a completed action in the past. The phrase \"corre cosme\" can be translated as \"Cosme has arrived!\", using the idiomatic expression \"correr\" to mean \"to arrive\"."
+    },
+    {
+      "time": 2.607,
+      "text": "Chegou, chegou, chegou",
+      "translation": "It's here, it's here, it's here!",
+      "grammar": "This repetition of \"chegou\" emphasizes its present tense and imperative mood, urging the listener to acknowledge the arrival."
+    },
+    {
+      "time": 5.213,
+      "text": "Corre cosme chegou",
+      "translation": "Cosme has arrived!",
+      "grammar": "The phrase \"corre\" is an idiomatic expression meaning \"has arrived\", using the present perfect tense to convey a sense of completion."
+    },
+    {
+      "time": 7.82,
+      "text": "Chegou, chegou, chegou",
+      "translation": "It's here, it's here, it's here!",
+      "grammar": "This repetition of \"chegou\" in the present tense emphasizes the certainty and urgency of the message, equivalent to saying \"it's finally arrived\" or \"it's really here\". The use of the same verb form three times creates a sense of rhythm and stress."
+    },
+    {
+      "time": 10.427,
+      "text": "Corre cosme chegou",
+      "translation": "Cosme has arrived!",
+      "grammar": "The phrase \"Corre cosme chegou\" is in the present perfect tense, indicating that Cosme's arrival at a specific point in time is emphasized. The use of \"corre\" (has) instead of \"chegou\" (arrived) implies that the speaker is focusing on the state of Cosme being present rather than just the act of arriving."
+    },
+    {
+      "time": 13.034,
+      "text": "Doum alabá",
+      "translation": "Doum alabá",
+      "grammar": "This interjection \"Doum alabá\" is an idiomatic expression used to express excitement or enthusiasm, often translated as \"Oh wow!\" or \"Wow!\"."
+    },
+    {
+      "time": 14.872,
+      "text": "Damião Jaçanã",
+      "translation": "Damião Jaçanã",
+      "grammar": "This is a proper noun, specifically a person's name in Portuguese, and its English translation is also the same name."
+    },
+    {
+      "time": 16.71,
+      "text": "Pra levar e deixar",
+      "translation": "To take and leave",
+      "grammar": "This idiomatic phrase uses the present tense to convey a habitual or general sense of taking and leaving, rather than referring to specific actions. The use of \"pra\" (meaning \"to\" or \"for\") is an informal way to introduce the verb phrases \"levar\" (to take) and \"deixar\" (to leave)."
+    },
+    {
+      "time": 20.085,
+      "text": "Alegria de erê",
+      "translation": "Joy of the erê",
+      "grammar": "This phrase uses the idiomatic expression \"alegria\" to convey a sense of joy or happiness, which is often used in Brazilian Portuguese to express enthusiasm and euphoria. The use of \"erê\" instead of the expected \"terra\" (earth) emphasizes the otherworldly or mystical nature of this joy."
+    },
+    {
+      "time": 22.692,
+      "text": "É ver gente sambar",
+      "translation": "It's seeing people dancing samba.",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a habitual or frequent action, emphasizing the idea of constantly seeing people dance samba."
+    },
+    {
+      "time": 26.067,
+      "text": "Corre cosme chegou",
+      "translation": "Cosme has arrived!",
+      "grammar": "The verb \"chegou\" is in the preterite tense, indicating a completed action in the past. The phrase \"corre cosme\" can be translated to \"Cosme has arrived!\", using the idiomatic expression \"correr\" meaning \"to arrive\"."
+    },
+    {
+      "time": 28.674,
+      "text": "Doum alabá",
+      "translation": "Doum alabá",
+      "grammar": "This interjection \"Doum alabá\" is an idiomatic expression used to express surprise or astonishment, with no specific tense or mood implications."
+    },
+    {
+      "time": 30.512,
+      "text": "Damião Jaçanã",
+      "translation": "Damião Jaçanã",
+      "grammar": "This is a proper noun, specifically a person's name in Portuguese. In English, it remains unchanged as the translation also keeps the original name."
+    },
+    {
+      "time": 32.35,
+      "text": "Pra levar e deixar",
+      "translation": "To take and leave",
+      "grammar": "This idiomatic phrase uses the present tense to express a general or habitual action, rather than a specific occurrence. The verb \"levar\" is in the infinitive form, indicating the intention or purpose of taking and leaving."
+    },
+    {
+      "time": 35.726,
+      "text": "Alegria de erê",
+      "translation": "Joy of the erê",
+      "grammar": "The phrase \"Alegria de erê\" is an idiomatic expression, where \"erê\" refers to a specific moment or instant in time, and \"Alegria\" conveys joy or happiness."
+    },
+    {
+      "time": 38.332,
+      "text": "É ver gente sambar",
+      "translation": "It's seeing people dancing samba.",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or general truth, rather than describing an immediate action. The phrase \"ver\" is often translated as \"to see\" but here it means \"to be happening\" or \"to take place\"."
+    },
+    {
+      "time": 41.708,
+      "text": "Meu look laquê",
+      "translation": "My hairspray look",
+      "grammar": "This phrase uses the idiomatic expression \"look\" to describe a physical appearance, rather than its literal meaning. The verb \"laquê\" is in the present tense and agrees with the subject \"meu look\"."
+    },
+    {
+      "time": 44.315,
+      "text": "Mandei cachear",
+      "translation": "I sent it to curl",
+      "grammar": "This idiomatic expression uses the verb \"mandar\" in its figurative sense, implying to allow or let something happen, rather than literally sending it. The use of \"cachear\" instead of a more literal translation like \"to straighten\" emphasizes the relaxed and casual nature of the action."
+    },
+    {
+      "time": 46.153,
+      "text": "Me alise pra ver",
+      "translation": "Smooth me out so I can see",
+      "grammar": "This idiomatic expression uses the imperative mood to convey a request, with \"alise\" meaning \"smooth out\" or \"calm down\". The phrase is an informal way of asking someone to help you relax and focus."
+    },
+    {
+      "time": 49.528,
+      "text": "Meu forte é beijar",
+      "translation": "My forte is kissing.",
+      "grammar": "In this idiomatic expression, \"é\" indicates a present tense and informal tone, emphasizing that kissing is a personal strength or skill. The phrase \"Meu forte é\" literally means \"my strong point is\"."
+    },
+    {
+      "time": 52.904,
+      "text": "Vou cantar maindê",
+      "translation": "I'm going to sing maindê",
+      "grammar": "The phrase \"vou cantar\" is a future tense construction, using the auxiliary verb \"vou\" (going to) to express intention or plan."
+    },
+    {
+      "time": 55.51,
+      "text": "Pra você se acabar",
+      "translation": "For you to finish yourself off.",
+      "grammar": "The phrase \"pra você\" is an idiomatic expression indicating a wish or intention, equivalent to \"for you to\" in English. The verb \"acabar\" is in the subjunctive mood, used to express a hypothetical or desired situation."
+    },
+    {
+      "time": 58.886,
+      "text": "Maimbê, maimbê, dandá",
+      "translation": "Maimbê, maimbê, dandá",
+      "grammar": "This line is an interjection, used to express excitement or enthusiasm. The repetition of \"maimbê\" emphasizes the speaker's emotional state, creating a sense of urgency and energy."
+    },
+    {
+      "time": 61.493,
+      "text": "Maimbê, maimbê, dandá",
+      "translation": "Maimbê, maimbê, dandá",
+      "grammar": "This is an interjection, used to express excitement or enthusiasm. The repetition of the phrase emphasizes the speaker's emotions."
+    },
+    {
+      "time": 64.099,
+      "text": "Maimbê, maimbê, dandá",
+      "translation": "Maimbê, maimbê, dandá",
+      "grammar": "This is an interjection, used to express excitement or enthusiasm. The repetition of the phrase emphasizes the speaker's emotions and creates a sense of urgency."
+    },
+    {
+      "time": 66.706,
+      "text": "Maimbê, maimbê, dandá",
+      "translation": "Maimbê, maimbê, dandá",
+      "grammar": "This line is an interjection, used to express excitement or enthusiasm. The repetition of \"maimbê\" emphasizes the speaker's emotional state."
+    },
+    {
+      "time": 69.313,
+      "text": "Maimbê, maimbê, dandá",
+      "translation": "Maimbê, maimbê, dandá",
+      "grammar": "This line is an interjection, used to express excitement or enthusiasm. The repetition of \"maimbê\" emphasizes the speaker's emotions, creating a sense of urgency and energy."
+    },
+    {
+      "time": 71.92,
+      "text": "Maimbê, maimbê, dandá",
+      "translation": "Maimbê, maimbê, dandá",
+      "grammar": "This line is an interjection, used to express excitement or enthusiasm. The repetition of \"maimbê\" emphasizes the speaker's emotions, creating a sense of urgency and energy."
+    },
+    {
+      "time": 74.526,
+      "text": "Maimbê, maimbê, dandá",
+      "translation": "Maimbê, maimbê, dandá",
+      "grammar": "This is an interjection, used to express excitement or joy. The repetition of \"maimbê\" emphasizes the speaker's enthusiasm."
+    },
+    {
+      "time": 77.133,
+      "text": "Maimbê, maimbê, dandá",
+      "translation": "Maimbê, maimbê, dandá",
+      "grammar": "This is an interjection, used to express excitement or enthusiasm. The repetition of \"maimbê\" emphasizes the speaker's emotional state, creating a sense of urgency and energy."
+    },
+    {
+      "time": 79.74,
+      "text": "Zum, zum, zum, zum, zum, baba",
+      "translation": "Zum, zum, zum, zum, zum, baba",
+      "grammar": "This line is an interjection, used to express excitement or enthusiasm, and the repetition of \"zum\" creates a sense of rhythm and energy. The use of \"baba\" as a term of endearment adds a playful touch."
+    },
+    {
+      "time": 84.653,
+      "text": "Zum, zum, baba",
+      "translation": "Zum, zum, baba",
+      "grammar": "This interjection \"zum\" is an onomatopoeic expression imitating the sound of a buzzing insect or a humming noise, often used to add emphasis or express excitement."
+    },
+    {
+      "time": 87.26,
+      "text": "Zum, zum baba",
+      "translation": "Zum, zum baba",
+      "grammar": "This interjection \"Zum, zum\" is an onomatopoeic expression imitating the sound of a baby's babbling, used to convey excitement or playfulness."
+    },
+    {
+      "time": 89.866,
+      "text": "Zum, zum, zum, zum, zum, baba",
+      "translation": "Zum, zum, zum, zum, zum, baba",
+      "grammar": "This line is an interjection, used to express excitement or enthusiasm. The repetition of \"zum\" creates a sense of rhythm and energy, emphasizing the speaker's emotions."
+    },
+    {
+      "time": 94.779,
+      "text": "Zum, zum, baba",
+      "translation": "Zum, zum, baba",
+      "grammar": "This interjection \"zum\" is an onomatopoeic expression imitating the sound of a buzzing bee or a humming noise, used to add emphasis and energy to the lyrics."
+    },
+    {
+      "time": 97.386,
+      "text": "Zum, zum baba",
+      "translation": "Zum, zum baba",
+      "grammar": "This interjection \"Zum, zum\" is an onomatopoeic expression imitating the sound of a baby's babbling, used to convey excitement or playfulness."
+    },
+    {
+      "time": 99.993,
+      "text": "Zum, zum, zum, zum, zum, baba",
+      "translation": "Zum, zum, zum, zum, zum, baba",
+      "grammar": "This line features an interjection \"zum\" which is used to express excitement or emphasis, often in a repetitive manner. The use of \"baba\" at the end adds a playful and affectionate tone to the phrase."
+    },
+    {
+      "time": 104.906,
+      "text": "Zum, zum, baba",
+      "translation": "Zum, zum, baba",
+      "grammar": "This interjection \"zum\" is an onomatopoeic expression imitating the sound of a buzzing or humming noise, often used to add emphasis or express excitement."
+    },
+    {
+      "time": 107.512,
+      "text": "Zum, zum baba",
+      "translation": "Zum, zum baba",
+      "grammar": "This interjection \"zum\" is an onomatopoeic expression imitating the sound of a baby's babbling, used to convey excitement or playfulness."
+    },
+    {
+      "time": 110.119,
+      "text": "Zum, zum, zum, zum, zum, baba",
+      "translation": "Zum, zum, zum, zum, zum, baba",
+      "grammar": "This line features an interjection \"zum\" which is likely an onomatopoeic representation of a repetitive sound, used to add rhythm and emphasis."
+    },
+    {
+      "time": 115.032,
+      "text": "Zum, zum, baba",
+      "translation": "Zum, zum, baba",
+      "grammar": "This interjection \"zum\" is an onomatopoeic expression imitating the sound of a buzzing insect or a humming noise, often used to add emphasis or excitement in informal conversations."
+    },
+    {
+      "time": 117.639,
+      "text": "Zum, zum baba",
+      "translation": "Zum, zum baba",
+      "grammar": "This interjection \"Zum, zum\" is an onomatopoeic expression imitating the sound of a baby's babbling, used to convey excitement or playfulness."
+    },
+    {
+      "time": 120.246,
+      "text": "Traga a avenida com você (Maimbê)",
+      "translation": "Bring the avenue with you (Maimbê)",
+      "grammar": "The imperative verb \"traga\" is in the present tense, instructing someone to bring the avenue with them. The phrase \"com você\" uses the informal pronoun \"você\", indicating a familiar relationship between the speaker and the listener."
+    },
+    {
+      "time": 125.159,
+      "text": "Tava esperando maimbê",
+      "translation": "I was waiting for Maimbê.",
+      "grammar": "The use of \"tava\" instead of \"estava\" indicates the past continuous tense, emphasizing the ongoing nature of the action. This is a common idiom in Portuguese, where \"tava\" is used to describe an activity that started and continued up until a specific point in the past."
+    },
+    {
+      "time": 127.765,
+      "text": "Traga a avenida com você (Maimbê)",
+      "translation": "Bring the avenue with you (Maimbê)",
+      "grammar": "The verb \"traga\" is in the imperative mood, instructing someone to bring the avenue along. The phrase \"com você\" uses the idiomatic expression \"with you\", emphasizing the inclusion of the listener in the action."
+    },
+    {
+      "time": 132.678,
+      "text": "Tava esperando maimbê",
+      "translation": "I was waiting for Maimbê.",
+      "grammar": "The use of \"tava\" instead of \"estava\" to indicate past continuous tense is an idiomatic expression in Portuguese, equivalent to \"was waiting\" in English."
+    },
+    {
+      "time": 135.285,
+      "text": "Zum, zum, zum, zum, zum, baba",
+      "translation": "Zum, zum, zum, zum, zum, baba",
+      "grammar": "This line is an example of onomatopoeia, a figure of speech that imitates the sound it describes. The repeated \"zum\" creates a rhythmic effect, emphasizing the playful and childlike tone of the lyrics."
+    },
+    {
+      "time": 140.198,
+      "text": "Zum, zum, baba",
+      "translation": "Zum, zum, baba",
+      "grammar": "This interjection \"zum\" is an onomatopoeic expression imitating the sound of a baby's babbling, used to convey excitement or playfulness."
+    },
+    {
+      "time": 142.805,
+      "text": "Zum, zum baba",
+      "translation": "Zum, zum baba",
+      "grammar": "This interjection \"Zum, zum\" is an onomatopoeic expression imitating the sound of a baby's babbling, used to convey playful or affectionate tone."
+    },
+    {
+      "time": 145.412,
+      "text": "Zum, zum, zum, zum, zum, baba",
+      "translation": "Zum, zum, zum, zum, zum, baba",
+      "grammar": "This line features an interjection \"zum\" which is likely an onomatopoeic representation of a repetitive sound, often used to express excitement or energy. The use of the word \"baba\" as a term of endearment adds a playful and affectionate tone to the phrase."
+    },
+    {
+      "time": 150.325,
+      "text": "Zum, zum, baba",
+      "translation": "Zum, zum, baba",
+      "grammar": "This interjection \"zum\" is an onomatopoeic expression imitating the sound of buzzing or humming, often used to add a playful or whimsical tone to the lyrics."
+    },
+    {
+      "time": 152.931,
+      "text": "Zum, zum baba",
+      "translation": "Zum, zum baba",
+      "grammar": "This interjection \"zum\" is an onomatopoeic expression imitating the sound of a baby's babbling, used to convey excitement or playfulness."
+    },
+    {
+      "time": 155.538,
+      "text": "Zum, zum, zum, zum, zum, baba",
+      "translation": "Zum, zum, zum, zum, zum, baba",
+      "grammar": "This line features an interjection \"zum\" which is likely an onomatopoeic representation of a repetitive sound, used to add rhythm and emphasis. The use of \"baba\" as the final word may be an affectionate or soothing term, similar to \"momma\" or \"daddy\"."
+    },
+    {
+      "time": 160.451,
+      "text": "Zum, zum, baba",
+      "translation": "Zum, zum, baba",
+      "grammar": "This interjection \"zum\" is an onomatopoeic expression imitating the sound of buzzing or humming, often used to add a playful and lively tone to the lyrics."
+    },
+    {
+      "time": 163.058,
+      "text": "Zum, zum baba",
+      "translation": "Zum, zum baba",
+      "grammar": "This interjection \"Zum, zum baba\" is an idiomatic expression used to express excitement or enthusiasm, with no specific grammatical function."
+    },
+    {
+      "time": 165.665,
+      "text": "Zum, zum, zum, zum, zum, baba",
+      "translation": "Zum, zum, zum, zum, zum, baba",
+      "grammar": "This line is an example of onomatopoeia, a figure of speech that imitates the sound it describes. The repeated \"zum\" creates a rhythmic effect, emphasizing the playful and carefree tone of the lyrics."
+    },
+    {
+      "time": 170.578,
+      "text": "Zum, zum, baba",
+      "translation": "Zum, zum, baba",
+      "grammar": "This interjection \"zum\" is an onomatopoeic expression imitating the sound of a buzzing or humming noise, often used to add emphasis or excitement to a statement."
+    },
+    {
+      "time": 173.184,
+      "text": "Zum, zum baba",
+      "translation": "Zum, zum baba",
+      "grammar": "This interjection \"Zum, zum\" is an onomatopoeic expression imitating the sound of a baby's babbling, used to convey excitement or playfulness."
+    },
+    {
+      "time": 175.791,
+      "text": "Traga a avenida com você",
+      "translation": "Bring the avenue with you.",
+      "grammar": "This idiomatic expression uses the verb \"traga\" in the imperative mood, instructing someone to take or bring something (the avenue) along. The pronoun \"a\" is used to emphasize the idea of including everything that makes up the avenue."
+    },
+    {
+      "time": 179.935,
+      "text": "Tava esperando maimbê",
+      "translation": "I was waiting for Maimbê.",
+      "grammar": "The use of \"tava\" instead of \"estava\" indicates the past continuous tense, emphasizing the ongoing nature of the action. This is a common idiom in Portuguese to express an action that started and continued up until a specific point in the past."
+    },
+    {
+      "time": 182.542,
+      "text": "Corre cosme chegou",
+      "translation": "Cosme has arrived!",
+      "grammar": "The phrase \"corre\" is an idiomatic expression meaning \"has arrived\", using the present perfect tense to convey a sense of completion."
+    },
+    {
+      "time": 185.149,
+      "text": "Doum alabá",
+      "translation": "Doum alabá",
+      "grammar": "This interjection \"Doum alabá\" is an idiomatic expression used to express strong agreement or confirmation, often with a sense of urgency, and its tone is informal."
+    },
+    {
+      "time": 186.987,
+      "text": "Damião Jaçanã",
+      "translation": "Damião Jaçanã",
+      "grammar": "This is an interjection, used to express familiarity or affection towards someone."
+    },
+    {
+      "time": 188.825,
+      "text": "Pra levar e deixar",
+      "translation": "To take and leave",
+      "grammar": "This idiomatic phrase uses the present tense to express a general or habitual action, rather than describing a specific event. The verb \"levar\" is in the infinitive form, indicating the intention or tendency to take and leave."
+    },
+    {
+      "time": 192.2,
+      "text": "Alegria do erê",
+      "translation": "Joy of the child",
+      "grammar": "This phrase uses the idiomatic expression \"do erê\" to convey a sense of carefree joy, similar to saying \"the joy of being young\". The use of \"do\" (of) emphasizes the idea that this is a feeling associated with childhood."
+    },
+    {
+      "time": 194.807,
+      "text": "É ver gente sambar",
+      "translation": "It's seeing people dancing samba.",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a habitual or frequent action, emphasizing that it is common to see people dancing samba."
+    },
+    {
+      "time": 198.182,
+      "text": "Corre cosme chegou",
+      "translation": "Cosme has arrived!",
+      "grammar": "The phrase \"corre\" is an idiomatic expression meaning \"has arrived\", using the present perfect tense to convey a sense of completion."
+    },
+    {
+      "time": 200.789,
+      "text": "Doum alabá",
+      "translation": "Doum alabá",
+      "grammar": "This interjection \"Doum alabá\" is an idiomatic expression used to convey surprise or astonishment, often translated as \"Oh my god!\" or \"Good grief!\"."
+    },
+    {
+      "time": 202.627,
+      "text": "Damião Jaçanã",
+      "translation": "Damião Jaçanã",
+      "grammar": "This line is an interjection, used to express familiarity or affection towards someone named Damião Jaçanã."
+    },
+    {
+      "time": 204.465,
+      "text": "Pra levar e deixar",
+      "translation": "To take and leave",
+      "grammar": "This idiomatic phrase uses the present tense to convey a sense of habitual or general truth, rather than describing a specific action. The verb agreement is with the subject \"pra\" (meaning \"to\"), which is an abstract concept rather than a concrete noun."
+    },
+    {
+      "time": 207.841,
+      "text": "Alegria do erê",
+      "translation": "Joy of the child",
+      "grammar": "This phrase uses the idiomatic expression \"do erê\" to convey a sense of carefree joy, similar to saying \"the joy of being young\". The use of \"do\" instead of \"da\" (meaning \"of\") is a poetic license that adds to the lyrical quality."
+    },
+    {
+      "time": 210.447,
+      "text": "É ver gente sambar",
+      "translation": "It's seeing people dancing samba.",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a habitual or frequent action, and \"ver\" means not only \"to see\" but also \"to watch\" or \"to enjoy\"."
+    },
+    {
+      "time": 213.823,
+      "text": "Oiá eparrei me ensina a espiar",
+      "translation": "Oiá eparrei teach me to spy",
+      "grammar": "The phrase \"Oiá eparrei\" is an idiomatic expression, literally meaning \"I'm tired of teaching\", but used here to convey the speaker's willingness to learn. Note that the verb \"espiar\" is in the infinitive form, indicating the action being taught or learned."
+    },
+    {
+      "time": 218.736,
+      "text": "Com os olhos de quem",
+      "translation": "Through whose eyes",
+      "grammar": "This construction is an idiomatic way to ask someone to see something from their perspective, using the possessive pronoun \"os\" (whose) with a metaphorical extension to convey the idea of seeing through someone's eyes."
+    },
+    {
+      "time": 222.88,
+      "text": "Me cega de amar",
+      "translation": "I am blinded by love.",
+      "grammar": "The phrase \"Me cega\" is an idiomatic expression that uses the reflexive pronoun \"me\" to emphasize the speaker's emotional state, rather than indicating the subject of the sentence. This construction is a common way to express strong feelings or intense emotions in Portuguese."
+    },
+    {
+      "time": 226.256,
+      "text": "Vou cantar maimbê",
+      "translation": "I'm going to sing maimbê.",
+      "grammar": "The phrase \"Vou cantar\" is a future tense construction, equivalent to \"I am going to\" in English, used to express intention or plan."
+    },
+    {
+      "time": 228.862,
+      "text": "Pra você se acabar",
+      "translation": "For you to finish yourself off.",
+      "grammar": "The phrase \"se acabar\" is an idiomatic expression meaning \"to ruin oneself\" or \"to destroy oneself\", using the reflexive pronoun \"se\" and the verb \"acabar\" in the infinitive form, conveying a sense of self-destruction."
+    },
+    {
+      "time": 232.238,
+      "text": "Maimbê, maimbê, dandá",
+      "translation": "Maimbê, maimbê, dandá",
+      "grammar": "This line is an interjection, used to express excitement or enthusiasm. The repetition of \"maimbê\" emphasizes the speaker's emotions, creating a sense of urgency and energy."
+    },
+    {
+      "time": 234.845,
+      "text": "Maimbê, maimbê, dandá",
+      "translation": "Maimbê, maimbê, dandá",
+      "grammar": "This line is an interjection, used to express excitement or enthusiasm. The repetition of \"maimbê\" emphasizes the speaker's emotional state."
+    },
+    {
+      "time": 237.451,
+      "text": "Maimbê, maimbê, dandá",
+      "translation": "Maimbê, maimbê, dandá",
+      "grammar": "This is an interjection, used to express excitement or enthusiasm. The repetition of \"maimbê\" emphasizes the speaker's emotions and creates a sense of urgency."
+    },
+    {
+      "time": 240.058,
+      "text": "Maimbê, maimbê, dandá",
+      "translation": "Maimbê, maimbê, dandá",
+      "grammar": "This is an interjection, used to express excitement or enthusiasm. The repetition of \"maimbê\" emphasizes the speaker's emotions and creates a sense of urgency."
+    },
+    {
+      "time": 242.665,
+      "text": "Maimbê, maimbê, dandá",
+      "translation": "Maimbê, maimbê, dandá",
+      "grammar": "This is an interjection, used to express excitement or enthusiasm. The repetition of \"maimbê\" emphasizes the speaker's emotional state."
+    },
+    {
+      "time": 245.272,
+      "text": "Maimbê, maimbê, dandá",
+      "translation": "Maimbê, maimbê, dandá",
+      "grammar": "This is an interjection, used to express excitement or enthusiasm. The repetition of \"maimbê\" emphasizes the speaker's emotional state."
+    },
+    {
+      "time": 247.878,
+      "text": "Maimbê, maimbê, dandá",
+      "translation": "Maimbê, maimbê, dandá",
+      "grammar": "This is an interjection, used to express excitement or enthusiasm. The repetition of \"maimbê\" emphasizes the speaker's emotional state."
+    },
+    {
+      "time": 250.485,
+      "text": "Maimbê, maimbê, dandá",
+      "translation": "Maimbê, maimbê, dandá",
+      "grammar": "This line is an interjection, used to express excitement or enthusiasm. The repetition of \"maimbê\" emphasizes the speaker's emotional state, creating a sense of urgency and energy."
+    },
+    {
+      "time": 253.092,
+      "text": "Zum, zum, zum, zum, zum, baba",
+      "translation": "Zum, zum, zum, zum, zum, baba",
+      "grammar": "This line is an example of onomatopoeia, a figure of speech that imitates the sound it describes. The repeated \"zum\" sounds mimic the noise of a baby's crying, creating a sense of urgency and attention-grabbing effect."
+    },
+    {
+      "time": 258.005,
+      "text": "Zum, zum, baba",
+      "translation": "Zum, zum, baba",
+      "grammar": "This interjection \"Zum, zum, baba\" is an onomatopoeic expression imitating the sound of a baby's babbling, used to convey playful or affectionate tone."
+    },
+    {
+      "time": 260.612,
+      "text": "Zum, zum baba",
+      "translation": "Zum, zum baba",
+      "grammar": "This interjection \"Zum, zum\" is an onomatopoeic expression imitating the sound of a baby's babbling, used to convey excitement or playfulness."
+    },
+    {
+      "time": 263.218,
+      "text": "Zum, zum, zum, zum, zum, baba",
+      "translation": "Zum, zum, zum, zum, zum, baba",
+      "grammar": "This line features an interjection \"zum\" which is likely an onomatopoeic representation of a repetitive sound, often used to express excitement or emphasis. The use of the word \"baba\" as a term of endearment adds a playful and affectionate tone to the phrase."
+    },
+    {
+      "time": 268.131,
+      "text": "Zum, zum, baba",
+      "translation": "Zum, zum, baba",
+      "grammar": "This interjection is an onomatopoeic expression imitating the sound of a baby's crying or babbling, used to express affection or playfulness."
+    },
+    {
+      "time": 270.738,
+      "text": "Zum, zum baba",
+      "translation": "Zum, zum baba",
+      "grammar": "This interjection \"zum\" is an onomatopoeic expression imitating the sound of a baby's babbling, used to express excitement or playfulness."
+    },
+    {
+      "time": 273.345,
+      "text": "Zum, zum, zum, zum, zum, baba",
+      "translation": "Zum, zum, zum, zum, zum, baba",
+      "grammar": "This line is an example of a repetitive phrase used to express excitement or emphasis, similar to the English idiom \"Oh yeah!\" or \"Right on!\", conveying enthusiasm and agreement. The repeated \"zum\" sounds function as an interjection, adding energy and playfulness to the lyrics."
+    },
+    {
+      "time": 278.258,
+      "text": "Zum, zum, baba",
+      "translation": "Zum, zum, baba",
+      "grammar": "This interjection \"zum\" is an onomatopoeic expression imitating the sound of a buzzing or humming noise, often used to add emphasis or excitement in informal conversations."
+    },
+    {
+      "time": 280.865,
+      "text": "Zum, zum baba",
+      "translation": "Zum, zum baba",
+      "grammar": "This interjection \"Zum, zum\" is an onomatopoeic expression imitating the sound of a baby's babbling, used to convey excitement or playfulness."
+    },
+    {
+      "time": 283.471,
+      "text": "Zum, zum, zum, zum, zum, baba",
+      "translation": "Zum, zum, zum, zum, zum, baba",
+      "grammar": "This line is an interjection, used to express excitement or enthusiasm. The repetition of \"zum\" creates a sense of rhythm and energy, emphasizing the speaker's emotions."
+    },
+    {
+      "time": 288.384,
+      "text": "Zum, zum, baba",
+      "translation": "Zum, zum, baba",
+      "grammar": "This interjection is an onomatopoeic expression that imitates the sound of a buzzing or humming noise."
+    },
+    {
+      "time": 290.991,
+      "text": "Zum, zum baba",
+      "translation": "Zum, zum baba",
+      "grammar": "This interjection \"Zum, zum\" is an onomatopoeic expression imitating the sound of a baby's babbling, used to convey playful or affectionate emotions."
+    },
+    {
+      "time": 293.598,
+      "text": "Traga a avenida com você",
+      "translation": "Bring the avenue with you.",
+      "grammar": "This idiomatic expression uses the verb \"traga\" in the imperative mood, instructing someone to bring or take something (the avenue) along. The pronoun \"a\" is used to emphasize possession, implying that the speaker wants to share this experience with the listener."
+    },
+    {
+      "time": 297.742,
+      "text": "Tava esperando maimbê",
+      "translation": "I was waiting for Maimbê.",
+      "grammar": "The use of \"tava\" instead of \"estava\" to indicate past continuous tense is an idiomatic expression in Portuguese, emphasizing the speaker's expectation or anticipation."
+    },
+    {
+      "time": 300.349,
+      "text": "Traga a avenida com você",
+      "translation": "Bring the avenue with you.",
+      "grammar": "This idiomatic expression uses the verb \"tragar\" in the present tense, implying a habitual or ongoing action. The phrase \"com você\" is an informal way to say \"with you\", emphasizing the speaker's desire for companionship."
+    },
+    {
+      "time": 304.493,
+      "text": "Tava esperando maimbê",
+      "translation": "I was waiting for Maimbê.",
+      "grammar": "The use of \"tava\" instead of \"estava\" to indicate past continuous tense is an idiomatic expression in Portuguese, emphasizing the speaker's expectation or anticipation."
+    },
+    {
+      "time": 307.1,
+      "text": "Corre cosme chegou",
+      "translation": "Cosme has arrived!",
+      "grammar": "The phrase \"corre\" is an idiomatic expression meaning \"has arrived\", using the present perfect tense to convey a sense of completion."
+    },
+    {
+      "time": 309.706,
+      "text": "Chegou, chegou, chegou",
+      "translation": "It's here, it's here, it's here!",
+      "grammar": "This repeated phrase uses the present tense to convey a sense of urgency and emphasis, with the verb \"chegar\" meaning \"to arrive\" in its most literal sense. The use of the same verb form three times creates an idiomatic expression that emphasizes the importance of something being present or happening."
+    },
+    {
+      "time": 312.313,
+      "text": "Corre cosme chegou",
+      "translation": "Cosme has arrived!",
+      "grammar": "The phrase \"Corre cosme chegou\" uses the present perfect tense to indicate that Cosme's arrival is relevant to the current situation, emphasizing its completion or result."
+    },
+    {
+      "time": 314.92,
+      "text": "Chegou, chegou, chegou",
+      "translation": "It's here, it's here, it's here!",
+      "grammar": "This repetitive phrase uses the present tense to convey a sense of urgency and emphasis, with the verb \"chegar\" (to arrive) in its third person singular form agreeing with the subject \"it\". The use of the same verb form three times creates an idiomatic expression emphasizing the certainty and imminence of the event."
+    },
+    {
+      "time": 317.527,
+      "text": "Corre cosme chegou",
+      "translation": "Cosme has arrived!",
+      "grammar": "The verb \"chegou\" is in the preterite tense, indicating a completed action in the past. The phrase \"corre cosme\" can be translated to \"Cosme has arrived!\", using the idiomatic expression \"correr\" meaning \"to arrive\"."
+    },
+    {
+      "time": 320.133,
+      "text": "Chegou, chegou, chegou",
+      "translation": "It's here, it's here, it's here!",
+      "grammar": "This repetition of \"chegou\" in different tenses (present and past) emphasizes the certainty and finality of an event, similar to English idioms like \"it's finally happened\" or \"it's arrived at last\"."
+    },
+    {
+      "time": 322.74,
+      "text": "Corre cosme chegou",
+      "translation": "Cosme has arrived!",
+      "grammar": "The verb \"chegou\" is in the preterite tense, indicating a completed action in the past. The phrase \"corre cosme\" can be translated to \"Cosme's arrival\" and uses the idiomatic expression \"correr\" meaning \"to arrive\"."
+    },
+    {
+      "time": 325.347,
+      "text": "Chegou",
+      "translation": "It arrived",
+      "grammar": "In Portuguese, \"chegou\" is a verb in the past tense (perfective aspect), indicating that an action has been completed."
+    },
+    {
+      "time": 326.547,
+      "text": "Maimbê, maimbê, dandá",
+      "translation": "Maimbê, maimbê, dandá",
+      "grammar": "This line is an interjection, used to express excitement or enthusiasm. The repetition of \"maimbê\" creates a sense of rhythm and emphasizes the speaker's emotions."
+    },
+    {
+      "time": 329.154,
+      "text": "Maimbê, maimbê, dandá",
+      "translation": "Maimbê, maimbê, dandá",
+      "grammar": "This line is an interjection, used to express excitement or joy. The repetition of \"maimbê\" emphasizes the speaker's enthusiasm."
+    },
+    {
+      "time": 331.76,
+      "text": "Maimbê, maimbê, dandá",
+      "translation": "Maimbê, maimbê, dandá",
+      "grammar": "This is an interjection, used to express excitement or enthusiasm. The repetition of \"maimbê\" emphasizes the speaker's emotions."
+    },
+    {
+      "time": 334.367,
+      "text": "Maimbê, maimbê, dandá",
+      "translation": "Maimbê, maimbê, dandá",
+      "grammar": "This line is an interjection, used to express excitement or enthusiasm. The repetition of \"maimbê\" creates a sense of rhythm and emphasis, similar to an English phrase like \"Oh yeah!\" or \"Woohoo!\"."
+    },
+    {
+      "time": 336.974,
+      "text": "Maimbê, maimbê, dandá",
+      "translation": "Maimbê, maimbê, dandá",
+      "grammar": "This line is an interjection, used to express excitement or enthusiasm. The repetition of \"maimbê\" emphasizes the speaker's emotions and creates a sense of urgency."
+    },
+    {
+      "time": 339.581,
+      "text": "Maimbê, maimbê, dandá",
+      "translation": "Maimbê, maimbê, dandá",
+      "grammar": "This is an interjection, used to express excitement or enthusiasm. The repetition of the phrase emphasizes the speaker's emotional state."
+    },
+    {
+      "time": 342.187,
+      "text": "Maimbê, maimbê, dandá",
+      "translation": "Maimbê, maimbê, dandá",
+      "grammar": "This line is an interjection, used to express excitement or joy. The repetition of \"maimbê\" emphasizes the speaker's enthusiasm."
+    },
+    {
+      "time": 344.794,
+      "text": "Maimbê, maimbê, dandá",
+      "translation": "Maimbê, maimbê, dandá",
+      "grammar": "This is an interjection, used to express excitement or joy. The repetition of \"maimbê\" emphasizes the speaker's enthusiasm."
+    },
+    {
+      "time": 347.401,
+      "text": "Zum, zum, zum, zum, zum, baba",
+      "translation": "Zum, zum, zum, zum, zum, baba",
+      "grammar": "This line is an interjection, used to express excitement or enthusiasm. The repetition of \"zum\" creates a sense of rhythm and energy, emphasizing the speaker's emotions."
+    },
+    {
+      "time": 352.314,
+      "text": "Zum, zum, baba",
+      "translation": "Zum, zum, baba",
+      "grammar": "This interjection is an onomatopoeic expression imitating the sound of a baby's crying or babbling, used to convey a sense of innocence and playfulness."
+    },
+    {
+      "time": 354.921,
+      "text": "Zum, zum baba",
+      "translation": "Zum, zum baba",
+      "grammar": "This interjection \"zum\" is an onomatopoeic expression imitating the sound of a baby's babbling, used to convey excitement or playfulness."
+    },
+    {
+      "time": 357.527,
+      "text": "Pra levar e deixar",
+      "translation": "To take and leave",
+      "grammar": "This idiomatic phrase uses the present tense to convey a sense of habitual or general truth, rather than describing a specific action. The phrase is often used to express permission or willingness to do something."
+    },
+    {
+      "time": 360.903,
+      "text": "Alegria do erê",
+      "translation": "Joy of the child",
+      "grammar": "The phrase \"do erê\" is an idiomatic expression meaning \"of the child\" or \"childlike\", using the possessive particle \"do\" to convey a sense of belonging."
+    },
+    {
+      "time": 363.51,
+      "text": "É ver gente sambar",
+      "translation": "It's seeing people dancing samba.",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a habitual or frequent action, and \"ver\" means not only \"to see\" but also \"to watch\" or \"to enjoy\"."
+    },
+    {
+      "time": 366.885,
+      "text": "Zum, zum, zum, zum, zum, baba",
+      "translation": "Zum, zum, zum, zum, zum, baba",
+      "grammar": "This line features an interjection \"zum\" which is likely used to express excitement or emphasis, similar to the English phrase \"oh yeah\"."
+    },
+    {
+      "time": 371.798,
+      "text": "Traga a avenida com você",
+      "translation": "Bring the avenue with you.",
+      "grammar": "This idiomatic expression uses the verb \"traga\" in the imperative mood, instructing someone to take or bring something (the avenue) along with them. Note that this construction is an invitation rather than a literal instruction."
+    },
+    {
+      "time": 375.942,
+      "text": "Tava esperando maimbê",
+      "translation": "I was waiting for Maimbê.",
+      "grammar": "The verb \"tava\" is in the imperfect past tense, indicating an ongoing action at a specific point in the past. This construction is a common way to express duration or continuous action in Portuguese."
+    },
+    {
+      "time": 378.549,
+      "text": "Traga a avenida com você",
+      "translation": "Bring the avenue with you.",
+      "grammar": "This phrase uses the idiomatic expression \"traga\" instead of \"leve\" to convey the idea of bringing something along, emphasizing the act of accompanying someone."
+    },
+    {
+      "time": 382.693,
+      "text": "Tava esperando maimbê",
+      "translation": "I was waiting for Maimbê.",
+      "grammar": "The use of \"tava\" instead of \"estava\" indicates the past continuous tense, emphasizing the ongoing nature of the action. This is an idiomatic expression in Portuguese, equivalent to \"was waiting\" in English."
+    }
+  ]
+}

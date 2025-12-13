@@ -1,0 +1,145 @@
+{
+  "id": "lv_kans_kur_atteics_no_jrasskolas",
+  "title": "Kaķēns, Kurš Atteicās No Jūrasskolas",
+  "artist": "BrainStorm",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "lv",
+  "to_language": "en",
+  "audio": "/audio/lv_kans_kur_atteics_no_jrasskolas.mp3",
+  "duration": 182,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 14.022,
+      "text": "Jau Augustā mūsu mīlai bij' beigas",
+      "translation": "Our love was already over in August",
+      "grammar": "The phrase \"jau\" is a past perfective aspect marker, indicating that the action of \"mīlai\" (to love) had been completed by a specific point in time (August). This construction implies that the speaker's love had ended before a certain moment."
+    },
+    {
+      "time": 16.50690000000596,
+      "text": "Rokzvaigzne atņēma tevi man bez steigas",
+      "translation": "The rock star took you away from me without haste",
+      "grammar": "Note: The verb \"atņēma\" is in the past tense, indicating a completed action. The phrase \"bez steigas\" idiomatically means \"without hesitation\"."
+    },
+    {
+      "time": 25.81609999999404,
+      "text": "Tu ar mani runāji lecīgi un pikti",
+      "translation": "You spoke to me in a rude and angry manner.",
+      "grammar": "The verb \"runāji\" is in the past tense, indicating that the speaker's tone was rude and angry at some point in the past. The phrase \"mani runāji\" also uses the idiomatic expression \"to speak to someone\", where \"mani\" functions as a direct object pronoun."
+    },
+    {
+      "time": 29.01330000001192,
+      "text": "Pirms brokastīm smēķēji līdz man kļuva slikti",
+      "translation": "You smoked before breakfast until I felt sick.",
+      "grammar": "The verb \"smēķēji\" is in the imperfective aspect, indicating an ongoing action in the past. The phrase \"līdz man kļuva slikti\" can be translated as \"until I felt sick\", using the idiomatic expression \"kļūt slikti\" to convey a sense of becoming unwell."
+    },
+    {
+      "time": 38.83759999999404,
+      "text": "Kaķēns, kurš atteicās no jūrasskolas",
+      "translation": "The kitten who refused to go to sea school",
+      "grammar": "In this sentence, the verb \"atteicās\" is in the passive voice, indicating that the subject (the kitten) had something done to it (refused), rather than performing the action itself."
+    },
+    {
+      "time": 41.86480000001192,
+      "text": "Un mūžīgi, mūžīgi draudzību sola",
+      "translation": "And promises friendship forever, forever",
+      "grammar": "The phrase \"mūžīgi\" is an adverb indicating the duration of the promise, equivalent to \"forever\" in English. Its repetition emphasizes the speaker's commitment to a lifelong friendship."
+    },
+    {
+      "time": 51.07769999998808,
+      "text": "Kaķēns, kurš atteicās no jūrasskolas",
+      "translation": "The kitten who refused to go to sea school",
+      "grammar": "In this sentence, the verb \"atteicās\" is in the past tense and has a passive meaning, indicating that the action of refusing was performed by someone or something else. This usage is an idiomatic expression in Latvian, equivalent to saying \"who refused to go\" in English."
+    },
+    {
+      "time": 54.17890000000596,
+      "text": "Un mūžīgi, mūžīgi draudzību sola",
+      "translation": "And promises friendship forever, forever",
+      "grammar": "The phrase \"mūžīgi, mūžīgi\" is an idiom emphasizing the duration of something, equivalent to \"forever and ever\"."
+    },
+    {
+      "time": 63.607,
+      "text": "Neredzami putni ēd rudenīgas ogas",
+      "translation": "Invisible birds eat autumn berries",
+      "grammar": "The phrase \"Neredzami putni\" is an idiomatic expression, where the verb \"neredzami\" (to be invisible) is used to describe something that is intangible or abstract."
+    },
+    {
+      "time": 68.08269999998808,
+      "text": "Pa dumbrājiem dusmīgi miglas ķēmi zogas",
+      "translation": "Angry fog monsters are stealing through the swamps",
+      "grammar": "The phrase \"dusmīgi\" is an adjective modifying \"miglas\", indicating a strong emotional tone, and its use creates a vivid idiom-like image. The verb \"ķēmi\" is in the present continuous tense, suggesting ongoing action."
+    },
+    {
+      "time": 76.07869999998807,
+      "text": "Mīļā, Tu atkal runā pārāk skaļi",
+      "translation": "Honey, you're talking too loud again.",
+      "grammar": "The phrase \"Mīļā\" is an informal and affectionate way to address someone in Latvian, equivalent to saying \"honey\" or \"sweetheart\". The sentence itself is in the present tense, expressing a habitual action."
+    },
+    {
+      "time": 79.31559999999403,
+      "text": "Zemeslodi tur vairs tikai divi vaļi!",
+      "translation": "There are only two whales left on Earth!",
+      "grammar": "The phrase \"vairs\" is an adverb indicating the present perfect tense, implying that the speaker is emphasizing the current situation of there being only two whales left."
+    },
+    {
+      "time": 88.73219999998808,
+      "text": "Kaķēns, kurš atteicās no jūrasskolas",
+      "translation": "The kitten who refused to go to sea school",
+      "grammar": "In this sentence, the verb \"atteicās\" is in the past tense, indicating a completed action. The phrase \"no jūrasskolas\" is an idiom translating to \"to refuse to go\", emphasizing the kitten's reluctance."
+    },
+    {
+      "time": 91.82390000000596,
+      "text": "Un mūžīgi, mūžīgi draudzību sola",
+      "translation": "And promises friendship forever, forever",
+      "grammar": "The phrase \"mūžīgi\" is an adverb indicating the duration of the promise, equivalent to \"forever\". Its repetition emphasizes the eternal nature of the commitment."
+    },
+    {
+      "time": 101.15030000001192,
+      "text": "Kaķēns, kurš atteicās no jūrasskolas",
+      "translation": "The kitten who refused to go to sea school",
+      "grammar": "In this line, the verb \"atteicās\" is in the passive voice, indicating that the subject \"kaķēns\" (kitten) had something done to it, rather than performing the action itself."
+    },
+    {
+      "time": 104.53309999999404,
+      "text": "Un mūžīgi, mūžīgi draudzību sola",
+      "translation": "And promises friendship forever, forever",
+      "grammar": "The phrase \"mūžīgi, mūžīgi\" is an idiom emphasizing the duration of something, equivalent to \"forever and ever\" in English."
+    },
+    {
+      "time": 126.34719999998808,
+      "text": "Kaķēns, kurš atteicās no jūrasskolas",
+      "translation": "The kitten who refused to go to sea school",
+      "grammar": "This sentence uses the present participle \"atteicās\" in the relative clause, indicating a past action that is still relevant. The idiom \"jūrasskolas\" translates to \"sea school\", implying a unique or imaginative educational institution."
+    },
+    {
+      "time": 132.56740000000596,
+      "text": "Kaķēns, kurš atteicās no jūrasskolas",
+      "translation": "The kitten who refused to go to sea school",
+      "grammar": "In this sentence, the verb \"atteicās\" is in the passive voice, indicating that the subject \"kaķēns\" (kitten) had something done to it, rather than performing the action itself."
+    },
+    {
+      "time": 139.0305,
+      "text": "Kaķēns, kurš atteicās no jūrasskolas",
+      "translation": "The kitten who refused to go to sea school",
+      "grammar": "In this idiomatic expression, the verb \"atteicās\" is in the passive voice, emphasizing the kitten's refusal rather than its agency. The phrase \"no jūrasskolas\" is an adverbial phrase indicating the reason for the kitten's refusal."
+    },
+    {
+      "time": 152.24109999999405,
+      "text": "Un mūžīgi, mūžīgi draudzību sola",
+      "translation": "And promises friendship forever, forever",
+      "grammar": "The phrase \"mūžīgi, mūžīgi\" is an idiom expressing eternity or perpetuity, equivalent to the English phrase \"forever and ever\"."
+    },
+    {
+      "time": 152.243,
+      "text": "Kaķēns, kurš atteicās no jūrasskolas",
+      "translation": "The kitten who refused to go to sea school",
+      "grammar": "In this sentence, the verb \"atteicās\" is in the past tense, indicating a completed action. The phrase \"no jūrasskolas\" is an idiom translating to \"to refuse to go\", emphasizing the kitten's reluctance."
+    },
+    {
+      "time": 155.03869999998807,
+      "text": "Un mūžīgi, mūžīgi draudzību sola",
+      "translation": "And promises friendship forever, forever",
+      "grammar": "The phrase \"mūžīgi, mūžīgi\" is an idiom expressing eternity or perpetuity in the sense of a promise or commitment."
+    }
+  ]
+}

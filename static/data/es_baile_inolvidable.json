@@ -1,0 +1,403 @@
+{
+  "id": "es_baile_inolvidable",
+  "title": "BAILE INoLVIDABLE",
+  "artist": "Bad Bunny",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_baile_inolvidable.mp3",
+  "duration": 159,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 4.67409999999404,
+      "text": "Pensaba que contigo iba a envejecer",
+      "translation": "I thought I was going to grow old with you",
+      "grammar": "The use of \"pensaba\" in the present perfect tense indicates that the speaker's thoughts about growing old with someone are not limited to a specific moment, but rather reflect their general attitude or assumption."
+    },
+    {
+      "time": 9.712599999994039,
+      "text": "En otra vida, en otro mundo podrá ser",
+      "translation": "Perhaps in another life, in another world.",
+      "grammar": "This sentence uses the conditional tense to express a hypothetical situation, and the phrase \"en otra vida\" is an idiomatic expression meaning \"in another life\"."
+    },
+    {
+      "time": 15.0425,
+      "text": "En esta solo queda irme un día",
+      "translation": "All that's left is for me to leave one day.",
+      "grammar": "The phrase \"queda\" implies a future possibility, using the subjunctive mood to express a hypothetical or uncertain event. This idiomatic expression conveys the idea that there is no other option but to take action in the future."
+    },
+    {
+      "time": 21.14890000000596,
+      "text": "Y solamente verte en el atardecer",
+      "translation": "And just seeing you at sunset",
+      "grammar": "The verb \"verte\" is in the present participle form, indicating a continuous or ongoing action, which creates a sense of intimacy and longing. The phrase \"en el atardecer\" functions as an idiom, evoking a romantic atmosphere."
+    },
+    {
+      "time": 29.79720000001788,
+      "text": "Si me ven solo y triste, no me hablen",
+      "translation": "If you see me alone and sad, don't talk to me",
+      "grammar": "This sentence uses the present tense to express a general truth or advice, with the imperative mood (\"don't talk to me\") emphasizing the speaker's request. The phrase \"no me hablen\" is an idiomatic expression meaning \"don't talk to me\", rather than a literal instruction not to speak to oneself."
+    },
+    {
+      "time": 32.64779999998212,
+      "text": "Si me ven solo y triste, soy culpable",
+      "translation": "If you see me alone and sad, it's my fault.",
+      "grammar": "The phrase \"soy culpable\" is an idiomatic expression that implies a sense of responsibility or guilt, rather than a literal admission of fault. The use of the verb \"ser\" (to be) in the present tense emphasizes the speaker's emotional state and takes on a more introspective tone."
+    },
+    {
+      "time": 38.597799999982115,
+      "text": "La vida es una fiesta que un día termina",
+      "translation": "Life is a party that one day ends",
+      "grammar": "This idiomatic expression uses the present tense to convey a universal truth, emphasizing that life's fleeting nature is a constant. The phrase \"una fiesta\" (a party) is an extended metaphor for life itself, highlighting its ephemeral and unpredictable nature."
+    },
+    {
+      "time": 44.23959999999404,
+      "text": "Y fuiste tú mi baile inolvidable",
+      "translation": "And you were my unforgettable dance",
+      "grammar": "The verb \"fuiste\" is in the preterite tense, indicating a completed action in the past. The phrase \"mi baile inolvidable\" uses the possessive adjective \"mi\" to emphasize the speaker's emotional connection to the experience."
+    },
+    {
+      "time": 55.81839999997616,
+      "text": "Y fuiste tú mi baile inolvidable",
+      "translation": "And you were my unforgettable dance",
+      "grammar": "The verb \"fuiste\" is in the preterite tense, indicating a completed action in the past. The phrase \"mi baile inolvidable\" uses the idiomatic expression \"baile\" to refer to a romantic or memorable experience."
+    },
+    {
+      "time": 61.73079999998212,
+      "text": "Eh-eh, eh-eh, eh-eh, eh-eh",
+      "translation": "Eh-eh, eh-eh, eh-eh, eh-eh",
+      "grammar": "This interjection is an example of onomatopoeia, imitating the sound of a repeated \"eh\" utterance, often used to express excitement or emphasis."
+    },
+    {
+      "time": 67.0815,
+      "text": "Mientras uno está vivo",
+      "translation": "While one is alive",
+      "grammar": "This phrase uses the present continuous tense to convey a sense of ongoing action, emphasizing the idea that living is an ongoing process. The idiomatic expression \"estar vivo\" literally means \"to be alive,\" but in this context it conveys the idea of making the most of life while one has the chance."
+    },
+    {
+      "time": 69.4435,
+      "text": "Uno debe amar lo más que pueda",
+      "translation": "One must love as much as one can",
+      "grammar": "This sentence uses the subjunctive mood to express a sense of obligation or necessity, emphasizing the importance of loving with all one's might. The phrase \"lo más que pueda\" is an idiomatic expression meaning \"as much as possible\"."
+    },
+    {
+      "time": 103.1665,
+      "text": "Pensaba que contigo iba a envejecer",
+      "translation": "I thought I was going to grow old with you",
+      "grammar": "The use of \"pensaba\" in the past imperfect tense indicates a continuous or ongoing thought process, emphasizing the speaker's emotional state at the time. The phrase \"contigo iba a\" is an idiomatic expression meaning \"with you\" and implies a sense of shared future."
+    },
+    {
+      "time": 108.19929999998212,
+      "text": "En otra vida, en otro mundo podrá ser",
+      "translation": "Perhaps in another life, in another world.",
+      "grammar": "This sentence uses the subjunctive mood to express a hypothetical or uncertain situation, which is common when talking about future possibilities. The phrase \"en otra vida\" and \"en otro mundo\" are idiomatic expressions meaning \"in another life\" and \"in another world\", respectively."
+    },
+    {
+      "time": 113.55039999997616,
+      "text": "En esta solo queda irme un día",
+      "translation": "All that's left is for me to leave one day.",
+      "grammar": "The phrase \"queda\" implies a future possibility, using the subjunctive mood to express a hypothetical or uncertain event."
+    },
+    {
+      "time": 118.87809999999403,
+      "text": "Y ver pa'l cielo a ver si te veo caer",
+      "translation": "And look up at the sky to see if I see you fall",
+      "grammar": "The verb \"ver\" is used in the present continuous tense to express ongoing action, and the phrase \"si te veo caer\" is an idiomatic expression meaning \"if I see you falling\"."
+    },
+    {
+      "time": 124.192,
+      "text": "Si me ven solo y triste, no me hablen",
+      "translation": "If you see me alone and sad, don't talk to me",
+      "grammar": "This sentence uses the present tense (indicating a general truth) and the imperative mood (giving a command), with the verb \"hablen\" agreeing with the subject \"you\". The phrase \"no me hablen\" is an idiomatic expression meaning \"don't speak to me\", emphasizing the speaker's desire for solitude."
+    },
+    {
+      "time": 129.52079999998213,
+      "text": "Si me ven solo y triste, soy culpable",
+      "translation": "If you see me alone and sad, it's my fault.",
+      "grammar": "The phrase \"soy culpable\" implies a sense of responsibility or guilt, using the present tense to emphasize the speaker's emotional state. This idiomatic expression conveys that the speaker feels accountable for their own sadness."
+    },
+    {
+      "time": 140.03269999998807,
+      "text": "La vida es una fiesta que un día termina",
+      "translation": "Life is a party that one day ends",
+      "grammar": "This idiomatic expression uses the present tense to convey a universal truth, emphasizing that life's fleeting nature is a constant. The phrase \"una fiesta\" (a party) is an extended metaphor for life, highlighting its temporary and ephemeral nature."
+    },
+    {
+      "time": 140.25369999998807,
+      "text": "Y fuiste tú mi baile inolvidable",
+      "translation": "And you were my unforgettable dance",
+      "grammar": "The verb \"fuiste\" is in the preterite tense, indicating a completed action in the past. The phrase \"mi baile inolvidable\" uses the idiomatic expression \"baile\" to mean a memorable or special experience."
+    },
+    {
+      "time": 154.45239999997617,
+      "text": "No, no te puedo olvidar",
+      "translation": "No, I can't forget you.",
+      "grammar": "The phrase \"no, no te puedo olvidar\" uses the present tense and the ability to forget is expressed through the verb \"puedo\" in the conditional mood, indicating a sense of inability or impossibility."
+    },
+    {
+      "time": 156.78259999999403,
+      "text": "No, no te puedo borrar",
+      "translation": "No, I can't delete you.",
+      "grammar": "The phrase \"no te puedo\" is an idiomatic expression indicating refusal or inability to perform an action on someone else. The verb \"poder\" is in the present tense and the subjunctive mood, emphasizing the speaker's emotional reluctance rather than their ability."
+    },
+    {
+      "time": 159.54089999997615,
+      "text": "Tú me enseñaste a querer",
+      "translation": "You taught me how to love",
+      "grammar": "The verb \"enseñaste\" is in the preterite tense, indicating that the action of teaching occurred in the past and has no connection to the present or future. The phrase \"a querer\" is an infinitive construction, meaning \"how to do something\", which is a common idiomatic expression in Spanish."
+    },
+    {
+      "time": 162.2865,
+      "text": "Me enseñaste a bailar",
+      "translation": "You taught me to dance",
+      "grammar": "The verb \"enseñaste\" is in the preterite tense, indicating that the action of teaching took place in the past. The phrase \"a bailar\" is an infinitive construction meaning \"to dance\"."
+    },
+    {
+      "time": 175.8172999999821,
+      "text": "No, no te puedo olvidar",
+      "translation": "No, I can't forget you.",
+      "grammar": "The verb \"puedo\" is in the present tense and expresses ability rather than obligation, highlighting the speaker's emotional struggle to forget someone."
+    },
+    {
+      "time": 178.04159999999405,
+      "text": "No, no te puedo borrar",
+      "translation": "No, I can't delete you.",
+      "grammar": "The phrase \"no te puedo\" is an idiomatic expression in Spanish, where \"te\" is the indirect object pronoun agreeing with the implied recipient of the action, and \"puedo\" is the verb in the present tense, indicating ability or permission."
+    },
+    {
+      "time": 180.94359999999403,
+      "text": "Tú me enseñaste a querer",
+      "translation": "You taught me how to love",
+      "grammar": "The verb \"enseñaste\" is in the preterite tense, indicating that the action of teaching was completed in the past. The phrase \"a querer\" is an idiomatic expression meaning \"how to love\"."
+    },
+    {
+      "time": 188.71419999998807,
+      "text": "Me enseñaste a bailar (yeh, yeh, yeh, yeh)",
+      "translation": "You taught me to dance (yeah, yeah, yeah, yeah)",
+      "grammar": "The use of \"me\" instead of \"you\" in the phrase \"Me enseñaste\" is an example of inverted word order, a common feature of Spanish idiomatic expressions. This construction emphasizes the speaker's role as the one being taught."
+    },
+    {
+      "time": 188.71609999999404,
+      "text": "Ey, dime cómo le hago pa olvidarte",
+      "translation": "Hey, tell me how I can forget you",
+      "grammar": "The phrase \"Ey\" is an informal interjection equivalent to \"Hey\", used to address a friend or someone familiar. The verb \"dime\" is in the imperative mood, indicating a command or request."
+    },
+    {
+      "time": 190.06339999997616,
+      "text": "Hay un paso nuevo que quiero enseñarte",
+      "translation": "There's a new step I want to show you.",
+      "grammar": "The phrase \"hay un paso nuevo\" is in the present tense, indicating that there is an ongoing or general situation of having a new step. The use of \"hay\" instead of \"existe\" emphasizes the existence of this step, making it more concrete and tangible."
+    },
+    {
+      "time": 192.58939999997617,
+      "text": "En las noches ya ni puedo dormir",
+      "translation": "I can't even sleep at night anymore",
+      "grammar": "The phrase \"ya ni\" is an idiomatic expression used to emphasize the extent of something, in this case, not being able to sleep. It translates to \"not even\" or \"can't even\"."
+    },
+    {
+      "time": 195.12329999998212,
+      "text": "Lo que hago es soñarte",
+      "translation": "What I do is dream about you",
+      "grammar": "This line illustrates a common idiomatic expression in Spanish, where \"soñar\" (to dream) is used figuratively to mean \"to think about someone constantly\". The verb \"hacer\" (to do) is in the present tense and agrees with the subject \"yo\" (I), emphasizing the habitual nature of the speaker's thoughts."
+    },
+    {
+      "time": 197.10429999998212,
+      "text": "No, no te puedo olvidar",
+      "translation": "No, I can't forget you.",
+      "grammar": "The verb \"puedo\" is in the present tense and expresses ability, indicating a speaker's inability to forget someone."
+    },
+    {
+      "time": 199.38809999999404,
+      "text": "No, no te puedo borrar",
+      "translation": "No, I can't delete you.",
+      "grammar": "The phrase \"no te puedo\" is an idiomatic expression indicating refusal or inability to perform an action on someone else. The verb \"poder\" is in the present tense and has a negative connotation, emphasizing the speaker's reluctance."
+    },
+    {
+      "time": 202.0811999999881,
+      "text": "Tú me enseñaste a querer",
+      "translation": "You taught me how to love",
+      "grammar": "The verb \"enseñaste\" is in the preterite tense, indicating that the action of teaching occurred in the past. The phrase \"a querer\" is an infinitive construction, meaning \"how to do something\", which is a common idiomatic expression in Spanish."
+    },
+    {
+      "time": 204.73419999998808,
+      "text": "Me enseñaste a bailar",
+      "translation": "You taught me to dance",
+      "grammar": "The phrase \"Me enseñaste\" is in the preterite tense, indicating completed action in the past. The use of \"me\" instead of \"te\" emphasizes the speaker's role as the one who received instruction."
+    },
+    {
+      "time": 207.46479999998212,
+      "text": "Como tú me besabas, como yo te lo hacía",
+      "translation": "The way you kissed me, the way I kissed you",
+      "grammar": "This line illustrates the use of the imperfect tense (como tú me besabas) to describe a habitual or repeated action in the past, while maintaining a consistent mood and aspect throughout. The phrase also employs a common Spanish idiom, \"como tú\" and \"como yo\", which translates to \"the way you\" and \"the way I\", respectively."
+    },
+    {
+      "time": 209.95009999999405,
+      "text": "Como tú me mirabas, bellaquito me ponía",
+      "translation": "The way you looked at me made me feel all naughty.",
+      "grammar": "This line uses the present perfect tense (mirabas) to describe a past action and express a sense of continuity. The phrase \"como tú\" is an idiomatic expression meaning \"the way you\"."
+    },
+    {
+      "time": 212.90429999998213,
+      "text": "Se siente feo no tenerte cerquita",
+      "translation": "It feels bad not having you close by",
+      "grammar": "The verb phrase \"se siente\" is a passive construction, indicating that the subject (it) is experiencing the feeling of being far from someone. The use of \"feo\" (bad) implies a strong emotional connotation."
+    },
+    {
+      "time": 215.3772999999821,
+      "text": "La nueva mama bien, pero no es tu boquita",
+      "translation": "The new mom's doing well, but it's not your little mouth",
+      "grammar": "In this line, \"bien\" is an adverb expressing a positive opinion about the new mom's situation, rather than its literal meaning of \"well\". This usage is idiomatic in Spanish."
+    },
+    {
+      "time": 221.4217999999821,
+      "text": "Mi diabla, mi ángel, mi loquita",
+      "translation": "My devil, my angel, my crazy girl",
+      "grammar": "This phrase uses a poetic metaphor to describe someone, employing the idiomatic expression \"mi diabla\" and \"mi ángel\" to convey contrasting yet complementary qualities. The use of \"mi\" (my) emphasizes possession and affection."
+    },
+    {
+      "time": 223.563,
+      "text": "Mi diabla, mi ángel, mi loquita, ey",
+      "translation": "My devil, my angel, my crazy girl, hey",
+      "grammar": "The phrase \"mi diabla\" is an idiomatic expression using the possessive adjective \"mi\" to emphasize a personal characteristic, rather than indicating actual possession."
+    },
+    {
+      "time": 240.751,
+      "text": "Esto suena cabrón",
+      "translation": "This sounds badass",
+      "grammar": "The phrase \"esto suena\" is an idiomatic expression that combines a pronoun (\"esto\") with a verb in the present tense, indicating a subjective opinion or evaluation. The word \"cabrón\" is a colloquialism used to emphasize the speaker's enthusiasm and approval."
+    },
+    {
+      "time": 242.86919999998807,
+      "text": "Vamos a hacerlo otra vez",
+      "translation": "Let's do it again",
+      "grammar": "The phrase \"Vamos a\" is an idiomatic expression used to express willingness or intention, equivalent to \"Let's\" in English. It is often translated as \"Let's\" and indicates the speaker's involvement in the action that follows."
+    },
+    {
+      "time": 246.085,
+      "text": "Como anoche, como anoche",
+      "translation": "Like last night, like last night",
+      "grammar": "This idiom uses the verb \"ser\" in the imperfect tense to express a repeated or habitual action in the past, similar to \"used to\" in English. The repetition of \"como anoche\" emphasizes the similarity between two events."
+    },
+    {
+      "time": 253.29689999997615,
+      "text": "Aprieta, chamaquito, aprieta",
+      "translation": "Squeeze, kid, squeeze",
+      "grammar": "This line uses the imperative mood to give a direct instruction, with the verb \"aprieta\" (squeeze) in the present tense. The phrase \"chamaquito\" is an affectionate term used as an idiom to add emphasis and intimacy."
+    },
+    {
+      "time": 283.0222999999821,
+      "text": "¡Ahí, ahí, ahí, vamos allá!",
+      "translation": "There, there, there, let's go!",
+      "grammar": "This interjection uses the imperative mood to express enthusiasm and encouragement, with the verb \"vamos\" (let's go) in the present tense. The repetition of \"ahí\" emphasizes urgency and excitement."
+    },
+    {
+      "time": 283.02439999997614,
+      "text": "No, no te puedo olvidar",
+      "translation": "No, I can't forget you.",
+      "grammar": "The verb \"puedo\" is in the present tense and expresses ability rather than obligation, emphasizing the speaker's inability to forget the person."
+    },
+    {
+      "time": 283.0257999999821,
+      "text": "No, no te puedo borrar",
+      "translation": "No, I can't delete you.",
+      "grammar": "The phrase \"no te puedo\" is an idiomatic expression indicating refusal or inability to perform an action on someone else. The verb \"poder\" is in the present tense and has a negative connotation, emphasizing the speaker's reluctance."
+    },
+    {
+      "time": 284.9011999999881,
+      "text": "Tú me enseñaste a querer",
+      "translation": "You taught me how to love",
+      "grammar": "The verb \"enseñaste\" is in the preterite tense, indicating a completed action in the past. The phrase \"a querer\" is an infinitive construction, meaning \"how to do something\"."
+    },
+    {
+      "time": 287.46909999999406,
+      "text": "Me enseñaste a bailar",
+      "translation": "You taught me to dance",
+      "grammar": "The verb \"enseñaste\" is in the preterite tense, indicating completed action in the past. The phrase \"a bailar\" is an infinitive construction meaning \"how to dance\"."
+    },
+    {
+      "time": 289.4581999999881,
+      "text": "Ay, yo con cualquiera me puedo acostar",
+      "translation": "Oh, I can sleep with anyone.",
+      "grammar": "This line uses the informal expression \"yo\" to address someone in a familiar tone, and the idiomatic phrase \"con cualquiera\" means \"with anyone\" rather than literally \"with whoever\"."
+    },
+    {
+      "time": 292.31519999998807,
+      "text": "Pero no con cualquiera quiero despertar",
+      "translation": "But I don't want to wake up to just anyone.",
+      "grammar": "The phrase \"con cualquiera\" is an idiomatic expression meaning \"with just anyone\", emphasizing the speaker's desire for a specific person or someone special."
+    },
+    {
+      "time": 294.8666999999881,
+      "text": "Solo con usted, con usted",
+      "translation": "Only with you, with you",
+      "grammar": "The phrase \"solo con\" is an idiomatic expression meaning \"only with\" or \"exclusively with\", emphasizing the importance of being together with someone. The repetition of \"con usted\" emphasizes the exclusivity and intimacy of the relationship."
+    },
+    {
+      "time": 297.9295,
+      "text": "Yo bailo con usted, nada más con usted",
+      "translation": "I'll dance with you, and only with you.",
+      "grammar": "The phrase \"nada más con\" is an idiomatic expression meaning \"and only with\". It implies a strong commitment or exclusivity in the relationship."
+    },
+    {
+      "time": 300.4495,
+      "text": "Un beso donde estés, donde estés, bebé (no, no te puedo olvidar)",
+      "translation": "A kiss wherever you are, wherever you are, baby (no, I can't forget you)",
+      "grammar": "The use of \"donde estés\" twice emphasizes the speaker's willingness to be with the person at any location, conveying a sense of longing and intimacy."
+    },
+    {
+      "time": 303.461099999994,
+      "text": "No, no te puedo borrar",
+      "translation": "No, I can't delete you.",
+      "grammar": "The phrase \"no te puedo\" is an idiomatic expression indicating refusal or inability to perform an action on someone else. The verb \"poder\" is in the present tense and has a negative connotation, emphasizing the speaker's reluctance or impossibility of deleting the person."
+    },
+    {
+      "time": 305.3447999999821,
+      "text": "Tú me enseñaste a querer",
+      "translation": "You taught me how to love",
+      "grammar": "The phrase \"me enseñaste\" is in the preterite tense, indicating that the action of teaching occurred in the past. The use of \"tú\" instead of \"usted\" shows informal familiarity between the speaker and the person being addressed."
+    },
+    {
+      "time": 307.7285,
+      "text": "Me enseñaste a bailar",
+      "translation": "You taught me to dance",
+      "grammar": "The phrase \"me enseñaste\" is in the preterite tense, indicating that the action of teaching occurred at a specific point in the past. The use of \"me\" instead of \"te\" or \"le\" emphasizes the speaker's personal experience and receipt of instruction."
+    },
+    {
+      "time": 308.8915,
+      "text": "Y yo he tenido muchas novias",
+      "translation": "And I've had many girlfriends",
+      "grammar": "The use of \"he\" in this sentence is an example of a common Spanish idiom, where the speaker uses the first person plural pronoun \"yo\" and then attributes the action to themselves with the verb \"he tenido\". This construction emphasizes the speaker's experience or possession."
+    },
+    {
+      "time": 326.87779999998213,
+      "text": "Pero como tú ninguna",
+      "translation": "But there's no one like you.",
+      "grammar": "The phrase \"como tú\" is an idiomatic expression meaning \"like you\", rather than a literal comparison. It uses the subjunctive mood to express a subjective opinion, emphasizing the uniqueness of the person being addressed."
+    },
+    {
+      "time": 326.8792999999821,
+      "text": "Ya no tengo mi sol, me paso en la luna",
+      "translation": "I no longer have my sun, I spend my time on the moon",
+      "grammar": "The phrase \"ya no tengo\" is an idiomatic expression that conveys a sense of loss or longing, using the imperfect tense to emphasize the past state. The pronoun \"mi sol\" is a metaphorical reference to one's happiness or joy."
+    },
+    {
+      "time": 326.88059999999405,
+      "text": "Si te pienso, me tiro de una, eh-eh",
+      "translation": "If I think about you, I'll jump right in, eh-eh",
+      "grammar": "The phrase \"me tiro de una\" is an idiomatic expression meaning \"I'll jump right in\", using the present tense to convey a sense of immediate action. The use of \"de una\" (literally \"of one\") adds emphasis to the suddenness of the action."
+    },
+    {
+      "time": 326.88229999998214,
+      "text": "Mi diabla, mi ángel, mi loquita",
+      "translation": "My devil, my angel, my crazy girl",
+      "grammar": "This phrase uses a poetic metaphor to describe someone, employing an idiomatic expression that combines three contrasting roles into one person. The use of \"mi\" (my) emphasizes the speaker's personal connection and affection for this individual."
+    },
+    {
+      "time": 327.22089999997615,
+      "text": "Mi diabla, mi ángel, mi loquita, eh-eh",
+      "translation": "My devil, my angel, my crazy girl, eh-eh",
+      "grammar": "The phrase \"mi diabla\" and \"mi ángel\" are idiomatic expressions used to refer to the speaker's contrasting personality traits or aspects of their character. The use of \"mi\" instead of \"miya\" (my) is a colloquialism in Spanish, making the language more informal and conversational."
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": "es_te_quiero_y_me_miento",
+  "title": "Te Quiero y Me Miento",
+  "artist": "Carin Leon",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_te_quiero_y_me_miento.mp3",
+  "duration": 154,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Sabes bien que no sé decirte \"no\"",
+      "translation": "You know very well that I don't know how to say \"no\" to you",
+      "grammar": "The phrase \"no sé\" is an idiomatic expression meaning \"I don't know how to\" or \"I'm unable to\", rather than a literal translation of \"don't know\". This construction is used to express the speaker's inability to do something, in this case, say \"no\" to someone."
+    },
+    {
+      "time": 4.82,
+      "text": "Sí, sé lo bueno y también lo malo",
+      "translation": "Yes, I know the good and the bad.",
+      "grammar": "This line illustrates the use of the present tense (sé) to express general knowledge or habitual action, with the idiomatic phrase \"lo bueno y también lo malo\" conveying a sense of acceptance and understanding."
+    },
+    {
+      "time": 10.287,
+      "text": "Y vienes tú con ese vestido blanco",
+      "translation": "And then you come along in that white dress.",
+      "grammar": "The phrase \"viene\" is in the present tense, indicating a habitual or repeated action, and the use of \"tú\" instead of \"usted\" implies informal familiarity between the speaker and the listener."
+    },
+    {
+      "time": 15.107,
+      "text": "Y ahora me lamento del momento en que te conocí",
+      "translation": "And now I regret the moment I met you",
+      "grammar": "The verb \"lamentarme\" is in the present tense, indicating a habitual or ongoing action of regretting the past moment. The phrase \"del momento en que\" functions as an adverbial clause, specifying when the regret began."
+    },
+    {
+      "time": 21.865,
+      "text": "Te quiero y me miento, y ya no puedo estar sin ti",
+      "translation": "I love you and I'm lying to myself, and I can't be without you anymore.",
+      "grammar": "The phrase \"me miento\" is an idiomatic expression meaning \"to lie to oneself\", using the first person singular pronoun \"me\" instead of \"mi corazón\" (my heart) for emphasis."
+    },
+    {
+      "time": 29.914,
+      "text": "Yo no sé por qué te encontré",
+      "translation": "I don't know why I found you.",
+      "grammar": "The phrase \"Yo no sé\" is an idiomatic expression used to convey surprise or curiosity, equivalent to saying \"I have no idea\" in English. The use of the first person singular pronoun \"yo\" emphasizes the speaker's personal experience and involvement."
+    },
+    {
+      "time": 34.735,
+      "text": "¿Por qué me perdí a mí?",
+      "translation": "Why did I lose myself?",
+      "grammar": "The phrase \"¿Por qué me perdí a mí?\" is an idiomatic expression in Spanish, using the present perfect tense to convey a sense of regret or longing for something lost. The pronoun \"a mí\" is used instead of \"yo\" to emphasize the speaker's emotional state."
+    },
+    {
+      "time": 38.909,
+      "text": "Sabe Dios, me di cuenta tarde",
+      "translation": "God knows, I realized it too late.",
+      "grammar": "The phrase \"me di cuenta\" is an idiomatic expression meaning \"I realized\" in English. The verb \"cuenta\" is in the passive voice, indicating that the realization happened to the speaker rather than being a direct action taken by them."
+    },
+    {
+      "time": 43.084,
+      "text": "Lejos de encontrarme, vas a ser mi perdición",
+      "translation": "Far from finding me, you're going to be my downfall.",
+      "grammar": "The verb \"ser\" is in the future tense and agrees with the subject \"mi perdición\", emphasizing the certainty of the speaker's downfall."
+    },
+    {
+      "time": 48.55,
+      "text": "Otra noche en vela, la copa llena",
+      "translation": "Another sleepless night, the glass full",
+      "grammar": "The phrase \"otra noche en vela\" is an idiomatic expression that translates to \"another sleepless night\". The verb \"vela\" is in the present participle form, indicating a continuous or ongoing action."
+    },
+    {
+      "time": 53.371,
+      "text": "Solos tú y yo",
+      "translation": "Just you and me",
+      "grammar": "This phrase uses the informal \"tú\" form to address a single person, indicating a close relationship or familiarity. The verb \"estar\" is implied but not explicitly stated, as it is common in Spanish to use the present tense to describe ongoing or temporary situations."
+    },
+    {
+      "time": 56.254,
+      "text": "Solos tú y yo, mala compañera",
+      "translation": "Just you and me, bad companion",
+      "grammar": "The phrase \"tú\" is used to indicate informal address, emphasizing a personal or intimate relationship between the speaker and the addressee."
+    },
+    {
+      "time": 60.428,
+      "text": "Cuando ando en la peda pienso en ti",
+      "translation": "When I'm drunk I think of you",
+      "grammar": "The use of \"ando\" in \"Cuando ando\" is an informal, colloquial way to express the present continuous tense, implying a habitual or repeated action. This idiomatic expression is commonly used in spoken Spanish to describe a situation that is ongoing or frequent."
+    },
+    {
+      "time": 65.895,
+      "text": "Fueron tantos los errores que por ti yo cometí",
+      "translation": "I made so many mistakes because of you.",
+      "grammar": "The verb \"fueron\" is in the plural past tense, indicating that the speaker committed multiple mistakes. The phrase \"por ti\" is an idiomatic expression meaning \"because of you\"."
+    },
+    {
+      "time": 72.007,
+      "text": "Sigues en mi cartera",
+      "translation": "You're still in my wallet",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a sense of permanence or continued presence, rather than a specific action happening at the moment. The phrase \"estar en\" is often used figuratively to mean someone or something is important or cherished."
+    },
+    {
+      "time": 74.89,
+      "text": "A lo perro, oliendo tus miserias",
+      "translation": "Like a dog, sniffing out your miseries",
+      "grammar": "This idiomatic expression uses the metaphorical concept of a dog sniffing out something to convey the idea of someone searching for and exposing another's troubles. The phrase is in the present tense, describing an ongoing action."
+    },
+    {
+      "time": 79.064,
+      "text": "Con un besito me anestesias",
+      "translation": "With a little kiss you anesthetize me",
+      "grammar": "The phrase \"con un besito\" is an idiomatic expression meaning \"with a little something\" or \"with a gentle touch\", using the preposition \"con\" to indicate the means by which someone or something has an effect."
+    },
+    {
+      "time": 82.593,
+      "text": "Me encanta verme sufrir",
+      "translation": "I love watching myself suffer",
+      "grammar": "This line uses the reflexive pronoun \"verme\" (watching myself) to create a humorous idiom, emphasizing the speaker's fascination with their own misfortunes. The verb \"encanta\" is in the present tense, indicating a general feeling or habit."
+    },
+    {
+      "time": 85.476,
+      "text": "Ahora me lamento del momento en que te conocí",
+      "translation": "Now I regret the moment I met you",
+      "grammar": "The phrase \"me lamento\" is an idiomatic expression meaning \"I regret\" in English, using the present perfect tense to convey a sense of ongoing regret."
+    },
+    {
+      "time": 91.588,
+      "text": "Te quiero y me miento, ya no puedo estar sin ti",
+      "translation": "I love you and I'm lying to myself, I can't live without you anymore",
+      "grammar": "The phrase \"ya no\" is an idiomatic expression meaning \"anymore\" or \"already\", indicating a change in the speaker's emotional state. It is used to emphasize the intensity of their feelings, shifting from a past tense (\"pudiera\") to the present perfect continuous (\"no puedo estar\")."
+    },
+    {
+      "time": 98.992,
+      "text": "Yo no sé por qué te encontré",
+      "translation": "I don't know why I found you.",
+      "grammar": "The phrase \"yo no sé\" is an idiomatic expression used to convey surprise or unexpectedness, equivalent to saying \"I just happened to find you\". The use of the first-person singular pronoun \"yo\" emphasizes the speaker's personal experience."
+    },
+    {
+      "time": 103.812,
+      "text": "¿Por qué me perdí a mí?",
+      "translation": "Why did I lose myself?",
+      "grammar": "The phrase ¿Por qué me perdí a mí? is an idiomatic expression in Spanish, using the present perfect tense to convey a sense of regret or self-realization. The pronoun \"a mí\" is used instead of \"yo\" for emphasis and rhetorical effect."
+    },
+    {
+      "time": 107.987,
+      "text": "Y ahora me lamento del momento en que te conocí",
+      "translation": "And now I regret the moment I met you",
+      "grammar": "The verb \"lamentarme\" is in the present tense, indicating a habitual or timeless sense of regret. The phrase \"del momento en que\" functions as an idiomatic expression meaning \"about the time when\"."
+    },
+    {
+      "time": 114.745,
+      "text": "Te quiero y me miento, y ya no puedo estar sin ti",
+      "translation": "I love you and I'm lying to myself, and I can't be without you anymore.",
+      "grammar": "The phrase \"me miento\" is an idiomatic expression meaning \"to deceive oneself\" or \"to lie to oneself\", rather than a literal statement of dishonesty. The verb \"mentir\" is in the present tense, indicating a habitual or ongoing action."
+    },
+    {
+      "time": 122.794,
+      "text": "Yo no sé por qué te encontré",
+      "translation": "I don't know why I found you.",
+      "grammar": "The phrase \"yo no sé\" is an idiomatic expression used to convey a sense of surprise or unexpectedness, equivalent to saying \"I just happened to find you\". The use of \"yo\" instead of \"I\" emphasizes the speaker's emotional state."
+    },
+    {
+      "time": 127.615,
+      "text": "¿Por qué me perdí a mí?",
+      "translation": "Why did I lose myself?",
+      "grammar": "The phrase \"¿Por qué me perdí a mí?\" is an idiomatic expression that uses the present perfect tense to convey a sense of regret or self-realization, emphasizing the speaker's emotional state rather than a specific point in time."
+    },
+    {
+      "time": 131.789,
+      "text": "Ahora me lamento del momento en que te conocí",
+      "translation": "Now I regret the moment I met you",
+      "grammar": "The verb \"lamentar\" is in the present tense, indicating a sense of ongoing regret rather than a specific past event. The phrase \"del momento en que\" functions as an idiom, equivalent to \"when\" or \"at the time when\"."
+    },
+    {
+      "time": 137.901,
+      "text": "Te quiero y no miento, ya no puedo estar sin ti",
+      "translation": "I love you and I'm not lying, I can't live without you anymore",
+      "grammar": "The verb phrase \"puedo estar\" is in the present tense, indicating a habitual or general truth about the speaker's emotional state. The use of \"ya no puedo\" emphasizes the intensity of their feelings, conveying a sense of urgency and necessity."
+    },
+    {
+      "time": 145.305,
+      "text": "Yo no sé por qué te-",
+      "translation": "I don't know why you-",
+      "grammar": "The phrase \"Yo no sé\" is an idiomatic expression used to convey uncertainty or lack of knowledge, equivalent to saying \"I don't know\". The use of the first person singular pronoun \"yo\" and the negation \"no\" emphasizes the speaker's personal ignorance."
+    },
+    {
+      "time": 149.48,
+      "text": "¿Y por qué me perdí a mí?",
+      "translation": "And why did I lose myself?",
+      "grammar": "The phrase \"¿Y por qué me perdí a mí?\" is an idiomatic expression that uses the first person singular pronoun \"a mí\" instead of \"a mí mismo\" or \"a mí misma\", emphasizing the speaker's emotional loss of identity."
+    }
+  ]
+}

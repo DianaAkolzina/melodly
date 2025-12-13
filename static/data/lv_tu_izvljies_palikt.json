@@ -1,0 +1,301 @@
+{
+  "id": "lv_tu_izvljies_palikt",
+  "title": "Tu Izvēlējies Palikt",
+  "artist": "BrainStorm",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "lv",
+  "to_language": "en",
+  "audio": "/audio/lv_tu_izvljies_palikt.mp3",
+  "duration": 258,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 16.146599999994038,
+      "text": "Kad viss jau būs pateikts.",
+      "translation": "When everything has been said.",
+      "grammar": "This sentence uses the present perfect tense to convey a sense of completion, implying that all necessary words have been spoken. The phrase \"viss\" is an idiomatic expression meaning \"everything\"."
+    },
+    {
+      "time": 19.10220000001788,
+      "text": "Vai tā kādreiz būs?",
+      "translation": "Will it ever be?",
+      "grammar": "The sentence uses the present continuous tense to express a sense of ongoing uncertainty, with vai functioning as an interjection equivalent to \"will\" or \"would\"."
+    },
+    {
+      "time": 22.69070000001788,
+      "text": "Mēs dosimies tālāk,",
+      "translation": "We will move on,",
+      "grammar": "The phrase \"dosimies\" is in the future tense, indicating a planned or intended action. The verb agrees with the subject pronoun \"mēs\", which is first person plural."
+    },
+    {
+      "time": 25.598,
+      "text": "Viss parastais sagrūs",
+      "translation": "Everything ordinary will collapse",
+      "grammar": "The phrase \"parastais\" is in the nominative case, agreeing with the noun \"viss\" (everything) in number and gender. The sentence is in the future tense, indicating a prediction or expectation that everything ordinary will eventually break down."
+    },
+    {
+      "time": 30.02709999999404,
+      "text": "Tas notiks tai dienā,",
+      "translation": "It will happen on that day,",
+      "grammar": "The phrase \"notiks\" is in the future tense, indicating a predicted event. The use of \"tai\" (meaning \"on\" or \"at\") implies a specific point in time, emphasizing the certainty of the happening."
+    },
+    {
+      "time": 32.91240000000596,
+      "text": "Kad gaismas ātruma stars",
+      "translation": "When the speed of light beam",
+      "grammar": "The phrase \"Ātruma\" is an idiomatic expression meaning \"speed\" or \"velocity\", rather than a literal reference to the physical concept."
+    },
+    {
+      "time": 37.0545,
+      "text": "Būs lēnāks kā domas",
+      "translation": "It will be slower than thoughts",
+      "grammar": "The verb \"būs\" is in the future tense, indicating a prediction or intention. The phrase \"lēnāks kā domas\" uses an idiom to compare speed to thought processes."
+    },
+    {
+      "time": 40.30040000000596,
+      "text": "Domas tavas un gars.",
+      "translation": "Your thoughts and spirit.",
+      "grammar": "This phrase uses the present tense to describe a general or habitual state, with \"tavas\" being an idiomatic expression meaning \"thoughts\" rather than the literal \"you have\"."
+    },
+    {
+      "time": 43.56670000001788,
+      "text": "Viņš solīja to aizmirst,",
+      "translation": "He promised to forget it,",
+      "grammar": "The verb \"solīja\" is in the past tense, indicating that the action of promising has been completed. The phrase \"to aizmirst\" is an idiomatic expression meaning \"to forgive or forget\"."
+    },
+    {
+      "time": 47.10630000001192,
+      "text": "Viņa nepiedot",
+      "translation": "She won't forgive.",
+      "grammar": "The phrase \"nepiedot\" is an idiomatic expression indicating refusal or unwillingness to forgive, rather than a literal description of someone's actions. It is in the future tense and negates the possibility of forgiveness."
+    },
+    {
+      "time": 50.73920000001788,
+      "text": "Tu izvēlējies palikt,",
+      "translation": "You chose to stay,",
+      "grammar": "The verb \"izvēlējies\" is in the second person singular perfective tense, indicating that the action of choosing has been completed before the moment of speaking."
+    },
+    {
+      "time": 54.39260000002384,
+      "text": "Es-aizlidot",
+      "translation": "I-fly away",
+      "grammar": "This idiomatic expression uses the verb \"es-\" in the imperative mood, indicating a command or instruction to \"fly away\". The \"-aizl-\" suffix is an informal way of saying \"let's\" or \"we'll\", making it a colloquial invitation."
+    },
+    {
+      "time": 58.01440000000596,
+      "text": "Un, kurš no mums būs pirmais,",
+      "translation": "And which of us will be the first,",
+      "grammar": "The phrase \"kuriš\" is an idiomatic expression used to ask about the order or sequence of events, rather than literally inquiring about someone's identity. The sentence is in the present tense, using the conditional mood to express uncertainty about the future."
+    },
+    {
+      "time": 61.68690000000596,
+      "text": "Kurš būs pēdējais?",
+      "translation": "Who will be the last?",
+      "grammar": "The phrase \"Kurš būs\" is a rhetorical question in the future tense, used to express curiosity or concern about an uncertain outcome."
+    },
+    {
+      "time": 64.93360000002384,
+      "text": "Nav nozīmes nekādas,",
+      "translation": "It doesn't matter,",
+      "grammar": "The phrase \"nav nozīmes\" is an idiomatic expression indicating indifference or lack of importance, often used to convey that something is insignificant."
+    },
+    {
+      "time": 68.46420000001788,
+      "text": "Tu mana es tavējais.",
+      "translation": "You are mine, I am yours.",
+      "grammar": "The phrase \"Tu mana es tavējais\" is an idiomatic expression in Latvian, using the present tense to convey a sense of possession and mutual ownership."
+    },
+    {
+      "time": 73.73390000000596,
+      "text": "Kosmoss tik niecīgs,",
+      "translation": "Space is so tiny,",
+      "grammar": "The phrase \"niecīgs\" is an adjective in the superlative form, agreeing with the noun \"kosmoss\" in terms of case and number."
+    },
+    {
+      "time": 75.979,
+      "text": "Pogas caurums tik liels,",
+      "translation": "The buttonhole is so big,",
+      "grammar": "This idiomatic expression uses the present tense to describe a surprising or unexpected situation, emphasizing the magnitude of the buttonhole's size. The phrase \"tik liels\" literally means \"so big\", but in this context conveys a sense of astonishment."
+    },
+    {
+      "time": 80.3835,
+      "text": "Visskumjākais-priecīgs",
+      "translation": "The saddest-happy",
+      "grammar": "This phrase uses a common Latvian idiom, combining two contrasting adjectives to convey a complex emotional state. The use of the comparative form \"saddest\" (visskumjākais) emphasizes the intensity of this bittersweet feeling."
+    },
+    {
+      "time": 83.3685,
+      "text": "Saldākais ir miegs",
+      "translation": "The sweetest thing is sleep.",
+      "grammar": "In this idiomatic expression, \"saldākais\" (meaning \"sweetest\") is used to describe the verb \"ir\" in the present tense, indicating a habitual or general truth about what brings joy."
+    },
+    {
+      "time": 87.38370000001788,
+      "text": "Tas notiks tai dienā,",
+      "translation": "It will happen on that day,",
+      "grammar": "This sentence uses the future tense to express a prediction or plan, with \"notiks\" being the future passive participle of the verb \"norīt\", meaning \"will happen\"."
+    },
+    {
+      "time": 90.53560000002385,
+      "text": "Kad gaismas ātruma stars",
+      "translation": "When the speed of light beam",
+      "grammar": "The phrase \"Ātruma\" is an idiomatic expression, equivalent to \"speed\" or \"velocity\", rather than a literal reference to the physical concept."
+    },
+    {
+      "time": 94.739,
+      "text": "Būs lēnāks kā domas,",
+      "translation": "It will be slower than thoughts,",
+      "grammar": "This line uses the future tense to express a hypothetical or expected situation, with \"būs\" indicating a predicted state. The phrase \"lēnāks kā domas\" is an idiom that means something is happening at a pace that's hard to keep up with, similar to \"faster than you can think\"."
+    },
+    {
+      "time": 97.81320000001789,
+      "text": "Domas tavas un gars.",
+      "translation": "Your thoughts and spirit.",
+      "grammar": "The phrase \"tavas\" is in the nominative case, agreeing with the plural noun \"domas\", indicating possession. The sentence uses the present tense to describe a general or habitual state."
+    },
+    {
+      "time": 101.16240000000596,
+      "text": "Viņš solīja to aizmirst,",
+      "translation": "He promised to forget it,",
+      "grammar": "The verb \"solīja\" is in the past tense, indicating that the action of promising has been completed. The phrase \"to aizmirst\" is an idiomatic expression meaning \"to forget\"."
+    },
+    {
+      "time": 105.15270000001789,
+      "text": "Viņa nepiedot",
+      "translation": "She won't forgive.",
+      "grammar": "The phrase \"nepiedot\" is in the future tense, indicating a promise or intention not to forgive. The verb agrees with the subject \"viņa\" (she) in number and gender."
+    },
+    {
+      "time": 108.69080000001192,
+      "text": "Tu izvēlējies palikt,",
+      "translation": "You chose to stay,",
+      "grammar": "The verb \"izvēlējies\" is in the third person singular past tense, indicating that someone else made the choice. The phrase \"palikt\" can be translated as \"to stay\", but the idiom implies a sense of commitment or decision."
+    },
+    {
+      "time": 112.14320000001788,
+      "text": "Es-aizlidot",
+      "translation": "I-fly away",
+      "grammar": "This line uses the informal first-person singular verb form \"es-\" to express a desire or intention, which is a common idiomatic expression in Latvian."
+    },
+    {
+      "time": 115.7545,
+      "text": "Un, kurš no mums būs pirmais,",
+      "translation": "And which of us will be the first,",
+      "grammar": "This sentence uses the present tense to express a hypothetical or uncertain situation, and the phrase \"kurš no mums\" is an idiomatic expression meaning \"which of us\", emphasizing the speaker's uncertainty about who will be the first."
+    },
+    {
+      "time": 119.43410000002385,
+      "text": "Kurš būs pēdējais?",
+      "translation": "Who will be the last?",
+      "grammar": "The phrase \"Kurš būs\" is a rhetorical question, using the future tense to express uncertainty or speculation about the outcome."
+    },
+    {
+      "time": 123.2115,
+      "text": "Nav nozīmes nekādas,",
+      "translation": "It doesn't matter,",
+      "grammar": "The phrase \"Nav nozīmes nekādas\" is an idiomatic expression in Latvian, equivalent to the English idiom \"It doesn't matter\", conveying a sense of indifference or nonchalance."
+    },
+    {
+      "time": 126.5135,
+      "text": "Tu mana es tavējais.",
+      "translation": "You are mine, I am yours.",
+      "grammar": "This line employs a poetic idiom, where the verb \"es\" is in the present tense and expresses possession rather than action. The phrase \"tavējais\" is an archaic way of saying \"belonging to me\"."
+    },
+    {
+      "time": 145.6735,
+      "text": "Kad viss jau būs pateikts",
+      "translation": "When everything has been said",
+      "grammar": "The phrase \"kād\" is an adverbial clause in the past perfect tense, indicating a completed action before another event. It can be translated as \"when everything has been said\"."
+    },
+    {
+      "time": 148.9625,
+      "text": "Tā noteikti būs",
+      "translation": "It definitely will be.",
+      "grammar": "The verb \"noteikti\" is in the future tense, indicating a certain or definite event. The phrase \"tā\" is an adverb meaning \"so\" or \"that\", emphasizing the certainty of the situation."
+    },
+    {
+      "time": 152.98260000002384,
+      "text": "Mēs dosimies tālāk",
+      "translation": "We will move on.",
+      "grammar": "The verb \"dosimies\" is in the future tense, indicating a planned or intended action. The phrase \"tālāk\" can be translated as \"on\" and implies movement forward."
+    },
+    {
+      "time": 155.56460000002383,
+      "text": "Viss parastais sagrūs",
+      "translation": "Everything ordinary will collapse",
+      "grammar": "The phrase \"parastais\" is in the nominative case, agreeing with the noun \"viss\", emphasizing that everything is affected. The use of \"sagrūs\" (will collapse) implies a future tense and a sense of inevitability."
+    },
+    {
+      "time": 159.887,
+      "text": "Tas notiks tai dienā,",
+      "translation": "It will happen on that day,",
+      "grammar": "The phrase \"notiks\" is in the future tense, indicating an event that will occur at a specific point in time. The use of \"tai\" (meaning \"on\" or \"at\") clarifies when this event will take place."
+    },
+    {
+      "time": 162.90840000000597,
+      "text": "Kad gaismas ātruma stars",
+      "translation": "When the speed of light beam",
+      "grammar": "The phrase \"Ātruma\" is an idiomatic expression meaning \"speed\" or \"velocity\", rather than a literal reference to the physical concept."
+    },
+    {
+      "time": 167.15590000000597,
+      "text": "Būs lēnāks kā domas",
+      "translation": "It will be slower than thoughts",
+      "grammar": "The phrase \"būs\" is a future tense auxiliary verb, indicating that the action of being slower will happen at some point in the future."
+    },
+    {
+      "time": 171.75380000001192,
+      "text": "Domas tavas un gars.",
+      "translation": "Your thoughts and spirit.",
+      "grammar": "The phrase \"tavas\" is in the nominative case, agreeing with the plural noun \"domas\", indicating that it refers to abstract concepts rather than concrete objects. The use of \"un\" instead of \"vien\" or \"divi\" implies a sense of unity and wholeness, emphasizing the connection between thoughts and spirit."
+    },
+    {
+      "time": 173.48160000002383,
+      "text": "Viņš solīja to aizmirst,",
+      "translation": "He promised to forget it,",
+      "grammar": "The verb \"solīja\" is in the past tense and implies a promise or obligation, rather than a simple statement of intention. The phrase \"to aizmirst\" is an idiomatic expression meaning \"to forgive or forget\"."
+    },
+    {
+      "time": 177.283,
+      "text": "Viņa nepiedot",
+      "translation": "She won't forgive.",
+      "grammar": "The phrase \"nepiedot\" is in the future tense, indicating a promise or intention not to forgive. The verb agrees with the subject \"viņa\" (she) in number and case."
+    },
+    {
+      "time": 180.56460000002383,
+      "text": "Tu izvēlējies palikt,",
+      "translation": "You chose to stay,",
+      "grammar": "The verb \"izvēlējies\" is in the third person singular past tense, indicating that someone else made the choice. Note the use of the possessive pronoun \"tu\", which agrees with the subject \"you\"."
+    },
+    {
+      "time": 184.59340000000597,
+      "text": "Es-aizlidot",
+      "translation": "I-fly away",
+      "grammar": "The verb \"es-\" is an idiomatic expression in Latvian, equivalent to the English phrase \"to fly away\" or \"to escape\", conveying a sense of sudden departure. The verb agrees with the subject \"I\" in number and person."
+    },
+    {
+      "time": 188.538,
+      "text": "Un, kurš no mums būs pirmais,",
+      "translation": "And which of us will be the first,",
+      "grammar": "The phrase \"kurš\" is an interrogative pronoun used to ask about identity, and its use implies a sense of uncertainty or inquiry."
+    },
+    {
+      "time": 191.82810000002385,
+      "text": "Kurš būs pēdējais?",
+      "translation": "Who will be the last?",
+      "grammar": "The phrase \"Kurš būs\" is a rhetorical question, using the future tense to express uncertainty and inquiry."
+    },
+    {
+      "time": 195.12490000000597,
+      "text": "Nav nozīmes nekādas,",
+      "translation": "It doesn't matter,",
+      "grammar": "The phrase \"nav nozīmes\" is an idiomatic expression indicating indifference or lack of importance, often used to convey a sense of nonchalance."
+    },
+    {
+      "time": 198.8025,
+      "text": "Tu mana es tavējais.",
+      "translation": "You are mine, I am yours.",
+      "grammar": "This line employs a poetic idiom, where the verb \"es\" is in the present tense and implies possession or belonging, rather than a literal statement of fact. The phrase also uses a metaphorical equivalence between \"tu mana\" (you) and \"tavējais\" (I am yours), creating a sense of reciprocity and unity."
+    }
+  ]
+}

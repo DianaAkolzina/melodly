@@ -1,0 +1,169 @@
+{
+  "id": "ru__7",
+  "title": "Один день",
+  "artist": "Татьяна Буланова",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_.mp3",
+  "duration": 214,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 22.02290000000596,
+      "text": "День как день, и не больше",
+      "translation": "A day like any other, and nothing more.",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of monotony or routine, implying that every day is similar with no significant events or changes."
+    },
+    {
+      "time": 26.31759999999404,
+      "text": "Только дольше этот день без тебя",
+      "translation": "Only this day without you is longer",
+      "grammar": "The phrase \"без тебя\" (without you) is an idiomatic expression implying a strong emotional dependence on the person, conveying that time passes more slowly or feels longer when they are absent."
+    },
+    {
+      "time": 31.91089999997616,
+      "text": "Я уйду ровно в полночь",
+      "translation": "I'll leave exactly at midnight.",
+      "grammar": "The use of \"уйду\" (will leave) in the future tense indicates a planned or scheduled action, emphasizing the exact timing with \"ровно\" (exactly)."
+    },
+    {
+      "time": 36.59369999998808,
+      "text": "Ровно в полночь, сразу после дождя",
+      "translation": "Exactly at midnight, right after the rain",
+      "grammar": "The phrase \"Ровно в полночь\" uses the exact time expression \"ровно\" to emphasize the precise moment of midnight, which is a common idiomatic way to express timing in Russian."
+    },
+    {
+      "time": 41.63839999997616,
+      "text": "Один день, прожитый без тебя",
+      "translation": "One day lived without you",
+      "grammar": "The phrase \"без тебя\" is an idiomatic expression meaning \"without you\", where \"ты\" (you) is in the accusative case due to its position in the sentence."
+    },
+    {
+      "time": 45.9585,
+      "text": "Будет похож на два, точно таких же дня",
+      "translation": "It will be like two exactly the same days",
+      "grammar": "The phrase \"будет похож\" is in the future tense, indicating a planned or expected event. The idiom \"похож на два\" literally means \"like two\", but figuratively conveys a sense of similarity or repetition."
+    },
+    {
+      "time": 51.8345,
+      "text": "Один день, прожитый без тебя",
+      "translation": "One day lived without you",
+      "grammar": "The phrase \"без тебя\" is an idiomatic expression meaning \"without you\", where \"ты\" is a possessive pronoun indicating the absence of someone. The sentence is in the past tense, describing a completed action."
+    },
+    {
+      "time": 56.03079999998212,
+      "text": "Кажется мне пустым листком календаря",
+      "translation": "It seems like a blank page on a calendar to me",
+      "grammar": "The phrase \"кажется мне\" is an idiomatic expression indicating the speaker's subjective impression or opinion, equivalent to \"it seems to me\" in English. The verb \"казаться\" is in the passive voice, emphasizing the perceived state rather than the person perceiving it."
+    },
+    {
+      "time": 62.88309999999404,
+      "text": "Ночь как ночь, только дольше",
+      "translation": "Night is like night, only longer",
+      "grammar": "This idiomatic expression uses the present tense to describe a general truth about nights, rather than referring to a specific time. The phrase \"как ночь\" (like night) is an idiom that means something is as bad or unpleasant as it can be."
+    },
+    {
+      "time": 67.2925,
+      "text": "Бесконечна эта ночь, без тебя",
+      "translation": "This night is endless without you",
+      "grammar": "The phrase \"без тебя\" (without you) is an idiomatic expression indicating the speaker's emotional state, implying a sense of longing or yearning. The possessive pronoun \"тебя\" agrees with the noun \"ночь\" in the preceding clause, emphasizing the night's endlessness without the person being referred to."
+    },
+    {
+      "time": 72.75479999998211,
+      "text": "Я прошу, если сможешь",
+      "translation": "I ask if you can",
+      "grammar": "The phrase \"если сможешь\" is an idiomatic expression meaning \"if you can\" in English. The verb \"сможешь\" is in the conditional mood and imperfective aspect, indicating a hypothetical or uncertain situation."
+    },
+    {
+      "time": 77.55779999998212,
+      "text": "Дозвонись мне, даже, если нельзя",
+      "translation": "Call me, even if you can't",
+      "grammar": "This idiom uses the verb \"дозвониться\" (to reach someone by phone) in the imperative mood, emphasizing the importance of communication despite any difficulties. The phrase \"даже если\" (even if) indicates a concession, implying that the speaker is willing to accept any circumstances."
+    },
+    {
+      "time": 83.09469999998808,
+      "text": "Один день, прожитый без тебя",
+      "translation": "One day lived without you",
+      "grammar": "The phrase \"прожитый\" is in the passive voice, indicating that the speaker's experience of living a day without someone else has been undergone or endured."
+    },
+    {
+      "time": 86.716,
+      "text": "Будет похож на два, точно таких же дня (дня, дня...)",
+      "translation": "It will be like two exactly the same days (days, days...)",
+      "grammar": "The phrase \"только такие же\" is an idiom indicating exact similarity or equivalence. The repetition of \"дня\" emphasizes this idea, creating a sense of monotony and sameness."
+    },
+    {
+      "time": 92.64139999997616,
+      "text": "Один день, прожитый без тебя",
+      "translation": "One day lived without you",
+      "grammar": "The phrase \"один день\" is an idiomatic expression meaning \"a single day\" rather than a literal 24-hour period. The verb \"прожитый\" is in the passive voice, indicating that the focus is on the experience of living that day without someone."
+    },
+    {
+      "time": 96.958,
+      "text": "Кажется мне пустым листком календаря",
+      "translation": "It seems like a blank page on a calendar to me",
+      "grammar": "The phrase \"Кажется мне\" is an idiomatic expression conveying the speaker's subjective impression, equivalent to \"it seems to me\" in English. The verb \"кажется\" is in the third person singular imperfective aspect, indicating a general or habitual feeling."
+    },
+    {
+      "time": 123.91109999999404,
+      "text": "Один день, прожитый без тебя",
+      "translation": "One day lived without you",
+      "grammar": "The phrase \"прожитый\" is in the passive voice, indicating that the speaker's experience of living a day without someone else has been completed. This construction emphasizes the emotional impact of the event rather than the speaker's agency."
+    },
+    {
+      "time": 127.576,
+      "text": "Будет похож на два, точно таких же дня",
+      "translation": "It will be like two exactly the same days",
+      "grammar": "The phrase \"будет похож на два\" uses the future tense to express a hypothetical situation, implying that the speaker expects similar circumstances in the future. The idiom \"похож на два\" is an equivalent of \"like two peas in a pod\", emphasizing the similarity and sameness."
+    },
+    {
+      "time": 133.65359999999404,
+      "text": "Один день, прожитый без тебя",
+      "translation": "One day lived without you",
+      "grammar": "The phrase \"без тебя\" is an idiomatic expression meaning \"without you\" in English, rather than a literal translation of the preposition \"без\" and pronoun \"тебя\"."
+    },
+    {
+      "time": 138.23979999998213,
+      "text": "Кажется мне пустым листком календаря",
+      "translation": "It seems like a blank page on a calendar to me",
+      "grammar": "The phrase \"кажется мне\" is an idiomatic expression conveying the speaker's subjective impression, equivalent to \"it seems to me\" in English. The verb \"казаться\" (to seem) is in the third person singular form, indicating that the speaker's perception is presented as a fact."
+    },
+    {
+      "time": 145.50689999997616,
+      "text": "Один день, прожитый без тебя",
+      "translation": "One day lived without you",
+      "grammar": "The phrase \"без тебя\" is an idiomatic expression meaning \"without you\", rather than a literal translation. It's used to emphasize the speaker's emotional state and creates a sense of longing or yearning."
+    },
+    {
+      "time": 149.38589999997615,
+      "text": "Будет похож на два, точно таких же дня",
+      "translation": "It will be like two exactly the same days",
+      "grammar": "The phrase \"будет похож на два\" uses the future tense to express a hypothetical situation, implying that the speaker is unsure about what will happen. The idiom \"похож на два\" means \"exactly the same\", emphasizing the similarity between two events or situations."
+    },
+    {
+      "time": 155.77739999997615,
+      "text": "Один день, прожитый без тебя",
+      "translation": "One day lived without you",
+      "grammar": "The phrase \"прожитый\" is in the passive voice, indicating that the experience of living a day without someone else has been undergone. This construction emphasizes the emotional impact of being apart from someone."
+    },
+    {
+      "time": 159.59389999997614,
+      "text": "Кажется мне пустым листком календаря",
+      "translation": "It seems like a blank page on a calendar to me",
+      "grammar": "The phrase \"кажется мне\" is an idiomatic expression indicating the speaker's subjective impression, using the present tense of the verb \"казаться\" (to seem) in the subordinate clause."
+    },
+    {
+      "time": 165.942,
+      "text": "Один день без тебя...",
+      "translation": "One day without you...",
+      "grammar": "The ellipsis (...) indicates a trailing off or a sense of incompleteness, often used to express longing or yearning. In this context, it emphasizes the speaker's emotional state, conveying a sense of desperation and sadness in being apart from someone."
+    },
+    {
+      "time": 176.15789999997617,
+      "text": "Один день без тебя...",
+      "translation": "One day without you...",
+      "grammar": "The ellipsis (...) in this phrase is an idiomatic expression indicating a sense of longing or yearning, often used to convey the speaker's emotional state."
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "id": "es_omw",
+  "title": "OMW",
+  "artist": "Tommy Royale",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_omw.mp3",
+  "duration": 164,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Timing",
+      "translation": "Timing",
+      "grammar": "This phrase is an interjection, used to emphasize the importance of timing in a situation. It does not convey any specific grammatical information, but rather serves as a prompt or reminder."
+    },
+    {
+      "time": 1.2,
+      "text": "Yo me encuentro aquí en este island",
+      "translation": "I find myself here on this island",
+      "grammar": "The phrase \"Yo me encuentro\" is an idiomatic expression that combines the first person singular pronoun \"yo\" with the verb \"encontrar\" in the present continuous tense, indicating a sense of being or finding oneself in a particular situation."
+    },
+    {
+      "time": 4.716,
+      "text": "Te busco a ti, quiero verte shining",
+      "translation": "I'm looking for you, I want to see you shining",
+      "grammar": "The verb \"busco\" is in the present continuous tense, indicating an ongoing action of searching. The phrase \"quiero verte shining\" uses the idiomatic expression \"verte shining\" to emphasize the desire to see someone radiant and attractive."
+    },
+    {
+      "time": 8.232,
+      "text": "Ven y guíame a mí, solo quiero tu guidance",
+      "translation": "Come and guide me, I just want your guidance",
+      "grammar": "The phrase \"Ven y guíame\" is an idiomatic expression that combines the imperative verb \"venir\" (to come) with the infinitive verb \"guiar\" (to guide), conveying a sense of urgency and request."
+    },
+    {
+      "time": 12.665,
+      "text": "Solo quiero tu-, yeah",
+      "translation": "I just want your-, yeah",
+      "grammar": "The use of \"quiero\" in the present tense indicates a strong desire or longing, emphasizing the speaker's emotional state. The dash and \"yeah\" are idiomatic expressions conveying enthusiasm and emphasis."
+    },
+    {
+      "time": 14.805,
+      "text": "Solo quiero tu-",
+      "translation": "I just want your-",
+      "grammar": "This phrase uses the present tense of the verb \"querer\" to express a strong desire, and the pronoun \"tu\" is used instead of \"tuyo\" due to the informal tone and affectionate nature of the sentence."
+    },
+    {
+      "time": 16.485,
+      "text": "Dame fuerza y levantarme",
+      "translation": "Give me strength to get up",
+      "grammar": "The phrase \"levantarme\" is an idiomatic expression, where the verb \"levantar\" (to lift or raise) is used in the reflexive form to mean \"to get up\"."
+    },
+    {
+      "time": 18.624,
+      "text": "Es que quiero reflejar tu corazón",
+      "translation": "I want to reflect your heart",
+      "grammar": "The phrase \"Es que\" is an idiomatic expression used to introduce a reason or explanation, equivalent to \"it's that\" in English."
+    },
+    {
+      "time": 21.681,
+      "text": "Hazme limpio con tu sangre",
+      "translation": "Cleanse me with your blood.",
+      "grammar": "The phrase \"Hazme\" is an imperative verb form, used to express a direct command or request. The use of the pronoun \"me\" agrees with the subject-verb agreement in Spanish, emphasizing the speaker's submission and vulnerability."
+    },
+    {
+      "time": 24.279,
+      "text": "Llena mi vida de color",
+      "translation": "Fill my life with color",
+      "grammar": "This phrase uses the imperative mood to make a request, and the verb \"llenar\" is in the present tense, indicating a sense of urgency or importance. The idiomatic expression \"de color\" means \"with vibrancy\" or \"with excitement\"."
+    },
+    {
+      "time": 26.877,
+      "text": "Hace tiempo que ando flotando",
+      "translation": "I've been floating for a while now.",
+      "grammar": "The phrase \"hace tiempo\" is an idiomatic expression indicating duration in the past, equivalent to \"for a long time\" or \"a while ago\". It's used with the present perfect tense (\"hecho\") to describe an action that started in the past and continues up to the moment of speaking."
+    },
+    {
+      "time": 29.476,
+      "text": "Y el faro llamándome",
+      "translation": "And the lighthouse calling me",
+      "grammar": "The verb \"llamándome\" is in the present participle form, indicating a continuous or ongoing action. The phrase \"llamándome\" can be translated to English as \"calling me\" and functions as an idiomatic expression meaning \"summoning or attracting someone\"."
+    },
+    {
+      "time": 31.615,
+      "text": "La noche tan oscura, la luna brillando",
+      "translation": "The night so dark, the moon shining",
+      "grammar": "This line uses the present participle \"brillando\" to describe a simultaneous action, emphasizing the contrast between the darkness and the moon's light."
+    },
+    {
+      "time": 35.131,
+      "text": "Guiando mis pasos, abrazándome",
+      "translation": "Guiding my steps, embracing me",
+      "grammar": "The phrase \"abrazándome\" is an idiomatic expression that uses the reflexive pronoun \"me\" to emphasize self-embracing or self-acceptance, rather than physical hugging. This construction is a common way to express affection and intimacy towards oneself in Spanish."
+    },
+    {
+      "time": 37.27,
+      "text": "Ya vengo on my way",
+      "translation": "I'm coming on my way",
+      "grammar": "This line uses the present continuous tense (vengo) to express immediate action, and the phrase \"on my way\" is an idiomatic expression meaning \"already going\" or \"in the process of arriving\"."
+    },
+    {
+      "time": 39.868,
+      "text": "Eh, eh, eh-eh-eh, eh, eh, eh-i-eh, eh, eh, eh-eh-eh",
+      "translation": "Eh, eh, eh-eh-eh, eh, eh, eh-i-eh, eh, eh, eh-eh-eh",
+      "grammar": "This line is an example of onomatopoeic repetition, where the speaker imitates the sound of a repeated \"eh\" to convey a sense of hesitation or uncertainty. The use of this idiom creates a playful and informal tone in the lyrics."
+    },
+    {
+      "time": 47.055,
+      "text": "Ya vengo on my way",
+      "translation": "I'm coming on my way",
+      "grammar": "This line uses the present continuous tense (vengo) to express immediate action, and the phrase \"on my way\" is an idiomatic expression meaning \"about to arrive\"."
+    },
+    {
+      "time": 49.653,
+      "text": "Eh, eh, eh-eh-eh, eh, eh, eh-i-eh, eh, eh, eh-eh-eh",
+      "translation": "Eh, eh, eh-eh-eh, eh, eh, eh-i-eh, eh, eh, eh-eh-eh",
+      "grammar": "This line is an example of a repetitive phrase used to express excitement or emphasis, often translated as \"Oh yeah\" or \"Yeah, yeah, yeah\". The repeated \"eh\"s are an idiomatic expression in Spanish, conveying enthusiasm and agreement."
+    },
+    {
+      "time": 56.84,
+      "text": "Ya vengo on my way",
+      "translation": "I'm coming on my way",
+      "grammar": "This phrase uses the present continuous tense (ya vengo) to convey a sense of imminent arrival, and the idiom \"on my way\" adds emphasis to the speaker's intention."
+    },
+    {
+      "time": 59.438,
+      "text": "Okay, dime qué ha sido el delay",
+      "translation": "Okay, tell me what the delay was.",
+      "grammar": "The phrase \"dime qué\" is an idiomatic expression meaning \"tell me what\". The verb \"ha sido\" is in the present perfect tense, indicating that the speaker wants to know about a completed action."
+    },
+    {
+      "time": 62.954,
+      "text": "Aquí me quedo esperándote",
+      "translation": "I'll stay here waiting for you",
+      "grammar": "The phrase \"Aquí me quedo\" is an idiomatic expression that conveys a sense of determination or commitment, similar to saying \"I'm staying put\". The verb \"quedarme\" is in the present tense and has a future implication due to the context."
+    },
+    {
+      "time": 65.093,
+      "text": "Y tú buscando luz en otro rey",
+      "translation": "And you're looking for light in another king.",
+      "grammar": "The phrase \"buscando luz\" is an idiomatic expression that conveys searching or seeking, with the verb \"buscar\" being in the present continuous tense to emphasize ongoing action."
+    },
+    {
+      "time": 68.609,
+      "text": "No way (no way), no way (no way)",
+      "translation": "No way (no way), no way (no way)",
+      "grammar": "This line illustrates a common idiomatic expression in English, where the phrase \"no way\" is used to emphasize strong negation or refusal. The repetition of \"no way\" creates a sense of urgency and conviction, making it a popular way to express strong disagreement or rejection."
+    },
+    {
+      "time": 72.584,
+      "text": "Dame luz, Dios, shine my way",
+      "translation": "Give me light, God, shine my way",
+      "grammar": "The imperative verb \"dame\" is used to express a strong request or plea, with the idiomatic phrase \"luz, Dios\" being an interjection that conveys urgency and devotion. The use of the second-person singular \"tú\" (not translated) implies a personal and intimate relationship between the speaker and God."
+    },
+    {
+      "time": 75.641,
+      "text": "Voy de camino y eso, ándale (uh-oh)",
+      "translation": "I'm on my way and that's it, come on (uh-oh)",
+      "grammar": "The phrase \"ándale\" is an informal imperative, equivalent to \"come on\", used to express encouragement or urgency."
+    },
+    {
+      "time": 79.615,
+      "text": "Esperándote en el night and day",
+      "translation": "Waiting for you at the night and day",
+      "grammar": "The phrase \"night and day\" is an idiom that means constantly or always, conveying a sense of urgency and dedication. The verb \"esperar\" (to wait) is in the present continuous tense, indicating ongoing action."
+    },
+    {
+      "time": 82.672,
+      "text": "Okay, ¿cómo va a ser?",
+      "translation": "Okay, how's it going to be?",
+      "grammar": "The phrase \"¿cómo va a ser?\" is an idiomatic expression used to ask about someone's plans or intentions, with the verb \"ser\" in the future tense indicating a planned or intended action."
+    },
+    {
+      "time": 85.271,
+      "text": "Dame fuerza y levantarme",
+      "translation": "Give me strength to get up",
+      "grammar": "In this line, \"levantarme\" is a reflexive verb in the subjunctive mood, used to express a polite request or wish. The speaker asks for strength to be given to themselves (me) to get up."
+    },
+    {
+      "time": 87.41,
+      "text": "Es que quiero reflejar tu corazón",
+      "translation": "I want to reflect your heart",
+      "grammar": "The phrase \"Es que\" is an idiomatic expression used to introduce a reason or explanation, equivalent to \"it's that\" in English. It implies a strong emotional connection between the speaker and their desire to understand someone else's feelings."
+    },
+    {
+      "time": 90.467,
+      "text": "Hazme limpio con tu sangre",
+      "translation": "Cleanse me with your blood.",
+      "grammar": "The phrase \"Hazme\" is an imperative verb form, used to express a direct command or request. The use of the reflexive pronoun \"me\" emphasizes the speaker's submission and vulnerability."
+    },
+    {
+      "time": 93.065,
+      "text": "Llena mi vida de color",
+      "translation": "Fill my life with color",
+      "grammar": "This phrase uses the imperative mood to make a request, and the verb \"llena\" is in the second person singular form, agreeing with the pronoun \"mi vida\"."
+    },
+    {
+      "time": 95.663,
+      "text": "Hace tiempo que ando flotando",
+      "translation": "I've been floating for a while now.",
+      "grammar": "The phrase \"hace tiempo\" is an idiomatic expression indicating duration in the past, equivalent to \"for a long time\" or \"a while ago\". It's used with the present perfect tense (\"hecho\") to describe an action that started in the past and continues up to the moment of speaking."
+    },
+    {
+      "time": 98.261,
+      "text": "Y el faro llamándome",
+      "translation": "And the lighthouse calling me",
+      "grammar": "The verb \"llamándome\" is in the present participle form, indicating an ongoing action, and can be translated as \"calling me\" or \"is calling me\". The phrase \"llamándome\" is an idiomatic expression meaning \"to call out to someone\", emphasizing the sense of urgency and attention."
+    },
+    {
+      "time": 100.4,
+      "text": "La noche tan oscura, la luna brillando",
+      "translation": "The night so dark, the moon shining",
+      "grammar": "Note that \"tan oscura\" is an idiomatic expression meaning \"so dark\" or \"extremely dark\", rather than a literal description of the night's darkness."
+    },
+    {
+      "time": 103.916,
+      "text": "Guiando mis pasos, abrazándome",
+      "translation": "Guiding my steps, embracing me",
+      "grammar": "This line uses the present participle (-ando) to describe simultaneous actions, conveying a sense of self-reflection and introspection. The phrase \"abrazándome\" is an idiomatic expression meaning \"to comfort or console oneself\"."
+    },
+    {
+      "time": 106.056,
+      "text": "Ya vengo on my way",
+      "translation": "I'm coming on my way",
+      "grammar": "This phrase uses the present continuous tense to convey a sense of imminent arrival, and the idiom \"on my way\" is an informal expression indicating that someone is already moving towards their destination."
+    },
+    {
+      "time": 108.654,
+      "text": "Eh, eh, eh-eh-eh, eh, eh, eh-i-eh, eh, eh, eh-eh-eh",
+      "translation": "Eh, eh, eh-eh-eh, eh, eh, eh-i-eh, eh, eh, eh-eh-eh",
+      "grammar": "This line features a repetitive use of the interjection \"eh\" to convey a sense of hesitation or uncertainty, with no specific grammatical function."
+    },
+    {
+      "time": 115.841,
+      "text": "Ya vengo on my way",
+      "translation": "I'm coming on my way",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a sense of imminent arrival, and the phrase \"on my way\" is an English idiom equivalent to Spanish \"ya voy\"."
+    },
+    {
+      "time": 118.439,
+      "text": "Eh, eh, eh-eh-eh, eh, eh, eh-i-eh, eh, eh, eh-eh-eh",
+      "translation": "Eh, eh, eh-eh-eh, eh, eh, eh-i-eh, eh, eh, eh-eh-eh",
+      "grammar": "This line is an example of onomatopoeia, where the repetition of \"eh\" imitates the sound of a sigh or a gentle humming, rather than conveying specific meaning. The use of this phonetic device creates a soothing and calming atmosphere in the song."
+    },
+    {
+      "time": 125.625,
+      "text": "Hace tiempo que ando flotando",
+      "translation": "I've been floating for a while now.",
+      "grammar": "The phrase \"hace tiempo\" is an idiomatic expression indicating duration in the past, equivalent to \"for a long time\" or \"a while ago\"."
+    },
+    {
+      "time": 128.224,
+      "text": "La noche tan oscura, la luna brillando",
+      "translation": "The night so dark, the moon shining",
+      "grammar": "This line uses the present participle \"brillando\" to describe an ongoing action, creating a vivid image of the moon's steady shine amidst darkness. The phrase \"tan oscura\" is an idiomatic expression meaning \"so dark\" or \"extremely dark\", emphasizing the intensity of the night."
+    },
+    {
+      "time": 131.739,
+      "text": "Hace tiempo que ando flotando",
+      "translation": "I've been floating for a while now.",
+      "grammar": "This sentence uses the present perfect tense to describe an action that started in the past and continues up to the moment of speaking, conveying a sense of duration. The phrase \"hace tiempo\" is an idiomatic expression meaning \"for a while\" or \"a long time\"."
+    },
+    {
+      "time": 134.338,
+      "text": "Y el faro llamándome",
+      "translation": "And the lighthouse calling me",
+      "grammar": "The verb \"llamándome\" is in the present participle form, indicating ongoing action, and functions as a vocative, directly addressing the speaker. This usage is an idiomatic expression in Spanish, equivalent to saying \"calling out to me\"."
+    },
+    {
+      "time": 136.477,
+      "text": "La noche tan oscura, la luna brillando",
+      "translation": "The night so dark, the moon shining",
+      "grammar": "This line uses the present participle \"brillando\" to describe an ongoing action, emphasizing the intensity of the moon's shine. The phrase \"tan oscura\" is an idiomatic expression meaning \"so dark\" or \"extremely dark\"."
+    },
+    {
+      "time": 139.993,
+      "text": "Guiando mis pasos, abrazándome",
+      "translation": "Guiding my steps, embracing me",
+      "grammar": "The phrase \"abrazándome\" is an idiomatic expression that combines the verb \"abrazar\" (to hug or embrace) with the reflexive pronoun \"me\", indicating a sense of self-acceptance and self-embrace."
+    },
+    {
+      "time": 142.132,
+      "text": "Ya vengo on my way",
+      "translation": "I'm coming on my way",
+      "grammar": "This phrase uses the present continuous tense to convey a sense of imminent arrival, and the idiom \"on my way\" is an informal expression indicating that someone is already moving towards their destination."
+    },
+    {
+      "time": 144.73,
+      "text": "Eh, eh, eh-eh-eh, eh, eh, eh-i-eh, eh, eh, eh-eh-eh",
+      "translation": "Eh, eh, eh-eh-eh, eh, eh, eh-i-eh, eh, eh, eh-eh-eh",
+      "grammar": "This line is an example of onomatopoeic repetition, where the speaker imitates the sound of a repeated \"eh\" to convey a sense of hesitation or uncertainty. The use of this idiom creates a playful and informal tone in the lyrics."
+    },
+    {
+      "time": 151.917,
+      "text": "Ya vengo on my way",
+      "translation": "I'm coming on my way",
+      "grammar": "This phrase uses the present continuous tense to convey a sense of imminent arrival, and \"ya\" is an informal intensifier equivalent to \"already\" or \"right now\"."
+    },
+    {
+      "time": 154.515,
+      "text": "Eh, eh, eh-eh-eh, eh, eh, eh-i-eh, eh, eh, eh-eh-eh",
+      "translation": "Eh, eh, eh-eh-eh, eh, eh, eh-i-eh, eh, eh, eh-eh-eh",
+      "grammar": "This line features a repetitive use of the interjection \"eh\" to convey a sense of hesitation or uncertainty, often used in informal spoken language. The consistent rhythm and stress pattern create a catchy and memorable effect."
+    },
+    {
+      "time": 161.702,
+      "text": "Ya vengo on my way",
+      "translation": "I'm coming on my way",
+      "grammar": "This phrase uses the present continuous tense to convey a sense of imminent arrival, and \"ya\" is an informal first-person singular pronoun equivalent to \"I\"."
+    }
+  ]
+}

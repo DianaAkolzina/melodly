@@ -1,0 +1,193 @@
+{
+  "id": "es_nica",
+  "title": "Única",
+  "artist": "Tainy",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_nica.mp3",
+  "duration": 145,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 10.96640000000596,
+      "text": "Única",
+      "translation": "Unique",
+      "grammar": "The adjective \"única\" is used to describe a singular or one-of-a-kind entity, emphasizing its uniqueness."
+    },
+    {
+      "time": 13.390200000017881,
+      "text": "Tu boca besándome toda de una forma única",
+      "translation": "Your mouth kissing me all over in a unique way",
+      "grammar": "The phrase \"toda de una forma\" is an idiomatic expression that conveys the idea of something being done thoroughly or completely, with \"una forma\" implying uniqueness."
+    },
+    {
+      "time": 18.59209999999404,
+      "text": "Tanta gente en el mundo y esa noche yo era la única",
+      "translation": "So many people in the world, and that night I was the only one.",
+      "grammar": "The phrase \"yo era\" is a past perfect construction, indicating that at some point before that specific night, the speaker had been the only one. The use of \"era\" instead of \"fui\" emphasizes the duration of this state rather than its completion."
+    },
+    {
+      "time": 23.782,
+      "text": "Lo entregamos todo sabiendo que iba a ser la única",
+      "translation": "We gave it our all knowing it was going to be the only one",
+      "grammar": "The phrase \"sabiendo que\" is an idiomatic expression indicating a hypothetical or assumed situation, equivalent to \"knowing that\" in English."
+    },
+    {
+      "time": 30.9,
+      "text": "Y han pasado mil noches, eh-eh",
+      "translation": "And a thousand nights have passed, eh-eh",
+      "grammar": "The use of \"han\" in \"Y han pasado mil noches\" is an example of the present perfect tense, indicating that the action of passing nights started in the past and continues up to the moment of speaking."
+    },
+    {
+      "time": 33.46560000002384,
+      "text": "Y sigues tan presente, eh-eh",
+      "translation": "And you're still so present, eh-eh",
+      "grammar": "The use of \"sigues\" (you continue) in the present perfect tense indicates that the speaker's presence is ongoing or continuous. The \"eh-eh\" interjection adds a playful and informal tone to the sentence."
+    },
+    {
+      "time": 36.03970000001788,
+      "text": "El olor del momento, bebé",
+      "translation": "The smell of the moment, baby",
+      "grammar": "This phrase uses the present participle \"del momento\" to describe a fleeting or ephemeral experience, emphasizing the idea that the moment is being savored in real-time. The use of \"bebé\" as an affectionate term adds a playful tone to the phrase."
+    },
+    {
+      "time": 38.78610000002384,
+      "text": "Se ha quedado pa siempre, eh-eh",
+      "translation": "It's here to stay, eh-eh",
+      "grammar": "The phrase \"se ha quedado\" is in the present perfect tense, indicating that something has a lasting effect. The use of \"pa siempre\" is an idiomatic expression meaning \"forever\" or \"always\"."
+    },
+    {
+      "time": 41.50240000000596,
+      "text": "Y aunque estemos distantes, eh-eh",
+      "translation": "And even though we're far apart, eh-eh",
+      "grammar": "The use of \"estamos\" (we are) in the present tense indicates that the speaker is expressing a general truth or a habitual situation, rather than describing a specific moment. The \"eh-eh\" interjection adds a playful and informal tone to the sentence."
+    },
+    {
+      "time": 43.88710000002384,
+      "text": "Sé que tú también sientes, eh-eh",
+      "translation": "I know you feel it too, eh-eh",
+      "grammar": "The use of \"sientes\" (you feel) in the present tense indicates that the speaker is expressing a general truth or shared experience, rather than describing a specific moment. The phrase \"tú también\" emphasizes the inclusive nature of this feeling."
+    },
+    {
+      "time": 46.91990000000596,
+      "text": "Y cuando ames a alguien, bebé",
+      "translation": "And when you love someone, baby",
+      "grammar": "This line uses the present tense to express a general truth about loving someone, and the idiomatic expression \"bebé\" is an affectionate term used to emphasize the sentiment."
+    },
+    {
+      "time": 49.214300000011924,
+      "text": "Sé que vas a extrañarme, eh-eh",
+      "translation": "I know you're going to miss me, eh-eh",
+      "grammar": "The use of \"vas\" instead of \"vayas\" is an informal, colloquial way to express the future tense in Spanish, common in spoken language and song lyrics."
+    },
+    {
+      "time": 52.014,
+      "text": "Porque yo te pienso si me besan",
+      "translation": "Because I think of you when I get kissed.",
+      "grammar": "In this line, the verb \"pienso\" is in the present tense and imperfect aspect, indicating a habitual or continuous action. The phrase \"yo te pienso\" can be translated as \"I think of you\" and implies a strong emotional connection between the speaker and the person being addressed."
+    },
+    {
+      "time": 54.90730000001192,
+      "text": "Bebé, tu recuerdo no me deja",
+      "translation": "Baby, your memory won't leave me.",
+      "grammar": "The phrase \"no me deja\" is an idiomatic expression meaning \"won't leave\" or \"can't forget\", using the present tense to convey a sense of ongoing emotional impact."
+    },
+    {
+      "time": 57.6865,
+      "text": "To lo que hicimos se ha quedado",
+      "translation": "Everything we did has stayed",
+      "grammar": "The verb \"ha quedado\" is in the present perfect tense, indicating that the action of what they did has a connection to the present moment. The phrase \"se ha quedado\" can be translated as \"has stayed\" and implies a sense of permanence or lasting impact."
+    },
+    {
+      "time": 60.193700000017884,
+      "text": "Como un tattoo en mi cabeza",
+      "translation": "Like a tattoo on my head",
+      "grammar": "This idiomatic expression uses the verb \"ser\" in the present tense to convey a permanent or lasting quality, similar to English phrases like \"it's written all over my face."
+    },
+    {
+      "time": 62.981100000023844,
+      "text": "Nada puede salir mal, tú y yo en el mismo canal",
+      "translation": "Nothing can go wrong, you and I are on the same page",
+      "grammar": "The phrase \"tú y yo\" is an idiomatic expression meaning \"you and me\" in English, emphasizing the speaker's close relationship with the listener."
+    },
+    {
+      "time": 66.32090000000596,
+      "text": "Sonó el teléfono, él me dijo: \"No vayas a contestar",
+      "translation": "The phone rang, he told me: \"Don't answer it",
+      "grammar": "In this context, the verb \"sonó\" is in the preterite tense, indicating that the phone ringing occurred before the main action of the sentence. The use of the pronoun \"él\" agrees with the subject \"él\" mentioned earlier, emphasizing the speaker's instructions."
+    },
+    {
+      "time": 69.76510000002384,
+      "text": "Quédate conmigo, ma\"",
+      "translation": "Stay with me, ma\"",
+      "grammar": "The phrase \"ma\" is an informal term of endearment and affection, often used in spoken language to address a loved one or friend."
+    },
+    {
+      "time": 73.02380000001192,
+      "text": "Y han pasado mil noches, eh-eh",
+      "translation": "And a thousand nights have passed, eh-eh",
+      "grammar": "The phrase \"han pasado\" is in the preterite tense, indicating completed action in the past. The use of \"mil noches\" (a thousand nights) is an idiomatic expression to convey a long period of time."
+    },
+    {
+      "time": 75.76440000000596,
+      "text": "Y sigues tan presente, eh-eh",
+      "translation": "And you're still so present, eh-eh",
+      "grammar": "The use of \"sigues\" (you're still) in the present perfect continuous tense indicates ongoing action, emphasizing the speaker's continued presence. The \"eh-eh\" interjection is an informal expression of emphasis or agreement."
+    },
+    {
+      "time": 78.05470000001789,
+      "text": "El olor del momento, bebé",
+      "translation": "The smell of the moment, baby",
+      "grammar": "This phrase uses the present participle \"del momento\" to describe a fleeting or ephemeral experience, emphasizing the immediacy and intensity of the moment. The use of \"bebé\" as an affectionate term adds a playful tone to the phrase."
+    },
+    {
+      "time": 80.648,
+      "text": "Se ha quedado pa siempre, eh-eh",
+      "translation": "It's here to stay, eh-eh",
+      "grammar": "The phrase \"pa siempre\" is an idiomatic expression meaning \"forever\" or \"always\", used to emphasize the permanence of something. The use of \"eh-eh\" is a colloquial interjection adding a casual tone to the sentence."
+    },
+    {
+      "time": 83.72830000001193,
+      "text": "Y aunque estemos distantes, eh-eh",
+      "translation": "And even though we're far apart, eh-eh",
+      "grammar": "The use of \"estamos\" (we are) in the present tense indicates that the speaker is expressing a general truth or a habitual situation, rather than describing a specific moment. The phrase \"Y aunque estemos distantes\" can be translated as \"And even though we're far apart\", emphasizing the idea that their connection remains despite physical distance."
+    },
+    {
+      "time": 86.20190000000596,
+      "text": "Sé que tú también sientes, eh-eh",
+      "translation": "I know you feel it too, eh-eh",
+      "grammar": "The use of \"sientes\" (feels) in the present tense indicates that the speaker is expressing a general truth or assumption about the listener's emotions, rather than describing a specific moment. The \"eh-eh\" interjection adds a casual, informal tone to the sentence."
+    },
+    {
+      "time": 88.80830000001193,
+      "text": "Y cuando ames a alguien, bebé",
+      "translation": "And when you love someone, baby",
+      "grammar": "This line uses the present tense to express a general truth about loving someone, and the phrase \"bebé\" is an affectionate term used as an idiomatic expression to emphasize intimacy."
+    },
+    {
+      "time": 92.19420000001789,
+      "text": "Te vas a acordar que conmigo la noche fue única",
+      "translation": "You'll remember that with me, the night was unique.",
+      "grammar": "The verb phrase \"te vas\" is in the future perfect tense, indicating that the action of remembering will be completed at some point in the future. The use of \"conmigo\" instead of \"conmí\" agrees with the indirect object pronoun \"la noche\"."
+    },
+    {
+      "time": 96.47710000002384,
+      "text": "Tu boca besándome toda de una forma única",
+      "translation": "Your mouth kissing me all over in a unique way",
+      "grammar": "The verb \"besándome\" is in the present continuous tense, indicating an ongoing action. The phrase \"toda de una forma\" is an idiom meaning \"all over\" or \"completely\"."
+    },
+    {
+      "time": 102.59260000002384,
+      "text": "Tanta gente en el mundo y esa noche yo era la única",
+      "translation": "So many people in the world, and that night I was the only one.",
+      "grammar": "The phrase \"yo era\" is a past perfect construction, indicating that at some point before that specific night, the speaker was the only one."
+    },
+    {
+      "time": 108.23260000002384,
+      "text": "Lo entregamos todo sabiendo que iba a ser la única",
+      "translation": "We gave it our all knowing it was going to be the only one",
+      "grammar": "The phrase \"sabiendo que\" is an idiomatic expression indicating a hypothetical or conditional situation, equivalent to \"knowing that\" in English."
+    }
+  ]
+}

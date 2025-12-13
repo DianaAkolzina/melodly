@@ -1,0 +1,133 @@
+{
+  "id": "lv_zemenes",
+  "title": "Zemenes",
+  "artist": "Apvedceļš",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "lv",
+  "to_language": "en",
+  "audio": "/audio/lv_zemenes.mp3",
+  "duration": 224,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Kopš bērnu dienām Tevi zinu es",
+      "translation": "I have known you since childhood.",
+      "grammar": "The phrase \"Kopš bērnu dienām\" uses the preposition \"kops\" to indicate a duration of time, similar to \"since\" in English. The sentence is in the present perfect tense, indicating an action that started in the past and continues up to the present moment."
+    },
+    {
+      "time": 7.14509999999404,
+      "text": "Mēs gandrīz katru dienu bijām kopā",
+      "translation": "We were together almost every day.",
+      "grammar": "The verb \"bijām\" is in the imperfective aspect, indicating a repeated or habitual action in the past. The phrase \"gandrīz katru dienu\" uses an idiom to convey the idea of \"almost every day\"."
+    },
+    {
+      "time": 13.96179999998212,
+      "text": "Gan uz skolas sola, gan uz tāfeles",
+      "translation": "Both on the school bench and on the blackboard",
+      "grammar": "This idiomatic phrase uses the verb \"gan\" to indicate a simultaneous action in both locations, equivalent to English \"both...and\". The sentence is in the present tense, describing a general situation."
+    },
+    {
+      "time": 20.77509999999404,
+      "text": "Kā mācēju es rakstu Tavu vārdu",
+      "translation": "How do I learn to write your name?",
+      "grammar": "The phrase \"es rakstu\" is in the present continuous tense, indicating an ongoing action. The use of \"Tavu\" instead of \"tevi\" (your) shows possessive agreement with the noun \"vārdu\"."
+    },
+    {
+      "time": 28.0815,
+      "text": "Pē-ē-ē-dējo reiz, tā gribētos ar Tevi atkal kopā",
+      "translation": "One last time, I wish I could be with you again",
+      "grammar": "The phrase \"pē-ē-ē-dējo\" is an idiomatic expression in Latvian, equivalent to the English idiom \"one last time\". It implies a sense of longing and nostalgia."
+    },
+    {
+      "time": 41.40109999999404,
+      "text": "Pē-ē-ē-dējo reiz, būt mūsu pielijušā vasarā",
+      "translation": "For the last time, to be in our warm summer",
+      "grammar": "The phrase \"pē-ē-ē-dējo\" is an idiomatic expression indicating a sense of longing or nostalgia for something in the past, often using the imperfective aspect to convey a lasting impression."
+    },
+    {
+      "time": 55.238199999988076,
+      "text": "Vai atceries kā uzsmaidīja gaiss",
+      "translation": "Do you remember how the air smiled?",
+      "grammar": "The phrase \"uzsmiedīja\" is an idiomatic expression, literally meaning \"to smile\" but figuratively conveying a sense of joy or contentment. The verb agrees with the subject \"gaiss\" in the nominative case, using the correct grammatical aspect to convey a past experience."
+    },
+    {
+      "time": 61.6725,
+      "text": "Kā lietū gājām lasīt zemenes",
+      "translation": "How we went to pick strawberries in the rain",
+      "grammar": "The verb \"gājām\" is in the imperfective aspect, indicating an ongoing or repeated action in the past. The phrase \"lasīt zemenes\" can be translated as \"to pick strawberries\" and uses the idiomatic expression \"lasīt\" to convey a sense of going to do something."
+    },
+    {
+      "time": 69.00809999999404,
+      "text": "Kā aizbēgām no stundām kopā mēs",
+      "translation": "How we escaped from lessons together",
+      "grammar": "The phrase \"no stundām\" is in the accusative case, indicating that \"stundām\" (lessons) is the direct object of the verb \"aizbēgām\" (escaped)."
+    },
+    {
+      "time": 75.381,
+      "text": "Un skūpstījāmies, tad zem ābeles",
+      "translation": "And we kissed, then under the apple tree",
+      "grammar": "The phrase \"un skūpstījāmies\" is in the past perfect tense, indicating an action completed before another action in the past. The verb agrees with the subject pronoun \"we\"."
+    },
+    {
+      "time": 83.02989999997615,
+      "text": "Pē-ē-ē-dējo reiz, tā gribētos ar Tevi atkal kopā",
+      "translation": "One last time, I wish I could be with you again",
+      "grammar": "The phrase \"pē-ē-ē\" is an idiomatic expression conveying a sense of longing or yearning, often used to express a strong desire to relive a past moment."
+    },
+    {
+      "time": 96.21919999998808,
+      "text": "Pē-ē-ē-dējo reiz, būt mūsu pielijušā vasarā",
+      "translation": "For the last time, to be in our warm summer",
+      "grammar": "The phrase \"pē-ē-ē-dējo\" is an idiomatic expression indicating a sense of longing or nostalgia for something in the past, often using the imperfective aspect to convey a sense of continuity."
+    },
+    {
+      "time": 137.62389999997615,
+      "text": "Viss kārtībā, zied atkal zemenes",
+      "translation": "Everything is fine, the strawberries are blooming again.",
+      "grammar": "The phrase \"viss\" (everything) is used idiomatically to convey a sense of completeness or perfection, similar to English expressions like \"all's well that ends well\". The sentence also employs the present tense to describe a general state of affairs."
+    },
+    {
+      "time": 144.23519999998808,
+      "text": "Un mūsu bērni tagad vienā klasē",
+      "translation": "And our children are now in the same class",
+      "grammar": "The verb \"tagad\" is in the present tense, indicating a current state or situation. The phrase \"viens klases\" can be translated as \"in the same class\", using the preposition \"viens\" to indicate sameness."
+    },
+    {
+      "time": 150.99769999998807,
+      "text": "Tu vienmēr būsi mana meitene",
+      "translation": "You will always be my girl.",
+      "grammar": "The verb \"būsi\" is in the future tense, indicating a promise or intention, and agrees with the subject \"tu\" in number and case."
+    },
+    {
+      "time": 158.09459999999405,
+      "text": "No mūsu pielijušās vasaras",
+      "translation": "From our summer that has come",
+      "grammar": "This phrase uses the present perfect tense to describe a completed event in the past, emphasizing its relevance to the present. The idiom \"mūsu\" (our) is used to convey a sense of shared experience or belonging."
+    },
+    {
+      "time": 164.815,
+      "text": "Pē-ē-ē-dējo reiz, tā gribētos ar Tevi atkal kopā",
+      "translation": "One last time, I wish I could be with you again",
+      "grammar": "The phrase \"pē-ē-ē\" is an idiomatic expression of longing or yearning, often used to convey a strong desire for something. It is not meant to be taken literally as a request to repeat something one more time."
+    },
+    {
+      "time": 178.42339999997617,
+      "text": "Pē-ē-ē-dējo reiz, būt mūsu pielijušā vasarā",
+      "translation": "For the last time, to be in our warm summer",
+      "grammar": "The phrase \"pē-ē-ē-dējo\" is an idiomatic expression indicating a sense of longing or nostalgia for something that has passed, often used to express regret or wistfulness."
+    },
+    {
+      "time": 192.462,
+      "text": "Pē-ē-ē-dējo reiz, tā gribētos ar Tevi atkal kopā",
+      "translation": "One last time, I wish I could be with you again",
+      "grammar": "The phrase \"pē-ē-ē\" is an idiomatic expression in Latvian, equivalent to the English idiom \"one last time\", conveying a sense of longing or nostalgia."
+    },
+    {
+      "time": 206.0122999999821,
+      "text": "Pē-ē-ē-dējo reiz, būt mūsu pielijušā vasarā",
+      "translation": "For the last time, to be in our warm summer",
+      "grammar": "The phrase \"pē-ē-ē-dējo\" is an idiomatic expression indicating a sense of finality or conclusion, often used to express reluctance or resignation."
+    }
+  ]
+}

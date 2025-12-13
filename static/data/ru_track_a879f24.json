@@ -1,0 +1,157 @@
+{
+  "id": "ru_track_a879f24",
+  "title": "священная война",
+  "artist": "урал гайсин",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_track_a879f24.mp3",
+  "duration": 102,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Listen",
+      "translation": "None",
+      "grammar": ""
+    },
+    {
+      "time": 13.43080000001192,
+      "text": "Кровь, руки, вены, порезы, вода",
+      "translation": "Blood, hands, veins, cuts, water",
+      "grammar": ""
+    },
+    {
+      "time": 15.89980000001192,
+      "text": "Во мне нету веры, её нет у меня",
+      "translation": "I have no faith, I don't have it.",
+      "grammar": ""
+    },
+    {
+      "time": 18.88660000002384,
+      "text": "Я достал нож с кухни, резать буду, бить",
+      "translation": "I got a knife from the kitchen, I'll cut and hit",
+      "grammar": ""
+    },
+    {
+      "time": 22.471900000035763,
+      "text": "Я вонзил её в руки, хочу себя убить (оу-оу)",
+      "translation": "I put it in my hands, I want to kill myself (oh-oh)",
+      "grammar": ""
+    },
+    {
+      "time": 25.43019999998808,
+      "text": "Кровь, руки, вены (yeah-yeah), порезы, вода (ня-ня-ня)",
+      "translation": "Blood, hands, veins (yeah-yeah), cuts, water (nya-nya-nya)",
+      "grammar": ""
+    },
+    {
+      "time": 28.65090000003576,
+      "text": "Во мне нету веры (yeah-yeah), её нет у меня (ля-ля-ля)",
+      "translation": "I have no faith (yeah-yeah), I don't have it (la-la-la)",
+      "grammar": ""
+    },
+    {
+      "time": 31.939100000023842,
+      "text": "Я достал нож с кухни, резать буду, бить",
+      "translation": "I got a knife from the kitchen, I'll cut and hit",
+      "grammar": ""
+    },
+    {
+      "time": 34.75980000001192,
+      "text": "Я вонзил её в руки, хочу себя убить",
+      "translation": "I thrust it into my hands, I want to kill myself",
+      "grammar": ""
+    },
+    {
+      "time": 40.53460000002384,
+      "text": "Мой мозг против меня, на шее щас петля, она душит, как змея",
+      "translation": "My brain is against me, there's a noose around my neck now, it's strangling me like a snake",
+      "grammar": ""
+    },
+    {
+      "time": 44.37660000002384,
+      "text": "Не ел уже неделю, сижу ток на воде",
+      "translation": "I haven't eaten for a week, I'm just sitting on water",
+      "grammar": ""
+    },
+    {
+      "time": 47.679900000035765,
+      "text": "Мой нож заходит в вену, в глазах всё в темноте",
+      "translation": "My knife goes into a vein, everything is dark in my eyes",
+      "grammar": ""
+    },
+    {
+      "time": 51.199300000011924,
+      "text": "И вот этот момент, я в крови встречаю бога",
+      "translation": "And at this moment, I meet God in blood",
+      "grammar": ""
+    },
+    {
+      "time": 54.18230000001192,
+      "text": "Мой нож — мой инструмент, я мечтал об этом долго",
+      "translation": "My knife is my tool, I've dreamed about it for a long time",
+      "grammar": ""
+    },
+    {
+      "time": 57.5985,
+      "text": "И я уже не дышу, мой бог меня нашёл",
+      "translation": "And I can't breathe anymore, my God found me",
+      "grammar": ""
+    },
+    {
+      "time": 60.47540000003576,
+      "text": "Мой бог меня услышал, мой бог ко мне пришёл",
+      "translation": "My God heard me, my God came to me",
+      "grammar": ""
+    },
+    {
+      "time": 63.98840000003576,
+      "text": "Кровь, руки, вены, порезы, вода",
+      "translation": "Blood, hands, veins, cuts, water",
+      "grammar": ""
+    },
+    {
+      "time": 66.89430000001192,
+      "text": "Во мне нету веры, её нет у меня",
+      "translation": "I have no faith, I don't have it.",
+      "grammar": ""
+    },
+    {
+      "time": 70.26780000001192,
+      "text": "Я достал нож с кухни, резать буду, бить",
+      "translation": "I got a knife from the kitchen, I'll cut and hit",
+      "grammar": ""
+    },
+    {
+      "time": 73.21930000001193,
+      "text": "Я вонзил её в руки, хочу себя убить (оу-оу)",
+      "translation": "I put it in my hands, I want to kill myself (oh-oh)",
+      "grammar": ""
+    },
+    {
+      "time": 76.81490000003576,
+      "text": "Кровь, руки, вены (yeah-yeah), порезы, вода (ня-ня-ня)",
+      "translation": "Blood, hands, veins (yeah-yeah), cuts, water (nya-nya-nya)",
+      "grammar": ""
+    },
+    {
+      "time": 79.72790000003576,
+      "text": "Во мне нету веры (yeah-yeah), её нет у меня (ля-ля-ля)",
+      "translation": "I have no faith (yeah-yeah), I don't have it (la-la-la)",
+      "grammar": ""
+    },
+    {
+      "time": 82.89490000003576,
+      "text": "Я достал нож с кухни, резать буду, бить",
+      "translation": "I got a knife from the kitchen, I'll cut and hit",
+      "grammar": ""
+    },
+    {
+      "time": 86.05340000003577,
+      "text": "Я вонзил её в руки, хочу себя убить",
+      "translation": "I thrust it into my hands, I want to kill myself",
+      "grammar": ""
+    }
+  ]
+}

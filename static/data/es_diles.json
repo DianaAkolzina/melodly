@@ -1,0 +1,649 @@
+{
+  "id": "es_diles",
+  "title": "Diles",
+  "artist": "Bad Bunny feat. Ozuna, Farruko, Arcangel, Nengo Flow, DJ Luian & Mambo Kingz",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_diles.mp3",
+  "duration": 286,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 5.6092999999821185,
+      "text": "Prende otro phillie, bebé",
+      "translation": "Light another phillie, baby",
+      "grammar": "This line uses the imperative mood to give a direct instruction, with the verb \"prende\" (light) in the present tense. The phrase \"otro phillie\" is an idiomatic expression meaning \"another cigarette\"."
+    },
+    {
+      "time": 13.4085,
+      "text": "Prende otro phillie, bebé",
+      "translation": "Light another phillie, baby",
+      "grammar": "The phrase \"otro phillie\" is an idiomatic expression meaning \"another cigarette\". The verb \"prende\" is in the imperative mood, giving a direct command."
+    },
+    {
+      "time": 16.3675,
+      "text": "Que ya mismo este se apaga",
+      "translation": "This one's about to turn off.",
+      "grammar": "The phrase \"ya mismo\" is an idiomatic expression indicating proximity or imminence, similar to \"right now\" in English."
+    },
+    {
+      "time": 22.71529999998212,
+      "text": "Vamos para el cuarto polvo",
+      "translation": "Let's go for the fourth time.",
+      "grammar": "The phrase \"Vamos para\" is an idiomatic expression meaning \"let's go\" in English, using the present tense and the first person plural pronoun \"vamos\" to convey a sense of shared action."
+    },
+    {
+      "time": 22.7175,
+      "text": "Ya esto es una saga",
+      "translation": "This is already a saga",
+      "grammar": "The phrase \"ya esto\" is an idiomatic expression that functions as a discourse marker, emphasizing the speaker's perspective and indicating that what follows is a significant or dramatic development. It can be translated to English as \"already\" or \"now\"."
+    },
+    {
+      "time": 22.719399999976158,
+      "text": "Dice que le gusta hacerlo con mis temas de trap",
+      "translation": "He says he likes doing it with my trap songs",
+      "grammar": "The verb \"dice\" is in the present tense, indicating that someone is currently saying something. The phrase \"con mis temas de trap\" uses the possessive adjective \"mis\" to show ownership, emphasizing the speaker's connection to their own music."
+    },
+    {
+      "time": 29.330899999976157,
+      "text": "Y si te preguntan por qué pa'l sexo",
+      "translation": "And if they ask you why for sex",
+      "grammar": "The phrase \"pa'l sexo\" is an idiomatic expression meaning \"for sex\". The use of the preposition \"pa'\" (meaning \"for\" or \"to\") with the noun \"sexo\" creates a colloquial and informal tone, typical in spoken Spanish."
+    },
+    {
+      "time": 29.36119999998808,
+      "text": "Yo soy tu fav",
+      "translation": "I am your fav",
+      "grammar": "This informal expression uses the present tense to convey a sense of familiarity and closeness, with \"yo\" instead of \"soy yo\" emphasizing the speaker's identity as their favorite."
+    },
+    {
+      "time": 30.57309999999404,
+      "text": "Diles",
+      "translation": "Tell them",
+      "grammar": "This imperative verb phrase \"Diles\" is in the second person plural, instructing someone to convey a message to multiple people."
+    },
+    {
+      "time": 32.32359999999404,
+      "text": "Que yo me sé tus poses favoritas",
+      "translation": "Because I know your favorite poses",
+      "grammar": "This sentence uses the informal, colloquial phrase \"me sé\" to express familiarity and intimacy, equivalent to saying \"I'm familiar with\" or \"I know well\". The speaker is implying a close relationship with the person being addressed."
+    },
+    {
+      "time": 36.34329999998212,
+      "text": "Que te hablo malo y que eso te excita",
+      "translation": "I talk dirty to you and that it turns you on.",
+      "grammar": "The phrase \"te hablo malo\" is an idiomatic expression meaning \"to talk dirty\" or \"to speak in a flirtatious manner\", using the present tense to convey a habitual or ongoing action."
+    },
+    {
+      "time": 40.441,
+      "text": "Que te hago todo lo que necesitas",
+      "translation": "I'll do everything you need",
+      "grammar": "The phrase \"que te hago\" is an idiomatic expression that implies a willingness to fulfill someone's needs, and the verb \"hacer\" is in the present tense, indicating a commitment or promise."
+    },
+    {
+      "time": 43.9,
+      "text": "Pa hacerte venir",
+      "translation": "To make you come",
+      "grammar": "This idiomatic phrase uses the infinitive verb form to express purpose or intention, rather than a literal invitation. The construction \"hacer\" + infinitive indicates the speaker's intention to take action that will result in the person coming."
+    },
+    {
+      "time": 46.69859999999404,
+      "text": "Y diles",
+      "translation": "And tell them",
+      "grammar": "This is an informal way of saying \"And tell them\" in Spanish, using the imperative mood and the pronoun \"les\" (to them) without specifying who they are."
+    },
+    {
+      "time": 48.48159999999404,
+      "text": "Que yo me sé tus poses favoritas",
+      "translation": "Because I know your favorite poses",
+      "grammar": "This line uses the informal second-person singular form \"tus\" to address someone familiar, which is common in spoken Spanish. The phrase also employs a colloquial expression, making it suitable for casual conversations with friends or acquaintances."
+    },
+    {
+      "time": 52.60239999997616,
+      "text": "Que te hablo malo y que eso te excita",
+      "translation": "I talk dirty to you and that it turns you on.",
+      "grammar": "The phrase \"te hablo malo\" is an idiomatic expression, equivalent to saying \"I'm talking dirty\" or \"I'm speaking in a flirtatious manner\". The verb \"hablar\" is in the present tense, indicating the speaker's ongoing behavior."
+    },
+    {
+      "time": 59.26609999999404,
+      "text": "Que te hago todo lo que necesitas",
+      "translation": "I'll do everything you need",
+      "grammar": "This sentence uses the informal second-person singular pronoun \"te\" and the verb phrase \"hacer\" in the future tense, indicating a willingness to fulfill someone's needs. The idiom \"todo lo que necesitas\" is an offer to provide whatever is required."
+    },
+    {
+      "time": 60.69129999998212,
+      "text": "Pa hacerte venir",
+      "translation": "To make you come",
+      "grammar": "This idiomatic phrase uses the infinitive verb form to express purpose, indicating the speaker's intention to make someone arrive. The verb \"venir\" is in the infinitive form because it functions as a complement of the preposition \"hacer\"."
+    },
+    {
+      "time": 62.73719999998808,
+      "text": "Farru",
+      "translation": "Farru",
+      "grammar": "This interjection \"Farru\" is an informal expression used to convey surprise or excitement, often translated as \"Wow!\" or \"Whoa!\"."
+    },
+    {
+      "time": 63.387899999976156,
+      "text": "Dile que soy el baby",
+      "translation": "Tell him I'm the baby",
+      "grammar": "This line uses the informal imperative mood to address someone, with \"dile\" meaning \"tell him\" in a casual tone. The phrase \"soy el baby\" is an idiomatic expression used to affectionately refer to oneself as the youngest or most important person."
+    },
+    {
+      "time": 64.91109999999404,
+      "text": "Tu novio viste de Old Navy",
+      "translation": "Your boyfriend wears Old Navy",
+      "grammar": "This sentence uses the present tense to describe a habitual or general truth, and the phrase \"viste de\" is an idiomatic expression meaning \"wears\"."
+    },
+    {
+      "time": 66.965,
+      "text": "Yo sí tengo flow, él no tiene flow",
+      "translation": "I've got flow, he's got no flow",
+      "grammar": "The use of \"tengo\" and \"tiene\" in this line illustrates the present tense of the verb \"tener\" (to have) with a first-person singular subject (\"yo\") and third-person singular subject (\"él\"), respectively."
+    },
+    {
+      "time": 69.49429999998212,
+      "text": "Yo a ti te martillo y te doy dembow",
+      "translation": "I'll hammer you and give you dembow",
+      "grammar": "This line uses the informal second-person singular pronoun \"ti\" instead of the formal \"usted\", which is typical in Latin American Spanish, especially when speaking to friends or peers. The phrase also employs a playful tone and idiomatic expression, characteristic of colloquial language."
+    },
+    {
+      "time": 70.97779999998212,
+      "text": "Por la noche cuando él se va tú me llamas con la necesidad",
+      "translation": "At night when he leaves you call me with need",
+      "grammar": "The use of \"tú\" instead of \"vos\" in the sentence indicates that the speaker is addressing someone they are familiar with, likely a romantic partner."
+    },
+    {
+      "time": 75.05409999999404,
+      "text": "Porque te gusta cómo te doy",
+      "translation": "Because you like how I give it to you",
+      "grammar": "The phrase \"te gusta\" is an idiomatic expression meaning \"you like\" in the present tense, with the verb \"gustar\" being in the passive voice. This construction is a common way to express liking or enjoyment in Spanish."
+    },
+    {
+      "time": 77.0285,
+      "text": "Tranquila ma, que por ahí voy ya",
+      "translation": "Don't worry, Mom, I'm coming.",
+      "grammar": "This line uses the present continuous tense (voy) to express an ongoing action and convey a sense of reassurance. The phrase \"tranquila ma\" is an idiomatic expression used to calm someone down."
+    },
+    {
+      "time": 79.15719999998808,
+      "text": "Uhh",
+      "translation": "Uhh",
+      "grammar": "This interjection \"Uhh\" is an informal expression of hesitation or uncertainty, often used in spoken English to fill a pause or signal a moment of thought."
+    },
+    {
+      "time": 81.18639999997616,
+      "text": "Quiero hacerte cositas que nunca te han hecho",
+      "translation": "I want to do things to you that no one's ever done to you before.",
+      "grammar": "The verb phrase \"quiero hacer\" is in the present tense, indicating a desire or intention, and the use of \"cositas\" as an idiomatic expression for intimate or unusual actions."
+    },
+    {
+      "time": 84.66979999998212,
+      "text": "Esta noche conmigo tú tocas el techo",
+      "translation": "Tonight with me you'll reach the top.",
+      "grammar": "The phrase \"esta noche\" is an idiomatic expression meaning \"tonight\", rather than a literal description of time. The verb \"tocas\" is in the present tense, indicating a future action that will occur tonight."
+    },
+    {
+      "time": 87.4405,
+      "text": "Uhh",
+      "translation": "Uhh",
+      "grammar": "This interjection is an informal expression of hesitation or uncertainty, often used in spoken English to convey a sense of awkwardness or confusion."
+    },
+    {
+      "time": 89.25459999999404,
+      "text": "Cuando te pelean y estás en despecho",
+      "translation": "When you're hurt and you're heartbroken",
+      "grammar": "This line uses the present continuous tense (estás) to describe a state of being, conveying a sense of ongoing emotional distress. The phrase \"en despecho\" is an idiomatic expression meaning \"heartbroken\"."
+    },
+    {
+      "time": 100.16209999999404,
+      "text": "Me llamas y yo adentro te la echo",
+      "translation": "You call me and I'll give it to you inside.",
+      "grammar": "The phrase \"yo adentro\" is an idiomatic expression meaning \"I'll give it to you inside\", using the informal \"yo\" instead of the formal \"le\" for emphasis, and the verb \"adentro\" in the present tense to convey a sense of immediacy."
+    },
+    {
+      "time": 100.16319999998808,
+      "text": "Dime si tú quieres que yo te ubique en mi cama",
+      "translation": "Tell me if you want me to put you in my bed",
+      "grammar": "The phrase \"¿Dime si tú quieres\" is an idiomatic expression that uses the present tense to ask about a future action, which is typical in informal Spanish conversations. The sentence also employs the pronoun \"tú\" instead of \"usted\" to convey a sense of intimacy and familiarity."
+    },
+    {
+      "time": 100.16419999998809,
+      "text": "Deja el drama ven y mama",
+      "translation": "Stop the drama, come and mom.",
+      "grammar": "This line uses the imperative mood to give a direct instruction, with the verb \"dejá\" (stop) in the present tense. The phrase \"ven y mama\" is an idiomatic expression meaning \"come and see\" or \"come and check it out\"."
+    },
+    {
+      "time": 101.60479999998212,
+      "text": "Voy a darte duro hasta por la mañana",
+      "translation": "I'm going to give it to you hard until morning",
+      "grammar": "The phrase \"voy a\" is used to express future intention, equivalent to \"going to\" in English. The verb \"dar\" is in the infinitive form, indicating the action of giving something."
+    },
+    {
+      "time": 103.65939999997616,
+      "text": "Y que comience la acción",
+      "translation": "And let the action begin",
+      "grammar": "The phrase \"y que\" is a subordinate conjunction used to introduce a dependent clause, indicating the start of an action in the present continuous tense."
+    },
+    {
+      "time": 105.79989999997616,
+      "text": "Dame tu ubicación",
+      "translation": "Give me your location",
+      "grammar": "This line uses the imperative mood to make a request, equivalent to saying \"Tell me where you are\" in English. The phrase \"dame\" is an informal way of saying \"give\" or \"tell\", often used with friends or acquaintances."
+    },
+    {
+      "time": 107.82869999998807,
+      "text": "Tú sabes que yo le llego y cuando llego",
+      "translation": "You know I'll get there, and when I get there",
+      "grammar": "The phrase \"yo le llego\" is an informal way of saying \"I will arrive\" in the future tense, using the verb \"llegar\" with the pronoun \"le\" to indicate destination. This construction is a common idiom in Spanish, used to express determination or certainty about arriving at a place."
+    },
+    {
+      "time": 110.39129999998212,
+      "text": "Este bicho causa emoción",
+      "translation": "This creature is exciting",
+      "grammar": "The phrase \"Este bicho\" uses the masculine definite article \"este\" to refer to a non-human entity, which can be surprising for English speakers as it would typically use the neuter article \"this\"."
+    },
+    {
+      "time": 111.75939999997615,
+      "text": "Le bajo al pozo como Poseidón",
+      "translation": "I go down into the well like Poseidon",
+      "grammar": "The phrase \"como Poseidón\" is an idiomatic expression, comparing oneself to a powerful figure in mythology. The verb \"bajo\" is in the present tense, indicating a habitual or repeated action."
+    },
+    {
+      "time": 114.00429999998212,
+      "text": "Le abro las piernas en el balcón",
+      "translation": "I spread my legs for him on the balcony",
+      "grammar": "The phrase \"abro las piernas\" is an idiomatic expression that means to spread one's legs, but in this context, it implies a provocative or seductive action. The verb \"abro\" is in the present tense and has a sense of ongoing or repeated action."
+    },
+    {
+      "time": 115.72069999998808,
+      "text": "Pa hablarte claro ma, tú le metes cabrón",
+      "translation": "To put it bluntly, ma, you're a real bastard.",
+      "grammar": "The phrase \"ma\" is an informal address used to express familiarity or affection, similar to \"m'ama\" in some Latin American countries. The verb \"metes\" is in the second person singular form, agreeing with the pronoun \"tú\"."
+    },
+    {
+      "time": 134.23639999997616,
+      "text": "Me gusta como con la boca me pones el condón",
+      "translation": "I like how you put the condom on me with your mouth",
+      "grammar": "The phrase \"Me gusta\" is an idiomatic expression indicating a liking or fondness for something, rather than a literal statement about one's taste. The verb \"gusta\" is in the present tense and agrees with the subject pronoun \"me\"."
+    },
+    {
+      "time": 134.2371999999881,
+      "text": "Y te queda mejor, mamá",
+      "translation": "And it looks better on you, Mom.",
+      "grammar": "The phrase \"te queda\" is a colloquial way of saying \"it suits you\" or \"it becomes you\", using the verb \"quedar\" in the present tense and the indirect object pronoun \"te\". This idiomatic expression conveys a sense of approval or admiration."
+    },
+    {
+      "time": 134.2371999999881,
+      "text": "Cuando no me pones na",
+      "translation": "When you don't give me anything",
+      "grammar": "The phrase \"no me pones\" is an idiomatic expression meaning \"don't give me anything\". The verb \"poner\" is in the present tense, indicating a habitual or customary action."
+    },
+    {
+      "time": 134.2371999999881,
+      "text": "Este bicho es tuyo, avanza y corre",
+      "translation": "This thing is yours, move forward and run",
+      "grammar": "The phrase \"Este bicho es tuyo\" uses the possessive adjective \"tuyo\" to express ownership in the present tense, emphasizing a sense of possession rather than temporary control."
+    },
+    {
+      "time": 134.2371999999881,
+      "text": "Ven y súbete en la torre",
+      "translation": "Come and climb the tower",
+      "grammar": "The imperative verb \"ven\" is used to express a polite invitation, equivalent to \"come on\" or \"come along\". The phrase \"súbete\" is an idiomatic expression meaning \"get in\" or \"climb up\", rather than literally \"substitute yourself\"."
+    },
+    {
+      "time": 134.2371999999881,
+      "text": "Diles",
+      "translation": "Tell them",
+      "grammar": "This imperative verb phrase \"Diles\" is in the second person plural, instructing someone to convey a message to multiple people. The use of \"Diles\" implies a sense of urgency or importance, as if the speaker is emphasizing the need for the information to be shared with others."
+    },
+    {
+      "time": 136.971,
+      "text": "Que yo me sé tus poses favoritas",
+      "translation": "Because I know your favorite poses",
+      "grammar": "This line uses the informal second-person singular pronoun \"yo\" to express familiarity and intimacy, which is common in spoken Spanish. The phrase also employs a colloquial expression of possession with \"me sé\" instead of the more formal \"sé que\"."
+    },
+    {
+      "time": 140.169,
+      "text": "Que te hablo malo y que eso te excita",
+      "translation": "I talk dirty to you and that it turns you on.",
+      "grammar": "The phrase \"te hablo malo\" is an idiomatic expression meaning \"to speak in a flirtatious or provocative way\", using the present tense to convey a habitual or ongoing action."
+    },
+    {
+      "time": 140.169,
+      "text": "Que te hago todo lo que necesitas",
+      "translation": "I'll do everything you need",
+      "grammar": "The phrase \"que te hago\" is an idiomatic expression that implies a willingness to fulfill someone's needs, using the present tense and the informal \"you\" (te) to convey a sense of intimacy."
+    },
+    {
+      "time": 142.09929999998212,
+      "text": "Pa hacerte venir",
+      "translation": "To make you come",
+      "grammar": "This idiomatic phrase uses the infinitive verb form to express purpose or intention, indicating a desire to cause someone's arrival. The construction is similar to English phrases like \"to get you to\" or \"to bring you\"."
+    },
+    {
+      "time": 143.66409999999405,
+      "text": "Y diles",
+      "translation": "And tell them",
+      "grammar": "This is an informal way of saying \"And tell them\" in Spanish, using the imperative mood and the pronoun \"les\" (to them) without specifying who they are."
+    },
+    {
+      "time": 165.6856999999881,
+      "text": "Que yo me sé tus poses favoritas",
+      "translation": "Because I know your favorite poses",
+      "grammar": "This sentence uses the informal, conversational tone of \"tú\" and the verb phrase \"me sé\" in the present tense, indicating a personal and intimate knowledge. The use of \"yo\" emphasizes the speaker's familiarity with the listener's preferences."
+    },
+    {
+      "time": 165.6856999999881,
+      "text": "Que te hablo malo y que eso te excita",
+      "translation": "I talk dirty to you and that it turns you on.",
+      "grammar": "The phrase \"te hablo malo\" is an idiomatic expression, literally meaning \"I speak badly to you,\" but figuratively conveying a flirtatious or provocative tone. The use of the verb \"hablar\" in the present tense implies a habitual or ongoing action, emphasizing the speaker's playful and teasing manner."
+    },
+    {
+      "time": 165.6856999999881,
+      "text": "Que te hago todo lo que necesitas",
+      "translation": "I'll do everything you need",
+      "grammar": "This sentence uses the informal second-person singular pronoun \"te\" and the verb phrase \"hacer\" in the future tense, indicating a willingness to fulfill someone's needs. The idiom \"todo lo que necesitas\" is an offer to provide everything required or desired."
+    },
+    {
+      "time": 165.6856999999881,
+      "text": "Pa hacerte venir",
+      "translation": "To make you come",
+      "grammar": "This phrase uses the infinitive verb form \"venir\" to express purpose, indicating the speaker's intention to make someone arrive. The construction \"pa\" is an informal way of saying \"to\" or \"in order to\"."
+    },
+    {
+      "time": 165.6856999999881,
+      "text": "Conozco tus poses, hago susurrar todas tus voces",
+      "translation": "I know your poses, I make all your voices whisper",
+      "grammar": "The phrase \"hago susurrar\" is an idiomatic expression that combines the verb \"hacer\" (to do/make) with the infinitive \"susurrar\" (to whisper), conveying the idea of bringing or making something happen."
+    },
+    {
+      "time": 165.716,
+      "text": "Por mi cuello se ilumina el camino cuando estrello",
+      "translation": "The path is lit up by my neck when I crash",
+      "grammar": "This idiomatic expression uses the present participle \"ilumina\" to convey a vivid and dynamic image, emphasizing the sudden illumination of the path. The verb agrees with the subject \"mi cuello\" in number and person, creating a sense of intimacy and immediacy."
+    },
+    {
+      "time": 168.45029999998212,
+      "text": "Tu cuerpo junto al mío, haciendo detener el tiempo",
+      "translation": "Your body next to mine, making time stand still.",
+      "grammar": "The phrase \"haciendo detener\" is an idiomatic expression that uses the present participle of the verb \"detener\" (to stop) to convey the idea of something happening in the present moment, rather than a specific point in the past or future."
+    },
+    {
+      "time": 174.01139999997616,
+      "text": "Este es el mejor momento",
+      "translation": "This is the best time",
+      "grammar": "The phrase \"Este es\" uses the present tense to express a general truth or a timeless idea, rather than referring to a specific moment in the past or future. The use of \"este\" instead of \"el\" agrees with the masculine noun \"momento\" in proximity."
+    },
+    {
+      "time": 176.69679999998212,
+      "text": "Poses abajo o arriba",
+      "translation": "Poses down or up",
+      "grammar": "This idiomatic expression uses the imperative mood to give a direct instruction, with \"poses\" being an informal way of saying \"stand\" or \"position yourself\". The phrase is often used in a playful or encouraging tone."
+    },
+    {
+      "time": 178.53969999998807,
+      "text": "Poses en cuatro, encima o de lao",
+      "translation": "Poses on all fours, on top or sideways",
+      "grammar": "The phrase \"en cuatro\" is an idiomatic expression meaning \"on all fours\", using the preposition \"en\" in a figurative sense to indicate a position."
+    },
+    {
+      "time": 180.6092999999821,
+      "text": "Caliente, caliente, dime qué tú sientes",
+      "translation": "Hot, hot, tell me what you feel",
+      "grammar": "This line uses the imperative mood to address someone directly, with the speaker urging them to share their emotions. The use of \"tú\" instead of \"usted\" indicates a familiar or informal tone in the conversation."
+    },
+    {
+      "time": 182.49619999998808,
+      "text": "Si te doy de frente, se siente apretao",
+      "translation": "If I hit you head-on, it feels tight.",
+      "grammar": "This idiom uses the present tense to describe a hypothetical situation, conveying a sense of suddenness and intensity. The phrase \"de frente\" is an idiomatic expression meaning \"head-on\" or \"directly\"."
+    },
+    {
+      "time": 184.50109999999404,
+      "text": "Tu culo pégalo cerca pa retumbarte completa",
+      "translation": "Stick your ass close so you can feel it completely.",
+      "grammar": "This line uses the informal second-person singular verb form \"pegalo\" and the colloquial expression \"culo\" to convey a playful, intimate tone. The imperative mood and use of the particle \"pa\" emphasize the speaker's encouragement."
+    },
+    {
+      "time": 189.03509999999403,
+      "text": "Baja y sube en cámara lenta, mai (Bad Bunny)",
+      "translation": "Go down and up in slow motion, mai (Bad Bunny)",
+      "grammar": "The phrase \"baja y sube\" is an idiomatic expression that means to experience a range of emotions or to go through a process, rather than literally moving up and down. The use of the present tense \"baja\" and \"sube\" creates a sense of ongoing action."
+    },
+    {
+      "time": 193.6935,
+      "text": "Vamo' hacerlo adentro del carro y pinchea el hotel",
+      "translation": "Let's do it inside the car and puncture the hotel",
+      "grammar": "The phrase \"Vamo'\" is an informal way of saying \"let's\" in Spanish, used to express a casual invitation or agreement. It is often used with the present tense to convey a sense of immediacy or spontaneity."
+    },
+    {
+      "time": 197.60509999999405,
+      "text": "Que tengo ganas bebé y no hay tiempo para perder",
+      "translation": "I'm horny, baby, and there's no time to waste.",
+      "grammar": "The phrase \"tengo ganas\" is an idiomatic expression meaning \"to be horny\" or \"to have a strong desire\", using the present tense to convey a sense of urgency."
+    },
+    {
+      "time": 200.85959999999403,
+      "text": "Cristales tinteados, nadie nos va a ver",
+      "translation": "Tinted windows, nobody's going to see us",
+      "grammar": "The phrase \"nadie nos va a ver\" is in the future tense, indicating that the speaker assumes it is unlikely that anyone will notice them. The use of \"nadie\" (nobody) implies a sense of uncertainty or skepticism about being seen."
+    },
+    {
+      "time": 203.22019999998807,
+      "text": "Estamo' bellacos y queremo' meter",
+      "translation": "We're horny and we want to get laid",
+      "grammar": "The use of \"queremo'\" instead of \"queremos\" is an informal, colloquial expression that indicates a casual, intimate tone, typical in spoken language."
+    },
+    {
+      "time": 204.91889999997616,
+      "text": "Tú y yo solitos, dale, apaga el cel",
+      "translation": "Just you and me, come on, turn off your phone",
+      "grammar": "The phrase \"dale\" is an informal way to say \"come on\" or \"let's go\", often used in spoken language to encourage someone to do something. It is typically translated as \"come on\" rather than a literal \"give it\"."
+    },
+    {
+      "time": 207.09289999997617,
+      "text": "Que te voy a hacer lo que no te hace él",
+      "translation": "I'm going to do for you what he won't do for you.",
+      "grammar": "This sentence uses the future tense (\"voy a hacer\") to express determination, and the idiomatic phrase \"lo que no te hace él\" emphasizes the contrast between what someone else does not do and what the speaker is willing to do."
+    },
+    {
+      "time": 209.33959999999405,
+      "text": "Y woah",
+      "translation": "And woah",
+      "grammar": "This interjection \"woah\" is an informal expression of surprise or excitement, often used in spoken English to add emphasis or convey strong emotions."
+    },
+    {
+      "time": 211.3532999999821,
+      "text": "Los cristales del carro se empañan",
+      "translation": "The car windows fog up",
+      "grammar": "In this line, the verb \"se empañan\" is in the third person plural reflexive form, indicating that the subject (the car windows) is performing an action on itself."
+    },
+    {
+      "time": 215.1825,
+      "text": "Tu carita de ángel me engaña",
+      "translation": "Your angelic face deceives me",
+      "grammar": "The phrase \"tu carita\" is an idiomatic expression, using the informal \"you\" (tu) to address someone in a familiar or affectionate manner. The verb \"engaña\" is in the present tense, indicating that the speaker feels deceived by the person's angelic appearance at this moment."
+    },
+    {
+      "time": 215.18409999999403,
+      "text": "Yo soy sano pero tú me dañas",
+      "translation": "I am healthy, but you harm me.",
+      "grammar": "The phrase \"tú me dañas\" is an idiomatic expression that uses the present tense to convey a sense of ongoing or habitual harm, rather than a specific action. The use of \"tú\" instead of \"yo\" emphasizes the speaker's perception of being affected by someone else's actions."
+    },
+    {
+      "time": 216.989,
+      "text": "Y woah",
+      "translation": "And woah",
+      "grammar": "This interjection \"woah\" is used to express sudden surprise or excitement, and its informal tone matches the conversational style of spoken English."
+    },
+    {
+      "time": 219.34909999999405,
+      "text": "Prendió un krippy y se puso Lucía",
+      "translation": "She lit a joint and put on Lucia",
+      "grammar": "The verb \"prendió\" is in the preterite tense, indicating that the action of lighting the joint happened at a specific point in the past. The phrase \"se puso Lucía\" uses the reflexive pronoun \"se\" to emphasize the subject's change in state, equivalent to saying \"she became Lucia\"."
+    },
+    {
+      "time": 221.34179999998213,
+      "text": "Me dio un blowjob mientras conducía",
+      "translation": "He gave me a blowjob while he was driving",
+      "grammar": "The use of \"me\" instead of \"le\" or \"se\" is an idiomatic expression in Spanish, where the object pronoun \"me\" is used to indicate that the action is being performed on the speaker. This construction is often used to convey a sense of intimacy or familiarity."
+    },
+    {
+      "time": 223.26819999998807,
+      "text": "Se trepó y me seducía",
+      "translation": "He climbed up and seduced me",
+      "grammar": "The verb \"trepó\" is in the preterite tense, indicating a completed action in the past. The phrase \"y me seducía\" uses the idiomatic expression \"seducir\" to mean being attracted or fascinated, rather than literally seducing someone."
+    },
+    {
+      "time": 225.41459999999404,
+      "text": "Y diles",
+      "translation": "And tell them",
+      "grammar": "This is an informal way of saying \"And tell them\" in Spanish, using the imperative mood and the indirect object pronoun \"les\" to address a plural audience. The phrase is often used in spoken language and is not typically found in formal writing."
+    },
+    {
+      "time": 227.48609999999405,
+      "text": "Que yo me sé tus poses favoritas",
+      "translation": "Because I know your favorite poses",
+      "grammar": "This line uses the informal \"tú\" form to address the listener, indicating a familiar or intimate relationship. The phrase \"me sé\" is an idiomatic expression meaning \"I know\" in English."
+    },
+    {
+      "time": 231.66389999997617,
+      "text": "Que te hablo malo y que eso te excita",
+      "translation": "I talk dirty to you and that it turns you on.",
+      "grammar": "The phrase \"te hablo malo\" is an idiomatic expression, using the present tense to convey a habitual or frequent action, rather than a specific occurrence."
+    },
+    {
+      "time": 235.6672999999821,
+      "text": "Que te hago todo lo que necesitas",
+      "translation": "I'll do everything you need",
+      "grammar": "This line uses the informal second-person singular pronoun \"te\" and the verb phrase \"hacer\" in the present subjunctive mood, indicating a willingness or intention to fulfill someone's needs. The phrase is an idiomatic expression conveying a sense of devotion and commitment."
+    },
+    {
+      "time": 239.9525,
+      "text": "Pa hacerte venir (Farru)",
+      "translation": "To make you come (Farru)",
+      "grammar": "The phrase \"pa hacerte venir\" is an idiomatic expression in Spanish, using the preposition \"pa\" to indicate purpose or intention, and the verb \"venir\" in the infinitive form to express a desire or intention."
+    },
+    {
+      "time": 241.73489999997616,
+      "text": "Y diles",
+      "translation": "And tell them",
+      "grammar": "This is an informal way of saying \"And tell them\" in Spanish, using the imperative mood and the pronoun \"les\" (to them) without specifying who they are."
+    },
+    {
+      "time": 243.7516999999881,
+      "text": "Que yo me sé tus poses favoritas",
+      "translation": "Because I know your favorite poses",
+      "grammar": "This sentence uses the informal \"tú\" form, which is typical in spoken Spanish and implies a close relationship between the speaker and listener. The phrase \"me sé\" is an idiomatic expression meaning \"I know\"."
+    },
+    {
+      "time": 247.75989999997617,
+      "text": "Que te hablo malo y que eso te excita",
+      "translation": "I talk dirty to you and that it turns you on.",
+      "grammar": "The phrase \"te hablo malo\" is an idiomatic expression meaning \"to talk dirty\" or \"to speak in a flirtatious manner\", with the verb \"hablar\" in the present tense indicating ongoing or habitual action."
+    },
+    {
+      "time": 256.30359999999405,
+      "text": "Que te hago todo lo que necesitas",
+      "translation": "I'll do everything you need",
+      "grammar": "The phrase \"que te\" is an informal way to express obligation or necessity, similar to \"you have to\" in English. The verb \"hacer\" is in the future tense, indicating a willingness to fulfill someone's needs."
+    },
+    {
+      "time": 256.306,
+      "text": "Pa hacerte venir",
+      "translation": "To make you come",
+      "grammar": "This idiomatic phrase uses the infinitive verb form to express purpose or intention, indicating the speaker's desire to take action that will result in the listener's presence."
+    },
+    {
+      "time": 258.1126999999881,
+      "text": "Bad Bunny",
+      "translation": "Bad Bunny",
+      "grammar": "This phrase is an interjection, used to express enthusiasm or approval, and remains in the present tense."
+    },
+    {
+      "time": 259.97919999998805,
+      "text": "Bad Bunny",
+      "translation": "Bad Bunny",
+      "grammar": "This phrase is an interjection, used to express enthusiasm or approval, and remains in the present tense."
+    },
+    {
+      "time": 260.3562999999821,
+      "text": "Hear This Music",
+      "translation": "Hear This Music",
+      "grammar": "This phrase is an imperative sentence in the present tense, instructing the listener to pay attention to the music. The idiom \"Hear This\" emphasizes importance or urgency, similar to saying \"Listen up!\" or \"Pay attention!\"."
+    },
+    {
+      "time": 261.7815,
+      "text": "Hear This Music",
+      "translation": "Hear This Music",
+      "grammar": "This imperative sentence uses the present tense to express a strong command, emphasizing the importance of listening to the music. The phrase \"Hear This Music\" is an idiomatic expression that conveys a sense of urgency and attention-grabbing appeal."
+    },
+    {
+      "time": 262.97419999998806,
+      "text": "Mambo Kingz",
+      "translation": "Mambo Kingz",
+      "grammar": "This phrase is an interjection, used to express enthusiasm or approval."
+    },
+    {
+      "time": 264.49,
+      "text": "Mambo Kingz",
+      "translation": "Mambo Kingz",
+      "grammar": "This interjection \"Mambo Kingz\" is an informal expression used to convey excitement or enthusiasm, often in a playful or ironic tone."
+    },
+    {
+      "time": 265.723099999994,
+      "text": "Dj Luian",
+      "translation": "DJ Luian",
+      "grammar": "This phrase is an interjection, used to address or refer to someone (DJ Luian) in a casual manner."
+    },
+    {
+      "time": 269.4486999999881,
+      "text": "Luian",
+      "translation": "Luian",
+      "grammar": "This interjection \"Luian\" is an exclamation used to express excitement or surprise, often translated as \"Wow!\" or \"Whoa!\"."
+    },
+    {
+      "time": 270.92569999998807,
+      "text": "Farru",
+      "translation": "Farru",
+      "grammar": "This interjection \"Farru\" is an informal expression used to convey surprise or excitement, often in a playful tone."
+    },
+    {
+      "time": 271.9503999999762,
+      "text": "Ozuna",
+      "translation": "Ozuna",
+      "grammar": "This line is an interjection, used to express enthusiasm or approval."
+    },
+    {
+      "time": 273.90689999997613,
+      "text": "Ñengo Flow",
+      "translation": "Ñengo Flow",
+      "grammar": "This is an interjection, used to express enthusiasm or excitement. It does not have a direct English equivalent and is often translated as-is in lyrics or song titles."
+    },
+    {
+      "time": 275.34639999997614,
+      "text": "Arcángel",
+      "translation": "Archangel",
+      "grammar": "This term is an interjection used to express admiration or awe, equivalent to saying \"Wow!\" or \"Gosh!\". It does not convey a specific tense, aspect, or mood."
+    },
+    {
+      "time": 276.5998999999762,
+      "text": "El Género punto com",
+      "translation": "The Gender dot com",
+      "grammar": "This phrase uses the idiomatic expression \"punto com\" to convey a sense of finality or conclusion, similar to saying \"the end\" in English. The use of \"punto\" (dot) instead of \"fin\" (end) adds a touch of informality and playfulness to the phrase."
+    },
+    {
+      "time": 277.92839999997614,
+      "text": "Ey yes tía estoy en septiembre",
+      "translation": "Hey yes, auntie, I'm in September",
+      "grammar": "The use of \"estoy\" (I am) in the present continuous tense indicates that the speaker is currently experiencing or going through something related to being in September."
+    },
+    {
+      "time": 279.34179999998213,
+      "text": "Nos vemos en el talpón liceo",
+      "translation": "See you at the Talpón high school",
+      "grammar": "The phrase \"nos vemos\" is an idiomatic expression meaning \"see you\", using the informal plural form of \"to see\" to convey a casual tone, typical in spoken language. The verb agrees with the subject pronoun \"nos\" in number and person."
+    }
+  ]
+}

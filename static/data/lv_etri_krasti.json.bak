@@ -1,0 +1,313 @@
+{
+  "id": "lv_etri_krasti",
+  "title": "Četri krasti",
+  "artist": "Prāta Vētra",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "lv",
+  "to_language": "en",
+  "audio": "/audio/lv_etri_krasti.mp3",
+  "duration": 250,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 48.58,
+      "text": "Lai iesper zibens, gaudo suns",
+      "translation": "Let the sparks fly, let the sun shine",
+      "grammar": "The phrase 'Lai [verb], [noun]' is a common way to express desire or intention in Latvian."
+    },
+    {
+      "time": 54.0,
+      "text": "Mēs šonakt piedzimsim no jauna",
+      "translation": "We start anew, from scratch",
+      "grammar": "The verb 'šonakt' is the third person plural form of the verb 'šonākt', which means to begin or start something."
+    },
+    {
+      "time": 57.42,
+      "text": "Tad četros krastos degsies guns",
+      "translation": "Then the four corners will ignite",
+      "grammar": "The phrase 'četros' is a superlative form of the adjective 'cets', meaning fourth or last, and is used to emphasize the extremity of the situation."
+    },
+    {
+      "time": 58.2,
+      "text": "Un lidos dzirksteles no kalna",
+      "translation": "And the wheels will spin from the hill",
+      "grammar": "The verb 'lidos' is the third person singular form of the verb 'lidot', which means to spin or turn."
+    },
+    {
+      "time": 133.56,
+      "text": "Šampaniet's līst",
+      "translation": "Champagne flows",
+      "grammar": "The phrase 'Šampaniet's' is a possessive form of the noun 'šampanie', meaning champagne, and indicates that it belongs to someone or something."
+    },
+    {
+      "time": 133.56,
+      "text": "Ikreiz gadu mijā",
+      "translation": "Across years and decades",
+      "grammar": "The phrase 'ikreiz' is an adverbial form of the preposition 'krēs', which means across, over, or through."
+    },
+    {
+      "time": 133.56,
+      "text": "Domīgas zvaigznes",
+      "translation": "Desired stars",
+      "grammar": "The adjective 'domīgas' is a superlative form of the adjective 'dome', meaning desired or wished-for."
+    },
+    {
+      "time": 133.56,
+      "text": "Slīkst manā akvārijā",
+      "translation": "Smooth in my aquarium",
+      "grammar": "The phrase 'slīkst' is an adverbial form of the adjective 'sliks', which means smooth or calm, and modifies the noun 'akvārijā', meaning aquarium."
+    },
+    {
+      "time": 133.56,
+      "text": "Viss it kā bijis",
+      "translation": "Everything will be as it was",
+      "grammar": "The phrase 'it' is a pronoun that refers back to the subject of the sentence, and indicates that everything will return to its previous state."
+    },
+    {
+      "time": 133.56,
+      "text": "Un viss vēl ir priekšā",
+      "translation": "And everything still lies ahead",
+      "grammar": "The phrase 'viss vēl' is an adverbial form of the adjective 'viss', which means all or everything, and modifies the verb 'ir', meaning to be."
+    },
+    {
+      "time": 133.56,
+      "text": "Gaisma tik spoža",
+      "translation": "Light is so bright",
+      "grammar": "The phrase 'tīk' is an adverbial form of the adjective 'tīks', which means so or very, and modifies the noun 'gaisma', meaning light."
+    },
+    {
+      "time": 133.56,
+      "text": "Atver acis un droši nāc iekšā",
+      "translation": "Open your eyes and come inside",
+      "grammar": "The verb 'atver' is the third person singular form of the verb 'atvert', which means to open or uncover."
+    },
+    {
+      "time": 133.56,
+      "text": "Lai iesper zibens, gaudo suns",
+      "translation": "Let the sparks fly, let the sun shine",
+      "grammar": "The phrase 'Lai [verb], [noun]' is a common way to express desire or intention in Latvian."
+    },
+    {
+      "time": 133.56,
+      "text": "Mēs šonakt piedzimsim no jauna",
+      "translation": "We start anew, from scratch",
+      "grammar": "The verb 'šonakt' is the third person plural form of the verb 'šonākt', which means to begin or start something."
+    },
+    {
+      "time": 133.56,
+      "text": "Tad četros krastos degsies guns",
+      "translation": "Then the four corners will ignite",
+      "grammar": "The phrase 'četros' is a superlative form of the adjective 'cets', meaning fourth or last, and is used to emphasize the extremity of the situation."
+    },
+    {
+      "time": 137.06,
+      "text": "Un lidos dzirksteles no kalna",
+      "translation": "And the wheels will spin from the hill",
+      "grammar": "The verb 'lidos' is the third person singular form of the verb 'lidot', which means to spin or turn."
+    },
+    {
+      "time": 140.3,
+      "text": "Mēs būsim ceļa zīmes ceļā",
+      "translation": "We'll be signs on the road",
+      "grammar": "The phrase 'būsim' is a future tense form of the verb 'būt', which means to be, and indicates that something will happen in the future."
+    },
+    {
+      "time": 145.08,
+      "text": "Un Sprīdītis uz meža takas",
+      "translation": "And Sprīdītis on the forest's edge",
+      "grammar": "The noun 'Sprīdītis' is a proper noun, likely referring to a specific person or entity."
+    },
+    {
+      "time": 147.24,
+      "text": "Ja vajag - caurums apakšveļā",
+      "translation": "If necessary - a tunnel under the veil",
+      "grammar": "The phrase 'ja vajag' is a conditional clause, indicating that something will happen if a certain condition is met."
+    },
+    {
+      "time": 149.68,
+      "text": "Lai ko par mums tad arī saka",
+      "translation": "Let them also speak about us",
+      "grammar": "The phrase 'lai ko' is an adverbial form of the preposition 'lai', which means to or towards, and modifies the verb 'saka', meaning to speak."
+    },
+    {
+      "time": 149.68,
+      "text": "Gaiši zils logs",
+      "translation": "Bright blue logs",
+      "grammar": "The adjective 'gaiši' is an adverbial form of the adjective 'gais', which means bright or radiant, and modifies the noun 'zils', meaning blue."
+    },
+    {
+      "time": 149.68,
+      "text": "Vakaros vēlos",
+      "translation": "We'll want it in the evenings",
+      "grammar": "The phrase 'vakaros' is an adverbial form of the noun 'vakars', which means evening, and modifies the verb 'vēlos', meaning to want."
+    },
+    {
+      "time": 149.68,
+      "text": "Es savus mīļos",
+      "translation": "I love my own",
+      "grammar": "The phrase 'es savus' is a possessive form of the pronoun 'es', which means I, and indicates that something belongs to oneself."
+    },
+    {
+      "time": 149.68,
+      "text": "Zaudēju nakts seriālos",
+      "translation": "I lose in night series",
+      "grammar": "The verb 'zaudēju' is the first person singular form of the verb 'zaudēt', which means to lose or miss."
+    },
+    {
+      "time": 149.68,
+      "text": "Gaiši zils stars",
+      "translation": "Bright blue stars",
+      "grammar": "The adjective 'gaiši' is an adverbial form of the adjective 'gais', which means bright or radiant, and modifies the noun 'zils', meaning blue."
+    },
+    {
+      "time": 149.68,
+      "text": "Neliek man mieru",
+      "translation": "I don't need peace",
+      "grammar": "The phrase 'neliek' is a negation of the verb 'liekt', which means to need or require, and indicates that something is not necessary."
+    },
+    {
+      "time": 149.68,
+      "text": "Un maldās uz vietas",
+      "translation": "And I'll stay in one place",
+      "grammar": "The phrase 'un maldās' is a future tense form of the verb 'maldāt', which means to stay or remain, and indicates that something will happen in the future."
+    },
+    {
+      "time": 149.68,
+      "text": "Kā ģeogrāfs amatieru",
+      "translation": "Like an amateur geographer",
+      "grammar": "The phrase 'kā' is a comparative form of the preposition 'kā', which means like or as, and modifies the noun 'ģeogrāfs', meaning geographer."
+    },
+    {
+      "time": 149.68,
+      "text": "Lai iesper zibens, gaudo suns",
+      "translation": "Let the sparks fly, let the sun shine",
+      "grammar": "The phrase 'Lai [verb], [noun]' is a common way to express desire or intention in Latvian."
+    },
+    {
+      "time": 149.68,
+      "text": "Mēs šonakt piedzimsism no jauna",
+      "translation": "We start anew, from scratch",
+      "grammar": "The verb 'šonakt' is the third person plural form of the verb 'šonākt', which means to begin or start something."
+    },
+    {
+      "time": 149.68,
+      "text": "Tad četrsos krastos degsies guns",
+      "translation": "Then the four corners will ignite",
+      "grammar": "The phrase 'četros' is a superlative form of the adjective 'cets', meaning fourth or last, and is used to emphasize the extremity of the situation."
+    },
+    {
+      "time": 149.68,
+      "text": "Un lidos dzirksteles no kalna",
+      "translation": "And the wheels will spin from the hill",
+      "grammar": "The verb 'lidos' is the third person singular form of the verb 'lidot', which means to spin or turn."
+    },
+    {
+      "time": 149.68,
+      "text": "Mēs būsim ceļa zīmes ceļā",
+      "translation": "We'll be signs on the road",
+      "grammar": "The phrase 'būsim' is a future tense form of the verb 'būt', which means to be, and indicates that something will happen in the future."
+    },
+    {
+      "time": 149.68,
+      "text": "Un Sprīdītis uz meža takas",
+      "translation": "And Sprīdītis on the forest's edge",
+      "grammar": "The noun 'Sprīdītis' is a proper noun, likely referring to a specific person or entity."
+    },
+    {
+      "time": 149.68,
+      "text": "Ja vajag- caurums apakšveļā",
+      "translation": "If necessary - a tunnel under the veil",
+      "grammar": "The phrase 'ja vajag' is a conditional clause, indicating that something will happen if a certain condition is met."
+    },
+    {
+      "time": 149.68,
+      "text": "Lai ko par mums tad arī saka",
+      "translation": "Let them also speak about us",
+      "grammar": "The phrase 'lai ko' is an adverbial form of the preposition 'lai', which means to or towards, and modifies the verb 'saka', meaning to speak."
+    },
+    {
+      "time": 149.68,
+      "text": "Kad diena ir galā var nākamo sākt",
+      "translation": "When the day is over we can start anew",
+      "grammar": "The phrase 'kad diena ir galā' is a subordinate clause, indicating that something will happen when a certain condition is met."
+    },
+    {
+      "time": 149.68,
+      "text": "Tā ir ar tām dienām- kāds iet un kāds nāk",
+      "translation": "It's like with those days - some go and some come",
+      "grammar": "The phrase 'tā ir' is a copula, linking the subject to the predicate, and indicating that something is true or exists."
+    },
+    {
+      "time": 149.68,
+      "text": "Pulkstenis smilšu",
+      "translation": "The clock strikes sand",
+      "grammar": "The verb 'pulkstenis' is the third person singular form of the verb 'pulkstēt', which means to strike or sound, and modifies the noun 'smilšu', meaning sand."
+    },
+    {
+      "time": 149.68,
+      "text": "Nekad nekļūs lēnāks",
+      "translation": "Never will it slow down",
+      "grammar": "The phrase 'nekad' is a negation of the adverb 'kads', which means never or not at all, and indicates that something will never happen."
+    },
+    {
+      "time": 149.68,
+      "text": "Kopā ir drošāk",
+      "translation": "Together it's safer",
+      "grammar": "The verb 'ir' is a copula, linking the subject to the predicate."
+    },
+    {
+      "time": 149.68,
+      "text": "Mēs vairs nedrīkstam slēpties ēnā",
+      "translation": "We can't hide in the shadows anymore",
+      "grammar": "The verb 'nedrīkstam' is a negated form of 'drīkt', indicating prohibition or impossibility."
+    },
+    {
+      "time": 149.68,
+      "text": "Un lai iesper zibens, gaudo suns",
+      "translation": "And when the lightning strikes, the dog barks",
+      "grammar": "The phrase 'lai iesper' is an idiomatic expression meaning 'when something happens'."
+    },
+    {
+      "time": 149.68,
+      "text": "Mēs šonakt piedzimsim no jauna",
+      "translation": "We'll start anew from scratch",
+      "grammar": "The verb 'piedzimsim' is in the future tense, indicating a planned or intended action."
+    },
+    {
+      "time": 150.14,
+      "text": "Tad četros krastos degsies guns",
+      "translation": "Then four crosses will ignite guns",
+      "grammar": "The phrase 'četros krastos' means 'four crosses', likely referring to a symbolic or metaphorical representation."
+    },
+    {
+      "time": 150.48,
+      "text": "Un lidos dzirksteles no kalna",
+      "translation": "And the wheels of fate spin from the mountain",
+      "grammar": "The phrase 'lidos dzirksteles' is an idiomatic expression meaning 'the course of events'."
+    },
+    {
+      "time": 157.38,
+      "text": "Mēs būsim ceļa zīmes ceļā",
+      "translation": "We'll be signs on the road",
+      "grammar": "The verb 'būsim' is in the future tense, indicating a planned or intended action."
+    },
+    {
+      "time": 159.02,
+      "text": "Un Sprīdītis uz meža takas",
+      "translation": "And Sprīdītis climbs up the forest's edge",
+      "grammar": "The name 'Sprīdītis' is likely a proper noun or metaphorical representation, not translating directly."
+    },
+    {
+      "time": 160.24,
+      "text": "Ja vajag - caurums apakšveļā",
+      "translation": "If needed - a tunnel under the veil",
+      "grammar": "The phrase 'ja vajag' is an idiomatic expression meaning 'if necessary'."
+    },
+    {
+      "time": 163.16,
+      "text": "La ko par mums tad arī saka",
+      "translation": "And as for us, it will also be said",
+      "grammar": "The verb 'saka' is in the future tense, indicating a planned or intended action."
+    }
+  ]
+}

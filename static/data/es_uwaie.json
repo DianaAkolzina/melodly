@@ -1,0 +1,241 @@
+{
+  "id": "es_uwaie",
+  "title": "UWAIE",
+  "artist": "Kapo",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_uwaie.mp3",
+  "duration": 172,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 4.131400000005961,
+      "text": "Yo, Gangsta (bebé)",
+      "translation": "Yo, Gangsta (baby)",
+      "grammar": "This line uses the informal greeting \"Yo\" and the nickname \"Gangsta\", with the added affectionate particle \"bebé\" or \"baby\", which is a common idiomatic expression in Spanish to show endearment."
+    },
+    {
+      "time": 5.499199999988079,
+      "text": "Where you at?",
+      "translation": "Where are you at?",
+      "grammar": "This informal phrase uses the present continuous tense to convey a sense of urgency or inquiry, and the word \"at\" is an idiomatic expression meaning \"located\" or \"found\"."
+    },
+    {
+      "time": 8.27440000000596,
+      "text": "Ay, me he inventado cosas pa llamar la atención de ti",
+      "translation": "Oh, I've made things up to get your attention",
+      "grammar": "The phrase \"me he inventado\" is an informal way of saying \"I've invented\" in the first person singular, using the verb \"inventar\" in the preterite tense and the reflexive pronoun \"me\" to emphasize the speaker's actions."
+    },
+    {
+      "time": 12.91679999998212,
+      "text": "Y no solo por lo hermosa, niña, tu brillo me tiene así",
+      "translation": "And not just because you're beautiful, girl, your glow has me like this",
+      "grammar": "The phrase \"me tiene así\" is an idiomatic expression indicating a strong emotional impact or being deeply affected by something. The verb \"tener\" is in the present tense and implies a state of being rather than a specific action."
+    },
+    {
+      "time": 18.136299999982118,
+      "text": "Siéntate y piensa en algo, y quiero ser ese algo",
+      "translation": "Sit down and think of something, and I want to be that something",
+      "grammar": "The phrase \"quiero ser\" is an idiomatic expression meaning \"I want to be\" rather than a literal translation. It's used to express a desire or intention to become something, often in a figurative sense."
+    },
+    {
+      "time": 24.58719999998808,
+      "text": "Ay, procuré seducirla mucho, hasta que se dio, y",
+      "translation": "Oh, I tried so hard to seduce her, until she finally gave in, and",
+      "grammar": "The phrase \"procuré seducirla\" is an idiomatic expression that translates to \"I tried so hard to seduce her\". The verb \"procuré\" is in the imperfect tense, indicating a prolonged action in the past."
+    },
+    {
+      "time": 27.346,
+      "text": "Flaca, vos sos hermosa, y te mereces todo",
+      "translation": "Skinny girl, you're beautiful, and you deserve everything.",
+      "grammar": "The phrase \"vos sos\" is a colloquial way to say \"you are\" in informal settings, using the pronoun \"vos\" instead of the formal \"usted\". This construction is typical of spoken Argentine Spanish."
+    },
+    {
+      "time": 31.65370000001788,
+      "text": "Amarte es mi necesidad, mi necesidad",
+      "translation": "Loving you is my need, my need",
+      "grammar": "The repeated phrase \"mi necesidad\" is an idiomatic expression emphasizing the speaker's strong emotional dependence on loving someone. The use of the same phrase in both clauses creates a sense of urgency and highlights the intensity of their feelings."
+    },
+    {
+      "time": 36.53590000000596,
+      "text": "De ti me gustan cosas, la verdad, todo",
+      "translation": "I like things about you, honestly, everything.",
+      "grammar": "The phrase \"me gustan cosas\" is in the present tense and uses the informal \"tú\" form to express a personal preference, emphasizing the speaker's genuine liking for the person being addressed."
+    },
+    {
+      "time": 41.2305,
+      "text": "Quitarte esa inseguridad es mi necesidad",
+      "translation": "My need is to help you overcome that insecurity.",
+      "grammar": "The verb \"es\" is in the present tense, agreeing with the noun \"necesidad\" (need), indicating a current or ongoing necessity. The phrase \"mi necesidad\" can be translated as \"my need\" rather than \"it is my need\", highlighting the idiomatic expression of personal desire."
+    },
+    {
+      "time": 45.96980000001192,
+      "text": "Es darte un par de besitos, es bailar contigo un afrito",
+      "translation": "It's giving you a couple of little kisses, it's dancing a little dance with you",
+      "grammar": "The verb \"es\" is used to express the speaker's willingness or intention, equivalent to \"I'd love to\" in English. The phrase \"un par de besitos\" is an idiomatic expression meaning \"a few kisses\"."
+    },
+    {
+      "time": 50.395800000011924,
+      "text": "Es decir \"qué loquito me tienes\", es decir \"¿a qué huele?\"",
+      "translation": "In other words, \"you're driving me crazy,\" in other words, \"what does it smell like?\"",
+      "grammar": "The phrase \"es decir\" is an idiom used to introduce a paraphrase or equivalent expression, similar to saying \"in other words\"."
+    },
+    {
+      "time": 52.9925,
+      "text": "Huele rico al bailar",
+      "translation": "It smells good when you dance",
+      "grammar": "This idiomatic expression uses the present participle \"huele\" (smelling) to describe a simultaneous action, conveying a sense of pleasure or enjoyment. The phrase is often used to express enthusiasm for an activity, in this case, dancing."
+    },
+    {
+      "time": 58.05570000001788,
+      "text": "Es perfecta al despertarse",
+      "translation": "It's perfect when you wake up",
+      "grammar": "The verb \"despertarse\" is in the infinitive form, indicating a purpose or intention, and is used to describe an idiomatic expression meaning \"to be perfect for something\"."
+    },
+    {
+      "time": 60.59130000001192,
+      "text": "Ay, procuré seducirla mucho, hasta que se dio",
+      "translation": "Oh, I tried so hard to seduce her, until she gave in",
+      "grammar": "The phrase \"Ay, procuré\" is an idiomatic expression that combines the interjection \"Ay\" with the verb \"procuré\", which is in the imperfect tense, indicating a prolonged action."
+    },
+    {
+      "time": 64.1405,
+      "text": "Ay, flaca, vos sos hermosa, y te mereces todo",
+      "translation": "Oh, girl, you're beautiful, and you deserve everything.",
+      "grammar": "The phrase \"vos sos\" is a colloquial way of saying \"you are\" in informal settings, using the pronoun \"vos\" instead of the formal \"usted\". This construction is typical in Argentine Spanish."
+    },
+    {
+      "time": 69.2545,
+      "text": "Amarte es mi necesidad, mi necesidad",
+      "translation": "Loving you is my need, my need",
+      "grammar": "The phrase \"Amarte es\" uses the present tense to express a general truth or habitual action, emphasizing the speaker's constant and inherent need for love. The repetition of \"mi necesidad\" highlights the intensity of this emotional necessity."
+    },
+    {
+      "time": 73.89890000000597,
+      "text": "De ti me gustan cosas, la verdad, todo (la verdad, todo)",
+      "translation": "I like things about you, honestly, everything (honestly, everything)",
+      "grammar": "The phrase \"me gustan cosas\" is in the present tense and uses the reflexive pronoun \"me\", indicating that the speaker's preferences are being described. The idiomatic expression \"gustar\" implies a liking or appreciation for something."
+    },
+    {
+      "time": 78.801,
+      "text": "Quitarte esa inseguridad es mi necesidad",
+      "translation": "My need is to help you overcome that insecurity.",
+      "grammar": "The verb \"es\" is in the present tense, agreeing with the noun \"necesidad\", indicating a strong desire or necessity. The phrase \"quitarte\" is an idiomatic expression meaning \"to help someone overcome\"."
+    },
+    {
+      "time": 83.28570000001788,
+      "text": "De verdad, ah",
+      "translation": "Really, ah",
+      "grammar": "This interjection \"De verdad\" is an idiomatic expression in Spanish, literally meaning \"of truth\", used to emphasize sincerity or authenticity."
+    },
+    {
+      "time": 85.31530000001192,
+      "text": "Ay, procuré seducirla mucho, hasta que se dio",
+      "translation": "Oh, I tried so hard to seduce her, until she gave in",
+      "grammar": "The phrase \"Ay\" is an interjection used to express strong emotions or emphasis, similar to \"oh\" or \"wow\". The sentence uses the preterite tense (\"procuré\") to describe a completed action."
+    },
+    {
+      "time": 90.44330000001192,
+      "text": "Y si supiera todo lo que yo le recé a Dios",
+      "translation": "And if he only knew all the things I prayed to God about.",
+      "grammar": "The verb \"supiera\" is in the conditional tense, implying hypothetical or uncertain circumstances. The phrase \"lo que yo le recé a Dios\" is an idiomatic expression meaning \"all the things I prayed to God about\", where \"le recé\" is the first person singular imperfect of \"recar\", meaning \"to pray\"."
+    },
+    {
+      "time": 93.65380000001193,
+      "text": "Pa que tú estuvieras aquí",
+      "translation": "So that you could be here",
+      "grammar": "The phrase \"pa que\" is an idiomatic expression used to indicate purpose or intention, similar to \"so that\" in English. It is often used with the subjunctive mood, as seen in this example, to express a hypothetical situation."
+    },
+    {
+      "time": 99.9495,
+      "text": "Ay, mi flaca hermosa, vos sos otra cosa",
+      "translation": "Oh, my beautiful skinny girl, you are something else",
+      "grammar": "The phrase \"vos sos\" is a colloquial way of saying \"you are\" in informal settings, using the pronoun \"vos\" instead of the more formal \"tú\". This construction is typical of spoken Argentine Spanish."
+    },
+    {
+      "time": 101.8135,
+      "text": "Es el destino que nos tiene feliz",
+      "translation": "It is the destiny that makes us happy",
+      "grammar": "The verb \"tiene\" is in the present tense, indicating a general or habitual state of happiness, rather than a specific moment. The phrase \"nos hace feliz\" can be translated as \"makes us happy\", using the impersonal pronoun \"nos\" to emphasize the collective experience of happiness."
+    },
+    {
+      "time": 106.31880000001192,
+      "text": "(Bebé, date una idea de que)",
+      "translation": "(Baby, get an idea of that)",
+      "grammar": "The phrase \"date una idea\" is an idiomatic expression in Spanish, equivalent to \"get an idea\" or \"figure out\" in English. It uses the present continuous tense (estar + verb in -ndo form) to convey a sense of ongoing mental activity."
+    },
+    {
+      "time": 112.9145,
+      "text": "Flaca, vos sos hermosa, y te mereces todo",
+      "translation": "Skinny girl, you're beautiful, and you deserve everything.",
+      "grammar": "The phrase \"vos sos\" is a formal way of saying \"you are\" in Spanish, used to show respect or familiarity. This construction is often used in informal settings with friends or when speaking to someone who deserves respect."
+    },
+    {
+      "time": 113.57110000002385,
+      "text": "Ay, amarte es mi necesidad, mi necesidad",
+      "translation": "Oh, loving you is my need, my need",
+      "grammar": "The phrase \"Ay\" is an interjection used to express strong emotions or emphasis, often translated as \"Oh\". The sentence uses the present tense and emphasizes the speaker's necessity of loving someone."
+    },
+    {
+      "time": 120.48920000001789,
+      "text": "De ti me gustan cosas, la verdad, todo",
+      "translation": "I like things about you, honestly, everything.",
+      "grammar": "The phrase \"me gustan cosas\" is in the present tense and uses the reflexive pronoun \"me\" to emphasize the speaker's personal preference. This idiomatic expression conveys a strong liking or affection for someone."
+    },
+    {
+      "time": 125.06370000001787,
+      "text": "(Bebé, date una idea de que)",
+      "translation": "(Baby, get an idea of that)",
+      "grammar": "The phrase \"date una idea\" is an idiomatic expression in Spanish, equivalent to \"get an idea\" or \"figure out\" in English. The verb \"date\" is in the informal imperative mood, used to give a command or make a suggestion to someone familiar with the speaker."
+    },
+    {
+      "time": 129.75340000000597,
+      "text": "Flaca, vos sos hermosa (UWAIE), y te mereces todo (UWAIE)",
+      "translation": "Skinny girl, you're beautiful (UWAIE), and you deserve everything (UWAIE)",
+      "grammar": "The phrase \"vos sos\" is a colloquial way of saying \"you are\" in informal settings, using the pronoun vos instead of tú. This construction is typical in some Latin American countries and is used to express familiarity or affection."
+    },
+    {
+      "time": 134.19890000000595,
+      "text": "Ay, amarte es mi necesidad, mi necesidad",
+      "translation": "Oh, loving you is my need, my need",
+      "grammar": "The phrase \"Ay\" is an interjection used to express strong emotions or emphasis, often translated as \"Oh\". The verb \"ser\" (to be) in the sentence is in the present tense, emphasizing a constant and inherent need."
+    },
+    {
+      "time": 139.21570000001788,
+      "text": "De ti me gustan cosas (UWAIE), la verdad, todo (UWAIE)",
+      "translation": "I like things about you (UWAIE), the truth is, everything (UWAIE)",
+      "grammar": "The phrase \"me gustan cosas\" uses the present tense to express a general liking or fondness for something, rather than a specific action. This construction is an idiomatic expression in Spanish, equivalent to saying \"I have a thing for you\"."
+    },
+    {
+      "time": 145.18940000000595,
+      "text": "(UWAIE)",
+      "translation": "(UWAIE)",
+      "grammar": "This interjection is an expression of surprise or excitement, often used in informal settings. It does not have a direct English equivalent and is best translated as-is."
+    },
+    {
+      "time": 154.2508000000119,
+      "text": "Yo, Gangsta",
+      "translation": "I, Gangsta",
+      "grammar": "This informal greeting \"Yo\" is an interjection used to address someone in a casual tone, equivalent to saying \"Hey\" or \"Hi\". The phrase \"Gangsta\" is likely being used as a nickname or title, rather than a formal title."
+    },
+    {
+      "time": 157.45580000001192,
+      "text": "Ay, yo soy tu Kapo, baby",
+      "translation": "Oh, I'm your Kapo, baby",
+      "grammar": "This line uses the informal second-person singular pronoun \"tu\" and the idiomatic expression \"Soy [name], baby\" to address someone in a familiar manner."
+    },
+    {
+      "time": 161.10609999999403,
+      "text": "Bebé, yeah, yo",
+      "translation": "Baby, yeah, yo",
+      "grammar": "The phrase \"Bebé\" is an informal term of endearment used to address a baby or a loved one, similar to \"honey\" or \"sweetheart\". The sentence as a whole is in the present tense and uses the casual mood of spoken language."
+    },
+    {
+      "time": 167.22759999999403,
+      "text": "La Industria Inc",
+      "translation": "The Industry Inc.",
+      "grammar": "This phrase is an example of a proper noun, specifically a company name, and does not require any specific grammatical attention."
+    }
+  ]
+}

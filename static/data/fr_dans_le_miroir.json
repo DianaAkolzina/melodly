@@ -1,0 +1,151 @@
+{
+  "id": "fr_dans_le_miroir",
+  "title": "Dans Le Miroir",
+  "artist": "Jabbour",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_dans_le_miroir.mp3",
+  "duration": 209,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 17.381399999976157,
+      "text": "Comme père",
+      "translation": "As a father",
+      "grammar": "This idiomatic phrase uses the verb \"être\" in the present tense to express a role or characteristic, rather than describing an action. It is equivalent to saying \"in my capacity as a father\"."
+    },
+    {
+      "time": 19.928899999976156,
+      "text": "Il peut être si dur",
+      "translation": "It can be so hard",
+      "grammar": "The phrase \"Il peut être\" is a polite way to express possibility, using the subjunctive mood to convey a sense of tentativeness. The verb \"être\" agrees with the subject \"il\" in number and gender."
+    },
+    {
+      "time": 24.46459999999404,
+      "text": "Mais s'il le veut",
+      "translation": "But if he wants to",
+      "grammar": "This idiomatic expression uses the subjunctive mood (\"le veut\" instead of \"veut\") to convey a hypothetical or uncertain situation, emphasizing the speaker's willingness to consider someone else's desires."
+    },
+    {
+      "time": 28.012399999976157,
+      "text": "Il peut être doux comme un mouton",
+      "translation": "He can be as gentle as a sheep",
+      "grammar": "This idiomatic expression uses the present tense to describe a potential or possible situation, rather than a fixed one. The phrase \"doux comme un mouton\" is an idiomatic comparison meaning \"as gentle as a sheep\"."
+    },
+    {
+      "time": 32.487,
+      "text": "D'une manière",
+      "translation": "In a way",
+      "grammar": "This idiomatic expression uses the indefinite article \"d'une\" to introduce an adverbial phrase, conveying a sense of approximation or uncertainty."
+    },
+    {
+      "time": 36.15420000001788,
+      "text": "Ou d'une autre",
+      "translation": "Or another",
+      "grammar": "This phrase uses the idiomatic expression \"ou\" to indicate a contrast or alternative, similar to \"or else\" in English. The sentence implies a choice between two options, with \"d'une autre\" meaning \"or another\" rather than specifying a particular time or circumstance."
+    },
+    {
+      "time": 39.90830000001192,
+      "text": "Il sera le modèle",
+      "translation": "He will be the model",
+      "grammar": "The phrase \"il sera\" is in the future tense, indicating a planned or intended action. The use of \"sera\" instead of \"est\" (present tense) emphasizes that this person's role as a model has not yet been fulfilled."
+    },
+    {
+      "time": 43.23890000000596,
+      "text": "Pour sa fille et son garçon",
+      "translation": "For his daughter and son",
+      "grammar": "The phrase \"pour\" is used to indicate purpose or intention, rather than its literal meaning of \"to pour\". This idiomatic expression shows the speaker's motivation for doing something."
+    },
+    {
+      "time": 64.54070000001788,
+      "text": "Cet homme",
+      "translation": "This man",
+      "grammar": "The phrase \"Cet homme\" is an indefinite pronoun in the nominative case, used to refer to a specific person or individual. The definite article \"ce\" agrees with the masculine noun \"homme\"."
+    },
+    {
+      "time": 67.55030000001192,
+      "text": "Humble et fort",
+      "translation": "Humble and strong",
+      "grammar": "This idiomatic expression uses the coordinating conjunction \"et\" to link two adjectives, \"humble\" and \"fort\", in a simultaneous description of someone's character. The use of \"et\" emphasizes the combination of these two contrasting qualities."
+    },
+    {
+      "time": 71.45170000001788,
+      "text": "Tendre et soumis",
+      "translation": "Tender and submissive",
+      "grammar": "The phrase \"tendre et soumis\" is in the present participle passive voice, describing a state of being tender and submissive. The adjective agreement between \"tendre\" and \"soumis\" emphasizes their close relationship."
+    },
+    {
+      "time": 75.415,
+      "text": "Peut parler de son coeur",
+      "translation": "Can speak from the heart",
+      "grammar": "The phrase \"peut parler\" is in the present tense and implies permission or ability, similar to the English idiom \"can speak\"."
+    },
+    {
+      "time": 79.77120000001788,
+      "text": "Et montrer",
+      "translation": "And show",
+      "grammar": "This idiomatic phrase \"Et montrer\" is a verb construction in the infinitive mood, used to express intention or purpose. It implies that the speaker intends to demonstrate or reveal something."
+    },
+    {
+      "time": 83.238,
+      "text": "À ses enfants",
+      "translation": "To his children",
+      "grammar": "The possessive adjective à is used to indicate possession in the present tense, and its agreement with the noun enfants (children) is essential for grammatical correctness."
+    },
+    {
+      "time": 86.77760000002384,
+      "text": "Qu'il faut s'aider et s'aimer",
+      "translation": "That we must help and love each other",
+      "grammar": "The phrase \"qu'il faut\" is a formal way of expressing necessity or obligation in the present tense, equivalent to \"one must\"."
+    },
+    {
+      "time": 90.60640000000596,
+      "text": "Jusqu'à la dernière heure",
+      "translation": "Until the very last hour",
+      "grammar": "This idiomatic expression uses the preposition jusqu'à to indicate a point of time until which something happens, conveying a sense of urgency and finality."
+    },
+    {
+      "time": 97.86690000000596,
+      "text": "Le choix est le vôtre",
+      "translation": "The choice is yours.",
+      "grammar": "This phrase uses the formal second-person singular pronoun \"votre\" to convey a sense of respect and politeness, emphasizing that the decision belongs entirely to the listener."
+    },
+    {
+      "time": 106.98220000001788,
+      "text": "Alors pourquoi s'blesser",
+      "translation": "So why get hurt?",
+      "grammar": "The phrase \"s'blesser\" is an idiomatic expression, literally meaning \"to scratch oneself\", but figuratively conveying the idea of getting emotionally hurt. The verb \"s'blesser\" is in the infinitive form and functions as a noun, emphasizing the emotional pain."
+    },
+    {
+      "time": 113.69710000002384,
+      "text": "Ces mots sont les nôtres",
+      "translation": "These are our words.",
+      "grammar": "The possessive adjective \"nôtres\" agrees with the plural noun \"mots\" in number and gender, emphasizing that these words belong to a group or community."
+    },
+    {
+      "time": 122.48510000002385,
+      "text": "Les marques seront laissées",
+      "translation": "The marks will be left.",
+      "grammar": "This sentence uses the future tense to indicate a planned or intended action, with the verb \"seront\" agreeing in number and person with the subject \"les marques\"."
+    },
+    {
+      "time": 142.36410000002385,
+      "text": "Il fait comme son père",
+      "translation": "He's just like his father",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or characteristic behavior, rather than a specific action happening at the moment. The phrase \"faire comme\" is an idiom meaning \"to be like\" or \"to behave in a certain way\"."
+    },
+    {
+      "time": 145.464,
+      "text": "Il l'entend dans sa voix",
+      "translation": "He hears it in his voice",
+      "grammar": "The phrase \"Il l'entend dans sa voix\" uses the present tense to convey a habitual or general truth, rather than a specific event. The pronoun \"il\" agrees with the understood subject \"ce que je suis\" (\"what I am\"), emphasizing the idea that this person's voice is a reflection of their inner self."
+    },
+    {
+      "time": 149.99280000001193,
+      "text": "Et l'aperçoit dans le miroir",
+      "translation": "And catches sight of him in the mirror",
+      "grammar": "The verb \"aperçoit\" is in the present tense, indicating a sudden or fleeting perception. The phrase \"l'aperçoit dans le miroir\" can be translated as \"catches sight of him in the mirror\", using the reflexive pronoun \"l'\" to emphasize the subject's action."
+    }
+  ]
+}

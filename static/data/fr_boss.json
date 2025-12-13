@@ -1,0 +1,319 @@
+{
+  "id": "fr_boss",
+  "title": "BOSS",
+  "artist": "Dystinct",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_boss.mp3",
+  "duration": 196,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Humm, mmh",
+      "translation": "Hmm, mmh",
+      "grammar": "This interjection is an informal expression of thoughtfulness or hesitation, often used to signal a pause in conversation. The repeated \"mmh\" emphasizes the speaker's uncertainty or contemplation."
+    },
+    {
+      "time": 8.551600000023841,
+      "text": "Ba-ba-ba, ba-ba-ba, c'est carré",
+      "translation": "Ba-ba-ba, ba-ba-ba, it's square",
+      "grammar": "This line uses the present tense to describe a situation or state, and the phrase \"c'est carré\" is an idiomatic expression meaning \"it's true\" or \"that's right\"."
+    },
+    {
+      "time": 10.738600000023842,
+      "text": "C'est carré, c'est carré",
+      "translation": "It's square, it's square",
+      "grammar": "The phrase \"C'est carré\" is an idiomatic expression in French, equivalent to saying \"That's the way it is\" or \"That's just how things are\". The use of the verb \"être\" (to be) in the present tense with the pronoun \"c'est\" (it's) indicates a statement of fact."
+    },
+    {
+      "time": 15.175200000017881,
+      "text": "Han-han, toi tu vois que le dernier gamos, han-han",
+      "translation": "Han-han, you only see the latest car, han-han",
+      "grammar": "The repeated phrase \"han-han\" is an interjection used to express emphasis or agreement, similar to saying \"right?\" or \"you know what I mean?\" in English. The use of \"tu\" instead of \"vous\" indicates informal address and a sense of familiarity with the listener."
+    },
+    {
+      "time": 19.14140000000596,
+      "text": "Tu sais pas ça fait combien d'temps qu'on bosse, han-han",
+      "translation": "You don't know how long we've been working, ha-ha",
+      "grammar": "The phrase \"pas ça\" is an idiomatic expression meaning \"not that\" or \"not this\", used to convey a sense of uncertainty. The verb \"bosse\" is in the imperfect tense, indicating a prolonged action in the past."
+    },
+    {
+      "time": 21.95440000000596,
+      "text": "Elle aime les étoiles donc j'arrive en Rolls, han-han",
+      "translation": "She loves the stars, so I'm arriving in a Rolls-Royce, ha-ha",
+      "grammar": "The phrase \"donc\" is an adverbial conjunction used to indicate cause and effect, equivalent to \"so\" or \"therefore\". It's often used informally in spoken French to add a touch of humor or irony."
+    },
+    {
+      "time": 25.93060000002384,
+      "text": "Mais on est plus des gosses, on est des boss",
+      "translation": "But we're not kids anymore, we're bosses",
+      "grammar": "The phrase \"on est\" is an informal way to say \"we are\" in French, often used with friends or in casual settings. The use of \"boss\" (des boss) as a noun is an idiomatic expression meaning someone who is in control or has authority."
+    },
+    {
+      "time": 28.84880000001192,
+      "text": "Han-han, toi tu vois que le dernier gamos",
+      "translation": "Han-han, you only see the latest gamos",
+      "grammar": "The phrase \"Han-han\" is an interjection used to express surprise or emphasis, often translated as \"oh\" or \"wow\". The verb \"tu vois\" is in the informal second-person singular present tense, indicating a personal and direct observation."
+    },
+    {
+      "time": 31.88169999998808,
+      "text": "Han-han, tu sais pas ça fait combien d'temps qu'on bosse",
+      "translation": "Haha, you have no idea how long we've been working.",
+      "grammar": "This informal conversation uses the present perfect tense to emphasize the duration of time spent working, with \"bosse\" being an idiomatic expression meaning \"to work hard\"."
+    },
+    {
+      "time": 35.36690000000596,
+      "text": "Han-han, elle aime les étoiles donc j'arrive en Rolls",
+      "translation": "Ha-ha, she loves the stars so I'm arriving in a Rolls Royce.",
+      "grammar": "The phrase \"j'arrive\" is in the present continuous tense, indicating that the speaker's arrival is happening simultaneously with their thought process. The use of \"donc\" (so) connects the speaker's thought to the consequence of loving the stars, which is arriving in a Rolls Royce."
+    },
+    {
+      "time": 39.04380000001192,
+      "text": "Han-han, mais on est plus des gosses, on est des boss",
+      "translation": "Ha-ha, but we're not kids anymore, we're bosses",
+      "grammar": "The phrase \"on est\" is an idiomatic expression meaning \"we are\", with the verb agreeing in number and person with the subject pronoun \"on\"."
+    },
+    {
+      "time": 41.30609999999404,
+      "text": "Ah, na-na-na-na, ah, na-na-na-na",
+      "translation": "Ah, na-na-na-na, ah, na-na-na-na",
+      "grammar": "This line is an example of a repetitive phrase used to convey excitement or enthusiasm, with the \"na-na-na\" being an onomatopoeic idiom that imitates the sound of humming or singing. The use of \"ah\" at the beginning and end adds emphasis, creating a sense of playfulness and energy."
+    },
+    {
+      "time": 43.68990000000596,
+      "text": "Ah, na-na-na-na (on est plus des gosses, on еst des boss)",
+      "translation": "Ah, na-na-na-na (we're not kids anymore, we're bosses)",
+      "grammar": "The use of \"na-na-na\" is an idiomatic expression, often used to emphasize a point or add rhythm to speech. The phrase \"on est plus des gosses\" is in the present tense and uses the impersonal pronoun \"on\" instead of \"nous\" (we), creating a sense of shared experience among the group."
+    },
+    {
+      "time": 44.9585,
+      "text": "Ah, na-na-na-na, ah, na-na-na-na",
+      "translation": "Ah, na-na-na-na, ah, na-na-na-na",
+      "grammar": "This line is an example of a repetitive phrase used to express excitement or emphasis, often in informal speech. The repeated \"na-na\" is an idiomatic expression that doesn't follow traditional grammatical rules."
+    },
+    {
+      "time": 48.65,
+      "text": "Ah, na-na-na-na (on est plus des gossеs, c'est carré)",
+      "translation": "Ah, na-na-na-na (we're not kids anymore, it's serious)",
+      "grammar": "The phrase \"on est\" is an informal way to say \"we are\", using the pronoun \"on\" instead of the more formal \"nous\". This idiomatic expression is often used in spoken French to convey a sense of camaraderie or shared experience."
+    },
+    {
+      "time": 57.13540000000596,
+      "text": "J'ai mis 2K dans la bouteille",
+      "translation": "I put 2K in the bottle",
+      "grammar": "The phrase \"j'ai mis\" is a casual, informal way to express the present perfect tense in French, equivalent to \"I have put\" in English. The use of \"mis\" instead of \"met\" (the formal verb) adds a touch of colloquialism and informality to the sentence."
+    },
+    {
+      "time": 58.783099999994036,
+      "text": "J'ai mis 100K dans sac-poubelle",
+      "translation": "I put 100K in a garbage bag",
+      "grammar": "This idiomatic expression uses the present perfect tense to convey a sense of suddenness and spontaneity, implying that the speaker quickly decided to dispose of a large sum of money. The use of \"sac-poubelle\" instead of a more formal container emphasizes the informal and perhaps reckless nature of the action."
+    },
+    {
+      "time": 61.9555,
+      "text": "Elle voit que la monnaie, elle a cul de poney, elle veut son étalon",
+      "translation": "She sees that money, she has a pony's ass, she wants her stallion",
+      "grammar": "This line uses the idiomatic expression \"cul de poney\" to humorously describe someone having a stubborn or obstinate attitude, rather than literally referring to their physical appearance."
+    },
+    {
+      "time": 64.93319999998808,
+      "text": "J'vais pas lui donner ma confiance, elle va marcher dessus avec ses talons",
+      "translation": "I'm not going to trust her, she'll walk all over me with her heels",
+      "grammar": "The phrase \"va marcher dessus\" is an idiomatic expression meaning \"to take advantage of someone\". The use of the future tense \"va\" emphasizes the speaker's prediction that this person will likely do so."
+    },
+    {
+      "time": 69.34559999999404,
+      "text": "Comme des boss, on a pris les plus grands sièges",
+      "translation": "Like bosses, we took the biggest seats",
+      "grammar": "This idiomatic expression uses the present perfect tense to convey a sense of accomplishment and confidence, with \"on\" implying shared experience. The phrase \"comme des boss\" is an informal way to say \"like leaders\" or \"like big shots\"."
+    },
+    {
+      "time": 71.54090000000596,
+      "text": "Et comme un gosse, t'es tombé dans le plus grand piège",
+      "translation": "And like a child, you fell into the biggest trap",
+      "grammar": "The phrase \"comme un gosse\" is an idiomatic expression used to convey that someone has acted impulsively or naively, similar to how a child might behave. The verb \"t'es tombé\" is in the imperfect tense, indicating a completed action in the past."
+    },
+    {
+      "time": 75.04280000001192,
+      "text": "On met la distance tellement le bras est long",
+      "translation": "We put the distance between us because the arm is so long.",
+      "grammar": "The phrase \"tellement\" is an adverb indicating a strong degree of comparison, equivalent to \"so much\" or \"such that\". It's used to emphasize the extent of the arm being long."
+    },
+    {
+      "time": 78.18180000001192,
+      "text": "J'attends pas la nuit pour savoir qui sont les mauvais, qui sont les bons (c'est carré)",
+      "translation": "I don't wait until night to find out who the bad guys are, who the good guys are (it's straightforward)",
+      "grammar": "The phrase \"J'attends pas\" is an idiomatic expression meaning \"I don't bother\" or \"I don't waste time\", using the present tense and negation to convey a sense of indifference."
+    },
+    {
+      "time": 82.05709999999404,
+      "text": "Han-han, toi tu vois que le dernier gamos",
+      "translation": "Han-han, you only see the latest car",
+      "grammar": "The phrase \"Han-han\" is an interjection used to express a sense of irony or surprise, while \"tu vois\" is the informal second-person singular form of the verb \"voir\", indicating a casual tone."
+    },
+    {
+      "time": 86.53309999999404,
+      "text": "Han-han, tu sais pas ça fait combien d'temps qu'on bosse",
+      "translation": "Haha, you have no idea how long we've been working.",
+      "grammar": "The phrase \"tu sais pas\" is an idiomatic expression meaning \"you don't know\" or \"you have no idea\". The use of the informal \"tu\" and the negation \"pas\" creates a casual tone."
+    },
+    {
+      "time": 89.65840000000595,
+      "text": "Han-han, elle aime les étoiles donc j'arrive en Rolls",
+      "translation": "Ha-ha, she loves the stars so I'm arriving in a Rolls Royce.",
+      "grammar": "The phrase \"j'arrive\" is in the present continuous tense, indicating that the speaker's arrival is happening simultaneously with their thought process. The use of \"donc\" (so) connects the speaker's thoughts to the action of arriving."
+    },
+    {
+      "time": 93.32390000000596,
+      "text": "Han-han, mais on est plus des gosses, on est des boss",
+      "translation": "Ha-ha, but we're not kids anymore, we're bosses",
+      "grammar": "The phrase \"on est\" is an idiomatic expression meaning \"we are\", with the verb agreeing in number and person with the subject \"nous\"."
+    },
+    {
+      "time": 97.10940000000596,
+      "text": "Ah, na-na-na-na, ah, na-na-na-na",
+      "translation": "Ah, na-na-na-na, ah, na-na-na-na",
+      "grammar": "This line is an example of a repetitive phrase used to express excitement or enthusiasm, often in song lyrics. The repetition of \"na-na-na\" is an idiomatic expression that conveys the speaker's emotional state rather than conveying specific information about time, location, or participants."
+    },
+    {
+      "time": 100.49840000000596,
+      "text": "Ah, na-na-na-na (on est plus des gosses, on est des boss)",
+      "translation": "Ah, na-na-na-na (we're not kids anymore, we're bosses)",
+      "grammar": "The use of \"na-na-na\" is an idiomatic expression, often used to emphasize a point or add rhythm to speech. The sentence's informal tone and colloquial language convey a sense of playfulness and camaraderie."
+    },
+    {
+      "time": 117.10580000001193,
+      "text": "Ah, na-na-na-na, ah, na-na-na-na",
+      "translation": "Ah, na-na-na-na, ah, na-na-na-na",
+      "grammar": "This line is an example of a repetitive phrase used to express excitement or emphasis, often in song lyrics. The repeated \"na-na-na\" is an idiomatic expression that conveys enthusiasm rather than conveying specific meaning."
+    },
+    {
+      "time": 118.08069999998808,
+      "text": "Ah, na-na-na-na (on est plus des gosses, c'est carré)",
+      "translation": "Ah, na-na-na-na (we're not kids anymore, it's serious)",
+      "grammar": "The use of \"na-na-na\" is an idiomatic expression in French, often used to emphasize a point or express enthusiasm, similar to the English phrase \"you know what I mean?\" The sentence also employs the informal \"on\" instead of \"nous\" for \"we\", which is common in spoken French."
+    },
+    {
+      "time": 123.91769999998807,
+      "text": "Quand on était K.O, ils ont retourné leurs vestes",
+      "translation": "When we were knocked out, they changed their tune.",
+      "grammar": "The phrase \"on était\" is a colloquial way to express the past imperfect tense in French, equivalent to \"we were\" or \"we used to be\". This informal construction is often used in spoken language and adds a touch of conversational tone to the sentence."
+    },
+    {
+      "time": 127.15330000001192,
+      "text": "Maintenant on est charo, ils veulent monter dans l'affaire",
+      "translation": "Now we're being targeted, they want to get involved in the business",
+      "grammar": "The phrase \"on est\" is an informal way of saying \"we are\" in French, often used with friends or in casual conversations."
+    },
+    {
+      "time": 130.49209999999405,
+      "text": "Au premier million, pas besoin de warno'",
+      "translation": "At the first million, no need for a warning.",
+      "grammar": "This idiomatic expression uses the present tense to convey a general truth or universal principle, rather than describing a specific event. The phrase \"pas besoin\" is an idiomatic way of saying \"no need\", emphasizing the idea that something is unnecessary or obvious."
+    },
+    {
+      "time": 133.8791999999881,
+      "text": "Parce que c'est risqué, frérot le parano",
+      "translation": "Because it's risky, you paranoid bro",
+      "grammar": "The phrase \"frérot le parano\" is an informal idiomatic expression used to address someone in a playful and teasing manner, implying that the person is overly cautious or suspicious. The use of \"le\" instead of \"tu\" (the formal second-person singular pronoun) adds to the colloquial tone."
+    },
+    {
+      "time": 137.03530000001192,
+      "text": "On a grandi, on a changé, mais qu'on est branché",
+      "translation": "We've grown up, we've changed, but we're still connected",
+      "grammar": "The phrase \"on a\" is an idiomatic expression used to indicate the subject of the sentence and its tense is imperfective, implying a continuous or habitual action in the past."
+    },
+    {
+      "time": 139.737,
+      "text": "Et ma sécu', courir un danger, qui aurait cru",
+      "translation": "And my safety, running a risk, who would have thought",
+      "grammar": "The phrase \"qui aurait cru\" is an idiomatic expression in French, equivalent to \"who would have thought\" in English. It's a subjunctive construction used to express surprise or astonishment at something that has happened."
+    },
+    {
+      "time": 142.92259999999405,
+      "text": "Avec mon bolide sur Paname, la police, moi j'suis un dealeur",
+      "translation": "With my sports car in Paris, the police, me, I'm a drug dealer",
+      "grammar": "The phrase \"moi j'suis\" is an informal way to say \"I am\" in French, using the subject-verb agreement of the first person singular. This idiomatic expression is commonly used in spoken language but may not be suitable for formal writing or professional settings."
+    },
+    {
+      "time": 146.281,
+      "text": "Ma voisine, elle me déteste, Brabus, ça fait du bruit (eh, eh, eh)",
+      "translation": "My neighbor hates me, Brabus is noisy (eh, eh, eh)",
+      "grammar": "The phrase \"ça fait du bruit\" is an idiomatic expression meaning \"it's making a lot of noise\", using the present tense to describe a habitual or ongoing situation."
+    },
+    {
+      "time": 151.21440000000595,
+      "text": "Han-han, toi tu vois que le dernier gamos",
+      "translation": "Han-han, you only see the latest gamos",
+      "grammar": "The phrase \"Han-han\" is an interjection used to express agreement or confirmation, similar to \"yeah\" or \"okay\". The sentence uses the informal \"toi\" instead of \"vous\" to address a single person, which is common in spoken French."
+    },
+    {
+      "time": 154.33390000000597,
+      "text": "Han-han, tu sais pas ça fait combien d'temps qu'on bosse",
+      "translation": "Haha, you have no idea how long we've been working.",
+      "grammar": "The phrase \"Han-han\" is an interjection used to soften the tone of the sentence, similar to saying \"honestly\" or \"to be honest\". The verb \"bosse\" is in the present perfect tense, indicating that the action started in the past and continues up to the present moment."
+    },
+    {
+      "time": 157.59980000001192,
+      "text": "Han-han, elle aime les étoiles donc j'arrive en Rolls",
+      "translation": "Ha-ha, she loves the stars so I'm arriving in a Rolls Royce.",
+      "grammar": "The phrase \"Han-han\" is an interjection used to express amusement or irony, similar to \"Oh yeah\" or \"Right\". The sentence also uses the present perfect tense \"j'arrive\" to convey that the speaker's arrival is imminent."
+    },
+    {
+      "time": 161.7001999999881,
+      "text": "Han-han, mais on est plus des gosses, on est des boss",
+      "translation": "Ha-ha, but we're not kids anymore, we're bosses",
+      "grammar": "The phrase \"on est\" is used to express a collective identity or shared experience, similar to the English idiom \"we are.\" The verb agreement with \"on\" emphasizes the group's perspective."
+    },
+    {
+      "time": 164.53480000001193,
+      "text": "Han-han, toi tu vois que le dernier gamos",
+      "translation": "Han-han, you only see the latest gamos",
+      "grammar": "The phrase \"Han-han\" is an interjection used to express surprise or emphasis, often translated as \"oh\" or \"wow\". The sentence also employs the informal \"toi\" instead of \"vous\" to address a single person in an intimate setting."
+    },
+    {
+      "time": 168.02490000000597,
+      "text": "Han-han, tu sais pas ça fait combien d'temps qu'on bosse",
+      "translation": "Haha, you have no idea how long we've been working.",
+      "grammar": "The phrase \"tu sais pas\" is an idiomatic expression meaning \"you don't know\" or \"you have no idea\". The use of the informal \"tu\" and the negation \"pas\" creates a casual tone."
+    },
+    {
+      "time": 171.23040000000597,
+      "text": "Han-han, elle aime les étoiles donc j'arrive en Rolls",
+      "translation": "Ha-ha, she loves the stars so I'm arriving in a Rolls Royce.",
+      "grammar": "The phrase \"donc\" is an adverbial conjunction used to indicate cause and effect, equivalent to \"so\" or \"therefore\"."
+    },
+    {
+      "time": 174.93380000001193,
+      "text": "Han-han, mais on est plus des gosses, on est des boss",
+      "translation": "Ha-ha, but we're not kids anymore, we're bosses",
+      "grammar": "The phrase \"on est\" is a colloquial way to say \"we are\" in informal French, often used among friends or peers. This usage note highlights the casual tone and relaxed agreement between the speaker and their audience."
+    },
+    {
+      "time": 178.57840000000596,
+      "text": "Ah, na-na-na-na, ah, na-na-na-na",
+      "translation": "Ah, na-na-na-na, ah, na-na-na-na",
+      "grammar": "This line is an example of a repetitive phrase structure, often used in song lyrics to create a catchy and memorable melody. The use of \"na\" as a particle adds a playful touch, while the repetition of \"ah\" creates a sense of rhythm and musicality."
+    },
+    {
+      "time": 183.11840000000595,
+      "text": "Ah, na-na-na-na (c'est carré)",
+      "translation": "Ah, na-na-na-na (it's square)",
+      "grammar": "This line uses a playful idiom to express surprise or irony, with the repetitive \"na-na-na\" mimicking the sound of a record skipping. The phrase \"c'est carré\" is an informal way of saying \"it's square\", using the verb \"être\" in the present tense and agreeing with the subject \"it\"."
+    },
+    {
+      "time": 185.08940000000595,
+      "text": "Ah, na-na-na-na, ah, na-na-na-na",
+      "translation": "Ah, na-na-na-na, ah, na-na-na-na",
+      "grammar": "This line is an example of a repetitive phrase used to express excitement or emphasis, often in informal speech. The repeated \"na-na\" sounds are an idiomatic expression that doesn't translate literally, but conveys enthusiasm and energy."
+    },
+    {
+      "time": 188.08059999999404,
+      "text": "Ah, na-na-na-na",
+      "translation": "Ah, na-na-na-na",
+      "grammar": "This interjection is an example of a repetitive phrase used to express excitement or enthusiasm, with no specific grammatical function."
+    }
+  ]
+}

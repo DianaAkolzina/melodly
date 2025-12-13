@@ -1,0 +1,109 @@
+{
+  "id": "ga_bheir_mi_o_hu_o",
+  "title": "Bheir mi o hu o",
+  "artist": "Traditional (Scottish Gaelic)",
+  "level": "B1 (Intermediate)",
+  "from_language": "gd",
+  "to_language": "en",
+  "audio": "/audio/ga_bheir_mi_o_hu_o.mp3",
+  "duration": 200,
+  "licensing_note": "User-provided full lyrics.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Bheir mi o hu o",
+      "translation": "I will give you a hug.",
+      "grammar": "This line uses the future tense of the verb \"to give\" (bheir) to express a promise or intention, which is common in informal Scottish Gaelic speech. The phrase \"o hu o\" can be translated as \"a hug\" and is an idiomatic expression."
+    },
+    {
+      "time": 3.0,
+      "text": "Bheir mi o hu o hi",
+      "translation": "I will give you a hug.",
+      "grammar": "In Scottish Gaelic, the verb bheir is in the future tense and indicates willingness or intention to perform an action. The phrase \"bheir mi\" can be translated as \"I will\" or \"I'm going to\", conveying a sense of determination."
+    },
+    {
+      "time": 6.0,
+      "text": "Bheir mi o hu o ho",
+      "translation": "I will give you oh hu oh ho",
+      "grammar": "This line uses the Scottish Gaelic future tense, with the verb \"bheir\" agreeing in number and person with the subject \"mi\". The phrase \"o hu o ho\" is an idiomatic expression used to add emphasis or emotional tone."
+    },
+    {
+      "time": 9.0,
+      "text": "Is mi fo bhròn, is tu gam dhìth",
+      "translation": "I am sad, I miss you.",
+      "grammar": "The phrase \"is mi\" and \"is tu\" are idiomatic expressions indicating the speaker's emotional state in the present moment. The verb \"is\" is used to convey a sense of being or existing in this emotional state."
+    },
+    {
+      "time": 13.0,
+      "text": "Is iomadh oidhche, fliuch agus fuar",
+      "translation": "Many nights, wet and cold",
+      "grammar": "The phrase \"iomadh oidhche\" uses the indefinite article \"iomadh\" to indicate a non-specific quantity of nights, equivalent to English \"many\"."
+    },
+    {
+      "time": 16.0,
+      "text": "ghabh mi cuairt, agus mi leam fhìn",
+      "translation": "I took a walk, and I was alone.",
+      "grammar": "The verb \"ghabh\" is in the preterite tense, indicating completed action, while \"mi leam fhìn\" uses the reflexive pronoun \"fhìn\" to emphasize the speaker's solitude."
+    },
+    {
+      "time": 19.0,
+      "text": "gus an d’ràinig mise an t-àite",
+      "translation": "until I reached the place",
+      "grammar": "The verb \"an d'rainig\" is in the past continuous tense, indicating ongoing action until a point in time. The phrase \"mise an t-aite\" can be translated to \"the place\" and agrees with the subject \"gus\", emphasizing the location where the speaker arrived."
+    },
+    {
+      "time": 22.0,
+      "text": "far robh gràdh geal mo chrìdhe",
+      "translation": "where my heart's pure love was",
+      "grammar": "In Scottish Gaelic, the verb \"robh\" is in the past tense and conditional mood, indicating a hypothetical or uncertain situation. The phrase \"mo chrìdhe\" uses the possessive pronoun \"mo\" to emphasize the speaker's emotional connection to their heart."
+    },
+    {
+      "time": 26.0,
+      "text": "Deanainn treabhadh dhut agus buan",
+      "translation": "I would plow for you and always",
+      "grammar": "The verb \"treabhadh\" is in the conditional mood, indicating a hypothetical or uncertain situation. The phrase \"dhut\" uses the possessive pronoun \"dhu\" (your) to express dedication or commitment."
+    },
+    {
+      "time": 29.0,
+      "text": "Chumainn suas thu gun dìth",
+      "translation": "I will keep you up without fail.",
+      "grammar": "The verb \"chumainn\" is in the future tense, indicating a promise or intention to perform an action. The phrase \"gun dìth\" is an idiom meaning \"without fail\" or \"certainly\"."
+    },
+    {
+      "time": 32.0,
+      "text": "Bheirinn às a’ ghrabhail chruaidh",
+      "translation": "I would remove the hard gravel.",
+      "grammar": "This line uses the conditional mood to express a hypothetical action, with the verb \"bheirinn\" (would take) in the first person singular."
+    },
+    {
+      "time": 35.0,
+      "text": "do mo luaidh, teachd an tìr.",
+      "translation": "to my words, the coming of the land.",
+      "grammar": "The phrase \"do mo luaidh\" is a possessive idiom indicating possession or belonging, with \"mo\" being a possessive particle agreeing with the following noun \"luaidh\"."
+    },
+    {
+      "time": 39.0,
+      "text": "Ged nach eil sinn fhathat pòsda",
+      "translation": "Even though we are not married yet",
+      "grammar": "The phrase \"ged nach\" is an idiomatic expression indicating a hypothetical or conditional situation, often translated as \"even if\" or \"although\"."
+    },
+    {
+      "time": 42.0,
+      "text": "Tha mi an dòchas gum bi.",
+      "translation": "I hope so.",
+      "grammar": "This line uses the present tense of the verb \"to be\" in a conditional sentence, implying a wish or desire. The phrase \"an dòchas\" is an idiomatic expression meaning \"hope\"."
+    },
+    {
+      "time": 45.0,
+      "text": "Fhad agus a mhaireas mo dha dhorn",
+      "translation": "As long as my two fists last",
+      "grammar": "The phrase \"mo dha\" is an idiomatic expression meaning \"my two\", where \"dha\" is the genitive form of \"dhà\", meaning \"fist\". The possessive adjective \"mo\" agrees with the noun \"dha\" in number and case."
+    },
+    {
+      "time": 48.0,
+      "text": "cha bhith lòn oirnn a dhìth.",
+      "translation": "We won't need lunch.",
+      "grammar": "The verb \"a dhìth\" is in the future tense, indicating that the speaker's needs are anticipated. The phrase \"cha bhith\" is an idiomatic expression meaning \"won't be needed\", with \"cha\" negating the verb and \"bhith\" implying a sense of necessity or requirement."
+    }
+  ]
+}

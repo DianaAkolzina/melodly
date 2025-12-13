@@ -1,0 +1,301 @@
+{
+  "id": "ru__4",
+  "title": "Царица",
+  "artist": "ANNA ASTI",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_.mp3",
+  "duration": 215,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 8.1565,
+      "text": "Все твои романы — тяжёлый вид спорта",
+      "translation": "All your novels are a tough sport.",
+      "grammar": "This idiomatic expression uses the verb \"быть\" (to be) in the present tense to describe a metaphorical activity, comparing writing novels to participating in a competitive sport."
+    },
+    {
+      "time": 12.25290000000596,
+      "text": "Каждый бывший выводил из зоны комфорта",
+      "translation": "Every ex took me out of my comfort zone",
+      "grammar": "The phrase \"каждый бывший\" is an idiomatic expression, literally meaning \"each former one\", but figuratively referring to every past romantic partner. The verb \"выводил\" is in the third person plural imperfective aspect, describing a habitual action of each ex."
+    },
+    {
+      "time": 16.4935,
+      "text": "Каждый бывший — тренер личностного роста",
+      "translation": "Every ex is a personal growth coach",
+      "grammar": "This idiomatic phrase uses the present tense to describe a general truth, emphasizing that every past experience can be seen as an opportunity for self-improvement. The phrase also employs a figurative comparison between a former partner and a professional coach, highlighting the idea of personal growth."
+    },
+    {
+      "time": 20.60390000000596,
+      "text": "Ты стала хитрее, детка стала взрослой",
+      "translation": "You've become more cunning, baby, you've become an adult.",
+      "grammar": "The phrase \"стала\" is in the feminine singular form of the verb \"быть\" (to be) in the past tense, indicating a completed action. The use of \"детка\" instead of \"ребёнок\" or \"девочка\" emphasizes the affectionate and informal tone of the speaker's address."
+    },
+    {
+      "time": 24.819,
+      "text": "И на этой дискотеке ты не плачешь под утро",
+      "translation": "And at this disco you don't cry in the morning",
+      "grammar": "The phrase \"ты не плачешь\" is in the present tense, indicating a habitual or general truth about not crying at a disco. The use of \"не\" negates the verb \"плачешь\", emphasizing the contrast between the usual and the situation described."
+    },
+    {
+      "time": 28.77080000001192,
+      "text": "Под любимые треки, маскируя тушь пудрой",
+      "translation": "Listening to your favorite tracks, masking your mascara with powder",
+      "grammar": "The verb \"маскируя\" is in the present participle form, indicating ongoing action, and its usage is idiomatic, suggesting a habitual or continuous behavior."
+    },
+    {
+      "time": 33.008799999982116,
+      "text": "Своё сердце обточила в острые, как нож, грани",
+      "translation": "She sharpened her heart into knife-sharp edges",
+      "grammar": "The phrase \"обточила\" is in the past tense and has a figurative meaning, implying intense emotional experience or self-reflection, rather than literal sharpening. The idiom \"как нож\" emphasizes the sharpness of one's emotions."
+    },
+    {
+      "time": 37.06209999999404,
+      "text": "И оно превратилось в драгоценный, но камень",
+      "translation": "And it turned into a precious stone",
+      "grammar": "The verb \"превратилось\" is in the past passive voice, indicating that the subject (it) underwent a change without specifying who or what caused it."
+    },
+    {
+      "time": 42.94940000000596,
+      "text": "Теперь он пьяный по твоей вине",
+      "translation": "Now he's drunk because of you.",
+      "grammar": "The phrase \"пьяный по твоей вине\" uses the idiomatic expression \"по вине\" to indicate causality, implying that someone's actions or state are a direct result of another person's actions."
+    },
+    {
+      "time": 47.27859999999404,
+      "text": "Царица, царица",
+      "translation": "Queen, queen",
+      "grammar": "This repetition of \"queen\" emphasizes its importance and is an example of a rhetorical device called anaphora, which creates a sense of rhythm and stress."
+    },
+    {
+      "time": 50.7045,
+      "text": "Один лишь взгляд, и лютый холод по спине",
+      "translation": "Just one look and a fierce chill runs down my spine",
+      "grammar": "The phrase \"лютый холод\" is an idiom translating to \"a fierce chill\". It's used to express sudden fear or unease."
+    },
+    {
+      "time": 54.77069999998808,
+      "text": "Он просто не может в тебе не раствориться",
+      "translation": "He just can't help but dissolve in you.",
+      "grammar": "The phrase \"не может\" is an idiomatic expression indicating inability or impossibility, rather than a literal statement about capability. The verb \"раствориться\" is in the infinitive form and functions as a predicate nominative, emphasizing the idea of complete absorption."
+    },
+    {
+      "time": 59.054799999982116,
+      "text": "Мальчик поплыл, мальчик попал",
+      "translation": "The boy swam, the boy got caught",
+      "grammar": "This idiom uses the verb \"поплыл\" (swam) in the past tense to describe a completed action, and then immediately switches to the present participle \"попал\" (getting caught) to convey the ongoing consequence of that action."
+    },
+    {
+      "time": 62.98769999998808,
+      "text": "А как он стесняется, а как он целуется",
+      "translation": "And how shy he is, and how he kisses",
+      "grammar": "This line employs a common Russian idiomatic expression, where two clauses with different verb tenses (\"стесняется\" - present tense of shame) and moods (\"целуется\" - passive voice of kissing) are juxtaposed to convey a contrastive idea."
+    },
+    {
+      "time": 67.23729999998211,
+      "text": "Мальчик поплыл прям в центре зала",
+      "translation": "The boy swam right in the center of the hall",
+      "grammar": "This line uses the present participle \"поплыл\" (popped up) to describe an action that happened suddenly, emphasizing its unexpectedness. The phrase \"в центре зала\" (in the center of the hall) is a fixed expression used to convey the boy's bold or reckless behavior."
+    },
+    {
+      "time": 71.2845,
+      "text": "Пусть он танцует, пока танцуется",
+      "translation": "Let him dance while he dances",
+      "grammar": "This idiom uses the present tense to convey a sense of permission or allowance, rather than describing an ongoing action. The phrase \"пока танцуется\" (while he dances) is a subordinate clause in the present continuous tense, emphasizing the simultaneous nature of the actions."
+    },
+    {
+      "time": 93.32590000000596,
+      "text": "Выдох и вдох, выдох, вдох",
+      "translation": "Exhale and inhale, exhale, inhale",
+      "grammar": "This line employs a common idiomatic expression in Russian, where the verb \"выдох\" (exhale) and \"вдох\" (inhale) are used to convey a sense of relaxation or calming down, rather than describing actual breathing actions."
+    },
+    {
+      "time": 95.19279999998211,
+      "text": "Мальчик, дыши, ты не так уж и плох",
+      "translation": "Boy, breathe, you're not that bad.",
+      "grammar": "The phrase \"ты не так уж и плох\" uses the idiomatic expression \"не так уж и\" to soften the criticism, implying \"not that terrible\". The sentence is in the imperative mood, with a polite tone."
+    },
+    {
+      "time": 97.13459999999404,
+      "text": "Этой ночью всё так круто, так аутентично",
+      "translation": "This night is so cool, so authentic.",
+      "grammar": "The phrase \"всё так круто\" is an idiomatic expression conveying strong approval or enthusiasm, equivalent to saying \"it's amazing\" or \"it's fantastic\". The verb \"быть\" (to be) is implied in the translation, but not explicitly stated in the original Russian sentence."
+    },
+    {
+      "time": 99.33990000000595,
+      "text": "Ты такой милый, ты такой симпатичный",
+      "translation": "You are so sweet, you are so cute",
+      "grammar": "The phrase \"ты такой\" is an idiomatic expression used to emphasize the speaker's affection or admiration for someone, with \"той\" agreeing in number and case with the noun it modifies."
+    },
+    {
+      "time": 101.35269999998808,
+      "text": "Глаза в глаза, басы по низам",
+      "translation": "Eye to eye, bass to bass",
+      "grammar": "This idiom uses a metaphorical expression to convey a sense of directness and harmony, similar to the English phrase \"on the same wavelength\". The verb tense is unspecified, but the mood is informal and conversational."
+    },
+    {
+      "time": 103.38609999999404,
+      "text": "Да хоть вылезь из кожи, но тебе не по зубам",
+      "translation": "You can try your best, but you can't handle it.",
+      "grammar": "The phrase \"но тебе не по зубам\" is an idiomatic expression indicating that someone's efforts are futile or insufficient. The verb \"быть по зубам\" literally means \"to be in one's teeth,\" but here it figuratively means \"to be manageable\" or \"to be within one's capabilities."
+    },
+    {
+      "time": 105.4865,
+      "text": "У девочек от зависти перекосило лица",
+      "translation": "The girls' faces twisted with envy",
+      "grammar": "This idiomatic phrase uses the verb \"перекосило\" in the passive voice, conveying a sense of sudden and intense emotional change. The use of \"от зависти\" indicates that the cause of this transformation is envy."
+    },
+    {
+      "time": 107.58679999998212,
+      "text": "Ведь в этом зале каждый в курсе, кто тут царица",
+      "translation": "After all, in this room everyone knows who the queen is.",
+      "grammar": "The phrase \"Ведь в этом зале\" translates to \"After all\" and indicates a concession or an acknowledgement of a fact, often used to soften the tone or express irony."
+    },
+    {
+      "time": 112.04529999998212,
+      "text": "И на этой dance-площадке тебе больше не грустно",
+      "translation": "And on this dance floor you are no longer sad",
+      "grammar": "The phrase \"тебе\" is a possessive pronoun in the nominative case, agreeing with the subject \"you\". The use of \"тебе\" instead of \"тому\" (dative) emphasizes the speaker's direct address and creates an intimate tone."
+    },
+    {
+      "time": 115.73619999998807,
+      "text": "Ты с ним вновь сыграешь в прятки, и он проиграет в чувства",
+      "translation": "You will play hide and seek with him again, and he will lose in feelings.",
+      "grammar": "The verb \"сыграешь\" is in the future tense, indicating a planned or intended action. The idiom \"в прятки\" translates to \"hide and seek\", which is a common childhood game."
+    },
+    {
+      "time": 119.87,
+      "text": "Он не ожидал последствий, не просчитывал риски",
+      "translation": "He didn't expect the consequences and didn't calculate the risks.",
+      "grammar": "The use of the past tense \"не ожидал\" (didn't expect) and \"не просчитывал\" (didn't calculate) indicates a completed action in the past, emphasizing the speaker's lack of preparation."
+    },
+    {
+      "time": 124.18590000000596,
+      "text": "Ты уйдёшь по-королевски и уедешь по-английски",
+      "translation": "You will leave like a king and you will leave like an Englishman.",
+      "grammar": "The phrase \"уйдёшь\" and \"уедешь\" are in the future tense, emphasizing the speaker's prediction of the person's behavior. The idiomatic expressions \"по-королевски\" and \"по-английски\" add a touch of humor, implying that the person will leave with grandeur or sophistication."
+    },
+    {
+      "time": 129.7575,
+      "text": "Теперь он пьяный по твоей вине",
+      "translation": "Now he's drunk because of you.",
+      "grammar": "The phrase \"пьяный по твоей вине\" uses the idiomatic expression \"по вине\" to indicate causality, equivalent to \"because of\" in English. The verb \"быть пьяным\" is in the present perfect tense, implying a completed action with ongoing consequences."
+    },
+    {
+      "time": 133.84869999998807,
+      "text": "Царица, царица",
+      "translation": "Queen, queen",
+      "grammar": "The repetition of \"царица\" (queen) emphasizes its importance and creates a sense of majesty, similar to the English idiom \"King, king\"."
+    },
+    {
+      "time": 137.35169999998809,
+      "text": "Один лишь взгляд, и лютый холод по спине",
+      "translation": "Just one look and a fierce chill runs down my spine",
+      "grammar": "The phrase \"лютый холод\" is an idiom that conveys strong fear or unease, rather than a literal cold temperature. The verb \"runs\" is in the present continuous tense, indicating a sudden and intense sensation."
+    },
+    {
+      "time": 141.491,
+      "text": "Он просто не может в тебе не раствориться",
+      "translation": "He just can't help but dissolve in you.",
+      "grammar": "The phrase \"не может в тебе не\" is an idiomatic expression conveying the speaker's inability to resist someone, implying a strong emotional connection. The verb \"раствориться\" is in the infinitive form, indicating the speaker's emotional state rather than describing a physical action."
+    },
+    {
+      "time": 145.719,
+      "text": "Мальчик поплыл, мальчик попал",
+      "translation": "The boy swam, the boy got caught",
+      "grammar": "This idiom uses the same verb form to convey a contrast between two actions, emphasizing the unexpected outcome. The repeated use of \"мальчик\" (boy) in different sentences creates a sense of parallelism and emphasizes the similarity between the two events."
+    },
+    {
+      "time": 149.80979999998212,
+      "text": "А как он стесняется, а как он целуется",
+      "translation": "And how shy he is, and how he kisses",
+      "grammar": "This idiom uses the verb \"стесняться\" (to be shy) in a rhetorical question to emphasize the speaker's surprise at someone's contrasting behaviors. The use of \"а как\" (and how) creates a sense of wonder and curiosity."
+    },
+    {
+      "time": 153.95790000000596,
+      "text": "Мальчик поплыл прям в центре зала",
+      "translation": "The boy swam right in the center of the hall",
+      "grammar": "In Russian, the verb \"поплыл\" (popped up) is in the past tense and imperfective aspect, indicating an ongoing action at a specific point in the past. This usage is idiomatic, implying sudden movement or action."
+    },
+    {
+      "time": 158.04159999999405,
+      "text": "Пусть он танцует, пока танцуется",
+      "translation": "Let him dance while he dances",
+      "grammar": "This idiom uses the present tense to convey a general permission or allowance, rather than a specific instruction. The phrase \"пока танцуется\" (while he dances) is an example of a subordinate clause in the present continuous tense, indicating simultaneous action."
+    },
+    {
+      "time": 163.46059999999403,
+      "text": "Выдох и вдох, выдох, вдох",
+      "translation": "Exhale and inhale, exhale, inhale",
+      "grammar": "This line uses the present participle of the verb \"to breathe\" to create a sense of continuous action, emphasizing the rhythm of breathing. The repetition of \"выдох и вдох\" (exhale and inhale) also employs an idiomatic expression to convey the idea of harmonious balance."
+    },
+    {
+      "time": 165.38279999998213,
+      "text": "Мальчик, дыши, ты не так уж и плох",
+      "translation": "Boy, breathe, you're not that bad.",
+      "grammar": "The phrase \"ты не так уж и плох\" uses the idiomatic expression \"не так уж и\" to soften the criticism, implying \"not that terrible\". The sentence is in the imperative mood, with a polite tone."
+    },
+    {
+      "time": 167.47790000000597,
+      "text": "Этой ночью всё так круто, так аутентично",
+      "translation": "This night is so cool, so authentic.",
+      "grammar": "The phrase \"всё так круто\" is an idiomatic expression meaning \"everything is great\" or \"it's amazing\", using the adverbial particle \"так\" to emphasize the intensity of the feeling."
+    },
+    {
+      "time": 169.52040000000596,
+      "text": "Ты такой милый, ты такой симпатичный",
+      "translation": "You are so sweet, you are so cute",
+      "grammar": "This line uses the informal second-person singular pronoun \"ты\" (ty) to address someone in a familiar or affectionate tone. The repetition of \"ты\" emphasizes the speaker's endearment and creates an intimate atmosphere."
+    },
+    {
+      "time": 171.6206999999881,
+      "text": "Глаза в глаза, басы по низам",
+      "translation": "Eye to eye, bass to bass",
+      "grammar": "This idiomatic phrase uses a metaphorical comparison between two entities (eyes and voices) to convey a sense of harmony or synchronization, rather than describing a literal physical connection."
+    },
+    {
+      "time": 173.65409999999403,
+      "text": "Да хоть вылезь из кожи, но тебе не по зубам",
+      "translation": "You can try your best, but you can't handle it.",
+      "grammar": "The phrase \"но тебе не по зубам\" is an idiomatic expression indicating that someone's abilities or capacity are insufficient for a task. The verb \"быть по зубам\" literally means \"to be in one's teeth\", figuratively meaning \"to be manageable\" or \"to be within one's capabilities\"."
+    },
+    {
+      "time": 175.70269999998808,
+      "text": "У девочек от зависти перекосило лица",
+      "translation": "The girls' faces twisted with envy",
+      "grammar": "This idiom \"перекосило лица\" literally means \"twisted faces\" and figuratively conveys strong emotions like envy or jealousy, often in a sudden or intense manner."
+    },
+    {
+      "time": 177.83729999998212,
+      "text": "Ведь в этом зале каждый в курсе, кто тут царица",
+      "translation": "After all, in this room everyone knows who the queen is.",
+      "grammar": "The phrase \"Ведь в этом зале\" (After all) is an idiomatic expression used to emphasize a point or introduce a conclusion, equivalent to English \"as it turns out\" or \"in fact\"."
+    },
+    {
+      "time": 195.64609999999405,
+      "text": "Мальчик поплыл, мальчик попал",
+      "translation": "The boy swam, the boy got caught",
+      "grammar": "This idiom uses the verb \"поплыл\" in its figurative sense to mean \"to get into trouble\", rather than its literal meaning of \"to swim\". The repetition of \"мальчик\" emphasizes the idea that the same person is involved."
+    },
+    {
+      "time": 199.66509999999403,
+      "text": "А как он стесняется, а как он целуется",
+      "translation": "And how shy he is, and how he kisses",
+      "grammar": "This line employs a common Russian idiom, where two clauses with different verb tenses (\"стесняется\" - present tense of shame) and aspects (\"целуется\" - imperfective aspect of kissing) are used to convey a contrast between the speaker's perception of someone's shyness and their romantic behavior."
+    },
+    {
+      "time": 203.71659999999403,
+      "text": "Мальчик поплыл прям в центре зала",
+      "translation": "The boy swam right in the center of the hall",
+      "grammar": "This line uses the present participle \"поплыл\" (swam) to describe an action that occurred suddenly, emphasizing its unexpectedness and suddenness."
+    },
+    {
+      "time": 207.89059999999404,
+      "text": "Пусть он танцует, пока танцуется",
+      "translation": "Let him dance while he dances",
+      "grammar": "This sentence uses the subjunctive mood to express a hypothetical situation, allowing the speaker to make a wish without committing to its actual occurrence. The phrase \"пока танцуется\" is an idiomatic expression meaning \"while it's happening\", rather than \"as long as it happens\"."
+    }
+  ]
+}

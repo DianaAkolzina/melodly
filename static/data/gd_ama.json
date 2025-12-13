@@ -1,0 +1,397 @@
+{
+  "id": "gd_ama",
+  "title": "Ama",
+  "artist": "Noizy feat. Era Istrefi",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "sq",
+  "to_language": "en",
+  "audio": "/audio/gd_ama.mp3",
+  "duration": 185,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Baby, jo, jo, nuk o' te pija",
+      "translation": "Baby, no, no, I didn't drink.",
+      "grammar": "The phrase \"jo\" is an interjection used to express negation or refusal, similar to the English word \"no\". The verb \"pija\" is in the past tense, indicating that the speaker did not engage in the action of drinking."
+    },
+    {
+      "time": 2.712,
+      "text": "Nëse jo kjo, ça o' dashnia?",
+      "translation": "If not this, what about love?",
+      "grammar": "The phrase \"ça o'\" is an idiomatic expression used to seek alternative options or solutions, similar to \"what about\" in English. The sentence is in the interrogative mood and uses the conditional tense \"nëse\" (if) to introduce a hypothetical scenario."
+    },
+    {
+      "time": 5.08,
+      "text": "Ti m'ke met n'kry si melodia",
+      "translation": "You're stuck in my head like a melody.",
+      "grammar": "The phrase \"Ti m'ke\" is an idiomatic expression indicating that someone or something has become stuck or fixated on one's mind, with the verb \"m'ke\" being in the imperfective aspect and expressing continuous action."
+    },
+    {
+      "time": 8.136,
+      "text": "Je tu m'njek kudo sikur hija",
+      "translation": "You follow me everywhere like a shadow.",
+      "grammar": "The phrase \"Je tu\" is an idiomatic expression in Albanian, equivalent to the English idiom \"like a shadow\", conveying constant and unwavering presence. The verb \"m'njek\" is in the present continuous tense, emphasizing the ongoing nature of this following behavior."
+    },
+    {
+      "time": 10.848,
+      "text": "Baby, jo, jo, nuk o' te pija",
+      "translation": "Baby, no, no, I didn't drink.",
+      "grammar": "The phrase \"jo\" is an interjection used to express negation or refusal, similar to the English word \"no\". The use of \"jo\" in this context emphasizes the speaker's denial of having drunk."
+    },
+    {
+      "time": 13.56,
+      "text": "Nëse jo kjo, ça o' dashnia?",
+      "translation": "If not this, what about love?",
+      "grammar": "The phrase \"ça o'\" is an idiomatic expression used to seek alternative solutions or options, similar to \"what else\" in English. The sentence is written in the rhetorical question form, which is common in Albanian and other languages."
+    },
+    {
+      "time": 15.928,
+      "text": "Ti m'ke met n'kry si melodia",
+      "translation": "You're stuck in my head like a melody.",
+      "grammar": "The phrase \"Ti m'ke\" is an idiomatic expression used to convey the idea of being stuck or obsessed with something, similar to English phrases such as \"it's stuck in my head\" or \"I just can't get it out of my mind\"."
+    },
+    {
+      "time": 18.984,
+      "text": "Je tu m'njek kudo sikur hija",
+      "translation": "You follow me everywhere like a shadow.",
+      "grammar": "The phrase \"sikur\" is an idiomatic expression meaning \"like a shadow\", conveying the idea of constant and devoted companionship."
+    },
+    {
+      "time": 21.696,
+      "text": "Ça bon? M'shtin m'u lodh, sikur cardio",
+      "translation": "What's up? I feel tired, like cardio",
+      "grammar": "The phrase \"Ça bon?\" is an informal greeting and inquiry, equivalent to \"How are you?\" in English, using the present tense and the idiomatic expression \"ça\" (meaning \"what\" or \"how\") with the adverb \"bon\" (meaning \"good\")."
+    },
+    {
+      "time": 25.096,
+      "text": "Po ti kudo, baby, sikur radio",
+      "translation": "You're everywhere, baby, like a radio",
+      "grammar": "The phrase \"sikur\" is an idiomatic expression meaning \"like\" or \"as,\" used to compare two things. It's often translated as \"like\" in English, and its usage is informal and conversational."
+    },
+    {
+      "time": 27.464,
+      "text": "Rich boy, kom pare si casino",
+      "translation": "Rich boy, I saw it like a casino",
+      "grammar": "The phrase \"kom pare\" is an idiomatic expression in Albanian, equivalent to \"to see something like\" or \"to compare something to\"."
+    },
+    {
+      "time": 29.832,
+      "text": "I'm a gangsta që për ty rrezikon",
+      "translation": "I'm a gangsta who risks for you.",
+      "grammar": "The phrase \"që për ty\" is an idiomatic expression indicating the purpose or reason, equivalent to \"who risks for you\" in English."
+    },
+    {
+      "time": 32.888,
+      "text": "Hajde, boni kejt, baby, fuck it, hin all in",
+      "translation": "Come on, fuck it, baby, fuck it, hin all in",
+      "grammar": "This informal phrase uses the imperative mood to express a sudden decision or permission, with \"hajde\" equivalent to \"come on\" and \"hin\" implying a sense of unity or inclusivity. The repeated use of \"fuck it\" is an idiomatic expression conveying a carefree attitude."
+    },
+    {
+      "time": 36.288,
+      "text": "Mos e bo fold, baby, bone ti call-in",
+      "translation": "Don't fold, baby, you got the call",
+      "grammar": "The phrase \"bone ti call-in\" is an idiomatic expression in Albanian, equivalent to English \"you've got the call\", using the informal second-person singular pronoun \"ti\" and the verb \"call-in\" in the imperative mood."
+    },
+    {
+      "time": 39.689,
+      "text": "Lookin' so good, po thu: \"Fire je, mami!\"",
+      "translation": "Lookin' so good, you're saying, \"You're welcome, mom!\"",
+      "grammar": "The phrase \"po thu\" is an idiomatic expression meaning \"you're saying\", used to introduce a quote. The verb tense remains present in the translation, as it does in the original Albanian sentence."
+    },
+    {
+      "time": 42.745,
+      "text": "Papi's so good, veç për to o' punani",
+      "translation": "Papi's so good, just for the work",
+      "grammar": "The phrase \"veç për\" is an Albanian idiom translating to \"just for\" in English, indicating the purpose or reason."
+    },
+    {
+      "time": 46.145,
+      "text": "Dhipi wet, drippin' wet, nuk o' funny, mos kesh",
+      "translation": "Drippin' wet, drippin' wet, not funny, don't have it",
+      "grammar": "The phrase \"drippin' wet\" is an idiomatic expression used to emphasize the intensity of being extremely wet or soaked."
+    },
+    {
+      "time": 49.545,
+      "text": "Kom cash, qiky cash, bone splash, mos ma tesh",
+      "translation": "Come on cash, qiky cash, bone splash, don't touch me.",
+      "grammar": "This line uses informal imperative mood and idiomatic expressions to convey a sense of urgency and frustration, with the speaker asking someone to leave them alone."
+    },
+    {
+      "time": 52.945,
+      "text": "Nëse o' broke, s'ka ça me than",
+      "translation": "If it breaks, there's nothing to say.",
+      "grammar": "In Albanian, the phrase \"s'ka\" is a contraction of \"nuk ka\", which means \"there isn't\" or \"there's not\", and is used to express negation in informal speech. In this context, it indicates that if something breaks, there's no point in saying anything about it."
+    },
+    {
+      "time": 56.001,
+      "text": "Nëse o' rich, me gojën nuk fol",
+      "translation": "If you're rich, you don't speak with your mouth",
+      "grammar": "This idiomatic expression uses the present tense to convey a general truth about wealthy people's behavior. The phrase \"nuk fol\" is an idiom meaning \"don't speak\" rather than literally not speaking with one's mouth."
+    },
+    {
+      "time": 58.713,
+      "text": "Tik-tak, tik-tak, a po don me beat that?",
+      "translation": "Tick tock, tick tock, do you want me to beat that?",
+      "grammar": "The phrase \"do you want me to\" is an idiomatic expression used to ask for permission or agreement, whereas the verb \"beat\" has a figurative meaning of surpassing or outdoing something."
+    },
+    {
+      "time": 62.458,
+      "text": "Si snack, si snack, a po don me eat that?",
+      "translation": "As a snack, as a snack, do you want me to eat that?",
+      "grammar": "This line uses the present tense and informal tone, with the idiomatic expression \"si snack\" meaning \"as a snack\" or \"for a snack\", emphasizing the speaker's willingness to accommodate the listener's request."
+    },
+    {
+      "time": 66.202,
+      "text": "Nuk e ka lehtë, e boj m'u lodh",
+      "translation": "It's not easy, I'm tired of it.",
+      "grammar": "The phrase \"e boj\" is an idiomatic expression meaning \"I'm tired of\" or \"I've had enough of\", using the verb \"boj\" in the first person singular imperfective tense to convey a sense of ongoing frustration."
+    },
+    {
+      "time": 69.602,
+      "text": "Nëse s'ka kondicion e lo",
+      "translation": "If there is no condition, leave.",
+      "grammar": "The phrase \"s'ka\" is a contraction of \"s'het\" meaning \"there is not\" or \"it's not\", used to negate the existence of something. This idiomatic expression is in the present tense and imperative mood, instructing someone to take action if a certain condition does not exist."
+    },
+    {
+      "time": 71.97,
+      "text": "Ama, ama",
+      "translation": "Mom, mom",
+      "grammar": "This interjection \"Ama\" is an informal way to address one's mother in Albanian, equivalent to \"Mom\" in English."
+    },
+    {
+      "time": 73.17,
+      "text": "Baby, trupin tan ti falma",
+      "translation": "Baby, thank you for your body.",
+      "grammar": "The phrase \"trupin tan\" is an idiomatic expression in Albanian, equivalent to saying \"thank you very much\" or \"thanks a lot\"."
+    },
+    {
+      "time": 75.194,
+      "text": "It's so hot, baby, ti kur po m'njek",
+      "translation": "It's so hot, baby, when you kiss me",
+      "grammar": "The phrase \"ti kur\" is an idiomatic expression meaning \"when you do something to me\", using the verb \"kur\" in the subjunctive mood. This construction implies a sense of intimacy and emotional involvement."
+    },
+    {
+      "time": 78.938,
+      "text": "Mos u nal, jo, me mu, s'e ki lehtë",
+      "translation": "Don't mess with me, no, it's not easy.",
+      "grammar": "This line uses the imperative mood to convey a warning or prohibition, with the verb \"nal\" (mess) in the second person singular form \"u\" to address someone directly."
+    },
+    {
+      "time": 82.682,
+      "text": "Baby, ti ama, ama",
+      "translation": "Baby, you mom, mom",
+      "grammar": "This line uses the informal and affectionate way of addressing someone in Albanian (\"Baby\"), followed by a literal translation of the mother's love (\"ti ama\" means \"you mom\" or \"you are loved like a mother\")."
+    },
+    {
+      "time": 84.362,
+      "text": "Baby, trupin tan ti falma",
+      "translation": "Baby, thank you for your body.",
+      "grammar": "This line uses the informal and affectionate vocative phrase \"Baby\" to address someone, followed by a literal translation of Albanian idiomatic expression \"trupin tan ti\" which means \"your body\" in English."
+    },
+    {
+      "time": 86.386,
+      "text": "It's so hot, baby, ti kur po m'njek",
+      "translation": "It's so hot, baby, when you kiss me",
+      "grammar": "The phrase \"ti kur\" is an idiomatic expression meaning \"when you do something to me\", using the subjunctive mood and the pronoun \"ti\" (you) in the object position."
+    },
+    {
+      "time": 90.13,
+      "text": "Mos u nal, jo, me mu, nuk e ki lehtë",
+      "translation": "Don't be silly, no, with me, it's not easy.",
+      "grammar": "The phrase \"Mos u nal\" is an idiomatic expression in Albanian, equivalent to the English idiom \"Don't be silly\". It uses the imperative mood and second-person singular pronoun \"u\" to convey a sense of playful reprimand."
+    },
+    {
+      "time": 93.875,
+      "text": "Hey, fuck your ex, I take over",
+      "translation": "Hey, fuck your ex, I take over",
+      "grammar": "This line uses informal language and an idiomatic expression to convey strong emotions. The imperative \"fuck\" is used in a figurative sense to emphasize the speaker's confidence and assertiveness, rather than literally expressing aggression or hostility."
+    },
+    {
+      "time": 96.587,
+      "text": "Let me jump on top, and it's game over",
+      "translation": "Let me jump on top, and it's game over",
+      "grammar": "The phrase \"game over\" is an idiomatic expression meaning the situation has become hopeless or impossible to continue."
+    },
+    {
+      "time": 100.331,
+      "text": "Calm down, baby, bend over",
+      "translation": "Calm down, baby, bend over.",
+      "grammar": "This line uses an imperative mood to give a direct instruction, with the idiomatic expression \"calm down\" conveying a sense of urgency."
+    },
+    {
+      "time": 102.355,
+      "text": "Top boy shit, no leftover",
+      "translation": "Top boy shit, no leftovers",
+      "grammar": "This idiom uses the present participle \"-ing\" form to emphasize the speaker's pride in being a top boy, conveying a sense of boasting or bragging."
+    },
+    {
+      "time": 104.379,
+      "text": "Këta e dinë, kur vjen Zini, vjen belaja",
+      "translation": "These people know that when Zini comes, trouble comes.",
+      "grammar": "The phrase \"vjen belaja\" is an idiomatic expression meaning \"trouble comes\", using the present tense to convey a sense of inevitability."
+    },
+    {
+      "time": 107.435,
+      "text": "I'm a king, but I need a queen te kalaja",
+      "translation": "I'm a king, but I need a queen in the castle",
+      "grammar": "The phrase \"te kalaja\" is an idiomatic expression meaning \"in the castle\", using the preposition \"te\" to indicate location."
+    },
+    {
+      "time": 111.523,
+      "text": "Fuck 'em all, nuk ma nin se ça thotë dynjaja",
+      "translation": "Fuck 'em all, I don't care what the world says",
+      "grammar": "This line employs informal spoken English and a strong emotional tone, using the idiomatic expression \"fuck 'em all\" to convey defiance and disregard. The phrase is in the present tense, with no specific subject-verb agreement required due to its conversational nature."
+    },
+    {
+      "time": 115.267,
+      "text": "Se pa ty kom ngri, si me m'rrok për maja",
+      "translation": "Because without you I'm frozen, how can you hold me by the top?",
+      "grammar": "This line uses the present continuous tense (m'rrok) to convey a sense of emotional numbness or being stuck in a situation. The phrase \"pa ty\" is an idiomatic expression meaning \"without you\"."
+    },
+    {
+      "time": 119.356,
+      "text": "Hey, I smell like money, po vjen era",
+      "translation": "Hey, I smell like money, the wind is coming",
+      "grammar": "The phrase \"po vjen era\" is an idiomatic expression in Albanian, literally meaning \"the wind is coming\", but figuratively conveying a sense of prosperity or good fortune."
+    },
+    {
+      "time": 122.412,
+      "text": "All eyes on me kur unë hyj te dera",
+      "translation": "All eyes on me when I walk in the door",
+      "grammar": "The phrase \"all eyes on me\" is an idiom, conveying attention and focus. The verb \"walk\" is in the present continuous tense, indicating ongoing action."
+    },
+    {
+      "time": 125.812,
+      "text": "Got that baddest gyal, është e nxehtë si vera",
+      "translation": "Got that baddest gyal, it's hot as summer",
+      "grammar": "The phrase \"është e nxehtë\" is an idiomatic expression in Albanian, literally meaning \"it is hot\", but figuratively conveying the idea of something being intense or passionate."
+    },
+    {
+      "time": 129.212,
+      "text": "Du me pa se ça bon kur mbyllet perdja",
+      "translation": "I want to see what he does when the curtain closes.",
+      "grammar": "The phrase \"kur mbyllet perdja\" is an idiomatic expression indicating a specific point in time, similar to \"when the curtain falls\". The verb \"perdja\" is in the present continuous tense, describing an ongoing action."
+    },
+    {
+      "time": 132.612,
+      "text": "Tranquila, ain't nobody realer",
+      "translation": "Tranquila, ain't nobody realer",
+      "grammar": "This line uses the informal expression \"ain't\" to convey a casual tone and emphasis, equivalent to saying \"truly\" or \"honestly\". The sentence is in the present tense, with no specific agreement issues."
+    },
+    {
+      "time": 134.636,
+      "text": "King Zin, kur hyn mren' si Godzilla",
+      "translation": "King Zin, when you enter mren' like Godzilla",
+      "grammar": "This line uses the present continuous tense to express an action that is in progress or has a sense of continuity. The phrase \"when you enter\" is an idiomatic expression indicating a specific situation or condition."
+    },
+    {
+      "time": 137.348,
+      "text": "Pussy killer, Richard Miller",
+      "translation": "Pussy killer, Richard Miller",
+      "grammar": "This line is an interjection, used to express strong emotions or emphasis. The phrase \"pussy killer\" is likely an idiom or slang expression, not meant to be taken literally."
+    },
+    {
+      "time": 139.028,
+      "text": "She a ten-ten edhe duket si diva",
+      "translation": "She's a ten-ten and she looks like a diva",
+      "grammar": "The phrase \"edhe\" is an Albanian idiomatic expression meaning \"and\" or \"too,\" used to emphasize the preceding statement, similar to English phrases such as \"not only... but also."
+    },
+    {
+      "time": 142.084,
+      "text": "Ama, ama",
+      "translation": "Mom, mom",
+      "grammar": "This interjection uses the vocative case to address someone directly, and the repetition emphasizes urgency or strong emotions."
+    },
+    {
+      "time": 143.284,
+      "text": "Baby, trupin tan ti falma",
+      "translation": "Baby, thank you for your body.",
+      "grammar": "This line uses the informal and affectionate vocative \"Baby\" to address someone, followed by a literal translation of Albanian idiomatic expression \"trupin tan ti\" which means \"your body\" in English."
+    },
+    {
+      "time": 145.308,
+      "text": "It's so hot, baby, ti kur po m'njek",
+      "translation": "It's so hot, baby, when you kiss me",
+      "grammar": "The phrase \"ti kur\" is an idiomatic expression meaning \"when you do something to me\", using the verb \"kur\" in its figurative sense. The sentence remains in the present tense, describing a general state of being."
+    },
+    {
+      "time": 149.052,
+      "text": "Mos u nal, jo, me mu, s'e ki lehtë",
+      "translation": "Don't mess with me, no, it's not easy.",
+      "grammar": "The phrase \"Mos u nal\" is an idiomatic expression conveying a warning or threat, using the imperative mood to emphasize the speaker's determination. The verb \"u nal\" agrees in number and person with the subject \"me\", indicating a sense of unity and resolve."
+    },
+    {
+      "time": 152.796,
+      "text": "Baby, ti ama, ama",
+      "translation": "Baby, you mom, mom",
+      "grammar": "This line uses the informal and affectionate way of addressing someone in Albanian (\"Baby\"), followed by a literal translation of \"you love\" (ti ama), which is an idiomatic expression meaning \"you're so loving\"."
+    },
+    {
+      "time": 154.476,
+      "text": "Baby, trupin tan ti falma",
+      "translation": "Baby, thank you for your body.",
+      "grammar": "The phrase \"trupin tan\" is an idiomatic expression in Albanian, equivalent to saying \"thank you very much\" or \"thanks a lot\"."
+    },
+    {
+      "time": 156.5,
+      "text": "It's so hot, baby, ti kur po m'njek",
+      "translation": "It's so hot, baby, when you kiss me",
+      "grammar": "The phrase \"ti kur\" is an idiomatic expression in Albanian, equivalent to the English idiom \"when you do something\", conveying a sense of intimacy and emotional connection."
+    },
+    {
+      "time": 160.244,
+      "text": "Mos u nal, jo, me mu, nuk e ki lehtë",
+      "translation": "Don't be silly, no, with me, it's not easy.",
+      "grammar": "The phrase \"Mos u nal\" is an idiomatic expression in Albanian, equivalent to the English idiom \"Don't be silly\". It uses the imperative mood to convey a sense of warning or caution."
+    },
+    {
+      "time": 163.988,
+      "text": "Baby, jo, jo, nuk o' te pija",
+      "translation": "Baby, no, no, I didn't drink.",
+      "grammar": "This line uses the imperative mood to address someone (\"Baby\") and features a negation idiom (\"jo\" instead of \"unë jo\" or \"nuk\") to emphasize the speaker's denial."
+    },
+    {
+      "time": 166.7,
+      "text": "Nëse jo kjo, ça o' dashnia?",
+      "translation": "If not this, what about love?",
+      "grammar": "The phrase \"nëse jo kjo\" is an idiomatic expression in Albanian, equivalent to the English idiom \"if not this\", using the subjunctive mood to express a hypothetical situation."
+    },
+    {
+      "time": 169.068,
+      "text": "Ti m'ke met n'kry si melodia",
+      "translation": "You're stuck in my head like a melody.",
+      "grammar": "The phrase \"Ti m'ke\" is an idiomatic expression indicating a strong mental impression or obsession, equivalent to \"You're stuck in my head\". The verb \"m'ke\" is in the imperfective aspect, implying a continuous state."
+    },
+    {
+      "time": 172.125,
+      "text": "Je tu m'njek kudo sikur hija",
+      "translation": "You follow me everywhere like a shadow.",
+      "grammar": "The phrase \"Je tu\" is an idiomatic expression in Albanian, equivalent to the English idiom \"like a shadow\", conveying constant and devoted following."
+    },
+    {
+      "time": 174.837,
+      "text": "Baby, jo, jo, nuk o' te pija",
+      "translation": "Baby, no, no, I didn't drink.",
+      "grammar": "The phrase \"jo\" is an interjection used to express negation or refusal, similar to the English word \"no\". The sentence uses the present perfect tense \"nuk o' te pija\" to emphasize that the speaker did not engage in the action of drinking."
+    },
+    {
+      "time": 177.549,
+      "text": "Nëse jo kjo, ça o' dashnia?",
+      "translation": "If not this, what about love?",
+      "grammar": "The phrase \"ça o'\" is an idiomatic expression used to seek alternative options or solutions, similar to \"what about\" in English. The sentence is in the interrogative mood and uses the conditional tense \"nëse\" to express a hypothetical situation."
+    },
+    {
+      "time": 179.917,
+      "text": "Ti m'ke met n'kry si melodia",
+      "translation": "You're stuck in my head like a melody.",
+      "grammar": "The phrase \"Ti m'ke\" is an idiomatic expression indicating that something is stuck or stuck in one's mind, using the verb \"to be\" in the present continuous tense to convey this idea."
+    },
+    {
+      "time": 182.973,
+      "text": "Je tu m'njek kudo sikur hija",
+      "translation": "You follow me everywhere like a shadow.",
+      "grammar": "The phrase \"Je tu\" is an idiomatic expression meaning \"you follow\" in English, using the informal second-person singular pronoun \"je\" and the verb \"tu\" in the present continuous tense."
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "id": "ru_track_18b39e2",
+  "title": "Банкомат",
+  "artist": "DEAD BLONDE",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_track_18b39e2.mp3",
+  "duration": 199,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Если хочешь быть со мной",
+      "translation": "If you want to be with me",
+      "grammar": "The verb 'хотеть' (to want) is in the infinitive form, indicating a desire or intention."
+    },
+    {
+      "time": 4.807300000011921,
+      "text": "Неси мне свои ваучеры",
+      "translation": "Bring me your vouchers",
+      "grammar": ""
+    },
+    {
+      "time": 8.286200000047684,
+      "text": "Ведь мир такой изменчивый",
+      "translation": "After all, the world is so changeable",
+      "grammar": ""
+    },
+    {
+      "time": 11.41430000001192,
+      "text": "Ведь мир такой обманчивый",
+      "translation": "After all, the world is so deceptive",
+      "grammar": ""
+    },
+    {
+      "time": 16.5085,
+      "text": "Время ночи три часа",
+      "translation": "It's three o'clock at night.",
+      "grammar": ""
+    },
+    {
+      "time": 18.52530000001192,
+      "text": "Мы стоим у банкомата",
+      "translation": "We are standing at the ATM",
+      "grammar": ""
+    },
+    {
+      "time": 20.586600000023843,
+      "text": "Счастье точно не в деньгах",
+      "translation": "Happiness is definitely not about money",
+      "grammar": ""
+    },
+    {
+      "time": 22.70380000001192,
+      "text": "Но с деньгами я богата",
+      "translation": "But I am rich with money",
+      "grammar": ""
+    },
+    {
+      "time": 24.719600000023842,
+      "text": "Евро, доллары, рубли",
+      "translation": "Euros, dollars, rubles",
+      "grammar": ""
+    },
+    {
+      "time": 26.7855,
+      "text": "Я любой валюте рада",
+      "translation": "I am happy with any currency",
+      "grammar": ""
+    },
+    {
+      "time": 28.724300000011922,
+      "text": "В банкомате нет любви",
+      "translation": "There is no love in the ATM",
+      "grammar": ""
+    },
+    {
+      "time": 30.92659999996424,
+      "text": "Но её мне и не надо",
+      "translation": "But I don't need it.",
+      "grammar": ""
+    },
+    {
+      "time": 33.05559999996424,
+      "text": "На моих часах уже 11:00",
+      "translation": "It's already 11:00 on my watch.",
+      "grammar": ""
+    },
+    {
+      "time": 37.012099999964235,
+      "text": "Собирайся, милая, мы едем в \"Метрополь\"",
+      "translation": "Get ready, honey, we're going to the Metropol.",
+      "grammar": ""
+    },
+    {
+      "time": 41.128899999976156,
+      "text": "Не волнуйся, за такси я скоро заплачу",
+      "translation": "Don't worry, I'll pay for the taxi soon.",
+      "grammar": ""
+    },
+    {
+      "time": 45.350099999964236,
+      "text": "Жить красиво — это сложно, но я научу",
+      "translation": "Living beautifully is difficult, but I will teach you",
+      "grammar": ""
+    },
+    {
+      "time": 49.37680000001192,
+      "text": "Видишь справа мужика в том вельветовом костюме?",
+      "translation": "See that guy on the right in that corduroy suit?",
+      "grammar": ""
+    },
+    {
+      "time": 56.95430000001192,
+      "text": "У него три кабака и гостиница в Батуми",
+      "translation": "He has three pubs and a hotel in Batumi.",
+      "grammar": ""
+    },
+    {
+      "time": 57.51769999998808,
+      "text": "Или как тебе вот тот? Из Америки вернулся",
+      "translation": "Or how about that one? He came back from America.",
+      "grammar": ""
+    },
+    {
+      "time": 61.64369999998808,
+      "text": "Он за нас оплатит счёт, стоит только улыбнуться",
+      "translation": "He'll pay the bill for us, just smile.",
+      "grammar": ""
+    },
+    {
+      "time": 65.96539999997616,
+      "text": "Время ночи три часа",
+      "translation": "It's three o'clock at night.",
+      "grammar": ""
+    },
+    {
+      "time": 67.7605,
+      "text": "Мы стоим у банкомата",
+      "translation": "We are standing at the ATM",
+      "grammar": ""
+    },
+    {
+      "time": 69.83880000001191,
+      "text": "Счастье точно не в деньгах",
+      "translation": "Happiness is definitely not about money",
+      "grammar": ""
+    },
+    {
+      "time": 71.89389999997616,
+      "text": "Но с деньгами я богата",
+      "translation": "But I am rich with money",
+      "grammar": ""
+    },
+    {
+      "time": 73.86759999996424,
+      "text": "Евро, доллары, рубли",
+      "translation": "Euros, dollars, rubles",
+      "grammar": ""
+    },
+    {
+      "time": 75.91119999998809,
+      "text": "Я любой валюте рада",
+      "translation": "I am happy with any currency",
+      "grammar": ""
+    },
+    {
+      "time": 78.01759999996423,
+      "text": "В банкомате нет любви",
+      "translation": "There is no love in the ATM",
+      "grammar": ""
+    },
+    {
+      "time": 80.0885,
+      "text": "Но её мне и не надо",
+      "translation": "But I don't need it.",
+      "grammar": ""
+    },
+    {
+      "time": 98.60259999996424,
+      "text": "Летом на Майорку отвезёт тебя майор",
+      "translation": "The major will take you to Mallorca this summer",
+      "grammar": ""
+    },
+    {
+      "time": 102.73580000001192,
+      "text": "А зимой тебя согреет шуба от Dior",
+      "translation": "And in winter, a fur coat from Dior will keep you warm.",
+      "grammar": ""
+    },
+    {
+      "time": 106.92759999996424,
+      "text": "Может, счастье ты себе не купишь, ну и что?",
+      "translation": "Maybe happiness is something you can't buy, so what?",
+      "grammar": "The phrase 'ну и что' is an idiomatic expression that roughly translates to 'so what?' or 'oh well?' and is often used to express resignation or indifference."
+    },
+    {
+      "time": 110.87169999998808,
+      "text": "Быть несчастной лучше в лимузине, чем пешком",
+      "translation": "It's better to be unhappy in a limousine than on foot.",
+      "grammar": ""
+    },
+    {
+      "time": 115.01559999996424,
+      "text": "Всё считай как ЭВМ",
+      "translation": "Calculate everything like a computer",
+      "grammar": ""
+    },
+    {
+      "time": 117.052,
+      "text": "Будь умнее, но не слишком",
+      "translation": "Be smarter, but not too smart",
+      "grammar": ""
+    },
+    {
+      "time": 119.035,
+      "text": "Мир спасёт не красота",
+      "translation": "It's not beauty that will save the world.",
+      "grammar": ""
+    },
+    {
+      "time": 121.13359999996423,
+      "text": "Мир спасёт моя сберкнижка",
+      "translation": "My savings book will save the world",
+      "grammar": ""
+    },
+    {
+      "time": 123.41439999997615,
+      "text": "Не смотри так на меня",
+      "translation": "Don't look at me like that.",
+      "grammar": ""
+    },
+    {
+      "time": 125.25169999998808,
+      "text": "Знаешь, ведь не в правде сила",
+      "translation": "You know, power is not in truth",
+      "grammar": ""
+    },
+    {
+      "time": 127.33119999998807,
+      "text": "Я не продалась Кремлю",
+      "translation": "I didn't sell out to the Kremlin",
+      "grammar": ""
+    },
+    {
+      "time": 129.30739999997616,
+      "text": "Я б сама его купила",
+      "translation": "I would buy it myself",
+      "grammar": ""
+    },
+    {
+      "time": 131.43230000001194,
+      "text": "Если хочешь быть со мной",
+      "translation": "If you want to be with me",
+      "grammar": ""
+    },
+    {
+      "time": 134.6181999999881,
+      "text": "Неси мне свои ваучеры",
+      "translation": "Bring me your vouchers",
+      "grammar": ""
+    },
+    {
+      "time": 144.9391999999881,
+      "text": "Ведь мир такой изменчивый",
+      "translation": "After all, the world is so changeable",
+      "grammar": ""
+    },
+    {
+      "time": 144.94109999996425,
+      "text": "Ведь мир такой обманчивый",
+      "translation": "After all, the world is so deceptive",
+      "grammar": ""
+    },
+    {
+      "time": 147.78959999996422,
+      "text": "Время ночи три часа",
+      "translation": "It's three o'clock at night.",
+      "grammar": ""
+    },
+    {
+      "time": 149.8193000000119,
+      "text": "Мы стоим у банкомата",
+      "translation": "We are standing at the ATM",
+      "grammar": ""
+    },
+    {
+      "time": 151.89389999997616,
+      "text": "Счастье точно не в деньгах",
+      "translation": "Happiness is definitely not about money",
+      "grammar": ""
+    },
+    {
+      "time": 153.9416999999881,
+      "text": "Но с деньгами я богата",
+      "translation": "But I am rich with money",
+      "grammar": ""
+    },
+    {
+      "time": 155.96109999996423,
+      "text": "Евро, доллары, рубли",
+      "translation": "Euros, dollars, rubles",
+      "grammar": ""
+    },
+    {
+      "time": 157.9981999999881,
+      "text": "Я любой валюте рада",
+      "translation": "I am happy with any currency",
+      "grammar": ""
+    },
+    {
+      "time": 160.11169999998808,
+      "text": "В банкомате нет любви",
+      "translation": "There is no love in the ATM",
+      "grammar": ""
+    },
+    {
+      "time": 162.11689999997617,
+      "text": "Но её мне и не надо",
+      "translation": "But I don't need it.",
+      "grammar": ""
+    },
+    {
+      "time": 181.06519999998807,
+      "text": "\"Для меня основное не деньги\"",
+      "translation": "\"For me, the main thing is not money.\"",
+      "grammar": ""
+    },
+    {
+      "time": 183.58269999998808,
+      "text": "\"Перестань, не глупи! Ты же не хочешь, чтобы у тебя был брак без любви?\"",
+      "translation": "\"Stop it, don't be silly! You don't want to have a loveless marriage, do you?\"",
+      "grammar": ""
+    },
+    {
+      "time": 192.03560000002383,
+      "text": "\"У меня? Без любви?\"",
+      "translation": "\"For me? Without love?\"",
+      "grammar": ""
+    },
+    {
+      "time": 192.03730000001192,
+      "text": "\"Конечно! Ведь если девушка всё своё время тратит на то, чтобы заработать деньги",
+      "translation": "\"Of course! After all, if a girl spends all her time trying to earn money",
+      "grammar": ""
+    },
+    {
+      "time": 193.8803000000119,
+      "text": "То у неё просто не хватит сил на любовь!\"",
+      "translation": "Then she simply doesn’t have enough strength for love!”",
+      "grammar": ""
+    }
+  ]
+}

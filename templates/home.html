@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Melodly — Learn Languages Through Music</title>
+  <style>
+    :root {
+      --bg: #04070d;
+      --panel: #0b1220;
+      --panel-2: #10192c;
+      --text: #e8edf7;
+      --muted: #9db6d4;
+      --border: rgba(255,255,255,0.12);
+      --accent: #8dfad6;
+      --accent-2: #7eb8ff;
+      --radius: 16px;
+      --shadow: 0 24px 80px rgba(0,0,0,0.45);
+    }
+    * { box-sizing: border-box; }
+    html, body { height: 100%; }
+    body {
+      margin: 0;
+      font-family: "Space Grotesk", "Inter", "DM Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+      color: var(--text);
+      background: #000;
+      overflow-x: hidden;
+    }
+    a { color: inherit; text-decoration: none; }
+    .topnav {
+      position: sticky;
+      top: 0;
+      z-index: 30;
+      border-bottom: 1px solid var(--border);
+      background: linear-gradient(120deg, rgba(11,18,32,0.9), rgba(11,18,32,0.7));
+      backdrop-filter: blur(12px) saturate(130%);
+    }
+    .topnav__inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 12px 22px;
+    }
+    .topnav__brand { display: flex; align-items: center; gap: 10px; font-weight: 800; letter-spacing: 0.1px; }
+    .topnav__logo { width: 30px; height: 30px; border-radius: 10px; object-fit: cover; border: 1px solid var(--border); box-shadow: var(--shadow); }
+    .topnav__title { color: var(--text); font-size: 1.05rem; }
+    .topnav__menu { margin: 0 0 0 auto; padding: 0; display: flex; gap: 12px; list-style: none; }
+    .topnav__menu a { color: var(--muted); padding: 9px 12px; border-radius: 12px; transition: 0.16s ease; font-weight: 600; }
+    .topnav__menu a:hover { color: var(--text); background: rgba(255,255,255,0.06); }
+    .cta {
+      border: none;
+      padding: 10px 14px;
+      border-radius: 12px;
+      font-weight: 800;
+      color: #0a0d15;
+      cursor: pointer;
+      background: linear-gradient(135deg, #8dfad6, #7eb8ff);
+      box-shadow: 0 16px 40px rgba(126, 184, 255, 0.25);
+      transition: transform 0.1s ease, box-shadow 0.2s ease;
+    }
+    .cta:hover { transform: translateY(-1px); box-shadow: 0 18px 48px rgba(126,184,255,0.3); }
+    .cta.secondary {
+      background: rgba(255,255,255,0.06);
+      color: var(--text);
+      border: 1px solid var(--border);
+      box-shadow: none;
+    }
+    main { max-width: 1200px; margin: 30px auto 60px; padding: 0 22px; }
+    .hero {
+      display: grid;
+      grid-template-columns: 1.05fr 0.95fr;
+      gap: 22px;
+      align-items: center;
+      position: relative;
+    }
+    h1 { margin: 0 0 10px; font-size: 2.4rem; letter-spacing: -0.03em; }
+    .lead { color: var(--muted); font-size: 1.08rem; line-height: 1.5; }
+    .actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
+    .card {
+      background: linear-gradient(145deg, var(--panel), var(--panel-2));
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      border: 1px solid var(--border);
+      padding: 18px;
+      position: relative;
+      overflow: hidden;
+    }
+    .card::before {
+      content: "";
+      position: absolute;
+      inset: -60px;
+      background: radial-gradient(220px 220px at 80% 0%, rgba(126, 184, 255, 0.18), transparent 65%);
+      opacity: 0.7;
+      filter: blur(20px);
+    }
+    .card > * { position: relative; z-index: 1; }
+    .how { display: grid; gap: 10px; padding-left: 16px; color: var(--muted); }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+      margin-top: 24px;
+    }
+    .feature h3 { margin: 0 0 6px; font-size: 1.05rem; }
+    .feature p { margin: 0; color: var(--muted); line-height: 1.5; }
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 12px;
+      border-radius: 999px;
+      background: rgba(255,255,255,0.06);
+      border: 1px solid var(--border);
+      color: var(--text);
+      font-weight: 700;
+      margin-top: 10px;
+    }
+    .bg-logo {
+      position: fixed;
+      width: min(74vw, 940px);
+      height: min(74vw, 940px);
+      opacity: 0.22;
+      pointer-events: none;
+      filter: brightness(1.0) saturate(112%) drop-shadow(0 20px 52px rgba(0,0,0,.24));
+      z-index: 0;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: #000;
+      overflow: hidden;
+      border-radius: 50%;
+      mix-blend-mode: normal;
+      mask-image: radial-gradient(circle at 50% 50%, rgba(0,0,0,1) 55%, rgba(0,0,0,0) 85%);
+      -webkit-mask-image: radial-gradient(circle at 50% 50%, rgba(0,0,0,1) 55%, rgba(0,0,0,0) 85%);
+    }
+    .bg-logo::before {
+      display: none;
+    }
+    @media (max-width: 960px) { .hero { grid-template-columns: 1fr; } .grid { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+  <nav class="topnav">
+    <div class="topnav__inner">
+      <div class="topnav__brand">
+        <img src="/static/assets/shapes/logo.png" alt="Melodly logo" class="topnav__logo" />
+        <span class="topnav__title">Melodly</span>
+      </div>
+      <ul class="topnav__menu">
+        <li><a href="/">Home</a></li>
+        <li><a href="/app">App</a></li>
+        <li><a href="/pricing">Pricing</a></li>
+        <li><a href="/contact">Contact</a></li>
+      </ul>
+      <button class="cta" onclick="location.href='/app'">Open App</button>
+    </div>
+  </nav>
+
+  <div class="bg-logo" aria-hidden="true">
+    <video id="bgLogoVideo" autoplay muted loop playsinline poster="/static/assets/shapes/logo.png" style="width:100%; height:100%; object-fit: contain; mix-blend-mode: normal; background: #000; position: relative; z-index: 1;">
+      <source src="/static/assets/logo.mp4" type="video/mp4" />
+    </video>
+  </div>
+
+  <script>
+    // Trim the loop slightly to avoid any trailing artifact frames
+    const bgVid = document.getElementById('bgLogoVideo');
+    if (bgVid) {
+      bgVid.addEventListener('loadedmetadata', () => {
+        const cutoff = Math.max(0, (bgVid.duration || 0) - 0.1);
+        bgVid.addEventListener('timeupdate', () => {
+          if (bgVid.currentTime > cutoff) {
+            bgVid.currentTime = 0;
+          }
+        });
+      });
+    }
+  </script>
+
+  <main>
+    <section class="hero">
+      <div>
+        <div class="pill">New • Session-ready layout</div>
+        <h1>Learn languages through the songs you love</h1>
+        <p class="lead">Melodly keeps lyrics, translations, and micro‑notes in sync so you can stay in the flow. Connect Spotify to unlock full tracks or use our library to start instantly.</p>
+        <div class="actions">
+          <button class="cta" onclick="location.href='/app'">Open the app</button>
+          <button class="cta secondary" onclick="location.href='/auth/spotify/login'">Connect Spotify</button>
+        </div>
+      </div>
+      <div class="card">
+        <h3 style="margin:0 0 8px;">How it works</h3>
+        <div class="how">
+          <div>1 — Connect Spotify or browse the built-in library.</div>
+          <div>2 — Choose your languages and pick a track.</div>
+          <div>3 — Follow the highlighted lines, jump to any lyric, and skim the grammar note that appears automatically.</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="grid">
+      <div class="card feature">
+        <h3>Time‑synced lyrics</h3>
+        <p>Every line is highlighted in real-time with a progress runner that stays locked to the track.</p>
+      </div>
+      <div class="card feature">
+        <h3>Side‑by‑side translation</h3>
+        <p>Keep meaning visible without pausing; click either column to jump playback.</p>
+      </div>
+      <div class="card feature">
+        <h3>Micro‑grammar coaching</h3>
+        <p>Notes appear as you move through a song so rules stick without interrupting the music.</p>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

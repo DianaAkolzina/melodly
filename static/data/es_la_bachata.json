@@ -1,0 +1,211 @@
+{
+  "id": "es_la_bachata",
+  "title": "La Bachata",
+  "artist": "Manuel Turizo",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_la_bachata.mp3",
+  "duration": 163,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Te bloqueé de Insta",
+      "translation": "I blocked you on Insta",
+      "grammar": "In informal writing, \"te\" is used as a subject pronoun in the past tense to express blocking or excluding someone, often with a sense of suddenness. This usage is idiomatic and common in social media posts and text messages."
+    },
+    {
+      "time": 2.615,
+      "text": "Pero por otra cuenta veo tus historias (oh-oh-oh)",
+      "translation": "But on another account I see your stories (oh-oh-oh)",
+      "grammar": "The use of \"veo\" in the present tense indicates a habitual or general truth, implying that the speaker regularly sees the addressee's stories. The phrase \"por otra cuenta\" is an idiomatic expression meaning \"on another account\" or \"from another perspective\"."
+    },
+    {
+      "time": 8.704,
+      "text": "Tu número lo borré",
+      "translation": "I deleted your number",
+      "grammar": "The verb \"borré\" is in the preterite tense, indicating a completed action in the past. The use of \"lo\" as an indirect object pronoun agrees with the masculine noun \"número\"."
+    },
+    {
+      "time": 11.32,
+      "text": "No sé pa qué si me lo sé de memoria",
+      "translation": "I don't know why, I know it by heart.",
+      "grammar": "The phrase \"no sé pa qué\" is an idiomatic expression meaning \"I don't know why\". The verb \"sé\" is in the present tense and indicates a state of uncertainty."
+    },
+    {
+      "time": 17.408,
+      "text": "Me hiciste daño y así te extraño",
+      "translation": "You hurt me, and that's why I miss you.",
+      "grammar": "The phrase \"y así\" is an idiomatic expression used to indicate a cause-and-effect relationship between the two clauses. It translates to \"and that's why\" in English."
+    },
+    {
+      "time": 21.76,
+      "text": "Y aunque sé que un día te voy a olvidar",
+      "translation": "And even though I know that one day I will forget you",
+      "grammar": "The verb \"olvidar\" is in the future tense, indicating a planned or anticipated action. The phrase \"un día\" is an idiomatic expression meaning \"one day\" or \"someday\"."
+    },
+    {
+      "time": 27.849,
+      "text": "Aún no lo hago, es complicado",
+      "translation": "I haven't done it yet, it's complicated.",
+      "grammar": "The verb phrase \"no lo hago\" is in the present perfect tense, indicating that the action has not been completed up to the current moment. The use of \"aún no\" emphasizes the ongoing nature of the situation."
+    },
+    {
+      "time": 31.622,
+      "text": "To lo que hicimo me gusta recordar",
+      "translation": "I like to remember everything we did",
+      "grammar": "This sentence uses the present tense of the verb \"gustar\" (to please) in a habitual sense, indicating a general liking or fondness for remembering past experiences. The phrase \"lo que hicimos\" is an idiomatic expression meaning \"everything we did\", with the plural verb form agreeing with the pronoun \"lo\"."
+    },
+    {
+      "time": 35.974,
+      "text": "Ando manejando por las calles que me besaste",
+      "translation": "I'm driving through the streets where you kissed me",
+      "grammar": "The phrase \"me besaste\" is a past perfect construction, indicating that the kissing event occurred before another action in the past. The use of \"me\" instead of \"you\" creates an intimate and nostalgic tone, emphasizing the speaker's personal experience."
+    },
+    {
+      "time": 40.905,
+      "text": "Oyendo las canciones que un día me dedicaste",
+      "translation": "Listening to the songs you once dedicated to me",
+      "grammar": "The verb \"oyendo\" is in the present participle form, indicating ongoing action in the past, and the phrase \"que un día me dedicaste\" uses the subordinating conjunction \"que\" to introduce a subordinate clause describing the songs."
+    },
+    {
+      "time": 45.836,
+      "text": "Te diría que volvieras, pero eso no se pide",
+      "translation": "I would tell you to come back, but you can't ask for that.",
+      "grammar": "The phrase \"eso no se pide\" is an idiomatic expression meaning \"it's not possible\" or \"it's not allowed\", rather than a literal request. The verb \"poder\" (can) is implied, making the sentence a polite way to decline someone's request."
+    },
+    {
+      "time": 51.346,
+      "text": "Mejor le pido a Dios que me cuide",
+      "translation": "I'd rather ask God to take care of me.",
+      "grammar": "This sentence uses the subjunctive mood to express a polite and humble request, typical in Spanish when asking for someone's help or protection. The phrase \"que me cuide\" is an idiomatic expression that translates to \"to take care of me\"."
+    },
+    {
+      "time": 56.277,
+      "text": "Porque ando manejando por las calles que me besaste",
+      "translation": "Because I'm driving through the streets where you kissed me",
+      "grammar": "The phrase \"ando manejando\" is an idiomatic expression that combines the present continuous tense with a verb in its infinitive form, conveying the idea of being in the process of doing something. This construction is commonly used to describe ongoing actions or states."
+    },
+    {
+      "time": 61.787,
+      "text": "Oyendo las canciones que un día me dedicaste",
+      "translation": "Listening to the songs you once dedicated to me",
+      "grammar": "The phrase \"oyendo las canciones\" is in the present participle form, indicating ongoing action in the past. The use of \"oyendo\" instead of \"escuchando\" (listening) emphasizes the speaker's continued emotional connection to the songs."
+    },
+    {
+      "time": 66.718,
+      "text": "Te diría que volvieras, pero eso no se pide",
+      "translation": "I would tell you to come back, but you can't ask for that.",
+      "grammar": "The phrase \"eso no se pide\" is an idiomatic expression meaning \"it's not possible\" or \"it's not allowed\", conveying a sense of impossibility rather than making a literal request."
+    },
+    {
+      "time": 72.228,
+      "text": "Mejor le pido a Dios que me cuide",
+      "translation": "I'd rather ask God to take care of me.",
+      "grammar": "The phrase \"le pido\" is in the subjunctive mood, used to express a polite or formal request, which is common in Spanish when making requests to someone or something."
+    },
+    {
+      "time": 77.158,
+      "text": "Que me cuide de otra que se parezca a ti",
+      "translation": "Beware of another who looks like you",
+      "grammar": "This idiomatic expression uses the subjunctive mood to convey a sense of caution or warning, with \"que\" introducing a dependent clause that expresses a hypothetical situation."
+    },
+    {
+      "time": 83.247,
+      "text": "No quiero caer como hice por ti",
+      "translation": "I don't want to fall like I did for you.",
+      "grammar": "The phrase \"como hice\" is an idiomatic expression indicating a desire not to repeat a past experience, using the preterite tense to convey a sense of regret."
+    },
+    {
+      "time": 87.599,
+      "text": "Ojalá te enamore', te hagan lo mismo que me hiciste a mí",
+      "translation": "I hope you fall in love, and that they do to you what you did to me.",
+      "grammar": "The phrase \"ojalá\" is an idiomatic expression used to convey a wish or hope, often in the present tense. The sentence structure uses the subjunctive mood to express a hypothetical situation."
+    },
+    {
+      "time": 94.846,
+      "text": "Tú me enseñaste a no amar a cualquiera",
+      "translation": "You taught me not to love just anyone",
+      "grammar": "The verb phrase \"enseñaste\" is in the preterite tense, indicating that the action of teaching occurred in the past. The use of \"tú\" instead of \"usted\" shows informal address and familiarity with the person being spoken to."
+    },
+    {
+      "time": 99.777,
+      "text": "Y también como no quiero que me quieran",
+      "translation": "And also because I don't want to be loved.",
+      "grammar": "The phrase \"como no quiero\" is an idiomatic expression indicating a reason or motivation, equivalent to \"because I don't want\". The verb \"querer\" is in the infinitive form, which is common in Spanish when expressing a desire or intention."
+    },
+    {
+      "time": 104.708,
+      "text": "No, éramos tres en una relación de dos",
+      "translation": "No, there were three of us in a relationship of two.",
+      "grammar": "The phrase \"éramos\" is in the imperfect tense, indicating an ongoing or repeated action in the past. The use of \"tres\" (three) and \"dos\" (two) highlights the idiomatic expression \"de dos\", emphasizing the imbalance or mismatch between the number of people involved and the relationship's supposed exclusivity."
+    },
+    {
+      "time": 109.638,
+      "text": "No te perdono, pídele perdón a Dios",
+      "translation": "I don't forgive you, ask God for forgiveness.",
+      "grammar": "The phrase \"pídele perdón a Dios\" is an idiomatic expression that uses the subjunctive mood to convey a sense of strong recommendation or obligation. The verb \"perdón\" is in the third person singular form \"perdón\" because it refers to God, emphasizing the idea that seeking forgiveness from God is the right thing to do."
+    },
+    {
+      "time": 113.991,
+      "text": "Dije que te olvidé y la verdad es que yo, yo",
+      "translation": "I said I forgot you, and the truth is that I, I",
+      "grammar": "This line illustrates the use of emphatic repetition (\"yo, yo\") to stress the speaker's sincerity, a common idiomatic expression in Spanish. The repeated pronoun \"yo\" serves to intensify the emotional tone, conveying the speaker's genuine regret."
+    },
+    {
+      "time": 120.658,
+      "text": "Ando manejando por las calles que me besaste",
+      "translation": "I'm driving through the streets where you kissed me",
+      "grammar": "The use of the present continuous tense \"Ando manejando\" (I'm driving) creates a sense of immediacy and intimacy, emphasizing the speaker's emotional connection to the place where they shared a kiss."
+    },
+    {
+      "time": 125.589,
+      "text": "Oyendo las canciones que un día me dedicaste",
+      "translation": "Listening to the songs you once dedicated to me",
+      "grammar": "The verb \"oyendo\" is in the present participle form, indicating ongoing action in the past, which is a common way to express past experiences or memories in Spanish."
+    },
+    {
+      "time": 130.52,
+      "text": "Te diría que volvieras, pero eso no se pide",
+      "translation": "I would tell you to come back, but you can't ask for that.",
+      "grammar": "The verb phrase \"te diría\" is in the conditional tense, indicating hypothetical or uncertain circumstances. The idiom \"no se pide\" means \"it's not possible\" rather than \"you can't ask\"."
+    },
+    {
+      "time": 136.03,
+      "text": "Mejor le pido a Dios que me cuide",
+      "translation": "I'd rather ask God to take care of me.",
+      "grammar": "This line uses the subjunctive mood, expressing a hypothetical or uncertain situation (\"mejor\" means \"it's better\" in this context), which is common when making requests or expressing preferences."
+    },
+    {
+      "time": 140.961,
+      "text": "Porque ando manejando por las calles que me besaste",
+      "translation": "Because I'm driving through the streets where you kissed me",
+      "grammar": "The phrase \"ando manejando\" is an idiomatic expression used to describe a past action in progress, equivalent to English \"was driving\"."
+    },
+    {
+      "time": 146.471,
+      "text": "Oyendo las canciones que un día me dedicaste",
+      "translation": "Listening to the songs you once dedicated to me",
+      "grammar": "The verb \"oyendo\" is in the present participle form, indicating ongoing action, and its mood is subjunctive, used to express a hypothetical or uncertain situation."
+    },
+    {
+      "time": 151.402,
+      "text": "Te diría que volvieras, pero eso no se pide",
+      "translation": "I would tell you to come back, but you can't ask for that.",
+      "grammar": "The phrase \"eso no se pide\" is an idiomatic expression meaning \"it's not possible\" or \"it's not allowed\", rather than a literal request. The verb \"poder\" (to be able) is implied, but not explicitly stated."
+    },
+    {
+      "time": 156.911,
+      "text": "Mejor le pido a Dios que me cuide",
+      "translation": "I'd rather ask God to take care of me.",
+      "grammar": "This sentence uses the subjunctive mood (\"le pida\" instead of \"le pidiera\") to express a polite and humble request, which is common in Spanish when asking for someone's help or favor."
+    },
+    {
+      "time": 161.842,
+      "text": "Manuel Turizo",
+      "translation": "Manuel Turizo",
+      "grammar": "This line is an example of a proper noun, specifically a person's name, and does not require any grammatical analysis."
+    }
+  ]
+}

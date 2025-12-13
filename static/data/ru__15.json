@@ -1,0 +1,187 @@
+{
+  "id": "ru__15",
+  "title": "Шёлк",
+  "artist": "Ваня Дмитриенко",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_.mp3",
+  "duration": 146,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Я завяжу тебе глаза, и ты не будешь знать, где мы",
+      "translation": "I'll blind you and you won't know where we are",
+      "grammar": "The verb 'завяжу' is in the future tense and has a causative meaning, implying that the speaker will take control of the situation."
+    },
+    {
+      "time": 8.63080000001192,
+      "text": "Я запрещу тебе молчать, я разобью твои стены",
+      "translation": "I will forbid you to remain silent, I will break down your walls",
+      "grammar": ""
+    },
+    {
+      "time": 15.68869999998808,
+      "text": "Я не дам тебе уйти, ведь я только тебя нашёл",
+      "translation": "I won't let you go, because I only found you",
+      "grammar": ""
+    },
+    {
+      "time": 19.26919999998808,
+      "text": "Кто-то верил, что ты с ним, но медленно отошёл",
+      "translation": "Someone believed that you were with him, but slowly moved away",
+      "grammar": ""
+    },
+    {
+      "time": 23.385899999976157,
+      "text": "И для тела моего ты самый заветный шёлк",
+      "translation": "And for my body you are the most cherished silk",
+      "grammar": ""
+    },
+    {
+      "time": 27.249,
+      "text": "Где не нужно, погостил, наконец-то к тебе пришёл",
+      "translation": "I stayed where I shouldn't have, and finally came to you.",
+      "grammar": ""
+    },
+    {
+      "time": 31.609899999976157,
+      "text": "Сгораю на губах твоих бордовым цветом",
+      "translation": "I burn on your lips with a burgundy color",
+      "grammar": ""
+    },
+    {
+      "time": 35.5495,
+      "text": "И ломай меня, как ломят сигареты",
+      "translation": "And break me like cigarettes break me",
+      "grammar": ""
+    },
+    {
+      "time": 39.43160000002384,
+      "text": "Сколько ни беги, всё повторится вновь",
+      "translation": "No matter how much you run, everything will happen again.",
+      "grammar": ""
+    },
+    {
+      "time": 43.27910000002384,
+      "text": "Там, где умирает ненависть, рождается любовь",
+      "translation": "Where hatred dies, love is born",
+      "grammar": ""
+    },
+    {
+      "time": 58.974699999988076,
+      "text": "(Там, где умирает ненависть, рождается любовь)",
+      "translation": "(Where hatred dies, love is born)",
+      "grammar": ""
+    },
+    {
+      "time": 63.34439999997616,
+      "text": "Так осторожно царапают душу нежные слова",
+      "translation": "So gently tender words scratch the soul",
+      "grammar": ""
+    },
+    {
+      "time": 67.07380000001191,
+      "text": "Небо играет на нас, зная, что хотят твои глаза",
+      "translation": "The sky plays on us, knowing what your eyes want",
+      "grammar": ""
+    },
+    {
+      "time": 70.92280000001192,
+      "text": "Сбитые стрелки на часах, целую чувства на устах",
+      "translation": "The hands on the clock are broken, I kiss the feelings on the lips",
+      "grammar": ""
+    },
+    {
+      "time": 74.75380000001192,
+      "text": "Хочешь молчать? Тогда молчи на моих руках",
+      "translation": "Do you want to remain silent? Then remain silent in my arms.",
+      "grammar": ""
+    },
+    {
+      "time": 80.00280000001192,
+      "text": "Сгораю на губах твоих бордовым цветом",
+      "translation": "I burn on your lips with a burgundy color",
+      "grammar": ""
+    },
+    {
+      "time": 83.92019999998809,
+      "text": "И ломай меня, как ломят сигареты",
+      "translation": "And break me like cigarettes break me",
+      "grammar": ""
+    },
+    {
+      "time": 87.75930000001192,
+      "text": "Сколько ни беги, всё повторится вновь",
+      "translation": "No matter how much you run, everything will happen again.",
+      "grammar": ""
+    },
+    {
+      "time": 91.64280000001192,
+      "text": "Там, где умирает ненависть-",
+      "translation": "Where hatred dies-",
+      "grammar": ""
+    },
+    {
+      "time": 95.3805,
+      "text": "Сгораю на губах твоих бордовым цветом",
+      "translation": "I burn on your lips with a burgundy color",
+      "grammar": ""
+    },
+    {
+      "time": 99.6305,
+      "text": "И ломай меня, как ломят сигареты",
+      "translation": "And break me like cigarettes break me",
+      "grammar": ""
+    },
+    {
+      "time": 103.2295,
+      "text": "Сколько ни беги, всё повторится вновь",
+      "translation": "No matter how much you run, everything will happen again.",
+      "grammar": ""
+    },
+    {
+      "time": 107.12060000002384,
+      "text": "Там, где умирает ненависть, рождается любовь",
+      "translation": "Where hatred dies, love is born",
+      "grammar": ""
+    },
+    {
+      "time": 115.18910000002384,
+      "text": "(Любовь)",
+      "translation": "(Love)",
+      "grammar": ""
+    },
+    {
+      "time": 122.60589999997616,
+      "text": "(Там, где умирает ненависть-)",
+      "translation": "(Where hatred dies-)",
+      "grammar": ""
+    },
+    {
+      "time": 126.39669999998807,
+      "text": "Сгораю на губах твоих бордовым цветом",
+      "translation": "I burn on your lips with a burgundy color",
+      "grammar": ""
+    },
+    {
+      "time": 130.53490000003578,
+      "text": "И ломай меня, как ломят сигареты",
+      "translation": "And break me like cigarettes break me",
+      "grammar": ""
+    },
+    {
+      "time": 134.39110000002384,
+      "text": "Сколько ни беги, всё повторится вновь",
+      "translation": "No matter how much you run, everything will happen again.",
+      "grammar": ""
+    },
+    {
+      "time": 138.12180000001192,
+      "text": "Там, где умирает ненависть, рождается любовь",
+      "translation": "Where hatred dies, love is born",
+      "grammar": ""
+    }
+  ]
+}

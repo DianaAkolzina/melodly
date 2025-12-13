@@ -1,0 +1,325 @@
+{
+  "id": "es_dkiti",
+  "title": "DÁKITI",
+  "artist": "Bad Bunny feat. Jhayco",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_dkiti.mp3",
+  "duration": 205,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Baby, ya yo me enteré, se nota cuando me ves",
+      "translation": "Baby, I already know, it shows when you look at me",
+      "grammar": "The phrase \"ya yo\" is an informal way to express the idea of having already learned or found out something, using the present perfect tense and a colloquial particle. This idiom is often used in everyday conversations among friends or acquaintances."
+    },
+    {
+      "time": 4.849,
+      "text": "Ahí, donde no has llegao, sabes que yo te llevaré",
+      "translation": "There, where you haven't arrived, you know I'll take you.",
+      "grammar": "The phrase \"Ahí\" is an interjection used to draw attention to a specific place or situation, equivalent to \"there\" in English. The sentence uses the present tense of the verb \"llevare\" (I'll take) to express a promise or commitment."
+    },
+    {
+      "time": 9.698,
+      "text": "Y dime qué quieres beber, es que tú eres mi bebé",
+      "translation": "And tell me what you want to drink, because you're my baby",
+      "grammar": "The phrase \"tú eres mi bebé\" is an idiomatic expression that uses the present tense to convey a sense of intimacy and affection, emphasizing the speaker's emotional connection with the listener."
+    },
+    {
+      "time": 15.002,
+      "text": "¿Y de nosotros quién va a hablar?, si no nos dejamos ver",
+      "translation": "And who will speak for us if we don't show ourselves?",
+      "grammar": "The phrase \"¿Y de nosotros quién va a hablar?\" is an example of rhetorical questioning, where the speaker doesn't expect a literal answer. The use of the present continuous tense \"va a\" emphasizes the uncertainty and inquiry in the question."
+    },
+    {
+      "time": 20.761,
+      "text": "Y a veces es Dolce, a veces Bulgari",
+      "translation": "And sometimes it's Dolce, sometimes it's Bulgari",
+      "grammar": "This line illustrates the use of the present tense to describe habitual or general truths, with \"a veces\" indicating occasionality. The phrase \"es Dolce/sometimes it's Dolce\" is an idiomatic expression used to describe something that is true at certain times but not always."
+    },
+    {
+      "time": 24.701,
+      "text": "Cuando te lo quito después de los parties",
+      "translation": "When I take it off you after the parties",
+      "grammar": "The phrase \"después de los parties\" is an idiomatic expression indicating a time period, equivalent to \"after the party\" or \"after the celebrations\"."
+    },
+    {
+      "time": 28.64,
+      "text": "Las copas de vino, las libras de mari",
+      "translation": "The glasses of wine, the pounds of marijuana",
+      "grammar": "This idiomatic phrase uses the plural noun forms to convey a large quantity, rather than an exact measurement. The phrase is often used figuratively to emphasize the abundance or excess of something."
+    },
+    {
+      "time": 32.579,
+      "text": "Tú estás bien suelta, yo de safari",
+      "translation": "You're feeling relaxed, I'm on safari",
+      "grammar": "The phrase \"estás bien suelta\" is an idiomatic expression in Spanish, equivalent to \"feeling relaxed\" or \"at ease\". The verb \"estar\" is used in the present continuous tense (estar + -ing form) to convey a temporary state of being."
+    },
+    {
+      "time": 36.064,
+      "text": "Tú muevе' el culo fenomenal",
+      "translation": "You move your ass phenomenally",
+      "grammar": "The phrase \"mueve' el culo\" is an idiomatic expression that uses the informal second-person singular verb form \"mueve'\" and the pronoun \"el culo\" to mean \"to move one's buttocks\". This colloquialism is often used in informal settings to express enthusiasm or approval."
+    },
+    {
+      "time": 38.638,
+      "text": "Pa yo devorarte como animal",
+      "translation": "So I can devour you like an animal",
+      "grammar": "The phrase \"pa yo\" is a colloquial expression used to emphasize the speaker's intention, similar to \"for me\" or \"to myself\". The verb \"devorar\" is in the subjunctive mood, indicating a hypothetical or desired action."
+    },
+    {
+      "time": 41.213,
+      "text": "Si no te has venío, yo te vo'a esperar",
+      "translation": "If you haven't come, I'll wait for you",
+      "grammar": "The verb \"esperar\" is in the future tense, indicating a willingness to wait at some point in the future. The phrase \"te vo'a\" is an informal way of saying \"I will go\" or \"I'm going\", emphasizing the speaker's intention to wait."
+    },
+    {
+      "time": 46.062,
+      "text": "En mi cama y lo vo'a celebrar",
+      "translation": "In my bed and I'm gonna celebrate",
+      "grammar": "The phrase \"lo vo'a\" is an informal, colloquial expression meaning \"I'm going to\" or \"I'll\", used to convey a sense of spontaneity and informality. This idiomatic construction is common in spoken Spanish, particularly among younger speakers."
+    },
+    {
+      "time": 50.001,
+      "text": "Baby, a ti no me opongo",
+      "translation": "Baby, I don't object to you",
+      "grammar": "The phrase \"a ti\" is an idiomatic expression meaning \"to you\", using the indirect object pronoun \"te\" in the dative case. This construction is used to show affection or familiarity, similar to saying \"to my dear\" or \"to you personally\"."
+    },
+    {
+      "time": 53.031,
+      "text": "Y siempre te lo pongo",
+      "translation": "And I always put it on for you.",
+      "grammar": "The phrase \"y siempre\" is an idiomatic expression indicating habitual action in the present perfect tense, implying that the speaker has a consistent habit of doing something."
+    },
+    {
+      "time": 55.606,
+      "text": "Y si tú me tira', vamo a nadar en lo hondo",
+      "translation": "And if you throw me, we'll swim in the deep end.",
+      "grammar": "The phrase \"vamo\" is an informal way to say \"let's go\" or \"come on\", used to express enthusiasm and encouragement. It is often used with friends or acquaintances, conveying a sense of camaraderie and shared experience."
+    },
+    {
+      "time": 60.91,
+      "text": "Si es por mí, te lo pongo",
+      "translation": "If it were up to me, I'd put it on for you.",
+      "grammar": "This line uses the conditional tense (\"Si es por mí\") to express a hypothetical situation, and the idiomatic phrase \"te lo pongo\" is equivalent to \"I'd do something for you\", conveying a sense of willingness or obligation."
+    },
+    {
+      "time": 64.394,
+      "text": "De septiembre hasta agosto",
+      "translation": "From September to August",
+      "grammar": "This idiomatic expression uses the preposition \"hasta\" to indicate a duration, rather than a specific endpoint. The verb tense is imperfective, describing an ongoing period from September to August."
+    },
+    {
+      "time": 66.514,
+      "text": "A mí sin cojones lo que digan tu' amiga'",
+      "translation": "I don't give a damn what your friend says.",
+      "grammar": "This idiomatic expression uses the informal pronoun \"a mí\" to emphasize the speaker's independence, and the phrase \"sin cojones\" is an idiomatic way of saying someone doesn't care about others' opinions."
+    },
+    {
+      "time": 70.908,
+      "text": "Ya yo me enteré, se nota cuando me ves",
+      "translation": "I already know, it's obvious when you see me",
+      "grammar": "The phrase \"ya yo\" is an informal way to express the present perfect tense, indicating that the speaker has recently learned something. The use of \"ya\" implies a sense of familiarity or certainty, similar to saying \"as soon as I found out\"."
+    },
+    {
+      "time": 75.302,
+      "text": "Ahí, donde no has llegao, sabes que yo te llevaré",
+      "translation": "There, where you haven't arrived, you know I'll take you.",
+      "grammar": "The phrase \"ahí\" is an adverb indicating a location in the future, equivalent to \"there\" or \"over there\". The sentence uses the present tense of the verb \"saber\" (to know) to express a general truth."
+    },
+    {
+      "time": 80.151,
+      "text": "Y dime qué quieres beber, es que tú eres mi bebé",
+      "translation": "And tell me what you want to drink, because you're my baby",
+      "grammar": "The phrase \"tú eres mi bebé\" is an idiomatic expression used to affectionately address someone, with \"tú\" indicating the informal \"you\" and \"mi bebé\" meaning \"my love\"."
+    },
+    {
+      "time": 85.455,
+      "text": "¿Y de nosotros quién va a hablar?, si no nos dejamos ver (¿me sigue'?)",
+      "translation": "And who's going to talk about us if we don't show ourselves? (Do you follow me?)",
+      "grammar": "The phrase \"¿me sigue'\" is an informal way of asking someone to understand or agree with what you're saying, using the verb \"sigure\" in a colloquial sense."
+    },
+    {
+      "time": 92.124,
+      "text": "Mami, me tienes juqueao, sí",
+      "translation": "Mommy, you've got me hooked, yes",
+      "grammar": "The phrase \"me tienes\" is an idiomatic expression in Spanish that uses the verb tener to mean \"to have someone hooked\" or interested. The use of the present perfect tense \"tienes\" implies a sense of ongoing engagement or fascination."
+    },
+    {
+      "time": 94.699,
+      "text": "Si fueras la Uru', me tuvieses parqueao",
+      "translation": "If you were Uru', you'd have me parked",
+      "grammar": "This line uses the conditional tense to express a hypothetical situation, with \"fueras\" and \"tuvieses\" indicating the subjunctive mood. The phrase \"Si fueras la Uru'\" is an idiomatic expression meaning \"If you were from Uru'\"."
+    },
+    {
+      "time": 98.183,
+      "text": "Dando vueltas por Condado",
+      "translation": "Wandering around the county",
+      "grammar": "The phrase \"dando vueltas\" is a present participle construction, equivalent to \"wandering\" in English, conveying continuous action. It's an idiomatic expression used to describe aimlessly roaming or strolling around a specific area."
+    },
+    {
+      "time": 100.303,
+      "text": "Contigo, siempre arrebatao",
+      "translation": "With you, always swept away",
+      "grammar": "The verb \"arrebatao\" is in the present participle form, indicating a continuous or ongoing action, and the phrase \"contigo, siempre\" implies a habitual or repeated action in the present tense."
+    },
+    {
+      "time": 101.968,
+      "text": "Tú no eres mi señora, pero",
+      "translation": "You are not my lady, but",
+      "grammar": "The phrase \"pero\" is a conjunction introducing a contrasting idea, indicating a shift in thought rather than a causal relationship."
+    },
+    {
+      "time": 104.997,
+      "text": "Toma cinco mil, gástalo en Sephora",
+      "translation": "Take five thousand, spend it at Sephora",
+      "grammar": "The phrase \"gástalo\" is an informal way of saying \"spend it\" in the second person singular (you), using the verb \"gastar\" in the imperative mood. This idiomatic expression is commonly used in spoken language to give advice or make a suggestion."
+    },
+    {
+      "time": 108.027,
+      "text": "Louis Vuitton, ya no compra en Pandora",
+      "translation": "Louis Vuitton no longer buys from Pandora",
+      "grammar": "The phrase \"ya no\" is an idiomatic expression used to convey a sense of certainty or finality, equivalent to \"no longer\" in English. It's often used to express a completed action in the past, indicating that something has stopped happening."
+    },
+    {
+      "time": 111.511,
+      "text": "Como piercing, a los hombres perfora, eh-eh-eh",
+      "translation": "Like a piercing, it pierces men, eh-eh-eh",
+      "grammar": "The use of \"perfora\" (pierces) in the present tense indicates ongoing or repeated action, emphasizing the speaker's perspective that this phenomenon is continuous and universal. The \"eh-eh-eh\" interjection adds a playful, rhetorical tone to the statement."
+    },
+    {
+      "time": 115.905,
+      "text": "Hace tiempo le rompieron el cora (el cora)",
+      "translation": "They broke his heart a long time ago.",
+      "grammar": "The phrase \"hace tiempo\" indicates a past action in the distant past, equivalent to English \"a long time ago\". The use of \"le\" instead of \"les\" agrees with the indirect object \"el corazón\", which is treated as masculine."
+    },
+    {
+      "time": 119.845,
+      "text": "Estudiosa, puesta pa ser doctora (doctora)",
+      "translation": "Studious, aiming to be a doctor (doctor)",
+      "grammar": "The phrase \"puesta pa\" is an informal idiomatic expression meaning \"aiming to\" or \"striving to\", used to indicate the speaker's intention or goal. It is often used in spoken language and is not typically found in formal writing."
+    },
+    {
+      "time": 122.874,
+      "text": "Pero (pero) le gustan los títeres wheeleando motora (motora)",
+      "translation": "But (but) he likes puppets wheeling motor (motor)",
+      "grammar": "The use of \"(pero)\" and \"(motora)\" is an idiomatic expression, where the parentheses around the words indicate they are being used to emphasize or intensify their meaning."
+    },
+    {
+      "time": 127.268,
+      "text": "Yo estoy pa ti las 24 hora'",
+      "translation": "I'm here for you 24 hours a day.",
+      "grammar": "This informal expression uses the present continuous tense (estoy) to convey availability and willingness, while \"pa ti\" is an idiomatic phrase meaning \"for you\", emphasizing the speaker's dedication."
+    },
+    {
+      "time": 130.753,
+      "text": "Baby, a ti no me opongo",
+      "translation": "Baby, I don't object to you",
+      "grammar": "The phrase \"a ti\" is an idiomatic expression meaning \"to you\", using the indirect object pronoun \"te\" in the dative case. This construction is similar to English's \"I don't object to you\" but with a more informal and affectionate tone."
+    },
+    {
+      "time": 133.782,
+      "text": "Y siempre te lo pongo (siempre te lo pongo)",
+      "translation": "And I always put it on for you (I always put it on for you)",
+      "grammar": "The phrase \"y siempre te lo pongo\" is an idiomatic expression indicating a habitual action, using the present tense to convey a sense of routine or custom. The pronoun \"te\" agrees with the indirect object \"you\", emphasizing the recipient's involvement in the action."
+    },
+    {
+      "time": 138.176,
+      "text": "Y si tú me tira', vamo a nadar en lo hondo (nadar en lo hondo)",
+      "translation": "And if you throw me, we'll swim in the deep (swim in the deep)",
+      "grammar": "The phrase \"vamo\" is an informal way of saying \"let's go\", using the verb \"ir\" in the subjunctive mood to express a hypothetical or uncertain situation."
+    },
+    {
+      "time": 145.3,
+      "text": "Si es por mí, te lo pongo",
+      "translation": "If it were up to me, I'd put it on for you.",
+      "grammar": "The phrase \"si es por mí\" is an idiomatic expression indicating willingness or consent, equivalent to saying \"if it's my decision\". The verb \"pongo\" agrees with the implied subject \"yo\" (I) in the hypothetical scenario."
+    },
+    {
+      "time": 148.785,
+      "text": "De septiembre hasta agosto",
+      "translation": "From September to August",
+      "grammar": "This phrase uses the prepositional phrase \"de septiembre hasta agosto\" in a non-standard way, implying a duration of nine months rather than the typical English expression. This usage is idiomatic and common in Spanish, but may require adjustment for learners writing in English."
+    },
+    {
+      "time": 150.904,
+      "text": "Y a mí sin cojones lo que digan tu' amiga'",
+      "translation": "And I don't give a damn what your friend says.",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of indifference, with \"y\" (and) serving as a conjunction to emphasize the speaker's nonchalance. The phrase \"sin cojones\" is an informal way to say someone doesn't care about what others think."
+    },
+    {
+      "time": 155.753,
+      "text": "Ya yo me enteré, se nota cuando me ves",
+      "translation": "I already know, it's obvious when you see me",
+      "grammar": "The phrase \"ya yo\" is an informal way to express the present perfect tense in Spanish, implying that the speaker has recently learned or realized something."
+    },
+    {
+      "time": 160.148,
+      "text": "Ahí, donde no has llegao, sabes que yo te llevaré",
+      "translation": "There, where you haven't arrived, you know I'll take you.",
+      "grammar": "The phrase \"Ahí, donde\" is an idiomatic expression indicating a location or direction, equivalent to \"there\" in English. The verb \"llevare\" is in the future tense, expressing the speaker's intention to take someone."
+    },
+    {
+      "time": 164.997,
+      "text": "Y dime qué quieres beber, es que tú eres mi bebé",
+      "translation": "And tell me what you want to drink, because you're my baby",
+      "grammar": "The phrase \"tú eres mi bebé\" is an idiomatic expression that uses the present tense to convey a sense of intimacy and affection, emphasizing the speaker's emotional connection with the listener."
+    },
+    {
+      "time": 170.301,
+      "text": "¿Y de nosotros quién va a hablar?, si no nos dejamos ver",
+      "translation": "And who will speak for us if we don't show ourselves?",
+      "grammar": "The phrase \"¿Y de nosotros quién va a hablar?\" is an idiomatic expression that uses the present tense to convey a sense of rhetorical questioning, emphasizing the uncertainty and potential silence. The pronoun \"nosotros\" agrees with the subject \"we\" in the translation."
+    },
+    {
+      "time": 176.06,
+      "text": "Y a veces es Dolce, a veces Bulgari",
+      "translation": "And sometimes it's Dolce, sometimes it's Bulgari",
+      "grammar": "This line illustrates the use of the present tense to describe habitual or general truths, with \"a veces\" indicating occasionality. The phrase is an idiomatic expression used to convey that something can be two different things depending on the context."
+    },
+    {
+      "time": 179.999,
+      "text": "Cuando te lo quito después de los parties",
+      "translation": "When I take it off you after the parties",
+      "grammar": "The phrase \"después de los parties\" is an idiomatic expression meaning \"after the party atmosphere\" or \"after the celebrations\", rather than a literal time reference. This usage of \"parties\" implies a social event, and the speaker's actions are conditional on being in that context."
+    },
+    {
+      "time": 183.939,
+      "text": "Las copas de vino, las libras de mari",
+      "translation": "The glasses of wine, the pounds of marijuana",
+      "grammar": "This idiomatic phrase uses the plural noun form to describe a quantity of an uncountable substance, emphasizing the abundance rather than the exact amount."
+    },
+    {
+      "time": 187.878,
+      "text": "Tú estás bien suelta, yo de safari",
+      "translation": "You're feeling relaxed, I'm on safari",
+      "grammar": "The phrase \"estás bien suelta\" is an idiomatic expression in Spanish, equivalent to saying \"you're really going with the flow\" or \"you're totally laid-back\". The verb estás is in the informal second person singular present tense, indicating a relaxed state."
+    },
+    {
+      "time": 191.362,
+      "text": "Tú muevе' el culo fenomenal",
+      "translation": "You move your ass phenomenally",
+      "grammar": "The phrase \"mueve' el culo\" is an idiomatic expression that literally means \"move the ass,\" but figuratively means to dance or move one's body in a lively manner. The use of the verb \"mover\" in this context implies the speaker's enthusiasm and admiration for the person's dancing skills, conveyed through the adverb \"fenomenal."
+    },
+    {
+      "time": 193.937,
+      "text": "Pa yo devorarte como animal",
+      "translation": "So I can devour you like an animal",
+      "grammar": "The phrase \"Pa yo\" is a colloquialism used to express strong emotions or emphasis, similar to \"to hell with you\". The verb \"devorar\" is in the present tense, indicating a desire or intention to do something."
+    },
+    {
+      "time": 196.512,
+      "text": "Si no te has venío, yo te vo'a esperar",
+      "translation": "If you haven't come, I'll wait for you",
+      "grammar": "The verb \"esperar\" is in the future tense, indicating a willingness to wait, and the phrase \"yo te vo'a\" is an informal way of saying \"I will go to look for you\"."
+    },
+    {
+      "time": 201.361,
+      "text": "En mi cama y lo vo'a celebrar",
+      "translation": "In my bed and I'm gonna celebrate",
+      "grammar": "The use of \"vo'a\" is an informal, colloquial expression equivalent to \"going to\" in English, indicating future intention."
+    }
+  ]
+}

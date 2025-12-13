@@ -1,0 +1,175 @@
+{
+  "id": "lv_rudens_ka_rudens",
+  "title": "Rudens kā rudens",
+  "artist": "Prata Vetra",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "lv",
+  "to_language": "en",
+  "audio": "/audio/lv_rudens_ka_rudens.mp3",
+  "duration": 220,
+  "licensing_note": "User-provided full lyrics (Latvian).",
+  "lines": [
+    {
+      "time": 41.46530000001192,
+      "text": "Rudens kā rudens",
+      "translation": "Autumn like autumn",
+      "grammar": "Simile with 'kā' (like/as); nominal clause without a verb for a gnomic tone."
+    },
+    {
+      "time": 46.91019999998808,
+      "text": "Biezie un gājputni laižas uz Nīlu",
+      "translation": "The rich and the migratory birds descend toward the Nile",
+      "grammar": "Verb 'laižas' (reflexive/middle) = come down/settle; motion preposition 'uz' + accusative for destination; proper name 'Nīlu'."
+    },
+    {
+      "time": 50.97609999999404,
+      "text": "Pēkšņi man likās",
+      "translation": "Suddenly it seemed to me",
+      "grammar": "Impersonal verb 'likās' (it seemed) + dative experiencer 'man'."
+    },
+    {
+      "time": 54.404,
+      "text": "Tu esi mans draugs un es tevi mazliet mīlu",
+      "translation": "You are my friend and I love you a little",
+      "grammar": "Copular 'esi'; object pronoun order 'es tevi mīlu'; diminutive adverb 'mazliet' softens degree."
+    },
+    {
+      "time": 69.48240000000597,
+      "text": "Saule cēlās un krita",
+      "translation": "The sun rose and fell",
+      "grammar": "Past narrative with simple preterites 'cēlās' (rise, reflexive) and 'krita' (fell)."
+    },
+    {
+      "time": 73.32390000000596,
+      "text": "Es biju tavs meistars un tu mana Margarita",
+      "translation": "I was your master and you my Margarita",
+      "grammar": "Copular past 'biju'; possessive adjectives 'tavs/mana'; cultural allusion to 'Meistars un Margarita'."
+    },
+    {
+      "time": 79.37690000000596,
+      "text": "Vai izskaidrot proti?",
+      "translation": "Can you explain?",
+      "grammar": "Question particle omitted; verb-first question; 'proti' = 'are you able'."
+    },
+    {
+      "time": 82.73619999998807,
+      "text": "Ja sākumā likās mazliet",
+      "translation": "If at first it seemed a little",
+      "grammar": "Conditional 'ja' clause; impersonal 'likās' again with implicit subject 'it'."
+    },
+    {
+      "time": 87.35440000000597,
+      "text": "Tad nu jau ļoti, ļoti",
+      "translation": "Then now very, very",
+      "grammar": "Contrastive 'tad'; intensifier 'jau'; reduplication 'ļoti, ļoti' for emphasis; ellipsis of predicate."
+    },
+    {
+      "time": 91.40319999998808,
+      "text": "Kāds mūs sauc tepat aiz stūra",
+      "translation": "Someone calls us right there around the corner",
+      "grammar": "Indefinite 'kāds' (someone); adverb 'tepat' (right here); complex preposition 'aiz' (behind/round) + noun."
+    },
+    {
+      "time": 95.6995,
+      "text": "Vai klusi dauzās pie palodzes",
+      "translation": "Or quietly taps at the windowsill",
+      "grammar": "Disjunction 'vai' (or); verb 'dauzās' (knocks/taps, middle); preposition 'pie' (at/by)."
+    },
+    {
+      "time": 100.91469999998807,
+      "text": "Laid savus putnus ārā no būra",
+      "translation": "Let your birds out of the cage",
+      "grammar": "Imperative 'Laid' (2sg of 'laist'); particle 'ārā' (out); preposition phrase 'no būra' (out of + genitive)."
+    },
+    {
+      "time": 105.31,
+      "text": "Uz kurieni tie lidos, tur arī es",
+      "translation": "Wherever they will fly, there I'll be too",
+      "grammar": "Interrogative/directional 'uz kurieni' (to where); future 'lidos'; deictic 'tur' + particle 'arī' (also)."
+    },
+    {
+      "time": 113.483,
+      "text": "Joprojām ļoti, ļoti",
+      "translation": "Still very, very",
+      "grammar": "Adverb 'joprojām' = still; repetition for emphasis; predicate elided from context."
+    },
+    {
+      "time": 122.23309999999404,
+      "text": "Kad barojām pīles",
+      "translation": "When we fed the ducks",
+      "grammar": "Temporal clause with 'kad'; 1pl past 'barojām'; direct object plural 'pīles'."
+    },
+    {
+      "time": 125.60380000001192,
+      "text": "Asaras krita tev lielas kā ozola zīles",
+      "translation": "Tears fell from you, big as an oak's acorns",
+      "grammar": "Subject 'asaras' (tears); simile 'kā'; genitive relation 'ozola zīles' (oak's acorns)."
+    },
+    {
+      "time": 131.73190000000596,
+      "text": "Laiki met lokus",
+      "translation": "Times draw arcs",
+      "grammar": "Metaphorical present; verb 'mest' (to throw/cast) with object 'lokus' (arcs)."
+    },
+    {
+      "time": 134.64169999998808,
+      "text": "Dažreiz saule slēpjas kastaņu kokos",
+      "translation": "Sometimes the sun hides in the chestnut trees",
+      "grammar": "Frequency adverb 'dažreiz'; reflexive 'slēpjas'; locative phrase 'kastaņu kokos'."
+    },
+    {
+      "time": 140.91759999999405,
+      "text": "Kā jūrnieki rumu",
+      "translation": "Like sailors [their] rum",
+      "grammar": "Elliptical comparison with 'kā'; object left implicit by parallelism; poetic truncation."
+    },
+    {
+      "time": 144.14190000000596,
+      "text": "Tu gribi Munameģi, es braukšu uz Karakumu",
+      "translation": "You want Munamägi, I'll go to the Karakum",
+      "grammar": "2sg present 'gribi' vs. 1sg future 'braukšu'; motion preposition 'uz' (to) + proper names."
+    },
+    {
+      "time": 150.51719999998807,
+      "text": "Ar sarkanām neļķēm laiks atvadīties",
+      "translation": "With red carnations it's time to say goodbye",
+      "grammar": "Preposition 'ar' (with) + attributive adjective 'sarkanām'; impersonal 'laiks' (it's time) + infinitive."
+    },
+    {
+      "time": 156.3375,
+      "text": "Ir rudens",
+      "translation": "It is autumn",
+      "grammar": "Simple present copular statement without explicit 'būt' (to be) auxiliary pronounced."
+    },
+    {
+      "time": 158.54230000001192,
+      "text": "Ļaudis klīst pa vientuļām peļķēm",
+      "translation": "People wander through lonely puddles",
+      "grammar": "Plural subject 'ļaudis'; motion preposition 'pa' (through/along); descriptive adjective 'vientuļām'."
+    },
+    {
+      "time": 164.8251999999881,
+      "text": "Kāds mūs sauc tepat aiz stūra",
+      "translation": "Someone calls us right there around the corner",
+      "grammar": "Chorus reprise; deixis 'tepat' + spatial 'aiz stūra' (around the corner)."
+    },
+    {
+      "time": 168.94680000001193,
+      "text": "Vai klusi dauzās pie palodzes",
+      "translation": "Or quietly taps at the windowsill",
+      "grammar": "Verb 'dauzās' in middle voice; 'pie' introduces contact location."
+    },
+    {
+      "time": 174.32969999998807,
+      "text": "Laid savus putnus ārā no būra",
+      "translation": "Let your birds out of the cage",
+      "grammar": "Imperative 'Laid'; particle chain 'ārā no' (out of) + genitive complement."
+    },
+    {
+      "time": 178.83680000001192,
+      "text": "Uz kurieni tie lidos, tur arī es",
+      "translation": "Wherever they will fly, there I'll be too",
+      "grammar": "Future 'lidos' for planned motion; correlative 'uz kurieni … tur'."
+    }
+  ]
+}

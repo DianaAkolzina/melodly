@@ -1,0 +1,307 @@
+{
+  "id": "es_444",
+  "title": "444",
+  "artist": "Yan Block feat. Panda Black",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_444.mp3",
+  "duration": 175,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 21.635199999988078,
+      "text": "Aunque no estés aquí y estés allá",
+      "translation": "Even though you're not here and you're there",
+      "grammar": "This sentence uses the present subjunctive mood to express a hypothetical or uncertain situation, with \"estés\" agreeing in number and person with the subject \"you\"."
+    },
+    {
+      "time": 24.30559999999404,
+      "text": "Mami, tú estás clara que siempre te vo'a clavar",
+      "translation": "Mommy, you know I'm always going to nail you",
+      "grammar": "The use of \"vo'a\" is an informal verb construction in Spanish, equivalent to the English idiom \"going to\" (future tense), indicating the speaker's intention or determination."
+    },
+    {
+      "time": 24.30559999999404,
+      "text": "Que esto nunca va a acabar, si yo siempre vo'a acabarte",
+      "translation": "This will never end, because I'll always finish you off.",
+      "grammar": "The phrase \"vo'a\" is an informal verb conjugation in the first person singular, used to express determination or intention, equivalent to \"I'm going to\" or \"I'll\"."
+    },
+    {
+      "time": 33.40669999998808,
+      "text": "Tú siempre va' a tenerme y yo siempre vo'a tenerte",
+      "translation": "You'll always have me and I'll always have you",
+      "grammar": "This line uses the present tense of the verb \"tener\" to express a future action, which is a common idiomatic expression in Spanish. The use of \"va'\" and \"vo'\" instead of \"vayas\" and \"voyas\" is an informal way to address the listener, emphasizing the speaker's affection."
+    },
+    {
+      "time": 33.40669999998808,
+      "text": "Tú siempre va' a llamar y yo voy a responderte",
+      "translation": "You'll always call and I'll answer you",
+      "grammar": "The use of \"va'\" is an informal way to express future tense, common in spoken Spanish. The verb agreement with the subject pronoun \"tú\" is also typical of everyday conversation."
+    },
+    {
+      "time": 37.08889999997616,
+      "text": "Tú siempre va' a llamar y yo voy a responderte",
+      "translation": "You'll always call and I'll answer you",
+      "grammar": "The use of \"va'\" in \"yo voy\" is an informal, colloquial way to express future tense, equivalent to \"I'm going to\" or \"I will\". This construction is common in spoken Spanish."
+    },
+    {
+      "time": 39.76159999999404,
+      "text": "Me enchulé de tus defectos imperfectamente perfectos",
+      "translation": "I fell in love with your imperfectly perfect flaws",
+      "grammar": "The phrase \"enchulé\" is an idiomatic expression meaning \"to fall in love\" or \"to be captivated by\". The verb \"enchulé\" is in the first person singular, indicating that the speaker is speaking from their own experience."
+    },
+    {
+      "time": 42.47609999999404,
+      "text": "Le contesto en to momento, monumento es ese cuerpo, ma",
+      "translation": "I'll answer you right away, that body is a monument, ma",
+      "grammar": "The phrase \"contesto en to momento\" uses the informal verb form \"contesto\" and the particle \"en\" to convey a sense of immediacy, equivalent to \"right away\" in English."
+    },
+    {
+      "time": 45.71459999999404,
+      "text": "¿Cuándo vamo a vernos?, que el infierno está viniendo",
+      "translation": "When are we going to see each other? Hell is coming!",
+      "grammar": "The phrase \"¿Cuándo vamo?\" is an informal, colloquial way of asking \"when\" in Spanish, using the vosotros form and the verb \"ir\" in the future tense."
+    },
+    {
+      "time": 48.21479999998212,
+      "text": "Y me quiero morir viniéndome, metiéndote, yeh",
+      "translation": "And I want to die coming, putting you inside me, yeah",
+      "grammar": "The verb \"quiero\" is in the present tense and expresses a desire or wish, which is typical of the subjunctive mood. The phrase \"morir viniéndome\" can be translated as \"to die coming\", using the idiomatic expression \"venir dentro\" to convey a strong emotional connection."
+    },
+    {
+      "time": 50.6585,
+      "text": "Tengo mari, pali y xanny, mami, yo vivo en un party",
+      "translation": "I have Mari, Pali and Xanny, Mommy, I live in a party",
+      "grammar": "The use of \"yo vivo\" instead of \"vivo yo\" is an informal expression, common in spoken Spanish, where the verb order is reversed for emphasis. This construction is often used to convey enthusiasm or excitement."
+    },
+    {
+      "time": 54.609799999982116,
+      "text": "Apúntame a la chola con mi pistola y dime \"papi\"",
+      "translation": "Point my gun at my pussy and call me \"daddy\"",
+      "grammar": "This line uses informal, colloquial language and the imperative mood to convey a playful, flirtatious tone. The phrase \"papi\" is an affectionate term used as a nickname or term of endearment, similar to \"honey\" or \"sweetheart\"."
+    },
+    {
+      "time": 57.41269999998808,
+      "text": "Siempre oculto, Iluminati, en la Ducati, yeh",
+      "translation": "Always hidden, Illuminati, on the Ducati, yeah",
+      "grammar": "The phrase \"yeh\" is an informal pronunciation of \"yeah\", used to express agreement or confirmation."
+    },
+    {
+      "time": 60.178299999982116,
+      "text": "Por Miami, yeah",
+      "translation": "For Miami, yeah",
+      "grammar": "This phrase uses the adverbial preposition \"por\" to indicate direction or movement towards Miami, rather than its typical meaning of \"by\" or \"through\". The \"yeah\" is an interjection used to express enthusiasm and agreement."
+    },
+    {
+      "time": 61.94019999998808,
+      "text": "Aunque no estés aquí y estés allá",
+      "translation": "Even though you're not here and you're there",
+      "grammar": "This sentence uses the subjunctive mood to express a hypothetical or uncertain situation, indicating that the speaker is considering an alternative possibility. The phrase \"no estés aquí\" and \"estés allá\" are both in the subjunctive form, emphasizing the contrast between two different locations."
+    },
+    {
+      "time": 64.19869999998808,
+      "text": "Mami, tú estás clara que siempre te vo'a clavar",
+      "translation": "Mommy, you know I'm always going to nail you",
+      "grammar": "The use of \"vo'a\" is an informal verb construction in Spanish, equivalent to the English phrase \"I'm always going to\". It's a colloquial expression that implies a sense of inevitability or certainty."
+    },
+    {
+      "time": 66.83079999998212,
+      "text": "Que esto nunca va a acabar, si yo siempre vo'a acabarte",
+      "translation": "This will never end, because I'll always finish you off.",
+      "grammar": "The verb \"acabar\" is in the present tense and has a future connotation due to the idiom \"nunca va a acabar\", which implies that the action will not cease. The phrase \"si yo siempre vo'a acabarte\" uses the informal \"yo\" and the future particle \"vo'\" to express determination."
+    },
+    {
+      "time": 69.48169999998808,
+      "text": "Tú siempre va' a tenerme y yo siempre vo'a tenerte",
+      "translation": "You'll always have me and I'll always have you",
+      "grammar": "The use of \"va'\" and \"vo'\" is an informal, colloquial way to express the future tense in Spanish, equivalent to \"will\" in English. This construction is often used in spoken language among friends or family members to convey a sense of intimacy and familiarity."
+    },
+    {
+      "time": 82.2475,
+      "text": "Tú siempre va' a llamar y yo voy a responderte",
+      "translation": "You'll always call and I'll answer you",
+      "grammar": "The use of \"va'\" in \"yo voy\" is an informal, colloquial way to express future tense, equivalent to \"I'm going to\" or \"I will\". This construction is common in spoken Spanish."
+    },
+    {
+      "time": 84.1905,
+      "text": "Bebecita, yo te lo dije",
+      "translation": "Baby girl, I told you so.",
+      "grammar": "The phrase \"yo te lo dije\" is in the preterite tense, indicating a completed action in the past. The use of \"yo\" (I) and \"te\" (you) shows subject-verb agreement in the direct object pronoun."
+    },
+    {
+      "time": 86.88379999998212,
+      "text": "Que yo siempre voy a ser el que te parte",
+      "translation": "That I will always be the one who breaks you",
+      "grammar": "The phrase \"que yo\" is an idiomatic expression equivalent to \"that I\" or \"the fact that I\", used to introduce a reason or explanation, and is in the subjunctive mood."
+    },
+    {
+      "time": 89.52329999998211,
+      "text": "Tengo Roleta, y ella, Cartier",
+      "translation": "I have a Roleta, and she has a Cartier.",
+      "grammar": "In this line, the verb \"tengo\" is in the present tense, indicating possession rather than an ongoing action. The phrase \"y ella\" uses the pronoun \"ella\" to refer back to \"Roleta\", demonstrating agreement between the subject and predicate nominative."
+    },
+    {
+      "time": 92.1635,
+      "text": "Tú sabes que soy el uno y soy aparte",
+      "translation": "You know that I am one and I am separate.",
+      "grammar": "The phrase \"soy aparte\" uses the verb \"ser\" in the present tense to convey a sense of permanent or inherent separation, rather than temporary or changing. This idiomatic expression emphasizes the speaker's distinctiveness and individuality."
+    },
+    {
+      "time": 94.76039999997616,
+      "text": "Y tú estás ricota, tú eres arte",
+      "translation": "And you're ricotta, you're art",
+      "grammar": "This line uses the present tense to express a vivid comparison between someone's personality and a creative medium. The idiomatic phrase \"ser ricota\" (to be ricotta) is an exaggerated way of saying someone is soft or gentle, while \"ser arte\" (to be art) emphasizes their unique creativity."
+    },
+    {
+      "time": 96.5535,
+      "text": "Te gustan lo' artista' y los gánster'",
+      "translation": "Do you like artists and gangsters?",
+      "grammar": "The use of \"gustan\" instead of \"me gusta\" is an informal, colloquial expression indicating the speaker's opinion or preference, similar to saying \"I'm into\" in English. This construction is common in spoken Spanish, particularly among younger people or in casual conversations."
+    },
+    {
+      "time": 105.73779999998212,
+      "text": "Tú estás ricota, tú estás ricota, tú eres arte",
+      "translation": "You're ricotta, you're ricotta, you're art",
+      "grammar": "The use of \"tú\" instead of \"vos\" in this line highlights the informal tone and emphasizes the speaker's affectionate relationship with the person being addressed. The repetition of \"tú estás\" creates a sense of intimacy and playfulness."
+    },
+    {
+      "time": 107.7165,
+      "text": "Te gustan lo' artista' y los gánster'",
+      "translation": "Do you like artists and gangsters?",
+      "grammar": "The phrase \"te gustan\" is in the present tense, indicating a habitual or general liking for artists and gangsters. The use of \"gustan\" instead of \"gusta\" (third person singular) suggests an informal, colloquial tone."
+    },
+    {
+      "time": 107.7165,
+      "text": "Tú no estás cuando quiero, es cuando tú quiere'",
+      "translation": "You're not there when I want you to be, you're there when you want me to be.",
+      "grammar": "This line illustrates the use of the present tense (tú estás) and conditional tense (quiere) in a rhetorical question, emphasizing the contrast between the speaker's desire for the other person's presence and their actual behavior."
+    },
+    {
+      "time": 107.7165,
+      "text": "Si el amor es de verdad, pues, ¿pa qué me hiere'?",
+      "translation": "If love is real, then why does it hurt me?",
+      "grammar": "The phrase \"¿Pa qué me hiere'?\" uses the informal pronoun \"me\" and the particle \"'\", which indicates a rising intonation, making it an idiomatic expression to convey surprise or questioning."
+    },
+    {
+      "time": 111.81809999999403,
+      "text": "Te doy to lo que pediste, ¿qué más tú quiere'?",
+      "translation": "I'll give you everything you asked for, what more do you want?",
+      "grammar": "The phrase \"¿qué más tú quieres?\" is an idiomatic expression that uses the present tense to convey a sense of ongoing desire or expectation. The pronoun \"tú\" is used instead of \"usted\" due to the informal tone and close relationship implied in the conversation."
+    },
+    {
+      "time": 113.13629999998211,
+      "text": "Con to y eso pienso tanto, baby",
+      "translation": "Even so, I think so much, baby",
+      "grammar": "The phrase \"con to\" is an idiomatic expression in Spanish that translates to \"even so\" or \"nevertheless\". It's used to indicate a contrast between two ideas."
+    },
+    {
+      "time": 115.67489999997616,
+      "text": "Que hasta me conformo con que tú me mires y me escuches",
+      "translation": "I'd even be content if you just looked at me and listened to me.",
+      "grammar": "The phrase \"hasta me conformo\" is an idiomatic expression conveying a sense of resignation or acceptance, equivalent to \"I'd even be fine with\". The verb \"conformar\" is in the subjunctive mood, indicating a hypothetical situation."
+    },
+    {
+      "time": 126.70309999999404,
+      "text": "Me transformo cuando entra' y dejo que me uses",
+      "translation": "I transform when you enter, and I let you use me.",
+      "grammar": "This line employs the informal second-person singular pronoun \"you\" (tú) to create a sense of intimacy and permission, which is typical in Latin American Spanish. The verb \"uses\" is in the present subjunctive mood, indicating a hypothetical or dependent action."
+    },
+    {
+      "time": 126.70439999997616,
+      "text": "Me trastorno cuando no te siento cerca mío",
+      "translation": "I get upset when I don't feel you close to me.",
+      "grammar": "The phrase \"me trastorno\" is an idiomatic expression that uses the reflexive pronoun \"me\" to indicate the subject of the sentence, rather than its usual object function. This construction emphasizes the speaker's emotional state and creates a sense of intimacy with the listener."
+    },
+    {
+      "time": 126.70439999997616,
+      "text": "O encima mío, me da escalofrío",
+      "translation": "Or on top of me, it gives me the creeps",
+      "grammar": "The phrase \"encima mío\" is an idiomatic expression meaning \"on top of me\" or \"right next to me\", conveying a sense of proximity and intimacy."
+    },
+    {
+      "time": 127.588,
+      "text": "Me enchulé de tus defectos imperfectamente perfectos",
+      "translation": "I fell in love with your imperfectly perfect flaws",
+      "grammar": "The phrase \"enchulé\" is an idiomatic expression meaning \"to fall in love\" or \"to be captivated by\". The verb \"enchulé\" is in the first person singular, indicating that it is a subjective experience."
+    },
+    {
+      "time": 128.61359999999405,
+      "text": "Le contesto en to momento, monumento es ese cuerpo, ma",
+      "translation": "I'll answer you right away, that body is a monument, ma",
+      "grammar": "The phrase \"ma\" is an interjection used to soften the tone and convey a sense of familiarity or agreement."
+    },
+    {
+      "time": 131.471,
+      "text": "¿Cuándo vamo a vernos?, que el infierno está viniendo",
+      "translation": "When are we going to see each other? Hell is coming!",
+      "grammar": "The phrase \"¿Cuándo vamo a vernos?\" uses the informal \"vamo\" instead of \"vamos\" due to the context and the speaker's familiarity with the listener, indicating a relaxed tone."
+    },
+    {
+      "time": 134.39039999997615,
+      "text": "Y me quiero morir viniéndome, metiéndote, yeh",
+      "translation": "And I want to die coming, putting you inside me, yeah",
+      "grammar": "The verb \"quiero\" is in the present tense, expressing a strong desire or wish. The phrase \"morir viniéndome\" can be translated as \"to die coming\" and uses the idiomatic expression \"venir dentro\", which means to be deeply involved or immersed in something."
+    },
+    {
+      "time": 137.32129999998213,
+      "text": "Tengo mari, pali y xanny, mami, yo vivo en un party",
+      "translation": "I have Mari, Pali and Xanny, Mommy, I live in a party",
+      "grammar": "The use of \"yo vivo\" instead of \"vivo yo\" is an example of inverted word order in informal speech, common in Latin American Spanish. This construction emphasizes the speaker's involvement in the action."
+    },
+    {
+      "time": 141.05769999998807,
+      "text": "Apúntame a la chola con mi pistola y dime \"papi\"",
+      "translation": "Point my gun at my pussy and call me \"daddy\"",
+      "grammar": "This line uses the informal, colloquial tone typical of Latin American Spanish, with the speaker addressing themselves in a playful, flirtatious manner. The phrase \"papi\" is an affectionate term used to refer to oneself, similar to using \"honey\" or \"sweetheart\"."
+    },
+    {
+      "time": 143.99739999997615,
+      "text": "Siempre oculto, Iluminati, en la Ducati, yeh",
+      "translation": "Always hidden, Illuminati, on the Ducati, yeah",
+      "grammar": "The phrase \"yeh\" is an informal way to express agreement or confirmation in English, similar to saying \"yeah\" or \"right\". It's often used in casual conversations and adds a touch of colloquialism to the sentence."
+    },
+    {
+      "time": 146.881,
+      "text": "Por Miami, yeah",
+      "translation": "For Miami, yeah",
+      "grammar": "This phrase uses the idiomatic expression \"por\" to indicate a destination or direction, rather than its typical meaning of \"by\" or \"through\". The use of \"yeah\" is an interjection expressing enthusiasm and agreement."
+    },
+    {
+      "time": 147.75029999998213,
+      "text": "Imperfectamente perfectos",
+      "translation": "Imperfectly perfect",
+      "grammar": "This idiomatic phrase uses the adjective imperfecto to describe a state of being, rather than its usual meaning as an adverb indicating incomplete action. The phrase \"imperfectamente\" is used to convey the idea that something is not only perfect but also has a hint of imperfection or human touch."
+    },
+    {
+      "time": 150.5546999999881,
+      "text": "Le contesto en to momento, monumento es ese cuerpo, ma",
+      "translation": "I'll answer you right away, that body is a monument, ma",
+      "grammar": "The phrase \"ma\" is an interjection used to soften the tone and express empathy, similar to \"you know\" or \"if you will\"."
+    },
+    {
+      "time": 152.8835,
+      "text": "¿Cuándo vamo a vernos?, que el infierno está viniendo",
+      "translation": "When are we going to see each other? Hell is coming!",
+      "grammar": "The phrase \"¿Cuándo vamo a vernos?\" uses the informal \"vamo\" instead of \"vamos\" due to the colloquial tone and the speaker's familiarity with the listener, indicating a relaxed and intimate atmosphere."
+    },
+    {
+      "time": 159.29180000001193,
+      "text": "Y me quiero morir viniéndome, metiéndote, yeh",
+      "translation": "And I want to die coming, putting you inside me, yeah",
+      "grammar": "The verb phrase \"quiero morir\" is in the present tense and expresses a desire or wish, rather than a literal intention. The use of \"morir\" (to die) is an idiomatic expression conveying strong emotional intensity."
+    },
+    {
+      "time": 162.5665,
+      "text": "Tengo mari, pali y xanny, mami, yo vivo en un party",
+      "translation": "I have Mari, Pali and Xanny, Mommy, I live in a party",
+      "grammar": "The use of \"yo vivo\" instead of \"vivo yo\" is an example of inversion, a common phenomenon in Latin American Spanish where the verb phrase is inverted to emphasize the subject. This construction is informal and colloquial, typical of spoken language."
+    },
+    {
+      "time": 167.37559999999405,
+      "text": "Apúntame a la chola con mi pistola y dime \"papi\"",
+      "translation": "Point my gun at my pussy and call me \"daddy\"",
+      "grammar": "This line uses the informal, colloquial tone typical of Latin American Spanish, with the speaker making a provocative statement. The phrase \"papi\" is an affectionate term used to address a close friend or romantic partner, similar to \"honey\" or \"sweetheart\"."
+    }
+  ]
+}

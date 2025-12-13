@@ -1,0 +1,205 @@
+{
+  "id": "es_5_7",
+  "title": "5-7",
+  "artist": "Tito Double P",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_5_7.mp3",
+  "duration": 175,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 13.08790000000596,
+      "text": "Llega la noche, hay luna llena",
+      "translation": "Night falls, there is a full moon",
+      "grammar": "The phrase \"llega la noche\" uses the present continuous tense to convey an ongoing or habitual action, implying that nightfall is a regular occurrence."
+    },
+    {
+      "time": 17.27490000000596,
+      "text": "El pensamiento me acelera",
+      "translation": "The thought makes me feel excited.",
+      "grammar": "This idiomatic expression uses the verb \"pensar\" in the present tense to convey a habitual or frequent association between thinking and feeling excited, rather than describing a specific event."
+    },
+    {
+      "time": 22.7485,
+      "text": "Que no te tengo aquí conmigo, mi amor",
+      "translation": "That I don't have you here with me, my love",
+      "grammar": "The phrase \"que no te tengo\" is a subordinate clause in the subjunctive mood, used to express doubt or uncertainty about the speaker's ability to be with the loved one. This construction is common in Spanish when expressing emotions or desires."
+    },
+    {
+      "time": 25.77279999998212,
+      "text": "Tus besos, los que me dan fuerza",
+      "translation": "Your kisses, the ones that give me strength",
+      "grammar": "The phrase \"los que\" is a relative pronoun used to introduce a subordinate clause, indicating which kisses are being referred to. This construction is an example of the subjunctive mood in Spanish, where \"que\" introduces a dependent clause expressing a subjective or hypothetical situation."
+    },
+    {
+      "time": 30.61069999998808,
+      "text": "Y al verte, hermosa princesa",
+      "translation": "And seeing you, beautiful princess",
+      "grammar": "The phrase \"al verte\" is an idiomatic expression in Spanish, equivalent to \"when I see you\" or \"as soon as I see you\", using the present continuous tense to convey a sense of simultaneous action."
+    },
+    {
+      "time": 35.66209999999404,
+      "text": "Me acuerdo de tú y yo chingando, mi amor",
+      "translation": "I remember you and me fucking, my love",
+      "grammar": "The phrase \"Me acuerdo de tú\" is an idiomatic expression that uses the preterite tense to convey a past experience or memory. The use of \"tú\" instead of \"yo\" emphasizes the focus on the other person in the speaker's recollection."
+    },
+    {
+      "time": 38.911799999982115,
+      "text": "Pero hay amor, no digas que no",
+      "translation": "But there is love, don't deny it.",
+      "grammar": "The phrase \"no digas que no\" is an idiomatic expression that conveys the idea of not denying or acknowledging something, rather than a literal instruction to refrain from saying something. It's used to emphasize the existence of love despite initial denials."
+    },
+    {
+      "time": 41.84519999998808,
+      "text": "Que no sientes amor, que ya se acabó todo",
+      "translation": "That you don't feel love, that it's all over.",
+      "grammar": "The phrase \"que no sientes amor\" is an indirect question in the present tense, used to express a doubt or uncertainty about someone's emotional state. The verb \"sientes\" agrees with the subject \"you\" in number and person."
+    },
+    {
+      "time": 45.34879999998212,
+      "text": "Todo lo que sentías por este loco",
+      "translation": "Everything you felt for this crazy guy",
+      "grammar": "The phrase \"todo lo que\" is an idiomatic expression indicating a strong emotional connection, equivalent to \"everything that\" or \"all the things that\". The verb \"sentías\" is in the imperfect tense, describing a past emotional state."
+    },
+    {
+      "time": 51.92819999998808,
+      "text": "Mentiras piadosas échales, hermosa",
+      "translation": "Tell them white lies, beautiful",
+      "grammar": "The phrase \"piadosas\" is an idiomatic expression meaning \"white\" or \"harmless\" lies, used to soften the truth. The verb \"échales\" is in the imperative mood, giving a direct command to tell these lies."
+    },
+    {
+      "time": 54.70679999998212,
+      "text": "Ven, dame un besito, te lleno de joyas",
+      "translation": "Come here, give me a little kiss, I'll shower you with jewels",
+      "grammar": "The imperative verb \"ven\" is used to address someone in an informal setting, and the phrase \"dame un besito\" is an idiomatic expression for a casual kiss."
+    },
+    {
+      "time": 57.986299999982116,
+      "text": "Por favor, diles a todos que tú eres mi amor",
+      "translation": "Please tell everyone that you are my love",
+      "grammar": "The phrase \"Por favor\" is an idiomatic expression meaning \"please\", used to soften the request and show politeness. The sentence uses the present tense (tú eres) to emphasize the speaker's strong feelings of affection."
+    },
+    {
+      "time": 66.32039999997616,
+      "text": "Ay, ¡uh!",
+      "translation": "Oh!",
+      "grammar": "This interjection \"Ay\" is an informal expression of surprise or emphasis, often used in spoken language to grab attention. The particle \"¡uh!\" is a filler word that can be translated as \"um\" or \"ah\", adding a touch of spontaneity and naturalness to the speaker's tone."
+    },
+    {
+      "time": 67.86859999999405,
+      "text": "Ahí te va, chiquita",
+      "translation": "Here you go, little one",
+      "grammar": "The phrase \"Ahí te va\" is an idiomatic expression in Spanish, using the informal \"tú\" form and the verb \"ir\" to convey a sense of giving or offering something."
+    },
+    {
+      "time": 69.10529999998212,
+      "text": "Tito Double P",
+      "translation": "Tito Double P",
+      "grammar": "This phrase is an interjection, used to express enthusiasm or approval."
+    },
+    {
+      "time": 72.59029999998212,
+      "text": "Que siga la mata dando, compa Tito",
+      "translation": "Let the good times keep rolling, compa Tito",
+      "grammar": "This line uses the imperative mood to express a command or request, with \"que\" functioning as an idiomatic expression equivalent to \"let\" in English."
+    },
+    {
+      "time": 75.69059999999403,
+      "text": "Ahí nomás",
+      "translation": "Right there",
+      "grammar": "This phrase uses the informal adverb \"ahí\" to emphasize location, and \"nomás\" is a colloquial intensifier meaning \"just\" or \"only\"."
+    },
+    {
+      "time": 90.47369999998809,
+      "text": "5-7 me la navego",
+      "translation": "5-7 I navigate it",
+      "grammar": "The phrase \"me la navego\" is an idiomatic expression, where \"me\" is a pronoun in the object position and \"la navego\" is a verb phrase in the present tense, indicating that the speaker is actively navigating something."
+    },
+    {
+      "time": 94.55569999998808,
+      "text": "Y en mi mente tus recuerdos",
+      "translation": "And in my mind your memories",
+      "grammar": "The verb \"tengo\" is omitted in the phrase \"en mi mente\" to indicate a figurative or mental possession, which is a common idiomatic expression in Spanish. This construction implies that the speaker's mind is filled with the memories of the person being addressed."
+    },
+    {
+      "time": 98.80459999999404,
+      "text": "Fumando un gallo, de otros culos me acuerdo",
+      "translation": "Smoking a joint, I remember other asses",
+      "grammar": "The phrase \"de otros culos\" is an idiomatic expression meaning \"from other people's experiences\" or \"about others,\" rather than literally referring to physical buttocks. The use of the verb \"acuerdo\" in the present perfect tense (\"me acuerdo\") emphasizes the speaker's ongoing reflection on past events."
+    },
+    {
+      "time": 103.25169999998808,
+      "text": "Playa, sol, arena, tequila",
+      "translation": "Beach, sun, sand, tequila",
+      "grammar": "This phrase uses a common idiomatic expression in Spanish, where a list of nouns is used to evoke a particular atmosphere or mood, rather than conveying specific information. The verb tense is not explicitly stated, as the focus is on creating a vivid image rather than describing a specific action."
+    },
+    {
+      "time": 107.45379999998212,
+      "text": "Y unas niñas que me incitan",
+      "translation": "And some girls who tempt me",
+      "grammar": "The verb \"incitan\" is in the present tense, indicating a habitual or ongoing action. The phrase \"me incitan\" uses the reflexive pronoun \"me\" to emphasize the speaker's personal experience and temptation."
+    },
+    {
+      "time": 112.9455,
+      "text": "A portarme mal, dicen que eso no es todos los días",
+      "translation": "Misbehaving, they say that's not an everyday occurrence",
+      "grammar": "The phrase \"dicen que\" is a common way to express indirect speech in Spanish, equivalent to \"they say that\" in English. The verb \"es\" agrees with the subject \"eso\" in number and gender, indicating that \"eso\" refers to a singular masculine noun."
+    },
+    {
+      "time": 115.806,
+      "text": "Pero hay amor, no digas que no",
+      "translation": "But there is love, don't deny it.",
+      "grammar": "The phrase \"no digas que no\" is an idiomatic expression that means \"don't deny it\" or \"don't pretend otherwise\". The verb \"digas\" is in the second person plural imperative form, indicating a command to the listener."
+    },
+    {
+      "time": 118.93479999998212,
+      "text": "Que no sientes amor, que ya se acabó todo",
+      "translation": "That you don't feel love, that it's all over.",
+      "grammar": "The phrase \"que no sientes amor\" is an indirect question in the present tense, used to express a doubt or uncertainty about someone's emotional state. The use of \"que\" introduces a subordinate clause, which functions as a dependent clause in the sentence."
+    },
+    {
+      "time": 125.6665,
+      "text": "Todo lo que sentías por este loco",
+      "translation": "Everything you felt for this crazy guy",
+      "grammar": "This phrase uses the present perfect tense to convey a sense of completed emotional experience, emphasizing the intensity and duration of the feelings. The idiomatic expression \"todo lo que\" translates to \"everything you\" in English, highlighting the completeness of the emotions experienced."
+    },
+    {
+      "time": 130.28909999999405,
+      "text": "Mentiras piadosas échales, hermosa",
+      "translation": "Tell them white lies, beautiful",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or general action, and \"piadosas\" is an adjective agreeing with the noun \"mentiras\"."
+    },
+    {
+      "time": 133.42709999999403,
+      "text": "Ven, dame un besito y te lleno de rosas",
+      "translation": "Come here, give me a little kiss and I'll fill you with roses",
+      "grammar": "The verb \"lleno\" is in the present tense, indicating a spontaneous action, while the phrase \"y te lleno\" uses the idiomatic expression \"llenar de\" meaning to fill someone with emotions or affection."
+    },
+    {
+      "time": 136.7325,
+      "text": "Por favor, diles a todos que tú eres mi amor",
+      "translation": "Please tell everyone that you are my love",
+      "grammar": "The phrase \"diles a todos\" is an idiomatic expression meaning \"tell everyone\", with the verb \"decir\" in the imperative mood and the pronoun \"todos\" agreeing with the indirect object \"a\"."
+    },
+    {
+      "time": 147.37019999998807,
+      "text": "Ay, mamá",
+      "translation": "Oh, Mom",
+      "grammar": "This interjection \"Ay\" is an informal and emotional expression of surprise or excitement, often used to get someone's attention. The pronoun \"mamá\" is a familiar term for mother, indicating a close relationship."
+    },
+    {
+      "time": 148.545,
+      "text": "Bélico, pero no tanto",
+      "translation": "Warlike, but not that much",
+      "grammar": "The phrase \"no tanto\" is an idiomatic expression used to soften the intensity of the adjective \"bélico\", indicating a degree of warlikeness that's not extreme."
+    },
+    {
+      "time": 153.17489999997616,
+      "text": "Ah",
+      "translation": "Ah",
+      "grammar": "This interjection \"Ah\" is an informal expression of surprise or emphasis, often used to draw attention or convey strong emotions."
+    }
+  ]
+}

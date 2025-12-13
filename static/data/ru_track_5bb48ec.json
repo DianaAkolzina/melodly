@@ -1,0 +1,319 @@
+{
+  "id": "ru_track_5bb48ec",
+  "title": "С неба",
+  "artist": "ELMAN feat. TRIDA",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_track_5bb48ec.mp3",
+  "duration": 189,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 5.682,
+      "text": "С неба капли бьют по ладоням",
+      "translation": "Drops from the sky hit my palms",
+      "grammar": "The verb 'бьют' is in the present tense and has a figurative meaning, emphasizing the intensity of the emotional impact."
+    },
+    {
+      "time": 10.45,
+      "text": "Как ты до сих пор меня не понял?",
+      "translation": "How come you still haven't understood me?",
+      "grammar": ""
+    },
+    {
+      "time": 13.499100000023843,
+      "text": "Который раз за тобой поневоле",
+      "translation": "How many times have I followed you against my will?",
+      "grammar": ""
+    },
+    {
+      "time": 16.427900000035763,
+      "text": "В огонь и в воду, в огонь и в воду",
+      "translation": "Through fire and water, through fire and water",
+      "grammar": ""
+    },
+    {
+      "time": 18.92480000001192,
+      "text": "С неба капли бьют по ладоням",
+      "translation": "Drops from the sky hit the palms of my hands",
+      "grammar": ""
+    },
+    {
+      "time": 32.054399999976155,
+      "text": "Как ты до сих пор меня не понял?",
+      "translation": "How come you still haven't understood me?",
+      "grammar": ""
+    },
+    {
+      "time": 35.67230000001192,
+      "text": "Который раз за тобой поневоле",
+      "translation": "How many times have I followed you against my will?",
+      "grammar": ""
+    },
+    {
+      "time": 38.52430000001192,
+      "text": "В огонь и в воду пойду",
+      "translation": "I'll go through fire and water",
+      "grammar": ""
+    },
+    {
+      "time": 41.4285,
+      "text": "С неба капли бьют по ладоням",
+      "translation": "Drops from the sky hit the palms of my hands",
+      "grammar": ""
+    },
+    {
+      "time": 45.33819999998808,
+      "text": "Как ты до сих пор меня не понял?",
+      "translation": "How come you still haven't understood me?",
+      "grammar": ""
+    },
+    {
+      "time": 48.458,
+      "text": "Который раз за тобой поневоле",
+      "translation": "How many times have I followed you against my will?",
+      "grammar": ""
+    },
+    {
+      "time": 51.79569999998808,
+      "text": "В огонь и в воду (yeah) пойду",
+      "translation": "I'll go through fire and water (yeah)",
+      "grammar": ""
+    },
+    {
+      "time": 54.55469999998808,
+      "text": "Птицы летят стаей из моего города",
+      "translation": "Birds are flying in a flock from my city",
+      "grammar": ""
+    },
+    {
+      "time": 64.33069999998808,
+      "text": "Я бы за ними, но мне тут не так холодно",
+      "translation": "I would follow them, but it’s not that cold here.",
+      "grammar": ""
+    },
+    {
+      "time": 64.33230000001193,
+      "text": "Родные улицы, путанные в проводах",
+      "translation": "Native streets tangled in wires",
+      "grammar": ""
+    },
+    {
+      "time": 64.33359999996424,
+      "text": "Я же всё отдал тогда за разговоры до утра",
+      "translation": "I gave everything back then for talking until the morning",
+      "grammar": ""
+    },
+    {
+      "time": 67.37159999996423,
+      "text": "Рассыпал слова, но ты не слышала",
+      "translation": "I was scattering words, but you didn’t hear.",
+      "grammar": ""
+    },
+    {
+      "time": 70.56230000001192,
+      "text": "Падала листва огненно-рыжая",
+      "translation": "The fiery red leaves fell",
+      "grammar": ""
+    },
+    {
+      "time": 73.84380000001192,
+      "text": "На твоих устах любовь вся выжжена",
+      "translation": "All the love is burned out on your lips",
+      "grammar": ""
+    },
+    {
+      "time": 77.06289999997615,
+      "text": "Но я докажу, что она выживет",
+      "translation": "But I will prove that she will survive.",
+      "grammar": ""
+    },
+    {
+      "time": 80.75109999996424,
+      "text": "Моя кровь, ты всё сжигаешь в венах, как итог",
+      "translation": "My blood, you burn everything in your veins, as a result",
+      "grammar": ""
+    },
+    {
+      "time": 83.69180000001192,
+      "text": "Парит то, что для тебя уже на всё готов",
+      "translation": "It's soaring that he's ready to do anything for you.",
+      "grammar": ""
+    },
+    {
+      "time": 88.63069999998808,
+      "text": "Время улетает, как дым",
+      "translation": "Time flies away like smoke",
+      "grammar": ""
+    },
+    {
+      "time": 91.21480000001192,
+      "text": "Легко ли быть молодым?",
+      "translation": "Is it easy to be young?",
+      "grammar": ""
+    },
+    {
+      "time": 93.63019999998808,
+      "text": "С неба капли бьют по ладоням",
+      "translation": "Drops from the sky hit the palms of my hands",
+      "grammar": ""
+    },
+    {
+      "time": 97.87709999996424,
+      "text": "Как ты до сих пор меня не понял?",
+      "translation": "How come you still haven't understood me?",
+      "grammar": ""
+    },
+    {
+      "time": 101.31280000001192,
+      "text": "Который раз за тобой поневоле",
+      "translation": "How many times have I followed you against my will?",
+      "grammar": ""
+    },
+    {
+      "time": 104.16930000001192,
+      "text": "В огонь и в воду пойду",
+      "translation": "I'll go through fire and water",
+      "grammar": ""
+    },
+    {
+      "time": 106.71839999997616,
+      "text": "С неба капли бьют по ладоням",
+      "translation": "Drops from the sky hit the palms of my hands",
+      "grammar": ""
+    },
+    {
+      "time": 111.27569999998808,
+      "text": "Как ты до сих пор меня не понял?",
+      "translation": "How come you still haven't understood me?",
+      "grammar": ""
+    },
+    {
+      "time": 115.8275,
+      "text": "Который раз за тобой поневоле",
+      "translation": "For the umpteenth time, I'm forced to follow you",
+      "grammar": "The phrase 'который раз' is an idiomatic expression meaning 'for the umpteenth time', with 'который' being a quantifier indicating repetition rather than a specific number."
+    },
+    {
+      "time": 117.29839999997616,
+      "text": "В огонь и в воду",
+      "translation": "Through fire and water",
+      "grammar": ""
+    },
+    {
+      "time": 119.17780000001193,
+      "text": "Наши изгибы — линии, небо омоет ливнями",
+      "translation": "Our curves are lines, the sky will wash with showers",
+      "grammar": ""
+    },
+    {
+      "time": 122.3905,
+      "text": "Становлюсь уязвимее, лучше бы увезли меня",
+      "translation": "I'm becoming more vulnerable, it would be better if they took me away",
+      "grammar": ""
+    },
+    {
+      "time": 125.61539999997616,
+      "text": "Дорогая, ты именно та, что может остыть, а я",
+      "translation": "Darling, you are the one who can cool down, and I",
+      "grammar": ""
+    },
+    {
+      "time": 128.91730000001192,
+      "text": "Вроде могу забыть тебя, но то и это губительно",
+      "translation": "It seems I can forget you, but even this is destructive",
+      "grammar": ""
+    },
+    {
+      "time": 132.18169999998807,
+      "text": "Одиночкой до Питера, я вернусь тем же вечером",
+      "translation": "I'll go to St. Petersburg alone, I'll be back that same evening",
+      "grammar": ""
+    },
+    {
+      "time": 135.27839999997616,
+      "text": "Выйду на нашей улице, чтоб ты вышла на встречу мне",
+      "translation": "I'll go out on our street so that you come out to meet me",
+      "grammar": ""
+    },
+    {
+      "time": 139.09169999998807,
+      "text": "И тебе на ладони вдруг линия померещится",
+      "translation": "And suddenly you see a line on your palm",
+      "grammar": ""
+    },
+    {
+      "time": 142.01039999997616,
+      "text": "Её раньше не было, мелкая, еле держится",
+      "translation": "It wasn't there before, it's small and barely hanging on.",
+      "grammar": ""
+    },
+    {
+      "time": 146.165,
+      "text": "Отдай, дай мне глоток себя",
+      "translation": "Give me, give me a sip of yourself",
+      "grammar": ""
+    },
+    {
+      "time": 151.1063000000119,
+      "text": "Пока ты есть, живу и я",
+      "translation": "As long as you exist, I live too.",
+      "grammar": ""
+    },
+    {
+      "time": 154.43309999996424,
+      "text": "С тобою крутится земля (в огонь и в воду, в огонь и в воду)",
+      "translation": "With you the earth spins (through fire and water, through fire and water)",
+      "grammar": ""
+    },
+    {
+      "time": 159.31880000001192,
+      "text": "С неба капли бьют по ладоням",
+      "translation": "Drops from the sky hit the palms of my hands",
+      "grammar": ""
+    },
+    {
+      "time": 163.55319999998807,
+      "text": "Как ты до сих пор меня не понял?",
+      "translation": "How come you still haven't understood me?",
+      "grammar": ""
+    },
+    {
+      "time": 167.0975,
+      "text": "Который раз за тобой поневоле",
+      "translation": "How many times have I followed you against my will?",
+      "grammar": ""
+    },
+    {
+      "time": 170.14789999997615,
+      "text": "В огонь и в воду пойду",
+      "translation": "I'll go through fire and water",
+      "grammar": ""
+    },
+    {
+      "time": 172.58810000002384,
+      "text": "С неба капли бьют по ладоням",
+      "translation": "Drops from the sky hit the palms of my hands",
+      "grammar": ""
+    },
+    {
+      "time": 176.7241999999881,
+      "text": "Как ты до сих пор меня не понял?",
+      "translation": "How come you still haven't understood me?",
+      "grammar": ""
+    },
+    {
+      "time": 180.34719999998808,
+      "text": "Который раз за тобой поневоле",
+      "translation": "How many times have I followed you against my will?",
+      "grammar": ""
+    },
+    {
+      "time": 183.66339999997615,
+      "text": "В огонь и в воду пойду",
+      "translation": "I'll go through fire and water",
+      "grammar": ""
+    }
+  ]
+}

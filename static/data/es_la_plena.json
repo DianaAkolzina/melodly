@@ -1,0 +1,325 @@
+{
+  "id": "es_la_plena",
+  "title": "La Plena",
+  "artist": "W Sound 05 — W Sound feat. Beéle & Ovy On The Drums",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_la_plena.mp3",
+  "duration": 150,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 8.55019999998808,
+      "text": "O-O-Ovy On The Drums",
+      "translation": "O-O-Ovy On The Drums",
+      "grammar": "This line is an interjection, used to express excitement or emphasis. It's written in the present tense and doesn't follow traditional grammar rules, as it's meant to be a energetic and attention-grabbing phrase rather than a grammatically correct sentence."
+    },
+    {
+      "time": 10.66969999998808,
+      "text": "Eres la niña de mis ojos tú",
+      "translation": "You are the apple of my eye",
+      "grammar": "This idiomatic expression uses the present tense to convey a permanent or timeless quality, emphasizing the speaker's deep affection and admiration for the person addressed. The phrase \"niña de mis ojos\" is an equivalent idiom in English, also conveying a sense of cherishedness and favor."
+    },
+    {
+      "time": 13.225,
+      "text": "Eres todo lo que quiero yo",
+      "translation": "You are everything I want",
+      "grammar": "This line uses the present tense and the verb \"ser\" to express a permanent or essential quality, emphasizing the speaker's strong desire. The phrase \"yo\" is used for emphasis, highlighting the speaker's personal involvement in their feelings."
+    },
+    {
+      "time": 15.41219999998808,
+      "text": "¿Una cerveza pa calmar la sed?, no",
+      "translation": "A beer to quench your thirst? No.",
+      "grammar": "The phrase \"¿Una cerveza pa calmar la sed?\" is an informal way of asking if someone wants a beer, using the present tense and an idiomatic expression \"pa calmar\" meaning \"to quench\"."
+    },
+    {
+      "time": 17.69540000000596,
+      "text": "Mejor ser besado por su boquita, amor",
+      "translation": "Better to be kissed by her little mouth, love",
+      "grammar": "The phrase \"ser besado\" is in the passive voice, indicating a more pleasant experience than actively kissing someone. The use of \"mejor\" implies a subjective opinion, making it an idiomatic expression emphasizing the pleasure of being kissed."
+    },
+    {
+      "time": 20.127,
+      "text": "Las tentaciones así como tú",
+      "translation": "Temptations just like you",
+      "grammar": "This phrase uses the idiomatic expression \"así como tú\" to mean \"just like you\", implying a sense of shared experience or understanding, and is in the present tense."
+    },
+    {
+      "time": 22.338,
+      "text": "Merecen pecados como yo",
+      "translation": "They deserve sins like me",
+      "grammar": "The phrase \"merecer pecados\" is an idiomatic expression meaning \"to be worthy of one's mistakes\". The verb \"merecer\" is in the third person plural form, agreeing with the subject \"ellos\" (they), indicating that the action is attributed to them."
+    },
+    {
+      "time": 25.09629999998212,
+      "text": "Ay, si tú quieres, solo da la lu' (yeh-yeh)",
+      "translation": "Oh, if you want, just turn on the light (yeah-yeah)",
+      "grammar": "The phrase \"Ay, si tú quieres\" is an idiomatic expression that combines a vocative (\"Ay\") with a conditional clause in the present tense, conveying a sense of willingness or permission."
+    },
+    {
+      "time": 27.496,
+      "text": "Tú sabes que no vo'a a decir que no",
+      "translation": "You know I'm not going to say no",
+      "grammar": "This line uses the informal second-person singular pronoun \"tú\" and the present tense of the verb \"saber\" to convey a sense of familiarity and intimacy, characteristic of spoken language in Spanish. The phrase \"no vo'a\" is an idiomatic expression meaning \"not going to\", which adds a tone of determination to the speaker's statement."
+    },
+    {
+      "time": 29.119,
+      "text": "Ay, tienes la magia, tú sí tiene' una vainita",
+      "translation": "Oh, you've got the magic, you've got something special",
+      "grammar": "The phrase \"tienes la magia\" is in the present perfect tense, indicating that the speaker has already acquired or experienced the magic. The use of \"tienes\" instead of \"tiene\" agrees with the subject pronoun \"tú\", emphasizing the possessive nature of the magic."
+    },
+    {
+      "time": 32.16129999998212,
+      "text": "Que a mí me encanta, me enloquece (alright)",
+      "translation": "I love it, it drives me crazy (alright)",
+      "grammar": "The phrase \"me encanta\" is in the present tense and uses the pronoun \"me\" to indicate the subject's enthusiasm. The idiomatic expression \"enloquece\" means \"drives someone crazy\", using the verb in the third person singular to emphasize its effect on the speaker."
+    },
+    {
+      "time": 34.60740000000596,
+      "text": "Dormir contigo fue amor a primera vista",
+      "translation": "Sleeping with you was love at first sight",
+      "grammar": "The phrase \"a primera vista\" is an idiom that conveys the idea of instantaneous attraction or love, often used to describe a strong emotional connection."
+    },
+    {
+      "time": 36.84629999998212,
+      "text": "Cuando bailabas así",
+      "translation": "When you danced like that",
+      "grammar": "This sentence uses the present perfect tense (when you have done something up to the moment of speaking) and the adverb \"así\" to describe a past action, creating a nostalgic tone."
+    },
+    {
+      "time": 39.41719999998808,
+      "text": "Por el cuellito, besito y lengüita",
+      "translation": "A little kiss and a little tongue on the neck",
+      "grammar": "This idiomatic expression uses the informal pronoun \"cuellito\" to refer to someone's neck in an affectionate manner, emphasizing the playful and intimate nature of the gesture."
+    },
+    {
+      "time": 42.0995,
+      "text": "Sé que te encanta, te enloquece",
+      "translation": "I know you love it, it drives you crazy",
+      "grammar": "The phrase \"te enloquece\" is an idiomatic expression that uses the verb \"enloquecer\" in the present tense to convey a strong emotional effect, equivalent to saying \"it drives you crazy\". The pronoun \"te\" agrees with the subject \"you\" in number and person."
+    },
+    {
+      "time": 44.12829999998212,
+      "text": "Sé que te encanta, te enloquece",
+      "translation": "I know you love it, it drives you crazy",
+      "grammar": "The phrase \"te enloquece\" is an idiomatic expression that means \"drives someone crazy\" in English. It's a present tense construction using the verb \"enloquecer\" which implies a habitual or ongoing action."
+    },
+    {
+      "time": 47.77059999999404,
+      "text": "Y a veces",
+      "translation": "And sometimes",
+      "grammar": "The phrase \"Y a veces\" is an idiomatic expression used to convey a sense of occasional or intermittent occurrence, with \"y\" serving as a conjunction equivalent to \"and\"."
+    },
+    {
+      "time": 48.768,
+      "text": "Uh-uh-uh-uh, uh-uh, uh-uh (sé que te encanta, te enloquece)",
+      "translation": "Uh-uh-uh-uh, uh-uh, uh-uh (I know you love it, it drives you crazy)",
+      "grammar": "This line uses the interjection \"Uh-uh\" to express strong negation or refusal, often accompanied by a headshake. The phrase is informal and conversational, typical of spoken language in Spanish."
+    },
+    {
+      "time": 52.541699999988076,
+      "text": "Uh-uh-uh-uh, uh-uh, uh-uh",
+      "translation": "Uh-uh-uh-uh, uh-uh, uh-uh",
+      "grammar": "This line is an interjection, used to express strong negation or refusal, with the repeated \"uh-uh\" emphasizing the speaker's firm denial."
+    },
+    {
+      "time": 57.395,
+      "text": "¡La plena!",
+      "translation": "The full set!",
+      "grammar": "This interjection ¡La plena! is an idiomatic expression used to express enthusiasm or excitement, and its tone is informal."
+    },
+    {
+      "time": 58.132299999982116,
+      "text": "Uh-uh-uh-uh, uh-uh, uh-uh",
+      "translation": "Uh-uh-uh-uh, uh-uh, uh-uh",
+      "grammar": "This line is an interjection, used to express strong negation or refusal. The repeated \"uh-uh\" is an idiomatic expression that conveys a sense of firm denial."
+    },
+    {
+      "time": 62.30840000000596,
+      "text": "Uh-uh-uh-uh (óyelo), uh-uh, uh-uh",
+      "translation": "Uh-uh-uh-uh (listen to it), uh-uh, uh-uh",
+      "grammar": "This interjection \"óyelo\" is an idiomatic expression used to emphasize the importance of listening to something, with a tone of excitement or curiosity."
+    },
+    {
+      "time": 67.63029999998211,
+      "text": "Oye, lo que pasa es que desde que vi tu cara",
+      "translation": "Hey, the thing is, ever since I saw your face",
+      "grammar": "The phrase \"lo que pasa es\" is an idiomatic expression translating to \"the thing is\", used to introduce a explanation or justification. The verb \"vi\" is in the preterite tense, indicating a completed action in the past."
+    },
+    {
+      "time": 69.60909999999404,
+      "text": "Me enamoro de ti toda, es que tú tiene' un no sé qué",
+      "translation": "I'm falling completely in love with you, it's just that you have a certain something",
+      "grammar": "The phrase \"toda\" is an adverb indicating the extent of the action, equivalent to \"completely\" or \"totally\"."
+    },
+    {
+      "time": 71.72929999998212,
+      "text": "Siento que te pasa lo mismo cuando te miro",
+      "translation": "I feel like you feel the same way when I look at you",
+      "grammar": "The phrase \"Siento que\" is an idiomatic expression indicating a subjective experience, equivalent to \"I feel that\" or \"It seems to me\". The verb \"siento\" is in the present tense, expressing a general feeling."
+    },
+    {
+      "time": 74.24540000000596,
+      "text": "¿Qué dices si nos parchamos a ver el amanecer? (¡Prr, uh!)",
+      "translation": "What do you say we hang out and watch the sunrise? (Prr, uh!)",
+      "grammar": "The phrase \"¿Qué dices?\" is an informal way to ask someone's opinion or suggestion, using the present tense of the verb \"decir\" to convey a sense of spontaneity. The interjection \"¡Prr, uh!\" is a casual expression of hesitation or uncertainty."
+    },
+    {
+      "time": 77.0055,
+      "text": "Quiero hacerte todo, quiero que tú seas mi toda",
+      "translation": "I want to do everything to you, I want you to be my everything",
+      "grammar": "The phrase \"quiero que tú seas\" is an example of the subjunctive mood used in a desire or wish, indicating that the speaker's intention is not necessarily a reality."
+    },
+    {
+      "time": 79.25890000000597,
+      "text": "Le digo: \"Sobelove\", y luego viene y me lo soba (¡uah!)",
+      "translation": "I say to him, \"Sobelove,\" and then he comes and rubs it (wow!)",
+      "grammar": "The phrase \"me lo soba\" is an idiomatic expression meaning \"to touch or handle something\", with the verb \"sobar\" used in a colloquial sense. The use of the pronoun \"lo\" agrees with the masculine noun implied by the context, and the particle \"me\" indicates the direct object of the action."
+    },
+    {
+      "time": 81.6715,
+      "text": "Vamo a vernos luego, si no te gusta el infierno",
+      "translation": "Let's meet later, if you don't like hell",
+      "grammar": "The phrase \"Vamo\" is an informal way to say \"let's go\" or \"come on\", using the vosotros form of the verb \"ir\" in a colloquial expression. This idiom conveys a sense of urgency and friendliness, typical of spoken language among friends."
+    },
+    {
+      "time": 84.47859999999405,
+      "text": "¿Pa qué vienes al diablo y lo emboba'?",
+      "translation": "Why do you come to the devil and bewitch him?",
+      "grammar": "The phrase \"pa qué\" is an idiomatic expression meaning \"why\" or \"what for\", used to inquire about someone's purpose or intention."
+    },
+    {
+      "time": 86.5145,
+      "text": "Ella, parcerita paisa; y yo, costeño coleto",
+      "translation": "She's a paisa friend; and I'm a coastal guy from Colima.",
+      "grammar": "The use of \"parcerita\" and \"costeño\" is an idiomatic expression to refer to someone from a specific region in Mexico, with \"paisa\" implying a strong sense of belonging and \"coleto\" emphasizing the speaker's connection to their coastal hometown."
+    },
+    {
+      "time": 89.48440000000596,
+      "text": "En una baldosa la aprieto",
+      "translation": "I squeeze it on a tile",
+      "grammar": "The phrase \"la aprieto\" is an idiomatic expression, where \"apretar\" means to squeeze or press, but in this context, it implies a strong emotional connection rather than physical force."
+    },
+    {
+      "time": 91.42979999998212,
+      "text": "Pa hablarte claro, cero visaje",
+      "translation": "To put it bluntly, zero pretense.",
+      "grammar": "The phrase \"Pa hablarte claro\" is an idiomatic expression that uses the preposition \"pa\" to mean \"to\" or \"for\", and the verb \"hablarte\" in the infinitive form to indicate the purpose of speaking clearly."
+    },
+    {
+      "time": 94.57940000000596,
+      "text": "Se sabe que tú eres puro veneno",
+      "translation": "It is known that you are pure poison.",
+      "grammar": "The phrase \"se sabe\" is a third-person singular construction used to express general knowledge or common opinion, equivalent to \"it is said\" in English."
+    },
+    {
+      "time": 97.06340000000596,
+      "text": "Ay, tienes la magia, tú sí tiene' una vainita",
+      "translation": "Oh, you've got the magic, you've got something special",
+      "grammar": "The phrase \"tienes la magia\" is in the present perfect tense, indicating that the speaker has already acquired or developed the magic. The use of \"tienes\" instead of \"tiene\" agrees with the subject pronoun \"tú\", emphasizing the exclusive possession of this quality by the addressee."
+    },
+    {
+      "time": 99.939,
+      "text": "Que a mí me encanta, me enloquece",
+      "translation": "I love it, it drives me crazy",
+      "grammar": "The phrase \"me encanta\" is in the present tense and uses the informal pronoun \"me\" to express enthusiasm, while \"me enloquece\" is in the third person singular form with the indirect object \"a mí\", emphasizing the intensity of the emotion."
+    },
+    {
+      "time": 102.30029999998212,
+      "text": "Dormir contigo fue amor a primera vista",
+      "translation": "Sleeping with you was love at first sight",
+      "grammar": "The phrase \"a primera vista\" is an idiom that translates to \"at first sight,\" conveying the idea of instantaneous attraction or infatuation."
+    },
+    {
+      "time": 104.74259999999404,
+      "text": "Cuando bailabas así",
+      "translation": "When you danced like that",
+      "grammar": "The phrase \"Cuando bailabas\" is in the past imperfect tense, indicating an ongoing or repeated action in the past. The use of \"bailabas\" instead of \"bailaste\" (the correct form for a singular subject) creates a sense of intimacy and familiarity with the speaker's experience."
+    },
+    {
+      "time": 107.27319999998808,
+      "text": "Por el cuellito, besito y lengüita",
+      "translation": "A little kiss and a little tongue on the neck",
+      "grammar": "This idiomatic expression uses the informal pronoun \"cuellito\" to refer to someone's neck in an affectionate manner, emphasizing the playful and intimate nature of the gesture."
+    },
+    {
+      "time": 109.63990000000597,
+      "text": "Sé que te encanta, te enloquece",
+      "translation": "I know you love it, it drives you crazy",
+      "grammar": "The verb phrase \"te encanta\" is in the present tense and expresses a habitual or general truth about someone's feelings, while \"te enloquece\" is in the present continuous tense, indicating an ongoing intense emotional state."
+    },
+    {
+      "time": 111.988,
+      "text": "Sé que te encanta, te enloquece",
+      "translation": "I know you love it, it drives you crazy",
+      "grammar": "The verb phrase \"te encanta\" and \"te enloquece\" are in the present tense, using the informal \"you\" (tú) and the subjunctive mood to express a hypothetical or emotional state."
+    },
+    {
+      "time": 115.10909999999404,
+      "text": "Y a veces",
+      "translation": "And sometimes",
+      "grammar": "This idiomatic expression uses the present tense to convey a general truth about the speaker's experience, rather than referring to a specific time. The phrase \"a veces\" is an adverbial phrase that means \"sometimes\"."
+    },
+    {
+      "time": 116.73079999998212,
+      "text": "Uh-uh-uh-uh, uh-uh, uh-uh (sé que te encanta, te enloquece)",
+      "translation": "Uh-uh-uh-uh, uh-uh, uh-uh (I know you love it, it drives you crazy)",
+      "grammar": "This line uses the idiomatic expression \"uh-uh\" to convey strong negation or rejection, similar to saying \"no way\". The sentence also employs a rhetorical question (\"sé que te encanta\") to emphasize the speaker's point."
+    },
+    {
+      "time": 121.02240000000596,
+      "text": "Uh-uh-uh-uh, uh-uh, uh-uh (óyelo)",
+      "translation": "Uh-uh-uh-uh, uh-uh, uh-uh (listen to it)",
+      "grammar": "This line is an interjection, using the onomatopoeic \"uh-uh\" to express hesitation or refusal, with no grammatical significance in terms of tense, aspect, or mood."
+    },
+    {
+      "time": 125.35679999998212,
+      "text": "¡La plena!",
+      "translation": "The full set!",
+      "grammar": "This interjection ¡La plena! is an exclamation used to express enthusiasm or excitement, often in a social context. It's typically translated as \"The full set!\" but its tone and nuance are more akin to the English phrase \"Let's party!\" or \"It's time to get wild!\"."
+    },
+    {
+      "time": 126.13109999999403,
+      "text": "Uh-uh-uh-uh, uh-uh, uh-uh (sé que te encanta, te enloquece)",
+      "translation": "Uh-uh-uh-uh, uh-uh, uh-uh (I know you love it, it drives you crazy)",
+      "grammar": "The repeated \"uh-uh\" is an interjection used to express strong agreement or confirmation, similar to saying \"yes, yes, yes\". The sentence structure and verb tenses remain unchanged, with the main clause in the present tense (\"te encanta\", \"it drives you crazy\")."
+    },
+    {
+      "time": 130.78570000001787,
+      "text": "Uh-uh-uh-uh, uh-uh, uh-uh",
+      "translation": "Uh-uh-uh-uh, uh-uh, uh-uh",
+      "grammar": "This line is an interjection, used to express strong negation or refusal. The repeated \"uh-uh\" is an idiomatic expression in English, conveying a sense of firm denial or rejection."
+    },
+    {
+      "time": 135.02280000001193,
+      "text": "Beéle (¡wuh-wuh-wuh-wuh-wuh-wuh!)",
+      "translation": "Beéle (wuh-wuh-wuh-wuh-wuh-wuh!)",
+      "grammar": "The interjection ¡wuh-wuh-wuh-wuh-wuh-wuh! is an onomatopoeic expression, mimicking the sound of excitement or celebration, often used to emphasize enthusiasm."
+    },
+    {
+      "time": 136.9245,
+      "text": "Ovy On The Rasta Drums (lo tomo)",
+      "translation": "Ovy On The Rasta Drums (I'll take it)",
+      "grammar": "The phrase \"lo tomo\" is an informal way of saying \"I'll take it\", using the verb \"tomar\" in the first person singular future tense, with a colloquial particle \"lo\" that softens the tone."
+    },
+    {
+      "time": 140.42320000001789,
+      "text": "W Sound",
+      "translation": "W Sound",
+      "grammar": "This interjection \"W Sound\" is an onomatopoeic expression that imitates the sound of a car engine or a revving motor, used to convey excitement or energy."
+    },
+    {
+      "time": 142.6795,
+      "text": "Aye",
+      "translation": "Aye",
+      "grammar": "This interjection \"Aye\" is an informal way to express strong agreement or confirmation, often used in spoken English. It can be used interchangeably with the more formal phrase \"Yes\"."
+    },
+    {
+      "time": 145.1922000000179,
+      "text": "Alright",
+      "translation": "Alright",
+      "grammar": "This interjection \"Alright\" is used to express agreement or confirmation, and its informal tone is typical of spoken English."
+    }
+  ]
+}

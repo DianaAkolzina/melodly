@@ -1,0 +1,16 @@
+{
+  "language": "ru",
+  "title": "10",
+  "artist": "Эндшпиль",
+  "slug": "10",
+  "track_length_seconds": 164,
+  "source": {
+    "provider": "musixmatch",
+    "track_id": 343967242,
+    "commontrack_id": 213668737,
+    "track_share_url": "https://www.musixmatch.com/lyrics/%D0%AD%D0%BD%D0%B4%D1%88%D0%BF%D0%B8%D0%BB%D1%8C/10?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "track_edit_url": "https://www.musixmatch.com/lyrics/%D0%AD%D0%BD%D0%B4%D1%88%D0%BF%D0%B8%D0%BB%D1%8C/10/edit?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "search_language": "ru",
+    "fetched_at": "2025-11-27T15:00:19.647784Z"
+  }
+}

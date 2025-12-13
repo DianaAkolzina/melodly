@@ -1,0 +1,691 @@
+{
+  "id": "gd_hg_air_a_bhonaid_mhir",
+  "title": "Hùg Air A' Bhonaid Mhòir",
+  "artist": "Julie Fowlis",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "gd",
+  "to_language": "en",
+  "audio": "/audio/gd_hg_air_a_bhonaid_mhir.mp3",
+  "duration": 178,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Hùg air a' bhonaid mhòir",
+      "translation": "Hug on the big bonnet",
+      "grammar": "This idiomatic phrase uses the present participle \"hùg\" (hugging) in the sense of embracing or being fond of, rather than physical hugging. The preposition \"air\" indicates a figurative location, equivalent to \"on\" in English."
+    },
+    {
+      "time": 1.48,
+      "text": "Cuiribh oirre 's leigibh leatha",
+      "translation": "Put it on her and let her go.",
+      "grammar": "The verb \"leigibh\" is in the imperative mood, indicating a command or instruction. The use of \"leatha\" (let her) implies permission or consent, rather than obligation or coercion."
+    },
+    {
+      "time": 2.959,
+      "text": "Tuilleadh air a' bhonaid eile",
+      "translation": "More on the other side",
+      "grammar": "In Scottish Gaelic, \"tuilleadh\" is an adverb indicating addition or further action in the future tense, often translated as \"more\"."
+    },
+    {
+      "time": 4.439,
+      "text": "Chan eil leth gu leòr oirre",
+      "translation": "Half of it is not enough.",
+      "grammar": "This line uses the idiomatic expression \"chan eil\" to convey a sense of negation, equivalent to \"it's not\" in English. The verb \"leth\" is in the present tense and agrees with the subject \"leòr\", emphasizing the idea that even half is insufficient."
+    },
+    {
+      "time": 6.155,
+      "text": "Hùg air a' bhonaid mhòir",
+      "translation": "Hug on the big bonnet",
+      "grammar": "The phrase \"air a' bhonaid\" is an idiomatic expression meaning \"on top of\" or \"atop\", using the preposition \"air\" in its figurative sense, rather than its literal one."
+    },
+    {
+      "time": 7.635,
+      "text": "Cuiribh oirre 's leigibh leatha",
+      "translation": "Put it on her and let her go.",
+      "grammar": "The phrase \"leigibh\" is a second-person plural imperative, used to instruct someone to release or let go of something. The verb \"leigibh\" agrees with the indirect object \"leatha\" in number and person."
+    },
+    {
+      "time": 9.114,
+      "text": "Tuilleadh air a' bhonaid eile",
+      "translation": "More on the other side",
+      "grammar": "The phrase \"tuilleadh air\" is an idiomatic expression indicating addition or further development, similar to \"more on\" in English. The verb \"a' bhonaid\" is in the nominative case and agrees with the pronoun \"eile\", meaning \"the other side\"."
+    },
+    {
+      "time": 10.594,
+      "text": "Chan eil leth gu leòr oirre",
+      "translation": "Half of it is not enough.",
+      "grammar": "The phrase \"chan eil\" is a negation in the present tense, equivalent to \"is not\". The idiom \"leth gu leòr\" means \"too little\" or \"not enough\", emphasizing the speaker's dissatisfaction."
+    },
+    {
+      "time": 12.31,
+      "text": "Bhonaid a bh' aig Dòmhnall Bàn",
+      "translation": "A cap worn by Donald Bàn",
+      "grammar": "The phrase \"a bh' aig\" is an idiomatic construction indicating possession, equivalent to \"of\" in English. The verb \"bhonaid\" is in the possessive form, agreeing with the noun \"cap\"."
+    },
+    {
+      "time": 14.025,
+      "text": "Ann an Bothalam na tàmh",
+      "translation": "In the quiet of Botham",
+      "grammar": "This line uses the present participle \"na tàmh\" to convey a sense of being in a state or condition, similar to English \"in the quiet of\"."
+    },
+    {
+      "time": 15.505,
+      "text": "Bha i uiread ris an spàrr",
+      "translation": "She was so excited.",
+      "grammar": "The verb \"bha\" is in the past continuous tense, indicating a prolonged state of excitement. The phrase \"uilead ris\" is an idiomatic expression meaning \"so\" or \"very\"."
+    },
+    {
+      "time": 17.221,
+      "text": "B' àird' i na lòban",
+      "translation": "She was high in the hills.",
+      "grammar": "The verb \"b' àird'\" is in the past continuous tense, indicating an ongoing action at a specific point in the past. The use of \"àird\" (high) with \"i na lòban\" (in the hills) creates an idiomatic expression meaning to be elevated or prominent."
+    },
+    {
+      "time": 18.701,
+      "text": "Bhonaid a bh' aig Dòmhnall Bàn",
+      "translation": "A cap worn by Donald Bàn",
+      "grammar": "This line uses the present tense of the possessive verb \"a\" to indicate that the cap belongs to Donald Bàn, with the pronoun \"bhonaid\" agreeing in number and case."
+    },
+    {
+      "time": 20.416,
+      "text": "Ann an Bothalam na tàmh",
+      "translation": "In the quiet of Botham",
+      "grammar": "The phrase \"ann an\" is a Scottish Gaelic idiomatic expression indicating location or time, equivalent to English \"in the\"."
+    },
+    {
+      "time": 21.896,
+      "text": "Bha i uiread ris an spàrr",
+      "translation": "She was so excited.",
+      "grammar": "The verb \"bha\" is in the past continuous tense, indicating a prolonged state of excitement. The phrase \"uilead ris\" is an idiomatic expression meaning \"so\" or \"very\"."
+    },
+    {
+      "time": 23.612,
+      "text": "B' àird' i na lòban",
+      "translation": "She was high in the hills.",
+      "grammar": "The phrase \"b' àird\" is a idiomatic expression meaning \"to be high\" or \"to be elevated\", using the past tense of the verb \"to be\" (bheil) to convey a sense of being in a superior or lofty position."
+    },
+    {
+      "time": 25.092,
+      "text": "Hùg air a' bhonaid mhòir",
+      "translation": "Hug on the big bonnet",
+      "grammar": "The phrase \"hùg air\" is an idiomatic expression meaning \"to hug\" or \"to lean against\", with \"air\" functioning as a preposition indicating location, rather than its usual meaning of \"on\"."
+    },
+    {
+      "time": 26.571,
+      "text": "Cuiribh oirre 's leigibh leatha",
+      "translation": "Put it on her and let her go.",
+      "grammar": "The verb \"leigibh\" is in the imperative mood, indicating a command or instruction. The use of \"leigibh\" (let them/you go) implies a plural or polite tone, which is common in Scottish Gaelic."
+    },
+    {
+      "time": 28.051,
+      "text": "Tuilleadh air a' bhonaid eile",
+      "translation": "More on the other side",
+      "grammar": "This idiomatic phrase uses the preposition \"air\" to mean \"on\" or \"about\", rather than its literal meaning of \"on top of\"."
+    },
+    {
+      "time": 29.531,
+      "text": "Chan eil leth gu leòr oirre",
+      "translation": "Half of it is not enough.",
+      "grammar": "The phrase \"chan eil\" is a negation construction in Gaelic, equivalent to \"it's not\" or \"there isn't\". The verb \"eil\" agrees with the subject \"leth\" (half) in number and case."
+    },
+    {
+      "time": 31.246,
+      "text": "Hùg air a' bhonaid mhòir",
+      "translation": "Hug on the big bonnet",
+      "grammar": "The phrase \"hùg air\" is an idiomatic expression meaning \"to hug\" or \"to lean against\", with \"air\" functioning as a preposition indicating location, rather than its literal meaning of \"on\"."
+    },
+    {
+      "time": 32.726,
+      "text": "Cuiribh oirre 's leigibh leatha",
+      "translation": "Put it on her and let her go.",
+      "grammar": "The verb \"leigibh\" is in the imperative mood, indicating a command or instruction. The use of \"leigibh\" instead of \"leigi\" (the singular form) shows agreement with the plural pronoun \"tha\" implied by \"leatha\", emphasizing the action's applicability to multiple people."
+    },
+    {
+      "time": 34.206,
+      "text": "Tuilleadh air a' bhonaid eile",
+      "translation": "More on the other side",
+      "grammar": "The phrase \"tuilleadh air\" is an idiomatic expression indicating addition or more of something, similar to English \"more on\". The verb \"a' bhonaid\" is in the nominative case and agrees with the pronoun \"eile\", meaning \"the other side\"."
+    },
+    {
+      "time": 35.686,
+      "text": "Chan eil leth gu leòr oirre",
+      "translation": "Half of it is not enough.",
+      "grammar": "This line uses the idiomatic expression \"chan eil\" to convey a sense of negation, equivalent to \"it's not\" in English. The verb \"leth\" remains in the present tense, emphasizing the speaker's conviction that half is insufficient."
+    },
+    {
+      "time": 37.401,
+      "text": "Bhonaid a bh' aig Dòmhnall Bàn",
+      "translation": "A cap worn by Donald Bàn",
+      "grammar": "The phrase \"a bh' aig\" is a possessive construction in Gaelic, where the verb \"tha\" (to be) is implied but not explicitly stated. This construction indicates possession or association with someone or something."
+    },
+    {
+      "time": 39.117,
+      "text": "Ann an Bothalam na tàmh",
+      "translation": "In the quiet of Botham",
+      "grammar": "The phrase \"ann an\" is a Gaelic idiom indicating location or time, equivalent to \"in\" in English."
+    },
+    {
+      "time": 40.597,
+      "text": "Bha i uiread ris an spàrr",
+      "translation": "She was so excited.",
+      "grammar": "In Scottish Gaelic, the verb \"bha\" is used to form the past continuous tense, indicating an ongoing action in the past. In this context, it's used to express a completed action (she was excited) rather than an ongoing one."
+    },
+    {
+      "time": 42.312,
+      "text": "B' àird' i na lòban",
+      "translation": "She was high in the hills.",
+      "grammar": "The verb \"b'\" is in the past tense, indicating a completed action. The phrase \"àird' i\" can be translated to \"high in\" and uses the preposition \"i\" to indicate location."
+    },
+    {
+      "time": 43.792,
+      "text": "Bhonaid a bh' aig Dòmhnall Bàn",
+      "translation": "A cap worn by Donald Bàn",
+      "grammar": "The phrase \"a bh' aig\" is an idiomatic construction in Gaelic, equivalent to the English phrase \"belonging to\". It indicates possession or association with someone."
+    },
+    {
+      "time": 45.508,
+      "text": "Ann an Bothalam na tàmh",
+      "translation": "In the quiet of Botham",
+      "grammar": "The phrase \"ann an\" is a Gaelic idiom translating to \"in the\" or \"on the\", indicating location in time or space, and is often used with nouns."
+    },
+    {
+      "time": 46.988,
+      "text": "Bha i uiread ris an spàrr",
+      "translation": "She was so excited.",
+      "grammar": "The verb bha is in the past tense, indicating a completed action. The phrase \"uilead ris\" is an idiomatic expression meaning \"so\" or \"extremely\"."
+    },
+    {
+      "time": 48.703,
+      "text": "B' àird' i na lòban",
+      "translation": "She was high in the hills.",
+      "grammar": "The verb \"b'\" is in the past tense, using the auxiliary verb \"àird'\" to indicate a completed action. The phrase \"i na lòban\" means \"in the hills\"."
+    },
+    {
+      "time": 50.183,
+      "text": "Hùg air a' bhonaid mhòir",
+      "translation": "Hug on the big bonnet",
+      "grammar": "The phrase \"Hùg air\" is an idiomatic expression meaning \"to hug\" or \"to be fond of\", using the preposition \"air\" to indicate affection rather than physical proximity."
+    },
+    {
+      "time": 51.663,
+      "text": "Cuiribh oirre 's leigibh leatha",
+      "translation": "Put it on her and let her go.",
+      "grammar": "The verb \"leigibh\" is in the imperative mood, indicating a command or instruction. The use of \"leigibh\" instead of \"leigi\" (the singular form) shows that the speaker is addressing multiple people, as the verb agrees with the plural pronoun \"chuiream\"."
+    },
+    {
+      "time": 53.142,
+      "text": "Tuilleadh air a' bhonaid eile",
+      "translation": "More on the other side",
+      "grammar": "This idiomatic phrase uses the preposition \"air\" to mean \"on\" or \"about\", rather than its literal meaning of \"on top of\". The verb \"tuilleadh\" is in the accusative case, agreeing with the noun \"a' bhonaid eile\"."
+    },
+    {
+      "time": 54.622,
+      "text": "Chan eil leth gu leòr oirre",
+      "translation": "Half of it is not enough.",
+      "grammar": "This line uses the subjunctive mood to express a sense of insufficiency, implying that even half would be insufficient. The phrase \"chan eil\" is an idiomatic way to convey this idea in Scottish Gaelic."
+    },
+    {
+      "time": 56.338,
+      "text": "Hùg air a' bhonaid mhòir",
+      "translation": "Hug on the big bonnet",
+      "grammar": "The phrase \"hùg air\" is an idiomatic expression meaning \"to hug\" or \"to lean against\", with \"air\" functioning as a preposition indicating location, rather than its usual meaning of \"on\"."
+    },
+    {
+      "time": 57.818,
+      "text": "Cuiribh oirre 's leigibh leatha",
+      "translation": "Put it on her and let her go.",
+      "grammar": "The verb \"cuiribh\" is in the imperative mood, indicating a command or instruction. The use of the pronoun \"leatha\" (her) agrees with the indirect object \"oirre\" (on her)."
+    },
+    {
+      "time": 59.297,
+      "text": "Tuilleadh air a' bhonaid eile",
+      "translation": "More on the other side",
+      "grammar": "This idiomatic phrase uses the preposition \"air\" to mean \"on\" or \"about\", rather than its literal meaning of \"on top of\". The use of \"a' bhonaid eile\" (the other side) implies a contrast with something previously mentioned."
+    },
+    {
+      "time": 60.777,
+      "text": "Chan eil leth gu leòr oirre",
+      "translation": "Half of it is not enough.",
+      "grammar": "The phrase \"chan eil\" is a negation in the present tense, equivalent to \"is not\". The idiom \"leth gu leòr\" means \"enough\", implying that something is insufficient."
+    },
+    {
+      "time": 62.493,
+      "text": "Bhonaid a bh' aig Dòmhnall Bàn",
+      "translation": "A cap worn by Donald Bàn",
+      "grammar": "The phrase \"a bh' aig\" is an idiomatic construction indicating possession, where \"bh' aig\" is the possessive adverb meaning \"of his\"."
+    },
+    {
+      "time": 64.208,
+      "text": "Ann an Bothalam na tàmh",
+      "translation": "In the quiet of Botham",
+      "grammar": "This line uses the present participle \"tàmh\" to describe a state or condition, which is equivalent to the English phrase \"in the quiet of\"."
+    },
+    {
+      "time": 65.688,
+      "text": "Bha i uiread ris an spàrr",
+      "translation": "She was so excited.",
+      "grammar": "The verb \"bha\" is in the past continuous tense, indicating a prolonged state of excitement. The phrase \"uilead ris\" is an idiomatic expression meaning \"so\" or \"very\"."
+    },
+    {
+      "time": 67.404,
+      "text": "B' àird' i na lòban",
+      "translation": "She was high in the hills.",
+      "grammar": "The verb \"b' àird'\" is in the past continuous tense, indicating an ongoing action at a specific point in the past. The use of \"àird\" (high) with \"i na lòban\" (in the hills) creates a vivid idiomatic expression."
+    },
+    {
+      "time": 68.884,
+      "text": "Bhonaid a bh' aig Dòmhnall Bàn",
+      "translation": "A cap worn by Donald Bàn",
+      "grammar": "The phrase \"a bh' aig\" is an idiomatic construction in Gaelic, equivalent to the English phrase \"belonging to\". It indicates possession and is used to describe something that belongs to someone."
+    },
+    {
+      "time": 70.599,
+      "text": "Ann an Bothalam na tàmh",
+      "translation": "In the quiet of Botham",
+      "grammar": "This line uses the present participle \"na tàmh\" to describe a state or condition, equivalent to English \"in the quiet of\"."
+    },
+    {
+      "time": 72.079,
+      "text": "Bha i uiread ris an spàrr",
+      "translation": "She was so excited.",
+      "grammar": "The verb \"bha\" is in the past continuous tense, indicating a prolonged state of excitement. The phrase \"uilead ris\" is an idiomatic expression meaning \"so\" or \"very\"."
+    },
+    {
+      "time": 73.795,
+      "text": "B' àird' i na lòban",
+      "translation": "She was high in the hills.",
+      "grammar": "The verb \"b'\" is in the past tense, using the auxiliary verb \"àird'\" to indicate a completed action. This construction is an idiomatic way of expressing a remote past time."
+    },
+    {
+      "time": 75.275,
+      "text": "Da thàbh air an fharaidh",
+      "translation": "You are welcome.",
+      "grammar": "This phrase uses the formal second-person singular verb form \"tha\" to express politeness, with \"tàbh\" meaning \"thanks\" or \"gratitude\"."
+    },
+    {
+      "time": 76.754,
+      "text": "Tha rud shìos anns a charaidh",
+      "translation": "There's something down in the air.",
+      "grammar": "The verb \"tha\" is a present tense copula, used to link the subject to the predicate, and \"rud\" means \"something\". The phrase \"shìos anns a charaidh\" can be translated as \"in the air\", using an idiomatic expression that conveys a sense of uncertainty or ambiguity."
+    },
+    {
+      "time": 78.47,
+      "text": "Da thàbh air an fharaidh",
+      "translation": "You are welcome.",
+      "grammar": "The phrase \"Da thàbh\" is a polite expression of gratitude, equivalent to saying \"thank you\" in English. The verb \"thàbh\" is in the imperative mood, indicating a command or request, but in this context it's used as an idiomatic way to express appreciation."
+    },
+    {
+      "time": 79.95,
+      "text": "Tha rud aig an fhaoileig",
+      "translation": "The seagull has something.",
+      "grammar": "In Scottish Gaelic, tha is a present tense copula used to link the subject to a predicate, similar to English \"has\" or \"have\"."
+    },
+    {
+      "time": 81.429,
+      "text": "Da thàbh air an fharaidh",
+      "translation": "You are welcome.",
+      "grammar": "In Scottish Gaelic, da is a polite particle used to express gratitude or welcome, often in combination with the verb àr (to be) and the phrase air an fharaidh, which literally means \"on the journey\" but idiomatically conveys \"here\" or \"in this place\"."
+    },
+    {
+      "time": 82.909,
+      "text": "Tha rud shìos anns a charaidh",
+      "translation": "There's something down in the air.",
+      "grammar": "The verb \"tha\" is a present tense copula, used to link the subject to the predicate. The phrase \"rud shìos\" can be translated as \"something down\" and is an idiomatic expression implying a sense of unease or foreboding."
+    },
+    {
+      "time": 84.625,
+      "text": "Da thàbh air an fharaidh",
+      "translation": "You are welcome.",
+      "grammar": "The phrase \"da\" is a Gaelic idiomatic expression of politeness, equivalent to saying \"you're welcome\" in English. It is used to respond to gratitude or appreciation, and its use indicates a sense of humility and modesty."
+    },
+    {
+      "time": 86.105,
+      "text": "Tha rud aig an fhaoileig",
+      "translation": "The seagull has something.",
+      "grammar": "In Scottish Gaelic, tha is a verb form indicating present tense and possession, equivalent to \"has\" in English."
+    },
+    {
+      "time": 87.584,
+      "text": "Ged tha mi gun rud agam",
+      "translation": "Even though I have nothing",
+      "grammar": "The phrase \"tha mi\" is a common Gaelic idiom used to express possession or belonging, equivalent to \"my\" in English. It is often translated as \"I have\" but functions more like a possessive pronoun."
+    },
+    {
+      "time": 89.3,
+      "text": "Tha rud shìos anns a' charaidh",
+      "translation": "There's something down in the car.",
+      "grammar": "In Scottish Gaelic, tha is used as a present tense copula to indicate existence or presence, similar to English \"there's\" or \"it's\"."
+    },
+    {
+      "time": 91.016,
+      "text": "Ged tha mi gun rud agam",
+      "translation": "Even though I have nothing",
+      "grammar": "The phrase \"tha mi\" is a common Gaelic idiom, equivalent to \"even though\" or \"although\", used to indicate a contrastive relationship between two clauses. It is often translated as \"even though\" in English."
+    },
+    {
+      "time": 92.731,
+      "text": "Tha rud aig an fhaoileig",
+      "translation": "The seagull has something.",
+      "grammar": "In Scottish Gaelic, tha is a verb form used to indicate possession or existence, similar to the English phrase \"has got\". In this context, tha rud means \"has something\" and agrees with the subject an fhaoileig."
+    },
+    {
+      "time": 94.211,
+      "text": "Ged tha mi gun rud agam",
+      "translation": "Even though I have nothing",
+      "grammar": "In Scottish Gaelic, \"tha\" is a copula verb that indicates existence or possession in the present tense, often translated as \"have\"."
+    },
+    {
+      "time": 95.927,
+      "text": "Tha rud shìos anns a' charaidh",
+      "translation": "There's something down in the car.",
+      "grammar": "The verb tha is used to express a general truth or assumption, equivalent to \"there is\" or \"it is true that\". The use of tha implies a sense of certainty or factuality."
+    },
+    {
+      "time": 97.642,
+      "text": "Ged tha mi gun rud agam",
+      "translation": "Even though I have nothing",
+      "grammar": "The phrase \"tha mi\" is a common Gaelic idiomatic expression used to indicate first-person singular subject, equivalent to \"I\" in English."
+    },
+    {
+      "time": 99.358,
+      "text": "Tha rud aig an fhaoileig",
+      "translation": "The seagull has something.",
+      "grammar": "In Scottish Gaelic, tha is a verb that indicates present tense and possession, equivalent to \"has\" in English. The phrase tha rud translates as \"it has something\", with tha agreeing with the subject \"the seagull\"."
+    },
+    {
+      "time": 100.838,
+      "text": "Da thàbh air an fharaidh",
+      "translation": "You are welcome.",
+      "grammar": "In Scottish Gaelic, da is a polite particle used to express gratitude or welcome, often translated as \"you're welcome\" or \"thank you\". The sentence structure is informal and conversational."
+    },
+    {
+      "time": 102.318,
+      "text": "Tha rud shìos anns a charaidh",
+      "translation": "There's something down in the air.",
+      "grammar": "The verb \"tha\" is an existential construction, equivalent to \"there is\" or \"it exists\", used to indicate the presence of something. The phrase \"rud shìos\" can be translated as \"something down\" or \"something below\"."
+    },
+    {
+      "time": 104.033,
+      "text": "Da thàbh air an fharaidh",
+      "translation": "You are welcome.",
+      "grammar": "In Scottish Gaelic, da is a polite particle used to express gratitude or welcome, often translated as \"you're welcome\" or \"thank you\". The verb thàbh is in the imperative mood, indicating a command or invitation."
+    },
+    {
+      "time": 105.513,
+      "text": "Tha rud aig an fhaoileig",
+      "translation": "The seagull has something.",
+      "grammar": "In Scottish Gaelic, tha is used to form the present tense of the verb, indicating possession or existence."
+    },
+    {
+      "time": 106.993,
+      "text": "Da thàbh air an fharaidh",
+      "translation": "You are welcome.",
+      "grammar": "The phrase \"Da thàbh\" is a polite expression of gratitude, equivalent to saying \"thank you\" in English. The verb \"thàbh\" is in the imperative mood, indicating a command or request, which is idiomatic in Gaelic culture."
+    },
+    {
+      "time": 108.473,
+      "text": "Tha rud shìos anns a charaidh",
+      "translation": "There's something down in the air.",
+      "grammar": "The verb \"tha\" is a present tense copula, used to link the subject to the predicate, and \"rud\" means \"thing\". The phrase \"shìos anns a charaidh\" can be translated as \"in the atmosphere\", using an idiomatic expression that conveys a sense of something being palpable or intangible."
+    },
+    {
+      "time": 110.188,
+      "text": "Da thàbh air an fharaidh",
+      "translation": "You are welcome.",
+      "grammar": "This phrase uses the formal second-person singular verb form \"tha\" to express politeness, a common idiomatic expression in Scottish Gaelic. The sentence is in the present tense and polite mood, conveying a sense of gratitude and respect."
+    },
+    {
+      "time": 111.668,
+      "text": "Tha rud aig an fhaoileig",
+      "translation": "The seagull has something.",
+      "grammar": "In Scottish Gaelic, tha is a present tense form of the verb \"to be\" used to indicate possession or existence, similar to English \"has\"."
+    },
+    {
+      "time": 113.148,
+      "text": "Ged tha mi gun rud agam",
+      "translation": "Even though I have nothing",
+      "grammar": "In Scottish Gaelic, \"tha\" is a copula verb that indicates the present tense and can be translated as \"to be\". It's used to link the subject to the predicate, similar to English \"I am\" or \"it is\", but with a more nuanced grammatical function."
+    },
+    {
+      "time": 114.863,
+      "text": "Tha rud shìos anns a' charaidh",
+      "translation": "There's something down in the car.",
+      "grammar": "In Scottish Gaelic, tha is a present tense copula used to form simple sentences, similar to English \"there is\" or \"it is\"."
+    },
+    {
+      "time": 116.579,
+      "text": "Ged tha mi gun rud agam",
+      "translation": "Even though I have nothing",
+      "grammar": "The phrase \"tha mi\" is a common Gaelic idiom, equivalent to \"even though\" or \"although\", used to indicate contrast. It is often translated as \"though\" in English."
+    },
+    {
+      "time": 118.295,
+      "text": "Tha rud aig an fhaoileig",
+      "translation": "The seagull has something.",
+      "grammar": "In Scottish Gaelic, tha is a present tense copula indicating possession, similar to the English phrase \"has got\"."
+    },
+    {
+      "time": 119.775,
+      "text": "Ged tha mi gun rud agam",
+      "translation": "Even though I have nothing",
+      "grammar": "The phrase \"tha mi\" is a common Gaelic idiomatic expression meaning \"I\" or \"me\", used to emphasize the speaker's involvement in the action, similar to English phrases like \"as for me\" or \"to me\"."
+    },
+    {
+      "time": 121.49,
+      "text": "Tha rud shìos anns a' charaidh",
+      "translation": "There's something down in the car.",
+      "grammar": "The verb \"tha\" is a present tense copula, used to link the subject \"rud\" (something) to its predicate \"shìos anns a' charaidh\" (down in the car), indicating a state of being. The phrase \"Tha rud\" can be translated as \"There's something\"."
+    },
+    {
+      "time": 123.206,
+      "text": "Ged tha mi gun rud agam",
+      "translation": "Even though I have nothing",
+      "grammar": "The phrase \"tha mi\" is a common Gaelic idiom used to express a sense of humility or modesty, equivalent to saying \"even I\". It's often translated as \"as for me\" or \"I myself\", and is used to convey that the speaker is not boasting or bragging."
+    },
+    {
+      "time": 124.922,
+      "text": "Tha rud aig an fhaoileig",
+      "translation": "The seagull has something.",
+      "grammar": "In Scottish Gaelic, tha is a verb meaning \"to have\" or \"there is/are\", used in the present tense to indicate possession."
+    },
+    {
+      "time": 126.401,
+      "text": "O hùg air a' bhonaid mhòir",
+      "translation": "Oh, hug on the big bonnet",
+      "grammar": "The phrase \"o hùg\" is an interjection, used to express surprise or excitement. The verb \"hùg\" is in the imperative mood, giving a sense of urgency and direct address."
+    },
+    {
+      "time": 128.117,
+      "text": "Cuiribh oirre 's leigibh leatha",
+      "translation": "Put it on her and let her go.",
+      "grammar": "The verb \"cuiribh\" is in the imperative mood, indicating a command or instruction. The use of \"leigibh\" (let her) implies permission or consent, rather than obligation."
+    },
+    {
+      "time": 129.597,
+      "text": "Tuilleadh air a' bhonaid eile",
+      "translation": "More on the other side",
+      "grammar": "This idiomatic phrase uses the preposition \"air\" to mean \"on\" or \"about\", rather than its literal meaning of \"on top of\". The use of \"a' bhonaid eile\" (the other side) implies a sense of contrast or comparison, highlighting the idea that there is more to consider."
+    },
+    {
+      "time": 131.076,
+      "text": "Chan eil leth gu leòr oirre",
+      "translation": "Half of it is not enough.",
+      "grammar": "The phrase \"chan eil\" is a negation in the present tense, equivalent to \"is not\". The idiom \"leth gu leòr\" means \"too little\" or \"not enough\", emphasizing the speaker's dissatisfaction."
+    },
+    {
+      "time": 132.792,
+      "text": "Hùg air a' bhonaid mhòir",
+      "translation": "Hug on the big bonnet",
+      "grammar": "The phrase \"hùg air\" is an idiomatic expression meaning \"to hug\" or \"to lean against\", with the preposition \"air\" indicating the location of the action."
+    },
+    {
+      "time": 134.272,
+      "text": "Cuiribh oirre 's leigibh leatha",
+      "translation": "Put it on her and let her go.",
+      "grammar": "The verb \"leigibh\" is in the imperative mood, indicating a command or instruction. The use of \"leigibh\" (let them) instead of \"leigi\" (let her) shows that the speaker is addressing multiple people, rather than just one person."
+    },
+    {
+      "time": 135.752,
+      "text": "Tuilleadh air a' bhonaid eile",
+      "translation": "More on the other side",
+      "grammar": "This phrase uses the preposition \"air\" to indicate location, similar to English \"on\". The verb \"tuilleadh\" is in the accusative case, agreeing with the noun \"a' bhonaid\"."
+    },
+    {
+      "time": 137.231,
+      "text": "Chan eil leth gu leòr oirre",
+      "translation": "Half of it is not enough.",
+      "grammar": "The phrase \"chan eil\" is a negation in the present tense, equivalent to \"is not\". The idiom \"leth gu leòr\" means \"too little\" or \"not enough\", emphasizing the speaker's dissatisfaction."
+    },
+    {
+      "time": 138.947,
+      "text": "Bhonaid a bh' aig Dòmhnall Bàn",
+      "translation": "A cap worn by Donald Bàn",
+      "grammar": "This line uses the present tense of the verb \"to be\" (bh' is the contraction of \"is\") to describe a permanent state, indicating that Donald Bàn always wears this cap."
+    },
+    {
+      "time": 140.663,
+      "text": "Ann an Bothalam na tàmh",
+      "translation": "In the quiet of Botham",
+      "grammar": "The phrase \"ann an\" is a Gaelic idiomatic expression indicating location or time, equivalent to English \"in the\". It is used to describe a specific setting or atmosphere."
+    },
+    {
+      "time": 142.142,
+      "text": "Bha i uiread ris an spàrr",
+      "translation": "She was so excited.",
+      "grammar": "The verb \"bha\" is in the past continuous tense, indicating a prolonged state of excitement. The phrase \"uilead ris\" is an idiomatic expression meaning \"so\" or \"very\"."
+    },
+    {
+      "time": 143.858,
+      "text": "B' àird' i na lòban",
+      "translation": "She was high in the hills.",
+      "grammar": "The verb \"b'\" is in the past continuous tense, indicating an ongoing action at a specific point in the past. The phrase \"àird' i\" can be translated as \"high in\" and uses the preposition \"i\" to indicate location."
+    },
+    {
+      "time": 145.338,
+      "text": "Bhonaid a bh' aig Dòmhnall Bàn",
+      "translation": "A cap worn by Donald Bàn",
+      "grammar": "The phrase \"a bh' aig\" is an idiomatic construction in Gaelic, equivalent to the English phrase \"belonging to\". It uses the possessive preposition \"a\" followed by the verb \"bh' aig\", which indicates possession or belonging."
+    },
+    {
+      "time": 147.054,
+      "text": "Ann an Bothalam na tàmh",
+      "translation": "In the quiet of Botham",
+      "grammar": "The phrase \"ann an\" is a Gaelic idiom indicating location or time, equivalent to \"in the\" in English. It is used to describe a specific place or situation, as seen in this example where it indicates the quiet atmosphere of Botham."
+    },
+    {
+      "time": 148.533,
+      "text": "Bha i uiread ris an spàrr",
+      "translation": "She was so excited.",
+      "grammar": "The verb bha is in the past simple tense, indicating a completed action. The phrase \"uilead ris\" is an idiomatic expression meaning \"so\" or \"very\"."
+    },
+    {
+      "time": 150.249,
+      "text": "B' àird' i na lòban",
+      "translation": "She was high in the hills.",
+      "grammar": "The use of \"b'\" as a contraction of \"ba\" (was) indicates past continuous tense, describing an ongoing action at a specific point in the past."
+    },
+    {
+      "time": 151.729,
+      "text": "Hùg air a' bhonaid mhòir",
+      "translation": "Hug on the big bonnet",
+      "grammar": "The phrase \"air a' bhonaid mhòir\" is an idiomatic expression meaning \"on top of something\" or \"at the highest point\", using the preposition \"air\" to indicate location in a figurative sense, rather than its literal meaning."
+    },
+    {
+      "time": 153.208,
+      "text": "Cuiribh oirre 's leigibh leatha",
+      "translation": "Put it on her and let her go.",
+      "grammar": "The verb \"cuiribh\" is in the imperative mood, instructing someone to perform an action. The phrase \"leigibh leatha\" uses the idiomatic expression \"leigibh leatha\" meaning 'let her be' or 'let her go', which is a common way to express permission or consent in Scottish Gaelic."
+    },
+    {
+      "time": 154.688,
+      "text": "Tuilleadh air a' bhonaid eile",
+      "translation": "More on the other side",
+      "grammar": "This idiomatic phrase uses the preposition \"air\" to mean \"on\" or \"about\", rather than its literal meaning of \"on top of\". The verb \"tuilleadh\" is in the accusative case, agreeing with the noun \"a' bhonaid eile\"."
+    },
+    {
+      "time": 156.168,
+      "text": "Chan eil leth gu leòr oirre",
+      "translation": "Half of it is not enough.",
+      "grammar": "This idiomatic expression uses the verb \"chan eil\" in the present tense to convey a sense of insufficiency, emphasizing that even half of something is insufficient."
+    },
+    {
+      "time": 157.884,
+      "text": "Hùg air a' bhonaid mhòir",
+      "translation": "Hug on the big bonnet",
+      "grammar": "Note: The phrase \"hùg air\" is an idiomatic expression meaning \"to hug\" or \"to lean against\", using the preposition \"air\" to indicate the location of the action, rather than a literal physical contact."
+    },
+    {
+      "time": 159.363,
+      "text": "Cuiribh oirre 's leigibh leatha",
+      "translation": "Put it on her and let her go.",
+      "grammar": "The imperative mood is used to express a direct command, with the verb \"cuiribh\" (put) in the second person plural form agreeing with the pronoun \"oirre\" (her). The idiomatic phrase \"'s leigibh leatha\" (and let her go) conveys permission or release."
+    },
+    {
+      "time": 160.843,
+      "text": "Tuilleadh air a' bhonaid eile",
+      "translation": "More on the other side",
+      "grammar": "The phrase \"tuilleadh air\" is an idiomatic expression meaning \"more\" or \"further\", used to indicate a continuation or extension of something, often in a spatial or temporal sense. The verb \"a' bhonaid\" is in the nominative case and agrees with the pronoun \"eile\" in number and gender."
+    },
+    {
+      "time": 162.323,
+      "text": "Chan eil leth gu leòr oirre",
+      "translation": "Half of it is not enough.",
+      "grammar": "The phrase \"chan eil\" is a negation in the present tense, equivalent to \"is not\". The use of \"leth\" and \"gu leòr\" idiomatically conveys that something is insufficient."
+    },
+    {
+      "time": 164.039,
+      "text": "Bhonaid a bh' aig Dòmhnall Bàn",
+      "translation": "A cap worn by Donald Bàn",
+      "grammar": "This line uses the present tense of the verb \"to be\" (bh' a) to indicate possession, with the pronoun \"a\" agreeing in number and case with the noun \"bhonaid\"."
+    },
+    {
+      "time": 165.754,
+      "text": "Ann an Bothalam na tàmh",
+      "translation": "In the quiet of Botham",
+      "grammar": "The phrase \"ann an\" is a Gaelic idiomatic expression indicating location or setting, equivalent to \"in the\" in English."
+    },
+    {
+      "time": 167.234,
+      "text": "Bha i uiread ris an spàrr",
+      "translation": "She was so excited.",
+      "grammar": "The verb \"bha\" is in the past continuous tense, indicating a prolonged state of excitement. The phrase \"uilead ris\" is an idiomatic expression meaning \"so\" or \"very\"."
+    },
+    {
+      "time": 168.95,
+      "text": "B' àird' i na lòban",
+      "translation": "She was high in the hills.",
+      "grammar": "The verb \"b'\" is in the past continuous tense, indicating an ongoing action at a specific point in the past. The phrase \"àird' i\" can be translated to \"high in\" and uses the preposition \"i\" to indicate location."
+    },
+    {
+      "time": 170.429,
+      "text": "Bhonaid a bh' aig Dòmhnall Bàn",
+      "translation": "A cap worn by Donald Bàn",
+      "grammar": "The phrase \"a bh' aig\" is an idiomatic construction in Gaelic, equivalent to \"belonging to\" or \"possessed by\". It is used to indicate possession or association."
+    },
+    {
+      "time": 172.145,
+      "text": "Ann an Bothalam na tàmh",
+      "translation": "In the quiet of Botham",
+      "grammar": "This line uses the present participle \"na tàmh\" to convey a sense of being in a state or condition, similar to English \"in the quiet of\"."
+    },
+    {
+      "time": 173.625,
+      "text": "Bha i uiread ris an spàrr",
+      "translation": "She was so excited.",
+      "grammar": "The verb \"bha\" is in the past continuous tense, indicating a prolonged state of excitement. The phrase \"uilead ris\" is an idiomatic expression meaning \"so\" or \"extremely\"."
+    },
+    {
+      "time": 175.341,
+      "text": "B' àird' i na lòban",
+      "translation": "She was high in the hills.",
+      "grammar": "The verb \"b'\" is in the past perfective tense, indicating a completed action at a specific point in the past. The phrase \"àird i\" literally means \"high in\", but functions as an adverb modifying the location of the subject."
+    },
+    {
+      "time": 176.82,
+      "text": "B' àird' i na lòban",
+      "translation": "She was high in the hills.",
+      "grammar": "The phrase \"b' àird\" is a idiomatic expression meaning \"to be high\" or \"to be elevated\", using the past tense of the verb \"àirde\" (to lift) to convey a sense of being lifted up, rather than literally being physically high."
+    }
+  ]
+}

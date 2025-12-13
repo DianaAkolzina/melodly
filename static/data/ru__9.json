@@ -1,0 +1,181 @@
+{
+  "id": "ru__9",
+  "title": "Базовый минимум",
+  "artist": "SABI",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_.mp3",
+  "duration": 135,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 9.67559999999404,
+      "text": "А он простой (конечно), из Баку холостой (я вообще)",
+      "translation": "And he’s simple (of course), from Baku, single (I am anyway)",
+      "grammar": "The phrase \"я вообще\" is an idiomatic expression meaning \"anyway\" or \"in any case\", used to soften the tone of a statement and indicate that one's opinion is not meant to be taken literally."
+    },
+    {
+      "time": 13.670699999988079,
+      "text": "Квартир есть дорогой (ой, наш), молодой, уже центровой (ой-ой-ой-ой)",
+      "translation": "There are expensive apartments (oh, ours), young, already central (oh-oh-oh-oh)",
+      "grammar": "The phrase \"наш\" (nash) is an idiomatic possessive pronoun meaning \"ours\", emphasizing the speaker's personal connection to the mentioned apartment."
+    },
+    {
+      "time": 19.71869999998808,
+      "text": "Выглядит как папа (вау), но по факту вентилятор (ах)",
+      "translation": "Looks like a dad (wow), but is actually a fan (ah)",
+      "grammar": "This idiomatic expression uses the present tense to describe a surprising contrast between appearance and reality, with the verb \"выглядит\" in the present tense indicating a general impression or appearance. The interjections \"вау\" and \"ах\" add emphasis to the surprise."
+    },
+    {
+      "time": 25.108799999982118,
+      "text": "Яхта на примете (о), сильно дует ветер",
+      "translation": "There's a yacht in sight, the wind is blowing hard",
+      "grammar": "The phrase \"Яхта на примете\" uses the present continuous tense to convey an ongoing action, emphasizing the yacht's current visibility. The word \"о\" is an interjection expressing surprise or emphasis."
+    },
+    {
+      "time": 29.781299999982117,
+      "text": "Мозги не крути, факты прими",
+      "translation": "Don't spin your brains, just accept the facts",
+      "grammar": "This idiomatic phrase uses the imperative mood to convey a sense of urgency and directness, encouraging the listener to stop overthinking and simply acknowledge the reality."
+    },
+    {
+      "time": 34.36830000001192,
+      "text": "Сколько ни говори, закон для всех один",
+      "translation": "No matter what you say, the law is the same for everyone.",
+      "grammar": "This idiomatic phrase illustrates the concept of temporal aspect, as it conveys a general truth regardless of time or context. The verb \"говори\" (say) is in the present tense, emphasizing the timeless nature of this statement."
+    },
+    {
+      "time": 39.39820000001788,
+      "text": "iPhone купи, ресторан плати",
+      "translation": "Buy iPhone, pay restaurant",
+      "grammar": "This idiomatic phrase uses the imperative mood to express a humorous suggestion, where the speaker is essentially saying \"If you buy an iPhone, then you should also pay for the restaurant\". The verb agreement is with the implied subject \"you\" in the second part of the sentence."
+    },
+    {
+      "time": 43.834800000011924,
+      "text": "Без повода мне подари кольцо с моим именем, базовый минимум",
+      "translation": "Give me a ring with my name on it for no reason, just the bare minimum.",
+      "grammar": "The phrase \"без повода\" (for no reason) is an idiomatic expression indicating spontaneous or uninvited action."
+    },
+    {
+      "time": 50.66009999999404,
+      "text": "Скучай, без повода обнимай, ай, люби, цени, уважай, ай",
+      "translation": "Miss me, hug me for no reason, oh, love me, appreciate me, respect me, oh",
+      "grammar": "This line uses the imperative mood to express affectionate commands, with the idiomatic phrase \"обнимай\" (hug me) and \"люби\" (love me) emphasizing the emotional tone."
+    },
+    {
+      "time": 56.37740000000596,
+      "text": "Чувства самые сильные — это базовый минимум",
+      "translation": "The strongest feelings are the basic minimum",
+      "grammar": "This idiomatic phrase uses the present tense to convey a general truth, rather than describing a specific situation. The word \"сильные\" (strongest) is used in an absolute sense, emphasizing the intensity of the feelings rather than comparing them to others."
+    },
+    {
+      "time": 59.51540000000596,
+      "text": "Базовый минимум",
+      "translation": "Basic minimum",
+      "grammar": "This idiomatic phrase uses the noun \"минимум\" (minimum) in a figurative sense, implying a fundamental or essential requirement."
+    },
+    {
+      "time": 61.23809999999404,
+      "text": "Ай, это базовый минимум",
+      "translation": "Oh, that's the bare minimum.",
+      "grammar": "The phrase \"Ай\" is an interjection used to express surprise or emphasis, similar to English \"oh\". The sentence as a whole is in the present tense, describing a situation where something meets the minimum requirements."
+    },
+    {
+      "time": 63.73040000000596,
+      "text": "Бай-бай, базовый минимум",
+      "translation": "Bye-bye, the basic minimum",
+      "grammar": "This idiom uses the English phrase \"bye-bye\" to bid farewell in a casual or playful manner, often with a hint of irony. The phrase \"базовый минимум\" (the basic minimum) is an idiomatic expression implying that one is leaving something behind, which adds to the informal tone."
+    },
+    {
+      "time": 65.9775,
+      "text": "Ай, это базовый минимум",
+      "translation": "Oh, that's the bare minimum.",
+      "grammar": "The phrase \"Ай\" is an informal interjection equivalent to \"oh\" or \"wow\", often used to express surprise or emphasis. The sentence as a whole uses the present tense to convey a sense of straightforwardness and simplicity."
+    },
+    {
+      "time": 70.7475,
+      "text": "Играет в гольф с охраной, такой серьёзный парень",
+      "translation": "Playing golf with security, such a serious guy",
+      "grammar": "The phrase \"с SUCH A\" is an idiomatic expression used to emphasize the speaker's surprise or admiration for someone's behavior, in this case, playing golf with security."
+    },
+    {
+      "time": 75.47490000000596,
+      "text": "Учился за границей, очень богатый мистер",
+      "translation": "Studied abroad, very rich Mr.",
+      "grammar": "The phrase \"очень богатый\" is an idiomatic expression meaning \"very wealthy\" rather than a literal description of someone's wealth."
+    },
+    {
+      "time": 81.04920000001788,
+      "text": "Мамин сын и только (только) для неё подарок (он для неё подарок)",
+      "translation": "Mama's son and only (only) a gift for her (he is a gift for her)",
+      "grammar": "The phrase \"и только\" is an idiom translating to \"and only\", emphasizing the uniqueness of the gift, while \"для неё\" indicates the recipient."
+    },
+    {
+      "time": 87.84840000000597,
+      "text": "Очень много лоро (так много), постоянно пьяно (ой)",
+      "translation": "So much loro (so much), constantly drunk (oh)",
+      "grammar": "The phrase \"постоянно пьяно\" is an idiomatic expression indicating a state of being in a constant or habitual condition, rather than a literal description. The verb \"быть пьяным\" is in the present continuous tense, emphasizing the ongoing nature of this habit."
+    },
+    {
+      "time": 90.35720000001788,
+      "text": "Мозги не крути, факты прими",
+      "translation": "Don't spin your brains, just accept the facts",
+      "grammar": "The phrase \"не крути\" is an idiomatic expression meaning \"don't bother\" or \"don't waste time,\" rather than a literal instruction to stop spinning one's brain. The imperative mood and informal tone convey a sense of casual advice or warning."
+    },
+    {
+      "time": 94.978,
+      "text": "Сколько ни говори, закон для всех один",
+      "translation": "No matter what you say, the law is the same for everyone.",
+      "grammar": "This idiomatic expression uses the present tense to convey a universal truth, emphasizing that the law applies equally to all individuals regardless of their opinions or statements."
+    },
+    {
+      "time": 100.06030000001192,
+      "text": "iPhone купи, ресторан плати",
+      "translation": "Buy iPhone, pay restaurant",
+      "grammar": "This idiomatic phrase uses the imperative mood to express a humorous suggestion, where two unrelated actions are linked with a comma to convey a sense of equivalence or trade-off."
+    },
+    {
+      "time": 105.07659999999404,
+      "text": "Без повода мне подари кольцо с моим именем, базовый минимум",
+      "translation": "Give me a ring with my name on it for no reason, just the bare minimum.",
+      "grammar": "The phrase \"без повода\" (for no reason) is an idiomatic expression conveying the idea of doing something spontaneously or without a specific motivation."
+    },
+    {
+      "time": 111.24570000001788,
+      "text": "Скучай, без повода обнимай, ай, люби, цени, уважай, ай",
+      "translation": "Miss me, hug me for no reason, oh, love me, appreciate me, respect me, oh",
+      "grammar": "This line uses the imperative mood to express a desire or command, with the speaker urging someone to show affection and appreciation without a specific reason. The repeated use of \"ай\" (oh) is an interjection emphasizing the sincerity of these emotions."
+    },
+    {
+      "time": 116.99730000001192,
+      "text": "Чувства самые сильные — это базовый минимум",
+      "translation": "The strongest feelings are the basic minimum",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of universality and timelessness, emphasizing that strong emotions are an essential foundation for human experience."
+    },
+    {
+      "time": 122.52530000001192,
+      "text": "Базовый минимум",
+      "translation": "Basic minimum",
+      "grammar": "This idiomatic phrase uses the noun \"минимум\" (minimum) in a figurative sense, implying a fundamental or essential requirement."
+    },
+    {
+      "time": 124.28680000001192,
+      "text": "Ай, это базовый минимум",
+      "translation": "Oh, that's the bare minimum.",
+      "grammar": "The phrase \"Ай\" is an interjection used to express surprise or emphasis, similar to English \"oh\". The sentence as a whole uses the present tense to describe a general truth."
+    },
+    {
+      "time": 126.57540000000596,
+      "text": "Бай-бай, базовый минимум",
+      "translation": "Bye-bye, the basic minimum",
+      "grammar": "The phrase \"Бай-бай\" is an interjection used to bid farewell, similar to English \"Goodbye\". The rest of the sentence, \"базовый минимум\", is in the nominative case and functions as a noun phrase."
+    },
+    {
+      "time": 129.1545,
+      "text": "Ай, это базовый минимум",
+      "translation": "Oh, that's the bare minimum.",
+      "grammar": "The phrase \"Ай\" is an informal interjection equivalent to \"oh\" or \"wow\", often used to express surprise or emphasis. The sentence as a whole is in the present tense and uses the idiomatic expression \"базовый минимум\" to convey that something is the absolute minimum required."
+    }
+  ]
+}

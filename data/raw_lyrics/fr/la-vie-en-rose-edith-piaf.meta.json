@@ -1,0 +1,13 @@
+{
+  "language": "fr",
+  "title": "La vie en rose",
+  "artist": "Édith Piaf",
+  "slug": "la-vie-en-rose-edith-piaf",
+  "source": {
+    "provider": "musixmatch",
+    "track_id": 34853088,
+    "track_share_url": "https://www.musixmatch.com/lyrics/Edith-Piaf/la-vie-en-rose-2?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "track_edit_url": "https://www.musixmatch.com/lyrics/Edith-Piaf/la-vie-en-rose-2/edit?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "fetched_at": "2025-10-01T14:01:56.070703Z"
+  }
+}

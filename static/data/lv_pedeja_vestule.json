@@ -1,0 +1,223 @@
+{
+  "id": "lv_pedeja_vestule",
+  "title": "Pedeja Vestule",
+  "artist": "Dons",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "lv",
+  "to_language": "en",
+  "audio": "/audio/lv_pedeja_vestule.mp3",
+  "duration": 224,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 16.6225,
+      "text": "Iekāpu vilcienā, uz Varanasi",
+      "translation": "I boarded the train to Varanasi.",
+      "grammar": "The verb \"iekāpu\" is in the past tense and uses the aspect of completion, indicating that the action of boarding was finished. The phrase \"uz Varanasi\" functions as an adverbial phrase modifying the verb, meaning \"to Varanasi\"."
+    },
+    {
+      "time": 21.45330000001192,
+      "text": "Aizbaucu noskaidrot",
+      "translation": "I'm tired of finding out.",
+      "grammar": "The phrase \"aizbaucu\" is an idiomatic expression that combines the verb \"bauc\" (to find out) with the particle \"aiz\" (of/from), conveying a sense of weariness or frustration."
+    },
+    {
+      "time": 26.281,
+      "text": "Kā dzīvi lasīt",
+      "translation": "How to read life",
+      "grammar": "The phrase \"Kā dzīvi lasīt\" uses the idiomatic expression \"lasīt\" (to read) figuratively, implying understanding or interpreting one's life experiences."
+    },
+    {
+      "time": 27.80190000000596,
+      "text": "Neraudi Susuriņ, ņem citu sev",
+      "translation": "Don't cry, Susuri, get yourself another one.",
+      "grammar": "The phrase \"citu sev\" is an idiomatic expression meaning \"get yourself another one\", using the reflexive pronoun \"sev\" to emphasize self-action."
+    },
+    {
+      "time": 37.30240000000596,
+      "text": "Labāk bez koferiem",
+      "translation": "Better without suitcases",
+      "grammar": "This idiomatic expression uses the present tense to convey a general truth, rather than describing a specific situation. The phrase \"bez koferiem\" is an adverbial phrase indicating a state of being better off without something."
+    },
+    {
+      "time": 39.831400000005964,
+      "text": "Bez liekām mantām",
+      "translation": "Without unnecessary things",
+      "grammar": "This idiomatic phrase uses the present participle \"bez\" (without) to convey a sense of negation, emphasizing the removal of unwanted elements. The phrase is often used in informal settings to express a desire for simplicity or clarity."
+    },
+    {
+      "time": 42.3595,
+      "text": "Krāmi un mēbēles",
+      "translation": "Junk and furniture",
+      "grammar": "In English, \"Krāmi\" is translated as \"junk\" in a figurative sense, using the idiomatic expression to convey the idea of unwanted or useless things."
+    },
+    {
+      "time": 45.28179999998212,
+      "text": "Tie paliks tantām",
+      "translation": "They will remain for the aunts.",
+      "grammar": "The verb \"paliks\" is in the future tense, indicating an action that will take place at some point in the future. The phrase \"tantām\" means \"for the aunts\", using the dative case to indicate the indirect object of the verb."
+    },
+    {
+      "time": 47.42440000000596,
+      "text": "Kurš sasmels izlieto",
+      "translation": "Who will use it?",
+      "grammar": "This line uses the present continuous tense to express a general or ongoing situation, and the idiom \"izlieto\" is equivalent to \"to use\" in English."
+    },
+    {
+      "time": 50.451,
+      "text": "Tas piestāv tev",
+      "translation": "It suits you.",
+      "grammar": "The phrase \"piestāv\" is in the third person singular present tense, indicating a general truth or habit. It also employs an idiomatic expression to convey that something fits or suits someone well."
+    },
+    {
+      "time": 56.34340000000596,
+      "text": "Bez sarunām",
+      "translation": "No negotiations",
+      "grammar": "This idiomatic phrase uses the imperative mood to convey a strong instruction, equivalent to saying \"Don't even think about negotiating\" in English. The verb bez means \"to have no\" or \"without\", implying that any attempt at negotiation is not only futile but also unwelcome."
+    },
+    {
+      "time": 61.81790000000596,
+      "text": "Ar sevi pašu",
+      "translation": "With myself",
+      "grammar": "In Latvian, the phrase \"ar sevi\" is an idiomatic expression meaning \"with oneself\" or \"alone\", often used to convey a sense of self-reliance or independence."
+    },
+    {
+      "time": 66.80590000000596,
+      "text": "Ir rāmāk vēl",
+      "translation": "It's even calmer.",
+      "grammar": "The phrase \"ir\" is an idiomatic expression indicating a surprising or unexpected situation, often translated as \"even\" or \"still\"."
+    },
+    {
+      "time": 71.95159999999404,
+      "text": "Nav dzivot vērts",
+      "translation": "It's not worth living.",
+      "grammar": "The phrase \"Nav dzivot vērts\" is an idiomatic expression in Latvian, conveying a strong sense of negation and futility, equivalent to the English idiom \"It's not worth it\"."
+    },
+    {
+      "time": 78.86619999998808,
+      "text": "Varbūt ka pasaule",
+      "translation": "Maybe the world",
+      "grammar": "This phrase uses the hypothetical conditional construction \"varbūt\" to express a possible or uncertain situation, similar to English \"maybe\" or \"perhaps\". The verb \"pasaule\" is in the nominative case and agrees with the subject \"world\", indicating that it's a singular noun."
+    },
+    {
+      "time": 81.71459999999404,
+      "text": "Pat nemanija",
+      "translation": "Even non-mania",
+      "grammar": "The phrase \"pat\" is an idiomatic expression meaning \"even\" or \"as much as\", used to emphasize a degree or extent, often in contrastive clauses."
+    },
+    {
+      "time": 83.64619999998808,
+      "text": "Mūs glauda saulīte",
+      "translation": "The sun caresses us",
+      "grammar": "In this lyric, \"mūs\" is the object of the verb \"glauda\", indicating that the subject (the sun) is performing an action on the listener, using the accusative case to show the direct object."
+    },
+    {
+      "time": 86.56959999999404,
+      "text": "Kad visiem lija",
+      "translation": "When it rained for everyone",
+      "grammar": "The phrase \"Kad visiem\" is an idiomatic expression indicating a universal or general truth, equivalent to \"whenever\" in English. The verb \"lija\" is in the third person plural form, agreeing with the subject \"visiem\", which means \"everyone\"."
+    },
+    {
+      "time": 88.8295,
+      "text": "Ieliec to albumā, bez manim",
+      "translation": "Put it in an album, without me.",
+      "grammar": "The phrase \"bez manim\" is an idiomatic expression meaning \"without me\" or \"excluding me\", rather than a literal translation of \"without mine\". This usage illustrates the informal tone and colloquial nature of the original Latvian text."
+    },
+    {
+      "time": 99.30409999999404,
+      "text": "Tur jau tā tuvojas, Varanasi",
+      "translation": "It's getting closer, Varanasi.",
+      "grammar": "The verb \"tuvojas\" is in the present continuous tense, indicating an ongoing process of something approaching. The phrase \"it's getting closer\" is an idiomatic translation that conveys the same sense of proximity."
+    },
+    {
+      "time": 104.28369999998807,
+      "text": "Negribu, negribu",
+      "translation": "I don't want to, I don't want to",
+      "grammar": "The repeated phrase \"negribu\" is an idiomatic expression in Latvian, equivalent to the English phrase \"I don't want to\". The use of the same verb form and particle \"negri-\" emphasizes the speaker's strong reluctance."
+    },
+    {
+      "time": 107.38359999999403,
+      "text": "Lai tu ko prasi",
+      "translation": "Whatever you ask for",
+      "grammar": "The phrase \"Lai tu ko\" is an idiomatic expression in Latvian, equivalent to the English idiom \"whatever you ask for\". The verb \"ko\" is in the imperative mood, indicating a command or request."
+    },
+    {
+      "time": 109.54919999998808,
+      "text": "Pāldies par mazajām muļķībām",
+      "translation": "Brag about the little things",
+      "grammar": "The phrase \"pāldies\" is an idiom, literally meaning \"to praise\" but figuratively conveying the idea of boasting or bragging, often in a lighthearted manner."
+    },
+    {
+      "time": 118.68369999998808,
+      "text": "Bez sarunām, ar sevi pašu",
+      "translation": "Without talking, with myself",
+      "grammar": "This idiomatic phrase uses the present participle \"bez\" (without) to convey a sense of simultaneous action, emphasizing the speaker's internal state. The pronoun \"sevi\" is an informal singular form used for self-reflection."
+    },
+    {
+      "time": 128.49669999998807,
+      "text": "Ir rāmāk vēl,",
+      "translation": "It's even calmer,",
+      "grammar": "The phrase \"ir\" is an idiomatic expression used to indicate a surprising or unexpected situation, similar to \"even more so\" in English. The sentence is in the present tense, describing a state of calmness."
+    },
+    {
+      "time": 133.90740000000596,
+      "text": "Nav dzivot vērts",
+      "translation": "It's not worth living.",
+      "grammar": "The phrase \"Nav dzivot vērts\" is in the present tense, conveying a sense of general truth or universal applicability. The idiomatic expression roughly translates to \"it's not worth it,\" implying that the speaker finds life itself unvaluable."
+    },
+    {
+      "time": 138.84119999998808,
+      "text": "Bez sarunām, ar sevi pašu",
+      "translation": "Without talking, with myself",
+      "grammar": "The phrase \"bez sarunām\" is an idiomatic expression indicating the absence of conversation or discussion, often used to convey a sense of introspection or self-reflection."
+    },
+    {
+      "time": 149.2781999999881,
+      "text": "Ir rāmāk vēl",
+      "translation": "It's even calmer.",
+      "grammar": "The phrase \"ir\" is a contraction of \"iet\" (it is), used to form the present continuous tense, indicating an ongoing or temporary state."
+    },
+    {
+      "time": 154.6005,
+      "text": "Nav dzivot vērts",
+      "translation": "It's not worth living.",
+      "grammar": "The phrase \"Nav dzivot vērts\" is in the present tense, conveying a sense of permanent or general truth about the valuelessness of life. The idiomatic expression \"nav dzivot\" literally means \"it is not to life\", emphasizing the negative sentiment."
+    },
+    {
+      "time": 161.31990000000596,
+      "text": "Tur jau tā tuvojas",
+      "translation": "It's getting close there.",
+      "grammar": "The verb \"tuvojas\" is in the present continuous tense, indicating an ongoing process of something approaching. The phrase \"tā tuvojas\" can be translated to English as \"it's getting close over there\"."
+    },
+    {
+      "time": 166.1505,
+      "text": "Tur jau tā tuvojas",
+      "translation": "It's getting close there.",
+      "grammar": "The phrase \"tur\" is an adverb indicating proximity, equivalent to \"there\" in English. It is used to describe a location or direction, and its meaning is often nuanced by the context in which it appears."
+    },
+    {
+      "time": 171.238,
+      "text": "Tur jau tā tuvojas",
+      "translation": "It's getting close there.",
+      "grammar": "The verb \"tuvojas\" is in the present continuous tense, indicating an ongoing process of something approaching. The phrase \"tā tuvojas\" can be translated as \"it's getting close over there\"."
+    },
+    {
+      "time": 182.26319999998807,
+      "text": "Tur jau tā tuvojas",
+      "translation": "It's getting close there.",
+      "grammar": "The verb \"tuvojas\" is in the present continuous tense, indicating an ongoing process of something approaching. The phrase \"tā tuvojas\" can be translated as \"it's getting close over there\"."
+    },
+    {
+      "time": 186.83329999998213,
+      "text": "Tur jau tā tuvojas",
+      "translation": "It's getting close there.",
+      "grammar": "The verb \"tuvojas\" is in the present continuous tense, indicating an ongoing process of something approaching. The phrase \"tur jau\" can be translated as \"it's already\" and implies a sense of nearing or imminence."
+    },
+    {
+      "time": 192.82659999999404,
+      "text": "Tur jau tā tuvojas",
+      "translation": "It's getting close there.",
+      "grammar": "The verb \"tuvojas\" is in the present continuous tense, indicating an ongoing process of something approaching. The phrase \"tur jau\" can be translated as \"it's getting\" and implies a sense of proximity or nearness."
+    }
+  ]
+}

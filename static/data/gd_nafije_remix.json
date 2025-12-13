@@ -1,0 +1,517 @@
+{
+  "id": "gd_nafije_remix",
+  "title": "Nafije - Remix",
+  "artist": "DJ Geek feat. Young Zerka, Dafina Zeqiri & Mc Kresha",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "kek",
+  "to_language": "en",
+  "audio": "/audio/gd_nafije_remix.mp3",
+  "duration": 185,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "(It's your boy DJ GEEK)",
+      "translation": "(It's your boy DJ GEEK)",
+      "grammar": "This line is an informal introduction, using the idiomatic phrase \"it's your boy\" to express familiarity and friendliness. The sentence is in the present tense, with no specific mood or aspect indicated."
+    },
+    {
+      "time": 2.402,
+      "text": "(Bomba)",
+      "translation": "(Bomb)",
+      "grammar": "This interjection \"Bomba\" is an informal expression used to emphasize strong emotions or reactions, often translated as \"Wow!\" or \"Whoa!\". Its tone and intonation convey a sense of surprise or excitement."
+    },
+    {
+      "time": 3.602,
+      "text": "Keselkuqja po kerkon trendafila",
+      "translation": "Keselkuqja po kerkon trendafila",
+      "grammar": "The phrase \"po\" is an idiomatic preposition indicating a cause-and-effect relationship, similar to \"because of\" or \"due to\"."
+    },
+    {
+      "time": 5.315,
+      "text": "S'don me good boys po rri veq me killa (killer)",
+      "translation": "S'don me good boys po rri veq me killa (killer)",
+      "grammar": "This line uses the imperative mood to express a strong desire or command, with the speaker urging someone to bring them something that's considered \"killa\" or impressive. The phrase \"po rri veq\" is an idiomatic expression meaning \"bring it over\"."
+    },
+    {
+      "time": 9.441,
+      "text": "Stilin e ka ndrru me pallto chinchilla",
+      "translation": "Style and ka ndrru me pallto chinchilla",
+      "grammar": "This line uses the idiomatic expression \"me\" to indicate possession, similar to English phrases like \"with a [adjective] [noun]\" or \"in a [adjective] way\". The verb \"ka\" is an auxiliary verb used to form the present continuous tense."
+    },
+    {
+      "time": 12.188,
+      "text": "Duket sikur queen, beam, mami drop dilla",
+      "translation": "Duket sikur queen, beam, mommy drop dilla",
+      "grammar": "This line features informal spoken language and idiomatic expressions, with the speaker using colloquial pronouns (mami) and a playful tone. The sentence structure is conversational, with no formal grammatical constraints."
+    },
+    {
+      "time": 14.935,
+      "text": "Bounty, da la deem I look like a chanti",
+      "translation": "Bounty, da la deem I look like a chanti",
+      "grammar": "This line uses the informal, colloquial expression \"da la\" to indicate a casual comparison, similar to saying \"I look like one of those people who...\" in English. The sentence is written in the present tense and has an idiomatic tone."
+    },
+    {
+      "time": 18.371,
+      "text": "Komplimenta plot amo dot nuk e shan ti",
+      "translation": "Complement plot amo dot nuk e shan ti",
+      "grammar": "This line uses the present continuous tense to convey a sense of ongoing action, with \"amo\" indicating an emotional state. The phrase \"dot nuk e shan ti\" is an idiomatic expression meaning \"to be in love\"."
+    },
+    {
+      "time": 21.463,
+      "text": "Bounty, da la deem I look like a chanti",
+      "translation": "Bounty, da la deem I look like a chanti",
+      "grammar": "This line uses the informal second-person singular pronoun \"da\" (you) and the verb \"deem\" in the present tense to express a casual opinion or judgment."
+    },
+    {
+      "time": 24.9,
+      "text": "Komplimenta plot amo dot nuk e shan ti",
+      "translation": "Complement plot amo dot nuk e shan ti",
+      "grammar": "The phrase \"Komplimenta\" is an idiomatic expression, not a literal complement. It's used to emphasize the speaker's admiration or approval of something."
+    },
+    {
+      "time": 27.991,
+      "text": "Nafijee (what)",
+      "translation": "Nafijee (what)",
+      "grammar": "This interjection \"Nafijee\" is an informal way to seek confirmation or clarification, similar to saying \"right?\" or \"huh?\" in English. It's often used in casual conversations among friends."
+    },
+    {
+      "time": 29.191,
+      "text": "Tunde ti backun",
+      "translation": "Tunde was backun",
+      "grammar": "This line uses the past habitual tense (was) to describe a repeated or general truth about Tunde's past state, indicating that he often had a certain quality. The word \"backun\" is likely an idiomatic expression meaning \"crazy\" or \"insane\"."
+    },
+    {
+      "time": 30.559,
+      "text": "Tunde me stil se po na prish tregun",
+      "translation": "Tunde me stil se po na prish tregun",
+      "grammar": "The phrase \"stil se\" is an idiomatic expression in Kek, equivalent to English \"still see\" or \"can still see\", indicating ability or possibility."
+    },
+    {
+      "time": 33.651,
+      "text": "(A rudeness)",
+      "translation": "(A rudeness)",
+      "grammar": "This phrase is an idiomatic expression, where \"A\" is used to emphasize the noun \"rudeness\", rather than referring to a specific instance. The sentence is in the nominative absolute construction, describing the state of being rude."
+    },
+    {
+      "time": 34.851,
+      "text": "Luje qyqekun",
+      "translation": "Luje qyqekun",
+      "grammar": "This line is an interjection, used to express surprise or excitement. The verb \"luj\" has a sense of suddenness and emphasis, similar to the English phrase \"Oh no!\" or \"Good grief!\"."
+    },
+    {
+      "time": 36.051,
+      "text": "Boje me qef",
+      "translation": "Ceiling shutters",
+      "grammar": "This idiomatic expression uses the imperative mood to convey a sense of suddenness, equivalent to \"Close the ceiling shutters!\" in English. The verb \"qef\" is in the second person singular form, agreeing with the pronoun \"me\"."
+    },
+    {
+      "time": 37.419,
+      "text": "Mos e ban veq per lekun",
+      "translation": "Mos is always banned per lekun",
+      "grammar": "The phrase \"is always\" uses the present continuous tense to convey a habitual or repeated action, indicating that Mos being banned is a regular occurrence."
+    },
+    {
+      "time": 39.821,
+      "text": "Yeah (prrrrr)",
+      "translation": "Yeah (prrrrr)",
+      "grammar": "This interjection \"Yeah\" is used to express strong agreement or confirmation, often with a rising intonation, and the accompanying onomatopoeic \"prrrrr\" emphasizes the speaker's enthusiasm."
+    },
+    {
+      "time": 41.021,
+      "text": "(Hey) Uh Uh",
+      "translation": "(Hey) Uh Uh",
+      "grammar": "This interjection is an informal expression of uncertainty or hesitation, often used in spoken English to seek agreement or confirmation. The use of \"Uh\" and \"Uh Uh\" together emphasizes the speaker's ambivalence."
+    },
+    {
+      "time": 42.389,
+      "text": "Rude Girl, Call me Dafina",
+      "translation": "Rude Girl, Dafina's Call",
+      "grammar": "The phrase \"Call me\" is an idiomatic expression used to request someone's phone number or attention. It is in the imperative mood, indicating a command or request."
+    },
+    {
+      "time": 44.447,
+      "text": "Tripin e ka Pipina",
+      "translation": "Tripin not Pipina",
+      "grammar": "This line uses the idiomatic expression \"tripin\" to mean \"not\", which is a common informal way to negate something in Kek."
+    },
+    {
+      "time": 46.159,
+      "text": "Tik tok, a po pret me ta than un hala",
+      "translation": "Tik tok, it's fun I'm than a pull",
+      "grammar": "The phrase \"it's fun\" uses the present simple tense to express a general truth or habitual action, and \"I'm than a pull\" is an idiomatic expression meaning \"more interesting\" or \"more exciting\", with \"than\" indicating comparison."
+    },
+    {
+      "time": 49.94,
+      "text": "Ti do it, thuje, du me ma than do it",
+      "translation": "Ti do it, thuje, do me ma than do it",
+      "grammar": "This line uses a casual, informal tone and employs the idiomatic expression \"do something for someone more than you would for yourself\" to convey strong enthusiasm or dedication."
+    },
+    {
+      "time": 53.722,
+      "text": "E di sa m'don veq thuje",
+      "translation": "And of all I've always been there",
+      "grammar": "The phrase \"I've always been there\" uses the present perfect tense to convey a sense of continuous presence throughout one's life, emphasizing the speaker's unwavering support."
+    },
+    {
+      "time": 56.469,
+      "text": "A po don ti mwah",
+      "translation": "I'm done with my",
+      "grammar": "In this Creole phrase, \"don\" is used idiomatically to indicate completion or finality, equivalent to the English expression \"I'm all set\" or \"I've had enough\". The verb \"ti\" is a possessive particle indicating possession or association."
+    },
+    {
+      "time": 58.526,
+      "text": "Hajde t'kissi baby",
+      "translation": "Hajde t'kiss baby",
+      "grammar": "This informal phrase uses the imperative mood to make a suggestion, with Hajde meaning \"come on\" or \"let's\". The verb t'kissi is in the second person singular form, addressing someone directly."
+    },
+    {
+      "time": 60.239,
+      "text": "Apo don me t'qaf",
+      "translation": "Apo don me t'qaf",
+      "grammar": "This line uses the imperative mood, instructing someone to take a break or pause. The phrase \"Apo\" is an interjection, similar to \"Hey\" or \"Listen\"."
+    },
+    {
+      "time": 62.296,
+      "text": "My baby",
+      "translation": "My baby",
+      "grammar": "This phrase is an idiomatic expression used to affectionately refer to a loved one, often in a romantic or familial context. The use of \"baby\" as a term of endearment is informal and intimate, conveying a sense of closeness and tenderness."
+    },
+    {
+      "time": 63.496,
+      "text": "Bounce bounce, Can I a bounce bounce",
+      "translation": "Bounce bounce, Can I a bounce bounce",
+      "grammar": "This line is an example of ungrammatical English, likely used for its rhythmic and playful effect rather than to convey a specific meaning. The use of \"Can I\" as a phrase and the repetition of \"bounce\" creates a sense of excitement and energy."
+    },
+    {
+      "time": 66.243,
+      "text": "Du me t'pa tu bounce bounce",
+      "translation": "Du me t'pa tu bounce bounce",
+      "grammar": "This line appears to be an informal, playful expression in Haitian Creole, using the present tense and emphasizing action through repetition (\"bounce bounce\"). The use of pronouns and particles is idiomatic and may not directly translate to standard English."
+    },
+    {
+      "time": 68.99,
+      "text": "Edi qe je fanse ahh",
+      "translation": "Edi qe je fanse ahh",
+      "grammar": "This line features an interjection \"ahh\" which is used to express strong emotions or emphasis, often in informal settings. The sentence itself appears to be a phrase rather than a complete sentence, with the verb \"je\" (to be) and noun \"fanse\" (passion) conveying a sense of intense feeling."
+    },
+    {
+      "time": 71.048,
+      "text": "Bounce bounce, gjinia o bounce se",
+      "translation": "Bounce bounce, gjinia or bounce se",
+      "grammar": "This line uses the imperative mood to give instructions, with the repeated \"bounce\" emphasizing enthusiasm and encouragement. The phrase \"gjinia or\" is an idiomatic expression meaning \"either\" or \"or else\"."
+    },
+    {
+      "time": 73.45,
+      "text": "Du me t'pa tu bounce bounce",
+      "translation": "Du me t'pa tu bounce bounce",
+      "grammar": "This line is an example of a Haitian Creole idiom, where \"bounce\" means to dance or party. The sentence structure and verb agreement follow the typical pattern in Haitian Creole, with a focus on rhythm and musicality rather than strict grammatical rules."
+    },
+    {
+      "time": 76.197,
+      "text": "Ti bashk me fiancé",
+      "translation": "To bashk my fiancé",
+      "grammar": "The phrase \"bashk\" is an idiomatic expression meaning \"together with\" or \"alongside\", used to indicate a close relationship, in this case, the speaker's engagement to their fiancé."
+    },
+    {
+      "time": 77.91,
+      "text": "S'rrin bijat te sofa sofa",
+      "translation": "S'rrin born to sofa sofa",
+      "grammar": "This line uses the informal, colloquial expression \"born to\" as an idiom, implying a natural talent or inclination for something (sofa in this case). The phrase is often used in casual conversation and can be translated literally."
+    },
+    {
+      "time": 80.312,
+      "text": "E dridhin venin s'ju ha bofa bofa",
+      "translation": "And dridhin vein s'ju has bofa bofa",
+      "grammar": "The phrase \"s'ju\" is a contraction of \"se ju\" meaning \"to you\" or \"for you\", used to express possession or destination. It's an idiomatic expression in the target language, indicating that something belongs to someone or is intended for them."
+    },
+    {
+      "time": 83.404,
+      "text": "E pi",
+      "translation": "And for",
+      "grammar": "In this context, \"E\" is used as a conjunction to indicate addition or continuation, similar to \"and\" in English. The phrase \"E pi\" functions as a coordinating conjunction in the present tense, linking two clauses together."
+    },
+    {
+      "time": 84.604,
+      "text": "Nese doni, dedikoni strofa per mu",
+      "translation": "Nese doni, dedikoni strophe per mu",
+      "grammar": "The phrase \"Nese doni\" is an idiomatic expression in the target language, equivalent to \"If someone gives\" or \"When someone offers\". The verb \"doni\" is in the subjunctive mood, indicating a hypothetical situation."
+    },
+    {
+      "time": 87.006,
+      "text": "Kot e keni jo sum ha mu botha botha",
+      "translation": "Where is the sum ha mu botha botha",
+      "grammar": "This line uses the present tense to ask a question, with the verb \"keni\" (to be) in the affirmative form. The phrase \"sum ha mu botha botha\" appears to be an idiomatic expression, possibly referring to a specific location or entity."
+    },
+    {
+      "time": 90.442,
+      "text": "Nafijee (what)",
+      "translation": "Nafijee (what)",
+      "grammar": "This is an idiomatic expression, used to seek clarification or express surprise. The phrase \"Nafijee\" is likely a colloquialism or regionalism in the source language, and its translation is simply \"what\"."
+    },
+    {
+      "time": 91.642,
+      "text": "Tunde ti backun",
+      "translation": "Tunde was backun",
+      "grammar": "This line uses the past habitual tense to describe a repeated action in the past, with \"was\" indicating a completed state. Note that \"backun\" is an idiomatic expression meaning \"home\"."
+    },
+    {
+      "time": 93.01,
+      "text": "Tunde me stil se po na prish tregun",
+      "translation": "Tunde me stil se po na prish tregun",
+      "grammar": "The phrase \"me stil\" is an idiomatic expression indicating the speaker's continued existence or presence, equivalent to English \"I'm still\"."
+    },
+    {
+      "time": 96.102,
+      "text": "(A rudeness)",
+      "translation": "(A rudeness)",
+      "grammar": "This idiomatic phrase uses the noun \"rudeness\" as a direct object, implying that the speaker is referring to an instance of being rude."
+    },
+    {
+      "time": 97.302,
+      "text": "Luje qyqekun",
+      "translation": "Luje qyqekun",
+      "grammar": "This line is an interjection, used to express excitement or surprise. The verb \"luj\" has a sense of urgency and emphasizes the speaker's emotions."
+    },
+    {
+      "time": 98.502,
+      "text": "Boje me qef",
+      "translation": "Ceiling shutters",
+      "grammar": "In Albanian, \"qef\" is an idiomatic expression meaning \"ceiling shutters\", which can be used to describe a sudden or unexpected event."
+    },
+    {
+      "time": 99.87,
+      "text": "Mos e ban veq per lekun",
+      "translation": "Mos is always banned per lekun",
+      "grammar": "The phrase \"is always\" indicates a habitual present tense, implying that Mos' banning is a recurring situation. The word \"per\" functions as an adverb, modifying the verb \"lekun\"."
+    },
+    {
+      "time": 102.272,
+      "text": "Modern talkin hama ti tërë bolen",
+      "translation": "Modern talkin hama the terracotta bolen",
+      "grammar": "The phrase \"Modern talkin\" is an idiom, using the present continuous tense to convey a sense of modernity or trendiness. The verb \"talkin\" agrees with the subject \"hama\" in number and case."
+    },
+    {
+      "time": 104.674,
+      "text": "Motherfuckin s'po ma nin qa folin",
+      "translation": "Motherfuckin s'po ma nin qa folin",
+      "grammar": "This line is an interjection, using strong profanity to express strong emotions. The use of \"motherfucker\" as a term of endearment is an informal idiom in some cultures."
+    },
+    {
+      "time": 107.421,
+      "text": "Foto aparati tu m'percjell ton kohen",
+      "translation": "Photo camera tu m'percjell ton kohen",
+      "grammar": "The phrase \"tu\" is an informal second-person singular pronoun, used to address a close friend or someone of similar age and social status."
+    },
+    {
+      "time": 110.168,
+      "text": "Thuj paparazzi un ta smuj ty rolin",
+      "translation": "Thuj paparazzi a ta smuj ty rollin",
+      "grammar": "The phrase \"un ta\" is an idiomatic expression in Kek, equivalent to English \"to be rolling\" or \"to be having fun\", indicating the speaker's experience with paparazzi."
+    },
+    {
+      "time": 112.915,
+      "text": "Ja kom nis me opel cors",
+      "translation": "Yes come nice opel cors",
+      "grammar": "The phrase \"Ja kom\" is an informal way of saying \"I'm coming\" in English, using the present continuous tense to express immediate action. Note that \"nis\" is a casual negation equivalent to \"not\" or \"don't\"."
+    },
+    {
+      "time": 115.317,
+      "text": "Tash na ki n'apple stors",
+      "translation": "Tash and apple stors",
+      "grammar": "This line uses a common idiomatic expression in Kek, where \"na\" indicates possession or association rather than the literal meaning of \"of\". In this context, it translates to \"and\" in English."
+    },
+    {
+      "time": 117.72,
+      "text": "Tu pi rabi indoor",
+      "translation": "You don’t rabi indoor",
+      "grammar": "The phrase \"Tu pi\" is an informal way to say \"you don't\" in Kek, using the second-person singular pronoun \"tu\" and the negation particle \"pi\"."
+    },
+    {
+      "time": 119.432,
+      "text": "Deali rapet bjeri n'dor",
+      "translation": "Deali rapet bjeri n'dor",
+      "grammar": "This line appears to be an interjection, used to express strong emotions or emphasis, rather than a grammatically complete sentence. The use of \"rapet\" and \"bjeri\" may be idiomatic expressions that don't follow standard English grammar rules."
+    },
+    {
+      "time": 121.49,
+      "text": "Dilli naten vje n'door",
+      "translation": "Dilli naten vje n'door",
+      "grammar": "This line uses the present continuous tense to convey a sense of ongoing action, with \"naten\" implying an attempt or effort. The phrase \"vje n'door\" is an idiomatic expression meaning \"to be stuck\" or \"to be unable to move forward\"."
+    },
+    {
+      "time": 123.547,
+      "text": "Dillirat um bjen bor",
+      "translation": "Dillirat about the city",
+      "grammar": "The phrase \"um\" is a casual way to express uncertainty or approximation, similar to \"around\" or \"about\" in English. It's often used in informal spoken language to add a touch of colloquialism."
+    },
+    {
+      "time": 125.26,
+      "text": "Copyrati dope boy",
+      "translation": "Copyrati dope boy",
+      "grammar": "This phrase is an idiomatic expression, used to affectionately refer to someone who is considered cool or impressive. The use of \"copyrati\" is likely a playful take on the word \"copyright,\" implying that this person's awesomeness is exclusive and not to be copied."
+    },
+    {
+      "time": 126.628,
+      "text": "Ki inati merre n'goj",
+      "translation": "Ki inati merre n'goj",
+      "grammar": "This line uses the present continuous tense to describe an ongoing action, with \"inati\" indicating a process or activity happening at the moment of speaking."
+    },
+    {
+      "time": 128.685,
+      "text": "Mandem",
+      "translation": "Send",
+      "grammar": "In informal English, \"Mandem\" is an idiomatic expression used as a shortened form of \"my team\" or \"my crew\", often conveying camaraderie and shared experience."
+    },
+    {
+      "time": 129.885,
+      "text": "I'm a Bad motherfucker",
+      "translation": "I'm a Bad motherfucker",
+      "grammar": "This line uses the present participle \"am\" to express the speaker's current state, emphasizing their self-perception as a \"Bad motherfucker\". The use of \"motherfucker\" is an idiomatic expression conveying strong confidence and assertiveness."
+    },
+    {
+      "time": 131.943,
+      "text": "Ajo shakerat, un ja rrehi shuplaka",
+      "translation": "Ajo shakerat, un ja rrehi shuplaka",
+      "grammar": "This line uses the present tense to describe a habitual or general truth about the speaker's emotions, with \"ajo\" implying a sense of longing or yearning."
+    },
+    {
+      "time": 134.345,
+      "text": "Thoben e ka t'nalt se ka veshun taka",
+      "translation": "Thoben e ka t'nalt se ka veshun close",
+      "grammar": "The verb \"taka\" is in the imperative mood, indicating a command or instruction. The phrase \"se ka veshun close\" uses an idiomatic expression to mean \"to be very close\"."
+    },
+    {
+      "time": 137.782,
+      "text": "S'ki qka ja tesh",
+      "translation": "S'ki qka ja tesh",
+      "grammar": "This line uses the informal second-person singular pronoun \"s'\" and the verb \"qka\" in the present tense, indicating a direct address to someone familiar."
+    },
+    {
+      "time": 139.839,
+      "text": "Kjo veq kesh me papaka",
+      "translation": "Who always hates my dad",
+      "grammar": "In Albanian, the verb \"veq\" is in the present tense and indicates a habitual or general truth about someone's character. The phrase \"papaka\" is an idiomatic expression meaning \"father\"."
+    },
+    {
+      "time": 141.897,
+      "text": "Nafijee (what)",
+      "translation": "Nafijee (what)",
+      "grammar": "This line is an interjection, used to seek clarification or express surprise. The phrase \"what\" is a rhetorical question, implying the speaker's confusion or curiosity about something."
+    },
+    {
+      "time": 143.097,
+      "text": "Tunde ti backun",
+      "translation": "Tunde was backun",
+      "grammar": "This line uses the past perfect tense (was + past participle) to describe a completed action in the past, indicating that Tunde had returned before another event. The phrase \"backun\" is an idiomatic expression meaning \"home\" or \"to one's place\"."
+    },
+    {
+      "time": 144.465,
+      "text": "Tunde me stil se po na prish tregun",
+      "translation": "Tunde me stil se po na prish tregun",
+      "grammar": "This line uses the present tense to describe a habitual or general truth, with the verb \"se\" in the imperfective aspect indicating ongoing or repeated action."
+    },
+    {
+      "time": 147.556,
+      "text": "(A rudeness)",
+      "translation": "(A rudeness)",
+      "grammar": "In English, the phrase \"a rudeness\" is an idiomatic expression used to describe a single instance of impolite behavior."
+    },
+    {
+      "time": 148.756,
+      "text": "Luje qyqekun",
+      "translation": "Luje qyqekun",
+      "grammar": "This line is an interjection, used to express excitement or enthusiasm. The verb \"qyqekun\" is in the imperative mood, indicating a command or exhortation."
+    },
+    {
+      "time": 149.956,
+      "text": "Boje me qef",
+      "translation": "Ceiling shutters",
+      "grammar": "The phrase \"Boje me qef\" is an idiomatic expression in Albanian, using the imperative mood to convey a sense of sudden action or surprise."
+    },
+    {
+      "time": 151.324,
+      "text": "Mos e ban veq per lekun",
+      "translation": "Mos is always banned per lekun",
+      "grammar": "The phrase \"is always\" indicates a habitual present tense, describing a repeated action in the past. The word \"per\" functions as an adverb, modifying the verb \"lekun\"."
+    },
+    {
+      "time": 153.726,
+      "text": "Hajde o luj luj luj",
+      "translation": "Come on spoon spoon spoon",
+      "grammar": "This phrase uses the imperative mood to convey a sense of encouragement or urging, with the repeated \"luj\" functioning as an idiomatic intensifier."
+    },
+    {
+      "time": 155.784,
+      "text": "Si e din ti veq mos bo rrëmuj",
+      "translation": "If it's from you, I'll tell you",
+      "grammar": "The phrase \"Si e din\" is an idiomatic expression in Albanian, equivalent to the English \"if it's from you\". It uses the subjunctive mood to express a hypothetical condition."
+    },
+    {
+      "time": 158.876,
+      "text": "Hajde ho luj luj luj",
+      "translation": "Come on ho fuck fuck fuck",
+      "grammar": "The phrase \"hajde\" is an imperative verb, used to express encouragement or permission, equivalent to \"come on\" in English. The repetition of \"luj\" is an idiomatic expression emphasizing the intensity of the action, similar to saying \"come on, really do it!"
+    },
+    {
+      "time": 160.933,
+      "text": "E ka shum tmadhe e ka bo buj",
+      "translation": "It will shum tmadhe it will bo buj",
+      "grammar": "This line uses the future tense to express a prediction or intention, with the verb \"ka\" indicating a tentative or uncertain outcome. The phrase \"e ka shum tmadhe\" is an idiom meaning \"it will be good\" or \"everything will be fine\"."
+    },
+    {
+      "time": 164.025,
+      "text": "Hajde ho luj luj luj",
+      "translation": "Come on ho fuck fuck fuck",
+      "grammar": "This line uses the imperative mood to convey a sense of urgency and encouragement, with the repeated \"luj\" functioning as an idiomatic intensifier similar to English's \"come on\". The use of \"ho\" is likely an interjection or particle emphasizing the speaker's emotional tone."
+    },
+    {
+      "time": 166.082,
+      "text": "Si e din ti veq mos bo rrëmuj",
+      "translation": "If it's from you, I'll tell you",
+      "grammar": "The phrase \"Si e din\" is an idiomatic expression in Albanian, equivalent to the English phrase \"if it's from you\". It uses the subjunctive mood to express a hypothetical condition."
+    },
+    {
+      "time": 169.174,
+      "text": "Hajde ho luj luj luj",
+      "translation": "Come on ho fuck fuck fuck",
+      "grammar": "This line uses the imperative mood to express a strong encouragement, with the repeated phrase \"luj\" functioning as an idiomatic intensifier similar to \"come on\" in English."
+    },
+    {
+      "time": 171.231,
+      "text": "E ka shum tmadhe e ka bo buj",
+      "translation": "It will shum tmadhe it will bo buj",
+      "grammar": "This line uses the future tense, specifically the construction \"e ka\" to indicate a future action. The phrase \"shum tmadhe\" is an idiomatic expression meaning \"to be in a state of chaos\"."
+    },
+    {
+      "time": 174.323,
+      "text": "Fatty boom boom (baby first class)",
+      "translation": "Fatty boom boom (baby first class)",
+      "grammar": "This line is an idiomatic expression, using the phrase \"boom boom\" to emphasize excitement or energy, rather than its literal meaning. The sentence structure and word order are informal and conversational, typical of spoken language in everyday situations."
+    },
+    {
+      "time": 176.725,
+      "text": "Fatty boom boom (yeah first class)",
+      "translation": "Fatty boom boom (yeah first class)",
+      "grammar": "This line uses the idiomatic expression \"fatty boom boom\" to emphasize excitement or enthusiasm, with \"yeah\" serving as an interjection to convey strong agreement."
+    },
+    {
+      "time": 179.128,
+      "text": "Fatty boom boom (baby first class)",
+      "translation": "Fatty boom boom (baby first class)",
+      "grammar": "This line is an idiomatic expression, using the phrase \"boom boom\" as a playful and informal way to refer to someone's physical appearance or attractiveness."
+    },
+    {
+      "time": 181.53,
+      "text": "Fatty boom boom (braaaaat) (boom)",
+      "translation": "Fatty boom boom (braaaaat) (boom)",
+      "grammar": "This interjection is an example of onomatopoeia, mimicking the sound of a loud, boisterous laugh (\"braaaaat\"), used to emphasize excitement or playfulness. The repetition of \"boom\" adds to the energetic and lively tone."
+    },
+    {
+      "time": 183.587,
+      "text": "Ah fatty boom boom",
+      "translation": "Ah fatty boom boom",
+      "grammar": "This interjection uses a playful idiom to express excitement or emphasis, with no specific grammatical requirements."
+    }
+  ]
+}

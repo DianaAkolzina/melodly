@@ -1,0 +1,259 @@
+{
+  "id": "fr_dernire_danse",
+  "title": "Dernière danse",
+  "artist": "Indila",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_dernire_danse.mp3",
+  "duration": 123,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 16.19990000000596,
+      "text": "Oh, ma douce souffrance",
+      "translation": "Oh, my sweet suffering",
+      "grammar": "The phrase \"ma douce souffrance\" is an idiomatic expression that uses the possessive adjective \"ma\" (my) to emphasize a personal experience, rather than indicating possession."
+    },
+    {
+      "time": 19.555,
+      "text": "Pourquoi s'acharner? Tu recommences",
+      "translation": "Why persist? You're starting all over again.",
+      "grammar": "The phrase \"s'acharner\" is an idiomatic expression meaning to continue doing something despite difficulties or failures, conveying a sense of futility. The verb \"recommences\" is in the present tense, indicating a habitual or repeated action."
+    },
+    {
+      "time": 23.666300000011923,
+      "text": "Je n'suis qu'un être sans importance",
+      "translation": "I am just an insignificant being",
+      "grammar": "The phrase \"n'suis\" is a contraction of \"ne suis,\" which is the first person singular form of the verb \"être\" in the present tense, indicating a state of being. The use of \"n'\" instead of \"je\" emphasizes the speaker's humility and lack of importance."
+    },
+    {
+      "time": 28.0925,
+      "text": "Sans lui, je suis un peu paro",
+      "translation": "Without him, I'm a little paranoid.",
+      "grammar": "The phrase \"un peu\" is an idiomatic expression meaning \"a bit\" or \"somewhat\", used to soften the intensity of the adjective \"parano\"."
+    },
+    {
+      "time": 30.42490000000596,
+      "text": "Je déambule seule dans le métro",
+      "translation": "I wander alone through the subway",
+      "grammar": "The verb \"déambule\" is in the present tense, indicating a habitual or general action, and the phrase \"je déambule\" is an idiomatic expression meaning to wander aimlessly."
+    },
+    {
+      "time": 33.176100000023844,
+      "text": "Une dernière danse",
+      "translation": "One last dance",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of finality, implying that this is the last opportunity for a dance."
+    },
+    {
+      "time": 36.17540000000596,
+      "text": "Pour oublier ma peine immense",
+      "translation": "To forget my immense sorrow",
+      "grammar": "The phrase \"pour oublier\" is an idiomatic expression meaning \"to forget\" in English, using the infinitive verb form to indicate purpose."
+    },
+    {
+      "time": 40.57090000000596,
+      "text": "Je veux m'enfuir, que tout recommence",
+      "translation": "I want to run away, for everything to start again",
+      "grammar": "The phrase \"m'enfuir\" is an idiomatic expression meaning \"to run away\" or \"to escape\", with the reflexive pronoun \"m'\" indicating the subject's desire to flee from a situation."
+    },
+    {
+      "time": 44.6985,
+      "text": "Oh, ma douce souffrance",
+      "translation": "Oh, my sweet suffering",
+      "grammar": "The phrase \"ma douce souffrance\" is an idiomatic expression that uses the possessive adjective \"ma\" (my) to convey a sense of endearment and intimacy with one's own emotional pain."
+    },
+    {
+      "time": 50.48180000001192,
+      "text": "Je remue le ciel, le jour, la nuit",
+      "translation": "I move heaven and earth, day and night.",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of continuous effort or dedication, emphasizing the speaker's strong commitment."
+    },
+    {
+      "time": 54.8205,
+      "text": "Je danse avec le vent, la pluie",
+      "translation": "I dance with the wind, the rain",
+      "grammar": "This idiomatic expression uses the present participle \"danse\" to convey a sense of freedom and spontaneity, emphasizing the speaker's emotional connection with nature. The use of \"avec\" instead of \"to\" or \"with\" adds to the poetic tone, creating an intimate relationship between the dancer and the elements."
+    },
+    {
+      "time": 59.162,
+      "text": "Un peu d'amour, un brin de miel",
+      "translation": "A little love, a touch of honey",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of gentle, ongoing affection, rather than a specific moment in time. The phrase \"un peu\" is an idiom that means \"a little\" or \"some,\" implying a small but significant amount of love and sweetness."
+    },
+    {
+      "time": 63.5525,
+      "text": "Et je danse, danse, danse, danse, danse, danse, danse",
+      "translation": "And I dance, dance, dance, dance, dance, dance, dance",
+      "grammar": "The repeated verb phrase \"danse\" is in the present tense and emphasizes the speaker's ongoing action of dancing."
+    },
+    {
+      "time": 67.58230000001193,
+      "text": "Et dans le bruit, je cours et j'ai peur",
+      "translation": "And in the noise, I run and I'm scared",
+      "grammar": "The use of the imperfect tense \"j'avais peur\" instead of \"je suis peureux\" emphasizes the speaker's emotional state as a continuous process during the chaotic situation."
+    },
+    {
+      "time": 71.84220000001788,
+      "text": "Est-ce mon tour? Vient la douleur",
+      "translation": "Is it my turn? Here comes the pain.",
+      "grammar": "The phrase \"Vient la douleur\" is an idiomatic expression that uses the present continuous tense to convey a sense of impending or imminent action, rather than describing ongoing action at the moment of speaking."
+    },
+    {
+      "time": 77.74910000002384,
+      "text": "Dans tout Paris, je m'abandonne",
+      "translation": "Throughout Paris, I give myself over to temptation.",
+      "grammar": "The phrase \"je m'abandonne\" is an idiomatic expression that uses the reflexive pronoun \"m'\" to convey a sense of surrender or yielding, rather than literal abandonment. The verb \"se donner\" implies a willingness to indulge in temptation."
+    },
+    {
+      "time": 79.48330000001192,
+      "text": "Et je m'envole, vole, vole, vole, vole, vole, vole",
+      "translation": "And I fly away, fly, fly, fly, fly, fly, fly",
+      "grammar": "The repeated verb \"vole\" is in the present tense and imperative mood, emphasizing the idea of continuous action. The use of the same verb form with different particles (\"m'envole\", \"vole\") creates a sense of rhythm and emphasizes the speaker's emotional state."
+    },
+    {
+      "time": 83.48080000001193,
+      "text": "Que d'espérance",
+      "translation": "What hope!",
+      "grammar": "This interjection uses the present tense to express a sense of longing or yearning, with \"d'\" indicating possession and emphasizing the speaker's emotional investment in the concept of hope."
+    },
+    {
+      "time": 86.195,
+      "text": "Sur ce chemin en ton absence",
+      "translation": "On this path in your absence",
+      "grammar": "The phrase \"en ton absence\" is an idiomatic expression indicating a situation or time period when someone is not present, using the preposition \"en\" to convey a sense of duration."
+    },
+    {
+      "time": 90.63870000001788,
+      "text": "J'ai beau trimer, sans toi, ma vie n'est qu'un décor qui brille",
+      "translation": "No matter how hard I work, without you, my life is just a glittering facade.",
+      "grammar": "The phrase \"J'ai beau\" is an idiomatic expression indicating the speaker's effort or attempt, in this case, to emphasize their hard work. The verb \"trimer\" remains in the present tense, describing the ongoing action of working."
+    },
+    {
+      "time": 96.2455,
+      "text": "Vide de sens",
+      "translation": "Meaningless",
+      "grammar": "The phrase \"Vide de sens\" is an idiomatic expression that translates to \"Meaningless\". It uses the verb \"être vide\" in the passive voice, implying a lack of significance or relevance."
+    },
+    {
+      "time": 100.60980000001192,
+      "text": "Je remue le ciel, le jour, la nuit",
+      "translation": "I move heaven and earth, day and night.",
+      "grammar": "This idiomatic expression uses the metaphorical extension of the verb \"remuer\" to convey intense effort or determination, equivalent to \"move heaven and earth\"."
+    },
+    {
+      "time": 105.04560000002384,
+      "text": "Je danse avec le vent, la pluie",
+      "translation": "I dance with the wind, the rain",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a sense of freedom and spontaneity, emphasizing the speaker's willingness to let go and be carried by nature."
+    },
+    {
+      "time": 109.14420000001788,
+      "text": "Un peu d'amour, un brin de miel",
+      "translation": "A little love, a touch of honey",
+      "grammar": "The phrase \"un peu\" is an idiomatic expression meaning \"a little\" or \"somewhat\", used to convey a subtle or gentle quality."
+    },
+    {
+      "time": 113.042,
+      "text": "Et je danse, danse, danse, danse, danse, danse, danse",
+      "translation": "And I dance, dance, dance, dance, dance, dance, dance",
+      "grammar": "This repetition of the verb \"danse\" in the same tense and mood emphasizes the speaker's enthusiasm and creates a sense of rhythm, mirroring the physical action of dancing."
+    },
+    {
+      "time": 117.6335,
+      "text": "Et dans le bruit, je cours et j'ai peur",
+      "translation": "And in the noise, I run and I'm scared",
+      "grammar": "The use of \"je cours\" (I run) in the present tense indicates a simultaneous action with \"j'ai peur\" (I'm scared), conveying a sense of urgency and fear amidst the chaos. The phrase \"et j'ai peur\" is an idiomatic expression that emphasizes the speaker's emotional state."
+    },
+    {
+      "time": 122.4155,
+      "text": "Est-ce mon tour? Vient la douleur",
+      "translation": "Is it my turn? Here comes the pain.",
+      "grammar": "The phrase \"Vient la douleur\" uses the present continuous tense to convey a sense of impending or approaching pain, rather than describing ongoing pain. This idiomatic expression effectively translates the emotional experience of anticipating suffering."
+    },
+    {
+      "time": 125.864,
+      "text": "Dans tout Paris, je m'abandonne",
+      "translation": "Throughout Paris, I give myself over to temptation.",
+      "grammar": "The phrase \"je m'abandonne\" is an idiomatic expression in the present passive voice, where \"je\" (I) is the subject and \"m'\" is a reflexive pronoun indicating self-abandonment."
+    },
+    {
+      "time": 129.24380000001193,
+      "text": "Et je m'envole, vole, vole, vole, vole, vole, vole",
+      "translation": "And I fly away, fly, fly, fly, fly, fly, fly",
+      "grammar": "The repeated verb \"vole\" is in the present tense and imperative mood, used as an idiom to express a sense of freedom or escape."
+    },
+    {
+      "time": 151.52260000002383,
+      "text": "Dans cette douce souffrance",
+      "translation": "In this sweet suffering",
+      "grammar": "The phrase \"douce souffrance\" is an idiomatic expression that combines a noun (\"souffrance\") with an adjective (\"douce\"), conveying a sense of gentle or endurable hardship. The use of the definite article \"cette\" indicates a specific instance of this experience, emphasizing its subjective nature."
+    },
+    {
+      "time": 153.0548000000119,
+      "text": "Dont j'ai payé toutes les offenses",
+      "translation": "For which I have paid for all the offenses",
+      "grammar": "The phrase \"dont\" is an informal way to express the idea of \"for which\" or \"because of which\", often used in spoken French, and does not strictly follow grammatical rules."
+    },
+    {
+      "time": 157.33810000002384,
+      "text": "Écoute comme mon cœur est immense",
+      "translation": "Listen, how immense my heart is",
+      "grammar": "The phrase \"écoute comme\" is an idiomatic expression used to emphasize the speaker's emotional state, equivalent to \"listen to this\" or \"just imagine\". The verb \"écouter\" is in the imperative mood, indicating a request for the listener's attention."
+    },
+    {
+      "time": 161.69410000002384,
+      "text": "Je suis une enfant du monde",
+      "translation": "I am a child of the world",
+      "grammar": "The phrase \"enfant du monde\" is an idiomatic expression that uses the present tense to convey a sense of universality and timelessness, rather than referring specifically to childhood. The pronoun \"je\" agrees with the noun \"enfant\" in number and gender."
+    },
+    {
+      "time": 167.34240000000597,
+      "text": "J'remue le ciel, le jour, la nuit",
+      "translation": "I move heaven and earth, day and night.",
+      "grammar": "The phrase \"J'remue\" is a colloquialism used to emphasize the speaker's determination, equivalent to saying \"I'll do everything in my power\". The verb \"remuer\" is in the informal first person singular form, indicating a sense of personal involvement."
+    },
+    {
+      "time": 171.90640000000596,
+      "text": "Je danse avec le vent, la pluie",
+      "translation": "I dance with the wind, the rain",
+      "grammar": "The phrase \"je danse\" is in the present tense, indicating a habitual or ongoing action. The idiomatic expression \"danse avec\" implies a sense of freedom and spontaneity, suggesting that the speaker feels carefree and unencumbered as they dance with nature's elements."
+    },
+    {
+      "time": 175.94830000001193,
+      "text": "Un peu d'amour, un brin de miel",
+      "translation": "A little love, a touch of honey",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a sense of gentle, ongoing affection. The phrase \"un peu\" (a little) and \"un brin\" (a touch) emphasize the subtle nature of this romantic gesture."
+    },
+    {
+      "time": 179.42360000002384,
+      "text": "Et je danse, danse, danse, danse, danse, danse, danse",
+      "translation": "And I dance, dance, dance, dance, dance, dance, dance",
+      "grammar": "This repetition of the verb \"danse\" in the same tense and mood emphasizes the speaker's enthusiasm and creates a sense of rhythm, mimicking the action of dancing."
+    },
+    {
+      "time": 184.37170000001788,
+      "text": "Et dans le bruit, je cours et j'ai peur",
+      "translation": "And in the noise, I run and I'm scared",
+      "grammar": "The use of both present tense (\"je cours\") and past perfect tense (\"j'ai peur\") creates a sense of simultaneous action, emphasizing the speaker's emotional state."
+    },
+    {
+      "time": 188.64780000001193,
+      "text": "Est-ce mon tour? Vient la douleur",
+      "translation": "Is it my turn? Here comes the pain.",
+      "grammar": "The phrase \"Vient la douleur\" is an idiomatic expression that translates to \"Here comes the pain\". It uses the present continuous tense (vient) to convey a sense of impending or imminent action, rather than describing ongoing action."
+    },
+    {
+      "time": 192.76580000001192,
+      "text": "Dans tout Paris, je m'abandonne",
+      "translation": "Throughout Paris, I give myself over to temptation.",
+      "grammar": "The phrase \"je m'abandonne\" is an idiomatic expression that uses the reflexive pronoun \"m'\" and the verb \"abandonner\" in the first person singular, conveying a sense of surrender or yielding to one's desires."
+    },
+    {
+      "time": 196.41890000000595,
+      "text": "Et je m'envole, vole, vole, vole, vole, vole, vole",
+      "translation": "And I fly away, fly, fly, fly, fly, fly, fly",
+      "grammar": "The repeated use of the verb \"vole\" in this line is an example of poetic license, where a single action is emphasized through rhythmic repetition rather than grammatical accuracy."
+    }
+  ]
+}

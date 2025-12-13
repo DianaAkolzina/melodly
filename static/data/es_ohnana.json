@@ -1,0 +1,331 @@
+{
+  "id": "es_ohnana",
+  "title": "OHNANA",
+  "artist": "Kapo",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_ohnana.mp3",
+  "duration": 157,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Ohnana, ohnana",
+      "translation": "Ohnana, ohnana",
+      "grammar": "This interjection is an onomatopoeic expression that imitates the sound of a repetitive chant or call-and-response pattern, often used to express excitement or emphasis."
+    },
+    {
+      "time": 1.34,
+      "text": "Ay, mami",
+      "translation": "Oh, mommy",
+      "grammar": "This interjection \"Ay\" is an informal way to express surprise or emphasis, often used in spoken language. The phrase \"mami\" is a colloquialism for \"mommy\", emphasizing the speaker's affectionate tone."
+    },
+    {
+      "time": 2.679,
+      "text": "Ay, aquí estoy yo",
+      "translation": "Oh, here I am",
+      "grammar": "This phrase uses the informal expression \"Ay\" as an interjection to convey surprise or emphasis, followed by the verb \"estoy\" in the present continuous tense, indicating a sense of being in a particular state."
+    },
+    {
+      "time": 5.059,
+      "text": "Hum, parqueado en el mismo lugar donde te conocí (donde te conocí)",
+      "translation": "Hmm, parked in the same place where I met you (where I met you)",
+      "grammar": "The use of \"donde te conocí\" instead of \"where we met\" is an example of a rhetorical repetition, emphasizing the significance of the memory. This construction is typical in Spanish and adds a touch of intimacy to the lyrics."
+    },
+    {
+      "time": 11.597,
+      "text": "Todo lo que suena en la radio me recuerda a vo",
+      "translation": "Everything I hear on the radio reminds me of you",
+      "grammar": "This sentence uses the present tense to express a general truth, and the phrase \"me recuerda\" is an idiomatic expression meaning \"reminds me\"."
+    },
+    {
+      "time": 17.615,
+      "text": "Vo, allá y yo, acá, y yo no sé",
+      "translation": "You're there, and I'm here, and I don't know.",
+      "grammar": "The phrase \"y yo\" is an idiomatic expression used to emphasize the speaker's presence or involvement in a situation, equivalent to \"and me\" or \"and I\"."
+    },
+    {
+      "time": 22.594,
+      "text": "Si pueda, pero sigo",
+      "translation": "If I can, but I'm still going",
+      "grammar": "This idiomatic expression uses the present conditional to convey a sense of determination or resolve, implying that even if something is difficult, the speaker will continue trying. The phrase \"sigo\" (I'm still) emphasizes the speaker's persistence."
+    },
+    {
+      "time": 24.974,
+      "text": "Sigo pensando en tu boca",
+      "translation": "I keep thinking about your mouth",
+      "grammar": "The verb \"sigo\" is in the present continuous tense, indicating a habitual or ongoing action. The phrase \"pensando en\" can be translated as \"thinking about\", using an idiomatic expression to convey a figurative sense of preoccupation with someone's physical feature."
+    },
+    {
+      "time": 27.873,
+      "text": "Me encierro en cuatro parede",
+      "translation": "I lock myself within four walls",
+      "grammar": "The phrase \"Me encierro\" is an idiomatic expression that conveys a sense of emotional confinement, rather than physical imprisonment. The verb \"encierro\" is in the first person singular reflexive form, indicating that the speaker is performing the action on themselves."
+    },
+    {
+      "time": 30.772,
+      "text": "Una historia tan hermosa",
+      "translation": "Such a beautiful story",
+      "grammar": "The phrase \"tan hermosa\" is an idiomatic expression used to emphasize the beauty of something, equivalent to saying \"so beautiful\". The adjective \"hermoso\" agrees with the noun \"historia\" in gender and number."
+    },
+    {
+      "time": 33.151,
+      "text": "En estos tiempos no se ve",
+      "translation": "You don't see it these days.",
+      "grammar": "The phrase \"en estos tiempos\" is an idiomatic expression indicating a sense of nostalgia or longing for the past, often used to express that something was better in previous times."
+    },
+    {
+      "time": 36.571,
+      "text": "Y yo, tan loco, tan loco",
+      "translation": "And me, so crazy, so crazy",
+      "grammar": "This line uses the informal phrase \"y yo\" as an idiomatic expression to address someone in a familiar tone, equivalent to \"hey you\" or \"dude\". The verb \"estoy\" is implied through the adverbial phrases \"tan loco\", conveying a sense of intensity and emphasizing the speaker's emotional state."
+    },
+    {
+      "time": 39.99,
+      "text": "Sigo pensando en tu baile",
+      "translation": "I keep thinking about your dance",
+      "grammar": "The verb phrase \"sigo pensando\" is in the present continuous tense, indicating a habitual or ongoing action. The use of \"sigo\" instead of \"pensando\" emphasizes the continuity of the thought process."
+    },
+    {
+      "time": 42.889,
+      "text": "Mira la luna y siente que",
+      "translation": "Look at the moon and feel that",
+      "grammar": "The phrase \"siente que\" is an idiomatic expression translating to \"feel that\", using the present subjunctive mood to convey a sense of emotional experience rather than factual description."
+    },
+    {
+      "time": 46.308,
+      "text": "Toy al oído susurrando",
+      "translation": "Toy whispering in ear",
+      "grammar": "The verb \"toy\" is used idiomatically to mean \"to think or imagine something\", and the phrase \"susurrando\" is an adverbial participle describing the manner of thinking, conveying a sense of quiet contemplation."
+    },
+    {
+      "time": 48.687,
+      "text": "Ohnana, ohnana, ohnana",
+      "translation": "Ohnana, ohnana, ohnana",
+      "grammar": "This interjection \"ohnana\" is an onomatopoeic expression that imitates the sound of a rhythmic chant or call-and-response pattern, often used to express excitement or enthusiasm."
+    },
+    {
+      "time": 50.547,
+      "text": "Ohnana, ohnana",
+      "translation": "Ohnana, ohnana",
+      "grammar": "This interjection \"ohnana\" is an onomatopoeic expression that imitates the sound of a repetitive chant or call-and-response pattern, often used to express excitement or emphasis."
+    },
+    {
+      "time": 51.887,
+      "text": "Una historia tan hermosa",
+      "translation": "Such a beautiful story",
+      "grammar": "The phrase \"tan hermosa\" is an idiomatic expression used to emphasize the beauty of something, equivalent to saying \"so beautiful\". The adjective \"hermoso\" agrees with the noun \"historia\" in gender and number."
+    },
+    {
+      "time": 54.266,
+      "text": "En estos tiempos no se ve",
+      "translation": "You don't see it these days.",
+      "grammar": "The phrase \"en estos tiempos\" is an idiomatic expression indicating a change in time or era, often used to convey that something is no longer common or acceptable."
+    },
+    {
+      "time": 57.685,
+      "text": "Ohnana, ohnana, ohnana",
+      "translation": "Ohnana, ohnana, ohnana",
+      "grammar": "This interjection is an example of onomatopoeia, where the sound imitates the intended meaning. The repetition emphasizes the excitement or energy behind the phrase."
+    },
+    {
+      "time": 59.545,
+      "text": "Ohnana, ohnana",
+      "translation": "Ohnana, ohnana",
+      "grammar": "This interjection \"ohnana\" is an onomatopoeic expression imitating a repetitive sound, often used to convey excitement or emphasis in informal settings."
+    },
+    {
+      "time": 60.885,
+      "text": "Mira la Luna y siente que",
+      "translation": "Look at the moon and feel that",
+      "grammar": "The phrase \"siente que\" is an idiomatic expression indicating a subjective experience or intuition, equivalent to \"feel like\" in English. It uses the present subjunctive mood to express a hypothetical or uncertain situation."
+    },
+    {
+      "time": 64.304,
+      "text": "Toy al oído, susurrando",
+      "translation": "Toy whispering in your ear",
+      "grammar": "The phrase \"susurrando\" is a present participle verb form used to describe an ongoing action, conveying the idea of gentle, secretive speaking."
+    },
+    {
+      "time": 66.683,
+      "text": "Ay, con una rosa la conquisté",
+      "translation": "Oh, I won her over with a rose",
+      "grammar": "The phrase \"con una rosa\" is an idiomatic expression meaning \"with a romantic gesture\" or \"with charm\". The verb \"conquisté\" is in the preterite tense, indicating that the speaker successfully won someone's affection at some point in the past."
+    },
+    {
+      "time": 70.102,
+      "text": "Bailando dancehall, me la llevé",
+      "translation": "Dancing dancehall, I took her away",
+      "grammar": "The verb phrase \"me la llevé\" is in the preterite tense and uses the pronoun \"me\" instead of \"yo\" to emphasize the speaker's involvement in the action. This construction is a common idiomatic expression in Latin American Spanish."
+    },
+    {
+      "time": 73.001,
+      "text": "Y sin brisa yo la mojé",
+      "translation": "And without a breeze I wet her",
+      "grammar": "The use of \"yo\" instead of \"ella\" or \"le\" indicates that \"la\" is being used as an object pronoun, emphasizing the action of wetting rather than the subject. This construction is a common idiomatic expression in Spanish to convey a sense of intimacy or familiarity."
+    },
+    {
+      "time": 76.421,
+      "text": "Sin tocarla la desnudé",
+      "translation": "Without touching her, I undressed her",
+      "grammar": "This idiomatic expression uses the present participle \"desnudé\" (undressing) in a subordinate clause, emphasizing the simultaneous action of not touching and undressing. The use of the present participle creates a sense of continuity with the main verb \"toca\" (to touch)."
+    },
+    {
+      "time": 78.8,
+      "text": "Se puso hermosa, bien lo sabé'",
+      "translation": "She looked beautiful, you know that.",
+      "grammar": "The phrase \"bien lo sabé\" is an idiomatic expression used to emphasize the speaker's certainty about something, equivalent to saying \"I'm sure\" or \"you can be certain\"."
+    },
+    {
+      "time": 82.219,
+      "text": "Y to' los día' le hago saber",
+      "translation": "And every day I let him know",
+      "grammar": "The phrase \"Y to' los día' le\" is an idiomatic expression indicating a habitual or repeated action, translated as \"every day\". The verb \"hacer saber\" is in the present tense, emphasizing the ongoing nature of the speaker's actions."
+    },
+    {
+      "time": 86.158,
+      "text": "Que me tiene loco",
+      "translation": "It drives me crazy",
+      "grammar": "This idiomatic expression uses the verb \"tener\" in the present tense to convey a strong emotional state, rather than describing an ongoing action. The phrase is equivalent to saying \"it's driving me crazy\"."
+    },
+    {
+      "time": 88.537,
+      "text": "Con ese vaivén, eh, y sigo",
+      "translation": "With that back and forth, eh, and I continue",
+      "grammar": "The use of \"sigo\" (I continue) in the present tense indicates ongoing action, emphasizing the speaker's persistence despite the \"vaivén\" (back and forth). The informal tone is maintained through the colloquial expression \"eh\", which adds a conversational touch to the sentence."
+    },
+    {
+      "time": 91.957,
+      "text": "Sigo pensando en tu boca",
+      "translation": "I keep thinking about your mouth",
+      "grammar": "The verb \"sigo\" is in the present continuous tense, indicating a habitual or ongoing action. The phrase \"pensando en\" can be translated as \"thinking about\", using the preposition \"en\" to indicate the object of thought."
+    },
+    {
+      "time": 94.856,
+      "text": "Me encierro en cuatro parede",
+      "translation": "I lock myself within four walls",
+      "grammar": "The phrase \"me encierro\" is an idiomatic expression that uses the reflexive verb \"encerrarse\" in the first person singular, indicating a sense of confinement or isolation. The use of \"four walls\" as a metaphor for emotional boundaries emphasizes the speaker's desire to withdraw from the outside world."
+    },
+    {
+      "time": 97.755,
+      "text": "Una historia tan hermosa",
+      "translation": "Such a beautiful story",
+      "grammar": "The phrase \"tan hermosa\" is an idiomatic expression used to emphasize the beauty of something, equivalent to saying \"so beautiful\". The adjective \"hermoso\" agrees with the noun \"historia\" in gender and number."
+    },
+    {
+      "time": 100.135,
+      "text": "En estos tiempos no se ve",
+      "translation": "You don't see it these days.",
+      "grammar": "The phrase \"en estos tiempos\" is an idiomatic expression indicating a change in time or circumstances, often used to express that something is no longer common or acceptable."
+    },
+    {
+      "time": 103.554,
+      "text": "Y yo, tan loco, tan loco",
+      "translation": "And me, so crazy, so crazy",
+      "grammar": "The phrase \"Y yo\" is an informal way to address oneself in Spanish, equivalent to saying \"I\" or \"me\" in English. The use of \"yo\" instead of a more formal pronoun like \"mi\" emphasizes the speaker's personal involvement and adds to the casual tone of the sentence."
+    },
+    {
+      "time": 106.973,
+      "text": "Sigo pensando en tu baile",
+      "translation": "I keep thinking about your dance",
+      "grammar": "The verb \"sigo\" is in the present continuous tense, indicating a habitual or ongoing action. The phrase \"pensando en\" can be translated as \"thinking about\", and the possessive pronoun \"tu\" agrees with the noun \"baile\"."
+    },
+    {
+      "time": 109.872,
+      "text": "Mira la luna y siente que",
+      "translation": "Look at the moon and feel that",
+      "grammar": "The phrase \"siente que\" is an idiomatic expression translating to \"feel that\". It uses the present subjunctive mood, indicating a hypothetical or emotional state."
+    },
+    {
+      "time": 113.291,
+      "text": "Toy al oído susurrando",
+      "translation": "Toy whispering in ear",
+      "grammar": "This line uses the present participle \"susurrando\" to describe an ongoing action, conveying a sense of intimacy and secrecy. The phrase \"al oído\" literally means \"to the ear\", but idiomatically translates to \"in one's ear\"."
+    },
+    {
+      "time": 115.671,
+      "text": "Ohnana, ohnana, ohnana, ay",
+      "translation": "Ohnana, ohnana, ohnana, ay",
+      "grammar": "This interjection \"ohnana\" is an onomatopoeic expression imitating the sound of a repetitive chant or call-and-response, often used to express excitement or emphasis."
+    },
+    {
+      "time": 118.05,
+      "text": "Ohnana, ohnana, ay",
+      "translation": "Ohnana, ohnana, ay",
+      "grammar": "This interjection \"ohnana\" is an onomatopoeic expression used to convey excitement or enthusiasm, often in a repetitive and rhythmic manner."
+    },
+    {
+      "time": 119.91,
+      "text": "Una historia tan hermosa",
+      "translation": "Such a beautiful story",
+      "grammar": "The phrase \"tan hermosa\" is an idiomatic expression used to emphasize the beauty of something, similar to saying \"so beautiful\". The adjective \"hermoso\" agrees with the noun \"historia\" in gender and number."
+    },
+    {
+      "time": 122.289,
+      "text": "En estos tiempos no se ve",
+      "translation": "You don't see it these days.",
+      "grammar": "The phrase \"en estos tiempos\" is an idiomatic expression indicating a sense of nostalgia or longing for the past, often used to express that something is no longer common or prevalent."
+    },
+    {
+      "time": 125.708,
+      "text": "Ohnana, ohnana, ohnana, ay",
+      "translation": "Ohnana, ohnana, ohnana, ay",
+      "grammar": "This interjection is an expression of excitement or joy, often used in informal settings. The repetition of \"ohnana\" emphasizes the speaker's enthusiasm and creates a sense of rhythm."
+    },
+    {
+      "time": 128.087,
+      "text": "Ohnana, ohnana, ay",
+      "translation": "Ohnana, ohnana, ay",
+      "grammar": "This interjection \"ohnana\" is an onomatopoeic expression that imitates the sound of a call or a shout, often used to express excitement or emphasis."
+    },
+    {
+      "time": 129.947,
+      "text": "Una historia tan hermosa",
+      "translation": "Such a beautiful story",
+      "grammar": "The phrase \"tan hermosa\" is an idiomatic expression used to emphasize the beauty of something, equivalent to saying \"so beautiful\"."
+    },
+    {
+      "time": 132.326,
+      "text": "En estos tiempos no se ve",
+      "translation": "You don't see it these days.",
+      "grammar": "The phrase \"en estos tiempos\" is an idiomatic expression indicating a sense of nostalgia or longing for the past, often used to express that something is no longer common or prevalent."
+    },
+    {
+      "time": 135.746,
+      "text": "Na, ohnana, na, ohnana",
+      "translation": "Na, ohnana, na, ohnana",
+      "grammar": "This interjection is an expression of excitement or emphasis, often used in informal settings. The repetition of \"na\" and \"ohnana\" creates a sense of rhythm and energy, adding to the overall emotional impact."
+    },
+    {
+      "time": 138.125,
+      "text": "Yo, Gangsta (na, ohnana, na, ohnana)",
+      "translation": "Yo, Gangsta (na, ohnana, na, ohnana)",
+      "grammar": "This line is an example of informal spoken English, using the colloquial greeting \"Yo\" and the nickname \"Gangsta\". The repetition of \"na, ohnana\" is a rhythmic device common in hip-hop lyrics."
+    },
+    {
+      "time": 141.544,
+      "text": "En estos tiempos no se ve",
+      "translation": "You don't see it these days.",
+      "grammar": "The phrase \"en estos tiempos\" is an idiomatic expression indicating a change in time or circumstances, often used to express a sense of nostalgia or disappointment."
+    },
+    {
+      "time": 144.963,
+      "text": "Na, ohnana, na, ohnana, ohnana",
+      "translation": "Na, ohnana, na, ohnana, ohnana",
+      "grammar": "This line features an interjection \"na\" which is a common expression in Latin American Spanish used to emphasize or express surprise."
+    },
+    {
+      "time": 147.863,
+      "text": "Una historia tan hermosa (toy al oído)",
+      "translation": "Such a beautiful story (I'm whispering in your ear)",
+      "grammar": "The phrase \"toy al oído\" is an idiomatic expression that combines the verb \"toyer\" with the preposition \"al\", conveying the idea of whispering or speaking softly, rather than literally playing at someone's ear."
+    },
+    {
+      "time": 151.801,
+      "text": "En estos tiempos no se ve (toy al oído susurrando)",
+      "translation": "These days you can't see it (I'm whispering in your ear)",
+      "grammar": "The phrase \"no se ve\" is an idiomatic expression meaning \"it's not visible\" or \"you can't see it\", using the present tense to convey a sense of general truth."
+    }
+  ]
+}

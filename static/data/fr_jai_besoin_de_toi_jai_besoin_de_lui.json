@@ -1,0 +1,229 @@
+{
+  "id": "fr_jai_besoin_de_toi_jai_besoin_de_lui",
+  "title": "J'ai besoin de toi j'ai besoin de lui",
+  "artist": "Nicole Croisille",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_jai_besoin_de_toi_jai_besoin_de_lui.mp3",
+  "duration": 197,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 11.847,
+      "text": "Ne me demande pas pour la dernière fois",
+      "translation": "Don't ask me for the last time",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of habitual or repeated action, rather than a specific past event. The phrase \"pour la dernière fois\" is an idiomatic way to say \"for the first/last time\", emphasizing the speaker's reluctance to answer the question again."
+    },
+    {
+      "time": 16.98669999998808,
+      "text": "Si enfin j'ai choisi entre toi, entre lui",
+      "translation": "If I finally chose between you, between him",
+      "grammar": "This line illustrates the use of the subjunctive mood in a hypothetical situation, where \"choisis\" (chose) is used to express doubt or uncertainty about the outcome. The phrase \"entre toi\" and \"entre lui\" also employs the idiomatic expression \"entre A et B\" meaning \"between A and B\"."
+    },
+    {
+      "time": 22.262,
+      "text": "Si je ne réponds pas, je sais, tu partiras",
+      "translation": "If I don't answer, I know you'll leave.",
+      "grammar": "The phrase \"je sais\" is an idiomatic expression meaning \"I'm sure\" or \"I know for certain\", rather than a literal statement of knowledge. The verb \"partiras\" is in the conditional mood, indicating a hypothetical situation and the speaker's expectation that the other person will leave if they don't respond."
+    },
+    {
+      "time": 32.8855,
+      "text": "J'ai besoin de toi, j'ai besoin de lui",
+      "translation": "I need you, I need him",
+      "grammar": "In French, the verb \"avoir\" is used to express physical or emotional needs, and in this line, it's used in the present tense to convey a sense of urgency. The phrase \"j'ai besoin de toi\" is an idiomatic expression that translates literally as \"I have need of you\", emphasizing the importance of the person being addressed."
+    },
+    {
+      "time": 37.81370000001788,
+      "text": "Voilà la vérité",
+      "translation": "That's the truth",
+      "grammar": "The phrase \"Voilà\" is an interjection used to introduce or emphasize a statement, similar to saying \"there you have it\" in English. It is often used to add a touch of drama or surprise to the delivery of information."
+    },
+    {
+      "time": 40.3455,
+      "text": "J'ai besoin de lui, j'ai besoin de toi",
+      "translation": "I need him, I need you",
+      "grammar": "The use of \"j'ai besoin de\" with pronouns \"lui\" and \"toi\" indicates the necessity of someone's presence or action, emphasizing the importance of personal relationships."
+    },
+    {
+      "time": 45.46559999999404,
+      "text": "Mais ça ne se dit pas",
+      "translation": "But that's not how you say it.",
+      "grammar": "The phrase \"Mais ça ne se dit pas\" uses the present tense to express a general truth, and \"se dire\" is an idiomatic expression meaning \"to be expressed\" or \"to be said\"."
+    },
+    {
+      "time": 47.69380000001192,
+      "text": "(J'ai besoin de toi, j'ai besoin de lui)",
+      "translation": "(I need you, I need him)",
+      "grammar": "This line illustrates the use of the present tense to express a general truth or necessity, with the verb \"besoin\" (need) in its infinitive form. The phrase also employs an idiomatic expression \"j'ai besoin de toi/lui\", where \"de\" indicates the object of need rather than possession."
+    },
+    {
+      "time": 52.839300000011924,
+      "text": "(Voilà la vérité)",
+      "translation": "(That's the truth)",
+      "grammar": "The phrase \"Voilà la vérité\" is an idiomatic expression that uses the present tense to convey a sense of finality and certainty, similar to saying \"That's it!\" or \"That's the bottom line\". The pronoun \"la\" agrees with the noun \"vérité\", emphasizing the idea that this is the ultimate truth."
+    },
+    {
+      "time": 55.07120000001788,
+      "text": "(J'ai besoin de lui, j'ai besoin de toi)",
+      "translation": "(I need him, I need you)",
+      "grammar": "This line illustrates the use of the present tense to express a strong emotional need or necessity, with the idiomatic phrase \"j'ai besoin de\" conveying a sense of urgency. The pronouns \"lui\" and \"toi\" are used to emphasize the importance of these individuals in the speaker's life."
+    },
+    {
+      "time": 60.12009999999404,
+      "text": "(Mais ça ne se dit pas)",
+      "translation": "(But that's not something you say)",
+      "grammar": "This idiomatic expression uses the present tense to convey a general truth, rather than describing a specific event. The phrase \"ne se dit pas\" is an idiomatic way of saying \"it's not done\" or \"it's not said\", emphasizing that certain words are inappropriate in a given situation."
+    },
+    {
+      "time": 64.81620000001789,
+      "text": "Lui, la tendresse, lui, la douceur et l'insouciance",
+      "translation": "He, tenderness; he, gentleness and carefree spirit",
+      "grammar": "The repeated use of \"lui\" (he) emphasizes the possessive pronoun's function as a subject agreement marker in French, highlighting the connection between the speaker and the described qualities."
+    },
+    {
+      "time": 72.49940000000596,
+      "text": "Et toi, la force, oui, toi qui sais ce que tu veux",
+      "translation": "And you, the force, yes, you who know what you want",
+      "grammar": "The phrase \"toi qui sais\" is an idiomatic expression used to emphasize the speaker's understanding of someone's intentions or desires. The verb \"sais\" is in the present tense, indicating a general knowledge or awareness rather than a specific action."
+    },
+    {
+      "time": 80.302,
+      "text": "Et moi, entre vous deux, je pouvais être heureuse",
+      "translation": "And me, between the two of you, I could be happy",
+      "grammar": "The phrase \"entre vous deux\" is an idiomatic expression meaning \"between the two of us\" or \"amongst the two of you\", implying a sense of intimacy and exclusivity."
+    },
+    {
+      "time": 87.488,
+      "text": "J'ai besoin de toi, j'ai besoin de lui",
+      "translation": "I need you, I need him",
+      "grammar": "In this line, the verb \"besoin\" is in the present tense and expresses a strong necessity, emphasizing the speaker's emotional state. The use of \"de toi\" and \"de lui\" with \"besoin\" is an idiomatic expression indicating the person being needed."
+    },
+    {
+      "time": 92.7155,
+      "text": "Voilà la vérité",
+      "translation": "That's the truth",
+      "grammar": "The phrase \"Voilà la vérité\" is an idiomatic expression that uses the present tense to convey a sense of sudden revelation or emphasis, similar to saying \"And there you have it!\" in English."
+    },
+    {
+      "time": 94.75730000001192,
+      "text": "J'ai besoin de lui, j'ai besoin de toi",
+      "translation": "I need him, I need you",
+      "grammar": "The use of \"j'ai besoin de\" with a person's name or pronoun indicates a strong emotional dependence, conveying the speaker's urgency and vulnerability. The repetition of \"j'ai besoin de\" emphasizes the intensity of their needs."
+    },
+    {
+      "time": 100.08790000000596,
+      "text": "Mais ça ne se dit pas",
+      "translation": "But that's not how you say it.",
+      "grammar": "This idiomatic expression uses the present tense to convey a general truth, rather than describing a specific situation. The phrase \"ne se dit pas\" is an idiom meaning \"it's not said\" or \"that's not how you express it\"."
+    },
+    {
+      "time": 102.31080000001192,
+      "text": "Je voudrais te le dire mais tu ne le comprendrais pas",
+      "translation": "I would like to tell you, but you wouldn't understand.",
+      "grammar": "The verb phrase \"je voudrais\" is in the conditional mood, indicating a hypothetical situation. The use of \"voudrais\" instead of \"aimerais\" or \"serais\" emphasizes the speaker's reluctance to express their thoughts."
+    },
+    {
+      "time": 109.74640000000596,
+      "text": "(J'ai besoin de lui, j'ai besoin de toi) j'ai besoin de toi",
+      "translation": "(I need him, I need you) I need you",
+      "grammar": "The use of \"j'ai besoin de\" twice in a row emphasizes the speaker's urgent need for both individuals, creating a sense of intimacy and emphasizing the importance of their relationships."
+    },
+    {
+      "time": 114.11709999999404,
+      "text": "Et d'un autre à la fois (mais ça ne se dit pas)",
+      "translation": "And from another at the same time (but that's not how you say it)",
+      "grammar": "This idiomatic expression uses the present tense to describe a general truth, while also acknowledging its unconventional usage. The phrase \"ça ne se dit pas\" is an informal way of saying something can't be expressed or put into words."
+    },
+    {
+      "time": 119.52880000001193,
+      "text": "Tu crois encore que seul un homme a tous les droits",
+      "translation": "Do you still believe that only a man has all the rights?",
+      "grammar": "The phrase \"seul un homme\" is an idiomatic expression meaning \"only men\" or \"only males\", emphasizing the idea that men have exclusive rights. The sentence uses the present tense to express a general opinion or belief, rather than a specific event or action."
+    },
+    {
+      "time": 127.73609999999404,
+      "text": "Et qu'une femme n'a qu'un seul dieu ou qu'un seul roi",
+      "translation": "And that a woman has only one god or one king",
+      "grammar": "This idiomatic expression uses the present tense to convey a timeless truth, emphasizing the idea that for a woman, there is only one ultimate authority."
+    },
+    {
+      "time": 134.971,
+      "text": "Pourquoi as-tu si peur de voir changer les choses?",
+      "translation": "Why are you so afraid of things changing?",
+      "grammar": "The use of \"as-tu\" instead of \"tu es\" is an informal way to ask a question, common in spoken French. It's equivalent to \"why have you...\" in English, using the present perfect tense to convey a sense of ongoing fear."
+    },
+    {
+      "time": 141.54590000000596,
+      "text": "J'ai besoin de toi, j'ai besoin de lui",
+      "translation": "I need you, I need him",
+      "grammar": "In French, the verb \"avoir\" is used to express physical or emotional needs, and the pronoun \"besoin\" agrees with the object of need in number (singular or plural)."
+    },
+    {
+      "time": 147.42430000001193,
+      "text": "Voilà la vérité",
+      "translation": "That's the truth",
+      "grammar": "The phrase \"Voilà\" is an interjection used to emphasize a statement, equivalent to saying \"there you have it\" or \"that's it\". It is often translated as \"That's\" in English."
+    },
+    {
+      "time": 148.79480000001192,
+      "text": "J'ai besoin de lui, j'ai besoin de toi",
+      "translation": "I need him, I need you",
+      "grammar": "This line uses the present tense to express a strong sense of necessity, with the idiomatic phrase \"besoin de\" conveying a deep emotional requirement. The pronouns \"lui\" and \"toi\" are used in the accusative case to indicate the direct objects of the verb \"besoin\"."
+    },
+    {
+      "time": 155.1413000000119,
+      "text": "Mais ça ne se dit pas",
+      "translation": "But that's not how you say it.",
+      "grammar": "This idiomatic expression uses the present tense to convey a general truth, rather than describing a specific situation. The phrase \"ne se dit pas\" is an idiom meaning \"it's not said\" or \"that's not how you express it\"."
+    },
+    {
+      "time": 156.6635,
+      "text": "(J'ai besoin de toi, j'ai besoin de lui) je voudrias te le dire mais non",
+      "translation": "(I need you, I need him) I would like to tell you but no",
+      "grammar": "The use of \"je voudrais\" in the past tense indicates a hypothetical or conditional situation, implying that the speaker is expressing regret about not being able to convey their message. The phrase also employs an idiomatic expression \"avoir besoin de quelqu'un\" to emphasize the importance of someone's presence."
+    },
+    {
+      "time": 164.288,
+      "text": "Tu ne m'écoutes pas (voilà la vérité)",
+      "translation": "You're not listening to me (that's the truth)",
+      "grammar": "The phrase \"Tu ne m'écoutes pas\" is in the present tense, emphasizing the habitual or repeated nature of not being listened to. The use of \"pas\" instead of \"plus\" adds a sense of negation and strong emphasis to the statement."
+    },
+    {
+      "time": 167.13759999999405,
+      "text": "(J'ai besoin de lui, j'ai besoin de toi) tu choisis de croire",
+      "translation": "(I need him, I need you) you choose to believe",
+      "grammar": "The phrase \"tu choisis\" is in the second person singular, indicating that the speaker is addressing someone directly. The use of \"choisir\" (to choose) in this context implies a sense of agency and control, as if the addressee has the power to decide what to believe."
+    },
+    {
+      "time": 172.49730000001193,
+      "text": "Que je ne t'aime pas (mais ça ne se dit pas)",
+      "translation": "That I don't love you (but that's not something you say)",
+      "grammar": "The phrase \"ça ne se dit pas\" is an idiomatic expression indicating that something is considered impolite or taboo to express openly, often used to convey a sense of embarrassment or awkwardness."
+    },
+    {
+      "time": 173.14340000000595,
+      "text": "(J'ai besoin de toi, j'ai besoin de lui) mais j'ai besoin de toi",
+      "translation": "(I need you, I need him) but I need you",
+      "grammar": "The use of \"j'ai besoin de toi\" twice emphasizes the speaker's priority and creates a sense of urgency, with the repetition of \"toi\" (you) highlighting the importance of the person being addressed."
+    },
+    {
+      "time": 174.40409999999403,
+      "text": "Et j'ai besoin de lui (voilà la vérité)",
+      "translation": "And I need him (that's the truth)",
+      "grammar": "The phrase \"j'ai besoin de lui\" is in the present tense, indicating a current necessity. The use of \"lui\" instead of \"moi\" emphasizes the speaker's dependence on someone else."
+    },
+    {
+      "time": 175.26659999999404,
+      "text": "(J'ai besoin de lui, j'ai besoin de toi) si tu ne comprends pas",
+      "translation": "(I need him, I need you) if you don't understand",
+      "grammar": "The phrase \"j'ai besoin de lui\" and \"j'ai besoin de toi\" uses the present tense to express a strong necessity or urgency, emphasizing the importance of understanding. The use of \"lui\" and \"toi\" instead of \"son\" and \"ta\" highlights the idiomatic expression's focus on personal relationships rather than possession."
+    },
+    {
+      "time": 183.49309999999403,
+      "text": "Alors tant pis pour moi (mais ça ne suffit pas)",
+      "translation": "So too bad for me (but that's not enough)",
+      "grammar": "The phrase \"Alors tant pis pour moi\" is an idiomatic expression, using the present tense to convey a sense of resignation or inevitability. The verb \"pouvoir\" is in the passive voice, emphasizing the impact on the speaker rather than their ability to change the situation."
+    }
+  ]
+}

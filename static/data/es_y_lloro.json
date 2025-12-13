@@ -1,0 +1,211 @@
+{
+  "id": "es_y_lloro",
+  "title": "Y LLORO",
+  "artist": "Junior H",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_y_lloro.mp3",
+  "duration": 179,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 27.65630000001192,
+      "text": "No hay mensajes de mi amor",
+      "translation": "There are no messages from my love",
+      "grammar": "The phrase \"hay\" is used to indicate the existence or presence of something, which is a common idiomatic expression in Spanish."
+    },
+    {
+      "time": 30.60029999998212,
+      "text": "Esa niña ya cambió",
+      "translation": "That girl has already changed.",
+      "grammar": "The verb \"cambió\" is in the preterite tense, indicating that the change occurred at a specific point in the past and is now completed. The phrase \"ya cambió\" can be translated as \"has already changed\" or \"already changed\", emphasizing the idea that the change happened before this moment."
+    },
+    {
+      "time": 33.40079999998212,
+      "text": "No supe ni cómo fue",
+      "translation": "I didn't even know how it happened",
+      "grammar": "The phrase \"no supe\" is an idiomatic expression in Spanish, equivalent to \"didn't even know\" in English. It's a negation of the verb \"saber\" (to know) in the imperfect tense, indicating that the speaker had no knowledge or understanding of the event at any point."
+    },
+    {
+      "time": 36.59089999997616,
+      "text": "Tan solo no la miré",
+      "translation": "I just didn't look at her",
+      "grammar": "The phrase \"tan solo\" is an idiomatic expression meaning \"just\" or \"only\", used to emphasize the suddenness or unexpectedness of an action, in this case, not looking at someone."
+    },
+    {
+      "time": 39.9395,
+      "text": "Y poco a poco, bebé",
+      "translation": "And little by little, baby",
+      "grammar": "This phrase uses the progressive aspect (poco a poco) to convey gradual action, and the informal address bebé adds a touch of affection."
+    },
+    {
+      "time": 42.71709999999404,
+      "text": "Tú te me alejabas más",
+      "translation": "You were moving further away from me.",
+      "grammar": "The use of \"te\" and \"me\" in \"Tú te me alejabas más\" is an example of the reflexive pronoun \"te\" agreeing with the subject \"tú\" in the preterite tense, indicating a past action. This construction is a common way to express movement or separation from someone in Spanish."
+    },
+    {
+      "time": 45.79259999999404,
+      "text": "Ya no quise ni entender",
+      "translation": "I didn't even want to understand anymore.",
+      "grammar": "This phrase uses the present perfect tense (ya no) to convey a sense of completion and finality, emphasizing that the speaker has reached a point where they don't even want to try to comprehend. The idiomatic expression \"ni entender\" is used to intensify the sentiment, implying a complete lack of interest or willingness to understand."
+    },
+    {
+      "time": 48.88289999997616,
+      "text": "El porqué ahora ya no estás",
+      "translation": "Why are you no longer here?",
+      "grammar": "The verb \"estás\" is in the present tense, indicating a sense of suddenness or unexpectedness, often used to express surprise or inquiry."
+    },
+    {
+      "time": 52.107899999976155,
+      "text": "Y lloro",
+      "translation": "And I cry",
+      "grammar": "In Spanish, \"lloro\" is a first-person singular verb form in the present tense, indicating that the speaker is currently crying. The use of \"yo\" (I) is implied by the context and the subject-verb agreement."
+    },
+    {
+      "time": 53.23039999997616,
+      "text": "Baby, te juro que me siento solo",
+      "translation": "Baby, I swear I feel lonely",
+      "grammar": "The phrase \"te juro\" is an idiomatic expression meaning \"I swear\" or \"I promise\", used to emphasize the speaker's sincerity. The verb \"sentir\" is in the present tense, indicating a general feeling of loneliness rather than a specific momentary experience."
+    },
+    {
+      "time": 55.906,
+      "text": "Y aunque a veces a la noche le imploro",
+      "translation": "And although sometimes I implore the night",
+      "grammar": "The verb \"imploro\" is in the subjunctive mood, used to express a desire or request, which is common in literary and poetic language. This construction also employs the idiomatic expression \"a la noche\" meaning \"to the night\", rather than \"la noche\" which would mean \"the night\"."
+    },
+    {
+      "time": 59.28919999998808,
+      "text": "Que vuelvas porque ahora me siento solo",
+      "translation": "Come back because now I feel alone",
+      "grammar": "The phrase \"que vuelvas\" is a polite way of saying \"come back\", using the subjunctive mood to express a desire or wish, rather than a direct command. This construction is common in Spanish when expressing a request or hope for someone's return."
+    },
+    {
+      "time": 62.259899999976156,
+      "text": "Aunque a veces tomando no la aguanto",
+      "translation": "Although sometimes I can't stand her when I'm drinking",
+      "grammar": "The phrase \"no la aguanto\" is an idiomatic expression meaning \"can't stand her\", using the present tense to convey a habitual or general feeling, rather than a specific moment."
+    },
+    {
+      "time": 65.26029999998212,
+      "text": "Y me dice que no será pa tanto",
+      "translation": "And he tells me it won't be that bad.",
+      "grammar": "The phrase \"pa tanto\" is an idiomatic expression meaning \"that much\" or \"to that extent\", used to downplay the severity of something. The verb \"será\" is in the future tense, indicating a prediction or expectation."
+    },
+    {
+      "time": 68.41089999997615,
+      "text": "Y yo intentando contener mi llanto",
+      "translation": "And I was trying to hold back my tears",
+      "grammar": "The verb \"intentando\" is in the imperfect tense, indicating a prolonged action in the past. This usage of \"intentando\" conveys the speaker's ongoing effort to control their emotions at that moment."
+    },
+    {
+      "time": 71.64359999999404,
+      "text": "Haciendo como que no duele tanto",
+      "translation": "Pretending it doesn't hurt that much",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a habitual or ongoing action, implying that pretending not to feel pain is a common behavior."
+    },
+    {
+      "time": 80.85619999998808,
+      "text": "Puro Junior H, ¿cómo no?",
+      "translation": "Pure Junior H, of course!",
+      "grammar": "The phrase \"¿cómo no?\" is an idiomatic expression used to convey strong agreement or confirmation, equivalent to saying \"of course\" in English. The question particle ¿ is used to soften the tone and make the sentence more polite."
+    },
+    {
+      "time": 101.85429999998212,
+      "text": "Te fuiste sin dar razón",
+      "translation": "You left without giving a reason.",
+      "grammar": "The verb fuiste is in the preterite tense, indicating completed action in the past. The phrase sin dar razón is an idiomatic expression meaning \"without explanation\" or \"without justification\"."
+    },
+    {
+      "time": 104.66039999997616,
+      "text": "Me dio un beso y se marchó",
+      "translation": "He kissed me and left.",
+      "grammar": "The verb \"dio\" is in the preterite tense, indicating a completed action in the past. The phrase \"se marchó\" uses the reflexive pronoun \"se\" to emphasize the subject's departure, creating an idiomatic expression that conveys a sense of suddenness and finality."
+    },
+    {
+      "time": 107.63729999998212,
+      "text": "Pensé todo estaba bien",
+      "translation": "I thought everything was fine.",
+      "grammar": "The phrase \"pensé\" is in the preterite tense, indicating a completed action in the past. This idiomatic expression implies a sudden change of mind or realization, often used to convey a sense of surprise or regret."
+    },
+    {
+      "time": 110.91359999999403,
+      "text": "Pero creo que así no fue",
+      "translation": "But I don't think that was the case.",
+      "grammar": "The use of \"fue\" in the past tense indicates a reported or indirect statement, rather than a direct statement about the past. This is an example of the subjunctive mood used to express doubt or uncertainty."
+    },
+    {
+      "time": 113.85339999997616,
+      "text": "Si de mí todo entregué",
+      "translation": "If I gave everything of myself",
+      "grammar": "This phrase uses the subjunctive mood to express a hypothetical or uncertain situation, rather than the indicative mood which would indicate reality. The verb \"entregué\" is in the preterite tense, implying that even if the speaker had given everything, it's still a hypothetical scenario."
+    },
+    {
+      "time": 116.96139999997615,
+      "text": "Y siempre me han pagado mal",
+      "translation": "And they've always paid me badly.",
+      "grammar": "The use of the present perfect tense \"me han pagado\" emphasizes the habitual nature of being underpaid, conveying a sense of ongoing or repeated experience."
+    },
+    {
+      "time": 120.06319999998809,
+      "text": "El cora que te regalé",
+      "translation": "The heart that I gave you",
+      "grammar": "In Spanish, the verb \"regalar\" is often used in a figurative sense to mean \"to give one's love or affection\", which is an idiomatic expression."
+    },
+    {
+      "time": 123.099,
+      "text": "Lo dejaste en mi casa",
+      "translation": "You left it at my house",
+      "grammar": "The verb \"dejaste\" is in the preterite tense, indicating a completed action in the past. The phrase \"lo dejaste\" is an idiomatic expression meaning \"you left something\" and implies that the speaker is asking where something was left."
+    },
+    {
+      "time": 126.37059999999404,
+      "text": "Y lloro",
+      "translation": "And I cry",
+      "grammar": "The verb \"lloro\" is in the present tense, indicating a habitual or ongoing action. The phrase \"Y lloro\" can be translated to \"And I cry\" and is an idiomatic expression used to express strong emotions."
+    },
+    {
+      "time": 127.485,
+      "text": "Baby, te juro que me siento solo",
+      "translation": "Baby, I swear I feel lonely",
+      "grammar": "The phrase \"te juro\" is an idiomatic expression meaning \"I swear\" or \"I promise\", used to emphasize the speaker's sincerity. The verb \"sentir\" is in the present tense, indicating a current emotional state."
+    },
+    {
+      "time": 130.3377999999821,
+      "text": "Y aunque a veces a la noche le imploro",
+      "translation": "And although sometimes I implore the night",
+      "grammar": "The verb \"imploro\" is in the subjunctive mood, used to express a wish or request, rather than a statement of fact. This construction is an idiomatic expression in Spanish, where the speaker is appealing to the night for something."
+    },
+    {
+      "time": 133.58139999997616,
+      "text": "Que vuelvas, porque ahora me siento solo",
+      "translation": "Come back, because now I feel alone.",
+      "grammar": "The phrase \"que vuelvas\" is a polite way of saying \"come back\", using the subjunctive mood to express a wish or desire. This construction is common in Spanish when expressing hope or longing for someone's return."
+    },
+    {
+      "time": 136.63239999997614,
+      "text": "Y aunque a veces tomando no la aguanto",
+      "translation": "And although sometimes I can't stand her when I'm drinking",
+      "grammar": "This line uses the present tense of the verb \"aguantar\" (to stand) in the subordinate clause, indicating a habitual or general truth about the speaker's feelings when drinking. The phrase \"no la aguanto\" is an idiomatic expression meaning \"I can't stand her\", where \"la\" is a pronoun referring back to \"her\"."
+    },
+    {
+      "time": 140.0602999999821,
+      "text": "Y me dice que no será pa tanto",
+      "translation": "And he tells me it won't be that bad.",
+      "grammar": "The phrase \"no será\" is in the future subjunctive mood, used to express doubt or uncertainty about a future event. This construction is common in Spanish when expressing hypothetical or uncertain situations."
+    },
+    {
+      "time": 142.62859999999404,
+      "text": "Y yo intentando contener mi llanto",
+      "translation": "And I was trying to hold back my tears",
+      "grammar": "The verb \"intentando\" is in the imperfect tense, indicating a continuous action in the past. The phrase \"contener mi llanto\" is an idiom that means to try to suppress or hold back one's emotions."
+    },
+    {
+      "time": 145.93889999997617,
+      "text": "Haciendo como que no duele tanto",
+      "translation": "Pretending it doesn't hurt that much",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a habitual or repeated action, implying a sense of pretence or denial. The phrase \"como que\" is an informal way to express \"as if\" or \"like\"."
+    }
+  ]
+}

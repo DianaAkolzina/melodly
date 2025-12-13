@@ -1,0 +1,229 @@
+{
+  "id": "fr_fever",
+  "title": "Fever",
+  "artist": "Dua Lipa feat. Angèle",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_fever.mp3",
+  "duration": 157,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Before you came around, I was doing just fine",
+      "translation": "Before you came around, I was doing just fine",
+      "grammar": "The phrase \"was doing just fine\" is in the past continuous tense, indicating an ongoing situation before someone else's arrival."
+    },
+    {
+      "time": 4.089,
+      "text": "Usually, usually, usually, I don't pay no mind",
+      "translation": "Usually, usually, usually, I don't pay no mind",
+      "grammar": "This line illustrates the informal use of the present simple tense to express a habitual action, with the addition of \"usually\" emphasizing the frequency. The phrase \"I don't pay no mind\" is an idiomatic expression meaning \"I'm not bothered\"."
+    },
+    {
+      "time": 8.178,
+      "text": "And when it came down, I was looking in your eyes",
+      "translation": "And when it came down, I was looking in your eyes",
+      "grammar": "The use of the simple past tense \"was\" to describe a simultaneous action with \"came down\" is idiomatic and common in English."
+    },
+    {
+      "time": 13.108,
+      "text": "Suddenly, suddenly, suddenly I can feel it inside",
+      "translation": "Suddenly, suddenly, suddenly I can feel it inside",
+      "grammar": "The repeated use of \"suddenly\" emphasizes the suddenness of the feeling, creating a sense of urgency and intensity. This idiomatic expression conveys strong emotions in English as well."
+    },
+    {
+      "time": 16.776,
+      "text": "I've got a fever, so can you check?",
+      "translation": "I've got a fever, so can you check?",
+      "grammar": "This line uses the present perfect tense (\"I've got\") to indicate that the speaker has acquired a fever at some point in the past and is still experiencing its effects. The phrase \"so can you\" is an idiomatic expression used to seek someone's help or assistance."
+    },
+    {
+      "time": 20.865,
+      "text": "Hand on my forehead, kiss my neck",
+      "translation": "Hand on my forehead, kiss my neck",
+      "grammar": "This line uses a poetic idiom to express intimacy and affection, rather than literal actions. The imperative mood creates a sense of direct address, emphasizing the speaker's desire for physical closeness."
+    },
+    {
+      "time": 24.112,
+      "text": "And when you touch me, baby, I turn red",
+      "translation": "And when you touch me, baby, I turn red",
+      "grammar": "The use of \"turn red\" is an idiomatic expression meaning to become embarrassed or flustered. The present continuous tense (\"I turn\") emphasizes the sudden and intense nature of this emotional response."
+    },
+    {
+      "time": 28.201,
+      "text": "I've got a fever, so can you check?",
+      "translation": "I've got a fever, so can you check?",
+      "grammar": "This line uses the present perfect tense (\"I've got\") to describe an ongoing situation, and the modal verb \"can\" to express ability."
+    },
+    {
+      "time": 32.289,
+      "text": "Peut-être qu'avec du temps, ça partira",
+      "translation": "Maybe with time, it will go away",
+      "grammar": "The phrase \"peut-être\" is an adverb expressing doubt or uncertainty in the present tense, while \"ça partira\" implies a future event using the subjunctive mood."
+    },
+    {
+      "time": 35.957,
+      "text": "Et pourtant, et pourtant, et pourtant, je ne m'y vois pas",
+      "translation": "And yet, and yet, and yet, I can't see myself there.",
+      "grammar": "The repeated \"et pourtant\" is an idiomatic expression emphasizing the speaker's reluctance or inability to imagine a situation. The verb \"ne m'y vois pas\" is in the present negated form, indicating the speaker's current inability to visualize themselves in that place."
+    },
+    {
+      "time": 41.309,
+      "text": "Comme un médicament, moi, je suis rien sans toi",
+      "translation": "Like a medicine, I am nothing without you.",
+      "grammar": "This idiomatic expression uses the verb être in the present tense to convey a sense of existential dependence, emphasizing the speaker's emotional state. The pronoun \"moi\" is used instead of \"je\" for emphasis and to create a sense of intimacy."
+    },
+    {
+      "time": 45.398,
+      "text": "Et je sais que, j'essaie, que jе perds du temps dans tes bras",
+      "translation": "And I know that I'm trying, that I'm wasting time in your arms",
+      "grammar": "The phrase \"je sais que\" is an idiomatic expression used to introduce a subjective opinion or feeling, equivalent to \"I think that\" or \"I believe that\". The verb \"essaie\" is in the present continuous tense, indicating ongoing effort."
+    },
+    {
+      "time": 51.591,
+      "text": "I'vе got a fever, so can you check?",
+      "translation": "I've got a fever, so can you check?",
+      "grammar": "The phrase \"I've got\" is an idiomatic expression used to indicate possession in the present perfect tense, equivalent to saying \"I have now\"."
+    },
+    {
+      "time": 55.68,
+      "text": "Hand on my forehead, kiss my neck",
+      "translation": "Hand on my forehead, kiss my neck",
+      "grammar": "This line uses the imperative mood to make a direct request, with the speaker giving instructions in an intimate and affectionate tone. The use of \"my\" emphasizes possession and adds a sense of personal connection."
+    },
+    {
+      "time": 58.927,
+      "text": "And when you touch me, baby, I turn red",
+      "translation": "And when you touch me, baby, I turn red",
+      "grammar": "The use of \"turn red\" is an idiomatic expression meaning to become embarrassed or flustered. The present continuous tense (\"I turn\") emphasizes the sudden and intense nature of this emotional response."
+    },
+    {
+      "time": 63.016,
+      "text": "I've got a fever, so can you check?",
+      "translation": "I've got a fever, so can you check?",
+      "grammar": "This line uses the present perfect tense to convey a sense of urgency and emphasize the speaker's current state. The phrase \"so can you\" is an idiomatic expression used to seek someone else's help or opinion."
+    },
+    {
+      "time": 67.105,
+      "text": "Car dans mes yeux, ça se voit",
+      "translation": "Because it's visible in my eyes.",
+      "grammar": "The phrase \"ça se voit\" is an idiomatic expression meaning \"it's obvious\" or \"it's clear\". The verb \"se voir\" is in the passive voice, indicating that the state of being visible is happening to something."
+    },
+    {
+      "time": 70.351,
+      "text": "La fièvre dans mes yeux, oui, ça se voit",
+      "translation": "The fever in my eyes, yes, it shows.",
+      "grammar": "This line uses the present tense to describe a state or condition (\"la fièvre\" means \"the fever\"), and the phrase \"ça se voit\" is an idiomatic expression meaning \"it's obvious\" or \"it's clear\"."
+    },
+    {
+      "time": 74.44,
+      "text": "Mon cœur se serre, j'ai du feu dans la voix",
+      "translation": "My heart aches, my voice is on fire",
+      "grammar": "The use of \"se serre\" instead of \"s'est serré\" highlights the idiomatic expression, emphasizing the sudden and intense feeling of heartache. The verb agrees with the subject pronoun \"mon cœur\", which is personified to convey a strong emotional state."
+    },
+    {
+      "time": 79.371,
+      "text": "Le plus souvent, c'est quand je pense à toi",
+      "translation": "Most often, it's when I think of you",
+      "grammar": "This sentence uses the present tense to describe a habitual action (\"le plus souvent\" means \"most often\") and features an idiomatic expression \"penser à quelqu'un\" which translates to \"think of someone\"."
+    },
+    {
+      "time": 83.881,
+      "text": "I've got a fever, can you check?",
+      "translation": "I've got a fever, can you check?",
+      "grammar": "This line uses the present perfect tense (\"I've got\") to indicate an ongoing situation, and the imperative mood (\"can you check\") to make a request."
+    },
+    {
+      "time": 87.549,
+      "text": "Hand on my forehead, kiss my neck",
+      "translation": "Hand on my forehead, kiss my neck",
+      "grammar": "This line uses the imperative mood to express a direct command or request. The verb \"kiss\" is in the present tense, indicating an immediate action."
+    },
+    {
+      "time": 90.795,
+      "text": "And when you touch me, baby, I turn red (I turn red)",
+      "translation": "And when you touch me, baby, I turn red (I turn red)",
+      "grammar": "The use of the present simple tense (\"I turn red\") in this line creates a sense of habitual action, implying that the speaker's reaction to being touched is a consistent one."
+    },
+    {
+      "time": 96.147,
+      "text": "I've got a fever, so can you check? (Amour en fièvre)",
+      "translation": "I've got a fever, so can you check? (Love in fever)",
+      "grammar": "The use of the present perfect tense \"I've got\" indicates that the speaker has been experiencing this fever for some time, rather than just having it at the moment."
+    },
+    {
+      "time": 101.499,
+      "text": "Tell me what you wanna do right now",
+      "translation": "Tell me what you want to do right now",
+      "grammar": "This line uses the present simple tense (what you wanna/do) to express a spontaneous request, and the idiom \"right now\" emphasizes the urgency of the speaker's inquiry."
+    },
+    {
+      "time": 105.167,
+      "text": "Tell me what you wanna do right now (amour en fièvre)",
+      "translation": "Tell me what you want to do right now (love in fever)",
+      "grammar": "The phrase \"right now\" is an idiom used to convey a sense of urgency or immediacy, emphasizing the speaker's desire for a prompt response."
+    },
+    {
+      "time": 110.097,
+      "text": "Tell me what you wanna do right now",
+      "translation": "Tell me what you want to do right now",
+      "grammar": "This line uses the present simple tense to express a spontaneous request, with the idiomatic phrase \"right now\" emphasizing the urgency of the question."
+    },
+    {
+      "time": 113.765,
+      "text": "'Cause I don't really wanna cool it down (amour en fièvre)",
+      "translation": "'Cause I don't really wanna cool it down",
+      "grammar": "The use of \"don't\" instead of \"doesn't\" is an example of a common informal spoken English idiom, often used in casual conversations. This construction is acceptable in colloquial language but may not be suitable for formal writing or more formal speaking situations."
+    },
+    {
+      "time": 119.117,
+      "text": "Tell me what you wanna do right now",
+      "translation": "Tell me what you want to do right now",
+      "grammar": "The phrase \"what you wanna\" is an informal idiom, commonly used in spoken English, equivalent to \"what you want\"."
+    },
+    {
+      "time": 122.785,
+      "text": "Tell me what you wanna do right now (amour en fièvre)",
+      "translation": "Tell me what you want to do right now (love in fever)",
+      "grammar": "The phrase \"right now\" is an idiom used to convey a sense of urgency, equivalent to the French expression \"dans l'instant\"."
+    },
+    {
+      "time": 127.716,
+      "text": "Tell me what you wanna do right now",
+      "translation": "Tell me what you want to do right now",
+      "grammar": "This line uses the present simple tense to express a spontaneous request, with the idiom \"right now\" emphasizing the speaker's immediate interest."
+    },
+    {
+      "time": 131.383,
+      "text": "'Cause I don't really wanna cool it down",
+      "translation": "'Cause I don't really wanna cool it down",
+      "grammar": "This line uses the present continuous tense to express a desire not to stop doing something, and the idiom \"cool it down\" means to slow down or relax."
+    },
+    {
+      "time": 135.472,
+      "text": "Car dans mes yeux, ça se voit (amour en fièvre)",
+      "translation": "Because in my eyes, it shows (love in a fever)",
+      "grammar": "The phrase \"ça se voit\" is an idiomatic expression that translates to \"it's obvious\" or \"it's clear\", using the present tense to convey a sense of ongoing awareness. The pronoun \"ça\" refers back to the preceding noun \"amour en fièvre\", emphasizing its visibility in the speaker's eyes."
+    },
+    {
+      "time": 139.982,
+      "text": "La fièvre dans les yeux, oui, ça se voit (amour en fièvre)",
+      "translation": "The fever in her eyes, yes, it shows (love in a fever)",
+      "grammar": "In this idiomatic expression, the verb \"se voit\" is in the third person singular form, agreeing with the neuter noun \"ça\", which refers to the observable signs of love."
+    },
+    {
+      "time": 145.334,
+      "text": "Mon cœur se serre, j'ai du feu dans la voix (amour en fièvre)",
+      "translation": "My heart aches, my voice is on fire (love in a fever).",
+      "grammar": "The phrase \"j'ai du feu dans la voix\" uses the idiomatic expression \"avoir du feu dans la voix\" to convey strong emotions, literally translating to \"to have fire in one's voice\". This figurative language emphasizes the intensity of the speaker's feelings."
+    },
+    {
+      "time": 151.527,
+      "text": "Le plus souvent, c'est quand je pense à toi (amour en fièvre)",
+      "translation": "Most often, it's when I think of you (love fever)",
+      "grammar": "The phrase \"Le plus souvent\" is an idiomatic expression meaning \"most often\", using the present tense to convey a habitual or general truth."
+    }
+  ]
+}

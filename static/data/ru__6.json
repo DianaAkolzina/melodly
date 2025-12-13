@@ -1,0 +1,181 @@
+{
+  "id": "ru__6",
+  "title": "Милана",
+  "artist": "Ислам Итляшев",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_.mp3",
+  "duration": 234,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 27.05909999999404,
+      "text": "Не того ты полюбила, милая Милана",
+      "translation": "You fell in love with the wrong guy, dear Milana.",
+      "grammar": "The phrase \"не того\" is an idiomatic expression meaning \"the wrong one\", used to convey regret or disappointment. The sentence uses the past tense (fell in love) and the possessive pronoun \"тебя\" (you) agreeing with the subject \"ты\"."
+    },
+    {
+      "time": 30.78390000000596,
+      "text": "В сердце твоём несчастливом поселилась рана",
+      "translation": "A wound has settled in your unhappy heart",
+      "grammar": "The verb \"поселилась\" (settled) is in the passive voice, indicating that the wound's presence is a result of external circumstances rather than the speaker's direct action. This usage emphasizes the emotional impact on the person's heart."
+    },
+    {
+      "time": 34.95820000001788,
+      "text": "Не того ты полюбила, не того ценила",
+      "translation": "You loved the wrong person, you valued the wrong person.",
+      "grammar": "This line uses the imperfective aspect to describe past actions in a habitual or repeated manner, emphasizing the speaker's regret over their past choices. The phrase \"не того\" is an idiomatic expression meaning \"not that one\", used to convey disappointment and longing for something else."
+    },
+    {
+      "time": 38.86710000002384,
+      "text": "Не за тем спустив ресницы по пятам ходила",
+      "translation": "It was not for this that she followed me with her eyelashes down",
+      "grammar": "The phrase \"не за тем\" is an idiomatic expression indicating the reason or purpose of an action, often used to convey a sense of irony or unexpectedness. In this context, it emphasizes that the woman's actions were not motivated by romantic interest."
+    },
+    {
+      "time": 43.39,
+      "text": "Не того ты полюбила, не того ценила",
+      "translation": "You loved the wrong person, you valued the wrong person.",
+      "grammar": "The phrase \"не того\" is an idiomatic expression indicating negation or rejection, often used to emphasize the opposite of what was expected. It can be translated as \"not that one\" or \"not him/her\"."
+    },
+    {
+      "time": 47.37190000000596,
+      "text": "Не за тем спустив ресницы по пятам ходила",
+      "translation": "It was not for this that she followed me with her eyelashes down",
+      "grammar": "The phrase \"не за тем\" is an idiomatic expression meaning \"it wasn't because of\" or \"it wasn't for that reason\", indicating a contrast between the expected and actual motivations."
+    },
+    {
+      "time": 67.85120000001788,
+      "text": "У него другие планы, годы молодые",
+      "translation": "He has other plans, he is young",
+      "grammar": "The phrase \"годы молодые\" is an idiomatic expression meaning \"in one's youth\" or \"at a young age\", rather than literally stating the person's age. It also implies that the speaker is emphasizing the importance of taking advantage of this time in life."
+    },
+    {
+      "time": 72.01110000002384,
+      "text": "Голова его забита мыслями шальными",
+      "translation": "His head is filled with crazy thoughts",
+      "grammar": "The phrase \"шальные\" (shallye) is an idiomatic expression meaning \"crazy\" or \"wild\", rather than the literal translation of \"shallow\". This usage note highlights the importance of understanding idioms in Russian to accurately convey the intended meaning."
+    },
+    {
+      "time": 75.99210000002384,
+      "text": "Почему же, почему же ты в него влюбилась?",
+      "translation": "Why, why did you fall in love with him?",
+      "grammar": "The phrase \"почему же\" is an idiomatic expression used to emphasize the speaker's curiosity or surprise, equivalent to \"why on earth\" or \"what for\". The use of \"же\" (je) intensifies the question, making it more rhetorical and emotional."
+    },
+    {
+      "time": 80.31420000001788,
+      "text": "А зачем же, а зачем же замуж выходила?",
+      "translation": "Why, why did you get married?",
+      "grammar": "The phrase \"а зачем же\" is an idiomatic expression used to emphasize the speaker's curiosity or surprise, equivalent to \"what for\" in English. The use of the word \"же\" (je) at the end adds a sense of rhetorical questioning and emphasizes the speaker's emotional involvement."
+    },
+    {
+      "time": 84.25120000001787,
+      "text": "Почему же, почему же ты в него влюбилась?",
+      "translation": "Why, why did you fall in love with him?",
+      "grammar": "The phrase \"почему же\" is an idiomatic expression used to emphasize the question and convey surprise or curiosity. The verb \"влюбилась\" is in the past perfect tense, indicating that the action of falling in love occurred before another action in the past."
+    },
+    {
+      "time": 88.09520000001788,
+      "text": "Ах, зачем же, ах, зачем же замуж выходила?",
+      "translation": "Oh, why, oh, why did you get married?",
+      "grammar": "The phrase \"за чем\" is an idiomatic expression meaning \"why\", used to express strong emotions or surprise. The repeated use of \"ах\" emphasizes the speaker's emotional tone and inquiry."
+    },
+    {
+      "time": 109.15520000001789,
+      "text": "Битва эта будет трудной, за любовь, за счастье",
+      "translation": "This battle will be difficult, for love, for happiness",
+      "grammar": "The phrase \"за любовь, за счастье\" is an idiomatic expression indicating the motivation or purpose behind a challenging situation, using the preposition \"за\" to convey a sense of devotion or dedication."
+    },
+    {
+      "time": 112.74120000001788,
+      "text": "Как помочь тебе, родная, в том большом ненастье",
+      "translation": "How can I help you, my dear, in this great storm?",
+      "grammar": "The phrase \"родная\" is an informal term of endearment, equivalent to \"my dear\" or \"darling\", used to express affection and familiarity. It is often employed in spoken language to address a close relative or someone with whom you have a strong emotional bond."
+    },
+    {
+      "time": 117.004,
+      "text": "Не того ты полюбила, не того ценила",
+      "translation": "You loved the wrong person, you valued the wrong person.",
+      "grammar": "The phrase \"не того\" is an idiomatic expression indicating negation or rejection, often used to emphasize the opposite of what was expected. It can be translated as \"not that one\" or \"not him/her\"."
+    },
+    {
+      "time": 121.22920000001788,
+      "text": "Не за тем спустив ресницы по пятам ходила",
+      "translation": "It was not for this that she followed me with her eyelashes down",
+      "grammar": "The phrase \"не за тем\" is an idiomatic expression indicating the reason or purpose, often used to contrast what happened with what was expected. The sentence uses the past perfect tense to convey a sense of completion and emphasize the unexpected nature of the event."
+    },
+    {
+      "time": 125.20270000001788,
+      "text": "Не того ты полюбила, не того ценила",
+      "translation": "You loved the wrong person, you valued the wrong person.",
+      "grammar": "The phrase \"не того\" is an idiomatic expression indicating negation or rejection, often used to emphasize that something is not what was expected. The verb forms \"полюбила\" and \"ценила\" are in the past perfect tense, expressing a completed action prior to another action in the past."
+    },
+    {
+      "time": 129.27290000000596,
+      "text": "Не за тем спустив ресницы по пятам ходила",
+      "translation": "It was not for this that she followed me with her eyelashes down",
+      "grammar": "The phrase \"не за тем\" is an idiomatic expression indicating the reason or purpose of an action, often translated as \"not for this\". It implies a contrast between the expected and actual motivations."
+    },
+    {
+      "time": 150.03210000002383,
+      "text": "Не того ты полюбила, милая Милана",
+      "translation": "You fell in love with the wrong guy, dear Milana.",
+      "grammar": "The phrase \"не того\" is an idiomatic expression meaning \"the wrong one\", used to convey regret or disappointment. The verb \"полюбила\" is in the past perfect tense, indicating that the action of falling in love had been completed before another action took place."
+    },
+    {
+      "time": 154.1195,
+      "text": "Ну а если полюбила - так рыдать не надо",
+      "translation": "Well, if you fell in love, then there’s no need to cry.",
+      "grammar": "The phrase \"ну а если\" is an idiomatic expression used to introduce a hypothetical scenario, equivalent to \"well, what if\". The sentence also employs the subjunctive mood (\"полюбила\") to express a hypothetical or uncertain situation."
+    },
+    {
+      "time": 158.15360000002383,
+      "text": "Почему же, почему же ты в него влюбилась?",
+      "translation": "Why, why did you fall in love with him?",
+      "grammar": "The phrase \"почему же\" is an idiomatic expression used to emphasize the speaker's curiosity or surprise, equivalent to \"why on earth\" or \"what for\". The verb \"влюбилась\" is in the past perfect tense, indicating that the action of falling in love had been completed before another action."
+    },
+    {
+      "time": 162.24890000000596,
+      "text": "А зачем же, а зачем же замуж выходила?",
+      "translation": "Why, why did you get married?",
+      "grammar": "The phrase \"а зачем же\" is an idiomatic expression used to emphasize the speaker's curiosity or surprise, equivalent to \"what for\" in English. The use of the particle \"же\" adds a sense of urgency and inquiry to the question."
+    },
+    {
+      "time": 166.35710000002385,
+      "text": "Почему же, почему же ты в него влюбилась?",
+      "translation": "Why, why did you fall in love with him?",
+      "grammar": "The phrase \"почему же\" is an idiomatic expression used to emphasize the speaker's curiosity or surprise, equivalent to \"why on earth\" or \"what's the reason\". The use of \"же\" (je) intensifies the question, making it more rhetorical and emotional."
+    },
+    {
+      "time": 170.43820000001787,
+      "text": "Ах, зачем же, ах, зачем же замуж выходила?",
+      "translation": "Oh, why, oh, why did you get married?",
+      "grammar": "The phrase \"за чем\" is an idiomatic expression meaning \"why\", used to express strong emotions or surprise. The repeated \"ах\" is an interjection emphasizing the speaker's emotional tone."
+    },
+    {
+      "time": 199.30360000002383,
+      "text": "Не того ты полюбила, не того ценила",
+      "translation": "You loved the wrong person, you valued the wrong person.",
+      "grammar": "This sentence uses the imperfective aspect to describe a past action, emphasizing the duration and repetition of loving and valuing the wrong person. The phrase \"не того\" is an idiomatic expression meaning \"not that one\", rather than \"not this one\"."
+    },
+    {
+      "time": 203.14,
+      "text": "Не за тем спустив ресницы по пятам ходила",
+      "translation": "It was not for this that she followed me with her eyelashes down",
+      "grammar": "The phrase \"не за тем\" is an idiomatic expression indicating the reason or purpose of an action, equivalent to \"not for this\". The sentence uses the past tense (was) and the imperfective aspect to describe a completed action in the past."
+    },
+    {
+      "time": 207.24970000001787,
+      "text": "Почему же, почему же ты в него влюбилась?",
+      "translation": "Why, why did you fall in love with him?",
+      "grammar": "The phrase \"почему же\" is an idiomatic expression used to emphasize the speaker's curiosity or surprise, equivalent to \"why on earth\" or \"what's the reason\". The use of \"же\" (je) intensifies the question, making it more rhetorical and emotional."
+    },
+    {
+      "time": 211.4368000000119,
+      "text": "Ах, зачем же, ах, зачем же замуж выходила?",
+      "translation": "Oh, why, oh, why did you get married?",
+      "grammar": "The phrase \"за чем же\" is an idiomatic expression used to convey strong emotions or emphasis, similar to \"good grief\" in English. The repeated use of \"ах\" is a rhetorical device emphasizing the speaker's surprise and frustration."
+    }
+  ]
+}

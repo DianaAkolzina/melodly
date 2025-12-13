@@ -1,0 +1,397 @@
+{
+  "id": "es_todo_de_ti",
+  "title": "Todo De Ti",
+  "artist": "Rauw Alejandro",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_todo_de_ti.mp3",
+  "duration": 200,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "One, two",
+      "translation": "One, two",
+      "grammar": "This line illustrates the use of a numerical idiom in English, where numbers are used to emphasize or count things, rather than referring to specific quantities. The phrase \"One, two\" is an idiomatic expression that mimics counting, often used to introduce a sequence or list."
+    },
+    {
+      "time": 1.338,
+      "text": "One, two, three",
+      "translation": "One, two, three",
+      "grammar": "This line is an example of a literal translation, where the speaker repeats the numbers in English to convey the same idea as the original Spanish."
+    },
+    {
+      "time": 18.7615,
+      "text": "El viento soba tu cabello",
+      "translation": "The wind caresses your hair",
+      "grammar": "In Spanish, the verb \"soba\" is in the present tense and has a poetic connotation, conveying a sense of gentle touch or affection. This idiomatic expression uses the verb \"soba\" to describe the action of the wind on someone's hair."
+    },
+    {
+      "time": 24.27840000000596,
+      "text": "Uh, uh, uh, uh, uh",
+      "translation": "Uh, uh, uh, uh, uh",
+      "grammar": "This line is an example of a repetitive interjection in English, used to express hesitation or uncertainty. The repeated \"uh\"s convey a sense of nervousness or indecision, and are often used in informal spoken language."
+    },
+    {
+      "time": 26.546299999982118,
+      "text": "Me matan esos ojos bellos",
+      "translation": "Those beautiful eyes are killing me",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a strong emotional effect, emphasizing the intensity of being captivated by someone's beauty."
+    },
+    {
+      "time": 31.684800000011922,
+      "text": "Uh, uh, uh, uh, uh",
+      "translation": "Uh, uh, uh, uh, uh",
+      "grammar": "This line is an example of a phonetic representation of hesitation or uncertainty in spoken English, often used to fill silence or express temporary confusion. The repeated \"uh\"s convey a sense of searching for the right words or clarifying one's thoughts."
+    },
+    {
+      "time": 34.69869999998808,
+      "text": "Me gusta tu olor, de tu piel, el color",
+      "translation": "I like your smell, your skin, the color",
+      "grammar": "This line uses the present tense of the verb \"gustar\" to express a general liking or fondness, rather than a specific action. The phrase \"Me gusta\" is an idiomatic expression meaning \"I like\"."
+    },
+    {
+      "time": 38.2815,
+      "text": "Y como me haces sentir",
+      "translation": "And how you make me feel",
+      "grammar": "This line uses the present tense of the verb \"sentir\" to express a general or ongoing emotional state, rather than a specific past event. The phrase \"como me haces\" is an idiomatic expression equivalent to \"how you do\" in English, emphasizing the speaker's subjective experience."
+    },
+    {
+      "time": 41.92819999998808,
+      "text": "Me gusta tu boquita, ese labial rosita",
+      "translation": "I like your little mouth, that pink lipstick",
+      "grammar": "In informal spoken Spanish, the present tense verb form \"gusta\" is used to express liking or appreciation, rather than the more formal \"me gusta\". This usage note highlights the colloquial tone of the original sentence."
+    },
+    {
+      "time": 45.70690000000596,
+      "text": "Y cómo me besas a mí",
+      "translation": "And how you kiss me",
+      "grammar": "The phrase \"a mí\" is an idiomatic way to express direct object, emphasizing the speaker's possession of the action. The use of \"a mí\" instead of simply \"me\" adds a touch of intimacy and possessiveness to the sentence."
+    },
+    {
+      "time": 48.7145,
+      "text": "Contigo quiero despertar",
+      "translation": "I want to wake up with you",
+      "grammar": "The verb \"quiero\" is in the present tense, indicating a desire or intention, and the phrase \"despertar con alguien\" is an idiomatic expression meaning \"to wake up with someone\"."
+    },
+    {
+      "time": 50.524,
+      "text": "Hacerlo después de fumar (ey)",
+      "translation": "Do it after smoking (hey)",
+      "grammar": "The phrase \"hacerlo\" is in the infinitive mood, indicating a suggestion or recommendation. The use of \"(ey)\" at the end is an informal way to address someone, similar to saying \"okay\" or \"alright\"."
+    },
+    {
+      "time": 52.03959999999404,
+      "text": "Ya no tengo na' que buscar",
+      "translation": "I have nothing left to look for",
+      "grammar": "This phrase uses the present perfect tense (ya no tengo) to convey a sense of completion or finality, implying that the speaker has exhausted all options. The idiomatic expression \"na' que\" is an informal way to say \"nothing\"."
+    },
+    {
+      "time": 54.01390000000596,
+      "text": "Algo fuera de aquí",
+      "translation": "Something out of here",
+      "grammar": "This phrase uses the idiomatic expression \"fuera de\" to indicate a departure or removal from something, rather than its literal meaning of \"outside of\"."
+    },
+    {
+      "time": 56.43969999998808,
+      "text": "Tú combinas con el mar",
+      "translation": "You blend in with the sea",
+      "grammar": "This idiomatic expression uses the informal \"tú\" to convey a sense of intimacy and familiarity, emphasizing the speaker's connection with nature. The verb \"combina\" is in the present tense, describing a state or condition rather than an action."
+    },
+    {
+      "time": 57.9235,
+      "text": "Ese bikini se ve fenomenal",
+      "translation": "That bikini looks amazing!",
+      "grammar": "The phrase \"ese\" is an informal pronoun used to refer to a previously mentioned noun, similar to \"that\" in English. Note the use of the present tense \"se ve\" (looks) and the adjective \"fenomenal\" to describe the appearance of the bikini."
+    },
+    {
+      "time": 59.38540000000596,
+      "text": "No hay gravedad que me pueda elevar",
+      "translation": "There is no gravity that can lift me up",
+      "grammar": "The phrase \"no hay\" is an idiomatic expression used to negate a statement, equivalent to \"there isn't\" or \"it's not the case\". The verb \"puede\" is in the subjunctive mood, indicating a hypothetical or uncertain situation."
+    },
+    {
+      "time": 61.29880000001192,
+      "text": "Me pones mal a mí",
+      "translation": "You make me feel bad",
+      "grammar": "The phrase \"Me pones\" is an idiomatic expression indicating the speaker's emotional state, with \"poner\" meaning \"to put\" someone in a certain mood. The use of the reflexive pronoun \"me\" emphasizes the speaker's personal experience."
+    },
+    {
+      "time": 63.57259999999404,
+      "text": "Aceleraste mis latidos",
+      "translation": "You made my heart beat faster",
+      "grammar": "The verb \"aceleraste\" is in the second person singular form, indicating that the speaker is addressing someone directly. The phrase also employs a metaphorical idiom to convey the emotional impact of the person's actions on the speaker."
+    },
+    {
+      "time": 68.58569999998808,
+      "text": "Es que me gusta todo de ti",
+      "translation": "I like everything about you",
+      "grammar": "This sentence uses the informal \"es\" construction to express a casual, spontaneous feeling, equivalent to \"it's just that\" or \"to be honest\". The verb \"gusta\" is in the present tense, indicating a general liking."
+    },
+    {
+      "time": 71.47940000000597,
+      "text": "De to'as tus partes, ¿cuál decido?",
+      "translation": "Of all your parts, which one do I choose?",
+      "grammar": "The phrase \"¿Cuál decido?\" is an idiomatic expression in Spanish, literally meaning \"which one do I decide?\", but figuratively asking about the choice or selection."
+    },
+    {
+      "time": 76.77819999998808,
+      "text": "Es que me gusta todo de ti",
+      "translation": "I like everything about you",
+      "grammar": "This phrase uses the informal \"es\" instead of \"es que\" to indicate a casual, conversational tone. The sentence is in the present tense and expresses a liking or fondness for someone's qualities."
+    },
+    {
+      "time": 84.84490000000596,
+      "text": "Es que me gusta todo de ti",
+      "translation": "I like everything about you",
+      "grammar": "This line uses the informal \"es\" construction, which is a colloquial way to express a casual opinion or preference in Spanish. It's equivalent to saying \"it's that I like...\" in English, but with a more conversational tone."
+    },
+    {
+      "time": 91.78719999998808,
+      "text": "Es que me gusta todo de ti",
+      "translation": "I like everything about you",
+      "grammar": "This phrase uses the informal \"es\" instead of \"es que\" to indicate a casual, conversational tone. The sentence is in the present tense and expresses a liking or fondness for someone's qualities."
+    },
+    {
+      "time": 93.657,
+      "text": "Quinta Avenida, no va pa'l mall",
+      "translation": "Fifth Avenue, it's not going to the mall",
+      "grammar": "This line uses the present tense and informal verb agreement with the pronoun \"no\" (not) to convey a negative response. The phrase \"va pa'l\" is an idiomatic expression meaning \"is going to\", which is often used in colloquial speech."
+    },
+    {
+      "time": 95.03809999999405,
+      "text": "Ella sabe que le llego a todo en un call",
+      "translation": "She knows I can reach her in one call",
+      "grammar": "The phrase \"le llego\" is an idiomatic expression meaning \"I can reach\" or \"I have access to\". The verb \"llegar\" is in the present tense, indicating ability rather than action."
+    },
+    {
+      "time": 96.891,
+      "text": "En la Raptor me gusta ponerla en Ford",
+      "translation": "I like to put the Raptor in Ford mode.",
+      "grammar": "This line uses the present tense and informal verb agreement, with the pronoun \"me\" indicating the speaker's preference. The phrase \"ponerla en\" is an idiom meaning \"to set something to\"."
+    },
+    {
+      "time": 98.76690000000596,
+      "text": "El jogger large, la camisa small",
+      "translation": "The joggers are large, the shirt is small.",
+      "grammar": "This line illustrates a common idiomatic expression in Spanish, where the verb \"ser\" (to be) is used to describe physical characteristics or attributes, rather than the usual \"estar\" for temporary states. The sentence structure also employs a simple present tense, describing a general truth about joggers and shirts."
+    },
+    {
+      "time": 100.62830000001192,
+      "text": "Como la dieta keto",
+      "translation": "Like the keto diet",
+      "grammar": "This phrase uses a common idiomatic expression in Spanish, where \"como\" is used to introduce a simile or comparison, rather than indicating similarity."
+    },
+    {
+      "time": 102.64390000000596,
+      "text": "Por ti me controlo y me quedo quieto",
+      "translation": "For you I control myself and stay still",
+      "grammar": "The phrase \"me controlo\" is an idiomatic expression that implies self-control or restraint, using the verb \"controlar\" in the reflexive form to emphasize the speaker's internal regulation."
+    },
+    {
+      "time": 104.4255,
+      "text": "Aunque quiero comerte to' eso completo",
+      "translation": "Even though I want to eat all of that of you",
+      "grammar": "The phrase \"comerte to'\" is an idiomatic expression, literally meaning \"to eat you\" but figuratively conveying intense desire or craving. The use of the preposition \"to'\" (meaning \"of\") instead of \"te\" (direct object pronoun) emphasizes the speaker's strong longing."
+    },
+    {
+      "time": 106.84459999999405,
+      "text": "De ese culo me volví un teco, eh",
+      "translation": "That ass made me a total nut, huh?",
+      "grammar": "The phrase \"me volví\" is an idiomatic expression indicating a strong emotional reaction, equivalent to \"I went crazy\" or \"I lost it\". The use of the verb \"volví\" in the past tense implies a completed action."
+    },
+    {
+      "time": 108.71569999998808,
+      "text": "Micro dosis, rola, oxy",
+      "translation": "Microdose, rola, oxy",
+      "grammar": "This phrase uses the informal idiom \"micro dosis\" to refer to a small amount or dose of something, often used in casual conversations. The use of \"rola\" is an interjection expressing excitement or emphasis."
+    },
+    {
+      "time": 112.553,
+      "text": "Besando esos labios glossy",
+      "translation": "Kissing those glossy lips",
+      "grammar": "This line uses the present participle \"besando\" to describe an ongoing action, emphasizing the intensity of the kiss. The phrase \"glossy lips\" is a common idiomatic expression in Spanish, equivalent to saying \"lips that look shiny or well-maintained\"."
+    },
+    {
+      "time": 114.38309999999404,
+      "text": "Ya yo le di en to'as las posi'",
+      "translation": "I already tried all the positions",
+      "grammar": "This line uses the present perfect tense (ya yo le di) to indicate that the action of trying has been completed before the current moment, emphasizing the speaker's experience. The phrase \"en to'as las posiciones\" is an idiomatic expression meaning \"in all possible positions\"."
+    },
+    {
+      "time": 116.62069999998808,
+      "text": "Shampoo de coco",
+      "translation": "Coconut shampoo",
+      "grammar": "This phrase is an idiomatic expression, where \"shampoo\" is used figuratively to describe a type of product, rather than its literal meaning. The verb \"de\" indicates possession, equivalent to \"of the coconut\"."
+    },
+    {
+      "time": 118.66680000001192,
+      "text": "Chanel su wallet",
+      "translation": "Chanel wallet",
+      "grammar": "This idiomatic expression uses the possessive adjective \"Chanel\" to describe a luxury wallet, rather than indicating ownership."
+    },
+    {
+      "time": 120.46759999999404,
+      "text": "Me vuelve loco desde el casco",
+      "translation": "It drives me crazy from the helmet",
+      "grammar": "The phrase \"Me vuelve loco\" is an idiomatic expression that uses the verb \"volver\" in the present tense to convey a habitual or continuous action, rather than a specific past event."
+    },
+    {
+      "time": 123.82790000000595,
+      "text": "Hasta los pedales",
+      "translation": "Down to the pedals",
+      "grammar": "This idiomatic expression uses the preposition hasta to indicate a range or extent, rather than its typical meaning of \"up to\" or \"as far as\"."
+    },
+    {
+      "time": 125.51140000000596,
+      "text": "Contigo quiero despertar",
+      "translation": "I want to wake up with you",
+      "grammar": "The phrase \"contigo quiero\" is an idiomatic expression indicating a desire or intention, using the present tense and the preposition \"con\" (with) to convey a sense of closeness."
+    },
+    {
+      "time": 127.514,
+      "text": "Hacerlo después de fumar",
+      "translation": "Do it after smoking",
+      "grammar": "This idiomatic phrase uses the present subjunctive mood to express a hypothetical or uncertain situation, making it suitable for situations where the speaker is not committed to performing the action. The phrase \"hacerlo\" implies that the speaker is suggesting someone else do something."
+    },
+    {
+      "time": 127.86730000001192,
+      "text": "Ya no tengo na' que buscar",
+      "translation": "I have nothing left to look for",
+      "grammar": "The phrase \"ya no\" is an idiomatic expression indicating completion or exhaustion, equivalent to \"already\" or \"no longer\". The verb \"tengo\" is in the present tense, describing a state of having nothing left."
+    },
+    {
+      "time": 130.77209999999403,
+      "text": "Algo fuera de aquí",
+      "translation": "Something out of here",
+      "grammar": "This phrase uses the idiomatic expression \"fuera de\" to indicate a departure or removal from something, rather than its literal meaning of \"outside of\"."
+    },
+    {
+      "time": 131.44540000000595,
+      "text": "Tú combinas con el mar",
+      "translation": "You blend in with the sea",
+      "grammar": "The phrase \"Tú combinas\" is an idiomatic expression, using the verb \"combinar\" in the present tense to convey a sense of harmony or unity between the subject (tú) and the surrounding environment."
+    },
+    {
+      "time": 132.92040000000597,
+      "text": "Ese bikini se ve fenomenal",
+      "translation": "That bikini looks amazing!",
+      "grammar": "The phrase \"ese\" is an informal pronoun used to refer to a previously mentioned noun, similar to the English phrase \"that thing\". It's often used in casual conversations among friends."
+    },
+    {
+      "time": 134.38830000001192,
+      "text": "No hay gravedad que me pueda elevar",
+      "translation": "There is no gravity that can lift me up",
+      "grammar": "This sentence uses the present tense to express a general truth, emphasizing the speaker's conviction that nothing can lift them up. The phrase \"no hay\" is an idiomatic expression meaning \"there is not\" or \"it is not possible\"."
+    },
+    {
+      "time": 136.0995,
+      "text": "Me pones mal a mí",
+      "translation": "You make me feel bad",
+      "grammar": "The phrase \"Me pones\" is an idiomatic expression indicating the speaker's emotional state, with \"poner\" meaning \"to put\" someone in a certain condition. The use of the reflexive pronoun \"me\" emphasizes the speaker's personal experience."
+    },
+    {
+      "time": 138.72480000001192,
+      "text": "Aceleraste mis latidos",
+      "translation": "You made my heart beat faster",
+      "grammar": "The verb \"aceleraste\" is in the second person singular, agreeing with the subject \"you\". The phrase \"mis latidos\" uses the possessive adjective \"my\" to indicate that the speaker's heartbeat is being affected."
+    },
+    {
+      "time": 144.32059999999404,
+      "text": "Es que me gusta todo de ti",
+      "translation": "I like everything about you",
+      "grammar": "This phrase uses the informal \"es\" instead of \"es que\" to indicate a casual, conversational tone. The sentence is in the present tense and expresses a liking or fondness for someone's qualities."
+    },
+    {
+      "time": 146.51330000001192,
+      "text": "De to'as tus partes, ¿cuál decido?",
+      "translation": "Of all your parts, which one do I choose?",
+      "grammar": "The phrase \"¿Cuál decido?\" is an idiomatic expression that uses the verb \"decidir\" in the present tense to ask about a choice or decision, rather than indicating a specific action of deciding."
+    },
+    {
+      "time": 151.2535,
+      "text": "Es que me gusta todo de ti",
+      "translation": "I like everything about you",
+      "grammar": "This phrase uses the informal, colloquial expression \"es que\" to indicate a strong emotional connection, equivalent to saying \"it's that\" or \"that's why\". The sentence is in the present tense and has a subjective tone."
+    },
+    {
+      "time": 155.16809999999404,
+      "text": "Todo de ti, todo de ti",
+      "translation": "All of you, all of you",
+      "grammar": "This phrase uses the idiomatic expression \"todo de\" to emphasize possession or association with someone, similar to \"everything about you\" in English. The repetition of \"todo de ti\" emphasizes the speaker's complete devotion and unity with the person being addressed."
+    },
+    {
+      "time": 159.663,
+      "text": "Es que me gusta todo de ti",
+      "translation": "I like everything about you",
+      "grammar": "This phrase uses the informal \"es\" construction to express a casual, spontaneous feeling, equivalent to saying \"it's just that...\" or \"to be honest...\". The verb \"gusta\" is in the present tense, indicating a general liking."
+    },
+    {
+      "time": 161.59740000000596,
+      "text": "Todo de ti, todo de ti",
+      "translation": "All of you, all of you",
+      "grammar": "This line uses the idiomatic expression \"todo de\" to emphasize possession or belonging, equivalent to English \"all yours\". The repetition of \"todo de ti\" emphasizes the exclusive focus on the person being addressed."
+    },
+    {
+      "time": 166.64559999999403,
+      "text": "Es que me gusta todo de ti",
+      "translation": "I like everything about you",
+      "grammar": "This sentence uses the informal \"es\" construction to express a subjective opinion, equivalent to saying \"it's true that I like...\" in English. The phrase \"me gusta\" is an idiomatic expression meaning \"I like\"."
+    },
+    {
+      "time": 169.14169999998808,
+      "text": "Contigo quiero despertar",
+      "translation": "I want to wake up with you",
+      "grammar": "The verb \"quiero\" is in the present tense, indicating a desire or intention, which is idiomatic in English as \"I want to\"."
+    },
+    {
+      "time": 170.22440000000597,
+      "text": "Hacerlo después de fumar",
+      "translation": "Do it after smoking",
+      "grammar": "The phrase \"hacerlo\" is an informal way to say \"to do something\" in Spanish, using the infinitive verb form with a pronoun and particle \"lo\" to indicate the object of the action. This construction is often used in colloquial language to give instructions or make suggestions."
+    },
+    {
+      "time": 172.40519999998807,
+      "text": "Ya no tengo na' que buscar",
+      "translation": "I have nothing left to look for",
+      "grammar": "This phrase uses the present perfect tense (ya no tengo) to convey a sense of completion, implying that the speaker has exhausted all options. The idiomatic expression \"na' que\" is a colloquial way to say \"nothing\"."
+    },
+    {
+      "time": 174.22209999999404,
+      "text": "Algo fuera de aquí",
+      "translation": "Something out of here",
+      "grammar": "This phrase uses the idiomatic expression \"fuera de\" to indicate a departure or removal from something, rather than its literal meaning of \"outside of\"."
+    },
+    {
+      "time": 176.60559999999404,
+      "text": "Tú combinas con el mar",
+      "translation": "You blend in with the sea",
+      "grammar": "The phrase \"Tú combinas\" is an idiomatic expression that uses the present tense to convey a sense of effortless harmony, rather than a literal blending action. The pronoun \"tú\" indicates a familiar or intimate relationship between the subject and the sea."
+    },
+    {
+      "time": 183.44009999999403,
+      "text": "Ese bikini se ve fenomenal",
+      "translation": "That bikini looks amazing!",
+      "grammar": "The phrase \"ese\" is an informal pronoun used to refer to a previously mentioned noun, similar to \"that\" in English. It's often used in spoken language and can be translated as \"that\" or \"which\"."
+    },
+    {
+      "time": 183.44009999999403,
+      "text": "No hay gravedad que me pueda elevar",
+      "translation": "There is no gravity that can lift me up",
+      "grammar": "This sentence uses the present tense to express a general truth, emphasizing the speaker's conviction that nothing can lift them up. The phrase \"no hay\" is an idiomatic expression meaning \"there is not\" or \"it is not possible\"."
+    },
+    {
+      "time": 196.068,
+      "text": "Me pones mal a mí",
+      "translation": "You make me feel bad",
+      "grammar": "The phrase \"Me pones\" is an idiomatic expression indicating the speaker's emotional state, using the verb \"poner\" in the reflexive form to convey the idea of being affected by someone else's actions. The use of the pronoun \"a mí\" emphasizes the speaker's personal experience and feeling."
+    },
+    {
+      "time": 196.068,
+      "text": "Rauw Alejandro",
+      "translation": "Rauw Alejandro",
+      "grammar": "This line is an example of a proper noun, specifically a person's name, and is used as a title or header."
+    }
+  ]
+}

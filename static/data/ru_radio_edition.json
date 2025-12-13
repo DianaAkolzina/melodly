@@ -1,0 +1,289 @@
+{
+  "id": "ru_radio_edition",
+  "title": "Атомная бомба (Radio Edition)",
+  "artist": "Sam Wick",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_radio_edition.mp3",
+  "duration": 155,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Атомная бомба выбивает окна",
+      "translation": "Atomic bomb blows out the windows",
+      "grammar": "The verb выбивать (to blow out) is in the imperfective aspect, indicating a repeated or ongoing action."
+    },
+    {
+      "time": 2.46,
+      "text": "А я напеваю на-на-на-на-на",
+      "translation": "And I hum na-na-na-na-na",
+      "grammar": ""
+    },
+    {
+      "time": 7.081,
+      "text": "Атомная бомба вышибает стекла",
+      "translation": "An atomic bomb blows out glass",
+      "grammar": ""
+    },
+    {
+      "time": 9.541,
+      "text": "Но я напеваю ро-по-та-та-та",
+      "translation": "But I'm humming po-po-ta-ta-ta",
+      "grammar": ""
+    },
+    {
+      "time": 14.162,
+      "text": "Атомная бомба выбивает окна",
+      "translation": "An atomic bomb blows out windows",
+      "grammar": ""
+    },
+    {
+      "time": 16.622,
+      "text": "А я напеваю на-на-на-на-на",
+      "translation": "And I hum na-na-na-na-na",
+      "grammar": ""
+    },
+    {
+      "time": 21.243,
+      "text": "Атомная бомба вышибает стекла",
+      "translation": "An atomic bomb blows out glass",
+      "grammar": ""
+    },
+    {
+      "time": 23.703,
+      "text": "Но я напеваю ро-по-та-та-та",
+      "translation": "But I'm humming po-po-ta-ta-ta",
+      "grammar": ""
+    },
+    {
+      "time": 28.324,
+      "text": "За спиной мне что-то говорят",
+      "translation": "They're saying something behind my back",
+      "grammar": ""
+    },
+    {
+      "time": 31.864,
+      "text": "Но я не сльшу их прости",
+      "translation": "But I don't hear them, forgive me.",
+      "grammar": ""
+    },
+    {
+      "time": 35.405,
+      "text": "Все обстоятельства увы",
+      "translation": "All circumstances, alas",
+      "grammar": ""
+    },
+    {
+      "time": 37.325,
+      "text": "Сложились лучше чем могли",
+      "translation": "Things turned out better than they could have.",
+      "grammar": ""
+    },
+    {
+      "time": 39.785,
+      "text": "Мне говорили не идти",
+      "translation": "I was told not to go",
+      "grammar": ""
+    },
+    {
+      "time": 42.245,
+      "text": "Сказали, трудно там в пути",
+      "translation": "They said it was difficult on the way there.",
+      "grammar": ""
+    },
+    {
+      "time": 45.246,
+      "text": "Кто-то смеялся, нах*р их",
+      "translation": "Someone laughed, fuck them",
+      "grammar": ""
+    },
+    {
+      "time": 48.786,
+      "text": "Кто-то, словами вдохновил",
+      "translation": "Someone inspired me with words",
+      "grammar": ""
+    },
+    {
+      "time": 51.247,
+      "text": "И я и я и я",
+      "translation": "And me and me and me",
+      "grammar": ""
+    },
+    {
+      "time": 54.787,
+      "text": "Слушай своё сердце",
+      "translation": "Listen to your heart",
+      "grammar": ""
+    },
+    {
+      "time": 56.707,
+      "text": "Больше всем добра",
+      "translation": "More good to everyone",
+      "grammar": ""
+    },
+    {
+      "time": 58.627,
+      "text": "Я и и я и я",
+      "translation": "Me and me and me",
+      "grammar": ""
+    },
+    {
+      "time": 62.168,
+      "text": "Своей жизни верный",
+      "translation": "Faithful to his life",
+      "grammar": ""
+    },
+    {
+      "time": 64.088,
+      "text": "Ведь она одна",
+      "translation": "After all, she is alone",
+      "grammar": ""
+    },
+    {
+      "time": 66.008,
+      "text": "Атомная бомба выбивает окна",
+      "translation": "An atomic bomb blows out windows",
+      "grammar": ""
+    },
+    {
+      "time": 68.469,
+      "text": "А я напеваю на-на-на-на-на",
+      "translation": "And I hum na-na-na-na-na",
+      "grammar": ""
+    },
+    {
+      "time": 73.089,
+      "text": "Атомная бомба вышибает стекла",
+      "translation": "An atomic bomb blows out glass",
+      "grammar": ""
+    },
+    {
+      "time": 75.55,
+      "text": "Но я напеваю ро-по-та-та-та",
+      "translation": "But I sing po-po-ta-ta-ta",
+      "grammar": ""
+    },
+    {
+      "time": 80.17,
+      "text": "Атомная бомба выбивает окна",
+      "translation": "An atomic bomb blows out windows",
+      "grammar": ""
+    },
+    {
+      "time": 82.631,
+      "text": "А я напеваю на-на-на-на-на",
+      "translation": "And I hum na-na-na-na-na",
+      "grammar": ""
+    },
+    {
+      "time": 87.251,
+      "text": "Атомная бомба вышибает стекла",
+      "translation": "An atomic bomb blows out glass",
+      "grammar": ""
+    },
+    {
+      "time": 89.711,
+      "text": "Но я напеваю ро-по-та-та-та",
+      "translation": "But I sing po-po-ta-ta-ta",
+      "grammar": ""
+    },
+    {
+      "time": 94.332,
+      "text": "Не боюсь я высоты, если падаешь лети",
+      "translation": "I'm not afraid of heights if you're falling too",
+      "grammar": "The use of 'если' (if) with the verb 'падаешь' (are falling) is an example of a subordinate clause in Russian."
+    },
+    {
+      "time": 98.413,
+      "text": "Если по земле идти можно далеко зайти",
+      "translation": "If you walk on the ground you can go far",
+      "grammar": ""
+    },
+    {
+      "time": 102.493,
+      "text": "Солнце светит одинаково я выбрал себе путь",
+      "translation": "The sun shines the same, I chose my path",
+      "grammar": ""
+    },
+    {
+      "time": 106.574,
+      "text": "Он не лучше и не хуже вижу цель и к ней иду",
+      "translation": "He is no better and no worse, I see the goal and I go towards it.",
+      "grammar": ""
+    },
+    {
+      "time": 113.355,
+      "text": "Нагнетают облака и я спрячу тучу под зонтами",
+      "translation": "The clouds are gathering and I will hide the clouds under umbrellas",
+      "grammar": ""
+    },
+    {
+      "time": 117.975,
+      "text": "Закрываясь от себя",
+      "translation": "Closing yourself off from yourself",
+      "grammar": ""
+    },
+    {
+      "time": 119.895,
+      "text": "Нагнетают облака и я",
+      "translation": "The clouds are gathering and I",
+      "grammar": ""
+    },
+    {
+      "time": 122.356,
+      "text": "Всем желаю много чуда, начинай верить в себя",
+      "translation": "I wish everyone many miracles, start believing in yourself",
+      "grammar": ""
+    },
+    {
+      "time": 126.976,
+      "text": "Атомная бомба выбивает окна",
+      "translation": "An atomic bomb blows out windows",
+      "grammar": ""
+    },
+    {
+      "time": 129.437,
+      "text": "А я напеваю на-на-на-на-на",
+      "translation": "And I hum na-na-na-na-na",
+      "grammar": ""
+    },
+    {
+      "time": 134.057,
+      "text": "Атомная бомба вышибает стекла",
+      "translation": "An atomic bomb blows out glass",
+      "grammar": ""
+    },
+    {
+      "time": 136.518,
+      "text": "Но я напеваю ро-по-та-та-та",
+      "translation": "But I'm humming po-po-ta-ta-ta",
+      "grammar": ""
+    },
+    {
+      "time": 141.138,
+      "text": "Атомная бомба выбивает окна",
+      "translation": "An atomic bomb blows out windows",
+      "grammar": ""
+    },
+    {
+      "time": 143.598,
+      "text": "А я напеваю на-на-на-на-на",
+      "translation": "And I hum na-na-na-na-na",
+      "grammar": ""
+    },
+    {
+      "time": 148.219,
+      "text": "Атомная бомба вышибает стекла",
+      "translation": "An atomic bomb blows out glass",
+      "grammar": ""
+    },
+    {
+      "time": 150.679,
+      "text": "Но я напеваю ро-по-та-та-та",
+      "translation": "But I'm humming po-po-ta-ta-ta",
+      "grammar": ""
+    }
+  ]
+}

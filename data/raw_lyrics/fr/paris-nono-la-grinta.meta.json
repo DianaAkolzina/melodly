@@ -1,0 +1,16 @@
+{
+  "language": "fr",
+  "title": "Paris",
+  "artist": "Nono La Grinta",
+  "slug": "paris-nono-la-grinta",
+  "track_length_seconds": 172,
+  "source": {
+    "provider": "musixmatch",
+    "track_id": 327564672,
+    "commontrack_id": 201416631,
+    "track_share_url": "https://www.musixmatch.com/lyrics/Nono-La-Grinta/Paris?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "track_edit_url": "https://www.musixmatch.com/lyrics/Nono-La-Grinta/Paris/edit?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "search_language": "fr",
+    "fetched_at": "2025-11-21T10:59:23.027291Z"
+  }
+}

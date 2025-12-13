@@ -1,0 +1,253 @@
+{
+  "id": "ru_track_5d76449",
+  "title": "ЛАБИРИНТ",
+  "artist": "FACE",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_track_5d76449.mp3",
+  "duration": 169,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 13.655400000035764,
+      "text": "Мой отец ушёл, когда мне было только пять месяцев",
+      "translation": "My father left when I was only five months old",
+      "grammar": "The verb 'ушёл' is in the past tense and uses the preposition 'когда' to indicate time."
+    },
+    {
+      "time": 16.84369999998808,
+      "text": "Я хотел повеситься, когда исполнилось десять",
+      "translation": "I wanted to hang myself when I turned ten",
+      "grammar": ""
+    },
+    {
+      "time": 20.322699999988078,
+      "text": "И моя мать сошла с ума, когда мне было 14",
+      "translation": "And my mother went crazy when I was 14",
+      "grammar": ""
+    },
+    {
+      "time": 23.83919999998808,
+      "text": "Почти все мои друзья сидят, как я смог выбраться? (Пр-р-р)",
+      "translation": "Almost all my friends are sitting, how could I get out? (Pr-r-r)",
+      "grammar": ""
+    },
+    {
+      "time": 27.2275,
+      "text": "Мой отец ушёл, когда мне было только пять месяцев",
+      "translation": "My father left when I was only five months old.",
+      "grammar": ""
+    },
+    {
+      "time": 30.885800000011923,
+      "text": "Я хотел повеситься, когда исполнилось десять",
+      "translation": "I wanted to hang myself when I turned ten",
+      "grammar": ""
+    },
+    {
+      "time": 34.17380000001192,
+      "text": "И моя мать сошла с ума, когда мне было 14",
+      "translation": "And my mother went crazy when I was 14",
+      "grammar": ""
+    },
+    {
+      "time": 37.63519999998808,
+      "text": "Почти все мои друзья сидят, как я смог выбраться? (Пр-р-р)",
+      "translation": "Almost all my friends are sitting, how could I get out? (Pr-r-r)",
+      "grammar": ""
+    },
+    {
+      "time": 41.47680000001192,
+      "text": "Мыслю намного глубже, чем просто деньги",
+      "translation": "I think much deeper than just money.",
+      "grammar": ""
+    },
+    {
+      "time": 45.06530000001192,
+      "text": "Что вокруг меня? Неужели я удобренье?",
+      "translation": "What's around me? Am I really fertilizer?",
+      "grammar": ""
+    },
+    {
+      "time": 48.81359999996424,
+      "text": "Это не любовь — это просто трение (просто трение)",
+      "translation": "It's not love, it's just friction (just friction)",
+      "grammar": ""
+    },
+    {
+      "time": 52.430099999964234,
+      "text": "Творчество сильнее выгоды — мировоззрение",
+      "translation": "Creativity is stronger than profit - a worldview",
+      "grammar": ""
+    },
+    {
+      "time": 55.550699999988076,
+      "text": "Быть против власти не значит быть против Родины",
+      "translation": "Being against the government does not mean being against the Motherland",
+      "grammar": ""
+    },
+    {
+      "time": 58.72,
+      "text": "Я люблю Россию за запах чёрной смородины",
+      "translation": "I love Russia for the smell of black currants",
+      "grammar": ""
+    },
+    {
+      "time": 62.31119999998808,
+      "text": "Не дам русофобам нажиться на моих взглядах",
+      "translation": "I won't let Russophobes profit from my views.",
+      "grammar": ""
+    },
+    {
+      "time": 65.555,
+      "text": "Я в золотистых полях и колосьях, ляг со мной рядом",
+      "translation": "I am in golden fields and ears of corn, lie down next to me",
+      "grammar": ""
+    },
+    {
+      "time": 69.0985,
+      "text": "Мой отец ушёл, когда мне было только пять месяцев",
+      "translation": "My father left when I was only five months old.",
+      "grammar": ""
+    },
+    {
+      "time": 72.47180000001192,
+      "text": "Я хотел повеситься, когда исполнилось десять",
+      "translation": "I wanted to hang myself when I turned ten",
+      "grammar": ""
+    },
+    {
+      "time": 75.79059999996424,
+      "text": "И моя мать сошла с ума, когда мне было 14",
+      "translation": "And my mother went crazy when I was 14",
+      "grammar": ""
+    },
+    {
+      "time": 79.34330000001192,
+      "text": "Почти все мои друзья сидят, как я смог выбраться? (Пр-р-р)",
+      "translation": "Almost all my friends are sitting, how could I get out? (Pr-r-r)",
+      "grammar": ""
+    },
+    {
+      "time": 82.88719999998808,
+      "text": "Мой отец ушёл, когда мне было только пять месяцев",
+      "translation": "My father left when I was only five months old.",
+      "grammar": ""
+    },
+    {
+      "time": 86.16969999998808,
+      "text": "Я хотел повеситься, когда исполнилось десять",
+      "translation": "I wanted to hang myself when I turned ten",
+      "grammar": ""
+    },
+    {
+      "time": 89.96580000001192,
+      "text": "И моя мать сошла с ума, когда мне было 14",
+      "translation": "And my mother went crazy when I was 14",
+      "grammar": ""
+    },
+    {
+      "time": 93.24719999998808,
+      "text": "Почти все мои друзья сидят, как я смог выбраться? (Пр-р-р)",
+      "translation": "Almost all my friends are sitting, how could I get out? (Pr-r-r)",
+      "grammar": ""
+    },
+    {
+      "time": 96.93889999997616,
+      "text": "Выступаю в Тель-Авиве, я не могу поверить",
+      "translation": "I'm performing in Tel Aviv, I can't believe it.",
+      "grammar": ""
+    },
+    {
+      "time": 100.9775,
+      "text": "Я в себе уверен, снова пахну лучшей парфюмерией",
+      "translation": "I'm confident in myself and smell like the best perfume again.",
+      "grammar": ""
+    },
+    {
+      "time": 104.4275,
+      "text": "Как я попал сюда? Кто открыл мне двери?",
+      "translation": "How did I get here? Who opened the doors for me?",
+      "grammar": ""
+    },
+    {
+      "time": 107.624,
+      "text": "Я — меланхоличный холерик, утерянный среди материй (материй)",
+      "translation": "I am a melancholic choleric, lost among matters (matters)",
+      "grammar": ""
+    },
+    {
+      "time": 111.51039999997616,
+      "text": "Я в полной комнате, но я совсем один",
+      "translation": "I'm in a full room, but I'm all alone.",
+      "grammar": ""
+    },
+    {
+      "time": 115.05289999997616,
+      "text": "Вокруг меня модели как с картин",
+      "translation": "There are models around me like from paintings",
+      "grammar": ""
+    },
+    {
+      "time": 118.59069999998808,
+      "text": "Я не ищу среди них половин",
+      "translation": "I don't look for halves among them",
+      "grammar": "The phrase 'половин' is a colloquialism meaning 'people of the same age or social group'"
+    },
+    {
+      "time": 121.84919999998807,
+      "text": "Сердце как лёд, бытие — лабиринт",
+      "translation": "The heart is like ice, existence is a labyrinth",
+      "grammar": ""
+    },
+    {
+      "time": 125.07780000001192,
+      "text": "Мой отец ушёл, когда мне было только пять месяцев",
+      "translation": "My father left when I was only five months old.",
+      "grammar": ""
+    },
+    {
+      "time": 128.06509999996425,
+      "text": "Я хотел повеситься, когда исполнилось десять",
+      "translation": "I wanted to hang myself when I turned ten",
+      "grammar": ""
+    },
+    {
+      "time": 131.8185,
+      "text": "И моя мать сошла с ума, когда мне было 14",
+      "translation": "And my mother went crazy when I was 14",
+      "grammar": ""
+    },
+    {
+      "time": 135.09659999996424,
+      "text": "Почти все мои друзья сидят, как я смог выбраться? (Пр-р-р)",
+      "translation": "Almost all my friends are sitting, how could I get out? (Pr-r-r)",
+      "grammar": ""
+    },
+    {
+      "time": 138.5155,
+      "text": "Мой отец ушёл, когда мне было только пять месяцев",
+      "translation": "My father left when I was only five months old.",
+      "grammar": ""
+    },
+    {
+      "time": 142.0165,
+      "text": "Я хотел повеситься, когда исполнилось десять",
+      "translation": "I wanted to hang myself when I turned ten",
+      "grammar": ""
+    },
+    {
+      "time": 145.47089999997615,
+      "text": "И моя мать сошла с ума, когда мне было 14",
+      "translation": "And my mother went crazy when I was 14",
+      "grammar": ""
+    },
+    {
+      "time": 149.127,
+      "text": "Почти все мои друзья сидят, как я смог выбраться? (Пр-р-р)",
+      "translation": "Almost all my friends are sitting, how could I get out? (Pr-r-r)",
+      "grammar": ""
+    }
+  ]
+}

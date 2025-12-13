@@ -1,0 +1,229 @@
+{
+  "id": "es_cosas_de_enamorao",
+  "title": "Cosas de Enamorao",
+  "artist": "Salud mi Reina — Manuel Turizo",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_cosas_de_enamorao.mp3",
+  "duration": 160,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Que tú me gustas se sabe",
+      "translation": "It's known that I like you",
+      "grammar": "This sentence uses the present perfect tense (se sabe) to convey a general truth or common knowledge, implying that it's widely accepted that the speaker has a liking for someone."
+    },
+    {
+      "time": 4.28,
+      "text": "Obviamente se sabe",
+      "translation": "Obviously, that's known.",
+      "grammar": "This phrase uses the obvious adverb \"obviamente\" to convey a sense of certainty, implying that the information is widely acknowledged. The verb \"se sabe\" is in the third person singular form, indicating that it is a general truth or common knowledge."
+    },
+    {
+      "time": 6.572,
+      "text": "Tú eres mi plan A, mi plan B, plan C",
+      "translation": "You are my plan A, my plan B, my plan C",
+      "grammar": "In this idiomatic expression, \"eres\" is the second person singular form of the verb \"ser\", indicating a permanent or general truth about the speaker's feelings towards the listener. The use of \"plan A\", \"plan B\", and \"plan C\" creates a humorous effect by emphasizing the importance of the listener in the speaker's life."
+    },
+    {
+      "time": 13.505,
+      "text": "Tenemos todo, my love and sex, yeah",
+      "translation": "We have everything, my love and sex, yeah",
+      "grammar": "The phrase \"my love and sex\" is an idiomatic expression used to emphasize the importance of a person's romantic relationship and physical intimacy. The possessive adjective \"my\" agrees with the plural noun \"love and sex\"."
+    },
+    {
+      "time": 18.448,
+      "text": "Domingo por la noche, nadie quiere dormir",
+      "translation": "Sunday night, nobody wants to sleep",
+      "grammar": "The phrase \"por la noche\" is an idiomatic expression meaning \"at night\" or \"in the evening\"."
+    },
+    {
+      "time": 23.392,
+      "text": "Lunes por la mañana ninguno se quiere ir",
+      "translation": "Monday morning, nobody wants to leave",
+      "grammar": "The phrase \"ninguno se quiere ir\" is an idiomatic expression using the impersonal pronoun \"ninguno\" and the verb \"quiere\" in the third person singular form, indicating a general truth or situation. This construction implies that everyone shares the same feeling of not wanting to leave."
+    },
+    {
+      "time": 28.998,
+      "text": "Loco por ti, y tú, loca por mí",
+      "translation": "Crazy about you, and you, crazy about me",
+      "grammar": "This line uses the present tense to express a strong emotional state, with the idiomatic phrase \"loco/locas\" meaning \"crazy in love\". The pronoun \"tú\" is used twice, emphasizing the mutual nature of their feelings."
+    },
+    {
+      "time": 34.605,
+      "text": "Yeah",
+      "translation": "Yeah",
+      "grammar": "This interjection \"Yeah\" is used to express strong agreement or confirmation, often in informal settings. It can be translated literally as \"Yes\"."
+    },
+    {
+      "time": 35.805,
+      "text": "Feeling lonely si no estás a mi lao",
+      "translation": "Feeling lonely when you're not by my side",
+      "grammar": "The phrase \"si no estás\" is an idiomatic expression indicating a hypothetical or conditional situation, equivalent to \"if you weren't\" in English. The verb tense remains present because it describes a general feeling rather than a specific past event."
+    },
+    {
+      "time": 41.412,
+      "text": "Siento cosas, cosas de enamorao",
+      "translation": "I feel things, lovestruck things",
+      "grammar": "The phrase \"cosas de enamorao\" is an idiomatic expression that translates to \"lovestruck things\". It uses the present participle \"enamorao\" (being in love) to describe a state of mind."
+    },
+    {
+      "time": 45.029,
+      "text": "Con besitos que quedan marcaos",
+      "translation": "With little kisses that leave marks",
+      "grammar": "This idiomatic expression uses the present participle \"quedan\" to convey a sense of ongoing or continuous action, emphasizing the lingering effects of the kisses. The phrase also employs figurative language to describe the emotional impact of these intimate gestures."
+    },
+    {
+      "time": 48.646,
+      "text": "Tú me tienes, me tienes malcriao",
+      "translation": "You've got me, you've spoiled me.",
+      "grammar": "The verb phrase \"me tienes\" is in the present perfect tense, indicating that the action of spoiling started in the past and continues up to the present. The use of \"tienes\" instead of \"te he\" emphasizes the intensity of the spoiling."
+    },
+    {
+      "time": 52.927,
+      "text": "Feeling lonely si no estás a mi lao",
+      "translation": "Feeling lonely when you're not by my side",
+      "grammar": "The phrase \"si no estás\" is an idiomatic expression indicating a hypothetical or conditional situation, equivalent to \"if you weren't\" in English. The verb \"estás\" agrees with the subject \"you\" in number and person."
+    },
+    {
+      "time": 58.534,
+      "text": "Siento cosas, cosas de enamorao",
+      "translation": "I feel things, lovestruck things",
+      "grammar": "The phrase \"cosas de enamorao\" is an idiomatic expression that translates to \"lovestruck things\". It uses the present participle \"enamorao\" (being in love) to describe a state of mind."
+    },
+    {
+      "time": 62.151,
+      "text": "Besitos que quedan marcaos",
+      "translation": "Little kisses that leave a mark",
+      "grammar": "The phrase \"besitos\" is an idiomatic expression meaning \"kisses\" rather than the literal number of kisses. The verb \"quedan\" is in the present tense, indicating a habitual or general truth about these kisses leaving a mark."
+    },
+    {
+      "time": 65.105,
+      "text": "Tú me tienes, me tienes malcriao",
+      "translation": "You've got me, you've spoiled me.",
+      "grammar": "The verb phrase \"me tienes\" is in the present tense and uses the informal \"tú\" form to address a familiar person, indicating a close relationship. The idiomatic expression \"malcriado\" means being spoiled or pampered, implying a sense of indulgence."
+    },
+    {
+      "time": 69.386,
+      "text": "No tiene Only, pero lo que facturaría",
+      "translation": "It doesn't have Only, but what it would bill",
+      "grammar": "This line uses the present perfect tense to describe an ongoing process, and the phrase \"lo que\" is an idiomatic expression meaning \"what would happen if\"."
+    },
+    {
+      "time": 74.329,
+      "text": "Tendría la mansión más grande de Montería",
+      "translation": "He would have the largest mansion in Montería",
+      "grammar": "This sentence uses the conditional perfect tense to express a hypothetical situation, indicating that the speaker would have had something at a specific point in the past if certain conditions were met. The phrase \"tendría\" is an idiomatic expression equivalent to \"would have\" in English."
+    },
+    {
+      "time": 79.273,
+      "text": "Tierra tráeme y llévame pa ese día",
+      "translation": "Earth, bring me here and take me away for that day",
+      "grammar": "The phrase \"pa ese día\" is an idiomatic expression used to indicate a specific point in time or a particular occasion. It is often translated as \"for that day\" but the preposition \"pa\" implies a sense of movement towards something, similar to \"towards\" or \"up to\"."
+    },
+    {
+      "time": 84.216,
+      "text": "Que estábamos pegaitos, nos ganó la fechoría",
+      "translation": "We were so close together, mischief got the better of us.",
+      "grammar": "The phrase \"estábamos pegaitos\" is in the imperfect tense, indicating a prolonged or repeated action in the past. The idiom \"pegaitos\" means being very close or intimate, conveying a sense of closeness and familiarity."
+    },
+    {
+      "time": 89.16,
+      "text": "Esta supuesta amistad",
+      "translation": "This supposed friendship",
+      "grammar": "The phrase \"esta supuesta amistad\" is in the present tense, using the adjective \"supuesto\" to describe a hypothetical or uncertain friendship."
+    },
+    {
+      "time": 91.451,
+      "text": "Lo mejor que yo he tenido nunca",
+      "translation": "The best thing I've ever had",
+      "grammar": "This sentence uses the present perfect tense to emphasize the speaker's experience, indicating that the event began in the past and continues up to the moment of speaking. The phrase \"lo mejor\" is an idiomatic expression meaning \"the best\"."
+    },
+    {
+      "time": 96.395,
+      "text": "Baby, si te preguntan diles que Dios los crea",
+      "translation": "Baby, if they ask, tell them God created them.",
+      "grammar": "This line uses the present tense to express a general truth or universal principle, rather than describing a specific event. The phrase \"si te preguntan\" is an idiomatic expression meaning \"if they ask you\", which is equivalent to \"in case they ask\"."
+    },
+    {
+      "time": 102.665,
+      "text": "Y que ellos solos se juntan, pero les resulta",
+      "translation": "And that they get together on their own, but it turns out",
+      "grammar": "The phrase \"se juntan\" is in the present tense and implies a habitual or general truth, rather than a specific event. The use of \"les\" instead of \"ellos\" agrees with the indirect object \"resulta\", indicating that the outcome affects them."
+    },
+    {
+      "time": 108.934,
+      "text": "Si no nos vamos juntos",
+      "translation": "If we don't go together",
+      "grammar": "This sentence uses the conditional tense (si) to express a hypothetical situation, and the verb agreement is in the first person plural (nos)."
+    },
+    {
+      "time": 112.552,
+      "text": "No es oficial, pero estamos a punto",
+      "translation": "It's not official, but we're about to",
+      "grammar": "This sentence uses the present continuous tense (estamos a punto) to convey an imminent action, and the phrase \"a punto\" is an idiomatic expression meaning \"about to\" or \"on the verge of\"."
+    },
+    {
+      "time": 117.495,
+      "text": "Tú eres my love for life, life, life",
+      "translation": "You are my love for life, life, life",
+      "grammar": "In this line, the verb \"eres\" is in the present tense and second person singular form, emphasizing a personal and intimate relationship. The repetition of \"life\" functions as an idiomatic expression to emphasize the depth of the speaker's affection."
+    },
+    {
+      "time": 123.102,
+      "text": "Lo nuestro es de verdad",
+      "translation": "What we have is real",
+      "grammar": "The phrase \"Lo nuestro\" uses the possessive adjective \"nuestro\" to indicate what belongs to \"we\", emphasizing a sense of shared ownership or experience."
+    },
+    {
+      "time": 126.719,
+      "text": "Feeling lonely si no estás a mi lao",
+      "translation": "Feeling lonely when you're not by my side",
+      "grammar": "This line uses the present continuous tense to convey a sense of ongoing emotional state, and the phrase \"si no estás\" is an idiomatic expression meaning \"when you're not\"."
+    },
+    {
+      "time": 132.326,
+      "text": "Siento cosas, cosas de enamorao",
+      "translation": "I feel things, lovestruck things",
+      "grammar": "The phrase \"cosas de\" is an idiomatic expression meaning \"things related to\" or \"things connected to\", often used to describe emotions or experiences. In this context, it's used to emphasize the intensity of the speaker's feelings, conveying a sense of being overwhelmed by romantic thoughts."
+    },
+    {
+      "time": 135.943,
+      "text": "Con besitos que quedan marcaos",
+      "translation": "With little kisses that leave marks",
+      "grammar": "This idiomatic expression uses the present participle \"quedan\" in a figurative sense, implying that the kisses not only exist but also have a lasting impact. The phrase \"besitos que quedan\" is equivalent to saying \"kisses that linger\"."
+    },
+    {
+      "time": 139.561,
+      "text": "Tú me tienes, me tienes malcriao",
+      "translation": "You've got me, you've spoiled me.",
+      "grammar": "The verb phrase \"me tienes\" is in the present tense and uses the informal \"tú\" form to address someone, indicating a close relationship. The idiomatic expression \"malcriado\" means \"spoiled\" or \"overindulged\"."
+    },
+    {
+      "time": 143.841,
+      "text": "Feeling lonely si no estás a mi lao",
+      "translation": "Feeling lonely when you're not by my side",
+      "grammar": "The phrase \"si no estás\" is an idiomatic expression indicating a hypothetical or conditional situation, equivalent to \"if you weren't\" in English. The verb tense remains present because it describes the speaker's current emotional state."
+    },
+    {
+      "time": 149.448,
+      "text": "Siento cosas, cosas de enamorao",
+      "translation": "I feel things, lovestruck things",
+      "grammar": "The phrase \"cosas de enamorao\" is an idiomatic expression that translates to \"lovestruck things\". It uses the present participle \"enamorao\" (being in love) to describe a state of mind."
+    },
+    {
+      "time": 153.065,
+      "text": "Besitos que quedan marcaos",
+      "translation": "Little kisses that leave a mark",
+      "grammar": "The phrase \"besitos\" is an informal, affectionate way to say \"kisses\" in Spanish, and the verb \"quedan\" is in the present tense, indicating a habitual or general truth. The use of \"marcaos\" instead of \"marcan\" agrees with the idiomatic expression, emphasizing the lasting impact of these kisses."
+    },
+    {
+      "time": 156.02,
+      "text": "Tú me tienes, me tienes malcriao",
+      "translation": "You've got me, you've spoiled me.",
+      "grammar": "The verb phrase \"me tienes\" is in the present tense and uses the informal \"tú\" form to address a familiar person, indicating a close relationship. The idiomatic expression \"malcriado\" means \"spoiled\" or \"overindulged\", implying a sense of fondness and affection."
+    }
+  ]
+}

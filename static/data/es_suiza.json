@@ -1,0 +1,151 @@
+{
+  "id": "es_suiza",
+  "title": "SUIZA",
+  "artist": "Calle 24",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_suiza.mp3",
+  "duration": 115,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 11.313400000005961,
+      "text": "Todo el día pegado al phone mandándote corazones",
+      "translation": "All day glued to my phone sending you hearts",
+      "grammar": "The phrase \"pegado al phone\" is an idiomatic expression, literally meaning \"stuck to the phone,\" but figuratively conveying being constantly occupied with one's mobile device."
+    },
+    {
+      "time": 14.705600000023843,
+      "text": "Me dicen: \"No te enamores\", pero es tarde ya",
+      "translation": "They tell me, \"Don't fall in love,\" but it's too late now.",
+      "grammar": "The phrase \"ya\" is an adverb indicating the time of speaking (present perfect aspect), emphasizing that it's already too late."
+    },
+    {
+      "time": 19.4815,
+      "text": "Yo sé que escribo canciones hablando de desamores",
+      "translation": "I know I write songs about heartbreak",
+      "grammar": "The phrase \"yo sé\" is an idiomatic expression used to emphasize the speaker's certainty, equivalent to \"I'm sure\" or \"I know for a fact\". The verb \"escribo\" is in the present tense, indicating the speaker's habitual action."
+    },
+    {
+      "time": 23.251100000023843,
+      "text": "Pero tú no eres una más, mami, tú eres especial",
+      "translation": "But you're not just anyone, Mommy, you're special.",
+      "grammar": "The phrase \"tú eres\" is in the present tense and emphasizes the subject's unique qualities, using the informal \"tú\" to convey a sense of intimacy and affection."
+    },
+    {
+      "time": 27.224700000017883,
+      "text": "Que me disculpen las otras por decir que eres la primera",
+      "translation": "The others will have to forgive me for saying you're the first.",
+      "grammar": "This sentence uses the present subjunctive mood (que me disculpen) to express a polite request, and the phrase \"la primera\" agrees with the feminine noun \"eres\"."
+    },
+    {
+      "time": 31.03890000000596,
+      "text": "Que por ti yo dejé la loquera, que, si prendo, era a solas contigo",
+      "translation": "That for you I left the madness behind, that if I get high, it's only with you.",
+      "grammar": "The phrase \"que si prendo\" is an idiomatic expression indicating a hypothetical situation in the past, using the imperfect subjunctive tense to convey a sense of regret or longing."
+    },
+    {
+      "time": 35.22080000001192,
+      "text": "Quiero hacer el amor hasta que nos fusionemos",
+      "translation": "I want to make love until we merge.",
+      "grammar": "The verb \"querer\" is in the present tense, expressing a desire or intention, and the phrase \"hacer el amor\" is an idiomatic expression meaning \"to make love\"."
+    },
+    {
+      "time": 39.53140000000596,
+      "text": "Llevarte pa Suiza y allá nos casemos",
+      "translation": "Take me to Switzerland and we'll get married there",
+      "grammar": "This line uses the informal, conditional mood (\"llevarte\" instead of \"llevaría\") to express a hypothetical plan, while \"allá\" is an adverb indicating a distant location."
+    },
+    {
+      "time": 45.39290000000596,
+      "text": "Baby, y así suena",
+      "translation": "Baby, and that's how it sounds",
+      "grammar": "This line uses the informal phrase \"Baby\" as a vocative, similar to saying \"Hey, friend!\" in English. The sentence is in the present tense, with \"así\" functioning as an adverb indicating the sound or manner of something."
+    },
+    {
+      "time": 50.23990000000596,
+      "text": "Así suena nuestro amor de la calle, baby",
+      "translation": "This is what our street love sounds like, baby",
+      "grammar": "The phrase \"Así suena\" is an idiomatic expression that combines the verb \"sonar\" (to sound) with the adverb \"así\" (like), indicating a comparison or imitation of a sound."
+    },
+    {
+      "time": 57.02390000000596,
+      "text": "Óyeme, ey, mami",
+      "translation": "Listen to me, hey, mommy",
+      "grammar": "The phrase \"óyeme\" is an imperative verb form in the second person singular (\"listen to me\"), emphasizing the speaker's request. The use of \"ey\" as a filler word adds a casual tone to the sentence."
+    },
+    {
+      "time": 60.00769999998808,
+      "text": "Te mando besos por el cel, ya mero voy a volver",
+      "translation": "I'm sending you kisses on my phone, I'll be back soon.",
+      "grammar": "The phrase \"ya mero voy\" is an idiomatic expression in Spanish, equivalent to \"I'll be back soon\" in English. It uses the present continuous tense (voy) and the adverb \"ya\" to convey a sense of imminence or nearness."
+    },
+    {
+      "time": 64.56280000001192,
+      "text": "Te quiero hacer un bebé, ya que se acabe la gira",
+      "translation": "I want to make you pregnant, as soon as the tour is over",
+      "grammar": "The phrase \"te quiero\" is an idiomatic expression meaning \"to want\" or \"to desire\", rather than a literal statement of affection. It's used in informal settings and is often translated as \"I want\"."
+    },
+    {
+      "time": 68.73219999998808,
+      "text": "Brilla sin quererlo hacer, la luna te tiene envidia",
+      "translation": "You shine without meaning to, the moon is envious of you",
+      "grammar": "The phrase \"sin quererlo hacer\" is an idiomatic expression indicating a spontaneous or unintentional action, often translated as \"without meaning to\"."
+    },
+    {
+      "time": 73.186,
+      "text": "Si algún día pierdo la vida, vuelvo a buscarte otra vez",
+      "translation": "If I ever lose my life, I will come back for you again.",
+      "grammar": "The phrase \"si algún día\" is an idiomatic expression indicating a hypothetical or uncertain future event in the future perfect tense."
+    },
+    {
+      "time": 77.08009999999403,
+      "text": "Que me disculpen las otras por decir que eres la primera",
+      "translation": "The others will have to forgive me for saying you're the first.",
+      "grammar": "This sentence uses the subjunctive mood (\"que\" and \"sea\") to express a hypothetical or uncertain situation, which is common in Spanish when making requests or expressing doubt."
+    },
+    {
+      "time": 84.23480000001192,
+      "text": "Que por ti yo dejé la loquera, que, si prendo, era a solas contigo",
+      "translation": "That for you I left the madness behind, that if I get high, it's only with you.",
+      "grammar": "The phrase \"que si prendo\" is an idiomatic expression indicating a hypothetical situation in the present tense, implying a conditional relationship between the speaker's actions and their desire to be alone with the person being addressed."
+    },
+    {
+      "time": 85.24869999998808,
+      "text": "Quiero hacer el amor hasta que nos fusionemos",
+      "translation": "I want to make love until we merge.",
+      "grammar": "The verb \"querer\" is in the present tense, expressing a desire or intention, and the phrase \"hacer el amor\" is an idiomatic expression meaning \"to make love\"."
+    },
+    {
+      "time": 89.425,
+      "text": "Llevarte pa Suiza y allá nos casemos",
+      "translation": "Take me to Switzerland and we'll get married there",
+      "grammar": "This sentence uses the informal \"you\" (tú) and the conditional tense (condicional) to express a hypothetical situation, making it a common way to propose in Spanish. The phrase \"allá nos casemos\" is an idiomatic expression meaning \"we'll get married there\"."
+    },
+    {
+      "time": 94.72609999999403,
+      "text": "Te voy a amar hasta que la luna se apague",
+      "translation": "I will love you until the moon goes out",
+      "grammar": "This line uses the future tense of the verb \"amar\" to express a promise or intention, with the phrase \"te voy a\" being an idiomatic expression meaning \"I will\"."
+    },
+    {
+      "time": 98.89780000001193,
+      "text": "Hasta que cada flor se seque",
+      "translation": "Until every flower dries up",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a sense of ongoing or repeated action, implying that flowers will continue to dry up until they are all gone."
+    },
+    {
+      "time": 102.55259999999404,
+      "text": "Esto es para ti, chiquita",
+      "translation": "This is for you, little one.",
+      "grammar": "The phrase \"esto es para ti\" uses the present tense to express a general or habitual truth, and \"chiquita\" is an affectionate diminutive form of address, conveying a sense of endearment."
+    },
+    {
+      "time": 105.38570000001788,
+      "text": "De aquí hasta la luna, mami",
+      "translation": "From here to the moon, Mommy",
+      "grammar": "The phrase \"De aquí hasta la luna\" is an idiomatic expression used to convey a sense of vastness or extremity, similar to saying \"from one end of the world to the other\". The use of \"mami\" instead of the formal \"mamá\" adds a touch of informality and affection."
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "id": "lv_maz_bilu_rmt",
+  "title": "Mazā bilžu rāmītī",
+  "artist": "Viegli feat. Renārs Kaupers",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "lv",
+  "to_language": "en",
+  "audio": "/audio/lv_maz_bilu_rmt.mp3",
+  "duration": 215,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Mazā bilžu rāmītī",
+      "translation": "In a small picture frame",
+      "grammar": "The phrase \"Mazā\" is an adverb indicating location, equivalent to \"in a small\" in English, and is used to describe the size of the picture frame."
+    },
+    {
+      "time": 4.542,
+      "text": "Man ir bilde tava",
+      "translation": "I have a picture of you.",
+      "grammar": "The verb \"ir\" is in the present perfect tense, indicating that the speaker has taken a picture at some point before now. The phrase \"tava\" is an idiomatic expression meaning \"of you\"."
+    },
+    {
+      "time": 10.497,
+      "text": "Citas bildes pasaulē",
+      "translation": "Other pictures in the world",
+      "grammar": "The phrase \"citas\" is an idiomatic expression meaning \"other\" or \"different\", used to indicate a contrast with something previously mentioned, and its grammatical function is equivalent to an adjective."
+    },
+    {
+      "time": 15.039,
+      "text": "Man tik skaistas nava",
+      "translation": "I have such beautiful nails.",
+      "grammar": "The verb \"tik\" is in the present perfect tense, indicating that the speaker has had beautiful nails for some time. The phrase \"such beautiful nails\" is an idiomatic expression equivalent to \"how beautiful my nails are\"."
+    },
+    {
+      "time": 20.994,
+      "text": "Tur ir tāds kā novakars",
+      "translation": "There is such a thing as a novarar",
+      "grammar": "The phrase \"ir tāds\" is an idiomatic expression in Latvian, equivalent to the English phrase \"there is such a\". It uses the existential verb \"ir\" (is) in the present tense, indicating the existence of something."
+    },
+    {
+      "time": 28.364,
+      "text": "Saule laižas slīpi",
+      "translation": "The sun sets obliquely.",
+      "grammar": "This line uses the present participle \"laižas\" to describe an ongoing action, indicating a continuous or habitual aspect. The phrase \"saule laižas\" can be translated as \"the sun is setting\" rather than just \"the sun sets\", emphasizing the gradual nature of the sunset."
+    },
+    {
+      "time": 32.906,
+      "text": "Zelta pienenes tu spraud",
+      "translation": "You pluck golden dandelions",
+      "grammar": "The verb \"spraud\" is in the present tense, used idiomatically to describe a casual or effortless action."
+    },
+    {
+      "time": 38.861,
+      "text": "Kafijkannas snīpī",
+      "translation": "Coffee pot spout",
+      "grammar": "The phrase \"kafijkannas\" is an idiomatic expression, literally meaning \"of the coffee pot\", but figuratively referring to the act of pouring or serving."
+    },
+    {
+      "time": 41.989,
+      "text": "Tu no zelta esi man",
+      "translation": "You are made of gold for me.",
+      "grammar": "The phrase \"Tu no zelta\" is an idiomatic expression, literally meaning \"you not gold\", but figuratively conveying a high esteem or admiration towards someone. The verb \"esi\" is in the present tense, indicating a state of being."
+    },
+    {
+      "time": 49.358,
+      "text": "Es esmu no vara",
+      "translation": "I am from copper.",
+      "grammar": "The phrase \"es esmu\" is an idiomatic expression in Latvian, where \"es\" is a pronoun meaning \"I\" and \"esmu\" is the first person singular form of the verb \"būt\", which means \"to be\". This construction is used to express possession or origin."
+    },
+    {
+      "time": 55.314,
+      "text": "Tevi zināju vēl pirms",
+      "translation": "I knew you before",
+      "grammar": "The verb \"zināju\" is in the past tense, indicating a completed action prior to the time of speaking. The phrase \"pirms\" can be translated as \"before\" and implies a causal relationship between the speaker's knowledge and their current situation."
+    },
+    {
+      "time": 61.269,
+      "text": "Pirmā pasaul's kara",
+      "translation": "The First World War",
+      "grammar": "This phrase uses the nominative case and the possessive suffix \"-s\" to indicate that \"pasaul's\" is a genitive noun, meaning \"of the world\". The phrase functions as a title or heading, equivalent to \"The First World War\" in English."
+    },
+    {
+      "time": 67.225,
+      "text": "Tad es biju resns turks",
+      "translation": "Then I was a fat Turk",
+      "grammar": "The phrase \"tad es\" is an idiomatic expression in Latvian, equivalent to the English phrase \"then I was\". It uses the imperfect tense (es) to describe a past state or condition."
+    },
+    {
+      "time": 74.594,
+      "text": "Ķitelī un čalmā",
+      "translation": "In a turban and a turban",
+      "grammar": "The phrase \"Ķitelī un čalmā\" is an idiomatic expression, where the repeated word \"čalmā\" functions as an intensifier to emphasize the idea of wearing multiple turbans."
+    },
+    {
+      "time": 79.136,
+      "text": "Tevi ieraudzīju es",
+      "translation": "I saw you.",
+      "grammar": "The verb \"ieraudzīju\" is in the past tense, indicating that the action of seeing occurred at a specific point in the past. The use of the pronoun \"tevi\" (you) is informal and suggests a familiar or intimate relationship between the speaker and the person being addressed."
+    },
+    {
+      "time": 83.678,
+      "text": "Nikolaja galmā",
+      "translation": "At the court of Nicholas",
+      "grammar": "The phrase \"Nikolaja galmā\" is in the nominative case and uses the possessive adjective \"Nikolaja\" to indicate the location, equivalent to saying \"at Nicholas' court\"."
+    },
+    {
+      "time": 86.806,
+      "text": "Laiki mainās, laiki jūk",
+      "translation": "Times are changing, times are changing.",
+      "grammar": "The phrase \"laiki mainās\" and \"laiki jūk\" is an idiomatic expression indicating a repetitive or cyclical process, with the verb forms in the present continuous tense emphasizing the ongoing nature of change."
+    },
+    {
+      "time": 92.761,
+      "text": "Laika daudz vairs nava",
+      "translation": "There's not much time left.",
+      "grammar": "The phrase \"Laika\" is an idiomatic expression, equivalent to \"now\" or \"already\", indicating a sense of urgency and emphasizing the limited time remaining."
+    },
+    {
+      "time": 98.717,
+      "text": "Mazā bilžu rāmītī",
+      "translation": "In a small picture frame",
+      "grammar": "The phrase \"Mazā\" is an adverb indicating the size of the picture frame, equivalent to \"small\" in English."
+    },
+    {
+      "time": 103.258,
+      "text": "Man ir bilde Tava",
+      "translation": "I have a picture of you.",
+      "grammar": "The verb \"ir\" is in the present perfect tense, indicating that the speaker has taken a picture of someone at some point in the past and still has it. The phrase \"Tava\" is an idiomatic expression meaning \"of you\"."
+    },
+    {
+      "time": 109.214,
+      "text": "Man ir bilde Tava",
+      "translation": "I have a picture of you.",
+      "grammar": "The verb \"ir\" is in the present perfect tense, indicating that the speaker has taken a picture of someone at some point in the past. The phrase \"Tava\" is an idiomatic expression meaning \"you\" in a more intimate or affectionate sense."
+    },
+    {
+      "time": 115.169,
+      "text": "Tu no zelta esi man",
+      "translation": "You are made of gold for me.",
+      "grammar": "The phrase \"Tu no zelta\" is an idiomatic expression, literally meaning \"You not gold\", but figuratively conveying that someone is extremely valuable or precious to the speaker. The verb \"esi\" is in the present tense and agrees with the subject pronoun \"tu\"."
+    },
+    {
+      "time": 122.539,
+      "text": "Es esmu no vara",
+      "translation": "I am from copper.",
+      "grammar": "The phrase \"es esmu\" is a literal translation of the Latvian verb \"būt\" in the first person singular present tense, indicating a permanent or general state. The idiom \"no vara\" means \"from\" or \"originating from\", rather than a physical location."
+    },
+    {
+      "time": 128.494,
+      "text": "Tevi zināju vēl pirms",
+      "translation": "I knew you before",
+      "grammar": "The verb \"zināju\" is in the past tense, indicating a completed action prior to the current moment. The phrase \"pirms\" can be translated as \"before\" and implies a temporal relationship between the speaker's knowledge of the person and their current situation."
+    },
+    {
+      "time": 134.45,
+      "text": "Pirmā pasaul's kara",
+      "translation": "The First World War",
+      "grammar": "In Latvian, the phrase \"pirmā\" is an adjective agreeing with the noun \"pasaul's kara\" in the nominative case, indicating the subject of the sentence. The use of \"pirmā\" instead of \"pirmais\" (the masculine form) is due to the neuter gender of the noun \"kara\", which refers to a war."
+    },
+    {
+      "time": 140.406,
+      "text": "Tad es biju resns turks",
+      "translation": "Then I was a fat Turk",
+      "grammar": "The phrase \"tad es\" is an idiomatic expression in Latvian, equivalent to the English phrase \"then I was\". It uses the imperfective aspect to describe a past state or condition."
+    },
+    {
+      "time": 147.775,
+      "text": "Ķitelī un čalmā",
+      "translation": "In a turban and a turban",
+      "grammar": "This idiomatic phrase uses the same word \"čalmā\" twice to convey the idea of wearing multiple turbans, rather than one. The repetition creates a humorous effect, emphasizing the absurdity of wearing multiple turbans."
+    },
+    {
+      "time": 152.317,
+      "text": "Tevi ieraudzīju es",
+      "translation": "I saw you.",
+      "grammar": "The verb \"ieraudzīju\" is in the past tense, indicating a completed action. The pronoun \"tevi\" means \"you\" and agrees with the subject-verb agreement in Latvian."
+    },
+    {
+      "time": 156.858,
+      "text": "Nikolaja galmā",
+      "translation": "At the court of Nicholas",
+      "grammar": "The phrase \"Nikolaja galmā\" uses the dative case to indicate the location where an action takes place, similar to English phrases like \"at someone's house\" or \"in a certain place\"."
+    },
+    {
+      "time": 159.986,
+      "text": "Laiki mainās, laiki jūk",
+      "translation": "Times are changing, times are changing.",
+      "grammar": "The phrase \"laiki mainās\" and \"laiki jūk\" is an idiomatic expression indicating a sense of repetition or emphasis, similar to saying \"things are really changing\" in English. The verb forms \"mainās\" and \"jūk\" are in the present tense, emphasizing the ongoing nature of these changes."
+    },
+    {
+      "time": 165.942,
+      "text": "Laika daudz vairs nava",
+      "translation": "There's not much time left.",
+      "grammar": "The phrase \"Laika daudz\" is an idiomatic expression in Latvian, equivalent to the English idiom \"there's not much time left\". The verb \"daudz\" is in the present tense, indicating a sense of urgency."
+    },
+    {
+      "time": 171.897,
+      "text": "Mazā bilžu rāmītī",
+      "translation": "In a small picture frame",
+      "grammar": "The phrase \"Mazā\" is an adverb indicating a specific quantity, equivalent to the English phrase \"in a small\"."
+    },
+    {
+      "time": 176.439,
+      "text": "Man ir bilde Tava",
+      "translation": "I have a picture of you.",
+      "grammar": "The verb \"ir\" is in the present perfect tense, indicating that the speaker has taken a picture of someone at some point in the past. The phrase \"Tava\" is an idiomatic expression meaning \"you\" in a more intimate or affectionate sense."
+    },
+    {
+      "time": 182.394,
+      "text": "Man ir bilde Tava",
+      "translation": "I have a picture of you.",
+      "grammar": "The verb \"ir\" is in the present perfect tense, indicating that the speaker has taken a picture of someone at some point in the past. The possessive pronoun \"man\" agrees with the subject \"I\"."
+    },
+    {
+      "time": 188.35,
+      "text": "Man ir bilde Tava",
+      "translation": "I have a picture of you.",
+      "grammar": "The verb \"ir\" is in the present perfect tense, indicating an action started in the past and continuing up to the present moment. The phrase \"Tava\" is an idiomatic expression meaning \"of you\"."
+    },
+    {
+      "time": 194.306,
+      "text": "Mazā bilžu rāmītī",
+      "translation": "In a small picture frame",
+      "grammar": "The phrase \"Mazā\" is an adverb indicating the size of something, equivalent to \"small\" in English."
+    },
+    {
+      "time": 198.847,
+      "text": "Man ir bilde Tava",
+      "translation": "I have a picture of you.",
+      "grammar": "The phrase \"Man ir\" is an idiomatic expression in Latvian, equivalent to English \"I have\" or \"I possess\", using the present perfect tense to indicate possession."
+    },
+    {
+      "time": 204.803,
+      "text": "Citas bildes pasaulē",
+      "translation": "Other pictures in the world",
+      "grammar": "The phrase \"citas\" is an idiomatic expression meaning \"other\" or \"different\", used to contrast with what has been mentioned before, and its grammatical function is equivalent to a noun."
+    },
+    {
+      "time": 209.344,
+      "text": "Man tik skaistas nava",
+      "translation": "I have such beautiful nails.",
+      "grammar": "The verb \"tik\" is in the present perfect tense, indicating that the speaker has had beautiful nails for some time. The phrase \"such beautiful\" is an idiomatic expression equivalent to \"very\" or \"extremely\"."
+    }
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "id": "fr_chante",
+  "title": "Chante",
+  "artist": "Star Academy 8",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_chante.mp3",
+  "duration": 209,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Nah, nah-nah, nah-nah",
+      "translation": "Nah, nah-nah, nah-nah",
+      "grammar": "This interjection is an example of onomatopoeia, where the sound imitates the action or object it describes. The repetition of \"nah\" creates a sense of rhythm and emphasizes the speaker's emotional response."
+    },
+    {
+      "time": 2.957,
+      "text": "Nah-nah, nah-nah",
+      "translation": "Nah-nah, nah-nah",
+      "grammar": "This interjection is an example of onomatopoeia, mimicking the sound of a repetitive phrase often used in music or to express excitement."
+    },
+    {
+      "time": 5.385,
+      "text": "Ooh, oh-oh",
+      "translation": "Ooh, oh-oh",
+      "grammar": "This interjection is an expression of excitement or enthusiasm, often used to draw attention or convey strong emotions. It can be used in various contexts and tenses, but its primary function is to add emphasis or create a sense of urgency."
+    },
+    {
+      "time": 7.284,
+      "text": "Nah, nah-nah, nah-nah",
+      "translation": "Nah, nah-nah, nah-nah",
+      "grammar": "This interjection is an example of onomatopoeia, imitating the sound of a repetitive phrase or rhythm. It's often used to express excitement, emphasis, or playfulness in informal settings."
+    },
+    {
+      "time": 10.242,
+      "text": "Nah-nah, nah-nah",
+      "translation": "Nah-nah, nah-nah",
+      "grammar": "This interjection is an onomatopoeic expression that imitates the sound of a repetitive melody, often used to convey excitement or playfulness. It does not have a specific grammatical function and can be used in various contexts without changing its meaning."
+    },
+    {
+      "time": 10.242,
+      "text": "Chante",
+      "translation": "Sung",
+      "grammar": "The verb \"chante\" is in the imperative mood, used to give a command or make a request."
+    },
+    {
+      "time": 13.87,
+      "text": "Oublie tout",
+      "translation": "Forget everything",
+      "grammar": "This idiomatic expression uses the imperative mood to convey a sense of urgency, instructing someone to forget all their worries. The verb \"oublier\" is in the second person singular form, indicating that the speaker is addressing someone directly."
+    },
+    {
+      "time": 15.239,
+      "text": "Quelques mots",
+      "translation": "A few words",
+      "grammar": "The phrase \"quelques mots\" is an idiomatic expression that translates to \"a few words\". It is used to convey a brief, informal message or explanation."
+    },
+    {
+      "time": 16.608,
+      "text": "N'importe où",
+      "translation": "Anywhere",
+      "grammar": "This idiomatic phrase uses the negation particle \"n'\" to convey a sense of indifference or flexibility, equivalent to saying \"anywhere\" in English. The sentence is in the informal mood and has no specific tense or aspect."
+    },
+    {
+      "time": 18.507,
+      "text": "Chante pour toi et moi",
+      "translation": "Sing for you and me",
+      "grammar": "In French, the phrase \"pour toi\" and \"pour moi\" are idiomatic expressions used to indicate that something is done specifically for someone, rather than simply using the pronouns \"to you\" and \"to me\". This construction emphasizes the personal nature of the action."
+    },
+    {
+      "time": 21.464,
+      "text": "Pour faire encore un pas",
+      "translation": "To take another step",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a sense of ongoing action, emphasizing the idea of taking one more step in a process or journey."
+    },
+    {
+      "time": 24.421,
+      "text": "Encore un pas",
+      "translation": "One more step",
+      "grammar": "The phrase \"encore un\" is an idiomatic expression that indicates a slight or gradual progression, often used to convey a sense of hesitation or uncertainty. In this context, the verb tense remains in the present, emphasizing the speaker's willingness to take one more step."
+    },
+    {
+      "time": 26.32,
+      "text": "Chante",
+      "translation": "Sung",
+      "grammar": "The verb \"chante\" is in the imperative mood, instructing someone to sing."
+    },
+    {
+      "time": 27.52,
+      "text": "Chante encore",
+      "translation": "Sing again",
+      "grammar": "The imperative verb \"chante\" is in the present tense, used to give a direct instruction or make a request."
+    },
+    {
+      "time": 28.889,
+      "text": "Tout simplement, pour te sentir plus fort",
+      "translation": "Simply, to feel stronger",
+      "grammar": "This idiomatic phrase uses the present tense to convey a sense of general truth or universal applicability, rather than describing a specific situation. The phrase \"toute simplement\" is an adverbial expression emphasizing simplicity and sincerity."
+    },
+    {
+      "time": 32.906,
+      "text": "Oh, quand la vie se perd en chemin",
+      "translation": "Oh, when life gets lost along the way",
+      "grammar": "The phrase \"Oh, quand\" is an idiomatic expression used to convey a sense of surprise or sudden realization, with \"quand\" translated as \"when\". The sentence is in the present continuous tense, describing a general truth rather than a specific event."
+    },
+    {
+      "time": 37.451,
+      "text": "Quand il ne reste rien",
+      "translation": "When there is nothing left",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of finality, implying that when all options are exhausted, there will be no choice but to accept the situation. The phrase \"ne reste\" is an idiomatic way to express complete absence or depletion."
+    },
+    {
+      "time": 40.409,
+      "text": "Chante, chante encore",
+      "translation": "Sing, sing again",
+      "grammar": "The imperative mood is used to give a direct order or instruction, as in \"Chante\" and \"chante encore\", which means \"Sing\" and \"Sing again\". The repetition of the verb emphasizes the urgency or enthusiasm."
+    },
+    {
+      "time": 42.307,
+      "text": "Nah, nah-nah, nah-nah",
+      "translation": "Nah, nah-nah, nah-nah",
+      "grammar": "This interjection is an example of a repetitive phrase used to express strong emotions or emphasis, often in informal settings. The repeated \"nah\" particles convey a sense of insistence or negation."
+    },
+    {
+      "time": 45.265,
+      "text": "Nah-nah, nah-nah, nah-nah",
+      "translation": "Nah-nah, nah-nah, nah-nah",
+      "grammar": "This line is an interjection, used to express excitement or enthusiasm. The repetition of \"nahnah\" creates a rhythmic effect, emphasizing the emotional tone."
+    },
+    {
+      "time": 48.751,
+      "text": "Nah-nah nah, nah nah-nah",
+      "translation": "Nah-nah nah, nah nah-nah",
+      "grammar": "This line is an example of onomatopoeia, a figure of speech that imitates the sound it describes. The repeated \"nah\" sounds create a rhythmic effect, emphasizing the musical quality of the lyrics."
+    },
+    {
+      "time": 52.238,
+      "text": "Chante",
+      "translation": "Sung",
+      "grammar": "The verb \"chante\" is in the imperative mood, instructing someone to sing."
+    },
+    {
+      "time": 53.438,
+      "text": "Oublie tout",
+      "translation": "Forget everything",
+      "grammar": "This idiomatic expression uses the imperative mood to convey a sense of urgency, instructing someone to forget everything. Note that \"oubli\" is an impersonal verb form, equivalent to \"let someone else forget\"."
+    },
+    {
+      "time": 54.808,
+      "text": "Ce qu'on dit",
+      "translation": "What they say",
+      "grammar": "This idiomatic expression uses the impersonal pronoun \"on\" to refer to a general opinion or rumor, rather than specifying who is saying it. The phrase is often used to express skepticism or irony about what others are saying."
+    },
+    {
+      "time": 57.236,
+      "text": "Chante aussi (oh, ooh)",
+      "translation": "Sing too (oh, ooh)",
+      "grammar": "The phrase \"Chante aussi\" is an idiomatic expression meaning \"to join in\" or \"to participate\", using the imperative mood and the present tense to convey a sense of immediate action."
+    },
+    {
+      "time": 59.664,
+      "text": "Seulement pour le plaisir",
+      "translation": "Just for fun",
+      "grammar": "This idiomatic phrase uses the preposition \"pour\" to indicate purpose, rather than a literal meaning of \"for\". It is often used in informal settings to express enthusiasm or willingness."
+    },
+    {
+      "time": 62.092,
+      "text": "Chante comme tu respires, yeah, eh-eh",
+      "translation": "Sing like you breathe, yeah, eh-eh",
+      "grammar": "The phrase \"Chante comme tu respires\" uses the present tense to convey a sense of continuous action, emphasizing the natural and effortless quality of singing. The idiom \"comme tu respires\" means \"as naturally as you breathe\", implying that the singer's voice is as smooth and automatic as their breathing."
+    },
+    {
+      "time": 66.108,
+      "text": "Chante",
+      "translation": "Sung",
+      "grammar": "This interjection \"Chante\" is in the imperative mood, used to instruct or command someone to sing."
+    },
+    {
+      "time": 67.308,
+      "text": "Donne tout",
+      "translation": "Give it your all",
+      "grammar": "This idiomatic expression \"Donne tout\" is an imperative, instructing someone to fully commit and exert maximum effort."
+    },
+    {
+      "time": 68.677,
+      "text": "Tout, ouh-ouh",
+      "translation": "Everything, ooh-ooh",
+      "grammar": "The phrase \"Tout, ouh-ouh\" is an idiomatic expression used to convey enthusiasm or agreement, with the repeated \"ouh-ouh\" mimicking a childlike tone."
+    },
+    {
+      "time": 70.576,
+      "text": "Sans autre envie",
+      "translation": "Without any other desire",
+      "grammar": "This idiomatic expression uses the present participle sans to convey a sense of negation, equivalent to \"without\" in English."
+    },
+    {
+      "time": 72.474,
+      "text": "Que de rester debout",
+      "translation": "Rather than remaining standing",
+      "grammar": "This idiomatic phrase uses the subjunctive mood to express a hypothetical or uncertain situation, rather than stating a fact. The verb \"resting\" is in the imperfect subjunctive form \"debout\", indicating a state of being that is not necessarily realized."
+    },
+    {
+      "time": 74.902,
+      "text": "Ooh, non, non",
+      "translation": "Oh, no, no",
+      "grammar": "This interjection \"Ooh, non, non\" is an idiomatic expression used to convey strong negation or refusal, with the repeated \"non\" emphasizing the speaker's firm denial."
+    },
+    {
+      "time": 76.801,
+      "text": "Chante avec le désir d'y croire",
+      "translation": "Sing with the desire to believe",
+      "grammar": "The phrase \"d'y croire\" is an idiomatic expression meaning \"to believe in\" or \"to have faith in\", using the indirect object pronoun \"y\" to indicate the object of the verb \"croire\"."
+    },
+    {
+      "time": 80.817,
+      "text": "L'énergie du désespoir",
+      "translation": "The energy of despair",
+      "grammar": "This idiomatic phrase uses the noun \"énergie\" in an abstract sense, conveying a figurative force or power rather than its literal meaning. The phrase is often used to describe intense motivation or drive stemming from desperation or frustration."
+    },
+    {
+      "time": 83.245,
+      "text": "Oh, chante (derrière, oh)",
+      "translation": "Oh, sing (behind, oh)",
+      "grammar": "This interjection \"Oh\" is used to express surprise or emphasis, while the phrase \"chante derrière\" is an idiomatic expression meaning \"to sing behind someone's back\", implying a sense of secrecy or hidden action."
+    },
+    {
+      "time": 85.673,
+      "text": "Oublie tout",
+      "translation": "Forget everything",
+      "grammar": "This idiomatic expression uses the imperative mood to convey a sense of urgency, instructing someone to forget everything. Note that the verb \"oublier\" is in the second person singular form, agreeing with the implied recipient of the instruction."
+    },
+    {
+      "time": 87.042,
+      "text": "Tout ce que tu recherchais dans la vie",
+      "translation": "Everything you were looking for in life",
+      "grammar": "This idiomatic phrase uses the present perfect tense to convey a sense of completion or fulfillment, implying that everything one was searching for has been found. The pronoun \"tu\" is used to address the listener directly, creating an intimate and personal tone."
+    },
+    {
+      "time": 91.588,
+      "text": "Peut venir de la musique (okay)",
+      "translation": "It might come from the music (okay)",
+      "grammar": "The phrase \"peut venir\" is in the present subjunctive mood, used to express a hypothetical or uncertain situation. The idiom \"venir de la musique\" means \"to be inspired by\" or \"to get ideas from\"."
+    },
+    {
+      "time": 95.075,
+      "text": "Apprends à développer ton art",
+      "translation": "Learn to develop your art",
+      "grammar": "This phrase uses the imperative mood, instructing someone to take action. The verb \"apprends\" is in the second person singular form, addressing the listener directly and encouraging them to learn and develop their artistic skills."
+    },
+    {
+      "time": 98.032,
+      "text": "Alimenter l'esprit critique (right, right)",
+      "translation": "Fostering critical thinking (right, right)",
+      "grammar": "The phrase \"right, right\" is an idiomatic expression used to emphasize agreement or confirmation, similar to English phrases like \"you're absolutely right\" or \"I completely agree\". The repetition of \"right\" creates a sense of emphasis and solidarity."
+    },
+    {
+      "time": 101.519,
+      "text": "C'est beaucoup de travail (travail)",
+      "translation": "That's a lot of work.",
+      "grammar": "The phrase \"C'est beaucoup de travail\" is an idiomatic expression that uses the present tense to describe a general or habitual situation, rather than a specific action in progress. The pronoun \"c'est\" is used to indicate that the following noun (\"beaucoup de travail\") is the subject of the sentence."
+    },
+    {
+      "time": 105.006,
+      "text": "D'effort, de discipline (ouh)",
+      "translation": "Effort, discipline (ooh)",
+      "grammar": "The phrase \"d'effort, de discipline\" is an idiomatic expression that uses the preposition \"de\" to indicate a cause-and-effect relationship between effort and discipline. The use of \"d'\" instead of \"de\" is a common informal construction in French."
+    },
+    {
+      "time": 107.963,
+      "text": "Avant que je ne m'en aille devant sa porte (yeah)",
+      "translation": "Before I leave, I'll go to his door (yeah)",
+      "grammar": "The phrase \"ne m'en aille\" is an idiomatic expression indicating intention or decision, translated as \"I'll go\", using the future tense and the indirect pronoun \"en\" to emphasize leaving one's own place."
+    },
+    {
+      "time": 114.097,
+      "text": "Je m'incline",
+      "translation": "I bow down",
+      "grammar": "The phrase \"je m'incline\" is in the first person singular and uses the reflexive pronoun \"m'\" to indicate a sense of humility or surrender, conveying a tone of reverence."
+    },
+    {
+      "time": 115.996,
+      "text": "Ça, c'est, freedom, freedom",
+      "translation": "That's freedom, freedom",
+      "grammar": "The repeated use of \"freedom\" emphasizes its importance and creates a sense of urgency, similar to the English idiom \"that's it!\" or \"that's all!\", conveying a strong emotional tone."
+    },
+    {
+      "time": 118.953,
+      "text": "Chanter pour garder la liberté (yah-ouh, yah-ouh)",
+      "translation": "Singing to keep freedom (yah-ouh, yah-ouh)",
+      "grammar": "The phrase \"chanter pour\" is an idiomatic expression meaning \"to sing for a purpose\", rather than simply \"singing\". The use of \"pour\" implies the singer's intention to preserve or maintain something, in this case, freedom."
+    },
+    {
+      "time": 124.028,
+      "text": "Chanter aussi, car mon âme me permet d'exister",
+      "translation": "I also sing, because my soul allows me to exist.",
+      "grammar": "The phrase \"chanter aussi\" uses the informal \"tu\" form of the verb \"chanter\" with the pronoun \"moi\", indicating a first-person singular subject. This is an example of free indirect discourse, where the speaker's thoughts are presented directly without explicit quotation marks."
+    },
+    {
+      "time": 129.103,
+      "text": "Même à genoux",
+      "translation": "Even on my knees",
+      "grammar": "This idiomatic expression uses the adverb même to emphasize the speaker's willingness, conveying a sense of determination or perseverance."
+    },
+    {
+      "time": 131.002,
+      "text": "J'ai le stylo chargé",
+      "translation": "I have the pen charged",
+      "grammar": "The use of \"chargé\" instead of \"prêt\" or \"ready\" is an idiomatic expression in French, implying that the speaker has taken the initiative to prepare the pen for writing."
+    },
+    {
+      "time": 133.959,
+      "text": "Un seul mot d'ordre, pour mes frères et sœurs qui imitaient",
+      "translation": "One single watchword, for my brothers and sisters who were imitating",
+      "grammar": "The verb \"imitaient\" is in the imperfect tense, indicating ongoing or repeated action in the past. This usage is common in French to describe past actions that had a duration or frequency."
+    },
+    {
+      "time": 140.622,
+      "text": "Chante, oublie tout",
+      "translation": "Sing, forget everything",
+      "grammar": "This idiomatic phrase uses the imperative mood to convey a sense of urgency and encouragement. The verb \"chante\" is in the second person singular, addressing the listener directly."
+    },
+    {
+      "time": 142.521,
+      "text": "Sans autre envie",
+      "translation": "Without any other desire",
+      "grammar": "This idiomatic phrase uses the present participle sans to convey a sense of negation, equivalent to \"without\" in English. The verb envie is in the infinitive form, indicating a desire or longing."
+    },
+    {
+      "time": 144.42,
+      "text": "Que de rester debout",
+      "translation": "Rather than remaining standing",
+      "grammar": "This idiomatic expression uses the subjunctive mood to convey a sense of preference or suggestion, rather than making a statement. The phrase \"de rester\" is an infinitive construction indicating the preferred action."
+    },
+    {
+      "time": 146.848,
+      "text": "Quand la vie se perd en chemin",
+      "translation": "When life gets lost along the way",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a sense of ongoing or repeated experience, emphasizing the idea that life can become disoriented at any moment. The phrase \"se perd\" is an idiomatic way to say \"gets lost\", highlighting the impermanent and uncertain nature of life's journey."
+    },
+    {
+      "time": 150.864,
+      "text": "Quand il ne reste rien (eh-eh)",
+      "translation": "When there's nothing left (eh-eh)",
+      "grammar": "The use of \"ne\" in \"Quand il ne reste rien\" is a negation particle indicating the absence of something, rather than a contraction of \"n'y\" as it would be in other contexts. This usage is idiomatic and common in French."
+    },
+    {
+      "time": 154.88,
+      "text": "Chante (eh, eeh)",
+      "translation": "Sing (eh, eeh)",
+      "grammar": "This interjection \"Eh\" is a colloquialism used to seek agreement or confirmation from the listener, similar to saying \"right?\" or \"you know what I mean?\". The repeated use of \"Eh\" emphasizes the speaker's invitation to join in singing."
+    },
+    {
+      "time": 156.779,
+      "text": "Oublie tout (nah, nah-nah, nah-nah)",
+      "translation": "Forget everything (nah, nah-nah, nah-nah)",
+      "grammar": "The phrase \"oubli(e)\" is in the imperative mood, instructing the listener to forget something. The parenthetical \"(nah, nah-nah, nah-nah)\" is an idiomatic expression used to emphasize the sentiment, similar to saying \"forget everything, no question!"
+    },
+    {
+      "time": 160.795,
+      "text": "Nah-nah, nah-nah, nah-nah (quelques mots, avant tout)",
+      "translation": "Nah-nah, nah-nah, nah-nah (a few words, first of all)",
+      "grammar": "This line uses the idiomatic expression \"Nah-nah\" to convey a sense of playful or teasing tone, often used in informal spoken language. The phrase is not meant to be taken literally and serves as an interjection to grab attention rather than conveying specific meaning."
+    },
+    {
+      "time": 166.399,
+      "text": "Nah-nah, nah, nah-nah-nah",
+      "translation": "Nah-nah, nah, nah-nah-nah",
+      "grammar": "This line is an interjection, used to express excitement or emphasis, and its repetitive structure creates a sense of rhythm. The use of \"nah\" as a particle adds a playful touch, conveying the speaker's enthusiasm."
+    },
+    {
+      "time": 169.886,
+      "text": "Nah, nah-nah, nah-nah (chante encore)",
+      "translation": "Nah, nah-nah, nah-nah (sing again)",
+      "grammar": "This idiomatic expression uses the imperative mood to urge someone to continue singing, with the particle \"encore\" emphasizing the request."
+    },
+    {
+      "time": 173.902,
+      "text": "Nah-nah, nah-nah, nah-nah (oublie tout)",
+      "translation": "Nah-nah, nah-nah, nah-nah (forget it all)",
+      "grammar": "This line uses the idiomatic expression \"nach-nach\" to convey a sense of dismissal or rejection, equivalent to saying \"forget it all\". The repeated \"nah-nah\" is an interjection emphasizing the speaker's emotional tone."
+    },
+    {
+      "time": 178.448,
+      "text": "Nah-nah nah, nah nah-nah",
+      "translation": "Nah-nah nah, nah nah-nah",
+      "grammar": "This line is an example of onomatopoeia, a linguistic device that imitates the sound it describes. The repetition of \"nah\" creates a rhythmic effect, often used in music and poetry to convey emotions or moods."
+    },
+    {
+      "time": 181.935,
+      "text": "Oublie tout",
+      "translation": "Forget everything",
+      "grammar": "This idiomatic expression uses the imperative mood to convey a sense of urgency, instructing someone to forget everything. The verb \"oublier\" is in the second person singular form, agreeing with the implied recipient of the instruction."
+    },
+    {
+      "time": 183.304,
+      "text": "Nah, nah-nah, nah-nah (quelques mots)",
+      "translation": "Nah, nah-nah, nah-nah (a few words)",
+      "grammar": "The phrase \"Nah, nah-nah, nah-nah\" is an interjection, used to express a playful or dismissive tone. The use of \"quelques mots\" (a few words) in parentheses adds a touch of irony and humor to the overall sentiment."
+    },
+    {
+      "time": 187.32,
+      "text": "Nah-nah, nah-nah, nah-nah (avant tout)",
+      "translation": "Nah-nah, nah-nah, nah-nah (above all)",
+      "grammar": "This interjection \"Nah-nah\" is an idiomatic expression used to emphasize the speaker's strong agreement or confirmation, often with a playful tone. The repetition of \"nach\" creates a sense of rhythm and adds to its exclamatory effect."
+    },
+    {
+      "time": 191.866,
+      "text": "Nah-nah nah, nah nah-nah",
+      "translation": "Nah-nah nah, nah nah-nah",
+      "grammar": "This line is an example of onomatopoeia, a figure of speech that imitates the sound it describes. It does not convey grammatical information and can be used in various contexts to express excitement or playfulness."
+    },
+    {
+      "time": 195.353,
+      "text": "Nah, nah-nah, nah-nah (chante encore)",
+      "translation": "Nah, nah-nah, nah-nah (sing again)",
+      "grammar": "The phrase \"Nah, nah-nah, nah-nah\" is an interjection, used to express enthusiasm or encouragement. The sentence \"Chante encore\" is in the present imperative mood, urging someone to continue singing."
+    },
+    {
+      "time": 199.369,
+      "text": "Nah-nah, nah-nah, nah-nah (oublie tout)",
+      "translation": "Nah-nah, nah-nah, nah-nah (forget it all)",
+      "grammar": "This line uses the idiomatic expression \"nahnah\" to convey a sense of dismissal or rejection, equivalent to saying \"forget it all\", with no specific tense or mood indicated."
+    },
+    {
+      "time": 203.915,
+      "text": "Nah-nah nah, nah nah-nah",
+      "translation": "Nah-nah nah, nah nah-nah",
+      "grammar": "This line is an example of a musical interjection, often used to express joy or excitement. The repetition of \"nah\" creates a rhythmic effect, emphasizing the emotional tone rather than conveying specific information."
+    },
+    {
+      "time": 207.401,
+      "text": "Jusqu'au bout",
+      "translation": "Right to the end",
+      "grammar": "This idiomatic expression uses the preposition jusque meaning \"up to\" or \"as far as\", indicating a strong commitment to see something through to its conclusion."
+    }
+  ]
+}

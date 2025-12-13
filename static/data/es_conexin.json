@@ -1,0 +1,631 @@
+{
+  "id": "es_conexin",
+  "title": "Conexión",
+  "artist": "Foreign Teck feat. Justin Quiles, Jay Wheeler, Bryant Myers, Eladio Carrion & Tory Lanez",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_conexin.mp3",
+  "duration": 288,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Creo que cupido me flechó",
+      "translation": "I think Cupid shot me with his arrow",
+      "grammar": "This idiomatic expression uses the present tense to convey a hypothetical or unexpected event, and the phrase \"creo que\" is an informal way of expressing doubt or uncertainty."
+    },
+    {
+      "time": 1.804,
+      "text": "Lo que siento por ti ya se filtró",
+      "translation": "My feelings for you have already leaked",
+      "grammar": "The verb \"se filtró\" is in the preterite tense, indicating that the action of leaking has been completed before the present moment. The phrase \"ya se filtró\" also implies a sense of inevitability or irreversibility, similar to the English idiom \"the cat's out of the bag\"."
+    },
+    {
+      "time": 4.51,
+      "text": "To' el mundo sabe ya lo de nosotro'",
+      "translation": "Everyone already knows about us",
+      "grammar": "The phrase \"sabe ya\" is an idiomatic expression that combines the verb \"saber\" (to know) with the adverb \"ya\" (already), conveying a sense of certainty and universality, equivalent to saying \"it's common knowledge\"."
+    },
+    {
+      "time": 7.216,
+      "text": "Como tú ninguna y como yo no hay otro",
+      "translation": "There's no one like you, and no one else like me.",
+      "grammar": "The phrase \"como tú\" is an idiomatic expression used to emphasize the uniqueness of someone or something, similar to saying \"one-of-a-kind\". The verb \"hay\" is in the present tense, indicating a general truth."
+    },
+    {
+      "time": 10.222,
+      "text": "Yo quiero estar solo para ti, ma'",
+      "translation": "I want to be all yours, ma'",
+      "grammar": "The phrase \"quiero estar\" is in the present tense and expresses a desire or intention, using the verb \"querer\" in its first person singular form. The use of \"para ti\" implies possession and intimacy, making the sentence an idiomatic expression conveying romantic devotion."
+    },
+    {
+      "time": 12.627,
+      "text": "Tiene' toda' la' qualitie'",
+      "translation": "It has all the quality",
+      "grammar": "This line uses the present perfect tense to emphasize the completion of an action, and the idiomatic phrase \"toda la calidad\" is a figurative expression meaning \"all the qualities\" or \"the whole package\"."
+    },
+    {
+      "time": 14.131,
+      "text": "No hay necesidad de otra má', no voy a mentir",
+      "translation": "There's no need for another one, I'm not going to lie",
+      "grammar": "The phrase \"no voy a\" is an idiomatic expression indicating the speaker's intention or decision in the present tense, equivalent to saying \"I won't\"."
+    },
+    {
+      "time": 17.437,
+      "text": "Yo puedo tenerte muy bien",
+      "translation": "I can keep you very well.",
+      "grammar": "The phrase \"yo puedo\" is an informal way to express ability or capability in Spanish, equivalent to \"I can\" in English."
+    },
+    {
+      "time": 19.242,
+      "text": "Te compro zapato' y cartera y te monto en un Benz",
+      "translation": "I'll buy you shoes and a purse and put you in a Benz",
+      "grammar": "This line uses the informal second-person singular pronoun \"te\" to address someone, which is common in spoken language. The phrase \"Te compro...\" also employs the future tense with the verb \"comprar\", indicating an intention or promise."
+    },
+    {
+      "time": 22.849,
+      "text": "Yo quiero estar solo para ti, ma'",
+      "translation": "I want to be all yours, ma'",
+      "grammar": "The phrase \"quiero estar\" is in the present tense and expresses a desire or intention, using the verb \"querer\" in its typical sense of wanting. The use of \"para ti\" implies possession, making it an idiomatic expression equivalent to \"all yours\"."
+    },
+    {
+      "time": 25.254,
+      "text": "Solamente para ti, esto' lo que quieren e' bajarte el panty (Ja)",
+      "translation": "Just for you, this is what they want, to pull down your panties (Ha)",
+      "grammar": "The phrase \"esto' lo que quieren\" uses the informal \"vosotros\" form of the verb \"querer\", indicating a colloquial or familiar tone. The sentence also employs an idiomatic expression, where \"bajarte el panty\" is a euphemistic way to say someone wants to undress you."
+    },
+    {
+      "time": 29.162,
+      "text": "Tiеne' que cortarme a to' lo' friеnds",
+      "translation": "Tiеne' que cortarme a to' lo' friеs",
+      "grammar": "The phrase \"tiene que\" is an idiomatic expression meaning \"has to\" or \"must\", indicating obligation in the present tense. The use of \"cortarme\" (to cut) and \"amigos\" (friends) implies a figurative cutting off, rather than literal action."
+    },
+    {
+      "time": 31.567,
+      "text": "Tranquila, que yo le corto a to'a esta' puta' también",
+      "translation": "Don't worry, I'll cut all these bitches off too.",
+      "grammar": "The phrase \"tranquila\" is an interjection used to convey a sense of calmness or reassurance, often employed in informal settings. Note that the speaker's tone and intention are likely to be ironic, as the subsequent statement contradicts the calming effect."
+    },
+    {
+      "time": 35.174,
+      "text": "Creo que me envolví, no sé cómo pasó",
+      "translation": "I think I got involved, I don't know how it happened",
+      "grammar": "The use of \"me\" in \"Creo que me envolví\" is an example of the reflexive pronoun being used to indicate the subject's involvement or participation in the action, rather than its direct object. This construction is common in Spanish and can be translated to English as \"I got involved\"."
+    },
+    {
+      "time": 37.88,
+      "text": "Lo que me hace' sentir no lo había sentido",
+      "translation": "What it makes me feel, I've never felt before.",
+      "grammar": "The phrase \"no lo había sentido\" is in the past perfect tense, indicating that the feeling described has a connection to a previous event or experience."
+    },
+    {
+      "time": 40.886,
+      "text": "Un enchule como novio' de décimo",
+      "translation": "A crush as a boyfriend of tenth grade",
+      "grammar": "This idiomatic expression uses the present tense to describe a past experience, employing the colloquialism \"como\" to compare an unrequited love to a typical high school boyfriend."
+    },
+    {
+      "time": 42.991,
+      "text": "La' cosa' que hacemo' nunca la' decimo'",
+      "translation": "We never tell the things we do.",
+      "grammar": "This line uses the informal verb form \"hacemo'\" instead of the formal \"hacen\" to emphasize the speaker's personal involvement, creating a sense of intimacy and informality. The use of the imperfect tense \"nunca la' decimo'\" also adds to the conversational tone, implying that the speaker is sharing their own experiences rather than making a general statement."
+    },
+    {
+      "time": 45.396,
+      "text": "Estás muy dentro de mí",
+      "translation": "You are deep inside me",
+      "grammar": "The phrase \"Estás muy dentro de mí\" uses the present tense (estar) to express a temporary emotional state, and the idiomatic expression \"estar dentro de alguien\" means being deeply connected or in tune with someone."
+    },
+    {
+      "time": 47.2,
+      "text": "Mami (Mami), I got you (Got you)",
+      "translation": "Mami (Mami), I got you (Got you)",
+      "grammar": "The use of \"(Mami)\" and \"(Got you)\" is an example of a parenthetical expression, which is a common idiomatic way to add emphasis or affection in spoken language. The repetition of the phrase \"got you\" also conveys a sense of reassurance and intimacy."
+    },
+    {
+      "time": 49.605,
+      "text": "Only (Only), seré tuyo",
+      "translation": "Only, I will be yours",
+      "grammar": "The phrase \"seré tuyo\" is in the future tense, indicating a promise or commitment to be someone's possession. The use of \"seré\" instead of \"soy\" emphasizes the future aspect and creates a sense of anticipation or expectation."
+    },
+    {
+      "time": 51.109,
+      "text": "Ese infeli' te dejó solita",
+      "translation": "That jerk left you all alone",
+      "grammar": "The phrase \"ese infeli'\" is an idiomatic expression used to emphasize the speaker's negative opinion about someone, with \"ese\" being a colloquial intensifier equivalent to \"that darn\" or \"that stupid\"."
+    },
+    {
+      "time": 52.913,
+      "text": "Dile que ahora yo 'toy aquí, no lo necesita'",
+      "translation": "Tell him that I'm here now, he doesn't need it.",
+      "grammar": "The phrase \"toy aquí\" is an idiomatic expression meaning \"I'm here now\", using the present continuous tense to convey a sense of immediacy."
+    },
+    {
+      "time": 55.919,
+      "text": "Tu cuerpo con mi cuerpo tienen una conexión",
+      "translation": "Your body and my body have a connection",
+      "grammar": "The phrase \"tienen una conexión\" is in the present tense, emphasizing the ongoing nature of the connection between two people. The use of \"tienen\" instead of \"tiene\" (singular) highlights the unity and togetherness implied by the connection."
+    },
+    {
+      "time": 58.625,
+      "text": "Contigo e' que yo siento ese vibe",
+      "translation": "With you I feel that vibe",
+      "grammar": "The phrase \"Contigo e' que\" uses the informal \"tú\" form of the verb \"ser\" to express a subjective opinion, indicating a close relationship between the speaker and the listener. The use of \"e'\" instead of \"es\" is an idiomatic expression meaning \"with you\"."
+    },
+    {
+      "time": 61.03,
+      "text": "Por ti a to'a esta' puta' le' digo \"bye\" (Bye, bye, bye)",
+      "translation": "For you, I say \"bye\" to all these bitches (Bye, bye, bye)",
+      "grammar": "The phrase \"por ti\" is an idiomatic expression meaning \"for your sake\" or \"because of you\", using the informal \"tú\" form to emphasize a personal connection."
+    },
+    {
+      "time": 65.238,
+      "text": "Hablándote claro, no sé bien cómo expresar lo que me está pasando",
+      "translation": "To be honest, I don't really know how to express what's happening to me.",
+      "grammar": "This sentence uses the present tense (hablándote) and the verb phrase \"no sé bien\" in a idiomatic expression meaning \"to be honest\"."
+    },
+    {
+      "time": 69.146,
+      "text": "Pero lo que sé e' que solo e' contigo (Contigo)",
+      "translation": "But what I know is that it's only with you (With you)",
+      "grammar": "The phrase \"lo que sé\" is a present tense expression meaning \"what I know now\", emphasizing the speaker's current understanding. The use of \"e'\" instead of \"es\" is an idiomatic way to indicate possession or existence in Spanish, equivalent to saying \"it's\"."
+    },
+    {
+      "time": 72.453,
+      "text": "Solamente me pasa contigo (Contigo)",
+      "translation": "It only happens with you (With you)",
+      "grammar": "The phrase \"solamente me pasa\" is an idiomatic expression indicating a special or unique connection, implying that the speaker's emotions or experiences are exclusive to this person."
+    },
+    {
+      "time": 74.257,
+      "text": "Y si te estoy mintiendo que me castigue Dio'",
+      "translation": "And if I'm lying to you, may God punish me.",
+      "grammar": "The phrase \"si te estoy\" is a colloquial way of saying \"if I were lying to you\", using the present continuous tense to express a hypothetical situation. This construction is an informal idiom in Spanish."
+    },
+    {
+      "time": 77.263,
+      "text": "Hablándote claro, no sé bien cómo expresar lo que me está pasando",
+      "translation": "To be honest, I don't really know how to express what's happening to me.",
+      "grammar": "This sentence uses the present continuous tense (hablándote) to convey a sense of ongoing uncertainty, and the phrase \"no sé bien\" is an idiomatic expression meaning \"to be honest\"."
+    },
+    {
+      "time": 81.171,
+      "text": "Pero lo que sé e' que solo e' contigo (Contigo)",
+      "translation": "But what I know is that it's only with you (With you)",
+      "grammar": "The phrase \"lo que sé\" is an idiomatic expression meaning \"what I know\", using the present tense to convey a sense of certainty. The verb \"sé\" agrees with the subject \"yo\" in the first person singular."
+    },
+    {
+      "time": 84.478,
+      "text": "Solamente me pasa contigo (Contigo)",
+      "translation": "It only happens with you (With you)",
+      "grammar": "The phrase \"Solamente me pasa\" is an idiomatic expression indicating a special or unique connection between the speaker and someone else, conveyed through the use of the verb \"pasa\" in the present tense to emphasize the ongoing nature of this feeling."
+    },
+    {
+      "time": 86.282,
+      "text": "Flipeando taquilla pa' comprarte diseñador",
+      "translation": "Flipping the box office to buy yourself a designer outfit",
+      "grammar": "The phrase \"comprarte\" is an informal way of saying \"to buy yourself\" in Spanish, using the reflexive pronoun \"te\" and the verb \"comprar\" in the indirect object form. This construction is often used in colloquial language to express self-gifting or indulgence."
+    },
+    {
+      "time": 88.086,
+      "text": "Tú quería' Loui, Ferragamo, lo mejor",
+      "translation": "You wanted, Loui, Ferragamo, the best",
+      "grammar": "The use of \"quería'\" instead of \"querías\" (the expected verb conjugation) is an informal, colloquial expression typical in spoken Spanish, emphasizing the speaker's desire or intention."
+    },
+    {
+      "time": 90.191,
+      "text": "Contigo yo estaba Nicky Jam, flow Ganador",
+      "translation": "I was with you, Nicky Jam, winning flow",
+      "grammar": "The phrase \"yo estaba\" is a colloquial way to express past tense in Spanish, equivalent to \"I was\" in English. This construction is often used in informal speech and song lyrics to convey a sense of intimacy or nostalgia."
+    },
+    {
+      "time": 92.596,
+      "text": "Ahora pa' olvidarte la' Oxy con Panadol, la' bajé con alcohol",
+      "translation": "Now to forget the Oxy with Panadol, I washed them down with alcohol",
+      "grammar": "The phrase \"la' bajé\" is an informal way of saying \"I drank\" in the past tense, using the verb \"bajé\" (drank) and the pronoun \"la'\" as a colloquialism for \"me\"."
+    },
+    {
+      "time": 96.203,
+      "text": "Mañana no quiero despertar",
+      "translation": "I don't want to wake up tomorrow.",
+      "grammar": "The phrase \"mañana\" is an adverb indicating a future time, equivalent to \"tomorrow\". Note that the verb \"querer\" is in the present tense, expressing a desire or intention for the future."
+    },
+    {
+      "time": 97.707,
+      "text": "No me juegue', ma', por favor",
+      "translation": "Don't play with me, ma', please",
+      "grammar": "The phrase \"No me juegue'\" is an imperative sentence in the negative mood, using the second person singular \"tú\" (you) and the present tense to express a request. The idiom \"ma'\" is an affectionate term used to address someone, similar to \"honey\" or \"sweetheart\"."
+    },
+    {
+      "time": 99.811,
+      "text": "Que ya yo no te quiero besar",
+      "translation": "I don't want to kiss you anymore",
+      "grammar": "The phrase \"ya\" is an adverb indicating a completed action, used to emphasize the speaker's decision not to continue kissing. It can be translated as \"already\" or \"no longer\"."
+    },
+    {
+      "time": 102.217,
+      "text": "Si tu' labio' son de otro (Otro)",
+      "translation": "If your lips belong to someone else (Someone else)",
+      "grammar": "This line uses the present tense and the conditional mood to express a hypothetical situation, while the phrase \"son de otro\" is an idiomatic expression meaning \"belong to someone else\"."
+    },
+    {
+      "time": 104.622,
+      "text": "Dime qué pasó entre nosotro' (Nosotro')",
+      "translation": "Tell me what happened between us (Us)",
+      "grammar": "The use of \"nosotro'\" and \"(Nosotro')\" indicates the informal, familiar form of \"we\" or \"us\", which is often used with friends or family in Spanish. This is an example of a pronoun's agreement with its context, switching from formal to informal depending on the relationship."
+    },
+    {
+      "time": 106.726,
+      "text": "Yo peleando con mi' demonio'",
+      "translation": "Me fighting with my demon",
+      "grammar": "This line uses the present participle \"peleando\" to convey a sense of ongoing struggle, and the idiomatic expression \"con mi' demonio\" is an informal way to express internal conflict."
+    },
+    {
+      "time": 108.531,
+      "text": "Ahí fue que empezaste a ver lo' mostro' (Mostro')",
+      "translation": "That's when you started to see the monsters (Monsters)",
+      "grammar": "The phrase \"Ahí fue\" is an idiomatic expression indicating a turning point or a moment of realization, using the preterite tense to convey a sense of completed action."
+    },
+    {
+      "time": 111.537,
+      "text": "Si tu' labio' son de otro (Otro)",
+      "translation": "If your lips belong to someone else (Someone else)",
+      "grammar": "This line uses the present tense of the conditional clause \"si\" (\"if\") to express a hypothetical situation, and the possessive pronoun \"tu'\" agrees with the noun \"labio'\"."
+    },
+    {
+      "time": 113.942,
+      "text": "Dime qué pasó entre nosotro' (Nosotro')",
+      "translation": "Tell me what happened between us (Us)",
+      "grammar": "The use of \"nosotro'\" instead of \"nosotros\" is an informal, colloquialism, typical in spoken Spanish, and indicates a sense of intimacy or familiarity."
+    },
+    {
+      "time": 116.047,
+      "text": "Yo peleando con mi' demonio'",
+      "translation": "Me fighting with my demon",
+      "grammar": "This line uses the present participle \"peleando\" to convey a sense of ongoing struggle, emphasizing the speaker's current emotional state. The phrase \"con mi' demonio\" is an idiomatic expression meaning \"with my inner turmoil\" rather than literally \"with my demon\"."
+    },
+    {
+      "time": 117.851,
+      "text": "Ahí fue que empezaste a ver lo' monstruo' (Monstruo')",
+      "translation": "That's when you started to see the monsters (Monsters)",
+      "grammar": "The use of \"fue\" in \"Ahí fue\" indicates the past perfect tense, implying that the speaker's perception of the monster was a result of something that happened before. This construction is an example of the Spanish idiomatic expression \"fue cuando,\" which translates to \"it was when."
+    },
+    {
+      "time": 120.857,
+      "text": "Yo quiero estar solo para ti, ma'",
+      "translation": "I want to be all yours, ma'",
+      "grammar": "The phrase \"quiero estar\" is in the present tense and expresses a desire or intention, using the verb \"querer\" in its first person singular form. The idiomatic expression \"estar solo para ti\" means \"to be all yours\"."
+    },
+    {
+      "time": 123.262,
+      "text": "Tiene' toda' la' qualitie'",
+      "translation": "It has all the quality",
+      "grammar": "This line uses the present perfect tense to emphasize the permanent nature of the speaker's qualities, and the idiomatic expression \"toda la\" means \"all\" in a figurative sense."
+    },
+    {
+      "time": 124.766,
+      "text": "No hay necesidad de otra má', no voy a mentir",
+      "translation": "There's no need for another one, I'm not going to lie",
+      "grammar": "The phrase \"no voy a\" is an idiomatic expression indicating future action in the present tense, equivalent to \"I won't\" or \"I am not going to\"."
+    },
+    {
+      "time": 128.073,
+      "text": "Yo puedo tenerte muy bien",
+      "translation": "I can keep you very well.",
+      "grammar": "The phrase \"yo puedo\" is an informal way of saying \"I can\" in Spanish, using the first person singular subject pronoun \"yo\" instead of the more formal \"yo puedo tener\". This construction is common in spoken language and informal writing."
+    },
+    {
+      "time": 129.877,
+      "text": "Te compro zapato' y cartera y te monto en un Benz",
+      "translation": "I'll buy you shoes and a purse and put you in a Benz",
+      "grammar": "The phrase \"te monto\" is an informal way of saying \"I'll take you somewhere\" or \"I'll get you there\", using the verb \"montar\" in the future tense, which implies a sense of willingness to help someone."
+    },
+    {
+      "time": 133.484,
+      "text": "Yo quiero estar solo para ti, ma'",
+      "translation": "I want to be all yours, ma'",
+      "grammar": "The phrase \"quiero estar\" is in the present tense and expresses a desire or intention, using the verb \"querer\" in the first person singular. The use of \"para ti\" implies a possessive idiom, conveying exclusive possession."
+    },
+    {
+      "time": 135.889,
+      "text": "Solamente para ti, esto' lo que quieren e' bajarte el panty (Ja)",
+      "translation": "Just for you, this is what they want, to pull down your panties (Ha)",
+      "grammar": "The phrase \"esto' lo que quieren\" uses the informal verb form \"quieren\" and the pronoun \"esto'\" to convey a sense of intimacy and familiarity, typical in colloquial Spanish."
+    },
+    {
+      "time": 139.797,
+      "text": "Tiene' que cortarme a to' lo' friends",
+      "translation": "You have to cut all my friends off",
+      "grammar": "This line uses the informal second-person singular command form \"tienes que\" (you have to) in the present tense, with the colloquial particle \"'que'\" and the idiomatic expression \"cortarme a\" meaning \"to cut off\"."
+    },
+    {
+      "time": 142.202,
+      "text": "Tranquila, que yo le corto a to'a esta' puta' también",
+      "translation": "Don't worry, I'll cut all these bitches off too.",
+      "grammar": "The phrase \"tranquila\" is an interjection used to convey a sense of calmness or reassurance, often employed in informal settings. The use of the verb \"cortar\" (to cut) in the idiomatic expression \"le corto\" implies a figurative cutting off, rather than a literal one."
+    },
+    {
+      "time": 145.809,
+      "text": "Yo sé que ha pasa'o tiempo y lo siento (Siento)",
+      "translation": "I know it's been a while and I'm sorry (I'm sorry)",
+      "grammar": "The phrase \"lo siento\" is an idiomatic expression meaning \"I'm sorry\", using the verb \"sentir\" in its emotional sense, rather than its literal physical meaning."
+    },
+    {
+      "time": 149.417,
+      "text": "Lo que sé e' que 'tamo en nuestro momento (-mento)",
+      "translation": "What I know is that we're in our moment",
+      "grammar": "The phrase \"tamo\" is an informal, colloquial verb form used to emphasize the present moment, equivalent to \"we're\" or \"we're in\". This usage is typical of spoken language and adds a sense of immediacy to the lyrics."
+    },
+    {
+      "time": 152.723,
+      "text": "To'a la' vece' que peleamo' lo lamento (mento)",
+      "translation": "To'a la' vece' que peleamo' lo lamento (mento)",
+      "grammar": "This line is an idiomatic expression, using the present tense to describe a past action (\"peleamo'\" means \"we fought\" in the past), with the verb \"lamentar\" (to lament) in the present tense, creating a sense of ongoing regret."
+    },
+    {
+      "time": 155.73,
+      "text": "Baby, si yo no te tengo, me atormento (mento)",
+      "translation": "Baby, if I don't have you, I'm tormented.",
+      "grammar": "The phrase \"me atormento\" is an idiomatic expression indicating the speaker's emotional state in the present tense, using the verb \"atormentar\" to convey intense suffering."
+    },
+    {
+      "time": 158.736,
+      "text": "Y pose' te hice como doce",
+      "translation": "And I posed like twelve times",
+      "grammar": "The phrase \"como doce\" is an idiomatic expression meaning \"twelve times\", using the noun \"doce\" (twelve) as if it were a verb, indicating repeated actions."
+    },
+    {
+      "time": 160.84,
+      "text": "Tú viste la luna y le gritaste voce'",
+      "translation": "You saw the moon and shouted 'voce' to it",
+      "grammar": "The verb \"viste\" is in the preterite tense, indicating a completed action in the past. The phrase \"le gritaste\" uses the indirect object pronoun \"le\" to address the moon, followed by the verb \"gritaste\", which is an idiomatic expression meaning to shout or call out to someone/something."
+    },
+    {
+      "time": 163.546,
+      "text": "Baby, esta noche anotamo' doble",
+      "translation": "Baby, tonight we're scoring double",
+      "grammar": "The phrase \"esta noche\" is a common idiomatic expression in Spanish, equivalent to \"tonight\" in English. It's used to indicate the present moment or the near future, and its use implies a sense of urgency or excitement."
+    },
+    {
+      "time": 165.35,
+      "text": "Y toda' la' que faltan, eso si no lo sé",
+      "translation": "And all the ones that are missing, that I don't know.",
+      "grammar": "The phrase \"eso si\" is an idiomatic expression used to emphasize a negative statement, equivalent to \"I'm not sure\" or \"I don't know for sure\". The verb \"sé\" is in the present tense, indicating a general truth about the speaker's knowledge."
+    },
+    {
+      "time": 168.657,
+      "text": "Te juro que desde que tú llegaste le'",
+      "translation": "I swear that since you arrived he'",
+      "grammar": "The phrase \"te juro\" is an idiomatic expression meaning \"I swear\", and the use of the preposition \"desde\" indicates a temporal relationship, implying the speaker's actions or feelings began at the moment of the listener's arrival."
+    },
+    {
+      "time": 171.363,
+      "text": "Picha'o a to'a la' babie' por ti (Por ti; ja)",
+      "translation": "Picha'o a to'a la' babie' por ti (Por ti; ja)",
+      "grammar": "This line is an informal expression of affection, using the verb \"picha'o\" in the present tense to convey intimacy and familiarity. The phrase \"por ti\" is an idiomatic way to express devotion or loyalty."
+    },
+    {
+      "time": 175.27,
+      "text": "Y yo no era de amarrame, pero no voy a negar que contigo me envolví",
+      "translation": "And I wasn't one to get attached, but I won't deny that I got involved with you.",
+      "grammar": "The use of \"me envolví\" in the present tense indicates a past experience or action is being described, which is a common way to express regret or nostalgia in Spanish."
+    },
+    {
+      "time": 180.08,
+      "text": "Lo bueno lo quiere to' el mundo y por eso te celo (Celo)",
+      "translation": "Everyone wants what's good, and that's why I'm jealous of you (Jealousy)",
+      "grammar": "The phrase \"lo bueno\" is an idiomatic expression meaning \"what's good\", using the definite article \"lo\" to emphasize the positive aspect."
+    },
+    {
+      "time": 184.288,
+      "text": "Ante' tenía el corazón frío como hielo",
+      "translation": "Ante' had a heart as cold as ice.",
+      "grammar": "The phrase \"Ante' tenía\" is in the preterite tense, indicating an action completed before another action in the past. The use of \"ante'\" is an idiomatic expression meaning \"before\" or \"prior to\", implying that the speaker's heart was cold at some point in their past."
+    },
+    {
+      "time": 186.693,
+      "text": "Pero desde que lo hicimo' a la' otra' la' cancelo",
+      "translation": "But since we did it, I'm canceling the other ones.",
+      "grammar": "The use of \"hicimo'\" and \"la' otra' la'\" is an informal, colloquial expression indicating a completed action in the past, similar to \"since we've done it\" or \"after we finished it\"."
+    },
+    {
+      "time": 190.0,
+      "text": "Extraño cuando despertaba y tu ropa",
+      "translation": "I miss waking up and seeing your clothes",
+      "grammar": "The verb \"despertaba\" is in the imperfect tense, indicating a habitual or repeated action in the past. The phrase \"Extraño cuando\" can be translated as \"I miss when\", using the idiomatic expression to convey a sense of longing for a past time or situation."
+    },
+    {
+      "time": 192.105,
+      "text": "Estaba en el suelo, yeah-yeah (Ja; yeah-yeah)",
+      "translation": "I was on the ground, yeah-yeah (Ha; yeah-yeah)",
+      "grammar": "The use of \"estaba\" in the past imperfect tense indicates a ongoing or continuous action at the time being described, emphasizing the speaker's situation. The \"yeah-yeah\" interjections are an idiomatic expression used to add emphasis and rhythm to the lyrics."
+    },
+    {
+      "time": 195.111,
+      "text": "A ti ninguna te supera (-pera)",
+      "translation": "No one can beat you (-pear)",
+      "grammar": "The phrase \"ninguna\" is an indefinite pronoun in the feminine singular form, agreeing with the direct object \"ti\", emphasizing that no woman can surpass you. The use of \"-pera\" as a suffix to create the idiomatic expression \"no one can beat you\" is a common way to express superiority or excellence in Spanish."
+    },
+    {
+      "time": 197.215,
+      "text": "Pa' mí tú siempre será' la primera (-mera)",
+      "translation": "For me you will always be the first (-mera)",
+      "grammar": "The phrase \"pa' mí\" is an idiomatic expression meaning \"for me\", using the preposition \"pa'\" and the pronoun \"mí\". This construction indicates a subjective opinion or personal perspective, emphasizing the speaker's emotional attachment."
+    },
+    {
+      "time": 199.921,
+      "text": "No vo'a dejar que lo nuestro se muera (Ja), yeah-yeah (Yeah-yeah)",
+      "translation": "I'm not going to let what we have die (Ha), yeah-yeah (Yeah-yeah)",
+      "grammar": "The phrase \"no va a\" is an idiomatic expression meaning \"I'm not going to\", using the present continuous tense to convey determination."
+    },
+    {
+      "time": 204.43,
+      "text": "A ti ninguna te supera (-pera)",
+      "translation": "No one can beat you (-pear)",
+      "grammar": "The phrase \"A ti ninguna\" is an idiomatic expression meaning \"no one\", using the preposition \"a\" to indicate the direct object, rather than the more literal translation \"to you\"."
+    },
+    {
+      "time": 206.535,
+      "text": "Pa' mí tú siempre serás la primera (-mera)",
+      "translation": "For me you will always be the first (-mera)",
+      "grammar": "The phrase \"pa' mí\" is an idiomatic expression meaning \"for me\", used to emphasize a personal perspective, and its usage implies a subjective opinion. The verb \"serás\" remains in the future tense, indicating a permanent or lasting quality."
+    },
+    {
+      "time": 209.24,
+      "text": "No vo'a dejar que lo nuestro se muera, ah",
+      "translation": "I'm not going to let what we have die, ah",
+      "grammar": "The phrase \"no va a\" is an idiomatic expression meaning \"I'm not going to\". It's used to express determination or refusal, and the verb \"dejar\" is in the present tense, indicating a habitual or ongoing action."
+    },
+    {
+      "time": 212.547,
+      "text": "And I would give the world for you, baby",
+      "translation": "And I would give the world for you, baby",
+      "grammar": "This idiomatic expression uses the first conditional to express a hypothetical situation and its potential outcome. The phrase \"I would give\" is an idiom that conveys strong affection or willingness."
+    },
+    {
+      "time": 215.553,
+      "text": "I cannot think about ever curvin' you, baby",
+      "translation": "I cannot think about ever curvin' you, baby",
+      "grammar": "This line uses the present tense to express a general inability or unwillingness to think about something, rather than describing an ongoing action. The phrase \"curvin'\" is likely an informal idiom for flirting or being romantic with someone."
+    },
+    {
+      "time": 218.259,
+      "text": "You got that cinnamon with the swirl for me, baby",
+      "translation": "You got that cinnamon with the swirl for me, baby",
+      "grammar": "This line uses the present perfect tense (\"got\") to express a completed action in the recent past, and the idiomatic phrase \"for me\" implies a sense of personal favor or indulgence."
+    },
+    {
+      "time": 221.566,
+      "text": "Let's get it poppin',",
+      "translation": "Let's get it poppin',",
+      "grammar": "This idiom \"get something poppin'\" is an informal expression meaning to make something exciting or lively, often used in spoken English. The present continuous tense (\"getting\") emphasizes the idea of starting or initiating the action."
+    },
+    {
+      "time": 223.37,
+      "text": "I got a spot in the crib, put on the shower and hop in",
+      "translation": "I got a spot in the crib, put on the shower and hop in",
+      "grammar": "This informal expression uses the present perfect tense to convey a sense of recent action, with \"got\" implying a quick or easy achievement. The phrase \"put on the shower\" is an idiomatic way to describe getting ready for something, rather than literally taking a shower."
+    },
+    {
+      "time": 227.879,
+      "text": "I'm tryna make your day (Make your day)",
+      "translation": "I'm tryna make your day (Make your day)",
+      "grammar": "This line uses the informal expression \"tryna\" to indicate an attempt or intention, which is a common idiom in spoken English. The verb phrase \"make your day\" is in the present tense and has a casual, conversational tone."
+    },
+    {
+      "time": 230.885,
+      "text": "I pull up on you like mami: \"¿Qué lo que?\" (¿Qué lo que?)",
+      "translation": "I pull up on you like mami: \"What's up?\" (What's up?)",
+      "grammar": "The phrase \"pull up\" is an idiomatic expression meaning to approach or arrive, often in a casual manner. The use of \"mami\" as a term of endearment and the repetition of \"¿Qué lo que?\" (\"What's up?\") creates a playful, informal tone."
+    },
+    {
+      "time": 235.093,
+      "text": "Givin' it to you, you couldn't stay away",
+      "translation": "Givin' it to you, you couldn't stay away",
+      "grammar": "The use of the present participle \"givin'\" in this phrase is an informal idiom, conveying a sense of spontaneity and intimacy. The sentence's tense remains present, emphasizing the speaker's ongoing action."
+    },
+    {
+      "time": 238.099,
+      "text": "And I couldn't stay away neither",
+      "translation": "And I couldn't stay neither away",
+      "grammar": "The use of \"neither\" here is an idiom, equivalent to \"nor\". It's a negation phrase used in the same way as \"not only... but also\" to indicate two contrasting actions or states."
+    },
+    {
+      "time": 240.504,
+      "text": "I wasn't playin' you neither, I'll be prayin' that you see it my way",
+      "translation": "I wasn't playin' you neither, I'll be prayin' that you see it my way",
+      "grammar": "The phrase \"neither\" is used to indicate negation of a negative statement, emphasizing the speaker's refusal to engage in something. This idiomatic expression is often used in informal spoken language to convey strong disagreement or opposition."
+    },
+    {
+      "time": 245.614,
+      "text": "Yo quiero estar solo para ti, ma'",
+      "translation": "I want to be all yours, ma'",
+      "grammar": "The phrase \"quiero estar\" is in the present tense and expresses a desire or intention, using the verb \"querer\" in its first person singular form. The use of \"para ti\" implies an idiomatic expression meaning \"all for you\" or \"entirely yours\"."
+    },
+    {
+      "time": 248.019,
+      "text": "Tiene' toda' la' qualitie'",
+      "translation": "It has all the quality",
+      "grammar": "This line illustrates the use of the present perfect tense (Tiene) to describe an action that started in the past and continues up to the moment of speaking, conveying a sense of completeness or fulfillment. The idiomatic expression \"toda la calidad\" is equivalent to \"all the quality\", emphasizing the speaker's possession of desirable traits."
+    },
+    {
+      "time": 249.523,
+      "text": "No hay necesidad de otra má', no voy a mentir",
+      "translation": "There's no need for another one, I'm not going to lie",
+      "grammar": "The phrase \"no voy a\" is an idiomatic expression indicating future negation, equivalent to \"I won't\"."
+    },
+    {
+      "time": 252.83,
+      "text": "Yo puedo tenerte muy bien",
+      "translation": "I can keep you very well.",
+      "grammar": "This informal phrase uses the present tense to express ability and willingness, with a colloquial tone conveyed by the use of \"yo\" instead of formal \"yo soy capaz de\"."
+    },
+    {
+      "time": 254.634,
+      "text": "Te compro zapato' y cartera y te monto en un Benz",
+      "translation": "I'll buy you shoes and a purse and put you in a Benz",
+      "grammar": "This line uses the informal second-person singular verb form \"te\" to address the listener, indicating a close relationship. The phrase \"Te compro\" is an idiomatic expression meaning \"I'll treat you\"."
+    },
+    {
+      "time": 258.241,
+      "text": "Yo quiero estar solo para ti, ma'",
+      "translation": "I want to be all yours, ma'",
+      "grammar": "The phrase \"quiero estar\" is in the present tense and expresses a desire or intention, using the verb \"querer\" (to want) in its first person singular form. The use of \"para ti\" implies possession and intimacy, making the sentence an idiomatic expression conveying affection."
+    },
+    {
+      "time": 260.646,
+      "text": "Solamente para ti, esto' lo que quieren e' bajarte el panty (Ja)",
+      "translation": "Just for you, this is what they want, to pull down your panties (Ha)",
+      "grammar": "The phrase \"esto' lo que quieren\" uses the informal verb form \"quieren\" and the pronoun \"esto'\" to convey a sense of intimacy and familiarity, typical in colloquial Spanish."
+    },
+    {
+      "time": 264.554,
+      "text": "Tiene' que cortarme a to' lo' friends",
+      "translation": "You have to cut all my friends off",
+      "grammar": "The phrase \"Tiene' que\" is an informal way of saying \"has to\" or \"must\", using the present tense and the verb tener (to have) in the third person singular, which is a common colloquialism in Spanish."
+    },
+    {
+      "time": 266.959,
+      "text": "Tranquila, que yo le corto a to'a esta' puta' también (Puta' también)",
+      "translation": "Don't worry, I'll cut all these bitches off too (Bitches too)",
+      "grammar": "The phrase \"tranquila\" is an interjection used to soften the tone of the sentence, while \"yo le corto a to'a esta' puta' también\" employs the informal second-person singular verb form \"cortar\" and the idiomatic expression \"puta' también\", which means \"bitches too\", conveying a sense of defiance."
+    },
+    {
+      "time": 271.167,
+      "text": "(Hablándote claro, no sé bien cómo expresar lo que está pasando)",
+      "translation": "(To be honest, I don't really know how to express what's happening)",
+      "grammar": "This sentence uses the present tense (hablándote) and the idiomatic expression \"to be honest\" (Hablándote claro), which is a common way to introduce a candid or sincere statement in English."
+    },
+    {
+      "time": 274.775,
+      "text": "Bry, Bry, Bryant Ma (Pero lo que sé e' que solo e' contigo)",
+      "translation": "Bry, Bry, Bryant Ma (But what I know is that it's only with you)",
+      "grammar": "The use of \"sé\" instead of the expected \"soy\" in \"lo que sé\" is an idiomatic expression indicating a sudden realization or insight, often used to emphasize the speaker's certainty."
+    },
+    {
+      "time": 278.983,
+      "text": "Dímelo, Teck",
+      "translation": "Tell me, Teck",
+      "grammar": "This line uses the imperative mood to make a request, with the verb \"dímelo\" (tell me) in the second person singular form, addressing someone directly."
+    },
+    {
+      "time": 280.183,
+      "text": "(Solamente me pasa contigo)",
+      "translation": "(It only happens with you)",
+      "grammar": "The phrase \"Solamente me pasa contigo\" is an idiomatic expression indicating a special or unique connection between the speaker and someone else, using the present tense to convey a sense of ongoing experience."
+    },
+    {
+      "time": 281.687,
+      "text": "Y si te estoy mintiendo que me castigue Dios",
+      "translation": "And if I'm lying to you, may God punish me.",
+      "grammar": "The phrase \"si te estoy\" is a colloquial way of saying \"if I were lying to you\" in the conditional present tense, used to express a hypothetical situation. The speaker's intention is to emphasize their sincerity and commitment to honesty."
+    },
+    {
+      "time": 284.693,
+      "text": "Hablándote claro, no sé bien cómo expresar lo que está pasando",
+      "translation": "To be honest, I don't really know how to express what's happening",
+      "grammar": "This line uses the present tense (hablándote) and the idiomatic expression \"ser honesto\" to convey a sense of sincerity. The phrase \"no sé bien cómo\" is an idiomatic way to express uncertainty or difficulty in explaining something."
+    }
+  ]
+}

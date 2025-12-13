@@ -1,0 +1,9 @@
+:root {
+  --lemongrass: #9dc183;
+  --lavender: #c2b5ff;
+  --ink: #1f2430;
+  --bg: #f5faf6;
+  --card: #ffffff;
+  --accent: var(--lemongrass);
+  --accent-2: var(--lavender);
+}

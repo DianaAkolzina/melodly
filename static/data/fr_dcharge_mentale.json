@@ -1,0 +1,355 @@
+{
+  "id": "fr_dcharge_mentale",
+  "title": "Décharge Mentale",
+  "artist": "Amel Bent",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_dcharge_mentale.mp3",
+  "duration": 125,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Minuit une, je sors de mon lit",
+      "translation": "One past midnight, I get out of bed",
+      "grammar": "The use of \"je sors\" in the present tense to describe an action that typically occurs at a specific time (midnight) is an example of a idiomatic expression, where the verb agrees with the subject despite the unusual timing."
+    },
+    {
+      "time": 2.308,
+      "text": "J'vais pas fermer l'œil de la nuit",
+      "translation": "I won't sleep a wink tonight.",
+      "grammar": "This idiomatic expression uses the informal \"je vais\" construction to indicate future action, and \"pas\" negates the verb, conveying a strong determination not to sleep."
+    },
+    {
+      "time": 5.19,
+      "text": "Au clair de lune, je cherche la rime",
+      "translation": "By the moonlight, I search for the rhyme",
+      "grammar": "The phrase \"au clair de lune\" is an idiomatic expression meaning \"by moonlight\", using the present participle \"au clair de\" to describe a situation."
+    },
+    {
+      "time": 7.785,
+      "text": "Mes deux mains me donnent le vertige",
+      "translation": "My two hands make me dizzy.",
+      "grammar": "The phrase \"mes deux mains\" is an idiomatic expression meaning \"my whole self\" or \"all of me\", rather than literally referring to the speaker's physical hands. The verb \"me donnent\" is in the passive voice, indicating that the speaker feels a sense of dizziness being caused by their own thoughts or emotions."
+    },
+    {
+      "time": 10.093,
+      "text": "Moi, j'aimerais écrire une chanson",
+      "translation": "I would like to write a song",
+      "grammar": "The phrase \"Moi, j'aimerais\" is an idiomatic expression that uses the first-person singular pronoun \"moi\" in a subordinate clause to emphasize the speaker's desire. This construction is equivalent to saying \"I would like\" in English."
+    },
+    {
+      "time": 12.115,
+      "text": "Et me lever tôt pour mes enfants",
+      "translation": "And getting up early for my children",
+      "grammar": "The phrase \"me lever\" is an idiomatic expression meaning \"to get up\" or \"to wake up\", using the reflexive pronoun \"me\" to emphasize the subject's action."
+    },
+    {
+      "time": 14.423,
+      "text": "Rappeler la banque pour la maison",
+      "translation": "Call the bank back for the house",
+      "grammar": "The phrase \"rappeler la banque\" is an idiomatic expression that uses the imperfect tense to convey a sense of habitual or repeated action, implying that the speaker has already contacted the bank previously."
+    },
+    {
+      "time": 16.445,
+      "text": "Changer les rideaux du salon",
+      "translation": "Change the living room curtains",
+      "grammar": "This idiomatic expression uses the present tense to convey a general or habitual action, rather than a specific change. The phrase is equivalent to \"to redecorate\" or \"to give the living room a makeover\"."
+    },
+    {
+      "time": 18.179,
+      "text": "Gonfler les pneus de mon vélo",
+      "translation": "Inflate my bike tires",
+      "grammar": "The phrase \"gonfler les pneus\" is in the imperative mood, instructing someone to perform an action. The verb \"gonfler\" is in the second person singular form, indicating that the speaker is addressing a single person."
+    },
+    {
+      "time": 20.201,
+      "text": "Il faut que j'devienne écolo",
+      "translation": "I need to become an environmentalist.",
+      "grammar": "This informal expression uses the imperative mood and the present tense to convey a sense of necessity, with \"il faut\" meaning \"it's necessary\" or \"one must\". The use of \"j'\" instead of \"je\" is a colloquialism in French, equivalent to \"I've got to\" or \"I need to\" in English."
+    },
+    {
+      "time": 22.222,
+      "text": "Aller voir mamie à l'hosto",
+      "translation": "Going to see Grandma in the hospital",
+      "grammar": "This idiomatic expression uses the infinitive verb phrase \"aller voir\" to indicate future intention, similar to English \"going to\" constructions. The preposition \"à\" indicates direction towards the hospital, where Grandma is located."
+    },
+    {
+      "time": 24.244,
+      "text": "Le temps l'a rendu moins costaude",
+      "translation": "Time has made him less robust.",
+      "grammar": "The phrase \"le temps\" is an idiomatic expression meaning \"time\" and functions as a subject, taking the verb \"a rendu\" in the passive voice, indicating that time's effect on someone is being described."
+    },
+    {
+      "time": 26.552,
+      "text": "Dire à mon homme qu'il se souvienne",
+      "translation": "Tell my man to remember",
+      "grammar": "The phrase \"dire à mon homme\" is an idiomatic expression meaning \"to tell someone (usually a loved one)\" and uses the informal \"mon\" instead of formal \"son\" to show affection. The sentence is in the imperative mood, instructing someone to take action."
+    },
+    {
+      "time": 29.147,
+      "text": "Que ça ne suffise plus que l'on s'aime",
+      "translation": "That it's no longer enough for us to love each other",
+      "grammar": "The phrase \"que ça\" is an idiomatic expression used to introduce a subordinate clause, equivalent to \"that\" in English. The verb \"suffise\" is in the present tense, indicating a general truth or a sense of inadequacy."
+    },
+    {
+      "time": 32.316,
+      "text": "J'ai pris trois kilos cette semaine",
+      "translation": "I gained three kilos this week",
+      "grammar": "The verb \"pris\" is in the passé composé tense, indicating a completed action in the past. The phrase \"cette semaine\" specifies the time period when the action took place."
+    },
+    {
+      "time": 34.624,
+      "text": "Et merde, il n'y a plus de liquides vaisselles",
+      "translation": "Damn it, there's no more dishwashing liquid.",
+      "grammar": "The phrase \"Et merde\" is an informal idiomatic expression equivalent to \"Good grief\" or \"Shoot!\", used to convey frustration or annoyance. The sentence is in the present tense and uses the negation \"n'y a plus\" to indicate the absence of something."
+    },
+    {
+      "time": 37.793,
+      "text": "Signer les carnets de liaisons",
+      "translation": "Sign the communication logs",
+      "grammar": "The verb \"signer\" is in the imperative mood, indicating a command or instruction. The phrase \"les carnets de liaison\" is an idiomatic expression meaning \"communication logs\"."
+    },
+    {
+      "time": 39.527,
+      "text": "Acheter des légumes de saisons",
+      "translation": "Buy seasonal vegetables",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or general action, emphasizing the importance of buying seasonal produce."
+    },
+    {
+      "time": 41.262,
+      "text": "M'réconcilier avec maman",
+      "translation": "Reconciling with Mom",
+      "grammar": "This idiomatic phrase uses the reflexive pronoun \"m'\" to indicate a personal action, emphasizing the speaker's emotional involvement in reconciling with their mother."
+    },
+    {
+      "time": 42.71,
+      "text": "Même si c'est pas elle qu'a raison",
+      "translation": "Even if she's not right",
+      "grammar": "This idiomatic expression uses the subjunctive mood to convey a hypothetical situation, emphasizing the speaker's doubt about someone else's opinion. The phrase \"c'est pas elle\" is an indirect negation, where \"elle\" refers back to the original subject mentioned earlier in the sentence."
+    },
+    {
+      "time": 45.592,
+      "text": "Putain, j'vois plus aucun ami",
+      "translation": "Damn, I don't see any friends anymore",
+      "grammar": "The phrase \"Putain\" is an interjection used to express strong emotions, often translated as \"Damn\". The sentence is in the present tense, indicating a current state of not having any friends."
+    },
+    {
+      "time": 47.613,
+      "text": "Une tournée ça laisse du vide",
+      "translation": "A tour leaves a void",
+      "grammar": "This idiomatic expression uses the present tense to convey a general truth about tours, rather than describing a specific event. The phrase \"laisse\" is in the third person singular form, indicating that it's the tour itself that leaves a void, not the speaker or someone else."
+    },
+    {
+      "time": 49.634,
+      "text": "Et puis, faut qu'j'aille voir un médecin",
+      "translation": "And then, I need to go see a doctor",
+      "grammar": "The phrase \"faut qu'\" is an idiomatic expression used to indicate necessity or obligation in the present tense, equivalent to \"must\" or \"have to\". It's often used informally and can be translated as \"I have to\" or \"I need to\"."
+    },
+    {
+      "time": 52.516,
+      "text": "Moi, j'ai peur du cancer du sein",
+      "translation": "I'm afraid of breast cancer.",
+      "grammar": "The phrase \"Moi, j'ai\" is an idiomatic expression used to emphasize the speaker's personal experience or feeling, equivalent to saying \"As for me, I have\". The use of \"j'ai\" instead of \"je suis\" (to be) emphasizes the fear and creates a sense of intimacy."
+    },
+    {
+      "time": 55.111,
+      "text": "Y a des trucs, pourquoi je les garde?",
+      "translation": "There are some things, why do I keep them?",
+      "grammar": "The phrase \"pourquoi je les garde\" is an idiomatic expression in French, using the present tense to convey a sense of ongoing or habitual action, rather than a specific reason."
+    },
+    {
+      "time": 57.706,
+      "text": "Des souvenirs que j'entasse",
+      "translation": "Memories that I'm piling up",
+      "grammar": "The phrase \"j'entasse\" is in the present continuous tense, indicating an ongoing action of collecting memories. The idiomatic expression \"entasser des souvenirs\" literally means to pile up memories, conveying a sense of accumulation or accumulation over time."
+    },
+    {
+      "time": 59.441,
+      "text": "J'ai des factures de 2004",
+      "translation": "I have invoices from 2004",
+      "grammar": "The use of the present perfect tense \"j'ai\" indicates that the speaker has had these invoices since 2004, and the relevance to the current situation is implied."
+    },
+    {
+      "time": 61.463,
+      "text": "Faut qu'je fasse un tri dans ma paperasse",
+      "translation": "I need to sort through my paperwork.",
+      "grammar": "The phrase \"faut qu'\" is a colloquial way of expressing necessity or obligation, equivalent to \"must\" or \"have to\". It's often used in informal speech and can be translated as \"I have to\" or \"I must\"."
+    },
+    {
+      "time": 64.344,
+      "text": "Et faire ma couleur rapidement",
+      "translation": "And do my color quickly",
+      "grammar": "This idiomatic expression uses the verb \"faire\" in its figurative sense, meaning \"to be\" or \"to become\", rather than its literal sense of \"to do\". The phrase is equivalent to saying \"to turn into\" or \"to become\", conveying a sense of rapid transformation."
+    },
+    {
+      "time": 66.079,
+      "text": "On voit trop mes cheveux blancs",
+      "translation": "My gray hairs are too noticeable.",
+      "grammar": "The phrase \"on voit\" is an idiomatic expression meaning \"one can see\" or \"it's obvious\", which indicates the speaker's perception of their own aging process. The verb \"voit\" is in the third person singular, used to describe a general truth rather than a specific action."
+    },
+    {
+      "time": 68.101,
+      "text": "Hier encore, j'avais 20 ans",
+      "translation": "Just yesterday, I was 20 years old",
+      "grammar": "The phrase \"Hier encore\" is an idiomatic expression that indicates a recent past event, equivalent to \"just\" or \"only\" in English. The verb \"avais\" is in the imperfect tense, describing a completed action in the past."
+    },
+    {
+      "time": 70.122,
+      "text": "Et demain déjà quarante ans",
+      "translation": "And tomorrow already forty years",
+      "grammar": "The phrase \"déjà\" implies a sense of inevitability, similar to the English idiom \"already,\" emphasizing that something has been going on for a long time. This adverbial expression is used in the present perfect tense to describe an action that started in the past and continues up until now."
+    },
+    {
+      "time": 71.857,
+      "text": "J'aimerais quelqu'un à qui parler",
+      "translation": "I'd like someone to talk to.",
+      "grammar": "The phrase \"j'aimerais\" is a conditional construction in the subjunctive mood, used to express a hypothetical or desired situation. It is often translated as \"would like\" or \"long to\"."
+    },
+    {
+      "time": 74.165,
+      "text": "Et qui sache écouter sans juger",
+      "translation": "And who knows how to listen without judging",
+      "grammar": "This idiomatic expression uses the present tense to convey a general truth, emphasizing the importance of listening with an open mind. The phrase \"sache écouter\" is an idiomatic way to say \"knows how to listen\"."
+    },
+    {
+      "time": 76.186,
+      "text": "C'est vrai",
+      "translation": "It's true",
+      "grammar": "This phrase uses the present tense of the verb être to express a general truth, and the idiomatic expression \"c'est vrai\" is equivalent to saying \"it's true\" in English. The pronoun \"c'est\" is used as an impersonal subject pronoun, emphasizing that the statement is not about the speaker themselves but rather a universal fact."
+    },
+    {
+      "time": 77.386,
+      "text": "Je travaille pas à l'usine, mais",
+      "translation": "I don't work in a factory, but",
+      "grammar": "The phrase \"travaille pas\" is an idiomatic expression meaning \"don't work\" or \"am not working\". The negation \"pas\" is used to indicate the absence of an action, rather than its impossibility."
+    },
+    {
+      "time": 79.695,
+      "text": "Parfois j'suis épuisée",
+      "translation": "Sometimes I'm exhausted",
+      "grammar": "This line uses the informal first-person singular pronoun \"j'\" instead of the formal \"je\" to convey a sense of intimacy and familiarity, which is common in spoken French."
+    },
+    {
+      "time": 81.142,
+      "text": "Faut pas qu'j'arrête de chanter",
+      "translation": "I mustn't stop singing",
+      "grammar": "The phrase \"faut pas\" is an idiomatic expression meaning \"must not\" or \"should not\", used to emphasize the importance of not doing something, and is in the imperative mood."
+    },
+    {
+      "time": 83.451,
+      "text": "Sinon ma voix va décoter",
+      "translation": "Otherwise my voice will lose value",
+      "grammar": "The phrase \"ma voix\" is in the nominative case, indicating that it's the subject of the sentence. The use of \"va\" instead of \"vaut\" implies a future tense or potentiality, suggesting that the speaker's voice may lose value at some point."
+    },
+    {
+      "time": 85.185,
+      "text": "Et, comme parfois, par le passé",
+      "translation": "And, as sometimes happened in the past",
+      "grammar": "The phrase \"comme parfois\" is an idiomatic expression indicating a habitual or frequent occurrence in the past, using the imperfect tense to convey a sense of repetition."
+    },
+    {
+      "time": 87.207,
+      "text": "Me remettre en difficulté",
+      "translation": "Putting myself back in difficulty",
+      "grammar": "The phrase \"Me remettre en difficulté\" is an idiomatic expression that uses the reflexive pronoun \"me\" to emphasize the speaker's intention, conveying a sense of self-imposed challenge or personal struggle. The verb \"remettre\" is in the reflexive form, indicating the speaker's own actions."
+    },
+    {
+      "time": 88.655,
+      "text": "J'voudrais apprendre le piano",
+      "translation": "I would like to learn the piano",
+      "grammar": "The phrase \"J'voudrais\" is a contraction of \"je voudrais,\" using the informal \"je\" and the conditional tense, indicating a polite expression of desire. This idiomatic construction is commonly used in spoken French to convey a sense of politeness or tentativeness."
+    },
+    {
+      "time": 90.389,
+      "text": "La guitare ou le cello",
+      "translation": "The guitar or the cello",
+      "grammar": "This phrase uses a common French idiomatic expression to indicate alternatives, where \"ou\" is used instead of \"or\". This construction is often translated as \"either... or\" in English."
+    },
+    {
+      "time": 92.124,
+      "text": "Moi j'veux m'accompagner solo",
+      "translation": "I want to accompany myself solo",
+      "grammar": "The use of \"j'veux\" instead of \"je veux\" is a casual, informal construction typical in spoken French, where the subject pronoun \"je\" is omitted and replaced with the first-person singular pronoun \"j'\". This is a common feature of spoken language and adds to the conversational tone."
+    },
+    {
+      "time": 94.145,
+      "text": "Quand mon équipe n'est pas dispo",
+      "translation": "When my team is not available",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or general situation, rather than a specific moment. The phrase \"n'est pas dispo\" is an informal way of saying \"is not available\"."
+    },
+    {
+      "time": 96.454,
+      "text": "Dire à ma fille que j'suis cruelle",
+      "translation": "Telling my daughter that I'm cruel",
+      "grammar": "The use of \"j'suis\" instead of \"je suis\" is an informal, colloquial construction, typical in spoken French, where the subject pronoun \"je\" is elided and only the verb \"suis\" remains. This construction is often used to convey a sense of intimacy or familiarity with the listener."
+    },
+    {
+      "time": 99.049,
+      "text": "D'être plus exigeante avec elle",
+      "translation": "To be more demanding of her",
+      "grammar": "In French, \"être\" is used to indicate a desire or intention in the future, often translated as \"to be\" in English. In this context, \"d'être\" is an infinitive phrase expressing the speaker's intention to become more demanding towards someone."
+    },
+    {
+      "time": 101.07,
+      "text": "Dire au petit de la comprendre",
+      "translation": "Tell the little one to understand her",
+      "grammar": "The phrase \"dire au petit\" is an idiomatic expression meaning \"to tell someone (in a gentle or patient manner)\", using the informal \"petit\" instead of the formal \"jeune\" to convey a sense of affection and familiarity."
+    },
+    {
+      "time": 103.092,
+      "text": "C'est pas facile d'être la grande",
+      "translation": "It's not easy being the eldest",
+      "grammar": "The phrase \"c'est pas\" is an idiomatic expression used to convey negation, equivalent to \"it's not\". The verb être is in the present tense, describing a general truth about being the eldest."
+    },
+    {
+      "time": 105.687,
+      "text": "Et je gueule trop quand j'suis stressée",
+      "translation": "And I yell too much when I'm stressed.",
+      "grammar": "The use of \"je gueule\" is an informal idiom, equivalent to \"to shout\" or \"to scream\", and the verb agrees with the subject pronoun \"je\" in the first person singular."
+    },
+    {
+      "time": 108.282,
+      "text": "Même eux me n'ont rien demandé",
+      "translation": "They didn't ask me anything either.",
+      "grammar": "The phrase \"même eux\" is an idiomatic expression meaning \"even they\", emphasizing the unexpectedness of the situation. The verb \"n'ont\" is in the imperfect tense, indicating a habitual or repeated action in the past."
+    },
+    {
+      "time": 110.59,
+      "text": "J'veux pas reproduire c'que j'ai vécu",
+      "translation": "I don't want to repeat what I went through",
+      "grammar": "This line uses the informal \"j'\" instead of \"je\" and the contraction \"c'que\" for \"ce que\", which is a common idiomatic expression in spoken French, conveying a sense of reluctance or unwillingness."
+    },
+    {
+      "time": 113.472,
+      "text": "Et si maman, si j'avais su",
+      "translation": "And if, Mom, if I had known",
+      "grammar": "This line illustrates the use of the conditional tense (si) to express hypothetical situations, and the idiomatic expression \"maman\" is used informally to address one's mother."
+    },
+    {
+      "time": 115.78,
+      "text": "7h10, j'suis dans mon lit",
+      "translation": "7:10 am, I'm in my bed",
+      "grammar": "This informal expression uses the present perfect tense to convey a sense of being in a state or situation at a specific time. The phrase \"j'suis\" is an idiomatic way to say \"I'm\" and is often used in spoken French to add a touch of informality."
+    },
+    {
+      "time": 117.802,
+      "text": "J'ai pas fermé l'œil d'la nuit",
+      "translation": "I didn't sleep a wink last night.",
+      "grammar": "The phrase \"pas fermé\" is an idiomatic expression meaning \"didn't sleep at all\", using the negation particle \"pas\" to emphasize the absence of sleep."
+    },
+    {
+      "time": 120.683,
+      "text": "Et c'est déjà l'heure du biberon",
+      "translation": "And it's already time for the bottle.",
+      "grammar": "The phrase \"c'est déjà\" is an idiomatic expression indicating a sense of urgency or inevitability, similar to \"it's high time\" in English. The use of the present tense \"c'est\" emphasizes that this moment has arrived."
+    },
+    {
+      "time": 123.279,
+      "text": "J'ai pas écrit ma chanson",
+      "translation": "I didn't write my song",
+      "grammar": "In informal French, \"j'ai pas\" is an idiomatic expression used to indicate negation in the present perfect tense, equivalent to saying \"I haven't\"."
+    }
+  ]
+}

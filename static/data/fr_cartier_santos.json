@@ -1,0 +1,199 @@
+{
+  "id": "fr_cartier_santos",
+  "title": "CARTIER SANTOS",
+  "artist": "S.D.M.",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_cartier_santos.mp3",
+  "duration": 214,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Hein-hein, hein-hein, hein-hein, hein-hein",
+      "translation": "Huh-huh, huh-huh, huh-huh, huh-huh",
+      "grammar": "This line is an example of onomatopoeia, where the repeated \"hein\" or \"huh\" sounds imitate the actual sound being described."
+    },
+    {
+      "time": 3.287,
+      "text": "SDM, cent moins Ocho (I love you too)",
+      "translation": "SDM, a hundred minus Ocho (I love you too)",
+      "grammar": "The phrase \"cent moins\" is an idiomatic expression meaning \"a hundred less\" or \"minus\", used to emphasize the speaker's equal love."
+    },
+    {
+      "time": 6.573,
+      "text": "Eh (eh)",
+      "translation": "Eh (eh)",
+      "grammar": "This interjection \"Eh\" is used to seek confirmation or agreement, similar to \"Right?\" in English. It's often used in informal conversations to elicit a response from the listener."
+    },
+    {
+      "time": 7.839,
+      "text": "Faudra d'la foi et du courage, une relation remplie de rage qui démarre sur des bases pourries",
+      "translation": "It will take faith and courage, a relationship filled with rage that starts on rotten foundations.",
+      "grammar": "The phrase \"Faudra\" is an informal way of saying \"it's necessary\" or \"it will be required\", using the future tense to express a sense of inevitability."
+    },
+    {
+      "time": 14.776,
+      "text": "Elle m'a quitté, genre triste à mort, alors qu'son cœur criait \"hourra\" et que le mien cassé en mille",
+      "translation": "She left me, heartbroken, while her heart was screaming \"hurray\" and mine was shattered into a thousand pieces.",
+      "grammar": "The use of \"quitté\" in the present perfect tense ( Elle m'a quitté) indicates that the action of leaving is completed before the main clause, emphasizing the impact on the speaker."
+    },
+    {
+      "time": 22.808,
+      "text": "En bas du bâtiment, on t'surnomme \"la petite fe-meu des réseaux\"",
+      "translation": "Downstairs in the building, they call you \"the little social media girl\"",
+      "grammar": "The phrase \"on t'surnomme\" is an idiomatic expression using the reflexive pronoun \"t'\" and the verb \"surnommer\", which translates to \"they call you\" in English. This construction is a way of expressing the third person plural (\"ils/elles\") as if it were the first person singular, creating a sense of intimacy or familiarity."
+    },
+    {
+      "time": 27.919,
+      "text": "J'ai longtemps cru qu'j'étais le seul, que c'était moi l'numéro un, en fait, j'avais v'là les rivaux (ocho)",
+      "translation": "For a long time I thought I was the only one, that I was number one, but in fact, I had loads of rivals (ocho)",
+      "grammar": "The use of \"j'ai\" instead of \"je suis\" is an informal way to express temporary or habitual possession, indicating a past habit or assumption."
+    },
+    {
+      "time": 37.412,
+      "text": "Connu dans la ville, sans but précis dans la vie",
+      "translation": "Known in the city, without a specific purpose in life",
+      "grammar": "The phrase \"sans but précis\" is an idiomatic expression conveying a sense of aimlessness or lack of direction, rather than a literal absence of purpose."
+    },
+    {
+      "time": 41.428,
+      "text": "Mon shit caché dans la veste, elle vient dans ma vie pour combler au vide (vide)",
+      "translation": "My shit hidden in my jacket, she comes into my life to fill the void (void)",
+      "grammar": "The phrase \"elle vient\" is an idiomatic expression meaning \"she shows up\" or \"she appears\", rather than a literal translation of \"she comes\"."
+    },
+    {
+      "time": 47.635,
+      "text": "La vie d'ma mère, bébé, ma tchop sans coco, j'peux être ton bébé (vroum, vroum, vroum, vroum)",
+      "translation": "My mother's life, baby, my little chickpea without coconut, I can be your baby (vroom, vroom, vroom, vroom)",
+      "grammar": "The use of \"j'peux\" instead of \"je peux\" is an informal spoken idiom in French, indicating a relaxed and casual tone."
+    },
+    {
+      "time": 54.937,
+      "text": "Elle savait m'parler, au bout d'deux, trois dél', j'me mets à rêver (eh, eh)",
+      "translation": "She knew how to talk to me, after two or three drinks, I started to dream (eh, eh)",
+      "grammar": "The use of \"j'me\" instead of \"je me\" is an informal idiomatic expression common in spoken French, where the subject pronoun \"je\" is contracted with the reflexive pronoun \"me\" to create a more conversational tone."
+    },
+    {
+      "time": 61.509,
+      "text": "Que j'prends sur moi, dés l'début, elle, elle a seulement voulu prendre des sous sur me",
+      "translation": "I took it upon myself from the beginning; she only wanted to take money off me.",
+      "grammar": "The phrase \"j'prends sur moi\" is an idiomatic expression of personal responsibility, equivalent to \"I take it upon myself\". The verb \"prendre\" is in the present tense, indicating a habitual or general sense of taking charge."
+    },
+    {
+      "time": 68.446,
+      "text": "Quand j'avais pas one sur moi, pas d'souci pour elle, d'toute façon j'étais le huitième de tous ses mecs (ocho)",
+      "translation": "When I didn't have one on me, no worries for her, anyway I was the eighth of all her guys (ocho)",
+      "grammar": "The use of \"j'avais\" instead of \"je n'avais pas\" is an informal way to express a past simple tense in French, often used in spoken language."
+    },
+    {
+      "time": 77.573,
+      "text": "Faudra d'la foi et du courage, une relation remplie de rage, j'vois jamais l'soleil, que l'orage",
+      "translation": "It will take faith and courage, a relationship filled with rage; I never see the sun, only the storm.",
+      "grammar": "The use of \"j'vois\" instead of \"je vois\" is an informal, colloquial expression common in spoken French, equivalent to \"I can't even\" or \"I don't want to\"."
+    },
+    {
+      "time": 85.24,
+      "text": "Elle veut son blase en tatouage, que j'me sépare d'mon entourage, la dernière collection Courrèges",
+      "translation": "She wants her name tattooed, for me to cut ties with my friends, and the latest Courrèges collection.",
+      "grammar": "The use of \"je\" instead of \"j'\" is an example of elision in spoken French, where the final consonant of a word is omitted in informal speech. This is common in colloquial language and does not affect the overall meaning of the sentence."
+    },
+    {
+      "time": 91.812,
+      "text": "Mon Dieu, dans quel film on est? Mais comment j'me suis attaché sans la connaître?",
+      "translation": "My God, what movie are we in? How did I get attached to her without even knowing her?",
+      "grammar": "The phrase \"j'me suis\" is a colloquialism used to express the first person singular pronoun \"I\" in informal spoken French, often in casual conversations or when speaking with friends."
+    },
+    {
+      "time": 98.019,
+      "text": "Que elle veut ci, elle veut ça, pourtant, on m'a juré qu'le bonheur s'trouvait pas dans la monnaie (dans la monnaie)",
+      "translation": "She wants this, she wants that, yet I was told that happiness wasn't found in money (in money)",
+      "grammar": "The phrase \"elle veut ci, elle veut ça\" is an idiomatic expression meaning \"she wants this and that\", using the present tense to convey a sense of ongoing desire. The pronoun \"elle\" agrees with the subject \"she\"."
+    },
+    {
+      "time": 107.147,
+      "text": "J'l'élimine à ses vues, c'est qu'une tch', à ces, j'l'assimile",
+      "translation": "I eliminate her based on her views, she's just a piece of trash, I assimilate her to those",
+      "grammar": "The use of \"j'l'\" is an informal, spoken French idiom equivalent to \"je le\" or \"je la\" in standard written French, indicating the speaker's intention to eliminate someone."
+    },
+    {
+      "time": 113.353,
+      "text": "Oh là là, pas si vite, elle me dit \"tu bouges pas, ton sang, j'ai pas assez bu\"",
+      "translation": "Oh dear, not so fast, she told me \"don't move, you blood, I haven't drunk enough\"",
+      "grammar": "The idiomatic expression \"Oh là là\" is an interjection used to express surprise or astonishment. The sentence also employs the informal \"tu\" form of address, indicating a familiar relationship between the speaker and the person being addressed."
+    },
+    {
+      "time": 120.656,
+      "text": "J'prends plus sur moi, c'est fini, j'y ai réfléchi toute la semaine",
+      "translation": "I'm not taking it anymore, it's over, I've thought about it all week.",
+      "grammar": "The phrase \"j'prends\" is in the present tense and expresses a decision or determination to take control of one's life. The idiomatic expression \"c'est fini\" literally means \"it's finished\", but figuratively conveys that something has come to an end."
+    },
+    {
+      "time": 126.497,
+      "text": "Elle me répond \"est-ce que t'es sûr?\", Me dit \"dommage, j'avais bloqué ma soirée pour qu'tu montes sur moi\"",
+      "translation": "She replied, \"Are you sure?\", and said, \"Too bad, I had blocked off my evening for you to come on top of me.\"",
+      "grammar": "The use of \"est-ce que\" is an idiomatic way to ask a question in French, equivalent to \"is it that\" or \"are you sure\", which is often translated as \"are you sure?\" in English."
+    },
+    {
+      "time": 135.26,
+      "text": "D'un coup, mon cœur est navré, elle sait pile-poil où toucher pour que j'retourne ma veste (eh, eh)",
+      "translation": "Suddenly, my heart aches, she knows exactly where to touch to make me change my mind (eh, eh)",
+      "grammar": "The phrase \"pile-poil\" is an idiomatic expression meaning \"exactly\" or \"right on the spot\", used to convey that someone has a deep understanding of how to influence or manipulate another person."
+    },
+    {
+      "time": 143.292,
+      "text": "C'est ma bouche qui a dit non, alors qu'mon cœur voulait dire oui et mon cerveau qui s'demande c'que j'fais",
+      "translation": "It was my mouth that said no, while my heart wanted to say yes, and my brain is wondering what I'm doing.",
+      "grammar": "This line uses the informal \"tu\" form of the verb \"dire\" in the subordinate clause \"qu'mon cœur voulait dire\", which is a common idiomatic expression in spoken French."
+    },
+    {
+      "time": 152.784,
+      "text": "Faudra d'la foi et du courage, une relation remplie de rage, à la fin, j'm'en suis pas remis",
+      "translation": "It took faith and courage, a relationship filled with rage; in the end, I never recovered.",
+      "grammar": "The use of \"j'm'en suis\" is an informal idiomatic expression indicating the speaker's emotional state, equivalent to \"I've never gotten over it\". The verb agreement is irregular due to the contraction."
+    },
+    {
+      "time": 160.816,
+      "text": "Vivre sans elle, j'y arrive pas, j'trouve plus l'sommeil quand j'suis seul, j'm'endors après plusieurs res-ve (Ocho, ocho)",
+      "translation": "I can't live without her, I can't sleep when I'm alone, I fall asleep after several dreams (Ocho, ocho)",
+      "grammar": "The use of the verb forms \"j'y arrive pas\" and \"j'endors\" indicates informal spoken French, where the speaker uses the first person singular subject pronoun \"je\" instead of the more formal \"je suis\" to convey a sense of intimacy and informality."
+    },
+    {
+      "time": 170.308,
+      "text": "Elle, elle fait genre tout va bien, nouvelle relation, elle vit la vie qu'elle rêvait (la vie de rêve)",
+      "translation": "She's acting like everything's fine, new relationship, she's living the life she dreamed of (the dream life)",
+      "grammar": "The phrase \"elle fait genre\" is an informal idiomatic expression in French, equivalent to \"she's putting on a good face\" or \"she's pretending everything is okay\", conveying a sense of superficial happiness."
+    },
+    {
+      "time": 177.975,
+      "text": "Pour elle, j'étais pas l'homme capable, un homme capable, c'est celui qui déboule en bas d'chez elle en Féfé'",
+      "translation": "For her, I wasn't the right man; a capable man is someone who shows up at her place in a Ferrari.",
+      "grammar": "This line uses the imperfect tense to describe a past situation, with \"j'étais pas\" indicating the speaker's lack of capability. The phrase \"un homme capable\" is an idiomatic expression meaning someone who meets certain standards or expectations."
+    },
+    {
+      "time": 186.738,
+      "text": "J'lui dis \"j'peux pas vivre sans toi\", elle m'a dit \"que si tu m'payes une Cartier Santos\" (mmh, mmh)",
+      "translation": "I told her \"I can't live without you\", she said \"only if you buy me a Cartier Santos\" (mmh, mmh)",
+      "grammar": "The use of \"j'peux\" instead of \"je peux\" is an informal idiomatic expression indicating the speaker's emotional state, emphasizing their inability to live without the person."
+    },
+    {
+      "time": 195.5,
+      "text": "Même avec tout le temps qu'on passe, tu veux pas mettre un peu plus de sérieux sur l'dossier",
+      "translation": "Even with all the time we're spending, don't you want to take this matter a bit more seriously?",
+      "grammar": "The use of \"veux\" instead of \"voulons\" (we want) implies a direct address to someone (\"tu\"), emphasizing the speaker's personal experience and creating an informal tone."
+    },
+    {
+      "time": 203.167,
+      "text": "Tu sais qu'l'argent ça compte pas, tu t'en rendras compte un jour à quel point j't'ai aimée",
+      "translation": "You know money doesn't matter, you'll realize one day how much I loved you.",
+      "grammar": "The use of \"tu\" and \"j'\" is informal and familiar, indicating a close relationship between the speaker and the listener. The verb tense remains consistent throughout the sentence, using the present perfect \"tu t'en rendras compte\" to emphasize the future realization."
+    },
+    {
+      "time": 211.564,
+      "text": "J'lui dis que j'lui souhaite le meilleur, elle m'a dit \"souhaite-moi la richesse, moi, fuck la santé\"",
+      "translation": "I told her I wished her the best, she said \"wish me wealth, fuck health\"",
+      "grammar": "This informal conversation uses the present tense to express a spontaneous decision, with the idiomatic expression \"souhaite-moi\" (wish me) emphasizing the speaker's intention. The use of \"moi\" instead of \"me\" is an example of direct address in French."
+    }
+  ]
+}

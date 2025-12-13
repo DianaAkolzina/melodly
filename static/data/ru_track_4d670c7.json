@@ -1,0 +1,331 @@
+{
+  "id": "ru_track_4d670c7",
+  "title": "Самолеты",
+  "artist": "Женя Трофимов",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_track_4d670c7.mp3",
+  "duration": 174,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 9.930100000023842,
+      "text": "Я с тобой спорить не хочу",
+      "translation": "I don't want to argue with you",
+      "grammar": "The verb 'спорить' is in the infinitive form, indicating a desire or intention not to engage in an argument."
+    },
+    {
+      "time": 12.467,
+      "text": "Да и выгляжу как дурак",
+      "translation": "And I look like a fool",
+      "grammar": ""
+    },
+    {
+      "time": 14.920800000011921,
+      "text": "Хочешь, я завтра же прилечу?",
+      "translation": "Do you want me to fly over tomorrow?",
+      "grammar": ""
+    },
+    {
+      "time": 17.722399999976158,
+      "text": "Но пока не знаю как",
+      "translation": "But I don't know how yet",
+      "grammar": ""
+    },
+    {
+      "time": 20.381100000023842,
+      "text": "Я с тобой спорить не хочу",
+      "translation": "I don't want to argue with you.",
+      "grammar": ""
+    },
+    {
+      "time": 22.657100000023842,
+      "text": "И доказывать, кто и что ты",
+      "translation": "And prove who and what you are",
+      "grammar": ""
+    },
+    {
+      "time": 25.55110000002384,
+      "text": "Хочешь, я завтра же прилечу?",
+      "translation": "Do you want me to fly over tomorrow?",
+      "grammar": ""
+    },
+    {
+      "time": 28.007,
+      "text": "Только где они, самолёты?",
+      "translation": "But where are they, the planes?",
+      "grammar": ""
+    },
+    {
+      "time": 30.67719999998808,
+      "text": "Только где они, самолёты?",
+      "translation": "But where are they, the planes?",
+      "grammar": ""
+    },
+    {
+      "time": 33.06069999998808,
+      "text": "Только где они, самолёты?",
+      "translation": "But where are they, the planes?",
+      "grammar": ""
+    },
+    {
+      "time": 35.86030000001192,
+      "text": "Только где они, самолёты?",
+      "translation": "But where are they, the planes?",
+      "grammar": ""
+    },
+    {
+      "time": 38.72830000001192,
+      "text": "Только где они?",
+      "translation": "But where are they?",
+      "grammar": ""
+    },
+    {
+      "time": 41.43540000003576,
+      "text": "Всё думаю о тебе",
+      "translation": "I keep thinking about you",
+      "grammar": ""
+    },
+    {
+      "time": 44.16480000001192,
+      "text": "От посадки и до полёта",
+      "translation": "From landing to flight",
+      "grammar": ""
+    },
+    {
+      "time": 46.61080000001192,
+      "text": "Что несут они на хвосте",
+      "translation": "What do they carry on their tails?",
+      "grammar": ""
+    },
+    {
+      "time": 49.27030000001192,
+      "text": "Эти твои самолёты?",
+      "translation": "Are these your planes?",
+      "grammar": ""
+    },
+    {
+      "time": 51.92130000001192,
+      "text": "Я вверх, а ты там, внизу, белые вороны",
+      "translation": "I'm up there, and you're down there, white crows.",
+      "grammar": ""
+    },
+    {
+      "time": 56.2905,
+      "text": "Что там на хвосте тебе принесут",
+      "translation": "What will they bring you on their tail?",
+      "grammar": ""
+    },
+    {
+      "time": 60.394300000011924,
+      "text": "Эти твои самолёты?",
+      "translation": "Are these your planes?",
+      "grammar": ""
+    },
+    {
+      "time": 62.795900000035765,
+      "text": "Ты слышишь эти твои самолёты?",
+      "translation": "Do you hear those planes of yours?",
+      "grammar": ""
+    },
+    {
+      "time": 65.65830000001192,
+      "text": "Эти твои самолёты",
+      "translation": "These planes of yours",
+      "grammar": ""
+    },
+    {
+      "time": 68.07860000002384,
+      "text": "Ты слышишь эти твои самолёты?",
+      "translation": "Do you hear those planes of yours?",
+      "grammar": ""
+    },
+    {
+      "time": 71.64590000003577,
+      "text": "(Самолёты)",
+      "translation": "(Aircraft)",
+      "grammar": ""
+    },
+    {
+      "time": 74.02030000001191,
+      "text": "Я с тобой спорить не хочу",
+      "translation": "I don't want to argue with you.",
+      "grammar": ""
+    },
+    {
+      "time": 76.11830000001193,
+      "text": "Чтобы спор проиграть дважды",
+      "translation": "To lose an argument twice",
+      "grammar": ""
+    },
+    {
+      "time": 78.59969999998808,
+      "text": "Слово правды, всё остальное — чушь",
+      "translation": "The word is truth, everything else is nonsense",
+      "grammar": ""
+    },
+    {
+      "time": 81.28180000001193,
+      "text": "Я поверил тебе однажды",
+      "translation": "I believed you once",
+      "grammar": ""
+    },
+    {
+      "time": 85.29210000002384,
+      "text": "Я с тобой спорить не хочу",
+      "translation": "I don't want to argue with you.",
+      "grammar": ""
+    },
+    {
+      "time": 86.75790000003576,
+      "text": "На беззвучный режим полёта",
+      "translation": "To silent flight mode",
+      "grammar": ""
+    },
+    {
+      "time": 89.76960000002384,
+      "text": "Хочешь, я завтра же прилечу?",
+      "translation": "Do you want me to fly over tomorrow?",
+      "grammar": ""
+    },
+    {
+      "time": 95.811,
+      "text": "Только где они, самолёты?",
+      "translation": "Where are they, airplanes?",
+      "grammar": "The use of the interrogative pronoun \"где\" (where) is typical in Russian, often used to ask about someone's or something's location."
+    },
+    {
+      "time": 98.601,
+      "text": "Только где они, самолёты?",
+      "translation": "But where are they, the planes?",
+      "grammar": ""
+    },
+    {
+      "time": 101.392,
+      "text": "Только где они, самолёты?",
+      "translation": "But where are they, the planes?",
+      "grammar": ""
+    },
+    {
+      "time": 101.392,
+      "text": "Только где они, самолёты?",
+      "translation": "But where are they, the planes?",
+      "grammar": ""
+    },
+    {
+      "time": 103.54460000002385,
+      "text": "Только где они",
+      "translation": "Just where are they?",
+      "grammar": ""
+    },
+    {
+      "time": 105.53769999998808,
+      "text": "Всё думаю о тебе",
+      "translation": "I keep thinking about you",
+      "grammar": ""
+    },
+    {
+      "time": 108.006,
+      "text": "От посадки и до полёта",
+      "translation": "From landing to flight",
+      "grammar": ""
+    },
+    {
+      "time": 110.78740000003576,
+      "text": "Что несут они на хвосте",
+      "translation": "What do they carry on their tails?",
+      "grammar": ""
+    },
+    {
+      "time": 113.59290000003577,
+      "text": "Эти твои самолёты?",
+      "translation": "Are these your planes?",
+      "grammar": ""
+    },
+    {
+      "time": 116.03890000003577,
+      "text": "Я вверх, а ты там, внизу, белые вороны",
+      "translation": "I'm up there, and you're down there, white crows.",
+      "grammar": ""
+    },
+    {
+      "time": 120.16019999998808,
+      "text": "Что там на хвосте тебе принесут",
+      "translation": "What will they bring you on their tail?",
+      "grammar": ""
+    },
+    {
+      "time": 124.38419999998808,
+      "text": "Эти твои самолёты?",
+      "translation": "Are these your planes?",
+      "grammar": ""
+    },
+    {
+      "time": 127.22569999998808,
+      "text": "Ты слышишь эти твои самолёты, эти твои самолёты?",
+      "translation": "Do you hear these planes of yours, these planes of yours?",
+      "grammar": ""
+    },
+    {
+      "time": 131.7265,
+      "text": "Ты слышишь эти твои самолёты, самолёты?",
+      "translation": "Do you hear these planes of yours, planes?",
+      "grammar": ""
+    },
+    {
+      "time": 137.904,
+      "text": "Ты слышишь эти твои самолёты, эти твои самолёты?",
+      "translation": "Do you hear these planes of yours, these planes of yours?",
+      "grammar": ""
+    },
+    {
+      "time": 142.66480000001192,
+      "text": "Ты слышишь эти твои самолёты, самолёты?",
+      "translation": "Do you hear these planes of yours, planes?",
+      "grammar": ""
+    },
+    {
+      "time": 148.14169999998808,
+      "text": "Всё думаю о тебе",
+      "translation": "I keep thinking about you",
+      "grammar": ""
+    },
+    {
+      "time": 150.7998000000119,
+      "text": "От посадки и до полёта",
+      "translation": "From landing to flight",
+      "grammar": ""
+    },
+    {
+      "time": 153.3791999999881,
+      "text": "Что несут они на хвосте",
+      "translation": "What do they carry on their tails?",
+      "grammar": ""
+    },
+    {
+      "time": 156.19760000002384,
+      "text": "Эти твои самолёты?",
+      "translation": "Are these your planes?",
+      "grammar": ""
+    },
+    {
+      "time": 159.00060000002384,
+      "text": "Я вверх, а ты там, внизу, белые вороны",
+      "translation": "I'm up there, and you're down there, white crows.",
+      "grammar": ""
+    },
+    {
+      "time": 163.0455,
+      "text": "Что там на хвосте тебе принесут",
+      "translation": "What will they bring you on their tail?",
+      "grammar": ""
+    },
+    {
+      "time": 167.09980000001192,
+      "text": "Эти твои самолёты?",
+      "translation": "Are these your planes?",
+      "grammar": ""
+    }
+  ]
+}

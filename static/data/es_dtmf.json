@@ -1,0 +1,367 @@
+{
+  "id": "es_dtmf",
+  "title": "DtMF",
+  "artist": "Bad Bunny",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_dtmf.mp3",
+  "duration": 186,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Eh-eh, eh-eh, eh-eh, eh-eh",
+      "translation": "Eh-eh, eh-eh, eh-eh, eh-eh",
+      "grammar": "This interjection \"Eh-eh\" is an onomatopoeic expression used to convey a sense of hesitation or uncertainty, often in informal conversations."
+    },
+    {
+      "time": 3.082,
+      "text": "Otro sunset bonito que veo en San Juan",
+      "translation": "Another beautiful sunset I see in San Juan",
+      "grammar": "The phrase \"otro\" is used to indicate another instance of something, similar to the English expression \"another\". This usage is an example of a Spanish idiom."
+    },
+    {
+      "time": 6.163,
+      "text": "Disfrutando de todas esas cosas que extrañan los que se van",
+      "translation": "Enjoying all those things that those who leave miss.",
+      "grammar": "The phrase \"que extrañan\" is in the present tense, describing a general truth about people who leave, rather than an action happening at a specific time. This use of the present tense to describe a universal or timeless truth is common in Spanish and English alike."
+    },
+    {
+      "time": 10.286,
+      "text": "Disfrutando de noches de esas que ya no se dan",
+      "translation": "Enjoying nights like these that don't happen anymore",
+      "grammar": "The phrase \"ya no se dan\" is an idiomatic expression in the present perfect tense, indicating that those kinds of nights are no longer possible or common."
+    },
+    {
+      "time": 14.062,
+      "text": "Que ya no se dan",
+      "translation": "That they no longer occur",
+      "grammar": "The phrase \"que ya no se dan\" is in the subjunctive mood, used to express doubt or uncertainty about a hypothetical situation. The verb \"dan\" is in the third person plural imperfect tense, indicating that the action of giving was not completed at some point in the past."
+    },
+    {
+      "time": 16.102,
+      "text": "Pero queriendo volver a la última vez que a los ojos te miré",
+      "translation": "But wanting to go back to the last time I looked into your eyes",
+      "grammar": "The verb \"queriendo\" is in the present participle form, indicating a desire or longing that is ongoing. This usage of the present participle to express a past-oriented desire is an idiomatic expression in Spanish."
+    },
+    {
+      "time": 20.92,
+      "text": "Y contarte las cosas que no te conté (te pareces a mi crush, ja, ja)",
+      "translation": "And tell you the things I haven't told you (you look like my crush, ha ha)",
+      "grammar": "The use of \"ya\" in \"ja, ja\" is an informal way to express laughter or playfulness, commonly used in spoken language and text messages. It can be translated as \"ha ha\" or simply omitted for a more formal tone."
+    },
+    {
+      "time": 26.432,
+      "text": "Y tirarte las fotos que no te tiré",
+      "translation": "And take the photos I didn't take of you",
+      "grammar": "This sentence uses the present tense to express a past action, a common feature in Spanish. The phrase \"tirarte\" is an idiomatic expression meaning \"to take pictures of someone\"."
+    },
+    {
+      "time": 29.513,
+      "text": "Acho, jurado te ves bien linda, déjame tirarte una foto",
+      "translation": "Hey, judge, you look really pretty, let me take your picture",
+      "grammar": "The phrase \"jurado te ves\" is an informal way of saying \"you look good\" in Spanish, using the verb \"verse\" in the present tense to express a subjective opinion. Note that this is an idiomatic expression and not a literal translation of \"judge you look\"."
+    },
+    {
+      "time": 33.289,
+      "text": "Ey, tengo el pecho pelao, me di una matá",
+      "translation": "Hey, my chest's bare, I killed myself",
+      "grammar": "The phrase \"tengo el pecho pelao\" is an idiomatic expression that uses the present tense to convey a sense of permanent or habitual state (\"my chest's bare\"), rather than a temporary one."
+    },
+    {
+      "time": 36.718,
+      "text": "El corazón dándome patá'",
+      "translation": "My heart is kicking me",
+      "grammar": "This idiomatic expression uses the present participle \"dándome\" to convey a sense of continuous action, emphasizing the emotional impact of being rejected. The phrase also employs a colloquial tone and figurative language to express frustration and disappointment."
+    },
+    {
+      "time": 38.411,
+      "text": "Dime, baby, dónde tú estás",
+      "translation": "Tell me, baby, where are you?",
+      "grammar": "The phrase \"dime, baby\" is an informal way to address someone, using the imperative mood and the idiomatic expression \"tell me\". The pronoun \"tú\" indicates the speaker's familiarity with the listener."
+    },
+    {
+      "time": 40.451,
+      "text": "Pa llegarle con Roro, Julito, Cristal",
+      "translation": "To get there with Roro, Julito, Cristal",
+      "grammar": "This phrase uses the preposition \"llegarle\" in the informal second person singular form, which is a common idiomatic expression in Latin American Spanish to indicate traveling or arriving somewhere with someone."
+    },
+    {
+      "time": 42.838,
+      "text": "Roy, Édgar, Seba, Óscar, Dalnelly, Big J, tocando batá",
+      "translation": "Roy, Edgar, Seba, Oscar, Dalnelly, Big J, playing batá",
+      "grammar": "The verb \"tocando\" is in the present continuous tense, indicating an ongoing action. The phrase \"tocando batá\" is an idiom meaning to play or perform on the batá drum."
+    },
+    {
+      "time": 46.267,
+      "text": "Hoy la calle la dejamos esbaratá",
+      "translation": "Today we left the street in ruins",
+      "grammar": "The verb \"dejamos\" is in the preterite tense, indicating a completed action in the past. The phrase \"esbaratá\" is an idiomatic expression meaning to leave something in disarray or chaos."
+    },
+    {
+      "time": 48.654,
+      "text": "Y sería cabrón que tú me toque' el güiro",
+      "translation": "And it would be messed up if you touched my güiro",
+      "grammar": "The phrase \"tú me toque'\" is an informal, colloquial expression meaning \"you touch me\" or \"you bother me\", using the second person singular pronoun \"tú\" and the verb \"tocar\" in the imperative mood. The use of the particle \"'el\" before \"güiro\" emphasizes possession."
+    },
+    {
+      "time": 52.083,
+      "text": "Yo veo tu nombre y me salen suspiros",
+      "translation": "I see your name and I sigh.",
+      "grammar": "The phrase \"me salen\" is an idiomatic expression, literally meaning \"they come out to me\", but figuratively conveying the idea that one's emotions or feelings are triggered by seeing someone's name."
+    },
+    {
+      "time": 55.164,
+      "text": "No sé si son petardos o si son tiros",
+      "translation": "I don't know if they're firecrackers or gunshots.",
+      "grammar": "The verb \"sé\" is in the present tense, indicating a state of uncertainty or doubt. The phrase \"no sé\" is an idiomatic expression used to convey a lack of knowledge or understanding."
+    },
+    {
+      "time": 58.593,
+      "text": "Mi blanquita, perico, mi kilo",
+      "translation": "My little white girl, my parrot, my kilo",
+      "grammar": "This line uses the presentative pronoun \"mi\" to introduce three nouns, which is a common idiomatic expression in Spanish. The use of \"blanquita\", \"perico\", and \"kilo\" as affectionate nicknames for people or animals is also typical in informal speech."
+    },
+    {
+      "time": 60.633,
+      "text": "Yo estoy en PR tranquilo, pero",
+      "translation": "I'm in PR, relaxed, but",
+      "grammar": "This line uses the present continuous tense (estoy) to describe a temporary state of being relaxed, and the adverb tranquilo emphasizes this emotional state."
+    },
+    {
+      "time": 63.021,
+      "text": "Debí tirar más fotos de cuando te tuve",
+      "translation": "I should have taken more pictures from when I had you",
+      "grammar": "The use of \"debí\" (should have) indicates the past conditional tense, expressing regret or hypothetical situations in the past."
+    },
+    {
+      "time": 66.102,
+      "text": "Debí darte más besos y abrazos las veces que pude",
+      "translation": "I should have given you more kisses and hugs the times I could have.",
+      "grammar": "The phrase \"debí darte\" is a conditional perfect construction, expressing regret or hypothetical situations in the past. The verb \"debí\" indicates the speaker's obligation or duty to give more kisses and hugs, had they been able to do so."
+    },
+    {
+      "time": 69.878,
+      "text": "Ey, ojalá que los míos nunca se muden",
+      "translation": "Hey, I hope mine never move",
+      "grammar": "The phrase \"ojalá\" is an expression of wish or hope, used to soften the tone and make a statement more polite. It's often translated as \"I hope\" but has a more casual connotation than the literal translation."
+    },
+    {
+      "time": 72.96,
+      "text": "Y si hoy me emborracho, pues, que me ayuden",
+      "translation": "And if I get drunk today, well, they'd better help me.",
+      "grammar": "The phrase \"que me ayuden\" is a polite way of expressing a request or necessity in the present tense, using the subjunctive mood to convey a sense of uncertainty."
+    },
+    {
+      "time": 76.388,
+      "text": "Debí tirar más fotos de cuando te tuve",
+      "translation": "I should have taken more pictures from when I had you",
+      "grammar": "The use of \"debí\" instead of \"hubiera\" or \"habría\" to express regret in the past is an idiomatic expression, conveying a sense of remorse for not having done something. This construction is often used in informal speech and writing to express hypothetical regret about past actions."
+    },
+    {
+      "time": 79.47,
+      "text": "Debí darte más besos y abrazos las veces que pude",
+      "translation": "I should have given you more kisses and hugs the times I could have.",
+      "grammar": "This sentence uses the past conditional tense to express regret about missed opportunities, with \"debí\" implying a sense of obligation or necessity. The phrase \"las veces que pude\" is an idiomatic expression meaning \"the times I could have\"."
+    },
+    {
+      "time": 83.246,
+      "text": "Ojalá que los míos nunca se muden",
+      "translation": "I hope mine never move",
+      "grammar": "The phrase \"ojalá\" is a common Spanish expression used to convey a wish or hope, often in the present tense. Note that the verb \"mudarse\" (to move) is in the subjunctive mood, indicating a hypothetical or uncertain situation."
+    },
+    {
+      "time": 85.98,
+      "text": "Y si hoy me emborracho, pues, que me ayuden",
+      "translation": "And if I get drunk today, well, they'd better help me.",
+      "grammar": "The phrase \"que me ayuden\" is a polite way of saying \"help me\" in the subjunctive mood, used to express a request or wish. This construction is common in Spanish when making a request to someone else's action."
+    },
+    {
+      "time": 89.409,
+      "text": "Ey, hoy vo'a estar con mi abuelo to el día jugando dominó",
+      "translation": "Hey, today I'm going to be with my grandpa all day playing dominoes",
+      "grammar": "The phrase \"Ey, hoy\" is an informal greeting and introduction in the present continuous tense, used to express spontaneous plans or intentions. The use of \"vo'a\" instead of \"voy\" (I'm going) adds a casual tone to the sentence."
+    },
+    {
+      "time": 94.227,
+      "text": "Si me pregunta si aún pienso en ti, yo le digo que no",
+      "translation": "If he asks me if I still think about you, I'll tell him no.",
+      "grammar": "The verb \"pienso\" is in the present perfect tense, indicating a completed action that has relevance to the present moment. The phrase \"aún pienso en ti\" is an idiomatically used expression meaning \"I still have thoughts of you\"."
+    },
+    {
+      "time": 99.044,
+      "text": "Que mi estadía cerquita de ti ya se terminó",
+      "translation": "That my stay close to you is over",
+      "grammar": "The phrase \"ya se terminó\" is an idiomatic expression indicating completion or finality, using the present perfect tense to convey a sense of definiteness."
+    },
+    {
+      "time": 102.473,
+      "text": "Ya se terminó",
+      "translation": "It's over.",
+      "grammar": "This phrase uses the present perfect tense to convey a sense of completion, implying that something has recently finished. The \"ya\" at the beginning is an informal intensifier equivalent to \"already\" or \"now\"."
+    },
+    {
+      "time": 103.819,
+      "text": "Ey, que prendan las máquinas, voy pa Santurce",
+      "translation": "Hey, turn on the machines, I'm going to Santurce",
+      "grammar": "The phrase \"voy pa\" is an informal way of saying \"I'm going to\" in Puerto Rican Spanish, using the verb \"ir\" (to go) in the present continuous tense. This idiomatic expression is commonly used in spoken language and adds a touch of colloquialism to the sentence."
+    },
+    {
+      "time": 106.9,
+      "text": "Aquí todavía se da caña, chequéate a las babies",
+      "translation": "Things are still going strong here, check out the babes",
+      "grammar": "The phrase \"se da\" is an idiomatic expression meaning \"things are happening\" or \"it's going on\", using the present continuous tense to convey a sense of ongoing activity."
+    },
+    {
+      "time": 110.329,
+      "text": "Diablo, mami, qué dulce",
+      "translation": "Damn, mommy, how sweet",
+      "grammar": "This line uses the informal address \"mami\" to express affection and familiarity, typical in Latin American Spanish. The phrase also employs a colloquial tone with the use of \"diablo\" as an interjection to emphasize surprise or excitement."
+    },
+    {
+      "time": 112.022,
+      "text": "Hoy yo quiero beber, beber, beber",
+      "translation": "Today I want to drink, drink, drink",
+      "grammar": "The repeated verb \"beber\" is an idiomatic expression emphasizing the speaker's strong desire or enthusiasm."
+    },
+    {
+      "time": 114.409,
+      "text": "Y hablar mierda hasta que me expulsen",
+      "translation": "And talk shit until I get kicked out",
+      "grammar": "This informal expression uses the present continuous tense to convey a sense of persistence or determination, with \"hasta que\" indicating a duration up to a certain point. The phrase \"hablar mierda\" is an idiomatic way to say \"talk nonsense\" or \"talk trash\"."
+    },
+    {
+      "time": 117.144,
+      "text": "Toy bien loco (toy bien loco), toy bien loco (toy bien loco)",
+      "translation": "I'm really crazy (I'm really crazy), I'm really crazy (I'm really crazy)",
+      "grammar": "The repeated phrase \"toy bien loco\" is an idiomatic expression emphasizing the speaker's extreme craziness, using the present tense to convey a sense of ongoing or habitual behavior."
+    },
+    {
+      "time": 121.614,
+      "text": "Cabrón, guía tú, que hasta caminando yo estoy que choco",
+      "translation": "Damn it, you lead the way, I'm so tired I could crash even while walking.",
+      "grammar": "The phrase \"estoy que choco\" is an idiomatic expression indicating extreme fatigue, using the present continuous tense to emphasize the intensity of being tired."
+    },
+    {
+      "time": 125.39,
+      "text": "Toy bien loco (toy bien loco), toy bien loco (toy bien loco)",
+      "translation": "I'm really crazy (I'm really crazy), I'm really crazy (I'm really crazy)",
+      "grammar": "The repeated phrase \"toy bien loco\" is an idiomatic expression emphasizing the speaker's intense emotions, using the present tense to convey a sense of ongoing craziness."
+    },
+    {
+      "time": 129.86,
+      "text": "Vamo a disfrutar, que nunca se sabe si nos queda poco",
+      "translation": "Let's enjoy it, because you never know if we don't have much time left.",
+      "grammar": "This line uses the present tense of the verb \"disfrutar\" to express a sense of urgency and encourages the listener to take action immediately. The phrase \"que nunca se sabe\" is an idiomatic expression meaning \"because one never knows\"."
+    },
+    {
+      "time": 133.983,
+      "text": "Debí tirar más f-",
+      "translation": "I should have thrown more f-",
+      "grammar": "This sentence uses the conditional perfect tense to express regret about a past action, with \"debí\" indicating that it was necessary or advisable to take the action. The use of \"f-\" is an idiomatic expression meaning \"foul\" or \"bad\"."
+    },
+    {
+      "time": 135.676,
+      "text": "Gente, los quiero con cojones, los amo",
+      "translation": "Guys, I love you guys so much, I adore you",
+      "grammar": "The phrase \"con cojones\" is an idiomatic expression meaning \"with guts\" or \"with courage,\" used to emphasize strong affection. The verb \"quiero\" is in the present tense, indicating a general and ongoing feeling of love."
+    },
+    {
+      "time": 138.41,
+      "text": "Gracias por estar aquí, de verdad",
+      "translation": "Thank you for being here, really",
+      "grammar": "The phrase \"de verdad\" is an idiomatic expression used to emphasize sincerity or authenticity, equivalent to saying \"really\" or \"truly\"."
+    },
+    {
+      "time": 140.798,
+      "text": "Para mí es bien importante que estén aquí",
+      "translation": "It's very important to me that you're here.",
+      "grammar": "The phrase \"para mí\" is an idiomatic expression indicating the speaker's personal importance or priority, equivalent to saying \"to me\" in English."
+    },
+    {
+      "time": 143.879,
+      "text": "Cada uno de ustedes significa mucho para mí",
+      "translation": "Each one of you means a lot to me",
+      "grammar": "The phrase \"cada uno de ustedes\" is in the present tense, using the formal plural pronoun \"ustedes\" to show respect and politeness. This idiomatic expression emphasizes the importance or value each person has for the speaker."
+    },
+    {
+      "time": 146.961,
+      "text": "Así que vamos pa la foto, vengan p'acá",
+      "translation": "So let's go for the photo, come here",
+      "grammar": "This line uses the present tense to express a spontaneous decision and the imperative mood to give orders. The phrase \"vamos\" is an idiomatic expression meaning \"let's go\" rather than the literal \"we're going\"."
+    },
+    {
+      "time": 150.39,
+      "text": "Métase to el mundo, to el corillo, vamo",
+      "translation": "Everyone get in, the whole gang, let's go",
+      "grammar": "This line uses the imperative mood to give orders, with \"vamo\" being an informal way of saying \"let's go\" or \"come on\". The phrase \"to el mundo, to el corillo\" is an idiomatic expression meaning \"everyone\" or \"the whole gang\", emphasizing inclusivity."
+    },
+    {
+      "time": 153.471,
+      "text": "Zumba",
+      "translation": "Zumba",
+      "grammar": "This interjection is used to express enthusiasm or excitement, often in a playful or energetic tone."
+    },
+    {
+      "time": 154.671,
+      "text": "Ya Bernie tiene el nene, y Jan, la nena",
+      "translation": "Bernie already has a boy, and Jan, a girl.",
+      "grammar": "This sentence uses the present perfect tense (ya + verb) to indicate that an action started in the past and continues up to the moment of speaking. The phrase \"el nene\" and \"la nena\" are idiomatic expressions meaning \"a boy\" and \"a girl\", respectively, with the definite article indicating that they refer to specific individuals."
+    },
+    {
+      "time": 158.1,
+      "text": "Ya no estamos pa la movie y las cadenas",
+      "translation": "We're not into movies and chains anymore.",
+      "grammar": "The phrase \"ya no\" is an idiomatic expression indicating a change in situation or perspective, equivalent to \"no longer\" or \"not anymore\"."
+    },
+    {
+      "time": 161.529,
+      "text": "Estamos pa las cosas que valgan la pena",
+      "translation": "We're here for things that are worthwhile",
+      "grammar": "The phrase \"estamos pa\" is an informal way of saying \"we're waiting for\" or \"we're looking forward to\", using the present continuous tense (estar + infinitive) and the preposition \"pa\" instead of \"para\". This idiomatic expression conveys a sense of anticipation and eagerness."
+    },
+    {
+      "time": 164.61,
+      "text": "Ey, pa'l perreo, la salsa, la bomba y la plena",
+      "translation": "Hey, for reggaeton, salsa, bomba and plena",
+      "grammar": "This line uses the informal greeting \"Ey\" as an interjection to grab attention, followed by a phrase that employs the idiomatic expression \"pa'l perreo\" (literally \"for dancing\") to specify the genre of music."
+    },
+    {
+      "time": 168.734,
+      "text": "Chequéate la mía cómo es que suena",
+      "translation": "Check out mine, see what it sounds like",
+      "grammar": "The phrase \"Chequéate\" is an informal imperative verb form in the second person plural, equivalent to \"check yourselves out\"."
+    },
+    {
+      "time": 171.468,
+      "text": "Debí tirar más fotos de cuando te tuve",
+      "translation": "I should have taken more pictures from when I had you",
+      "grammar": "The use of \"debí\" (should have) indicates the past conditional tense, expressing regret or hypothetical situations."
+    },
+    {
+      "time": 174.55,
+      "text": "Debí darte más besos y abrazos las veces que pude",
+      "translation": "I should have given you more kisses and hugs the times I could have.",
+      "grammar": "The use of \"debí\" instead of \"hubiera\" indicates a past regret or remorse, expressing a sense of should-have-done-something-in-the-past in the subjunctive mood. This construction emphasizes the speaker's emotional tone, conveying a sense of longing and apology."
+    },
+    {
+      "time": 178.325,
+      "text": "Ojalá que los míos nunca se muden",
+      "translation": "I hope mine never move",
+      "grammar": "The phrase \"ojalá\" is an idiomatic expression used to convey a wish or hope, often in the present tense, which in this case implies a habitual or general sense of longing. The possessive adjective \"mios\" agrees with the plural noun \"los míos\", referring to one's own people or family."
+    },
+    {
+      "time": 181.06,
+      "text": "Y que tú me envíes más nudes",
+      "translation": "And that you send me more nudes",
+      "grammar": "The phrase \"me envíes\" is in the subjunctive mood, used to express a desire or wish, rather than a factual statement. This is common in Spanish when expressing hopes or requests about someone else's actions."
+    },
+    {
+      "time": 183.794,
+      "text": "Y, si hoy me emborracho, que Beno me ayude",
+      "translation": "And if I get drunk today, let Beno help me.",
+      "grammar": "The phrase \"si hoy\" is an idiomatic expression indicating a hypothetical or conditional situation in the present tense, equivalent to \"if it happens today\"."
+    }
+  ]
+}

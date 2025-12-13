@@ -1,0 +1,307 @@
+{
+  "id": "es_provenza",
+  "title": "PROVENZA",
+  "artist": "KAROL G",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_provenza.mp3",
+  "duration": 210,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Baby, ¿qué más?",
+      "translation": "Baby, what else?",
+      "grammar": "This line uses the informal and colloquial expression \"¿Qué más?\" to ask about additional or further information, which is a common idiom in Spanish."
+    },
+    {
+      "time": 1.939,
+      "text": "Hace rato que no sé na' de ti",
+      "translation": "I haven't heard from you in a while.",
+      "grammar": "The phrase \"hace rato\" is an idiomatic expression meaning \"a long time\" or \"for a while\", used to indicate the passage of time, and it's often translated as \"since\" or \"ago\"."
+    },
+    {
+      "time": 6.61,
+      "text": "Taba con alguien, pero ya estoy free",
+      "translation": "I was with someone, but I'm free now.",
+      "grammar": "The phrase \"ya estoy\" is a colloquial way to express the present perfect tense in Spanish, indicating that an action started in the past and continues up to the moment of speaking."
+    },
+    {
+      "time": 10.735,
+      "text": "Puesta pa revivir viejos tiempo', no salgo hace tiempo",
+      "translation": "'Set up to relive old times', I haven't been out in a while",
+      "grammar": "The phrase \"no salgo hace tiempo\" is an idiomatic expression indicating the speaker's prolonged absence from social events, conveyed through the use of the present perfect tense (\"hace tiempo\") and the negation \"no\"."
+    },
+    {
+      "time": 15.952,
+      "text": "Tú dime, dónde está'",
+      "translation": "You tell me, where is it?",
+      "grammar": "In this line, the verb \"dime\" is in the imperative mood, used to give a direct command. The pronoun \"tú\" indicates the informal, singular form of address."
+    },
+    {
+      "time": 18.437,
+      "text": "Que hace rato que no sé na' de ti",
+      "translation": "It's been a while since I've heard from you.",
+      "grammar": "The phrase \"hace rato\" is an idiomatic expression meaning \"it's been a while\", using the present perfect tense to convey a sense of duration. The phrase \"no sé na'\" is a colloquial way of saying \"I haven't heard from you\"."
+    },
+    {
+      "time": 23.655,
+      "text": "Taba con alguien, pero ya estoy free",
+      "translation": "I was with someone, but I'm free now.",
+      "grammar": "The phrase \"ya estoy\" is a colloquial way to express the present perfect tense in Spanish, indicating that the action of being with someone started and finished at some point in the past."
+    },
+    {
+      "time": 27.779,
+      "text": "Puesta pa revivir viejos tiempo', no salgo hace tiempo",
+      "translation": "'Set up to relive old times', I haven't been out in a while",
+      "grammar": "The phrase \"no salgo hace tiempo\" is an idiomatic expression indicating the speaker's absence from social activities for some time, using the present perfect tense to emphasize the duration."
+    },
+    {
+      "time": 32.997,
+      "text": "Papi, nos perdemo', nos parqueamo' y lo prendemo'",
+      "translation": "Daddy, we get lost, we park, and we light it up.",
+      "grammar": "This line uses the informal \"vosotros\" form of Spanish, which is often translated as \"you guys\" or \"y'all\", to address a familiar person. The verb forms \"prendemo'\" (light it up) are in the present tense, indicating an ongoing action."
+    },
+    {
+      "time": 37.668,
+      "text": "Pa la seca algo bebemo, y cuando nos emborrachemo'",
+      "translation": "We'll drink something when we're dry, and when we get drunk...",
+      "grammar": "The verb \"bebemo\" is in the future tense, indicating a planned action. The phrase \"nos emborrachemo\" uses the reflexive pronoun \"nos\" to emphasize the shared experience of getting drunk."
+    },
+    {
+      "time": 42.885,
+      "text": "Una de reguetón ponemo' y nos vamo' a donde nos podamos querer",
+      "translation": "We'll put on a reggaeton song and go wherever we can love each other",
+      "grammar": "The verb phrase \"ponemo'\" is in the future tense, indicating an intention or plan to do something. The use of \"vamo'\" (let's go) is an informal, colloquial expression that adds a sense of spontaneity and shared decision-making among friends."
+    },
+    {
+      "time": 49.741,
+      "text": "Nos podamos comer (eh-ah)",
+      "translation": "We can eat each other (eh-ah)",
+      "grammar": "This line uses the first person plural verb form \"podamos\" to express a hypothetical or potential situation, indicating a mood of possibility rather than reality. The phrase \"comer cada otro\" is an idiomatic expression meaning \"to eat each other\", implying mutual consumption or destruction."
+    },
+    {
+      "time": 52.773,
+      "text": "Papi, nos perdemo', nos parqueamo' y lo prendemo'",
+      "translation": "Daddy, we get lost, we park, and we light it up.",
+      "grammar": "The use of \"prendemo'\" is an informal verb conjugation in the first person plural, indicating a spontaneous action, similar to \"we're gonna\" or \"we'll do\". This colloquial expression adds a sense of familiarity and intimacy to the dialogue."
+    },
+    {
+      "time": 57.444,
+      "text": "Pa la seca algo bebemo', y cuando nos emborrachemo'",
+      "translation": "We'll drink something when we're dry, and when we get drunk",
+      "grammar": "The verb \"bebemo'\" is in the future tense, indicating a planned action. The phrase \"nos emborrachemo'\" uses the reflexive pronoun \"nos\" to emphasize the shared experience of getting drunk."
+    },
+    {
+      "time": 62.661,
+      "text": "Una de reguetón ponemo' y nos vamo' a donde nos podamos querer",
+      "translation": "We'll put on a reggaeton song and go wherever we can love each other",
+      "grammar": "The verb phrase \"ponemo'\" is in the first person plural future tense, indicating the speakers' intention to do something. The use of \"vamo'\" instead of \"iremos\" (we will go) adds a sense of spontaneity and informality to the sentence."
+    },
+    {
+      "time": 69.518,
+      "text": "Nos podamos comer",
+      "translation": "We can eat",
+      "grammar": "The phrase \"Nos podamos\" is an informal, colloquial way to express permission or possibility in Spanish, equivalent to saying \"We're allowed to\" or \"We can\". The verb \"podamos\" is in the subjunctive mood, indicating a hypothetical or uncertain situation."
+    },
+    {
+      "time": 71.457,
+      "text": "Baby, ¿qué más?",
+      "translation": "Baby, what else?",
+      "grammar": "This line uses the informal and colloquial expression \"¿Qué más?\" which is an idiomatic way to ask \"What's left?\" or \"What else can I do?\". The speaker is encouraging the baby to continue doing something."
+    },
+    {
+      "time": 73.396,
+      "text": "Hace rato que no sé na' de ti (wuh, yeh)",
+      "translation": "I haven't heard from you in a while (wuh, yeh)",
+      "grammar": "The phrase \"hace rato\" is an idiomatic expression meaning \"a long time\" or \"for a while\", using the present perfect tense to convey the idea of a duration that started in the past and continues up to the moment of speaking."
+    },
+    {
+      "time": 79.16,
+      "text": "Taba con alguien, pero ya estoy free ('toy free)",
+      "translation": "I was with someone, but I'm free now.",
+      "grammar": "The phrase \"ya estoy\" is a colloquial way to express the present perfect tense in Spanish, indicating that the action of being with someone started and finished at some point in the past."
+    },
+    {
+      "time": 84.377,
+      "text": "Puesta pa revivir viejos tiempo', no salgo hace tiempo",
+      "translation": "'Set up to relive old times', I haven't been out in a while",
+      "grammar": "The phrase \"no salgo hace tiempo\" is an idiomatic expression indicating the speaker's prolonged absence from social activities, conveyed through the combination of \"no salgo\" (I don't go out) and \"hace tiempo\" (a long time)."
+    },
+    {
+      "time": 89.594,
+      "text": "Tú dime, dónde está' (tú dime, tú dime)",
+      "translation": "You tell me, where is it? (You tell me, you tell me)",
+      "grammar": "The phrase \"Tú dime\" is an idiomatic expression meaning \"Tell me\", using the informal second-person singular \"tú\" and the verb \"dime\" in the imperative mood."
+    },
+    {
+      "time": 94.265,
+      "text": "Que hace rato que no sé na' de ti (na de ti)",
+      "translation": "It's been a while since I've heard from you (anything about you)",
+      "grammar": "The phrase \"que hace rato\" is an idiomatic expression indicating a period of time, equivalent to \"it's been a while\". The use of the verb \"hacer\" in this context implies a duration or extent, rather than its usual meaning of \"to do\"."
+    },
+    {
+      "time": 101.122,
+      "text": "Taba con alguien, pero ya estoy free (wuh)",
+      "translation": "I was with someone, but I'm free now (wuh)",
+      "grammar": "The phrase \"ya estoy\" is a colloquial way to express the present perfect tense in Spanish, indicating that the action of being with someone started and finished in the past."
+    },
+    {
+      "time": 105.793,
+      "text": "Puesta pa revivir viejos tiempo', no salgo hace tiempo",
+      "translation": "'Set up to relive old times', I haven't been out in a while",
+      "grammar": "The phrase \"no salgo hace tiempo\" is an idiomatic expression indicating a prolonged period of absence or non-participation, using the present perfect tense to convey the speaker's current situation."
+    },
+    {
+      "time": 111.01,
+      "text": "¿Qué malo puede pasar?",
+      "translation": "What bad thing could possibly happen?",
+      "grammar": "The phrase ¿Qué malo puede pasar? is an idiomatic expression used to convey surprise or skepticism, with the verb pasar in the present subjunctive mood indicating a hypothetical or potential situation."
+    },
+    {
+      "time": 113.496,
+      "text": "¿Que nos vaya mal? Estoy afuera, sal",
+      "translation": "Things going badly for us? I'm outside, come out.",
+      "grammar": "The phrase \"¿Qué nos vaya mal?\" is an idiomatic expression used to ask if something is going wrong or if bad luck is following. The verb \"vaya\" is in the subjunctive mood, indicating a hypothetical or uncertain situation."
+    },
+    {
+      "time": 117.62,
+      "text": "Tenemos cosas pendientes por repasar",
+      "translation": "We have some things we need to go over.",
+      "grammar": "The phrase \"tenemos cosas\" is in the present tense, indicating that there are ongoing tasks or issues that need attention. The use of \"pendientes\" implies a sense of urgency, emphasizing the importance of reviewing these matters."
+    },
+    {
+      "time": 120.652,
+      "text": "Tú ere' un polvito difícil de reemplazar (sí)",
+      "translation": "You're a little something hard to replace (yes)",
+      "grammar": "The phrase \"ere' un\" is an idiomatic expression used to emphasize the speaker's strong opinion, equivalent to saying \"you are indeed\". The verb \"ere'\" is in the present tense, indicating a general truth or characteristic."
+    },
+    {
+      "time": 125.323,
+      "text": "No sé si te convenza (ey)",
+      "translation": "I don't know if I'll convince you (hey)",
+      "grammar": "The use of \"convenza\" in the present tense implies a hypothetical or uncertain situation, and the phrase is an idiomatic expression meaning \"to persuade\" or \"to convince\"."
+    },
+    {
+      "time": 128.901,
+      "text": "Nos damo' un rocecito por Provenza",
+      "translation": "We'll have a little fling in Provence",
+      "grammar": "The phrase \"damos'\" is an informal, colloquial way of saying \"we will\" or \"let's,\" indicating a casual, spontaneous agreement. The use of the verb \"damos'\" implies a sense of shared enthusiasm and playfulness."
+    },
+    {
+      "time": 132.479,
+      "text": "Y si la cosa se pone tensa, en mi cama la recompensa",
+      "translation": "And if things get tense, the reward is in my bed.",
+      "grammar": "The phrase \"en mi cama\" uses the preposition \"en\" to indicate a metaphorical or figurative location, rather than a literal one, emphasizing the idea that the reward is not just physical but also emotional."
+    },
+    {
+      "time": 139.336,
+      "text": "O viceversa, ¿por qué lo piensas?",
+      "translation": "Or vice versa, why do you think that?",
+      "grammar": "The phrase \"¿por qué lo piensas?\" is an idiomatic expression asking for the reason or thought process behind someone's opinion. The use of \"lo\" agrees with the pronoun \"piensas\", indicating a focus on the thought process rather than the person thinking."
+    },
+    {
+      "time": 142.914,
+      "text": "Pasamo' por el barrio por hierba",
+      "translation": "We went through the neighborhood for weed",
+      "grammar": "The phrase \"pasamo'\" is an informal, colloquial way to express going through a place, often used in spoken Spanish. The verb \"pasar\" is in the preterite tense, indicating completed action."
+    },
+    {
+      "time": 146.492,
+      "text": "Ponlo en la hookah pa que se disuelva",
+      "translation": "Put it in the hookah so it dissolves.",
+      "grammar": "The phrase \"ponlo en\" is an idiomatic expression meaning \"put it in\" or \"insert it into\", using the verb \"poner\" (to put) in a figurative sense. The use of \"hookah\" as a metaphorical container adds to the song's poetic and imaginative tone."
+    },
+    {
+      "time": 151.163,
+      "text": "La química todavía se conserva",
+      "translation": "The chemistry is still preserved",
+      "grammar": "The verb \"conservar\" is in the present perfect tense, indicating that the action of preserving started in the past and continues up to the present."
+    },
+    {
+      "time": 154.195,
+      "text": "Y yo te lo hago rico para que vuelva'",
+      "translation": "And I'll make him rich so he'll come back.",
+      "grammar": "The phrase \"yo te lo hago\" is an idiomatic expression, equivalent to \"I'll do it for you\", where the verb \"hacer\" is in the future tense and the pronoun \"te\" indicates the indirect object."
+    },
+    {
+      "time": 159.412,
+      "text": "Aunque mañana me voy",
+      "translation": "Although I'm leaving tomorrow",
+      "grammar": "This line uses the present tense of the verb \"ir\" (to go) to express a future action, which is common in Spanish. The phrase \"mañana me voy\" can be translated as \"I'm leaving tomorrow\"."
+    },
+    {
+      "time": 161.898,
+      "text": "Aprovéchame, que aquí estoy",
+      "translation": "Take advantage of me, because I'm here.",
+      "grammar": "The phrase \"aprovéchame\" is an idiomatic expression that uses the verb \"aprovechar\" in the imperative mood, instructing someone to take advantage of a situation. Note that this construction is informal and conversational, often used with friends or acquaintances."
+    },
+    {
+      "time": 164.383,
+      "text": "Puesta pa ti",
+      "translation": "Set for you",
+      "grammar": "This phrase uses the idiomatic expression \"puesta\" to mean \"set up\" or \"prepared\", rather than its literal meaning of \"putting\". The verb is in the subjunctive mood, indicating a hypothetical or polite tone."
+    },
+    {
+      "time": 166.322,
+      "text": "Por eso te escribí",
+      "translation": "That's why I wrote to you",
+      "grammar": "The phrase \"Por eso\" is an idiomatic expression meaning \"That's why\", using the subjunctive mood to express a reason or explanation, which is common in Spanish."
+    },
+    {
+      "time": 168.808,
+      "text": "Baby, ¿qué más?",
+      "translation": "Baby, what else?",
+      "grammar": "This line uses the informal and colloquial phrase \"¿Qué más?\" which is an idiomatic expression meaning \"what else?\" or \"what's next?\". The speaker is encouraging the listener to share more information."
+    },
+    {
+      "time": 170.747,
+      "text": "Hace rato que no sé na de ti",
+      "translation": "I haven't heard from you in a while.",
+      "grammar": "This sentence uses the present perfect tense (hace rato) to express an action that started in the past and continues up to the moment of speaking, conveying a sense of duration. The phrase \"no sé na de ti\" is an idiomatic expression meaning \"I haven't heard from you\"."
+    },
+    {
+      "time": 175.418,
+      "text": "Taba con alguien, pero ya estoy free (huh)",
+      "translation": "I was with someone, but I'm free now (huh)",
+      "grammar": "The use of \"ya estoy\" in the phrase \"ya estoy free\" is an example of the present perfect tense used to convey a sense of completion or finality, implying that the speaker has recently gained their freedom."
+    },
+    {
+      "time": 180.089,
+      "text": "Puesta pa revivir viejos tiempo', no salgo hace tiempo",
+      "translation": "'Set up to relive old times', I haven't been out in a while",
+      "grammar": "The phrase \"no salgo hace tiempo\" is an idiomatic expression indicating the speaker's reluctance or lack of interest in going out, conveyed through the use of the present perfect tense (hace tiempo) and the negation particle no."
+    },
+    {
+      "time": 185.306,
+      "text": "Tú dime, dónde está' (tú dime, tú dime)",
+      "translation": "You tell me, where is it? (You tell me, you tell me)",
+      "grammar": "The phrase \"Tú dime\" is an idiom that means \"Tell me\", using the informal second person singular \"tú\" and the verb \"dime\" in the imperative mood."
+    },
+    {
+      "time": 189.977,
+      "text": "Que hace rato que no sé na' de ti (na de ti)",
+      "translation": "It's been a while since I've heard from you (anything about you)",
+      "grammar": "The phrase \"que hace rato\" is an idiomatic expression indicating a period of time, equivalent to \"it's been a while\". The verb \"hace\" is in the present tense, describing a completed action in the past."
+    },
+    {
+      "time": 196.834,
+      "text": "Taba con alguien, pero ya estoy free (wuh)",
+      "translation": "I was with someone, but I'm free now (wuh)",
+      "grammar": "The phrase \"ya estoy\" is a colloquial way of expressing the present perfect tense in Spanish, indicating that the speaker has recently gained freedom. The use of \"ya\" implies a sense of finality and emphasizes the current state of being free."
+    },
+    {
+      "time": 201.504,
+      "text": "Puesta pa revivir viejos tiempo', no salgo hace tiempo",
+      "translation": "'Set up to relive old times', I haven't been out in a while",
+      "grammar": "The phrase \"no salgo hace tiempo\" is an idiomatic expression indicating a prolonged period of time, equivalent to \"it's been a long time since I went out\". The verb \"salgo\" agrees with the subject \"yo\" (I) in number and person."
+    },
+    {
+      "time": 206.722,
+      "text": "O-O-Ovy On The Drums",
+      "translation": "O-O-Ovy On The Drums",
+      "grammar": "This line is an interjection, used to express excitement or emphasis. It does not have a specific grammatical function and can be translated literally as it appears in the original text."
+    }
+  ]
+}

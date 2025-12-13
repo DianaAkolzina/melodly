@@ -1,0 +1,433 @@
+{
+  "id": "gd_i_need_u",
+  "title": "I NEED U",
+  "artist": "LAY",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "zh",
+  "to_language": "en",
+  "audio": "/audio/gd_i_need_u.mp3",
+  "duration": 219,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "I need u baby I really want you",
+      "translation": "I need u baby I really want you",
+      "grammar": "This informal dialogue uses the present tense to express a strong desire, with \"need\" and \"want\" conveying urgency. The use of \"u\" instead of \"you\" is an example of colloquial language and casual tone."
+    },
+    {
+      "time": 2.81,
+      "text": "Oh yeah I need u need u girl",
+      "translation": "Oh yeah, I need you, I need you, girl.",
+      "grammar": "This line uses the present tense to express a strong desire or necessity, with the idiomatic phrase \"I need u\" emphasizing the urgency of the speaker's needs."
+    },
+    {
+      "time": 5.62,
+      "text": "Shang yi shou ge dui shang jie pai",
+      "translation": "Shang yi shou ge dui shang jie pai",
+      "grammar": "This phrase uses the present tense to describe a habitual action, with \"\" (shang) indicating a repeated or customary action. The phrase can be translated as \"I usually put it on top\" rather than a one-time action."
+    },
+    {
+      "time": 8.43,
+      "text": "Shang yi shou ge mi mi zai deng dai jie kai",
+      "translation": "Shang yi shou ge mi mi zai deng dai jie kai",
+      "grammar": "The phrase \"shang yi\" is an idiomatic expression meaning \"at last\" or \"finally\", used to indicate the speaker's relief or satisfaction at something happening."
+    },
+    {
+      "time": 12.182,
+      "text": "(Hao xiang ni you yi dian shen mi)",
+      "translation": "(Hao xiang ni you yi dian shen mi)",
+      "grammar": "This line uses the idiomatic expression \"\" (hǎo xiāng nǐ yǒu yī diǎn shēn mì), which literally means \"It's like you have a secret\", but figuratively means \"You're so cool\" or \"I'm impressed by you\"."
+    },
+    {
+      "time": 14.992,
+      "text": "I try (ni dui wo lai shuo tai shen mi)",
+      "translation": "I try (ni dui wo lai shuo tai shen mi)",
+      "grammar": "The phrase \"ni dui\" is an idiomatic expression meaning \"you're right\", using the informal second-person pronoun \"ni\" and the verb \"dui\" in the present tense, indicating agreement or confirmation."
+    },
+    {
+      "time": 18.43,
+      "text": "Xiang xiang bin mao pao ai mei deng dai",
+      "translation": "Xiang xiang bin mao pao ai mei deng dai",
+      "grammar": "This line is an idiomatic expression, using the verb \"pao\" () in a figurative sense to mean \"to be deeply in love\". The sentence structure is informal and conversational."
+    },
+    {
+      "time": 21.553,
+      "text": "Xiang shuang ren du wu zai yuan di da zhuan kong bai",
+      "translation": "Xiang shuang ren du wu zai yuan di da zhuan kong bai",
+      "grammar": "This line is an idiomatic expression, using the verb \"\" (du) in its habitual sense to describe a common or typical situation."
+    },
+    {
+      "time": 25.619,
+      "text": "(Dang ni man man de kao jin)",
+      "translation": "(Dang ni man man de kao jin)",
+      "grammar": "This idiomatic expression uses the verb dang to convey a sense of suddenness or surprise, often translated as \"just\" or \"only\", indicating that something happened recently. The sentence is in the present perfect tense, emphasizing the recent nature of the action."
+    },
+    {
+      "time": 28.115,
+      "text": "Bu ying gai (ji xu kao jin)",
+      "translation": "Bu ying gai (ji xu kao jin)",
+      "grammar": "This phrase uses the idiomatic expression \"\" (bu ying gai), which is a common way to express reluctance or hesitation in Chinese, equivalent to English \"I don't want to\" or \"I'm not willing to\". The sentence is in the negative declarative mood."
+    },
+    {
+      "time": 30.611,
+      "text": "Baby wu guang you shi se de hua ban",
+      "translation": "Baby wu guang you shi se de hua ban",
+      "grammar": "This line uses the idiomatic expression \"\" (wǔ guāng yǒu shì sè de huà bǎn) to convey that something is very beautiful or impressive, with \"wu guang\" meaning \"five colors\" and implying a sense of perfection."
+    },
+    {
+      "time": 33.735,
+      "text": "Zhao ying ni na mi ren de ce lian oh mine",
+      "translation": "Zhao ying ni na mi ren de ce lian oh mine",
+      "grammar": "This line uses the idiomatic expression \"\" (zhāo yìng nǐ nà mǐ rén de cè lián) to express a sense of shared experience or mutual understanding, with the speaker and listener being on the same wavelength."
+    },
+    {
+      "time": 37.487,
+      "text": "Baby tai duo hua ti xu yao cai",
+      "translation": "Baby tai duo hua ti xu yao cai",
+      "grammar": "This line is an idiomatic expression, where \"\" (tài duō) means \"too many\" and \"\" (xū yào) means \"necessary\". The phrase implies that something is excessive or overwhelming."
+    },
+    {
+      "time": 40.297,
+      "text": "Hua bie jiang dao yi ban",
+      "translation": "Hua bie jiang dao yi ban",
+      "grammar": "This line uses the idiomatic expression \"\" (húa biē jiàng dào yī bàn) to convey a sense of resignation or acceptance, with no specific tense or mood indicated."
+    },
+    {
+      "time": 42.479,
+      "text": "Baby yong yin yue da qi wu tai",
+      "translation": "Baby yong yin yue da qi wu tai",
+      "grammar": "This line uses the present tense to describe a habitual action, with \"\" (yīng) indicating a tendency or habit. The phrase is an idiomatic expression meaning \"to have a strong desire\" or \"to be eager\"."
+    },
+    {
+      "time": 45.29,
+      "text": "It's cool cool cool",
+      "translation": "It's cool cool cool",
+      "grammar": "This phrase uses the present simple tense to express a general truth or habitual action, and the repetition of \"cool\" emphasizes its intensity."
+    },
+    {
+      "time": 47.158,
+      "text": "Jiu shi jin tian gen zhe gan jue lai",
+      "translation": "Jiu shi jin tian gen zhe gan jue lai",
+      "grammar": "This line uses the present perfect tense to describe an ongoing process, indicating that the speaker has been thinking deeply about something since this morning. The phrase \"\" is an idiom meaning \"to have a deep thought\" or \"to be pondering\"."
+    },
+    {
+      "time": 50.282,
+      "text": "Gao su ni dao di what I need",
+      "translation": "Gao su ni dao di what I need",
+      "grammar": "This line uses the idiomatic expression \"\" (gāo sù nǐ dào dì) to mean \"to tell someone where they are\" or \"to give someone a reality check\". The sentence is in the imperative mood, with the speaker instructing someone to reveal their true intentions."
+    },
+    {
+      "time": 53.092,
+      "text": "I need u girl girl girl",
+      "translation": "I need you, girl, girl, girl.",
+      "grammar": "In informal spoken English, the phrase \"need\" can be used to express strong desire or craving, rather than necessity. The use of \"u\" instead of \"you\" is a colloquialism and an example of casual language in conversation."
+    },
+    {
+      "time": 55.275,
+      "text": "Zheng ye de lu biao quan bu dou zhi xiang le ni",
+      "translation": "Zheng ye de lu biao quan bu dou zhi xiang le ni",
+      "grammar": "This sentence uses the informal second-person pronoun \"ni\" to address the listener, which is a common feature of spoken Chinese. The verb phrase \"zhi xiang le\" is in the past perfect tense, indicating that the speaker's intention has been fulfilled."
+    },
+    {
+      "time": 59.34,
+      "text": "Tell me you you you",
+      "translation": "Tell me you you you",
+      "grammar": "This line illustrates a common idiomatic expression in English, where repetition of a word or phrase emphasizes its importance or intensity. The imperative mood and repeated use of the pronoun \"you\" create a sense of urgency and intimacy, as if the speaker is pleading for reassurance."
+    },
+    {
+      "time": 61.209,
+      "text": "You le wo yi hou cheng wei zui xing fu de gong zhu",
+      "translation": "You le wo yi hou cheng wei zui xing fu de gong zhu",
+      "grammar": "This line uses the idiomatic expression \"\" (nǐ le wǒ yī hòu chéng wèi zuì xīng fú de gōng zhū), which is a figurative way to say \"You're the best boss ever\" in English, emphasizing the speaker's gratitude and admiration."
+    },
+    {
+      "time": 65.588,
+      "text": "I need u girl girl girl",
+      "translation": "I need you, girl, girl, girl.",
+      "grammar": "In informal spoken English, the verb \"need\" is often used in the present continuous tense to express a strong desire or urgency, as seen in this lyric line. The use of \"u\" instead of \"you\" is an informal colloquialism common in casual speech and text messaging."
+    },
+    {
+      "time": 67.771,
+      "text": "Bu yao zai shi tan wo de xin I need u",
+      "translation": "Bu yao zai shi tan wo de xin I need u",
+      "grammar": "This line uses the informal expression \"I need you\" (u) in place of the more formal \"I need you\" (nǐ), indicating a casual tone and familiarity with the listener."
+    },
+    {
+      "time": 71.522,
+      "text": "Bie yao bai bie fa dai zhe yang shi ai girl",
+      "translation": "Bie yao bai bie fa dai zhe yang shi ai girl",
+      "grammar": "The phrase \"bie yao\" is an idiomatic expression meaning \"don't want to\" or \"not willing to\", using the negative particle \"bie\" and the verb \"yao\" in the imperative mood."
+    },
+    {
+      "time": 75.273,
+      "text": "Wo yao zao zhi dao zhe mei you jie yao",
+      "translation": "I want to know this is not the way you know.",
+      "grammar": "The phrase \"\" (wo yao) is an idiomatic expression meaning \"I want\" or \"I wish\", rather than a literal statement of desire. The sentence uses the present tense to express a general intention, rather than a specific plan."
+    },
+    {
+      "time": 78.711,
+      "text": "Yi bian zai wei xiao you yi bian zai fan nao",
+      "translation": "Yi bian zai wei xiao you yi bian zai fan nao",
+      "grammar": "This idiomatic phrase uses the verb \"zai\" in a habitual sense, implying repeated actions or states, and is often used to express irony or sarcasm. The sentence structure is informal and conversational, typical of spoken Chinese."
+    },
+    {
+      "time": 82.462,
+      "text": "Cai le sha che ting bu liao",
+      "translation": "Cai le sha che ting bu liao",
+      "grammar": "This idiomatic phrase uses the verb \"ting\" in the imperative mood, instructing someone to stop doing something. Note that the verb \"ting\" is often used in informal Cantonese speech to mean \"to stop\" or \"to cease\"."
+    },
+    {
+      "time": 84.959,
+      "text": "Suo xing ji xu jia su du",
+      "translation": "Suo xing ji xu jia su du",
+      "grammar": "This line is an idiomatic expression, literally meaning \"as one's name is so written\" but figuratively conveying the idea that something is predetermined or inevitable."
+    },
+    {
+      "time": 87.455,
+      "text": "Hey girl dang ni man man de kao jin",
+      "translation": "Hey girl dang ni man man de kao jin",
+      "grammar": "This line uses the informal greeting \"Hey\" and the phrase \"girl dang ni\" as an idiomatic expression, equivalent to \"what's up\" or \"how are you\". The sentence is in the present tense, with a casual tone."
+    },
+    {
+      "time": 90.579,
+      "text": "Hey girl wo jin hu shi kong de zhao mi",
+      "translation": "Hey girl wo jin hu shi kong de zhao mi",
+      "grammar": "The phrase \"wo jin\" is an idiomatic expression, equivalent to \"I'm just\" or \"it's just me\", used to express humility or self-deprecation. The verb \"jin\" is in the present tense, indicating a habitual or general state."
+    },
+    {
+      "time": 94.017,
+      "text": "Wo zhen de you zi xin bie zai huai yi",
+      "translation": "Wo zhen de you zi xin bie zai huai yi",
+      "grammar": "This line uses the idiomatic expression \"\" (wǒ zhēn de yǒu zǐ xīn bié zài huài yì), which literally means \"my true heart is willing to be hurt again\", conveying a sense of vulnerability and willingness to take emotional risks."
+    },
+    {
+      "time": 97.454,
+      "text": "Bie jia zhuang bu zai yi",
+      "translation": "Bie jia zhuang bu zai yi",
+      "grammar": "This idiomatic expression is a negation, emphasizing that something will not happen or be the case. The verb \"zai\" is in the negative potential mood, indicating a strong sense of refusal or prohibition."
+    },
+    {
+      "time": 99.637,
+      "text": "Baby wu guang you shi se de hua ban",
+      "translation": "Baby wu guang you shi se de hua ban",
+      "grammar": "The phrase \"wu guang\" is an idiomatic expression meaning \"to be a little bit of everything\" or \"to have a little bit of everything going on\", using the verb \"guang\" in its adverbial sense to convey a sense of versatility."
+    },
+    {
+      "time": 102.761,
+      "text": "Zhao ying ni na mi ren de ce lian oh mine",
+      "translation": "Zhao ying ni na mi ren de ce lian oh mine",
+      "grammar": "The phrase \"oh mine\" is an idiomatic expression used to emphasize possession or ownership, equivalent to saying \"my own\"."
+    },
+    {
+      "time": 106.512,
+      "text": "Baby tai duo hua ti xu yao cai",
+      "translation": "Baby tai duo hua ti xu yao cai",
+      "grammar": "This line is an idiomatic expression, literally meaning \"Baby needs more flowers and vegetables to eat\". The phrase \"tai duo\" (too much) is used idiomatically to mean \"needs\", emphasizing the idea that the baby requires a certain quantity of nutritious food."
+    },
+    {
+      "time": 109.322,
+      "text": "Hua bie jiang dao yi ban",
+      "translation": "Hua bie jiang dao yi ban",
+      "grammar": "This phrase uses the idiomatic expression \"\" (hūa bié jiàng dào) meaning \"to get used to\" or \"to be accustomed to\", which is often used in a habitual sense, implying a regular or frequent action."
+    },
+    {
+      "time": 111.505,
+      "text": "Baby yong yin yue da qi wu tai",
+      "translation": "Baby yong yin yue da qi wu tai",
+      "grammar": "This line uses the present tense to describe a habitual or general truth, with the idiomatic phrase \"\" (baby yong yin) meaning \"to be young and foolish\" or \"to act impulsively\"."
+    },
+    {
+      "time": 114.315,
+      "text": "It's cool cool cool",
+      "translation": "It's cool cool cool",
+      "grammar": "This phrase uses the present simple tense to express a general truth or habitual action, and the repetition of \"cool\" emphasizes its intensity."
+    },
+    {
+      "time": 116.184,
+      "text": "Jiu shi jin tian gen zhe gan jue lai",
+      "translation": "Jiu shi jin tian gen zhe gan jue lai",
+      "grammar": "This sentence uses the present perfect tense to describe an action that started in the past and continues up to the moment of speaking, conveying a sense of ongoing consequence."
+    },
+    {
+      "time": 119.308,
+      "text": "Gao su ni dao di what I need",
+      "translation": "Gao su ni dao di what I need",
+      "grammar": "This line employs a common Chinese idiom \"\" (gāo sù nǐ dào dì) meaning \"to tell you the way\" or \"to guide you\". The phrase is used to offer advice or guidance, and the speaker is essentially saying they will help the listener find what they need."
+    },
+    {
+      "time": 122.118,
+      "text": "I need u girl girl girl",
+      "translation": "I need you, girl, girl, girl.",
+      "grammar": "In informal spoken English, the phrase \"need\" is often used to express strong desire or craving, rather than literal necessity. This usage is idiomatic and common in casual conversations among friends."
+    },
+    {
+      "time": 124.301,
+      "text": "Zheng ye de lu biao quan bu dou zhi xiang le ni",
+      "translation": "Zheng ye de lu biao quan bu dou zhi xiang le ni",
+      "grammar": "This line uses the informal, conversational tone and mood of Mandarin Chinese, with the speaker directly addressing the listener using the pronoun \"ni\" (you)."
+    },
+    {
+      "time": 128.366,
+      "text": "Tell me you you you",
+      "translation": "Tell me you you you",
+      "grammar": "This line illustrates a common idiomatic expression in English, where repetition of a word or phrase emphasizes its importance or intensity. The imperative mood and repeated use of the pronoun \"you\" convey a sense of urgency and insistence."
+    },
+    {
+      "time": 130.235,
+      "text": "You le wo yi hou cheng wei zui xing fu de gong zhu",
+      "translation": "You le wo yi hou cheng wei zui xing fu de gong zhu",
+      "grammar": "This line uses the idiomatic expression \"\" (nǐ le wǒ yī hòu chéng wèi zuì xīng fú de gōng zhù), which is a polite way to say \"You're the best boss ever\" in English, emphasizing the speaker's gratitude and admiration."
+    },
+    {
+      "time": 134.614,
+      "text": "I need u girl girl girl",
+      "translation": "I need you, girl, girl, girl.",
+      "grammar": "In informal spoken English, the imperative mood is often used to express strong emotions or urgency, as seen in this line where \"need\" is used to convey a sense of desperation."
+    },
+    {
+      "time": 136.796,
+      "text": "Bu yao zai shi tan wo de xin I need u",
+      "translation": "Bu yao zai shi tan wo de xin I need u",
+      "grammar": "This line uses a colloquial idiom \"\" (bù yào zài shí tán) meaning \"don't want to talk about it\" or \"leave it alone\", which is often used in informal conversations. The sentence also employs the casual phrase \"I need u\" instead of the formal \"I need you\"."
+    },
+    {
+      "time": 140.548,
+      "text": "Bie yao bai bie fa dai zhe yang shi ai girl",
+      "translation": "Bie yao bai bie fa dai zhe yang shi ai girl",
+      "grammar": "The phrase \"bie yao\" is an idiomatic expression meaning \"don't want to\" or \"refuse to\", using the negative particle \"bie\" and the verb \"yao\" in the imperative mood."
+    },
+    {
+      "time": 144.299,
+      "text": "Ba xin fang dou da kai mi mi dou gong kai",
+      "translation": "Ba xin fang dou da kai mi mi dou gong kai",
+      "grammar": "This line uses the idiomatic expression \"\" (baixinfang dou da kai, mimi dou gongkai), which is a figurative way to describe being completely open and honest."
+    },
+    {
+      "time": 148.05,
+      "text": "Jiu de shang kou yan lei jiao gei wo lai yan mai",
+      "translation": "Jiu de shang kou yan lei jiao gei wo lai yan mai",
+      "grammar": "The phrase \"gei wo\" is an idiomatic expression meaning \"to me\" or \"for me\", often used to indicate the speaker's willingness or consent, similar to English phrases like \"I'll take it\" or \"That's for me\". The verb \"lai\" is in the imperative mood, indicating a command or suggestion."
+    },
+    {
+      "time": 152.116,
+      "text": "Bie pa shou shang hai bu hui you yi wai",
+      "translation": "Bie pa shou shang hai bu hui you yi wai",
+      "grammar": "This idiomatic phrase uses the verb \"bie\" to mean \"don't even think about it\" or \"forget it\", conveying a sense of resignation or surrender, often in response to an impossible or undesirable situation."
+    },
+    {
+      "time": 155.553,
+      "text": "Jie gei wo ni de zuo shou yong you bi ci shi jie",
+      "translation": "Jie gei wo ni de zuo shou yong you bi ci shi jie",
+      "grammar": "The sentence uses the polite language pattern \"\" (gei) to express a request, which is common in formal or polite writing. The verb phrase \"\" (yong you bi ci shi) is in the present tense and expresses a habitual action."
+    },
+    {
+      "time": 159.932,
+      "text": "Feel right tiao guo cai pai",
+      "translation": "Feel right tiao guo cai pai",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a sense of being in sync or feeling comfortable with something. The phrase \"tiao guo\" is an idiom meaning \"to be on the same wavelength\"."
+    },
+    {
+      "time": 162.115,
+      "text": "Xiang de yue duo cuo guo yue duo tai shi bai",
+      "translation": "Xiang de yue duo cuo guo yue duo tai shi bai",
+      "grammar": "This line uses the idiomatic expression \"\" (xiāng de yuè duō cuò guò, yuè duō tài shì bái), which is a rhetorical question implying that one's mistakes are as numerous as the stars in the sky."
+    },
+    {
+      "time": 165.866,
+      "text": "Zhi yao ni yan jiao su shuo ni duo kuai le",
+      "translation": "Zhi yao ni yan jiao su shuo ni duo kuai le",
+      "grammar": "The phrase \"zhi yao\" is an idiomatic expression meaning \"just right\" or \"exactly what you need\", often used to convey satisfaction or approval, and it's in the present tense."
+    },
+    {
+      "time": 169.618,
+      "text": "Shi qu suo you shi qu yi qie dou zhi de",
+      "translation": "Shi qu suo you shi qu yi qie dou zhi de",
+      "grammar": "This line uses the idiomatic expression \"\" (shì qu suǒ yǒu shì qu yī qiè dōu zhī de) to convey a sense of inevitability or certainty, with the verb \"知\" (zhī) in the present tense indicating a general truth."
+    },
+    {
+      "time": 173.369,
+      "text": "I need u girl girl girl",
+      "translation": "I need you, girl, girl, girl.",
+      "grammar": "In informal spoken English, the phrase \"need\" can be used in a requestive sense to express strong desire or urgency, often with a colloquial tone. The repeated use of \"girl\" emphasizes the speaker's enthusiasm and emphasis on their point."
+    },
+    {
+      "time": 175.552,
+      "text": "Hong se de di tan pu ping yi hou zou xiang ni",
+      "translation": "Hong se de di tan pu ping yi hou zou xiang ni",
+      "grammar": "The sentence uses the present tense to express a habitual or general truth, with \"\" (yī hòu) indicating a subsequent action. The phrase \"\" (xíang nǐ) is an idiomatic expression meaning \"to think of someone\" or \"to have someone in mind\"."
+    },
+    {
+      "time": 179.617,
+      "text": "Tell me you you you",
+      "translation": "Tell me you you you",
+      "grammar": "This line illustrates a common English idiom where repetition is used to emphasize the speaker's desire, conveying a sense of urgency and insistence. The repeated \"you\" functions as an interjection, adding emotional intensity to the request."
+    },
+    {
+      "time": 181.486,
+      "text": "Jiu shi rang ni cheng wei wo zui mei de gong zhu",
+      "translation": "Jiu shi rang ni cheng wei wo zui mei de gong zhu",
+      "grammar": "This sentence uses the grammatical structure of a hypothetical scenario, employing the verb \"rang\" in the past tense to describe an imagined situation. The phrase \"zui mei de\" is an idiomatic expression meaning \"the most beautiful\"."
+    },
+    {
+      "time": 185.551,
+      "text": "I need u girl girl girl",
+      "translation": "I need you, girl, girl, girl.",
+      "grammar": "In informal spoken English, the present tense is often used to express a strong desire or urgency, as seen in \"I need\" instead of \"I am needing\". The use of \"u\" for \"you\" is an example of colloquial language and casual tone."
+    },
+    {
+      "time": 187.734,
+      "text": "Wo da sheng gao bai dui zhe ni shuo I love u",
+      "translation": "Wo da sheng gao bai dui zhe ni shuo I love u",
+      "grammar": "The phrase \"I love u\" is an informal way to express affection, often used in texting or social media. Note that the \"u\" is a casual abbreviation for \"you\", which is commonly used in online communication."
+    },
+    {
+      "time": 191.799,
+      "text": "Pei ban ni bu li kai zhe yang shi ai girl",
+      "translation": "Pei ban ni bu li kai zhe yang shi ai girl",
+      "grammar": "The phrase \"Pei ban\" is an idiomatic expression, literally meaning \"to peel bananas\", but figuratively implying that someone is being overly cautious or hesitant."
+    },
+    {
+      "time": 195.55,
+      "text": "Wo bu hui yu ce wei zhi de wei lai",
+      "translation": "Wo bu hui yu ce wei zhi de wei lai",
+      "grammar": "This sentence uses the present tense to express a habitual or general truth, with \"\" (wǒ) indicating the speaker's personal experience. The phrase \"\" (bù huì yǔ cè wèi zhī de wèi lái) is an idiomatic expression meaning \"I won't be able to understand the future\"."
+    },
+    {
+      "time": 198.988,
+      "text": "Dan wo hen ming bai zhuan shen jiu yi han",
+      "translation": "Dan wo hen ming bai zhuan shen jiu yi han",
+      "grammar": "The sentence uses the present tense to express a habitual or general truth, with \"\" (hen) emphasizing the speaker's strong conviction."
+    },
+    {
+      "time": 202.425,
+      "text": "Bu zhi dao jin tou you mei you da an yeah (all the time)",
+      "translation": "Bu zhi dao jin tou you mei you da an yeah (all the time)",
+      "grammar": "The phrase \"all the time\" is an idiom, indicating a habitual action in the present continuous tense, equivalent to \"every time\" or \"constantly\"."
+    },
+    {
+      "time": 207.118,
+      "text": "Wo bu hui yu ce wei zhi de wei lai",
+      "translation": "Wo bu hui yu ce wei zhi de wei lai",
+      "grammar": "This line uses the idiomatic expression \"\" (wǒ bù huì yú cè wēi zhī de wèi lái), which translates to \"I won't know what's going on in the future\". The verb \"hui\" () is in the negative potential mood, indicating a speaker's uncertainty or inability to predict."
+    },
+    {
+      "time": 210.556,
+      "text": "Dan wo hen ming bai zhuan shen jiu yi han",
+      "translation": "Dan wo hen ming bai zhuan shen jiu yi han",
+      "grammar": "The verb phrase \"\" (wo hen ming) is in the present tense, emphasizing the speaker's strong intention or determination."
+    },
+    {
+      "time": 213.994,
+      "text": "Bu zhi dao jin tou you mei you da an",
+      "translation": "Bu zhi dao jin tou you mei you da an",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of uncertainty or possibility, rather than stating a definite fact. The phrase \"mei you\" is a common idiom in Chinese, equivalent to \"maybe\" or \"perhaps\" in English."
+    },
+    {
+      "time": 217.431,
+      "text": "Gei wo ni de ai",
+      "translation": "Gei wo ni de ai",
+      "grammar": "This line uses the idiomatic phrase \"\" (gei wǒ nǐ de ài), literally meaning \"give me your love\", to express affection or devotion, rather than a literal action. The verb \"gei\" is in the imperative mood, indicating a request or command."
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "id": "gd_mat_ja_re",
+  "title": "Mat Ja Re",
+  "artist": "Ankit Tiwari",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "hi",
+  "to_language": "en",
+  "audio": "/audio/gd_mat_ja_re.mp3",
+  "duration": 232,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Door talak hai soona falak",
+      "translation": "Door talak hai soona falak",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of inevitability, implying that something is bound to happen. The phrase \"door talak\" is an idiom meaning \"at some point\"."
+    },
+    {
+      "time": 4.652,
+      "text": "Ab dhoonde tujhko kahaan",
+      "translation": "Now find me, where do you say",
+      "grammar": "The phrase \"dhoonde\" is in the present continuous tense, indicating an ongoing action of searching. The idiom \"kahaan\" is a rhetorical question, used to seek agreement or confirmation from the listener."
+    },
+    {
+      "time": 8.436,
+      "text": "Tu hai kidhar na aaye nazar",
+      "translation": "You are like a child, don't come near me",
+      "grammar": "The phrase \"na aaye\" is an idiom in Hindi, literally meaning \"don't come\" but conveying the idea of keeping someone at bay or warning them to stay away."
+    },
+    {
+      "time": 13.956,
+      "text": "Aa sun le ye iltejaa",
+      "translation": "Come listen to this request",
+      "grammar": "In informal spoken English, the imperative mood is often used with a particle \"come\" to emphasize the urgency or importance of an action, as in \"Come listen to this request\"."
+    },
+    {
+      "time": 18.608,
+      "text": "Mat ja re mat ja, mat ja re mat ja",
+      "translation": "I am dead, I am dead, I am dead, I am dead",
+      "grammar": "This line uses a repetitive idiom to convey strong emotions, with the verb \"to be\" in the present tense and the pronoun \"mat\" (meaning \"I\") emphasizing the speaker's intense feelings."
+    },
+    {
+      "time": 27.599,
+      "text": "Mat ja re mat ja, mat ja re mat ja",
+      "translation": "I am dead, I am dead, I am dead, I am dead",
+      "grammar": "This line uses repetitive phrasing to emphasize the speaker's emotional state, a common idiomatic expression in many languages. The repeated use of \"mat ja\" (I am) in different tenses creates an intense and dramatic effect, conveying the speaker's desperation and despair."
+    },
+    {
+      "time": 36.59,
+      "text": "Teri kami hai saansein thami hai",
+      "translation": "Your breath is missing",
+      "grammar": "This line uses the present continuous tense to convey a sense of longing or yearning, with \"hai\" indicating ongoing action. The phrase \"teri kami\" is an idiomatic expression meaning \"your absence\" or \"you're missing\"."
+    },
+    {
+      "time": 42.11,
+      "text": "Tanha hai dil mera",
+      "translation": "My heart is alone",
+      "grammar": "The verb \"hain\" in \"Tanha hai dil mera\" is in the present continuous tense, indicating a state of being that is ongoing or permanent. The phrase \"tanha hai\" can also be translated as \"I am lonely\" or \"my heart is yearning\", conveying a sense of longing or solitude."
+    },
+    {
+      "time": 45.894,
+      "text": "Door talak hai soona falak",
+      "translation": "Door talak hai soona falak",
+      "grammar": "This line uses the present tense to express a universal truth, with \"hai\" implying a sense of inevitability. The phrase is an idiom that means something will inevitably happen or be the case."
+    },
+    {
+      "time": 50.546,
+      "text": "Ab dhoonde tujhko kahaan",
+      "translation": "Now find me, where do you say",
+      "grammar": "The phrase \"dhoonde\" is in the imperative mood, instructing someone to search for something. The verb \"dhoonde\" is in the present tense, conveying a sense of urgency and immediacy."
+    },
+    {
+      "time": 54.33,
+      "text": "Tu hai kidhar na aaye nazar",
+      "translation": "You are like a child, don't come near me",
+      "grammar": "The verb phrase \"na aaye\" is in the imperative mood, used to express prohibition or warning. The particle \"na\" negates the action of \"aaye\", meaning \"don't come\"."
+    },
+    {
+      "time": 59.85,
+      "text": "Aa sun le ye iltejaa",
+      "translation": "Come listen to this request",
+      "grammar": "This line uses the imperative mood, instructing the listener to take action (\"Come\"). The verb \"listen\" is in the present tense, indicating a general or habitual action."
+    },
+    {
+      "time": 64.502,
+      "text": "Mat ja re mat ja, mat ja re mat ja",
+      "translation": "I am dead, I am dead, I am dead, I am dead",
+      "grammar": "This line uses repetition to emphasize the speaker's emotional state, with each iteration of \"mat ja\" (I am dead) conveying a sense of desperation and urgency. The use of the same phrase in different tenses is an idiomatic expression that conveys strong emotions rather than literal meaning."
+    },
+    {
+      "time": 73.493,
+      "text": "Mat ja re mat ja, mat ja re mat ja",
+      "translation": "I am dead, I am dead, I am dead, I am dead",
+      "grammar": "The repetition of \"mat ja\" in the original line is an idiomatic expression conveying strong emphasis and emotional intensity, similar to saying \"I'm absolutely dead\" or \"I'm stone dead\". The consistent verb form \"mat ja re\" maintains a sense of urgency and desperation."
+    },
+    {
+      "time": 82.484,
+      "text": "Teri kami hai saansein thami hai",
+      "translation": "Your breath is missing",
+      "grammar": "The verb \"hai\" in this line is used to express a sense of longing or yearning, which is an idiomatic expression in Hindi. The sentence is in the present continuous tense, emphasizing the ongoing nature of the speaker's emotional state."
+    },
+    {
+      "time": 88.003,
+      "text": "Tanha hai dil mera",
+      "translation": "My heart is alone",
+      "grammar": "The verb \"hain\" in \"Tanha hai dil mera\" is in the present continuous tense, indicating a state of being that is ongoing or permanent. This idiomatic expression conveys a sense of longing or yearning, with \"tanha\" meaning \"alone\" or \"lonely\"."
+    },
+    {
+      "time": 91.788,
+      "text": "Ye kaun sa rishta hai",
+      "translation": "What kind of relationship is this?",
+      "grammar": "The phrase \"Ye kaun sa\" is an idiomatic expression used to seek clarification or surprise, with \"ye\" being a particle indicating the speaker's emotional involvement. The sentence is in the present tense, describing a situation that is unfolding."
+    },
+    {
+      "time": 96.44,
+      "text": "Meri aankhon se rissta hai",
+      "translation": "It is tearing from my eyes",
+      "grammar": "The verb \"rissta\" is in the present continuous tense, indicating an ongoing emotional state. The idiomatic expression \"aankhon se\" means \"from my eyes\", emphasizing the intensity of the feeling."
+    },
+    {
+      "time": 101.092,
+      "text": "Ye kaun sa rishta hai",
+      "translation": "What kind of relationship is this?",
+      "grammar": "The phrase \"Ye kaun sa\" is an idiomatic expression used to seek clarification or surprise, with \"ye\" being a particle indicating the speaker's emotional involvement. The sentence is in the present tense, describing the current state of the relationship."
+    },
+    {
+      "time": 105.744,
+      "text": "Teri aankhon se rissta hai",
+      "translation": "I am tied to your eyes",
+      "grammar": "The verb \"hai\" is in the present continuous tense, indicating an ongoing emotional state. The phrase \"Teri aankhon se\" is an idiomatic expression meaning \"to be captivated by someone's gaze\"."
+    },
+    {
+      "time": 110.396,
+      "text": "Do dil ke paaton mein ye bat'ta hai pista hai",
+      "translation": "Two dil ke pataas mein bata hai pista hai",
+      "grammar": "This line uses the present tense to describe a habitual or general truth, with the idiomatic phrase \"dil ke paaton mein\" meaning \"in the course of life\"."
+    },
+    {
+      "time": 120.255,
+      "text": "Do dil ke paaton mein ye bat'ta hai pista hai",
+      "translation": "Two dil ke pataas mein bata hai pista hai",
+      "grammar": "This line uses the present tense to describe a habitual or general truth, with the idiomatic phrase \"dil ke paaton mein\" implying a sense of familiarity or routine."
+    },
+    {
+      "time": 130.113,
+      "text": "Zidd pe bas dil ko apne tu aise na jhutla",
+      "translation": "I am stubborn but don't lie to my heart like this",
+      "grammar": "The verb phrase \"dil ko apne\" is an idiomatic expression meaning \"to one's own heart\", emphasizing the importance of honesty and sincerity in relationships."
+    },
+    {
+      "time": 139.104,
+      "text": "Mat ja re mat ja, mat ja re mat ja",
+      "translation": "I am dead, I am dead, I am dead, I am dead",
+      "grammar": "This line uses a repetitive phrase structure to convey strong emotions, with the verb \"to be\" (mat) in the present tense and the pronoun \"I\" emphasizing the speaker's intense feeling of being dead."
+    },
+    {
+      "time": 148.094,
+      "text": "Mat ja re mat ja, mat ja re mat ja",
+      "translation": "I am dead, I am dead, I am dead, I am dead",
+      "grammar": "The repetition of \"mat ja\" in the original text is an idiomatic expression conveying strong emphasis and emotional intensity, similar to saying \"I'm absolutely dead\" or \"I'm stone dead\". The consistent verb phrase \"Mat ja re\" maintains a sense of urgency and emphasizes the speaker's state."
+    },
+    {
+      "time": 157.085,
+      "text": "Teri kami hai saansein thami hai",
+      "translation": "Your breath is missing",
+      "grammar": "The phrase \"Teri kami hai\" uses the present continuous tense to convey a sense of longing or yearning, implying that something (the speaker's breath) is constantly being missed."
+    },
+    {
+      "time": 162.605,
+      "text": "Tanha hai dil mera",
+      "translation": "My heart is alone",
+      "grammar": "The verb \"hain\" in \"Tanha hai dil mera\" is in the present continuous tense, indicating a sense of ongoing longing or yearning."
+    },
+    {
+      "time": 166.389,
+      "text": "Dil ishq se bindha hai",
+      "translation": "The heart is bound by love",
+      "grammar": "This idiomatic phrase uses the present participle \"bindha\" to convey a sense of being constantly or deeply affected by love, rather than a specific moment in time. The verb agrees with the subject \"dil\" (heart) in number and case."
+    },
+    {
+      "time": 171.041,
+      "text": "Ek ziddi parinda hai",
+      "translation": "There is a stubborn bird",
+      "grammar": "In Hindi, \"hai\" is used to indicate existence or presence in the present tense, similar to English's \"is\". The phrase \"ziddi parinda\" uses an idiomatic expression to describe someone who is stubborn."
+    },
+    {
+      "time": 174.826,
+      "text": "Dil ishq se bindha hai",
+      "translation": "The heart is bound by love",
+      "grammar": "This idiomatic expression uses the present participle \"bindha\" to convey a sense of being constantly or deeply affected by love, rather than a specific moment in time. The verb agrees with the subject \"dil\" (heart) in number and case."
+    },
+    {
+      "time": 179.478,
+      "text": "Ek ziddi parinda hai",
+      "translation": "There is a stubborn bird",
+      "grammar": "The verb \"hai\" in this sentence is in the present tense, indicating a general truth or a habitual action. The phrase \"ziddi parinda\" can be translated to \"stubborn person\" or \"obstinate individual\", using the idiomatic expression \"ziddi\" meaning stubborn or obstinate."
+    },
+    {
+      "time": 183.262,
+      "text": "Umeedon se hai ghayal, umeed pe zinda hai",
+      "translation": "He is wounded by expectations, he lives on hope",
+      "grammar": "The verb \"hai\" appears in the present continuous tense, emphasizing the ongoing nature of being wounded by expectations and living on hope."
+    },
+    {
+      "time": 190.517,
+      "text": "Umeedon se hai ghayal, umeed pe zinda hai",
+      "translation": "He is wounded by expectations, he lives on hope",
+      "grammar": "The phrase \"umeedon se hai\" is an idiomatic expression conveying the idea that someone's emotional state is influenced by others' expectations. The verb \"hai\" remains in the present continuous tense to emphasize the ongoing nature of this emotional impact."
+    },
+    {
+      "time": 197.773,
+      "text": "Aas bhari ardaas ko tu aise na thukra",
+      "translation": "Don't reject my hopeful blessings like this",
+      "grammar": "The verb phrase \"thukra\" is in the imperative mood, instructing someone not to reject, emphasizing the importance of accepting one's blessings."
+    },
+    {
+      "time": 205.028,
+      "text": "Mat ja re mat ja, mat ja re mat ja",
+      "translation": "I am dead, I am dead, I am dead, I am dead",
+      "grammar": "This line uses repetition to emphasize the speaker's emotional state, with each iteration of \"mat ja\" (I am dead) conveying increasing desperation. The use of the same phrase in different sentences creates a sense of urgency and intensity."
+    },
+    {
+      "time": 214.019,
+      "text": "Mat ja re mat ja, mat ja re mat ja",
+      "translation": "I am dead, I am dead, I am dead, I am dead",
+      "grammar": "This line uses a repetitive idiom to convey strong emotions, with the verb \"to be\" in the present tense and the pronoun \"mat\" (I) emphasizing the speaker's intense feelings of being dead."
+    },
+    {
+      "time": 223.009,
+      "text": "Teri kami hai saansein thami hai",
+      "translation": "Your breath is missing",
+      "grammar": "The phrase \"Teri kami hai\" uses the present continuous tense to convey a sense of longing or yearning, implying that the speaker's breath (or life force) is constantly being taken away."
+    },
+    {
+      "time": 228.529,
+      "text": "Tanha hai dil mera.",
+      "translation": "My heart is lonely.",
+      "grammar": "The verb \"hain\" in \"Tanha hai dil mera\" is in the present continuous tense, indicating a state of being that is ongoing or persistent. The phrase \"tanha hai\" can be translated to English as \"is lonely\", conveying a sense of longing or yearning."
+    }
+  ]
+}

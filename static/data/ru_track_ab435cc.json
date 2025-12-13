@@ -1,0 +1,187 @@
+{
+  "id": "ru_track_ab435cc",
+  "title": "овердоз",
+  "artist": "тёмный принц",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_track_ab435cc.mp3",
+  "duration": 89,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 5.410599999964237,
+      "text": "Я нафармил крипты, как скуф, пусти про нас слух",
+      "translation": "I've got a grip on the crypts like a scuff, let them talk about us",
+      "grammar": "The phrase 'как скуф' is an idiomatic expression meaning to have a strong grasp or control over something."
+    },
+    {
+      "time": 7.431899999976158,
+      "text": "У меня есть скидка на пиздатый звук",
+      "translation": "I have a discount on awesome sound.",
+      "grammar": ""
+    },
+    {
+      "time": 10.549399999976158,
+      "text": "У меня overdose чувств, я убил всех сук",
+      "translation": "I have an overdose of feelings, I killed all the bitches",
+      "grammar": ""
+    },
+    {
+      "time": 13.479300000011921,
+      "text": "Я зарастаю гнилью из порезанных рук",
+      "translation": "I am overgrown with rot from cut hands",
+      "grammar": ""
+    },
+    {
+      "time": 16.25430000001192,
+      "text": "Я нафармил крипты, как скуф, пусти про нас слух",
+      "translation": "I farmed crypto like a skuf, spread the word about us",
+      "grammar": ""
+    },
+    {
+      "time": 18.89459999996424,
+      "text": "У меня есть скидка на пиздатый звук",
+      "translation": "I have a discount on awesome sound.",
+      "grammar": ""
+    },
+    {
+      "time": 21.937199999988078,
+      "text": "У меня overdose чувств, я убил всех сук",
+      "translation": "I have an overdose of feelings, I killed all the bitches",
+      "grammar": ""
+    },
+    {
+      "time": 24.72980000001192,
+      "text": "Ты будешь в ахуе, когда увидишь мой труп",
+      "translation": "You'll be shocked when you see my corpse.",
+      "grammar": ""
+    },
+    {
+      "time": 27.63339999997616,
+      "text": "Нашёл в шее иголки Декстера, забери моё сердце",
+      "translation": "Found needles in Dexter's neck, take my heart",
+      "grammar": ""
+    },
+    {
+      "time": 30.43660000002384,
+      "text": "Распили меня лазером, гифку моего детства",
+      "translation": "They cut me with a laser, a gif of my childhood.",
+      "grammar": ""
+    },
+    {
+      "time": 33.51130000001192,
+      "text": "Делай меня подавленным, знаешь, я ненормальный",
+      "translation": "Make me depressed, you know I'm crazy",
+      "grammar": ""
+    },
+    {
+      "time": 36.27339999997616,
+      "text": "Прячу в коробку с тайнами, капли крови на слайдах",
+      "translation": "I hide in a box of secrets, drops of blood on the slides",
+      "grammar": ""
+    },
+    {
+      "time": 39.19880000001192,
+      "text": "Просто разбей меня надвое, сделай нас равными",
+      "translation": "Just break me in two, make us equal",
+      "grammar": ""
+    },
+    {
+      "time": 42.082899999976156,
+      "text": "Съешь меня заживо, разрушь мои планы",
+      "translation": "Eat me alive, ruin my plans",
+      "grammar": ""
+    },
+    {
+      "time": 44.92830000001192,
+      "text": "Я намертво пьяный, любвеобильный",
+      "translation": "I'm dead drunk, loving",
+      "grammar": ""
+    },
+    {
+      "time": 47.788699999988076,
+      "text": "Все мои органы на твоей квартире (принц)",
+      "translation": "All my organs are in your apartment (prince)",
+      "grammar": ""
+    },
+    {
+      "time": 50.62130000001192,
+      "text": "Я нафармил крипты, как скуф, пусти про нас слух",
+      "translation": "I farmed crypto like a skuf, spread the word about us",
+      "grammar": ""
+    },
+    {
+      "time": 53.35239999997616,
+      "text": "У меня есть скидка на пиздатый звук",
+      "translation": "I have a discount on awesome sound.",
+      "grammar": ""
+    },
+    {
+      "time": 56.24869999998808,
+      "text": "У меня overdose чувств, я убил всех сук",
+      "translation": "I have an overdose of feelings, I killed all the bitches",
+      "grammar": ""
+    },
+    {
+      "time": 59.14939999997616,
+      "text": "Я зарастаю гнилью из порезанных рук",
+      "translation": "I am overgrown with rot from cut hands",
+      "grammar": ""
+    },
+    {
+      "time": 62.1355,
+      "text": "Я нафармил крипты, как скуф, пусти про нас слух",
+      "translation": "I farmed crypto like a skuf, spread the word about us",
+      "grammar": ""
+    },
+    {
+      "time": 64.96960000002385,
+      "text": "У меня есть скидка на пиздатый звук",
+      "translation": "I have a discount on awesome sound.",
+      "grammar": ""
+    },
+    {
+      "time": 67.70730000001193,
+      "text": "У меня overdose чувств, я убил всех сук",
+      "translation": "I have an overdose of feelings, I killed all the bitches",
+      "grammar": ""
+    },
+    {
+      "time": 70.78310000002384,
+      "text": "Ты будешь в ахуе, когда увидишь мой труп",
+      "translation": "You'll be shocked when you see my corpse.",
+      "grammar": ""
+    },
+    {
+      "time": 73.55389999997615,
+      "text": "Я нафармил крипты, как-",
+      "translation": "I farmed cryptos like-",
+      "grammar": ""
+    },
+    {
+      "time": 76.4555,
+      "text": "ずるい、ずるい、",
+      "translation": "ずるい、ずるい、",
+      "grammar": ""
+    },
+    {
+      "time": 78.38530000001192,
+      "text": "綺麗に腐った罰",
+      "translation": "綺麗に腐った罰",
+      "grammar": ""
+    },
+    {
+      "time": 79.5815,
+      "text": "綺麗に腐った罰 (tainiy-tainiy-tainiy)",
+      "translation": "綺麗に腐った罰 (tainiy-tainiy-tainiy)",
+      "grammar": ""
+    },
+    {
+      "time": 84.31080000001192,
+      "text": "綺麗に腐った罰 (dexey!, you have no heart!)",
+      "translation": "綺麗に腐った罰 (dexey!, you have no heart!)",
+      "grammar": ""
+    }
+  ]
+}

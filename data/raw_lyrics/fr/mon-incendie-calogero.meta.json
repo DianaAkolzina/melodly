@@ -1,0 +1,16 @@
+{
+  "language": "fr",
+  "title": "Mon incendie",
+  "artist": "Calogero",
+  "slug": "mon-incendie-calogero",
+  "track_length_seconds": 256,
+  "source": {
+    "provider": "musixmatch",
+    "track_id": 268472407,
+    "commontrack_id": 167395361,
+    "track_share_url": "https://www.musixmatch.com/lyrics/Calogero/Mon-incendie?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "track_edit_url": "https://www.musixmatch.com/lyrics/Calogero/Mon-incendie/edit?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "search_language": "fr",
+    "fetched_at": "2025-11-21T10:59:29.128024Z"
+  }
+}

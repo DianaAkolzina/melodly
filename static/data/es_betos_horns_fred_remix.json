@@ -1,0 +1,331 @@
+{
+  "id": "es_betos_horns_fred_remix",
+  "title": "Beto’s Horns (fred remix)",
+  "artist": "Fred again..",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_betos_horns_fred_remix.mp3",
+  "duration": 226,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Tamos inflado', oh no",
+      "translation": "We're inflated, oh no",
+      "grammar": "The phrase \"tamos inflado\" is in the present tense and uses the informal \"we\" (tamos), which is an idiomatic expression to convey a sense of being overconfident or arrogant."
+    },
+    {
+      "time": 3.637,
+      "text": "Somos dos puto', oh no",
+      "translation": "We're two fuckers, oh no",
+      "grammar": "The phrase \"Somos dos\" is in the present tense and uses the plural pronoun \"nos\" to indicate that the speaker is including themselves in the group. The idiomatic expression \"dos puto'\" is a colloquialism used to emphasize the intensity of the situation, similar to saying \"we're two crazy people\"."
+    },
+    {
+      "time": 8.107,
+      "text": "Ta todo armado, oh no",
+      "translation": "It's all set up, oh no",
+      "grammar": "The phrase \"oh no\" is an interjection expressing surprise or alarm, often used to convey a sense of irony or contradiction."
+    },
+    {
+      "time": 12.578,
+      "text": "Me escuchan los rucos, oh no",
+      "translation": "The old folks can hear me, oh no",
+      "grammar": "In this line, \"escuchan\" is in the present tense, indicating that the speaker's perception is that the old folks are currently able to hear them. The phrase \"Me escuchan\" is an idiomatic expression meaning \"they can hear me\", with \"me\" functioning as a direct object pronoun agreeing with the verb \"escuchan\"."
+    },
+    {
+      "time": 17.883,
+      "text": "¿Puedo decirlo o no?",
+      "translation": "Can I say it or not?",
+      "grammar": "The phrase ¿Puedo decirlo o no? is an example of a rhetorical question, which is a common idiomatic expression in Spanish. The verb tense used here is the present tense, indicating a sense of uncertainty and inquiry."
+    },
+    {
+      "time": 21.519,
+      "text": "¿Puedo decirlo o no?",
+      "translation": "Can I say it or not?",
+      "grammar": "The phrase ¿Puedo decirlo o no? is an example of a rhetorical question, which is a common idiomatic expression in Spanish. The verb tense remains informal and conversational, with the speaker seeking permission to express their thoughts."
+    },
+    {
+      "time": 25.156,
+      "text": "You cannot fuck with my butt (no-no-no-no-no)",
+      "translation": "You cannot fuck with my butt (no-no-no-no-no)",
+      "grammar": "This line employs a colloquial idiom, using strong language to convey a sense of firm refusal or warning. The repeated \"no\" particles emphasize the speaker's determination and create a sense of rhythmic urgency."
+    },
+    {
+      "time": 34.63,
+      "text": "Tamos inflados, oh no",
+      "translation": "We're inflated, oh no",
+      "grammar": "The phrase \"tamos inflados\" is in the present tense and uses the informal \"we\" (tamos), indicating a casual tone. The idiom \"inflados\" means feeling overconfident or puffed up, which is often used to express irony or sarcasm."
+    },
+    {
+      "time": 38.267,
+      "text": "Somos dos putos, oh no",
+      "translation": "We're two fucking idiots, oh no",
+      "grammar": "The phrase \"somos\" is in the present tense and second person plural form, indicating that the speaker includes themselves and the listener in the description of being foolish. The use of \"putos\" as an intensifier to emphasize the idiocy is a colloquialism common in informal Spanish conversation."
+    },
+    {
+      "time": 42.738,
+      "text": "Ta todo armado, oh no",
+      "translation": "It's all set up, oh no",
+      "grammar": "The phrase \"oh no\" is an interjection expressing sudden realization or surprise, often used to convey a sense of alarm or dismay."
+    },
+    {
+      "time": 47.209,
+      "text": "Me escuchan los rucos, oh no",
+      "translation": "The old folks can hear me, oh no",
+      "grammar": "In this line, \"escuchan\" is in the present tense, indicating that the speaker's perception is that the old folks are currently able to hear them. The phrase \"Me escuchan\" is an idiomatic expression meaning \"they can hear me\", where \"me\" is used as a subject pronoun instead of the more literal \"them\"."
+    },
+    {
+      "time": 52.513,
+      "text": "You cannot fuck with my butt",
+      "translation": "You cannot fuck with my butt",
+      "grammar": "This informal expression uses the imperative mood to convey a strong prohibition, emphasizing the speaker's determination and refusal to compromise. The idiomatic phrase \"fuck with\" means to mess with or interfere with someone's personal space or belongings."
+    },
+    {
+      "time": 57.818,
+      "text": "You cannot fuck with my butt",
+      "translation": "You cannot fuck with my butt",
+      "grammar": "This line uses informal, colloquial language and strong idiomatic expressions to convey a sense of defiance or assertiveness. The verb \"fuck\" is used in an idiomatically correct way to emphasize the speaker's determination."
+    },
+    {
+      "time": 63.122,
+      "text": "¿Puedo decirlo o no?",
+      "translation": "Can I say it or not?",
+      "grammar": "The phrase ¿Puedo decirlo o no? is an example of a rhetorical question, which is a common idiomatic expression in Spanish. The verb tense and mood are informal and conversational, reflecting the speaker's uncertainty and seeking agreement from the listener."
+    },
+    {
+      "time": 66.759,
+      "text": "¿Puedo decirlo o no?",
+      "translation": "Can I say it or not?",
+      "grammar": "The phrase ¿Puedo decirlo o no? is an example of a rhetorical question, which is a common idiomatic expression in Spanish. The verb tense and mood are informal and conversational, reflecting the speaker's uncertainty and seeking agreement from the listener."
+    },
+    {
+      "time": 70.396,
+      "text": "Tamos inflados, oh no",
+      "translation": "We're inflated, oh no",
+      "grammar": "The phrase \"tamos inflados\" is in the present tense and uses the informal \"we\" (tamo), indicating a casual tone. The idiom \"inflado\" literally means \"puffed up\" but figuratively conveys being overconfident or arrogant."
+    },
+    {
+      "time": 74.033,
+      "text": "Somos dos putos, oh no",
+      "translation": "We're two fucking idiots, oh no",
+      "grammar": "The phrase \"somos\" is in the present tense and plural form, indicating that the speaker is including themselves as one of the \"two idiots\". The use of the word \"putos\" is an informal Spanish idiom equivalent to the English expression \"fucking idiots\", conveying strong emotions."
+    },
+    {
+      "time": 78.503,
+      "text": "Ta todo armado, oh no",
+      "translation": "It's all set up, oh no",
+      "grammar": "The phrase \"oh no\" is an interjection expressing surprise or alarm, often used to convey a sense of sudden realization."
+    },
+    {
+      "time": 82.974,
+      "text": "Me escuchan los rucos, oh no",
+      "translation": "The old folks can hear me, oh no",
+      "grammar": "In this line, the verb \"escuchan\" is in the present tense, indicating a habitual or general truth about the speaker's situation. The phrase \"los rucos\" is an idiomatic expression meaning \"the old folks\", emphasizing their ability to perceive and judge the speaker."
+    },
+    {
+      "time": 88.279,
+      "text": "You cannot fuck with my butt",
+      "translation": "You cannot fuck with my butt",
+      "grammar": "This line uses informal, colloquial language and strong idiomatic expression to convey a sense of determination or defiance. The phrase \"fuck with\" is an idiom meaning to mess with or bother someone, and the speaker's use of it emphasizes their unwillingness to be disrespected."
+    },
+    {
+      "time": 93.583,
+      "text": "You cannot fuck with my butt",
+      "translation": "You cannot fuck with my butt",
+      "grammar": "This informal expression uses the imperative mood to convey a strong warning, with the idiomatic phrase \"fuck with\" meaning to mess with or bother someone."
+    },
+    {
+      "time": 98.888,
+      "text": "¿Puedo decirlo o no?",
+      "translation": "Can I say it or not?",
+      "grammar": "The phrase ¿Puedo decirlo o no? is an example of a rhetorical question, which is a common idiomatic expression in Spanish. The speaker is expressing uncertainty rather than seeking a literal answer."
+    },
+    {
+      "time": 102.525,
+      "text": "¿Puedo decirlo o no?",
+      "translation": "Can I say it or not?",
+      "grammar": "The phrase ¿Puedo decirlo o no? is an example of a rhetorical question, which is a common idiomatic expression in Spanish. The verb tense used here is the present tense of the modal verb poder (can), indicating a request for permission or possibility."
+    },
+    {
+      "time": 106.161,
+      "text": "Cato, shh",
+      "translation": "Cato, shh",
+      "grammar": "This line uses an imperative mood to address someone (Cato), with a colloquial tone and idiomatic expression (\"shh\"), conveying a sense of quietness or secrecy."
+    },
+    {
+      "time": 108.13,
+      "text": "Dale, capo, dale",
+      "translation": "Go for it, boss, go for it",
+      "grammar": "This idiomatic expression uses the imperative mood to convey encouragement and authority, with \"dale\" being a colloquial way of saying \"go for it\". The speaker is urging someone to take action, using a familiar and informal tone."
+    },
+    {
+      "time": 110.933,
+      "text": "Despertate, boludo, decí algo",
+      "translation": "Wake up, idiot, say something",
+      "grammar": "The phrase \"despertate, boludo\" is an idiomatic expression used to urge someone to wake up and take action, with \"boludo\" being a colloquial term for \"idiot\" or \"dumb guy\", conveying a sense of playfulness rather than actual insult."
+    },
+    {
+      "time": 114.57,
+      "text": "Ca7riel",
+      "translation": "Ca7riel",
+      "grammar": "This interjection \"Ca7riel\" is likely an onomatopoeic expression, mimicking the sound of a sudden or intense event."
+    },
+    {
+      "time": 115.77,
+      "text": "Ah, me estoy volviendo loco",
+      "translation": "Ah, I'm going crazy",
+      "grammar": "The phrase \"me estoy\" is an idiomatic expression in Spanish that indicates a sudden or intense emotional state, using the present continuous tense to convey a sense of urgency."
+    },
+    {
+      "time": 120.24,
+      "text": "Hasta yo mismo me odio",
+      "translation": "Even I hate myself.",
+      "grammar": "This idiomatic expression uses the first person singular pronoun \"yo\" to emphasize the speaker's strong emotions, conveying a sense of self-loathing. The use of \"hasta\" (even) emphasizes the intensity of the feeling."
+    },
+    {
+      "time": 124.711,
+      "text": "Me caí en la mitad de la coreo",
+      "translation": "I fell in the middle of the choreography",
+      "grammar": "The phrase \"Me caí\" is an idiomatic expression that uses the verb \"caer\" (to fall) to convey sudden failure or collapse, rather than a literal falling. This usage is informal and common in spoken Spanish."
+    },
+    {
+      "time": 131.684,
+      "text": "Del stage directo al sanatorio",
+      "translation": "From the stage straight to the sanatorium",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a sense of sudden and drastic change, implying that someone went from performing on stage to being hospitalized without any intermediate steps."
+    },
+    {
+      "time": 136.154,
+      "text": "Oh, me estoy volviendo loco",
+      "translation": "Oh, I'm going crazy",
+      "grammar": "The phrase \"me estoy\" is an idiomatic expression in Spanish, where \"estoy\" (I am) is used to indicate a sudden or intense emotional state, rather than the usual \"me vuelvo\" (I am becoming). This construction is often translated as \"I'm going\" in English."
+    },
+    {
+      "time": 140.625,
+      "text": "Hasta yo mismo me odio",
+      "translation": "Even I hate myself.",
+      "grammar": "This idiomatic expression uses the first person singular pronoun \"yo\" to emphasize the speaker's strong emotions, conveying a sense of intense self-loathing. The use of \"hasta\" (even) adds emphasis to the negative sentiment, making it a vivid and dramatic statement."
+    },
+    {
+      "time": 145.096,
+      "text": "Me atendieron dos enfermeros",
+      "translation": "I was attended to by two nurses",
+      "grammar": "The use of \"me\" instead of \"I\" is an idiomatic expression in Spanish, where the indirect object pronoun \"me\" is used as a subject pronoun to indicate that the action is being performed on the speaker. This construction is often translated into English as \"I was attended to\"."
+    },
+    {
+      "time": 148.732,
+      "text": "Brillantes, morenos, Oreo",
+      "translation": "Bright, brown, Oreo",
+      "grammar": "This phrase uses a common idiomatic expression in Spanish to describe someone's physical characteristics, where \"brillantes\" and \"morenos\" are used to emphasize the speaker's bright and dark features respectively."
+    },
+    {
+      "time": 151.535,
+      "text": "Ah, e' mi karma, estoy para comprarme un arma",
+      "translation": "Ah, it's my karma, I'm ready to buy a gun",
+      "grammar": "The phrase \"estoy para\" is an idiomatic expression indicating readiness or willingness, equivalent to \"I'm prepared\" or \"I'm ready\"."
+    },
+    {
+      "time": 159.342,
+      "text": "Tu mamá quiere foto y la foto envenena el alma, mamá",
+      "translation": "Your mom wants a photo, and photos poison the soul, Mom.",
+      "grammar": "The phrase \"la foto envenena el alma\" is an idiomatic expression that uses the present tense to convey a timeless truth about the negative impact of photography. The verb \"envenena\" is in the present tense, indicating a general or universal truth rather than a specific action occurring at a particular time."
+    },
+    {
+      "time": 168.816,
+      "text": "Es el precio de la historia",
+      "translation": "It's the price of history",
+      "grammar": "This phrase uses the present tense to express a general truth, and the idiomatic expression \"precio de\" implies a sense of cost or consequence."
+    },
+    {
+      "time": 174.12,
+      "text": "Ahora somos Susana y Moria",
+      "translation": "Now we are Susana and Moria",
+      "grammar": "The phrase \"Ahora somos\" is a present tense construction, using the verb \"ser\" (to be) in the first person plural form to express a sense of identity or shared experience."
+    },
+    {
+      "time": 178.591,
+      "text": "Alfredo, otra vez nosotros",
+      "translation": "Alfredo, it's us again",
+      "grammar": "The phrase \"nosotros\" is used to indicate a return or repetition of an action, emphasizing the speaker's involvement in the situation. This usage is typical of informal spoken Spanish and can be translated as \"it's us again\"."
+    },
+    {
+      "time": 182.228,
+      "text": "Ahí te va con dedicatoria",
+      "translation": "Here it is, with a dedication",
+      "grammar": "The phrase \"Ahí te va\" is an idiomatic expression used to offer something, in this case, a gift or a message, and the verb \"va\" is in the informal imperative mood."
+    },
+    {
+      "time": 186.698,
+      "text": "Decime quién",
+      "translation": "Tell me who",
+      "grammar": "This phrase uses the imperative mood to make a request, with \"decime\" being an informal way of saying \"tell me\". The verb \"decir\" is in the second person singular form \"decime\", agreeing with the pronoun \"quién\"."
+    },
+    {
+      "time": 188.667,
+      "text": "Decime quién (come on)",
+      "translation": "Tell me who (come on)",
+      "grammar": "The phrase \"come on\" is an idiomatic expression used to encourage someone to reveal information, and it's translated literally in the target sentence. The imperative mood (\"tell me\") matches the informal tone of the original phrase."
+    },
+    {
+      "time": 192.304,
+      "text": "Que son amigos, ¿quién?",
+      "translation": "They're friends, who?",
+      "grammar": "The phrase \"¿Quién?\" is an interrogative pronoun used to ask about identity, and its use in this sentence creates a sense of curiosity and inquiry. The verb \"son\" is in the present tense, indicating a general or habitual state of being friends."
+    },
+    {
+      "time": 195.941,
+      "text": "Decime quién",
+      "translation": "Tell me who",
+      "grammar": "This is an imperative sentence in the second person singular, using the verb \"decir\" (to tell) in the present tense to give a direct order. The phrase \"Decime quién\" can be translated as \"Tell me who\"."
+    },
+    {
+      "time": 197.91,
+      "text": "No, no-no-no-no-no, dame",
+      "translation": "No, no-no-no-no-no, give me",
+      "grammar": "The repeated \"no\" is an emphatic idiom used to express strong negation or refusal. The sentence remains in the present tense and imperative mood, with the speaker demanding something from someone else."
+    },
+    {
+      "time": 204.048,
+      "text": "Lo hicimo bien",
+      "translation": "We did well",
+      "grammar": "The phrase \"Lo hicimos bien\" is in the preterite tense, indicating a completed action in the past. The verb agreement with \"lo\" (it) is correct, as it matches the subject-verb concordance rule in Spanish."
+    },
+    {
+      "time": 206.851,
+      "text": "Dólares, chinos, yen",
+      "translation": "Dollars, Chinese, yen",
+      "grammar": "This idiomatic expression lists currencies in a non-chronological order to emphasize their global significance, rather than following a specific time frame or ranking."
+    },
+    {
+      "time": 209.654,
+      "text": "Estoy en Grecia, zen",
+      "translation": "I'm in Greece, zen",
+      "grammar": "The phrase \"Estoy en Grecia\" is in the present continuous tense, indicating a temporary or ongoing situation. The use of \"zen\" as an interjection adds a casual and relaxed tone to the sentence."
+    },
+    {
+      "time": 213.291,
+      "text": "Lo hicimo bien (lo hicimo bien)",
+      "translation": "We did well (we did well)",
+      "grammar": "The repetition of \"lo hicimo bien\" emphasizes the speaker's confidence and satisfaction, using a rhetorical device called anaphora. This idiomatic expression conveys strong agreement with oneself or others, often used to stress a positive outcome."
+    },
+    {
+      "time": 218.595,
+      "text": "Lo hicimo bien (bien), bien (métele)",
+      "translation": "We did it right (right), right (go for it)",
+      "grammar": "The phrase \"Lo hicimo bien\" is in the preterite tense, indicating a completed action. The repetition of \"bien\" emphasizes the positive outcome, using an idiom to express enthusiasm and encouragement."
+    },
+    {
+      "time": 223.9,
+      "text": "Esperen",
+      "translation": "Wait",
+      "grammar": "The verb \"esperen\" is in the imperative mood, instructing someone to wait. Note that the verb agrees with the implied subject \"you\"."
+    },
+    {
+      "time": 225.1,
+      "text": "Oye",
+      "translation": "Hey",
+      "grammar": "This interjection \"Oye\" is an informal way to get someone's attention, similar to saying \"Hey\" in English. It is often used in casual conversations and is not typically translated directly into formal language."
+    }
+  ]
+}

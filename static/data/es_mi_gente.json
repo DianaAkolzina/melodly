@@ -1,0 +1,325 @@
+{
+  "id": "es_mi_gente",
+  "title": "Mi Gente",
+  "artist": "J Balvin & Willy William",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_mi_gente.mp3",
+  "duration": 158,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "¡Wuh!",
+      "translation": "Woo!",
+      "grammar": "This interjection ¡Wuh! is an informal expression of excitement or surprise, often used in spoken language to convey enthusiasm."
+    },
+    {
+      "time": 1.2,
+      "text": "Si el ritmo te lleva a mover la cabeza",
+      "translation": "If the rhythm makes you nod your head",
+      "grammar": "This sentence uses the present tense to describe a habitual action, and the phrase \"te lleva\" is an idiomatic expression meaning \"makes you\"."
+    },
+    {
+      "time": 5.776,
+      "text": "Ya empezamos como es",
+      "translation": "We've already started, as it is",
+      "grammar": "The phrase \"ya empezamos\" uses the present perfect tense to indicate that an action has been completed before a specific point in time. The word \"ya\" is an informal way of saying \"already\"."
+    },
+    {
+      "time": 7.986,
+      "text": "Mi música no discrimina a nadie",
+      "translation": "My music doesn't discriminate against anyone",
+      "grammar": "The phrase \"no discrimina\" is in the present tense and uses the passive voice, emphasizing that the speaker's music does not have discriminatory effects. The idiomatic expression \"discriminar a alguien\" means to discriminate against someone."
+    },
+    {
+      "time": 11.142,
+      "text": "Así que vamos a romper",
+      "translation": "So let's break up",
+      "grammar": "The phrase \"Así que\" is an idiomatic expression indicating a decision or conclusion, often translated as \"so\" or \"then\". It is used to introduce the consequence of a situation."
+    },
+    {
+      "time": 13.825,
+      "text": "Toda mi gente se mueve (rra)",
+      "translation": "All my people are moving (rra)",
+      "grammar": "The phrase \"toda mi gente\" is an idiomatic expression meaning \"all my people\", where \"mi gente\" is a possessive noun phrase agreeing with the singular pronoun \"toda\"."
+    },
+    {
+      "time": 16.981,
+      "text": "Mira el ritmo cómo los tiene (okay)",
+      "translation": "Look at the rhythm, how he's got them (okay)",
+      "grammar": "The phrase \"cómo los tiene\" is an idiomatic expression in Spanish that translates to \"how he's got them\", using the present perfect tense to convey a sense of possession or control."
+    },
+    {
+      "time": 20.611,
+      "text": "Hago música que entretiene",
+      "translation": "I make entertaining music",
+      "grammar": "This sentence is in the present tense, using the verb \"hacer\" (to do/to make) to describe a habitual or ongoing action. The phrase \"que entretiene\" uses an infinitive clause to provide more information about the type of music being made."
+    },
+    {
+      "time": 22.82,
+      "text": "El mundo nos quiere, nos quiere, me quiere a mí",
+      "translation": "The world loves us, loves us, loves me",
+      "grammar": "This line illustrates the use of the verb \"querer\" in the present tense to express a general or universal truth, emphasizing the idea that the world has a special affection for everyone. The repetition of \"nos quiere\" and then \"me quiere a mí\" creates an idiomatic expression highlighting individual inclusion within the collective."
+    },
+    {
+      "time": 27.87,
+      "text": "Toda mi gente se mueve (rra)",
+      "translation": "All my people are moving (rra)",
+      "grammar": "The phrase \"toda mi gente\" is an idiomatic expression meaning \"all my people\", with the possessive adjective \"mi\" agreeing with the noun \"gente\". The use of the verb \"se mueve\" in the present continuous tense indicates that the movement is ongoing."
+    },
+    {
+      "time": 31.026,
+      "text": "Mira el ritmo cómo los tiene",
+      "translation": "Look at the rhythm he has them in.",
+      "grammar": "The phrase \"cómo los tiene\" is an idiomatic expression indicating possession, using the verb \"tener\" (to have) with a plural noun and the pronoun \"los\"."
+    },
+    {
+      "time": 34.183,
+      "text": "Hago música que entretiene",
+      "translation": "I make entertaining music",
+      "grammar": "The verb \"hago\" is in the present tense, indicating a habitual or general action, and the phrase \"que entretiene\" functions as an adverbial clause modifying the type of music being made."
+    },
+    {
+      "time": 36.392,
+      "text": "Mi música los tiene fuerte bailando y se baila así (let's go)",
+      "translation": "My music has them dancing hard and this is how you dance (let's go)",
+      "grammar": "The phrase \"se baila así\" uses the subjunctive mood to express a hypothetical or desired situation, rather than stating a fact. This idiomatic expression means \"this is how one should dance\"."
+    },
+    {
+      "time": 42.862,
+      "text": "Estamo rompiendo la discoteca",
+      "translation": "We're tearing up the disco",
+      "grammar": "The phrase \"estamo\" is a colloquialism used to express excitement or enthusiasm, equivalent to saying \"we're getting ready\" or \"we're about to\". It's an informal way of using the present continuous tense (estar + -mo) to convey a sense of imminent action."
+    },
+    {
+      "time": 45.072,
+      "text": "La fiesta no para, apenas comienza",
+      "translation": "The party doesn't stop, it's just getting started.",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a sense of ongoing action, emphasizing that the party is still in full swing. The phrase \"no para\" literally means \"doesn't stop\", but idiomatically implies that the party is not slowing down."
+    },
+    {
+      "time": 48.228,
+      "text": "¡Eh! C'est comme ci, ¡eh!, c'est comme ça",
+      "translation": "Hey! C'est comme ci, eh!, c'est comme ça",
+      "grammar": "This line uses the idiomatic expression \"c'est comme ci\" and \"c'est comme ça\" to convey a sense of uncertainty or ambiguity, with \"¡Eh!\" serving as an interjection to grab attention. The phrase is in the present tense, emphasizing the speaker's current state of mind."
+    },
+    {
+      "time": 53.278,
+      "text": "¡Eh! Ma chérie, la-la-la-la-la",
+      "translation": "Hey! Ma chérie, la-la-la-la-la",
+      "grammar": "This interjection ¡Eh! is an informal way to get someone's attention, similar to saying \"Hey!\" or \"Yo!\". The use of the French phrase Ma chérie (\"my dear\" in English) adds a touch of affection and familiarity."
+    },
+    {
+      "time": 57.381,
+      "text": "Eh, Francia, eh, Colombia, eh",
+      "translation": "Hey, France, hey, Colombia, hey",
+      "grammar": "This line uses the informal interjection \"eh\" to express a casual tone and seek agreement or confirmation. The repetition of \"eh\" after each country's name creates an idiomatic expression similar to saying \"right?\" or \"you know?\" in English."
+    },
+    {
+      "time": 60.064,
+      "text": "Me gusta (¡freeze!)",
+      "translation": "I like it (freeze!)",
+      "grammar": "The phrase \"Me gusta\" is in the present tense, indicating a habitual or general liking. The use of \"(¡freeze!)\" is an interjection, adding emphasis and humor to the statement."
+    },
+    {
+      "time": 61.8,
+      "text": "Eh, J Balvin, eh, Willy William, eh",
+      "translation": "Hey, J Balvin, hey, Willy William, hey",
+      "grammar": "This line uses the informal greeting \"eh\" as an interjection to address J Balvin and Willy William in a casual tone. The repeated use of \"eh\" emphasizes the colloquial nature of the phrase."
+    },
+    {
+      "time": 65.429,
+      "text": "Me gusta (¡freeze!)",
+      "translation": "I like it (freeze!)",
+      "grammar": "The phrase \"Me gusta\" is in the present tense and uses the informal \"you\", typical of spoken language. The addition of \"(¡freeze!)\" is an interjection, used to add emphasis or humor."
+    },
+    {
+      "time": 67.165,
+      "text": "Los DJs no miente', les gusta a mi gente",
+      "translation": "'DJs don't lie', my people like it",
+      "grammar": "The phrase \"mi gente\" is an idiomatic expression meaning \"my people\" or \"my community\", emphasizing the speaker's connection to their audience."
+    },
+    {
+      "time": 71.742,
+      "text": "Y eso se fue mundial (¡freeze!)",
+      "translation": "And that went global (freeze!)",
+      "grammar": "The phrase \"¡freeze!\" is an interjection used to emphasize sudden action or surprise, often translated as \"stop\" or \"hold it."
+    },
+    {
+      "time": 74.898,
+      "text": "No le bajamos, mas nunca paramos",
+      "translation": "We didn't slow down, but we never stopped.",
+      "grammar": "This idiomatic expression uses the present tense to describe a past action, conveying a sense of habitual or continuous behavior. The phrase \"nunca paramos\" (we never stopped) emphasizes the persistence despite any temporary slowdowns."
+    },
+    {
+      "time": 78.054,
+      "text": "Es otro palo y, ¡blam!",
+      "translation": "It's another blow, and, blam!",
+      "grammar": "The exclamation \"¡blam!\" is an interjection used to express strong emotions or emphasis, often in a humorous or ironic way."
+    },
+    {
+      "time": 80.737,
+      "text": "¿Y dónde está mi gente?",
+      "translation": "And where are my people?",
+      "grammar": "The phrase ¿Y dónde está mi gente? is an idiomatic expression, using the present tense to convey a sense of urgency and inquiry. The pronoun \"mi\" agrees with \"gente\", emphasizing possession and belonging."
+    },
+    {
+      "time": 83.42,
+      "text": "Mais fais bouger la tête",
+      "translation": "Mais fais bouger la tête",
+      "grammar": "This idiomatic expression uses the imperative mood to instruct someone to move their head, with \"fais\" implying a sense of encouragement or urging."
+    },
+    {
+      "time": 86.103,
+      "text": "¿Y dónde está mi gente?",
+      "translation": "And where are my people?",
+      "grammar": "The phrase \"¿Y dónde está mi gente?\" is an example of a rhetorical question, using the present tense to express a sense of longing or searching. The pronoun \"mi\" agrees with the noun \"gente\", emphasizing the speaker's personal connection to their community."
+    },
+    {
+      "time": 88.786,
+      "text": "Say yeah, yeah, yeah",
+      "translation": "Say yeah, yeah, yeah",
+      "grammar": "This interjection is an expression of strong agreement or emphasis, often used to add enthusiasm and energy to a statement. The repetition of \"yeah\" creates a sense of rhythm and reinforces the speaker's sentiment."
+    },
+    {
+      "time": 90.995,
+      "text": "¡Un, dos, tres, leggo! (Ay, di que sí)",
+      "translation": "One, two, three, leggo! (Oh, say yes)",
+      "grammar": "This interjection ¡Leggo! is an informal expression of excitement or agreement, often used in spoken language to convey enthusiasm or confirmation."
+    },
+    {
+      "time": 95.098,
+      "text": "Esquina a esquina, y ahí nos vamo",
+      "translation": "Corner to corner, and that's where we're going",
+      "grammar": "The phrase \"y ahí nos vamo\" is an idiomatic expression indicating the direction or destination of movement, using the verb \"ir\" (to go) in the informal first-person plural form \"vamo\", emphasizing the collective action."
+    },
+    {
+      "time": 98.728,
+      "text": "El mundo es grande, pero lo tengo en mis manos",
+      "translation": "The world is big, but I have it in my hands",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of control and agency, emphasizing that despite the world's vastness, the speaker feels empowered to shape their own destiny."
+    },
+    {
+      "time": 103.778,
+      "text": "Estoy muy duro, sí, okay, ahí vamos",
+      "translation": "I'm very hard, yes, okay, here we go",
+      "grammar": "The use of \"estoy\" (I am) in the present continuous tense indicates a temporary or ongoing state of being \"muy duro\" (very hard), while the interjections \"sí\", \"okay\", and \"ahí vamos\" convey enthusiasm and agreement."
+    },
+    {
+      "time": 107.408,
+      "text": "Y con el tiempo nos seguimos elevando, yeah",
+      "translation": "And over time we keep rising, yeah",
+      "grammar": "The phrase \"nos seguimos elevando\" is in the present continuous tense, indicating an ongoing action that started in the past and continues up to the present moment. The use of \"seguimos\" (we continue) emphasizes the persistent nature of this upward trajectory."
+    },
+    {
+      "time": 111.511,
+      "text": "Que seguimos rompiendo aquí, yeah",
+      "translation": "We're still killing it here, yeah",
+      "grammar": "The phrase \"seguimos\" is in the present continuous tense, indicating an ongoing action. The idiom \"rompiendo\" means to excel or do something exceptionally well, and the pronoun \"aquí\" refers to a specific location."
+    },
+    {
+      "time": 114.193,
+      "text": "Esta fiesta no tiene fin, yeah",
+      "translation": "This party never ends, yeah",
+      "grammar": "The phrase \"no tiene fin\" is an idiomatic expression meaning \"never ends\". The verb \"tiene\" is in the present tense and agrees with the subject \"fiesta\" in number."
+    },
+    {
+      "time": 117.35,
+      "text": "Botellas para arriba, sí",
+      "translation": "Bottles up, yes",
+      "grammar": "This idiomatic expression uses the imperative mood to give a command, with \"arriba\" (up) indicating direction rather than physical height. The phrase is often used to encourage someone to keep their emotions or problems bottled up, similar to the English idiom \"bottle it up\"."
+    },
+    {
+      "time": 119.559,
+      "text": "Los tengo bailando, rompiendo y yo sigo aquí (yeah)",
+      "translation": "I've got them dancing, breaking it, and I'm still here (yeah)",
+      "grammar": "The phrase \"sigo aquí\" is in the present continuous tense, indicating that the speaker's state of being still here continues up to the moment of speaking. The use of \"yo\" as a pronoun emphasizes the speaker's personal involvement in the situation."
+    },
+    {
+      "time": 124.136,
+      "text": "Que seguimos rompiendo aquí, yeah",
+      "translation": "We're still killing it here, yeah",
+      "grammar": "The phrase \"seguimos\" is in the present continuous tense, indicating an ongoing action. The use of \"que\" at the beginning of the sentence is an idiomatic expression equivalent to \"we're still\"."
+    },
+    {
+      "time": 126.818,
+      "text": "Esta fiesta no tiene fin, yeah",
+      "translation": "This party never ends, yeah",
+      "grammar": "The phrase \"no tiene fin\" is an idiomatic expression meaning \"never ends\", using the present tense to convey a timeless or habitual situation."
+    },
+    {
+      "time": 129.975,
+      "text": "Botellas para arriba, sí",
+      "translation": "Bottles up, yes",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a sense of ongoing action or emphasis, rather than describing an actual event in progress. The phrase \"para arriba\" is an idiomatic way to say \"up\" or \"to the top\", implying that the bottles are being filled or stored away."
+    },
+    {
+      "time": 132.184,
+      "text": "Los tengo bailando, rompiendo",
+      "translation": "I've got them dancing, breaking",
+      "grammar": "The verb phrase \"tengo\" is in the present perfect tense, indicating an action started in the past and continuing up to the moment of speaking. The idiomatic expression \"bailando, rompiendo\" uses the gerunds \"bailando\" and \"rompiendo\" to describe the ongoing actions of dancing and breaking."
+    },
+    {
+      "time": 134.394,
+      "text": "¿Y dónde está mi gente?",
+      "translation": "And where are my people?",
+      "grammar": "The phrase \"¿Y dónde está mi gente?\" is an example of a rhetorical question, using the present continuous tense to express a sense of urgency and inquiry. The pronoun \"mi\" agrees with the noun \"gente\", emphasizing the speaker's personal connection to their community."
+    },
+    {
+      "time": 137.076,
+      "text": "Mais fais bouger la tête",
+      "translation": "Mais fais bouger la tête",
+      "grammar": "This idiomatic expression uses the imperative mood to instruct someone to make their head move, with \"fais\" implying a sense of encouragement or urging."
+    },
+    {
+      "time": 139.759,
+      "text": "¿Y dónde está mi gente?",
+      "translation": "And where are my people?",
+      "grammar": "The phrase ¿Y dónde está mi gente? uses the present tense to express a sense of urgency and inquiry, with the verb estar indicating a temporary or changing situation. The pronoun mi emphasizes possession and belonging."
+    },
+    {
+      "time": 142.442,
+      "text": "Say yeah, yeah, yeah",
+      "translation": "Say yeah, yeah, yeah",
+      "grammar": "This interjection is an expression of strong agreement or emphasis, often used to add enthusiasm and energy to a statement. The repetition of \"yeah\" emphasizes the speaker's conviction, creating a sense of excitement and unity with others."
+    },
+    {
+      "time": 144.651,
+      "text": "¡Un, dos, tres, leggo! (Ay, di que sí)",
+      "translation": "One, two, three, leggo! (Oh, say yes)",
+      "grammar": "This line uses the imperative mood to express a call to action (\"Un, dos, tres...\"), while \"leggo\" is an interjection and idiomatic expression similar to \"let's go\", emphasizing enthusiasm and agreement."
+    },
+    {
+      "time": 148.755,
+      "text": "Worldwide, Willy William",
+      "translation": "Worldwide, Willy William",
+      "grammar": "This phrase is an idiomatic expression used to introduce or emphasize a point, with no specific grammatical function."
+    },
+    {
+      "time": 150.491,
+      "text": "J Balvin, man, ajá",
+      "translation": "J Balvin, man, yeah",
+      "grammar": "The phrase \"ajá\" is an informal way to express agreement or confirmation in Spanish, equivalent to the English phrase \"yeah\"."
+    },
+    {
+      "time": 152.7,
+      "text": "Ajá",
+      "translation": "Uh-huh",
+      "grammar": "This interjection \"Ajá\" is used to express agreement or confirmation, similar to the English phrase \"Uh-huh\"."
+    },
+    {
+      "time": 153.9,
+      "text": "Ajá",
+      "translation": "Uh-huh",
+      "grammar": "This interjection \"Ajá\" is an informal expression of agreement or confirmation, similar to \"Uh-huh\" in English. It's often used in spoken language to show understanding or acknowledgement."
+    },
+    {
+      "time": 155.1,
+      "text": "Ajá",
+      "translation": "Uh-huh",
+      "grammar": "This interjection \"Ajá\" is an informal expression of agreement or confirmation, equivalent to saying \"yeah\" or \"uh-huh\" in English."
+    }
+  ]
+}

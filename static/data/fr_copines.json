@@ -1,0 +1,337 @@
+{
+  "id": "fr_copines",
+  "title": "Copines",
+  "artist": "Aya Nakamura",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_copines.mp3",
+  "duration": 172,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 6.6855,
+      "text": "Il m'a dit \"t'es où? J'te rejoins au tel-hô\"",
+      "translation": "He said to me, \"Where are you? I'll meet you at the hotel.\"",
+      "grammar": "The use of \"J'te\" instead of \"Je te\" is a common informal idiomatic expression in French, where the subject pronoun \"je\" is contracted with the direct object pronoun \"te\" to create a more casual tone."
+    },
+    {
+      "time": 8.97319999998808,
+      "text": "Moi, j'm'en bats les reins, j'ai besoin d'un vrai djo",
+      "translation": "I don't give a damn, I need a real man",
+      "grammar": "The phrase \"j'm'en bats\" is an informal idiomatic expression in French, equivalent to the English idiom \"don't give a damn\". It uses the informal verb form \"j'm'en\" and the reflexive pronoun \"les reins\", which conveys a sense of nonchalance or indifference."
+    },
+    {
+      "time": 11.6935,
+      "text": "Il a vu mes copines, j'crois qu'il a flashé",
+      "translation": "He saw my girlfriends, I think he was smitten.",
+      "grammar": "The phrase \"j'crois\" is an informal way to express doubt or uncertainty in French, equivalent to \"I think\" in English. The verb \"croire\" is used in the present tense to convey a sense of ongoing thought or opinion."
+    },
+    {
+      "time": 14.36169999998808,
+      "text": "J'suis pas ton plan B, t'as maté le fessier",
+      "translation": "I'm not your plan B, you checked out my ass",
+      "grammar": "The phrase \"J'suis pas\" is an informal way of saying \"I'm not\" in the present tense, using the contraction of \"je suis\" and the negation \"pas\". The idiomatic expression \"plan B\" refers to a backup or alternative option."
+    },
+    {
+      "time": 17.00129999998212,
+      "text": "J'réponds à tes appels, tu crois qu'j'vais la fesser?",
+      "translation": "I'm answering your calls, you think I'm going to spank her?",
+      "grammar": "The informal \"je\" and \"tu\" are used instead of formal \"on\" and \"vous\", indicating a casual conversation between friends. The use of the present continuous tense \"J'réponds\" emphasizes the ongoing nature of answering calls."
+    },
+    {
+      "time": 19.60629999998212,
+      "text": "Moi, j'm'en bats les reins, j'ai besoin d'un vrai djo",
+      "translation": "I don't give a damn, I need a real man",
+      "grammar": "The phrase \"j'm'en bats\" is an informal idiomatic expression in French, equivalent to \"to hell with\" or \"I don't care about\" in English. The verb \"bats\" is in the imperative mood and has no direct translation, but conveys a sense of dismissal or indifference."
+    },
+    {
+      "time": 22.31569999998808,
+      "text": "Trop tard, trop tard",
+      "translation": "Too late, too late",
+      "grammar": "This interjection \"Trop tard\" is an idiomatic expression in French, conveying a sense of regret or disappointment. It is often used to express that something has happened too recently or too late to be of use."
+    },
+    {
+      "time": 25.0455,
+      "text": "J'suis trop loin pour toi",
+      "translation": "I'm too far away for you",
+      "grammar": "The phrase \"J'suis\" is a contraction of \"Je suis\", using the informal \"je\" and agreeing with the subject in the present tense, indicating proximity or nearness."
+    },
+    {
+      "time": 27.607299999982118,
+      "text": "Trop tard, trop tard",
+      "translation": "Too late, too late",
+      "grammar": "This interjection is an idiomatic expression used to convey a sense of regret or disappointment, often in response to a missed opportunity. The repetition of \"trop\" emphasizes the intensity of the feeling."
+    },
+    {
+      "time": 30.52109999999404,
+      "text": "J'suis trop loin pour toi",
+      "translation": "I'm too far away for you",
+      "grammar": "The phrase \"J'suis\" is a casual, informal way to express the present tense of être (to be) in French, often used with friends or in intimate settings. The contraction \"J'suis\" is equivalent to \"Je suis\" but has a more relaxed tone."
+    },
+    {
+      "time": 32.603,
+      "text": "Mais qui est la plus bonne, bonne, bonne de mes copines?",
+      "translation": "But who is the hottest, hottest, hottest of my girlfriends?",
+      "grammar": "The repeated use of \"bonne\" emphasizes the speaker's enthusiasm and creates an idiomatic expression similar to \"the best of the best\". The verb \"est\" remains in the present tense, indicating a general question about the speaker's opinion."
+    },
+    {
+      "time": 36.7045,
+      "text": "Ah mes copines, ah mes copines",
+      "translation": "Oh my girlfriends, oh my girlfriends",
+      "grammar": "The repeated use of \"ah\" is an interjection expressing excitement or emphasis, often used in informal speech. The phrase \"mes copines\" uses the possessive adjective \"mes\" agreeing with the plural noun \"copines\"."
+    },
+    {
+      "time": 37.56919999998808,
+      "text": "Mais tu veux la plus bonne, bonne, bonne de mes copines",
+      "translation": "But you want the hottest, hottest, hottest of my girlfriends",
+      "grammar": "The repeated use of \"bonne\" emphasizes its meaning through intensification, a common idiomatic expression in French. The verb \"veux\" remains in the present tense to convey a sense of ongoing desire or preference."
+    },
+    {
+      "time": 40.71609999999404,
+      "text": "Ah mes copines, ah mes copines",
+      "translation": "Oh my girlfriends, oh my girlfriends",
+      "grammar": "The repeated use of \"ah\" is an interjection expressing excitement or emphasis, often used in informal speech to address a group of people. The phrase \"mes copines\" is the object of the interjection, using the possessive adjective \"mes\" agreeing with the plural noun \"copines\"."
+    },
+    {
+      "time": 43.11929999998212,
+      "text": "Tu veux tout bombarder, bom-bom, bombarder, hey",
+      "translation": "You want to bomb everything, boom-boom, bomb, hey",
+      "grammar": "This line uses the imperative mood to express a strong desire or intention, with the verb \"veux\" (want) in the second person singular (\"Tu\"). The phrase \"bom-bom, bombarder\" is an idiomatic expression emphasizing the intensity of the action."
+    },
+    {
+      "time": 47.54859999999404,
+      "text": "Tu veux tout bombarder, bom-bom, bombarder, ouais",
+      "translation": "You want to bomb everything, boom-boom, bomb, yeah",
+      "grammar": "The phrase \"bom-bom\" is an idiomatic expression used to emphasize the action of bombing, similar to saying \"boom-boom\" in English. The verb \"bombarder\" is in the imperative mood, giving a sense of urgency and enthusiasm."
+    },
+    {
+      "time": 54.41959999999404,
+      "text": "Toi, tu planes, planes, planes que la nuit (que la nuit)",
+      "translation": "You, you just float, float, float all night (all night)",
+      "grammar": "The repeated use of \"planes\" is an idiomatic expression meaning to drift or float effortlessly, often used to describe a carefree state. The verb \"planes\" is in the present participle form, indicating continuous action."
+    },
+    {
+      "time": 56.82809999999404,
+      "text": "Tu crois qu'j'ai ton time, à ton avis? (À ton avis?)",
+      "translation": "Do you think I have time for you? (What do you think?)",
+      "grammar": "The phrase \"à ton avis\" is an idiomatic expression meaning \"what do you think?\" or \"in your opinion?\", using the informal second-person singular pronoun \"ton\" to address the listener, and the verb \"avis\" in the subjunctive mood."
+    },
+    {
+      "time": 59.24140000000596,
+      "text": "M'appelle pas \"mi amor\" (mi amor)",
+      "translation": "Don't call me \"mi amor\" (mi amor)",
+      "grammar": "The phrase \"M'appelle pas\" is a negation of the formal way to say \"my name is\", using the imperfect tense and the informal pronoun \"m'appelle\" instead of the more common \"je m'appelle\". This construction emphasizes the speaker's reluctance or refusal."
+    },
+    {
+      "time": 62.23790000000596,
+      "text": "J't'ai barré, mais t'en veux encore",
+      "translation": "I blocked you, but you still want more",
+      "grammar": "The phrase \"J't'ai barré\" is an informal way of saying \"I've blocked you\" in the passé composé tense, using the contraction of \"je\" and \"t'as\"."
+    },
+    {
+      "time": 64.89090000000596,
+      "text": "Toi, tu crois viser dans le mille",
+      "translation": "You think you're hitting the bullseye!",
+      "grammar": "The phrase \"Toi, tu\" is an idiomatic way to address someone informally in French, equivalent to saying \"you\" in English. The verb \"crois\" is in the present tense and indicates a thought or opinion rather than an action."
+    },
+    {
+      "time": 67.54319999998808,
+      "text": "Faudra trouver un alibi",
+      "translation": "We'll have to find an alibi",
+      "grammar": "This idiomatic expression uses the future tense and the conditional mood to convey a sense of necessity, implying that finding an alibi is not optional but rather a requirement."
+    },
+    {
+      "time": 70.34119999998808,
+      "text": "Trop tard, trop tard",
+      "translation": "Too late, too late",
+      "grammar": "This interjection \"Trop tard\" is an idiomatic expression in French, conveying a sense of regret or disappointment at something happening too late. It is often used to express the idea that an opportunity has passed or a situation has become irreparable."
+    },
+    {
+      "time": 72.92559999999403,
+      "text": "J'suis trop loin pour toi",
+      "translation": "I'm too far away for you",
+      "grammar": "The phrase \"J'suis\" is a contraction of \"Je suis\", using the informal \"tu\" form, indicating a casual tone and familiarity with the listener."
+    },
+    {
+      "time": 75.63140000000595,
+      "text": "Trop tard, trop tard",
+      "translation": "Too late, too late",
+      "grammar": "This interjection \"Trop tard\" is an idiomatic expression in French, conveying a sense of regret or disappointment at something happening too late. Note that the repetition emphasizes the intensity of the feeling."
+    },
+    {
+      "time": 78.32490000000595,
+      "text": "J'suis trop loin pour toi",
+      "translation": "I'm too far away for you",
+      "grammar": "The phrase \"J'suis\" is a contraction of \"Je suis\", using the informal \"je\" and emphasizing the speaker's proximity to the listener, creating an intimate tone."
+    },
+    {
+      "time": 81.45879999998212,
+      "text": "Mais qui est la plus bonne, bonne, bonne de mes copines?",
+      "translation": "But who is the hottest, hottest, hottest of my girlfriends?",
+      "grammar": "The repeated use of \"bonne\" emphasizes the speaker's enthusiasm and creates an idiomatic expression equivalent to \"the best\". The verb \"est\" remains in the present tense, indicating a general question about the speaker's opinion."
+    },
+    {
+      "time": 83.21769999998808,
+      "text": "Ah mes copines, ah mes copines",
+      "translation": "Oh my girlfriends, oh my girlfriends",
+      "grammar": "The repeated use of \"ah\" is an interjection expressing emphasis and affection, often used in informal conversations among friends. The phrase \"mes copines\" is a plural noun agreeing with the feminine pronoun \"elles\" (they), indicating a group of female friends."
+    },
+    {
+      "time": 85.64919999998808,
+      "text": "Mais tu veux la plus bonne, bonne, bonne de mes copines",
+      "translation": "But you want the hottest, hottest, hottest of my girlfriends",
+      "grammar": "This line uses the present tense to express a habitual or repeated action (\"tu veux\" means \"you want\"), and the repetition of \"bonne\" emphasizes the speaker's point through an idiomatic expression."
+    },
+    {
+      "time": 88.30379999998212,
+      "text": "Ah mes copines, ah mes copines",
+      "translation": "Oh my girlfriends, oh my girlfriends",
+      "grammar": "The repeated use of \"ah\" is an interjection expressing excitement or emphasis, often used in informal speech. The phrase \"mes copines\" is a plural noun agreeing with the feminine pronoun \"elles\" (they), indicating that the speaker is addressing multiple female friends."
+    },
+    {
+      "time": 90.96319999998808,
+      "text": "Tu veux tout bombarder, bom-bom, bombarder, hey",
+      "translation": "You want to bomb everything, boom-boom, bomb, hey",
+      "grammar": "This line uses the imperative mood to express a strong desire or intention (\"Tu veux\" means \"You want\"), with the idiomatic expression \"bomber tout\" emphasizing the intensity of the action."
+    },
+    {
+      "time": 96.08,
+      "text": "Tu veux tout bombarder, bom-bom, bombarder, ouais",
+      "translation": "You want to bomb everything, boom-boom, bomb, yeah",
+      "grammar": "The phrase \"bom-bom\" is an idiomatic expression used to emphasize the idea of intense or repeated action, similar to saying \"boom after boom\". The use of \"ouais\" (yeah) also adds a casual and informal tone to the sentence."
+    },
+    {
+      "time": 107.89759999999404,
+      "text": "Mon gars, t'as coulé",
+      "translation": "My friend, you've sunk.",
+      "grammar": "The phrase \"t'as\" is a contraction of \"tu as\", using the informal \"you\" (tu) and the verb \"to have\" (avoir), indicating the present perfect tense. This informal construction is commonly used in spoken French among friends."
+    },
+    {
+      "time": 107.8995,
+      "text": "Aya t'a cramé",
+      "translation": "Aya caught you",
+      "grammar": "This line uses the informal, colloquial construction \"t'a\" to indicate a sudden or unexpected action in the past, equivalent to \"just caught\" or \"caught suddenly\". The verb \"cramé\" is in the imperfective aspect, describing an ongoing or repeated action."
+    },
+    {
+      "time": 107.90119999998808,
+      "text": "Mais tu veux la plus bonne, ouais, yeah (la plus bonne)",
+      "translation": "But you want the best one, yeah, yeah (the best one)",
+      "grammar": "The phrase \"ouais\" is an informal way to express strong agreement or confirmation in spoken French, equivalent to saying \"yeah\" or \"right\"."
+    },
+    {
+      "time": 110.24990000000597,
+      "text": "Tu, tu veux la plus fraîche, ouais, yeah (la plus fraîche)",
+      "translation": "You want the freshest one, yeah, yeah (the freshest one)",
+      "grammar": "The phrase \"ouais\" is an informal French expression equivalent to \"yeah\", used to convey agreement or confirmation."
+    },
+    {
+      "time": 112.98379999998212,
+      "text": "Mon gars, t'as coulé (coulé)",
+      "translation": "My guy, you've sunk (sunk)",
+      "grammar": "The phrase \"t'as\" is a colloquialism used to address someone informally, equivalent to \"you have\" in formal English. The use of the imperfect tense \"couleur\" instead of the expected perfect tense \"coulé\" adds a sense of suddenness and emphasizes the unexpected nature of the event."
+    },
+    {
+      "time": 115.57319999998808,
+      "text": "Aya t'a cramé (cramé)",
+      "translation": "Aya caught you (caught you)",
+      "grammar": "The phrase \"t'a\" is a contraction of \"te\" and \"'a\", used to indicate the informal second-person singular pronoun, equivalent to \"you\" in English. The use of the imperfect tense \"cramé\" implies an ongoing or repeated action."
+    },
+    {
+      "time": 118.29809999999404,
+      "text": "Mais tu veux la plus bonne, ouais, yeah",
+      "translation": "But you want the best one, yeah, yeah",
+      "grammar": "The phrase \"ouais\" is an informal way to express agreement or confirmation in spoken French, often translated as \"yeah\". Note that it's used to add emphasis and enthusiasm to the sentence."
+    },
+    {
+      "time": 121.07829999998212,
+      "text": "Tu veux la plus fraîche, ouais, yeah",
+      "translation": "You want the freshest one, yeah, yeah",
+      "grammar": "The phrase \"ouais\" is an informal French expression equivalent to \"yeah\" or \"uh-huh\", used to show agreement or confirmation."
+    },
+    {
+      "time": 123.15029999998212,
+      "text": "Mais qui est la plus bonne, bonne, bonne de mes copines?",
+      "translation": "But who is the hottest, hottest, hottest of my girlfriends?",
+      "grammar": "The repeated use of \"bonne\" emphasizes the speaker's enthusiasm and creates an idiomatic expression meaning \"the best\". The verb \"est\" remains in the present tense to convey a sense of ongoing evaluation."
+    },
+    {
+      "time": 125.63229999998212,
+      "text": "Ah mes copines, ah mes copines",
+      "translation": "Oh my girlfriends, oh my girlfriends",
+      "grammar": "This interjection \"Ah\" is used to express strong emotions or emphasis, often followed by a vocative phrase like \"mes copines\" (my girlfriends), which is in the nominative plural form. The repetition of \"ah\" and \"copines\" creates an intimate and affectionate tone."
+    },
+    {
+      "time": 128.26040000000597,
+      "text": "Mais tu veux la plus bonne, bonne, bonne de mes copines",
+      "translation": "But you want the hottest, hottest, hottest of my girlfriends",
+      "grammar": "The repetition of \"bonne\" emphasizes the speaker's conviction and creates a sense of urgency, using the idiomatic expression \"la plus bonne\" to convey strong desire."
+    },
+    {
+      "time": 131.20469999998807,
+      "text": "Ah mes copines, ah mes copines",
+      "translation": "Oh my girlfriends, oh my girlfriends",
+      "grammar": "The repeated use of \"ah\" is an interjection expressing enthusiasm and emphasis, often used to grab attention or convey strong emotions. The phrase \"mes copines\" is a possessive noun phrase agreeing with the plural pronoun \"elles\" (they) in the original French sentence."
+    },
+    {
+      "time": 133.58540000000596,
+      "text": "Tu veux tout bombarder, bom-bom, bombarder, hey",
+      "translation": "You want to bomb everything, boom-boom, bomb, hey",
+      "grammar": "The phrase \"bom-bom\" is an idiomatic expression used to emphasize the idea of intense or repeated action, similar to saying \"over and over again\". The use of \"hey\" at the end adds a casual, informal tone to the sentence."
+    },
+    {
+      "time": 139.08019999998808,
+      "text": "Tu veux tout bombarder, bom-bom, bombarder, ouais",
+      "translation": "You want to bomb everything, boom-boom, bomb, yeah",
+      "grammar": "The phrase \"bom-bom\" is an onomatopoeic idiom used to emphasize the action of bombing, while \"ouais\" is a casual way to express agreement or confirmation in informal spoken French."
+    },
+    {
+      "time": 145.20559999999404,
+      "text": "Tu veux la plus bonne, ouais, yeah (la plus bonne)",
+      "translation": "You want the best one, yeah, yeah (the best one)",
+      "grammar": "The phrase \"ouais\" is an informal way to express agreement or confirmation in spoken French, often translated as \"yeah\". It's used to show enthusiasm and emphasis, similar to saying \"right\" or \"exactly\" in English."
+    },
+    {
+      "time": 147.584,
+      "text": "Tu, tu veux la plus fraîche, ouais, yeah",
+      "translation": "You want the freshest one, yeah, yeah",
+      "grammar": "The phrase \"ouais\" is an informal way to express agreement or confirmation in spoken French, often translated as \"yeah\". Note that it's used here to emphasize the speaker's enthusiasm and consent."
+    },
+    {
+      "time": 150.2245,
+      "text": "Tu veux la plus bonne, ouais, yeah",
+      "translation": "You want the best one, yeah, yeah",
+      "grammar": "The phrase \"ouais\" is an informal way to express agreement or confirmation in spoken French, equivalent to saying \"yeah\" or \"okay\"."
+    },
+    {
+      "time": 153.21090000000595,
+      "text": "Tu, tu veux la plus fraîche, ouais, yeah",
+      "translation": "You want the freshest one, yeah, yeah",
+      "grammar": "The phrase \"ouais\" is an informal French equivalent of \"yeah\", used to express agreement or confirmation. It's often used in spoken language and can be translated as \"right\" or \"okay\"."
+    },
+    {
+      "time": 155.60690000000596,
+      "text": "Tu veux la plus bonne, ouais, yeah",
+      "translation": "You want the best one, yeah, yeah",
+      "grammar": "The phrase \"ouais\" is an informal way to express agreement or confirmation in French, often translated as \"yeah\". It's used to show enthusiasm and affirmation."
+    },
+    {
+      "time": 158.41790000000597,
+      "text": "Tu veux la plus fraîche, ouais, yeah",
+      "translation": "You want the freshest one, yeah, yeah",
+      "grammar": "The phrase \"ouais\" is an informal way to express agreement or confirmation in spoken French, equivalent to saying \"yeah\" or \"right\" in English."
+    },
+    {
+      "time": 165.21929999998213,
+      "text": "Tu veux la plus bonne, ouais, yeah",
+      "translation": "You want the best one, yeah, yeah",
+      "grammar": "The phrase \"ouais\" is an informal way to express agreement or confirmation in spoken French, often translated as \"yeah\". It's used to show enthusiasm and affirmation."
+    },
+    {
+      "time": 165.23519999998808,
+      "text": "Tu veux la plus fraîche, ouais, yeah",
+      "translation": "You want the freshest one, yeah, yeah",
+      "grammar": "The phrase \"ouais\" is an informal way to express agreement or confirmation in French, often translated as \"yeah\". It's used to convey a sense of casual consent."
+    }
+  ]
+}

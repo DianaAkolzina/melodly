@@ -1,0 +1,78 @@
+{
+  "id": "fr_gims_damso_tu_me_rends_bete",
+  "title": "Tu me rends bête (excerpt)",
+  "artist": "Gims & Damso",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_gims_damso_tu_me_rends_bete.mp3",
+  "duration": 230,
+  "is_excerpt": true,
+  "licensing_note": "User-provided excerpt. To complete, add licensed full lyrics locally.",
+  "lines": [
+    { "time": 0.0, "text": "Mmh, mmh", "translation": "Mmh, mmh (vocalization)", "grammar": "Onomatopoeic filler; no finite verb." },
+    { "time": 2.0, "text": "Viens dans mes bras, viens", "translation": "Come into my arms, come", "grammar": "Imperative 'viens' (2sg); preposition 'dans'; possessive 'mes'." },
+    { "time": 6.0, "text": "Viens dans mes bras, parle-moi tout doucement", "translation": "Come into my arms, speak to me very softly", "grammar": "Imperative; object pronoun enclisis 'parle-moi'; intensifier 'tout' + adverb 'doucement'." },
+    { "time": 10.0, "text": "Viens dans mes bras, viens dans mes bras", "translation": "Come into my arms, come into my arms", "grammar": "Repetition for emphasis and rhythm." },
+    { "time": 14.0, "text": "Et parle-moi tout doucement", "translation": "And speak to me very softly", "grammar": "Coordination with 'et'; imperative maintained by context (asyndetic)." },
+
+    { "time": 18.0, "text": "J'osais pas te le dire, tu me rends bête", "translation": "I didn't dare tell you, you make me silly", "grammar": "Elision 'J''; colloquial negation drop 'ne'; causative 'rendre' + adjective 'bête'." },
+    { "time": 22.0, "text": "J'veux revoir ton sourire donc, je m'endette", "translation": "I want to see your smile again so I go into debt", "grammar": "Spoken contraction 'J'' for 'Je'; pronominal 'je m'endette' (become indebted); causal connector 'donc'." },
+    { "time": 26.0, "text": "Pense à moi (quand ça va), n'oublie pas (n'oublie pas)", "translation": "Think of me (when things are good), don't forget (don't forget)", "grammar": "Imperatives 'pense', 'n'oublie pas'; parenthetical aside; impersonal 'ça va'." },
+    { "time": 30.0, "text": "Que j'étais là (j'étais là) quand ça n'allait pas (ah, ah)", "translation": "That I was there (I was there) when things weren't going well (ah, ah)", "grammar": "Subordinate with 'que' reporting; imparfait 'étais'; negation 'ne ... pas' contracted to 'n'... pas'." },
+
+    { "time": 35.0, "text": "Ah, ah, ah, ah, ah, ah, ah, ah", "translation": "Ah, ah, ah, ah, ah, ah, ah, ah", "grammar": "Vocalizations; filler prolonging the hook." },
+    { "time": 38.0, "text": "Ah, ah, ah, ah, ah, tu me rends bête", "translation": "Ah, ah, ah, ah, ah, you make me silly", "grammar": "Causative 'tu me rends' + adjective 'bête' (emotional effect)." },
+
+    { "time": 42.0, "text": "J'vais quitter l'Europe, j'monte dans l'avion", "translation": "I'm gonna leave Europe, I'm getting on the plane", "grammar": "Familiar future 'je vais' → 'j'vais'; elision 'j'' before vowel; contraction 'dans l''." },
+    { "time": 46.0, "text": "Je chеcke le pilote, j'bloque", "translation": "I check the pilot, I freeze up", "grammar": "Borrowed verb 'checker' (to check); spoken elision 'j''; parataxis of present verbs for vividness." },
+    { "time": 49.0, "text": "J't'ai vue à l'avant dans la rame", "translation": "I saw you up front in the subway car", "grammar": "Clitic 't'' = 'te'; passé composé 't'ai vue' with agreement on 'vue' (COD before verb, f.)." },
+    { "time": 52.0, "text": "J'me canalise pas, faut qu'je te parle (han, han, han)", "translation": "I can't compose myself, I need to talk to you (uh-huh)", "grammar": "Negative without 'ne' (colloquial); necessity 'faut que' + subjunctive (implied) after 'que'." },
+    { "time": 56.0, "text": "Porsche Carrera, j'frappe fort comme Pereira", "translation": "Porsche Carrera, I hit hard like Pereira", "grammar": "Cultural reference; simile with 'comme'; elision 'j'' before consonant in fast speech." },
+    { "time": 60.0, "text": "Grosse caille-ra, toi et moi devant les caméras", "translation": "Big 'caille-ra' (street), you and me in front of the cameras", "grammar": "Verlan/slang 'caille-ra' (racaille); preposition 'devant' + plural article 'les'." },
+
+    { "time": 64.0, "text": "Viens dans mes bras, dans mes draps, sur Telegram", "translation": "Come into my arms, into my sheets, on Telegram", "grammar": "Parallel complements 'dans / sur'; proper noun 'Telegram' used bare." },
+    { "time": 68.0, "text": "Tu s'ras à moi quand l'avion atterrira", "translation": "You'll be mine when the plane lands", "grammar": "Elided future 'tu seras' → 'Tu s'ras'; temporal clause 'quand' + future 'atterrira'." },
+    { "time": 72.0, "text": "Donc, on s'évade, on s'efface, j'fais pas de vagues", "translation": "So, we escape, we fade out, I don't make waves", "grammar": "Pronominal verbs 's'évader, s'effacer'; negation without 'ne' (spoken register)." },
+    { "time": 76.0, "text": "J'fais pas de blagues, j'vais bientôt t'passer la bague", "translation": "I don't joke around, I'm soon gonna give you the ring", "grammar": "Idiom 'passer la bague' = propose marriage; clitic 't'' = 'te'." },
+    { "time": 80.0, "text": "Ça faisait longtemps qu'toi et moi, on n's'était pas brouillé comme ça", "translation": "It had been a long time that you and I hadn't fallen out like this", "grammar": "Imparfait + plus-que-parfait nuance; negation 'ne' dropped before 's'était'; dislocation 'toi et moi, on...'." },
+    { "time": 85.0, "text": "C'est pour ça qu'on se débat", "translation": "That's why we're struggling", "grammar": "Cleft 'C'est ... que'; pronominal 'se débattre' (metaphorical)." },
+
+    { "time": 89.0, "text": "J'osais pas te le dire (oh, la, la), tu me rends bête (oh, la, la)", "translation": "I didn't dare tell you (oh, la la), you make me silly (oh, la la)", "grammar": "Parenthetical interjection; 'te le' double clitics (IO + DO)." },
+    { "time": 93.0, "text": "J'veux revoir ton sourire (oh, la, la), donc je m'endette", "translation": "I want to see your smile again (oh, la la), so I go into debt", "grammar": "Causal 'donc'; pronominal 'm'endette'; contraction 'J'' for 'Je'." },
+    { "time": 97.0, "text": "Pense à moi (quand ça va), n'oublie pas (n'oublie pas)", "translation": "Think of me (when things are good), don't forget (don't forget)", "grammar": "Imperatives with preposition 'à' + stressed pronoun; echo for emphasis." },
+    { "time": 101.0, "text": "Que j'étais là (j'étais là) quand ça n'allait pas (ah, ah)", "translation": "That I was there (I was there) when things weren't going well (ah, ah)", "grammar": "Reported clause introduced by 'que'; imparfait 'n'allait pas'." },
+
+    { "time": 105.0, "text": "Ah, ah, ah, ah, ah, ah, ah, ah", "translation": "Ah, ah, ah, ah, ah, ah, ah, ah", "grammar": "Chorus vocalization; rhythmic padding." },
+    { "time": 108.0, "text": "Ah, ah, ah, ah, ah, tu me rends bête", "translation": "Ah, ah, ah, ah, ah, you make me silly", "grammar": "Refrain returns; 'tu me rends bête'." },
+
+    { "time": 112.0, "text": "Dems, RDC, Palestine", "translation": "Dems, DRC, Palestine", "grammar": "Proper nouns; 'RDC' = République Démocratique du Congo (DRC)." },
+    { "time": 115.0, "text": "Agressé, pas d'estime", "translation": "Attacked, no esteem", "grammar": "Past participle used adjectivally; ellipsis of subject/verb for terseness." },
+    { "time": 118.0, "text": "Le sang se vide, j'sais plus quoi dire", "translation": "The blood drains out, I don't know what to say anymore", "grammar": "Pronominal 'se vider'; negation sans 'ne' (spoken); 'plus' = anymore." },
+    { "time": 121.0, "text": "Nan, j'comprends pas tes streams", "translation": "Nah, I don't get your streams", "grammar": "Colloquial 'Nan' for 'Non'; English loan 'streams'; negation without 'ne'." },
+    { "time": 124.0, "text": "Nan, j'comprends pas tes streams", "translation": "Nah, I don't get your streams", "grammar": "Repetition for emphasis; same structure." },
+    { "time": 127.0, "text": "On dit qu'la Chine t'a vue grandir", "translation": "They say China watched you grow up", "grammar": "Impersonal 'On dit que'; elision 'qu'' before 'la'; passé composé 't'a vue' with agreement (COD before verb)." },
+    { "time": 131.0, "text": "Damso, Meuguiwarano", "translation": "Damso, Meuguiwarano", "grammar": "Nameplay: 'Meugui' (Gims' nickname) + 'Warano'; chant-like listing." },
+    { "time": 134.0, "text": "J'veux son body sans l'anneau", "translation": "I want her body without the ring", "grammar": "Anglicism 'body'; elision 'l'' before vowel; article omission in colloquial style." },
+    { "time": 137.0, "text": "Comme Hakimi, maman signe", "translation": "Like Hakimi, mom signs", "grammar": "Simile with 'comme'; cultural reference to Achraf Hakimi; zero article before 'maman'." },
+
+    { "time": 141.0, "text": "J'osais pas te le dire, tu me rends bête", "translation": "I didn't dare tell you, you make me silly", "grammar": "Elision and double clitic 'te le'; causative 'rendre'." },
+    { "time": 144.0, "text": "J'veux revoir ton sourire, donc je m'endette", "translation": "I want to see your smile again, so I go into debt", "grammar": "'donc' marks consequence; pronominal 'm'endette'." },
+    { "time": 148.0, "text": "Pense à moi (quand ça va), n'oublie pas (n'oublie pas)", "translation": "Think of me (when it goes well), don't forget (don't forget)", "grammar": "Imperatives; parenthetical asides; pragmatic repetition." },
+    { "time": 152.0, "text": "Que j'étais là (que j'étais là) quand ça n'allait pas (ah, ah)", "translation": "That I was there (that I was there) when things weren't going well (ah, ah)", "grammar": "Reported clause with 'que'; imparfait of 'aller' with negation." },
+
+    { "time": 156.0, "text": "Ah, ah, ah, ah, ah, ah, ah, ah, tu me rends bête", "translation": "Ah, ah, ah, ah, ah, ah, ah, ah, you make me silly", "grammar": "Lengthened interjection + predicate 'tu me rends bête'." },
+    { "time": 160.0, "text": "Ah, ah, ah, ah, ah, tu me rends bête", "translation": "Ah, ah, ah, ah, ah, you make me silly", "grammar": "Refrain truncation for cadence." },
+
+    { "time": 164.0, "text": "Tu me rends bête, donc je m'endette", "translation": "You make me silly, so I go into debt", "grammar": "Causative 'rends' + adjective; 'donc' → consequence; pronominal 'm'endette'." },
+    { "time": 167.0, "text": "Ah, ah, ah, ah, ah, ah, ah, ah", "translation": "Ah, ah, ah, ah, ah, ah, ah, ah", "grammar": "Chanted hook; no syntax to analyze." },
+    { "time": 170.0, "text": "Ah, ah, ah, ah, ah", "translation": "Ah, ah, ah, ah, ah", "grammar": "Onomatopoeic interjection; rhythmic glide." },
+    { "time": 173.0, "text": "Ah, ah, ah, ah, ah, ah, ah, ah", "translation": "Ah, ah, ah, ah, ah, ah, ah, ah", "grammar": "Repetition intensifies refrain." },
+    { "time": 176.0, "text": "Ah, ah, ah, ah, ah", "translation": "Ah, ah, ah, ah, ah", "grammar": "Cadence filler; clipped phrase." },
+    { "time": 179.0, "text": "Ah, ah, ah, ah, ah, ah, ah, ah", "translation": "Ah, ah, ah, ah, ah, ah, ah, ah", "grammar": "Sustained vocal line; melismatic repetition." },
+    { "time": 182.0, "text": "Ah, ah, ah, ah, ah", "translation": "Ah, ah, ah, ah, ah", "grammar": "Refrain echo." },
+    { "time": 185.0, "text": "Ah, ah, ah, ah, ah, ah, ah, ah", "translation": "Ah, ah, ah, ah, ah, ah, ah, ah", "grammar": "Extended outro vocalization." },
+    { "time": 188.0, "text": "Ah, ah, ah, ah, ah", "translation": "Ah, ah, ah, ah, ah", "grammar": "Closing tag; repeated motif." }
+  ]
+}
+

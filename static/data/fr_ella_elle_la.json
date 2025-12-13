@@ -1,0 +1,199 @@
+{
+  "id": "fr_ella_elle_la",
+  "title": "Ella Elle L'a",
+  "artist": "Jerry Ropero Big Room Remix — Kate Ryan",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_ella_elle_la.mp3",
+  "duration": 419,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "C'est comme une gaieté comme un sourire",
+      "translation": "It's like a joy, like a smile",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of timeless joy and happiness, rather than describing a specific event. The phrase \"c'est comme\" is an equivalent to \"it's like\" in English, introducing a simile that compares two things."
+    },
+    {
+      "time": 18.689,
+      "text": "Quelque chose dans la voix qui paraît nous dire viens",
+      "translation": "Something in the voice that seems to be saying, come",
+      "grammar": "The phrase \"quelque chose\" is an idiomatic expression meaning \"something\" or \"somehow\", used to convey a sense of intuition or instinct. The verb \"paraît\" is in the passive voice, indicating that the action of seeming is being experienced by the subject."
+    },
+    {
+      "time": 41.876,
+      "text": "Qui nous fait sentir étrangement bien",
+      "translation": "Which makes us feel strangely good",
+      "grammar": "The phrase \"Qui nous fait\" is an idiomatic expression equivalent to \"which makes us\" in English, using the impersonal construction to convey a sense of shared experience."
+    },
+    {
+      "time": 56.068,
+      "text": "C'est comme toute l'histoire du peuple noir",
+      "translation": "It's like the entire history of Black people",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of universality and timelessness, emphasizing that the struggles of Black people are not unique to one era but rather a recurring theme throughout their collective history."
+    },
+    {
+      "time": 77.006,
+      "text": "Qui se balance entre l'amour et l'désespoir",
+      "translation": "Who wavers between love and despair",
+      "grammar": "The phrase \"se balance\" is an idiomatic expression, literally meaning \"to balance oneself,\" but figuratively conveying the idea of being torn or indecisive. The verb \"se balance\" is in the third person singular present tense, indicating a general truth or state rather than a specific action."
+    },
+    {
+      "time": 97.944,
+      "text": "Quelque chose qui danse en toi",
+      "translation": "Something that dances inside you",
+      "grammar": "This idiomatic phrase uses the present continuous tense to convey a sense of ongoing, internal movement or energy. The pronoun \"toi\" is an informal, intimate address, emphasizing the idea that this inner dance is a personal and emotional experience."
+    },
+    {
+      "time": 112.136,
+      "text": "Ella elle l'a",
+      "translation": "She has it",
+      "grammar": "This idiomatic expression uses the present perfect tense to convey a sense of certainty, implying that she obtained or acquired something in the past and still possesses it now. The pronoun \"elle\" is used twice for emphasis, creating a sense of familiarity and intimacy."
+    },
+    {
+      "time": 121.83,
+      "text": "Ella elle l'a",
+      "translation": "She has it",
+      "grammar": "This idiomatic expression uses the present perfect tense to convey a sense of certainty, implying that she obtained or acquired something in the past and still possesses it now. The pronoun \"elle\" is used twice for emphasis, creating a sense of directness and simplicity."
+    },
+    {
+      "time": 131.523,
+      "text": "Ella elle l'a",
+      "translation": "She has it",
+      "grammar": "This idiomatic expression uses the present perfect tense to convey a sense of certainty, implying that she obtained or acquired something in the past and still possesses it now."
+    },
+    {
+      "time": 141.217,
+      "text": "Ella elle l'a",
+      "translation": "She has it",
+      "grammar": "This idiomatic expression uses the present perfect tense to convey a sense of certainty, implying that the speaker is confident about someone else's possession. The pronoun \"elle\" agrees with the subject \"Ella\"."
+    },
+    {
+      "time": 150.911,
+      "text": "C'est comme une gaieté comme un sourire",
+      "translation": "It's like a joy, like a smile",
+      "grammar": "This idiomatic expression uses the present tense to describe a general or timeless feeling of joy and happiness. The phrase \"c'est comme\" is an equivalent to \"it's like\" in English, introducing a simile that compares two things without implying a specific time or situation."
+    },
+    {
+      "time": 169.6,
+      "text": "Quelque chose dans la voix qui paraît nous dire viens",
+      "translation": "Something in the voice that seems to be saying, come",
+      "grammar": "The phrase \"quelque chose\" is an idiomatic expression meaning \"something\" or \"somehow\", used to convey a sense of intuition or instinct. The verb \"paraît\" is in the present tense, indicating a general truth rather than a specific action."
+    },
+    {
+      "time": 192.787,
+      "text": "Qui nous fait sentir étrangement bien",
+      "translation": "Which makes us feel strangely good",
+      "grammar": "The phrase \"Qui nous fait\" is an idiomatic expression equivalent to \"which makes us\", using the impersonal pronoun \"qui\" instead of a more literal translation. This construction emphasizes the subject's effect on the speaker and listener, creating a sense of shared experience."
+    },
+    {
+      "time": 206.979,
+      "text": "C'est comme toute l'histoire du peuple noir",
+      "translation": "It's like the entire history of Black people",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of universality and timelessness, emphasizing that the struggles of Black people are ongoing and not limited to a specific era. The phrase \"c'est comme\" is an equivalent of \"it's like\", used to introduce a comparison or analogy."
+    },
+    {
+      "time": 227.917,
+      "text": "Qui se balance entre l'amour et l'désespoir",
+      "translation": "Who wavers between love and despair",
+      "grammar": "The phrase \"se balance\" is an idiomatic expression in French, equivalent to the English idiom \"to be torn between two options\". It implies a state of indecision or hesitation."
+    },
+    {
+      "time": 248.855,
+      "text": "Quelque chose qui danse en toi",
+      "translation": "Something that dances inside you",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a sense of ongoing, internal experience. The phrase \"quelque chose\" is an indefinite pronoun equivalent to \"something\" in English, implying a vague but palpable feeling or intuition."
+    },
+    {
+      "time": 263.047,
+      "text": "Ce je ne sais quoi",
+      "translation": "That indefinable something",
+      "grammar": "This idiomatic expression uses the indefinite article \"ce\" to refer to an intangible quality, emphasizing its elusive nature. The phrase is often used to describe a unique or hard-to-define characteristic."
+    },
+    {
+      "time": 274.989,
+      "text": "Ella elle l'a",
+      "translation": "She has it",
+      "grammar": "This idiomatic expression uses the present perfect tense to convey a sense of certainty, implying that the speaker is confident about someone else's possession. The pronoun \"elle\" agrees with the subject \"ella\" in number and gender."
+    },
+    {
+      "time": 284.683,
+      "text": "Que d'autres n'ont pas",
+      "translation": "That others do not have",
+      "grammar": "This idiomatic phrase uses the present tense to express a general truth or a universal negative, implying that many people lack something. The pronoun \"d'autres\" is an indefinite article meaning \"others\"."
+    },
+    {
+      "time": 298.875,
+      "text": "Ella elle l'a",
+      "translation": "She has it",
+      "grammar": "This idiomatic expression uses the present perfect tense to convey a sense of certainty or definiteness, implying that the speaker is confident about who possesses the thing in question."
+    },
+    {
+      "time": 308.569,
+      "text": "Que d'autres n'ont pas",
+      "translation": "That others do not have",
+      "grammar": "This idiomatic expression uses the present tense to describe a general truth or situation, rather than referring to a specific time. The phrase \"n'ont pas\" is in the third person plural imperfective form, emphasizing that this lack is a common experience for many people."
+    },
+    {
+      "time": 322.76,
+      "text": "Ella elle l'a",
+      "translation": "She has it",
+      "grammar": "This idiomatic expression uses the present perfect tense to convey a sense of certainty, implying that the speaker is confident about someone else's possession. The use of \"elle\" instead of \"elle-même\" emphasizes the subject-verb agreement in French."
+    },
+    {
+      "time": 332.454,
+      "text": "Ella elle l'a",
+      "translation": "She has it",
+      "grammar": "This idiomatic expression uses the present perfect tense to convey a sense of certainty, implying that she obtained or acquired something in the past and still possesses it now. The pronoun \"elle\" is used twice for emphasis, creating a sense of directness and conviction."
+    },
+    {
+      "time": 342.148,
+      "text": "Ella elle l'a",
+      "translation": "She has it",
+      "grammar": "The phrase \"Ella elle l'a\" is an idiomatic expression in French, using the present perfect tense to convey a sense of certainty or emphasis. The pronoun \"elle\" agrees with the subject \"she\" in number and gender."
+    },
+    {
+      "time": 351.842,
+      "text": "Ella elle l'a",
+      "translation": "She has it",
+      "grammar": "This idiomatic phrase uses the present perfect tense to convey a sense of certainty, implying that the speaker is confident about who possesses the thing in question. The pronoun \"elle\" agrees with the subject \"Ella\"."
+    },
+    {
+      "time": 361.535,
+      "text": "Ella elle l'a",
+      "translation": "She has it",
+      "grammar": "This idiomatic expression uses the present perfect tense to convey a sense of certainty, implying that the speaker is confident about someone else's possession. The pronoun \"elle\" agrees with the subject \"Ella\"."
+    },
+    {
+      "time": 371.229,
+      "text": "Ella elle l'a",
+      "translation": "She has it",
+      "grammar": "This idiomatic expression uses the present perfect tense to convey a sense of certainty, implying that the speaker is confident about someone else's possession. The pronoun \"elle\" agrees with the subject \"Ella\"."
+    },
+    {
+      "time": 380.923,
+      "text": "Ella elle l'a",
+      "translation": "She has it",
+      "grammar": "This idiomatic phrase uses the present perfect tense to convey a sense of certainty, implying that she obtained or acquired something at some point in the past and still possesses it now. The pronoun \"elle\" agrees with the subject \"Ella\"."
+    },
+    {
+      "time": 390.617,
+      "text": "Ella elle l'a",
+      "translation": "She has it",
+      "grammar": "This idiomatic expression uses the present perfect tense to convey a sense of certainty, implying that the speaker is confident about their statement. The pronoun \"elle\" agrees with the subject \"ella\" in number and gender."
+    },
+    {
+      "time": 400.311,
+      "text": "Ella elle l'a",
+      "translation": "She has it",
+      "grammar": "This idiomatic phrase uses the present perfect tense to convey a sense of certainty, emphasizing that she has already obtained or acquired something. The pronoun \"elle\" is used twice for emphasis and to create a sense of rhythm."
+    },
+    {
+      "time": 410.005,
+      "text": "Ella elle l'a",
+      "translation": "She has it",
+      "grammar": "This idiomatic expression uses the present perfect tense to convey a sense of certainty, implying that the speaker is confident about someone else's possession. The pronoun \"elle\" agrees with the subject \"Ella\"."
+    }
+  ]
+}

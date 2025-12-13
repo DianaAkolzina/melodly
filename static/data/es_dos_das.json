@@ -1,0 +1,223 @@
+{
+  "id": "es_dos_das",
+  "title": "DOS DÍAS",
+  "artist": "Tito Double P feat. Peso Pluma",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_dos_das.mp3",
+  "duration": 154,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Un, dos, tres",
+      "translation": "One, two, three",
+      "grammar": "This phrase is an interjection, used to count or emphasize a sequence of events. The verb \"ser\" (to be) is implied in the sentence, but not explicitly stated, as it's common in Spanish to use numbers as a way to express counting or enumeration."
+    },
+    {
+      "time": 2.165,
+      "text": "Un, dos, tres",
+      "translation": "One, two, three",
+      "grammar": "This is an example of a common idiom in Spanish, where the numbers uno, dos, and tres are used to introduce a sequence or countdown, rather than simply listing quantities. The phrase is often used in English as well, with the same idiomatic meaning."
+    },
+    {
+      "time": 4.33,
+      "text": "Unos tragos pa la panza",
+      "translation": "A few drinks for the belly",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or customary action, and \"pa la panza\" is an idiomatic phrase meaning \"for the sake of one's stomach\" or \"to satisfy one's hunger\"."
+    },
+    {
+      "time": 7.737,
+      "text": "Ese periquito, la neta, nomás no se baja",
+      "translation": "That parakeet, honestly, just won't come down",
+      "grammar": "The phrase \"nomás no\" is an idiomatic expression used to emphasize negation, equivalent to saying \"absolutely not\"."
+    },
+    {
+      "time": 13.007,
+      "text": "Ando atravesado porque no me dices qué pasa",
+      "translation": "I'm confused because you won't tell me what's going on.",
+      "grammar": "The verb \"ando\" is in the present participle form, indicating ongoing action and a sense of frustration. The phrase \"atravesado\" is an idiomatic expression meaning \"confused\" or \"flustered\"."
+    },
+    {
+      "time": 18.277,
+      "text": "Dos días enojada, dos días que no me habla",
+      "translation": "Two days angry, two days she hasn't spoken to me",
+      "grammar": "The phrase \"dos días enojada\" is an idiomatic expression indicating a period of time during which the speaker was in a state of anger. The verb \"enojada\" is in the past participle form and functions as an adjective, describing the duration of her emotional state."
+    },
+    {
+      "time": 24.168,
+      "text": "Otra de tus payasadas",
+      "translation": "Another one of your clowning around",
+      "grammar": "The phrase \"payasadas\" is an idiomatic expression meaning \"joking around\" or \"teasing\", and it's in the present continuous tense, implying ongoing behavior."
+    },
+    {
+      "time": 26.955,
+      "text": "Yo aquí con los panas y tú siempre de exagerada",
+      "translation": "I'm here with my friends and you're always exaggerating.",
+      "grammar": "The phrase \"yo aquí\" is an informal way to express presence, using the colloquialism \"yo\" instead of formal \"yo estoy\" or \"estoy aquí\". This usage is typical in spoken Spanish among friends."
+    },
+    {
+      "time": 33.467,
+      "text": "Cuando dices \"te quiero\", mija, nomás no te creo nada",
+      "translation": "When you say \"I love you,\" honey, I just don't believe a word of it.",
+      "grammar": "The phrase \"nomás no te creo nada\" is an idiomatic expression conveying strong skepticism or disbelief. The verb \"creo\" is in the present tense, emphasizing the speaker's persistent doubt."
+    },
+    {
+      "time": 39.979,
+      "text": "Todo lo que planeaba se nos fue a la chingada",
+      "translation": "Everything we planned went to hell.",
+      "grammar": "This idiomatic expression uses the verb \"ir a\" in the passive voice, implying that the plans were ruined or failed, rather than being intentionally destroyed. The phrase \"a la chingada\" is an informal way of saying something has gone terribly wrong."
+    },
+    {
+      "time": 46.491,
+      "text": "Mira en qué me convertí",
+      "translation": "Look what I've become",
+      "grammar": "The verb \"convertí\" is in the preterite tense, indicating a completed action in the past, and the phrase \"en qué\" is an idiomatic expression meaning \"into what\"."
+    },
+    {
+      "time": 49.898,
+      "text": "Me encantan las pacas, me mama el dinero",
+      "translation": "I love bales of cash, I'm crazy about money",
+      "grammar": "The phrase \"me mama\" is an informal idiom used to express strong enthusiasm or obsession, equivalent to saying \"I'm absolutely crazy about\"."
+    },
+    {
+      "time": 55.168,
+      "text": "Baby, yo te lo advertí",
+      "translation": "Baby, I warned you",
+      "grammar": "In this informal conversation, \"yo\" is an informal second-person singular pronoun used to address a friend or someone familiar, and \"te\" agrees with it in number and person."
+    },
+    {
+      "time": 58.575,
+      "text": "Que estando solito yo era un cagadero",
+      "translation": "When I was all alone, I was a mess.",
+      "grammar": "The phrase \"estando solito\" is an idiomatic expression indicating the speaker's emotional state at that time, equivalent to \"when I was feeling down\" or \"when I was really struggling\". The verb \"era\" is in the imperfect tense, describing a past continuous action."
+    },
+    {
+      "time": 63.224,
+      "text": "No fui yo, sino por ti",
+      "translation": "It wasn't me, it was you.",
+      "grammar": "The phrase \"No fui yo\" is an idiomatic expression used to convey that someone else is responsible for something, rather than the speaker themselves. The verb tense and mood are informal, with a focus on emphasizing the other person's involvement."
+    },
+    {
+      "time": 67.252,
+      "text": "Quе me hice adicto a andar en еsta loquera",
+      "translation": "I became addicted to this crazy thing",
+      "grammar": "The phrase \"Quе me\" is an idiomatic expression equivalent to \"what happened to me\", using the verb \"hacerse\" in the passive voice, indicating the speaker's experience of becoming addicted."
+    },
+    {
+      "time": 73.143,
+      "text": "Guacha lo que conseguí",
+      "translation": "Look what I got",
+      "grammar": "The phrase \"Guacha\" is an informal verb used in the present tense, equivalent to \"to get\" or \"to obtain\"."
+    },
+    {
+      "time": 75.929,
+      "text": "Un chingo de culos y ni uno me llena",
+      "translation": "A ton of asses and not one satisfies me",
+      "grammar": "The phrase \"un chingo\" is an idiomatic expression meaning a large quantity, often used in informal settings. The sentence uses the present tense to convey a sense of ongoing dissatisfaction."
+    },
+    {
+      "time": 81.82,
+      "text": "Ay, mamá",
+      "translation": "Oh, Mom",
+      "grammar": "This interjection \"Ay\" is an informal way to express strong emotions or emphasis in Spanish, often used with family members like \"mamá\". The phrase as a whole is an exclamation rather than a statement."
+    },
+    {
+      "time": 83.364,
+      "text": "Tito Double P, ah",
+      "translation": "Tito Double P, ah",
+      "grammar": "This line is an interjection, used to express familiarity or affection towards someone. The phrase \"ah\" is a casual particle that softens the tone and adds a touch of informality to the speaker's voice."
+    },
+    {
+      "time": 86.15,
+      "text": "Así suena la puta Doble P, compa Tito",
+      "translation": "That's how the fucking Double P sounds, Tito.",
+      "grammar": "The phrase \"Así suena\" is an idiomatic expression indicating a comparison or description of a sound, using the present tense to describe a habitual or typical sound."
+    },
+    {
+      "time": 91.42,
+      "text": "Ay-ay-ay",
+      "translation": "Oh-oh-oh",
+      "grammar": "This interjection is an expression of strong emotions, often used to convey excitement or surprise. The repetition of \"ay\" creates a sense of urgency and emphasizes the speaker's emotional state."
+    },
+    {
+      "time": 93.586,
+      "text": "Chau",
+      "translation": "Bye",
+      "grammar": "This interjection \"Chau\" is a casual way to say goodbye in informal settings, often used with friends or acquaintances. Note that it's not a formal farewell expression and should be reserved for relaxed conversations."
+    },
+    {
+      "time": 94.786,
+      "text": "El polvo ya ni me pasa",
+      "translation": "The dust doesn't even bother me anymore.",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or permanent situation, rather than a specific moment. The phrase \"ya ni\" is an intensifier emphasizing the extent of the speaker's indifference."
+    },
+    {
+      "time": 98.814,
+      "text": "Me contestas a medias, mi niña, ya dime qué transa",
+      "translation": "You're only giving me half an answer, my girl, just tell me what's up.",
+      "grammar": "The phrase \"Me contestas\" is in the informal second person singular present tense, used to address someone familiar. The use of \"me\" instead of \"tú\" emphasizes the speaker's familiarity with the addressee."
+    },
+    {
+      "time": 105.326,
+      "text": "Me acordé de las noches que chingamos allá en tu sala",
+      "translation": "I remembered the nights we fucked there in your living room",
+      "grammar": "The verb \"acordé\" is in the preterite tense, indicating a completed action in the past. The phrase \"chingamos\" is an informal idiom for sexual activity, commonly used in Latin American Spanish."
+    },
+    {
+      "time": 112.459,
+      "text": "Pues pasé por tu casa y saludé a tu mamá",
+      "translation": "Well, I stopped by your house and said hi to your mom.",
+      "grammar": "The phrase \"pasé por\" is an idiomatic expression meaning \"stopped by\" or \"dropped in on\", using the preterite tense to convey a completed action."
+    },
+    {
+      "time": 118.971,
+      "text": "Mira en qué me convertí",
+      "translation": "Look what I've become",
+      "grammar": "The verb \"convertí\" is in the preterite tense, indicating a completed action in the past. The phrase \"en qué\" is an idiomatic expression meaning \"into what\"."
+    },
+    {
+      "time": 122.378,
+      "text": "Me encantan las pacas, me mama el dinero",
+      "translation": "I love bales of cash, I'm crazy about money",
+      "grammar": "The phrase \"me mama\" is an informal idiom used to emphasize one's enthusiasm or obsession with something. It is often translated as \"I'm crazy about\" and is commonly used in spoken language to express strong emotions."
+    },
+    {
+      "time": 127.648,
+      "text": "Baby, yo te lo advertí",
+      "translation": "Baby, I warned you",
+      "grammar": "The phrase \"yo te lo advertí\" is in the preterite tense and uses the formal pronoun \"te\" to address the listener, conveying a sense of warning or caution. The use of \"lo\" instead of \"le\" agrees with the indirect object \"yo\" (I) in this sentence."
+    },
+    {
+      "time": 131.055,
+      "text": "Que estando solito yo era un cagadero",
+      "translation": "When I was all alone, I was a mess.",
+      "grammar": "The phrase \"estando solito\" is an idiomatic expression indicating the speaker's state of being alone, which is translated to \"when I was all alone\"."
+    },
+    {
+      "time": 135.704,
+      "text": "No fui yo, sino por ti",
+      "translation": "It wasn't me, it was you.",
+      "grammar": "The phrase \"No fui yo\" is a polite way to express disagreement or denial, using the past tense (fui) and the pronoun \"yo\" in a rhetorical sense, implying that someone else was responsible. This idiomatic expression conveys a tone of humility and deflection."
+    },
+    {
+      "time": 139.732,
+      "text": "Que me hice adicto a andar en esta loquera",
+      "translation": "I became addicted to this crazy thing.",
+      "grammar": "The phrase \"¿Qué me hice...\" is an idiomatic expression used to emphasize the speaker's emotional state, equivalent to saying \"What did I do to myself?\" in English. The use of the verb \"hacerse\" (to become) implies a sense of self-awareness and introspection, highlighting the speaker's personal experience."
+    },
+    {
+      "time": 145.623,
+      "text": "Guacha lo que conseguí",
+      "translation": "Look what I got",
+      "grammar": "This line uses the present perfect tense to emphasize the speaker's recent achievement, with \"conseguí\" indicating a completed action. The phrase \"Guacha\" is an idiomatic expression meaning \"Check it out!\" or \"Take a look!\", adding a casual tone to the sentence."
+    },
+    {
+      "time": 148.409,
+      "text": "Un chingo de culos y ni uno me llena",
+      "translation": "A ton of asses and not one satisfies me",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of ongoing dissatisfaction, rather than describing a specific moment in time. The phrase \"ninguno me llena\" is an example of the Spanish idiom \"ninguno\" meaning \"none\" or \"not one\", used to emphasize the complete lack of satisfaction."
+    }
+  ]
+}

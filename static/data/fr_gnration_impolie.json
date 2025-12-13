@@ -1,0 +1,307 @@
+{
+  "id": "fr_gnration_impolie",
+  "title": "Génération impolie",
+  "artist": "Franglish",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_gnration_impolie.mp3",
+  "duration": 141,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 4.227600000023842,
+      "text": "Ouh, ouh",
+      "translation": "Ooh, ooh",
+      "grammar": "This interjection is an expression of excitement or surprise, often used to draw attention or convey enthusiasm. It can be translated as \"Oh\" in English and is typically spoken with rising intonation to emphasize the speaker's emotions."
+    },
+    {
+      "time": 6.406900000005961,
+      "text": "Hey, hey",
+      "translation": "Hey, hey",
+      "grammar": "This interjection is an informal way to get someone's attention or express enthusiasm, and its use in English corresponds to a casual tone."
+    },
+    {
+      "time": 7.691100000023842,
+      "text": "Elle m'dit \"il faut un permis pour me piloter\" (party)",
+      "translation": "She told me \"you need a license to drive me\" (party)",
+      "grammar": "The use of \"me\" instead of \"myself\" is an idiomatic expression in informal French, where the reflexive pronoun \"me\" is used to emphasize the person being referred to."
+    },
+    {
+      "time": 10.654200000017882,
+      "text": "Sens interdit, donc j'l'ai mis d'côté",
+      "translation": "No entry, so I put it aside.",
+      "grammar": "The idiomatic expression \"j'l'ai\" is a colloquialism used to indicate the speaker's possession or responsibility, equivalent to saying \"I've got it\" or \"it belongs to me\"."
+    },
+    {
+      "time": 14.54090000000596,
+      "text": "Eh, let's get it",
+      "translation": "Hey, let's get it",
+      "grammar": "This informal phrase uses the present tense and imperative mood to express a suggestion or proposal, with \"let's\" indicating inclusive agreement. The idiomatic expression \"get it\" is an informal way of saying \"do something\"."
+    },
+    {
+      "time": 16.095200000017883,
+      "text": "Elle m'dit \"il faut un permis pour me piloter\" (bah oui)",
+      "translation": "She told me \"you need a license to drive me\" (well, yes)",
+      "grammar": "The phrase \"m'dit\" is an informal way of saying \"she said\", using the reflexive pronoun \"me\" instead of the formal \"vous\" or \"you\". This is an example of colloquial language and idiomatic expression."
+    },
+    {
+      "time": 18.1945,
+      "text": "Elle aime les sens interdits, donc j'l'ai mis d'côté",
+      "translation": "She likes one-way streets, so I put it aside.",
+      "grammar": "The use of \"j'l'ai\" is an informal way to express the possessive pronoun \"my\" in French, with a dropped subject pronoun and the verb \"avoir\" in the passé composé tense."
+    },
+    {
+      "time": 21.60020000001788,
+      "text": "J'ai mis la main d'une go en story, j'me suis fait péter (ah merde)",
+      "translation": "I put a girl's hand in my story, I got busted (oh shit)",
+      "grammar": "The use of \"j'me\" instead of \"je me\" is an informal idiomatic expression common in spoken French, where the subject pronoun \"je\" is contracted with the reflexive pronoun \"me\"."
+    },
+    {
+      "time": 25.72740000000596,
+      "text": "Génération impolie, on est culotté (c'est nous)",
+      "translation": "Impolite generation, we're cheeky (that's us)",
+      "grammar": "The phrase \"on est culotté\" uses the informal \"on\" instead of \"nous\" to emphasize the speaker's cheekiness, creating a sense of camaraderie with the listener. This idiomatic expression is characteristic of spoken French and conveys a tone of playful arrogance."
+    },
+    {
+      "time": 29.487200000017882,
+      "text": "Comment lui avouer que c'est mon essence et mon gasoil?",
+      "translation": "How can I tell him that it's my petrol and diesel?",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of perpetual or inherent nature (\"c'est mon essence\" means \"it's my very being\"), while \"mon gasoil\" is an informal way to refer to one's personal characteristics, rather than actual fuel types."
+    },
+    {
+      "time": 31.144699999988077,
+      "text": "Tu sais qu'mon passé n'est pas fabuleux",
+      "translation": "You know my past isn't fabulous.",
+      "grammar": "In informal spoken French, the verb agreement is often relaxed, allowing for constructions like \"qu'mon\" instead of \"que mon\" to indicate possession. This usage is common in colloquial speech and everyday conversations."
+    },
+    {
+      "time": 32.98059999999404,
+      "text": "J'ai grandi sous Sefyu et Fabulous",
+      "translation": "I grew up on Sefyu and Fabulous",
+      "grammar": "The phrase \"j'ai grandi\" is in the passé composé tense, indicating a completed action in the past. The use of \"grandi\" instead of \"grandir\" implies a figurative sense of growing up, rather than physical growth."
+    },
+    {
+      "time": 37.498,
+      "text": "Askip c'était nous deux, ligaments croisés, j'ai tout annulé",
+      "translation": "Apparently it was both of us, torn ACLs, I cancelled everything",
+      "grammar": "The phrase \"c'était nous deux\" is an idiomatic expression used to indicate a past shared experience or situation. It implies a sense of nostalgia and shared memory."
+    },
+    {
+      "time": 40.73180000001192,
+      "text": "Brеf, comment lui avouer que c'est mon essence et mon gasoil?",
+      "translation": "In short, how can I admit to him that it's my petrol and diesel?",
+      "grammar": "The phrase \"c'est mon essence et mon gasoil\" is an idiomatic expression meaning \"it's my own thing\" or \"it's my personality\", using the metaphor of fuel types to describe one's nature."
+    },
+    {
+      "time": 45.07380000001192,
+      "text": "Génération efrakata (efrakata)",
+      "translation": "Efrakata generation (efrakata)",
+      "grammar": "This line illustrates a common idiomatic expression in French, where the verb \"générer\" is used to describe a movement or a trend, rather than its literal meaning of \"to generate\". The repetition of \"efrakata\" emphasizes the idea that this is a distinct era or generation."
+    },
+    {
+      "time": 47.00009999999404,
+      "text": "Me quitter, elle est pas capable (pas capable)",
+      "translation": "She can't leave me (can't).",
+      "grammar": "The phrase \"elle est pas capable\" is an idiomatic expression meaning \"can't\" or \"is unable to\", using the present tense to convey a general inability rather than a specific momentary inability."
+    },
+    {
+      "time": 48.73380000001192,
+      "text": "On s'connait depuis l'époque du bac à sable (bac à sable)",
+      "translation": "We've known each other since our sandbox days.",
+      "grammar": "The phrase \"on s'connait\" is an idiomatic expression in French, equivalent to the English idiom \"we've known each other\", using the informal \"on\" and the reflexive pronoun \"s'\" to convey a sense of familiarity."
+    },
+    {
+      "time": 51.278,
+      "text": "Diamantaire comme Bokassa (aller, parle)",
+      "translation": "Diamond dealer like Bokassa (come on, speak)",
+      "grammar": "This idiomatic expression uses the present participle \"aller\" to convey a sense of urgency or encouragement, similar to English phrases such as \"come on\" or \"let's go\". The phrase is informal and conversational in tone."
+    },
+    {
+      "time": 52.19380000001192,
+      "text": "Elle veut la jouer en tiki-taka (oui), mais j'ai déjà capté la tactique (capté)",
+      "translation": "She wants to play it tiki-taka (yes), but I've already figured out the tactic (figured it out)",
+      "grammar": "The use of \"j'ai déjà\" indicates the present perfect tense, emphasizing that the speaker has already understood the opponent's strategy before the game even starts."
+    },
+    {
+      "time": 57.27109999999404,
+      "text": "J'fume et j'te passe à tabac (smoke)",
+      "translation": "I smoke and I'll beat you up (smoke)",
+      "grammar": "The use of \"j'\" as a subject pronoun in the phrase \"J'fume\" is an informal, colloquial way to express first person singular, similar to using \"I\" or \"me\". This construction is typical of spoken French and is often used in casual conversations."
+    },
+    {
+      "time": 57.82719999998808,
+      "text": "Équipé, équipé en cas d'attaque",
+      "translation": "Equipped, prepared in case of attack",
+      "grammar": "The phrase \"en cas d'\" is an idiomatic expression indicating a hypothetical or potential situation, often translated as \"in case of\" or \"if\"."
+    },
+    {
+      "time": 59.88009999999404,
+      "text": "Elle m'dit \"il faut un permis pour me piloter\" (pour me piloter, bébé)",
+      "translation": "She told me \"you need a license to drive me\" (to drive me, baby)",
+      "grammar": "The phrase \"m'dit\" is an informal way of saying \"she said\", using the reflexive pronoun \"me\" instead of the formal \"vous\". This idiomatic expression is common in spoken French and adds a touch of familiarity to the conversation."
+    },
+    {
+      "time": 63.59430000001192,
+      "text": "Elle aime les sens interdits, donc j'l'ai mis d'côté (allez switch)",
+      "translation": "She likes one-way streets, so I put her aside (go ahead and switch).",
+      "grammar": "The use of \"j'l'ai\" is a casual, informal way to express the past perfect tense in French, equivalent to \"I had put\" or \"I put before\"."
+    },
+    {
+      "time": 67.14080000001192,
+      "text": "J'ai mis la main d'une go en story, j'me suis fait péter (j'me suis fait péter, bébé)",
+      "translation": "I put a girl's hand in my story, I got busted (I got busted, baby)",
+      "grammar": "The use of \"j'me\" instead of \"je me\" is an informal idiomatic expression common in spoken French, equivalent to saying \"I did it\" or \"it happened to me\"."
+    },
+    {
+      "time": 71.02819999998808,
+      "text": "Génération impolie, on est culotté (hey, hey, let's get it)",
+      "translation": "Impolite generation, we're cheeky (hey, hey, let's get it)",
+      "grammar": "The phrase \"on est culotté\" is an idiomatic expression in French, using the informal \"on\" and the verb \"être\" to describe a group or collective attitude, rather than indicating a specific subject."
+    },
+    {
+      "time": 75.7635,
+      "text": "Tu sais la vie, c'est pas facile",
+      "translation": "You know, life isn't easy.",
+      "grammar": "The phrase \"c'est pas\" is an idiomatic expression used to convey a sense of negation or refusal, equivalent to saying \"it's not\"."
+    },
+    {
+      "time": 77.16759999999404,
+      "text": "Donc faut pas venir me compliquer (ah, laisse ça)",
+      "translation": "So don't come and complicate things for me (ah, never mind that)",
+      "grammar": "The phrase \"faut pas\" is an idiomatic expression meaning \"don't have to\" or \"needn't\", used to convey a polite refusal. The verb \"venir\" is in the imperative mood, indicating a command or request."
+    },
+    {
+      "time": 78.75940000000595,
+      "text": "J'ai touché la cible, j'ai gagné",
+      "translation": "I hit the target, I won",
+      "grammar": "The use of the present perfect tense \"j'ai touché\" and \"j'ai gagné\" emphasizes the completion of actions in the recent past, implying a sense of accomplishment."
+    },
+    {
+      "time": 81.02819999998808,
+      "text": "Tu pensais que je savais pas viser (likolo, on y va)",
+      "translation": "You thought I couldn't aim (likolo, let's go)",
+      "grammar": "The phrase \"Tu pensais\" is in the imperfect tense, indicating a past habitual or continuous action. The use of \"tu\" instead of \"vous\" shows informal address and familiarity with the speaker."
+    },
+    {
+      "time": 82.55819999998808,
+      "text": "Oh, oh, oh, oh, toi, c'est d'l'histoire ancienne, hein (allez bima)",
+      "translation": "Oh, oh, oh, oh, you're ancient history, eh? (come on, Bima)",
+      "grammar": "The phrase \"c'est d'l'histoire ancienne\" uses the informal \"tu\" form and the colloquial expression \"d'l'\" to convey a sense of familiarity and informality, typical in spoken French. The sentence is also in the present tense, emphasizing the idea that someone's past actions are no longer relevant."
+    },
+    {
+      "time": 86.85780000001192,
+      "text": "Faut pas revenir si t'as ché-lâ (allez bima)",
+      "translation": "Don't come back if you're out of luck (come on, Bima)",
+      "grammar": "The phrase \"faut pas\" is an idiomatic expression meaning \"don't have to\" or \"need not\", used to convey a sense of obligation or necessity in the negative."
+    },
+    {
+      "time": 87.74269999998808,
+      "text": "Pour dormir, j'compte les faux frères, hein (allez bima)",
+      "translation": "To sleep, I count my false brothers, huh (come on, Bima)",
+      "grammar": "The phrase \"hein\" is an informal way to seek agreement or confirmation from the listener, similar to saying \"right?\" or \"agreed?\" in English. It's often used in spoken language and can be translated as \"huh\" or \"you know what I mean?\"."
+    },
+    {
+      "time": 89.56290000000595,
+      "text": "J'ai fait nuit blanche",
+      "translation": "I stayed up all night",
+      "grammar": "The phrase \"fait nuit\" is an idiomatic expression indicating a late night or early morning, with \"faire\" in the passé composé tense implying a completed action."
+    },
+    {
+      "time": 91.93890000000596,
+      "text": "Génération efrakata (efrakata)",
+      "translation": "Efrakata generation (efrakata)",
+      "grammar": "The use of parentheses around \"efrakata\" in both the French and English phrases is an example of a rhetorical device called parenthetical remark, which adds emphasis or provides additional information without affecting the sentence's grammatical structure."
+    },
+    {
+      "time": 92.093,
+      "text": "Me quitter, elle est pas capable (pas capable)",
+      "translation": "She can't leave me (can't).",
+      "grammar": "The phrase \"elle est pas capable\" is an idiomatic expression meaning \"she can't\" or \"it's impossible\", using the negation \"pas\" instead of a formal negative verb form. This construction is typical in informal spoken French and emphasizes the speaker's strong conviction."
+    },
+    {
+      "time": 93.88540000000596,
+      "text": "On s'connait depuis l'époque du bac à sable (bac à sable)",
+      "translation": "We've known each other since our sandbox days.",
+      "grammar": "The phrase \"on s'connait\" is an idiomatic expression in French, equivalent to the English idiom \"we've known each other\", using the informal subject pronoun \"on\" and the reflexive verb \"s'connait\"."
+    },
+    {
+      "time": 95.60719999998808,
+      "text": "Diamantaire comme Bokassa (switch)",
+      "translation": "Diamond dealer like Bokassa (switch)",
+      "grammar": "The phrase \"diamantaire comme\" is an idiomatic expression meaning \"expert\" or \"skilled\", using the comparative form to convey a sense of exceptional ability, rather than literal comparison."
+    },
+    {
+      "time": 99.07869999998807,
+      "text": "Elle veut la jouer en tiki-taka, mais j'ai déjà capté la tactique (j'ai capté)",
+      "translation": "She wants to play it tiki-taka, but I've already figured out the tactic (I've figured it out)",
+      "grammar": "The use of \"je l'ai\" instead of \"j'ai\" is an idiomatic expression indicating the speaker has already taken action or gained understanding, emphasizing their proactive role in anticipating the opponent's strategy."
+    },
+    {
+      "time": 102.69330000001192,
+      "text": "J'fume et j'te passe à tabac (smoke)",
+      "translation": "I smoke and I'll beat you up (smoke)",
+      "grammar": "In informal French, the verb \"être\" is often omitted in compound tenses like \"j'fume\" (I smoke), creating a colloquial tone. This usage is common in spoken language but may not be suitable for formal writing or more formal situations."
+    },
+    {
+      "time": 103.21430000001192,
+      "text": "Équipé, équipé en cas d'attaque (ouh, ouh)",
+      "translation": "Equipped, equipped in case of attack (ooh, ooh)",
+      "grammar": "The phrase \"en cas d'\" is an idiomatic expression indicating a hypothetical or potential situation, similar to \"in case that\" or \"if\". The repetition of \"équipé\" emphasizes the importance of being prepared for any eventuality."
+    },
+    {
+      "time": 105.44880000001191,
+      "text": "Elle m'dit \"il faut un permis pour me piloter\" (bah oui)",
+      "translation": "She told me \"you need a license to drive me\" (well, yes)",
+      "grammar": "The use of \"me\" instead of \"myself\" in the phrase \"to drive me\" is an idiomatic expression, where the reflexive pronoun \"me\" indicates the person being driven."
+    },
+    {
+      "time": 108.86130000001192,
+      "text": "Elle aime les sens interdits, donc j'l'ai mis d'côté (allez switch)",
+      "translation": "She likes one-way streets, so I put her aside (go ahead and switch).",
+      "grammar": "The phrase \"j'l'ai\" is a casual way of saying \"I've got\" in the passé composé tense, used to indicate possession or completion of an action."
+    },
+    {
+      "time": 112.61969999998809,
+      "text": "J'ai mis la main d'une go en story, j'me suis fait péter (j'me suis fait péter)",
+      "translation": "I put a girl's hand in my story, I got caught (I got caught)",
+      "grammar": "The use of \"j'me\" instead of \"je me\" is an informal idiomatic expression common in spoken French, equivalent to \"me\" or \"myself\" in English."
+    },
+    {
+      "time": 116.5215,
+      "text": "Génération impolie, on est culotté (liboma, eh)",
+      "translation": "Impolite generation, we're cheeky (liboma, eh)",
+      "grammar": "The phrase \"on est culotté\" uses the informal \"on\" instead of \"nous\" to emphasize the speaker's cheekiness, and \"culotté\" is an idiomatic expression meaning \"bold\" or \"impudent\"."
+    },
+    {
+      "time": 120.693,
+      "text": "Hey, on est quoi? Génération impolie, on est culotté",
+      "translation": "Hey, what are we? Impolite generation, we're cheeky",
+      "grammar": "The phrase \"on est\" is an idiomatic expression used to ask about one's identity or characteristics, equivalent to \"what are we?\" in English. The verb \"être\" is in the present tense and has a casual, informal tone."
+    },
+    {
+      "time": 127.51730000001191,
+      "text": "T'as capté",
+      "translation": "You got it?",
+      "grammar": "This informal expression uses the verb \"capté\" in the present perfect tense to convey a sense of having successfully understood or grasped something, with \"t'\" being an informal pronoun equivalent to \"you\"."
+    },
+    {
+      "time": 129.1445,
+      "text": "Bébé, désolé, mais nous",
+      "translation": "Baby, sorry, but we",
+      "grammar": "The phrase \"nous\" is used to indicate a more formal or polite tone in informal conversation, similar to using \"we\" instead of \"me and my friends\". This usage is an example of the French language's tendency to use formal pronouns in casual settings."
+    },
+    {
+      "time": 131.9325,
+      "text": "Génération impolie, on est culotté (shi)",
+      "translation": "Impolite generation, we're cheeky (shi)",
+      "grammar": "The phrase \"on est culotté\" is an informal way of saying \"we're being cheeky\" or \"we're taking liberties\", using the informal pronoun \"on\" and the adjective \"culotté\" to convey a sense of playful disrespect."
+    },
+    {
+      "time": 136.3441999999881,
+      "text": "Let's get it",
+      "translation": "Let's get it",
+      "grammar": "This phrase is an informal invitation in the present imperative mood, using the first person plural pronoun \"let's\" to express shared action."
+    }
+  ]
+}

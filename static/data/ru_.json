@@ -1,0 +1,127 @@
+{
+  "id": "ru_",
+  "title": "Группа крови",
+  "artist": "Кино",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_.mp3",
+  "duration": 57,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Тёплое место, но улицы ждут отпечатков наших ног",
+      "translation": "It's a warm place, but the streets are waiting for our footprints.",
+      "grammar": "The phrase \"улицы ждут\" is an idiom that implies expectation or anticipation, rather than physical waiting. The verb \"ждут\" is in the third person plural form, indicating that it is the streets that are expecting something to happen."
+    },
+    {
+      "time": 3.55,
+      "text": "Звёздная пыль на сапогах",
+      "translation": "Stardust on boots",
+      "grammar": "This idiomatic expression uses the metaphorical concept of stardust to describe something extraordinary or exceptional, conveying a sense of magic and wonder. The phrase is often used to emphasize the uniqueness or specialness of an experience or achievement."
+    },
+    {
+      "time": 5.476,
+      "text": "Мягкое кресло, клетчатый плед, не нажатый вовремя курок",
+      "translation": "A soft chair, a checkered blanket, a trigger not pulled in time",
+      "grammar": "The phrase \"не нажатый вовремя курок\" is an idiomatic expression conveying the idea of something missed or overlooked, rather than literally referring to a gun trigger."
+    },
+    {
+      "time": 9.026,
+      "text": "Солнечный день в ослепительных снах",
+      "translation": "A sunny day in dazzling dreams",
+      "grammar": "The phrase \"в ослепительных снах\" is an idiomatic expression, where the verb \"снать\" (to dream) is in the infinitive form and functions as a noun, indicating the state of dreaming."
+    },
+    {
+      "time": 11.357,
+      "text": "Группа крови на рукаве",
+      "translation": "Blood type on the sleeve",
+      "grammar": "This idiomatic expression uses the present tense to convey a permanent or inherent characteristic, similar to saying \"her blood type is on her sleeve\"."
+    },
+    {
+      "time": 13.283,
+      "text": "Мой порядковый номер на рукаве",
+      "translation": "My serial number is on my sleeve",
+      "grammar": "The phrase \"на рукаве\" (na rukave) literally means \"on the sleeve\", but idiomatically translates to \"on record\" or \"on file\", implying that one's reputation or actions are publicly known."
+    },
+    {
+      "time": 15.614,
+      "text": "Пожелай мне удачи в бою, пожелай мне",
+      "translation": "Wish me luck in battle, wish me",
+      "grammar": "The phrase \"пожелай мне\" is an idiomatic expression that uses the imperative mood to convey a polite request, rather than a direct command. The repetition of \"пожелай мне\" emphasizes the speaker's desire for good fortune."
+    },
+    {
+      "time": 18.758,
+      "text": "Не остаться в этой траве, не остаться в этой траве",
+      "translation": "Don't stay in this grass, don't stay in this grass",
+      "grammar": "The repetition of \"не остаться\" (don't stay) emphasizes the speaker's strong warning, creating a sense of urgency. The identical structure and translation also highlight the idiomatic expression \"не остаться в траве\", which means to get stuck or be trapped in a difficult situation."
+    },
+    {
+      "time": 23.121,
+      "text": "Пожелай мне удачи, пожелай мне удачи",
+      "translation": "Wish me luck, wish me luck",
+      "grammar": "The repeated phrase \"пожелай мне удачи\" is an idiomatic expression that conveys a sense of urgency and emphasis, similar to saying \"good luck now!\" or \"wish me well already!\". The imperative mood and the use of the verb \"пожелать\" (to wish) create a sense of direct address and encouragement."
+    },
+    {
+      "time": 25.859,
+      "text": "И есть чем платить, но я не хочу победы любой ценой",
+      "translation": "And there is something to pay with, but I don’t want victory at any cost.",
+      "grammar": "The phrase \"любой ценой\" (at any cost) is an idiom that conveys strong determination or willingness to do something, often implying sacrifice."
+    },
+    {
+      "time": 30.628,
+      "text": "Я никому не хочу ставить ногу на грудь",
+      "translation": "I don't want to put my foot on anyone's chest.",
+      "grammar": "The phrase \"никому не хочу\" is an idiomatic expression indicating strong reluctance or refusal, with the verb \"хотеть\" in the negative imperative mood. This construction emphasizes the speaker's firm intention not to do something."
+    },
+    {
+      "time": 34.179,
+      "text": "Я хотел бы остаться с тобой",
+      "translation": "I would like to stay with you",
+      "grammar": "The phrase \"хотел бы\" is a polite way of expressing a desire, using the conditional mood and the verb \"хотеть\" in the past tense. This construction is often used to express a hypothetical or desired situation."
+    },
+    {
+      "time": 36.917,
+      "text": "Просто остаться с тобой",
+      "translation": "Just stay with you",
+      "grammar": "The phrase \"с тобой\" is an idiomatic expression indicating a desire to spend time or be together with someone, rather than a literal request for physical proximity. The use of the possessive pronoun \"тобой\" (with you) emphasizes the intimacy and closeness implied in the phrase."
+    },
+    {
+      "time": 38.842,
+      "text": "Но высокая в небе звезда зовёт меня в путь",
+      "translation": "But a star high in the sky calls me on my way",
+      "grammar": "The verb \"зовёт\" (calls) is in the present tense, indicating a sense of ongoing invitation or guidance. The phrase \"в путь\" (on my way) implies a willingness to follow one's path or destiny."
+    },
+    {
+      "time": 42.798,
+      "text": "Группа крови на рукаве",
+      "translation": "Blood type on the sleeve",
+      "grammar": "The phrase \"на рукаве\" (on the sleeve) is an idiomatic expression, implying that someone's blood type or affiliation is publicly displayed, much like a badge of honor."
+    },
+    {
+      "time": 44.724,
+      "text": "Мой порядковый номер на рукаве",
+      "translation": "My serial number is on my sleeve",
+      "grammar": "This idiomatic phrase uses the prepositional construction \"на рукаве\" to mean \"on one's conscience\" or \"as a badge of honor\", rather than its literal meaning. The verb \"иметь\" (to have) is implied, but not explicitly stated."
+    },
+    {
+      "time": 47.055,
+      "text": "Пожелай мне удачи в бою, пожелай мне",
+      "translation": "Wish me luck in battle, wish me",
+      "grammar": "The phrase \"пожелай мне\" is an idiomatic expression that uses the imperative mood to convey a polite request, rather than a direct command. The repetition of \"пожелай мне\" emphasizes the speaker's desire for good fortune."
+    },
+    {
+      "time": 50.199,
+      "text": "Не остаться в этой траве, не остаться в этой траве",
+      "translation": "Don't stay in this grass, don't stay in this grass",
+      "grammar": "This idiom emphasizes the speaker's reluctance to linger or get stuck in a particular situation, using repetition for emphasis. The imperative mood and present tense convey a sense of urgency and warning."
+    },
+    {
+      "time": 54.562,
+      "text": "Пожелай мне удачи, пожелай мне удачи",
+      "translation": "Wish me luck, wish me luck",
+      "grammar": "The repeated phrase \"пожелай мне удачи\" is an idiomatic expression that conveys a sense of urgency and emphasis, equivalent to saying \"good luck now\" or \"wish me well\". The imperative mood and the use of the verb \"пожелать\" (to wish) create a sense of direct address."
+    }
+  ]
+}

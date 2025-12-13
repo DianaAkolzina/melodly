@@ -1,0 +1,313 @@
+{
+  "id": "fr_btrd",
+  "title": "BTRD",
+  "artist": "RnBoi",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_btrd.mp3",
+  "duration": 140,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Waouh",
+      "translation": "Wow",
+      "grammar": "This interjection \"Waouh\" is an informal expression of surprise or excitement, equivalent to the English phrase \"Wow\"."
+    },
+    {
+      "time": 1.2,
+      "text": "C'est Max à la guitare et Zeny au piano, piano",
+      "translation": "It's Max on guitar and Zeny on piano, piano",
+      "grammar": "The phrase \"piano, piano\" is an idiomatic expression in French, used to emphasize a gentle or soft action, similar to saying \"gently\" or \"softly\"."
+    },
+    {
+      "time": 4.608,
+      "text": "Ah-aah-aah (maman) ah-ah",
+      "translation": "Ah-aah-aah (mommy) ah-ah",
+      "grammar": "This line is an example of a vocative phrase, using the mother's name to address her directly. The repeated \"ah\" sounds are an expression of affection and excitement, similar to an interjection in English."
+    },
+    {
+      "time": 6.607,
+      "text": "Ah-aah-aah, ah-ah-ah",
+      "translation": "Ah-aah-aah, ah-ah-ah",
+      "grammar": "This interjection is an expression of joy or excitement, often used to punctuate a moment of pleasure or celebration. The repetition of \"ah\" emphasizes the speaker's enthusiasm and emotional release."
+    },
+    {
+      "time": 8.606,
+      "text": "Elle veut passer la nuit avec moi (avec moi)",
+      "translation": "She wants to spend the night with me (with me)",
+      "grammar": "The phrase \"avec moi\" is an idiomatic expression indicating a desire for intimacy or closeness, rather than simply stating physical proximity. The use of the reflexive pronoun \"moi\" emphasizes the speaker's personal involvement in the action."
+    },
+    {
+      "time": 11.45,
+      "text": "En pleure, j'ai fait couler son makeup (waouh)",
+      "translation": "While crying, I ruined her makeup (wow)",
+      "grammar": "The phrase \"en pleure\" is an idiomatic expression meaning \"while crying\", using the present participle of the verb \"pleurer\" to convey a sense of simultaneous action."
+    },
+    {
+      "time": 14.295,
+      "text": "C'est vrai qu'y'a pas grand chose à fêter",
+      "translation": "It's true there's not much to celebrate.",
+      "grammar": "The phrase \"y'a pas\" is an informal idiomatic expression equivalent to \"there isn't\" or \"it doesn't exist\", used to emphasize the absence of something. The verb \"y'a\" is a contraction of \"il y a\" and is often used in spoken French to add a touch of informality to the sentence."
+    },
+    {
+      "time": 17.703,
+      "text": "Tu fais la folle, j't'appelle après, toi",
+      "translation": "You're acting crazy, I'll call you later.",
+      "grammar": "This informal dialogue uses the present tense to convey a sense of immediacy and familiarity. The phrase \"j't'appelle\" is an idiomatic expression meaning \"I'll call you\", with the verb \"appeler\" contracted into \"t'\" for added informality."
+    },
+    {
+      "time": 20.548,
+      "text": "J'vais tout couper, t'es trop un fake, toi (waouh)",
+      "translation": "I'm gonna cut everything off, you're such a fake (wow)",
+      "grammar": "The phrase \"J'vais\" is an informal way to express future intention in French, equivalent to \"I'm going to\" or \"I'll\"."
+    },
+    {
+      "time": 23.956,
+      "text": "Pas du genre à gonfler les pecs, moi (ah)",
+      "translation": "Not the type to pump up my pecs, me (ah)",
+      "grammar": "The phrase \"moi\" is used instead of \"je\" to emphasize the speaker's humility and downplay their physical appearance, a common idiomatic expression in French."
+    },
+    {
+      "time": 26.801,
+      "text": "Ils parlent sur mon dos, mais c'est peter",
+      "translation": "They talk behind my back, but it's Peter.",
+      "grammar": "The phrase \"parler sur quelqu'un\" is an idiomatic expression meaning to gossip or speak negatively about someone, often without their knowledge. The use of the verb \"parler\" in the present tense suggests a habitual or ongoing action."
+    },
+    {
+      "time": 29.645,
+      "text": "Ils viendront faire la fête avec moi, eh, eh",
+      "translation": "They'll come party with me, eh, eh",
+      "grammar": "The phrase \"ils viendront\" is in the future tense, indicating a planned or anticipated event. The use of \"eh, eh\" is an interjection, adding a casual and informal tone to the sentence."
+    },
+    {
+      "time": 32.49,
+      "text": "Si tu parles mal, on t'met KO",
+      "translation": "If you speak badly, we'll knock you out",
+      "grammar": "This idiomatic expression uses the present tense to convey a threat or warning, with \"on\" (we) implying collective action. The phrase \"t'met KO\" is an informal way of saying \"to knock someone out\", using the reflexive pronoun \"t'\" and the particle \"met\" to emphasize the intensity of the action."
+    },
+    {
+      "time": 35.052,
+      "text": "C'est moi qui fais la météo",
+      "translation": "I'm the one who makes the weather forecast",
+      "grammar": "This idiomatic expression uses the present tense to describe a habitual or general truth, rather than a specific action. The phrase \"c'est moi\" is an emphatic way of saying \"it's me\" and agrees with the subject \"qui fais\", emphasizing the speaker's role in making the weather forecast."
+    },
+    {
+      "time": 37.333,
+      "text": "J'ai des frérots impliqués, 'pliqués, pliqués",
+      "translation": "I have brothers involved, complicated, complicated",
+      "grammar": "The phrase \"des frérots\" is an idiomatic expression meaning \"brothers,\" and the repetition of \"impliqués, 'pliqués, pliqués\" emphasizes their complex involvement."
+    },
+    {
+      "time": 39.614,
+      "text": "Elle veut la bague, mais c'est KO",
+      "translation": "She wants the ring, but it's a no-go.",
+      "grammar": "The phrase \"c'est KO\" is an idiomatic expression meaning \"it's a failure\" or \"it's not going to happen\". The verb \"être\" is in the present tense and agrees with the subject \"c'est\", indicating a general truth."
+    },
+    {
+      "time": 42.176,
+      "text": "C'est pas la peine, j'suis trop un batard (un batard)",
+      "translation": "It's no use, I'm too much of a bastard (a bastard)",
+      "grammar": "The phrase \"j'suis\" is an informal, colloquial way to say \"I am\" in French, often used in spoken language. Note that the verb agreement with the subject pronoun \"je\" is omitted for casual effect."
+    },
+    {
+      "time": 45.867,
+      "text": "Un batard (un batard) un batard (un batard)",
+      "translation": "A bastard (a bastard) a bastard (a bastard)",
+      "grammar": "This line exemplifies the use of repetition for emphasis, a common idiomatic expression in French. The repeated phrase \"un batard\" is used to stress the speaker's point, similar to saying \"I mean it!\" or \"Seriously!\"."
+    },
+    {
+      "time": 48.429,
+      "text": "C'est moi la météo, elle veut la bague, mais c'est ko",
+      "translation": "I'm the weather girl, she wants the ring, but it's a no-go.",
+      "grammar": "The phrase \"c'est ko\" is an idiomatic expression meaning \"it's not happening\" or \"it's a no-go\", using the verb \"ko\" (short for \"k.O.\", meaning knock-out) to convey a sense of finality."
+    },
+    {
+      "time": 52.402,
+      "text": "C'est pas la peine, j'suis trop un batard (waouh)",
+      "translation": "It's no use, I'm too much of a bastard (wow)",
+      "grammar": "The phrase \"j'suis\" is an informal, spoken equivalent of the formal \"je suis\", used to convey a sense of casualness and intimacy. Note that this usage is typical in colloquial French but may not be suitable for all contexts or audiences."
+    },
+    {
+      "time": 55.81,
+      "text": "Un batard (waouh) un batard (waouh)",
+      "translation": "A bastard (wow) a bastard (wow)",
+      "grammar": "The use of \"un batard\" is an idiomatic expression in French, equivalent to saying \"somebody's kid\" or \"a nobody\", conveying a sense of insignificance. The repeated \"waouh\" interjections emphasize the speaker's astonishment and disbelief."
+    },
+    {
+      "time": 57.809,
+      "text": "C'est moi, c'est moi la météo",
+      "translation": "It's me, I'm the weather",
+      "grammar": "This line uses the idiomatic expression \"c'est moi\" to emphasize the speaker's personal involvement, equivalent to saying \"it's my turn\" or \"I'm the one\". The use of \"c'est\" (it is) with a pronoun (\"moi\") creates a playful and informal tone."
+    },
+    {
+      "time": 60.371,
+      "text": "Elle veut la bague mais c'est ko",
+      "translation": "She wants the ring but it's a no-go.",
+      "grammar": "The phrase \"c'est ko\" is an idiomatic expression meaning \"it's not possible\" or \"it's a no-go\", using the verb \"ko\" in the imperative mood to convey a sense of finality."
+    },
+    {
+      "time": 62.934,
+      "text": "J'ai vu son dos ça faisait clap, clap, clap (eh)",
+      "translation": "I saw his back, it was making a clap, clap, clap sound (eh)",
+      "grammar": "The phrase \"ça faisait\" is an idiomatic expression indicating the sound or noise something makes. It's used in the present perfect tense to describe an action that started in the past and continues up to the moment of speaking."
+    },
+    {
+      "time": 66.342,
+      "text": "Elle m'dit \"Rn, il faut qu'on s'éclate\" (waouh)",
+      "translation": "She told me, \"Rn, we need to have some fun\" (wow)",
+      "grammar": "The phrase \"il faut qu'on\" is an idiomatic expression translating to \"we need to\", using the subjunctive mood to express necessity."
+    },
+    {
+      "time": 69.751,
+      "text": "Elle m'dit \"Rn, il faut qu'on s'éclate\" (waouh)",
+      "translation": "She told me, \"Rn, we need to have some fun\" (wow)",
+      "grammar": "The phrase \"il faut qu'on\" is an idiomatic expression translating to \"we need to\", using the subjunctive mood and the impersonal pronoun \"on\" instead of the expected \"nous\". This construction emphasizes the necessity or obligation."
+    },
+    {
+      "time": 73.159,
+      "text": "Elle m'dit \"Rn, c'est comment ce soir?",
+      "translation": "She said to me, \"Rn, how is it tonight?\"",
+      "grammar": "The phrase \"Rn\" is an informal idiom used in spoken French, equivalent to the English expression \"how's it going?\" or \"what's up?\", conveying a casual tone."
+    },
+    {
+      "time": 76.004,
+      "text": "C'est Max à la guitare et Seny au piano (seul)",
+      "translation": "It's Max on guitar and Seny on piano (alone)",
+      "grammar": "The phrase \"seul\" is an adverb indicating the state of being alone, used to describe the situation at the time of playing the piano."
+    },
+    {
+      "time": 79.412,
+      "text": "J'fais un boulot lumière éteinte (seul)",
+      "translation": "I'm doing a job with the lights off (alone)",
+      "grammar": "The phrase \"j'fais\" is an informal way of saying \"I am doing\", using the first person singular imperfect tense to convey a sense of ongoing or continuous action. The use of \"un boulot\" instead of \"le travail\" emphasizes the idea that this job is unusual or unconventional."
+    },
+    {
+      "time": 81.693,
+      "text": "J'fais un boulot lumière éteinte, yeah, yeah",
+      "translation": "I'm doing a job with the lights off, yeah, yeah",
+      "grammar": "The phrase \"j'fais\" is an informal way of saying \"I am doing\" in French, using the first person singular verb form and the reflexive pronoun \"je\". This construction is often used in spoken language to convey a sense of casualness or informality."
+    },
+    {
+      "time": 84.255,
+      "text": "Si tu parles mal, on t'met KO",
+      "translation": "If you speak badly, we'll knock you out",
+      "grammar": "This idiomatic expression uses the present tense to convey a threat or warning, with \"on\" (we) implying collective action. The phrase \"t'met KO\" is an informal way of saying \"to knock someone out\", emphasizing the severity of the consequences."
+    },
+    {
+      "time": 86.818,
+      "text": "C'est moi qui fais la météo",
+      "translation": "I'm the one who makes the weather forecast",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of responsibility or authority, with \"fais\" implying a habitual or regular action. The phrase \"c'est moi\" is an emphatic way to assert ownership or agency, similar to saying \"it's me who\"."
+    },
+    {
+      "time": 89.098,
+      "text": "J'ai des frérots impliqués, 'pliqués, pliqués",
+      "translation": "I have brothers involved, complicated, complicated",
+      "grammar": "The phrase \"des frérots\" is an idiomatic expression in French, where \"frérots\" is a colloquialism for \"brothers\" and the possessive adjective \"des\" agrees with the plural noun."
+    },
+    {
+      "time": 91.379,
+      "text": "Elle veut la bague, mais c'est KO",
+      "translation": "She wants the ring, but it's a no-go.",
+      "grammar": "The phrase \"c'est KO\" is an idiomatic expression meaning \"it's a no-go\" or \"it's impossible\". The verb \"être\" is in the present tense and agrees with the subject \"c'est\", which is a pronoun referring to the situation."
+    },
+    {
+      "time": 93.942,
+      "text": "C'est pas la peine, j'suis trop un batard",
+      "translation": "It's no use, I'm too much of a bastard",
+      "grammar": "The phrase \"j'suis\" is an informal, colloquial way to say \"I am\" in French, often used in spoken language and particularly among younger people. This usage is equivalent to the English idiomatic expression \"I'm too much of a [insert characteristic here]\" where the speaker acknowledges their own flaws or shortcomings."
+    },
+    {
+      "time": 97.068,
+      "text": "Un batard (un batard) un batard (un batard)",
+      "translation": "A bastard (a bastard) a bastard (a bastard)",
+      "grammar": "This repeated phrase is an example of emphatic repetition, used to stress the speaker's strong emotions and emphasize the point being made. The use of the same phrase three times in a row creates a sense of rhythm and adds to the overall intensity of the lyrics."
+    },
+    {
+      "time": 99.631,
+      "text": "C'est moi la météo, elle veut la bague mais c'est KO",
+      "translation": "I'm the weather forecaster, she wants the ring but it's a KO",
+      "grammar": "The phrase \"c'est KO\" is an idiomatic expression meaning \"it's a knockout\" or \"it's over,\" using the imperfective aspect to convey a sense of suddenness and finality."
+    },
+    {
+      "time": 103.603,
+      "text": "C'est pas la peine, jsuis trop un batard (waouh)",
+      "translation": "It's no use, I'm too much of a bastard (wow)",
+      "grammar": "The phrase \"jsuis\" is an informal, spoken equivalent of the formal \"je suis\", used to convey a sense of casualness and familiarity. This usage is typical in spoken French among friends or acquaintances."
+    },
+    {
+      "time": 106.73,
+      "text": "Un batard (waouh) un batard (waouh)",
+      "translation": "A bastard (wow) a bastard (wow)",
+      "grammar": "The use of \"un batard\" is an idiomatic expression in French, equivalent to saying \"somebody's kid\" or \"a nobody\", implying the speaker has no respect for the person. The repeated \"waouh\" interjections convey strong emotions and emphasis."
+    },
+    {
+      "time": 108.728,
+      "text": "C'est moi, c'est moi la météo",
+      "translation": "It's me, I'm the weather",
+      "grammar": "This line uses the idiomatic expression \"c'est moi\" to emphasize the speaker's personal involvement, equivalent to saying \"it's my turn\" or \"I'm responsible\". The use of \"c'est\" (it is) in combination with the first person singular pronoun \"moi\" creates a playful and informal tone."
+    },
+    {
+      "time": 111.291,
+      "text": "Elle veut la bague, mais c'est KO",
+      "translation": "She wants the ring, but it's a no-go.",
+      "grammar": "The phrase \"c'est KO\" is an idiomatic expression meaning \"it's a failure\" or \"it's not going to happen\". The verb \"être\" is in the present tense and agrees with the subject \"c'est\", indicating a general truth."
+    },
+    {
+      "time": 113.853,
+      "text": "Si tu parles mal, on t'met KO",
+      "translation": "If you speak badly, we'll knock you out",
+      "grammar": "This informal idiom uses the present tense to express a threat or warning, with \"on\" (we) implying collective action. The phrase \"t'met KO\" is an idiomatic expression meaning to physically confront and defeat someone."
+    },
+    {
+      "time": 116.416,
+      "text": "C'est moi qui fais la météo",
+      "translation": "I'm the one who makes the weather forecast",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of responsibility or authority, with \"fais\" implying a habitual or regular action. The phrase \"c'est moi\" is an emphatic way to assert ownership or agency, equivalent to saying \"it's me who\"."
+    },
+    {
+      "time": 118.697,
+      "text": "J'ai des frérots impliqués",
+      "translation": "I have brothers involved",
+      "grammar": "The phrase \"des frérots\" is an idiomatic expression, literally meaning \"of uncles\", but figuratively referring to one's siblings. The use of the plural noun \"frérots\" instead of \"frères\" (brothers) emphasizes the involvement or implication of multiple brothers in the situation."
+    },
+    {
+      "time": 120.413,
+      "text": "Elle veut la bague, mais c'est KO",
+      "translation": "She wants the ring, but it's a no-go.",
+      "grammar": "The phrase \"c'est KO\" is an idiomatic expression meaning \"it's a failure\" or \"it's not happening\", using the French verb \"koer\" (knock out) in a figurative sense."
+    },
+    {
+      "time": 122.976,
+      "text": "C'est pas la peine, j'suis trop un batard (un batard)",
+      "translation": "It's no use, I'm too much of a bastard (a bastard)",
+      "grammar": "The phrase \"j'suis\" is an informal, colloquial way to say \"I am\" in French, often used in spoken language. Note that the verb agreement with the subject pronoun \"je\" is not strictly followed, which is typical in casual conversation."
+    },
+    {
+      "time": 126.666,
+      "text": "Un batard (un batard) un batard (un batard)",
+      "translation": "A bastard (a bastard) a bastard (a bastard)",
+      "grammar": "This repetition of \"un batard\" is an example of emphatic stress, emphasizing the speaker's strong feelings towards being considered a bastard. The use of the same phrase three times creates a sense of rhythm and drives home the point."
+    },
+    {
+      "time": 129.229,
+      "text": "Un batard (un batard) un batard (un batard) un batard (un batard)",
+      "translation": "A bastard (a bastard) a bastard (a bastard) a bastard (a bastard)",
+      "grammar": "This repetition of \"un batard\" is an example of emphatic emphasis, where the speaker stresses the point by repeating the phrase for added impact. The use of parentheses also adds to the sense of urgency and insistence."
+    },
+    {
+      "time": 132.919,
+      "text": "Un batard (un batard) un batard (un batard) un batard (un batard)",
+      "translation": "A bastard (a bastard) a bastard (a bastard) a bastard (a bastard)",
+      "grammar": "The repeated use of \"un batard\" is an example of emphatic repetition, emphasizing the speaker's strong feelings towards being called a bastard. This idiomatic expression conveys frustration and annoyance."
+    },
+    {
+      "time": 136.61,
+      "text": "Un batard (un batard) un batard (un batard) un batard (un batard)",
+      "translation": "A bastard (a bastard) a bastard (a bastard) a bastard (a bastard)",
+      "grammar": "This line uses the idiomatic expression \"un batard\" to emphasize the speaker's frustration, with each repetition increasing the intensity. The repeated use of \"un batard\" creates a sense of rhythm and stress, mirroring the emotional tone of the lyrics."
+    }
+  ]
+}

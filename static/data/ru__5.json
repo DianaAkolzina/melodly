@@ -1,0 +1,121 @@
+{
+  "id": "ru__5",
+  "title": "Знаешь, Таня",
+  "artist": "Валентин Стрыкало",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_.mp3",
+  "duration": 274,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 18.95390000000596,
+      "text": "Если Таня думает, что я по ней грущу — она права",
+      "translation": "If Tanya thinks I'm sad about her, she's right.",
+      "grammar": "The phrase \"Если Таня думает\" is an idiomatic expression indicating a hypothetical scenario, equivalent to \"if Tanya thought\". The sentence uses the present tense to describe a hypothetical situation in the past."
+    },
+    {
+      "time": 33.0985,
+      "text": "Если Таня думает, что я всё упущу — она права",
+      "translation": "If Tanya thinks I'm going to miss out, she's right.",
+      "grammar": "The phrase \"если Таня думает\" is an idiomatic expression implying a hypothetical scenario, which is often used in informal conversations. The verb \"думает\" is in the present tense, indicating that Tanya's thought or opinion is relevant to the current situation."
+    },
+    {
+      "time": 48.45390000000596,
+      "text": "Где же взять мне смелость, чтоб, чтоб сказать ей пару слов?",
+      "translation": "Where can I get the courage to say a few words to her?",
+      "grammar": "The phrase \"чтоб\" is an idiom used to express purpose or intention, similar to English \"in order to\". It's often translated as \"so that\" but in this context it indicates the speaker's motivation for wanting to find courage."
+    },
+    {
+      "time": 58.76620000001788,
+      "text": "Знаешь, Таня, не передать словами то, как я люблю тебя",
+      "translation": "You know, Tanya, I can’t express in words how much I love you.",
+      "grammar": "The phrase \"не передать словами\" is an idiom that conveys the idea of something being impossible to put into words, emphasizing the intensity of one's feelings."
+    },
+    {
+      "time": 78.09870000001789,
+      "text": "Между нами такая пропасть, Таня, но я так люблю тебя",
+      "translation": "There's such a gap between us, Tanya, but I love you so much.",
+      "grammar": "The phrase \"Между нами\" (Between us) implies a close relationship or intimacy, using the possessive pronoun \"нашими\" to emphasize exclusivity. This idiomatic expression conveys a sense of familiarity and affection."
+    },
+    {
+      "time": 108.36170000001788,
+      "text": "Не сплю я, потому что мне никак не удаётся не грустить",
+      "translation": "I can't sleep because I can't seem to stop feeling sad.",
+      "grammar": "The phrase \"не сплю я\" is a literal translation of \"I am not sleeping\", but in this context, it's an idiomatic expression meaning \"I'm unable to sleep\". The verb \"сплю\" is in the present continuous tense, indicating inability rather than actual sleep."
+    },
+    {
+      "time": 122.21970000001788,
+      "text": "Я ночью мну подушку, а Таню мнёт другой какой-то тип",
+      "translation": "I'm kneading my pillow at night, and some other guy is kneading Tanya.",
+      "grammar": "The use of the verb \"мну\" (mnú) in the present tense indicates a habitual or repeated action, implying that the speaker has a habit of kneading their pillow at night. The phrase \"какой-то тип\" translates to \"some other guy\", using an indefinite pronoun to describe someone unknown or unimportant."
+    },
+    {
+      "time": 138.07440000000597,
+      "text": "Таня, Таня, объясни: как набраться смелости?",
+      "translation": "Tanya, Tanya, explain: how to pluck up courage?",
+      "grammar": "The phrase \"набраться смелости\" is an idiom that means to gather or muster one's courage. The verb \"набрать\" typically takes the accusative case, but in this context it functions as a figurative expression rather than a literal action."
+    },
+    {
+      "time": 147.66330000001193,
+      "text": "Знаешь, Таня, не передать словами то, как я люблю тебя (у-у!)",
+      "translation": "You know, Tanya, I can’t put into words how much I love you (ooh!)",
+      "grammar": "The phrase \"не передать словами\" is an idiomatic expression meaning \"to be unable to express or describe something\", using the negated verb \"передать\" in the infinitive form to convey the idea of being overwhelmed."
+    },
+    {
+      "time": 166.60430000001193,
+      "text": "Между нами такая пропасть, Таня, но я так люблю тебя",
+      "translation": "There's such a gap between us, Tanya, but I love you so much.",
+      "grammar": "The phrase \"Между нами\" is an idiomatic expression meaning \"between us\" or \"among ourselves\", conveying intimacy and exclusivity. The use of the possessive pronoun \"тебя\" (tebya) agrees with the direct object \"Таня\"."
+    },
+    {
+      "time": 175.23830000001192,
+      "text": "Я так люблю тебя",
+      "translation": "I love you so much",
+      "grammar": "The phrase \"Я так люблю тебя\" is an informal expression of strong affection, using the first person singular pronoun \"Я\" (I) and the verb \"люблю\" in the present tense, conveying a sense of ongoing or habitual action."
+    },
+    {
+      "time": 188.66340000000596,
+      "text": "Две семёрки, 90, 100",
+      "translation": "Two sevens, 90, 100",
+      "grammar": "This idiomatic expression uses the present tense to describe a hypothetical situation, emphasizing the speaker's surprise or astonishment. The numbers mentioned are likely used figuratively rather than literally."
+    },
+    {
+      "time": 196.21740000000597,
+      "text": "Твой мобильный — он такой простой",
+      "translation": "Your mobile phone is so simple",
+      "grammar": "The phrase \"он такой\" is an idiomatic expression used to emphasize a characteristic, equivalent to \"it's such\" in English. The verb \"быть\" (to be) is implied but not explicitly stated, as it often is in informal spoken Russian."
+    },
+    {
+      "time": 205.69909999999405,
+      "text": "Просто звоню и дышу, но я когда-то скажу",
+      "translation": "I'm just calling and breathing, but I'll tell you someday",
+      "grammar": "The phrase \"когда-то\" (kogda-to) is an idiomatic expression meaning \"someday\" or \"at some point in the future\", indicating a vague or uncertain time."
+    },
+    {
+      "time": 216.76020000001787,
+      "text": "Главные эти слова",
+      "translation": "These are the main words",
+      "grammar": "This phrase uses the present tense to emphasize importance, and the idiom \"главные\" (main) is used to convey significance."
+    },
+    {
+      "time": 225.85490000000596,
+      "text": "Знаешь, Таня, не передать словами то, как я люблю тебя (у-у!)",
+      "translation": "You know, Tanya, I can’t put into words how much I love you (ooh!)",
+      "grammar": "The use of the interjection \"у-у\" (u-u) is an informal expression of strong emotions, often used in spoken language to emphasize the intensity of one's feelings."
+    },
+    {
+      "time": 244.01540000000597,
+      "text": "Между нами такая пропасть, Таня, но я так люблю тебя",
+      "translation": "There's such a gap between us, Tanya, but I love you so much.",
+      "grammar": "The phrase \"Между нами\" is an idiomatic expression meaning \"between us\" or \"among ourselves\", implying intimacy and exclusivity. The use of the possessive pronoun \"тебя\" (tebya) instead of \"те\" (ty) emphasizes the speaker's strong affection for Tanya."
+    },
+    {
+      "time": 258.013599999994,
+      "text": "Я так люблю тебя",
+      "translation": "I love you so much",
+      "grammar": "The phrase \"Я так люблю тебя\" uses the informal second-person singular pronoun \"тебя\" to express affection, which is a common idiomatic expression in Russian."
+    }
+  ]
+}

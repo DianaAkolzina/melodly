@@ -1,0 +1,253 @@
+{
+  "id": "ru__14",
+  "title": "Наследство",
+  "artist": "Icegergert",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_.mp3",
+  "duration": 131,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 6.456400000035763,
+      "text": "М, м, м, м, м, м, м",
+      "translation": "M, m, m, m, m, m, m",
+      "grammar": ""
+    },
+    {
+      "time": 11.144,
+      "text": "Let's go",
+      "translation": "Let's go",
+      "grammar": ""
+    },
+    {
+      "time": 11.96080000001192,
+      "text": "Show girls в этом клубе просит снять очки (у-у)",
+      "translation": "Showgirls at this club ask to take off glasses (ooh)",
+      "grammar": ""
+    },
+    {
+      "time": 14.581100000023842,
+      "text": "Ночные бабочки на блоке знают, что я псих (по-по-по)",
+      "translation": "The night butterflies on the block know that I'm crazy (po-po-po)",
+      "grammar": ""
+    },
+    {
+      "time": 17.447900000035762,
+      "text": "Go hard, quick fuck, mommy, замолчи (замолчи)",
+      "translation": "Go hard, quick fuck, mommy, shut up (shut up)",
+      "grammar": ""
+    },
+    {
+      "time": 21.14060000002384,
+      "text": "М, это kamasutra flow, я их научил",
+      "translation": "M, this is Kama Sutra flow, I taught them",
+      "grammar": ""
+    },
+    {
+      "time": 23.445400000035765,
+      "text": "Yung Rich, Yung Hustle, Secret Victory",
+      "translation": "Yung Rich, Yung Hustle, Secret Victory",
+      "grammar": ""
+    },
+    {
+      "time": 25.9935,
+      "text": "У-м-м-м-м, бля, я весь в крови",
+      "translation": "Uh-huh-huh, fuck, I'm covered in blood.",
+      "grammar": ""
+    },
+    {
+      "time": 29.060400000035763,
+      "text": "Да, я знаю, да, я видел, как она горит",
+      "translation": "Yes, I know, yes, I saw her burn",
+      "grammar": ""
+    },
+    {
+      "time": 31.807700000047685,
+      "text": "Это необыкновенный trap о моей любви (фо)",
+      "translation": "This is an extraordinary trap about my love (fo)",
+      "grammar": ""
+    },
+    {
+      "time": 34.44430000001192,
+      "text": "Для культуры, для страны обучаю внуков (yeah-yeah)",
+      "translation": "For the sake of culture, for the sake of the country, I teach my grandchildren (yeah-yeah)",
+      "grammar": ""
+    },
+    {
+      "time": 37.32380000001192,
+      "text": "М, я тянусь к Адаму клад убрал в другую руку (yeah-yeah-yeah)",
+      "translation": "M, I reach out to Adam and put the treasure in his other hand (yeah-yeah-yeah)",
+      "grammar": ""
+    },
+    {
+      "time": 40.69210000002384,
+      "text": "Покупаю твоё сердце просто ультразвуком (чё)",
+      "translation": "I'll buy your heart with just an ultrasound (what)",
+      "grammar": ""
+    },
+    {
+      "time": 43.0135,
+      "text": "Я тусуюсь там, где грабят, но с нормальной сукой (у-у)",
+      "translation": "I hang out where they rob, but with a normal bitch (ooh)",
+      "grammar": ""
+    },
+    {
+      "time": 46.207600000023845,
+      "text": "Выходите, бесы, мы станцуем jersey",
+      "translation": "Come out, demons, we'll dance jersey",
+      "grammar": ""
+    },
+    {
+      "time": 49.11710000002384,
+      "text": "Отойди, я войду, и она воскреснет",
+      "translation": "Step aside, I will come in, and she will rise again",
+      "grammar": ""
+    },
+    {
+      "time": 51.93780000001192,
+      "text": "Пристегнись и смотри, как тебе Олеся?",
+      "translation": "Buckle up and look, how do you like Olesya?",
+      "grammar": ""
+    },
+    {
+      "time": 54.60260000002384,
+      "text": "Жопа каждой из моих подруг в AMG обвесе",
+      "translation": "Each of my girlfriends' asses in an AMG body kit",
+      "grammar": ""
+    },
+    {
+      "time": 57.24860000002384,
+      "text": "Turn around, lemme take my Glock, я преследую цель",
+      "translation": "Turn around, lemme take my Glock, I'm on target",
+      "grammar": ""
+    },
+    {
+      "time": 60.866,
+      "text": "Теперь с ним та из песни Фарика про револьвер (пр-р-ра)",
+      "translation": "Now he's got the one from Farik's song about the revolver (pr-r-ra)",
+      "grammar": ""
+    },
+    {
+      "time": 63.495,
+      "text": "Твой хип-хап чисто ха, не слышала ничё тупей",
+      "translation": "Your hip-hop is purely ha, I haven’t heard anything dumber",
+      "grammar": ""
+    },
+    {
+      "time": 66.42360000002384,
+      "text": "Какой ты рэпак, если хочешь выкупить мой трек?",
+      "translation": "What kind of rapper are you if you want to buy my track?",
+      "grammar": ""
+    },
+    {
+      "time": 69.23920000004769,
+      "text": "Белые Force, серый город, we are Russian hooligans",
+      "translation": "White Force, Gray City, We Are Russian Hooligans",
+      "grammar": ""
+    },
+    {
+      "time": 72.13030000001191,
+      "text": "Babyboy, чё ты хочешь? We are Russians, хули нам?",
+      "translation": "Babyboy, what do you want? We are Russians, why the fuck?",
+      "grammar": ""
+    },
+    {
+      "time": 74.918,
+      "text": "Напиши своё мнение, я хочу на него плевать",
+      "translation": "Write your opinion, I don't care about it.",
+      "grammar": ""
+    },
+    {
+      "time": 77.8895,
+      "text": "Ты можешь забукать мой зад",
+      "translation": "You can boo my ass",
+      "grammar": ""
+    },
+    {
+      "time": 79.55180000001192,
+      "text": "Слышь, чё ты мне скажешь ща?",
+      "translation": "Listen, what are you going to tell me now?",
+      "grammar": ""
+    },
+    {
+      "time": 81.16790000003576,
+      "text": "Со мной татары, йоу, среди них Нина есть",
+      "translation": "I'm with the Tatars, yo, Nina is among them",
+      "grammar": ""
+    },
+    {
+      "time": 84.075,
+      "text": "Район не спит, ага, ma boy, исэнмэсез",
+      "translation": "The area never sleeps, yeah, ma boy, isenmesez",
+      "grammar": ""
+    },
+    {
+      "time": 87.9285,
+      "text": "Деньги не пахнут, ведь я делаю как отец их",
+      "translation": "Money doesn't smell, because I do it like my father",
+      "grammar": ""
+    },
+    {
+      "time": 89.84470000004768,
+      "text": "Самки боятся меня, how do you fuckin' mad?",
+      "translation": "The girls are afraid of me, how mad are you?",
+      "grammar": "Note the use of a Russian phrase followed by an English phrase in the same sentence, a common phenomenon in contemporary Russian music lyrics."
+    },
+    {
+      "time": 93.18220000004769,
+      "text": "Я знаю, ты хочешь прикоснуться к нам, но у тебя не получится",
+      "translation": "I know you want to touch us, but you can't.",
+      "grammar": ""
+    },
+    {
+      "time": 95.41140000003577,
+      "text": "Выходите, бесы, мы станцуем jersey",
+      "translation": "Come out, demons, we'll dance jersey",
+      "grammar": ""
+    },
+    {
+      "time": 97.97780000001192,
+      "text": "Отойди, я войду, и она воскреснет",
+      "translation": "Step aside, I will come in, and she will rise again",
+      "grammar": ""
+    },
+    {
+      "time": 100.77770000004769,
+      "text": "Пристегнись и смотри, как тебе Олеся?",
+      "translation": "Buckle up and look, how do you like Olesya?",
+      "grammar": ""
+    },
+    {
+      "time": 103.32970000004768,
+      "text": "Жопа каждой из моих подруг в AMG обвесе (у-у)",
+      "translation": "Every one of my girlfriends' asses are in an AMG body kit (ooh)",
+      "grammar": ""
+    },
+    {
+      "time": 106.68640000003576,
+      "text": "Turn around, lemme take my Glock, я преследую цель",
+      "translation": "Turn around, lemme take my Glock, I'm on target",
+      "grammar": ""
+    },
+    {
+      "time": 109.4655,
+      "text": "Теперь с ним та из песни Фарика про револьвер",
+      "translation": "Now he's got the one from Farik's song about the revolver",
+      "grammar": ""
+    },
+    {
+      "time": 112.37280000001192,
+      "text": "Твой хип-хап чисто ха, не слышала ничё тупей",
+      "translation": "Your hip-hop is purely ha, I haven’t heard anything dumber",
+      "grammar": ""
+    },
+    {
+      "time": 115.11160000002384,
+      "text": "Какой ты рэпак, если хочешь выкупить мой трек?",
+      "translation": "What kind of rapper are you if you want to buy my track?",
+      "grammar": ""
+    }
+  ]
+}

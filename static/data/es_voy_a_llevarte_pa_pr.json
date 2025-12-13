@@ -1,0 +1,373 @@
+{
+  "id": "es_voy_a_llevarte_pa_pr",
+  "title": "VOY A LLeVARTE PA PR",
+  "artist": "Bad Bunny",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_voy_a_llevarte_pa_pr.mp3",
+  "duration": 151,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Acho, PR es otra cosa",
+      "translation": "Dude, PR is something else",
+      "grammar": "This line uses the informal expression \"acho\" as an interjection to convey surprise or emphasis, similar to \"wow\" or \"seriously\". The phrase \"es otra cosa\" is in the present tense and uses the verb \"ser\" (to be) in the third person singular form."
+    },
+    {
+      "time": 11.385899999976159,
+      "text": "Yo la conocí en Miami, en Brickell",
+      "translation": "I met her in Miami, in Brickell",
+      "grammar": "This line uses the present perfect tense (conocí) to describe a completed action in the past, emphasizing its relevance to the current moment. The phrase \"en Miami, en Brickell\" is an idiomatic expression indicating the location where the meeting took place."
+    },
+    {
+      "time": 13.996099999994039,
+      "text": "Ella sabe que aquí hay tique",
+      "translation": "She knows there's a ticket here",
+      "grammar": "The phrase \"hay tique\" is an idiomatic expression meaning \"there's a ticket\" or \"there's a problem\". The verb \"hay\" is in the present tense, indicating that the speaker assumes the listener is aware of the issue."
+    },
+    {
+      "time": 15.943799999982119,
+      "text": "Quiere que yo se la aplique",
+      "translation": "She wants me to apply it to her.",
+      "grammar": "The use of \"se\" in \"que yo se la aplique\" is an example of the reflexive pronoun \"se\" indicating the indirect object, emphasizing that the action is being done to someone else. This construction is a common way to express willingness or permission in Spanish."
+    },
+    {
+      "time": 18.5505,
+      "text": "Que pa casa la trafique",
+      "translation": "Let her traffic it home",
+      "grammar": "This line uses the informal imperative mood, with \"trafique\" being an idiomatic expression meaning \"to take care of\" or \"to handle\". The pronoun \"la\" is used to refer to a feminine noun, and the phrase as a whole has a colloquial tone."
+    },
+    {
+      "time": 21.793,
+      "text": "Vo'a llevarte pa PR",
+      "translation": "I'm going to take you to PR",
+      "grammar": "This informal expression uses the present continuous tense (llevarte) to convey a sense of immediacy, and \"pa\" is an idiomatic particle indicating direction or movement."
+    },
+    {
+      "time": 23.921,
+      "text": "Mami, pa que veas cómo es que se perrea",
+      "translation": "Mommy, so you can see how to twerk",
+      "grammar": "The phrase \"pa que veas\" is an informal way of saying \"so that you can see\" or \"to show you\", using the preposition \"pa\" (meaning \"for\" or \"so that\") with the verb \"ver\" (to see) in the subjunctive mood, which is common in colloquial language."
+    },
+    {
+      "time": 27.72039999997616,
+      "text": "Tráete a tu amiga si te gusta la idea",
+      "translation": "Bring your friend if you like the idea",
+      "grammar": "This sentence uses the conditional mood to express a hypothetical situation, and the phrase \"si te gusta\" is an idiomatic expression meaning \"if you like\"."
+    },
+    {
+      "time": 29.631399999976157,
+      "text": "Dile que esta noche vamo a janguear",
+      "translation": "Tell her we're going out tonight",
+      "grammar": "The phrase \"vamo\" is an informal, colloquial way to express future intention or plan, equivalent to \"we're going to\" in English. It's often used with friends and acquaintances, conveying a sense of spontaneity and casualness."
+    },
+    {
+      "time": 31.6995,
+      "text": "Que rico la vamo a pasar",
+      "translation": "We're going to have a great time",
+      "grammar": "The phrase \"vamo\" is an informal, colloquial way of saying \"let's go\" or \"we're going to\", used to express enthusiasm and eagerness. It's often used in spoken language among friends."
+    },
+    {
+      "time": 34.70609999999404,
+      "text": "Aquí nadie se va a casar",
+      "translation": "Nobody's getting married here",
+      "grammar": "This sentence uses the present tense to express a general truth or universal negative, emphasizing that marriage is not an option in this particular context. The phrase \"nadie se\" is an idiomatic expression meaning \"nobody\" and agrees with the subject \"aquí\", referring to the location where no one will get married."
+    },
+    {
+      "time": 37.08339999997616,
+      "text": "Pero tú te vas a querer quedar (hey, hey)",
+      "translation": "But you're going to want to stay (hey, hey)",
+      "grammar": "The phrase \"te vas\" is in the future tense and uses the informal \"you\" (tú), indicating that the speaker is addressing someone familiar. The construction \"te vas a querer\" is an idiomatic expression meaning \"you're going to want\"."
+    },
+    {
+      "time": 39.88089999997616,
+      "text": "Aprovecha que estoy soltero, ay, single",
+      "translation": "Take advantage of the fact that I'm single, oh, single",
+      "grammar": "The phrase \"aprovecha\" is an imperative verb in the second person singular, instructing someone to take advantage of a situation. The use of \"single\" as both a noun and an adjective emphasizes the idea of seizing an opportunity while it's available."
+    },
+    {
+      "time": 42.76989999997616,
+      "text": "Mírame mal si quieres que te singue",
+      "translation": "Look at me wrong if you want me to follow you",
+      "grammar": "The phrase \"Mírame mal\" is an idiomatic expression that uses the imperative mood and the second person singular pronoun \"tú\" to convey a sense of warning or threat, emphasizing the speaker's negative emotions. The verb \"mirar\" is in the present tense, but its meaning is more akin to a command than a description of ongoing action."
+    },
+    {
+      "time": 45.21579999998212,
+      "text": "Te vo'a llevar pa PR to el finde",
+      "translation": "I'm going to take you to PR for the whole weekend",
+      "grammar": "This informal expression uses the present continuous tense (irregularly) to convey a planned action, and \"pa\" is an informal particle used to indicate direction or destination."
+    },
+    {
+      "time": 47.3825,
+      "text": "Después de mí, vas a borrar Tinder",
+      "translation": "After me, you're going to delete Tinder.",
+      "grammar": "This line uses the future tense and conditional mood to express a prediction or consequence, with \"después de mí\" indicating a temporal relationship. The phrase \"vas a borrar\" is an idiomatic expression meaning \"you're going to delete\"."
+    },
+    {
+      "time": 49.74219999998808,
+      "text": "Y estoy suelto, mami, estoy suelto",
+      "translation": "And I'm loose, baby, I'm loose",
+      "grammar": "The phrase \"estoy suelto\" is in the present continuous tense, emphasizing the ongoing state of being free. The use of \"suelto\" (loose) is an idiomatic expression meaning unrestricted or unbound."
+    },
+    {
+      "time": 52.163299999982115,
+      "text": "Mírame ahora, perreando un experto",
+      "translation": "Look at me now, twerking like an expert",
+      "grammar": "The phrase \"perreando\" is a verb in the gerund form, used to describe an action happening simultaneously with the main clause. It's an idiomatic expression that conveys expertise or skill in dancing."
+    },
+    {
+      "time": 54.887,
+      "text": "Estoy suelto, mami, estoy suelto",
+      "translation": "I'm loose, mommy, I'm loose",
+      "grammar": "The use of estar with suelto indicates a temporary or changing state, emphasizing the speaker's current freedom. The phrase \"estoy suelto\" is an idiomatic expression that conveys a sense of liberation and informality."
+    },
+    {
+      "time": 57.24179999998212,
+      "text": "Hey, hey, hey",
+      "translation": "Hey, hey, hey",
+      "grammar": "This interjection is an example of a repeated phrase used to emphasize excitement or enthusiasm, with no specific grammatical function."
+    },
+    {
+      "time": 59.3205,
+      "text": "Hoy la calle está prendí'a, hookah, pastilla molí'a",
+      "translation": "Today the street is lit, hookah, crushed pill",
+      "grammar": "The phrase \"está prendí'a\" uses the present continuous tense to convey a sense of intensity or heightened energy, similar to the English idiom \"is lit\"."
+    },
+    {
+      "time": 61.57929999998212,
+      "text": "Yo no pierdo tiempo, yo las cambio como Rosalía",
+      "translation": "I don't waste time, I change them like Rosalía",
+      "grammar": "The phrase \"yo las cambio\" uses the informal \"tú\" form of the verb \"cambiar\" with the pronoun \"las\", which is a common colloquialism in Spanish. This construction implies a close relationship between the speaker and the people being referred to, similar to using \"you guys\" or \"y'all\" in English."
+    },
+    {
+      "time": 64.5425,
+      "text": "La que me mira a los ojos por cinco segundo', ya yo sé que es mía",
+      "translation": "The one who looks me in the eyes for five seconds, I already know she's mine.",
+      "grammar": "This line uses the present perfect tense (ya yo sé) to convey that the speaker has reached a conclusion after some action or experience."
+    },
+    {
+      "time": 67.06829999998212,
+      "text": "¿Dónde están las mala' que son bienvenía'?",
+      "translation": "Where are the 'bad ones' that are welcome?",
+      "grammar": "The phrase \"las mala'\" is an idiomatic expression, equivalent to \"the troublemakers\" or \"the misbehaved\", and the use of the definite article \"las\" agrees with the plural noun \"mala'\", emphasizing their collective nature."
+    },
+    {
+      "time": 69.50829999998211,
+      "text": "Toy puesto pa'l lío, dime si tú lía'",
+      "translation": "I'm ready for trouble, tell me if you're up for it.",
+      "grammar": "The phrase \"puesto pa'l lío\" is an idiomatic expression meaning \"ready for trouble\", using the present participle \"puesto\" in a colloquial sense to convey enthusiasm and willingness."
+    },
+    {
+      "time": 71.82479999998212,
+      "text": "Tus amiga' y to el corillo están bien rica'",
+      "translation": "Your friends and all the crew are really hot.",
+      "grammar": "The phrase \"están bien rica\" is an idiomatic expression meaning \"are really good\" or \"are excellent\", using the present continuous tense (estar + adverb) to emphasize the intensity of the quality."
+    },
+    {
+      "time": 73.76329999998212,
+      "text": "Pero ese culo tuyo, guau, sobresalía",
+      "translation": "But that ass of yours, wow, it stood out",
+      "grammar": "The phrase \"culo tuyo\" is an idiomatic expression used to address someone in a familiar or informal manner, equivalent to saying \"your behind\" or \"that part of you\". The use of \"tuyo\" (yours) indicates possession and familiarity."
+    },
+    {
+      "time": 75.26219999998808,
+      "text": "Salimos de la disco y estaba de día",
+      "translation": "We left the disco and it was daytime",
+      "grammar": "The verb estar is used to describe a temporary or changing situation, indicating that the time of day changed while they were leaving the disco."
+    },
+    {
+      "time": 78.963,
+      "text": "Obviamente, salí con la que quería",
+      "translation": "Obviously, I went out with the one I wanted.",
+      "grammar": "The phrase \"la que quería\" is an idiomatic expression meaning \"the one I wanted\", where \"la que\" is a pronoun agreeing with the feminine subject \"la que\"."
+    },
+    {
+      "time": 80.871,
+      "text": "Hey, que viva la putería",
+      "translation": "Hey, long live whoring!",
+      "grammar": "The phrase \"que viva\" is an idiomatic expression used to express enthusiasm and approval, equivalent to saying \"Hurray!\" or \"Long live!\", but with a tone of irony and playfulness. The verb \"viva\" is in the imperative mood, emphasizing the speaker's energetic and celebratory attitude."
+    },
+    {
+      "time": 83.29209999999404,
+      "text": "Dale p'atrá, p'atrá, tantán, chulería",
+      "translation": "Back it up, back it up, bang it, swagger",
+      "grammar": "This line uses the imperative mood to give instructions, with \"dale\" and \"back it up\" being equivalent idiomatic expressions. The phrase \"p'atrá\" is an interjection emphasizing the action."
+    },
+    {
+      "time": 86.19909999999403,
+      "text": "Hey",
+      "translation": "Hey",
+      "grammar": "This interjection \"Hey\" is an informal greeting in English, often used to get someone's attention or express familiarity."
+    },
+    {
+      "time": 86.97169999998808,
+      "text": "Dime si te vas a montar",
+      "translation": "Tell me if you're going to get on.",
+      "grammar": "The phrase \"te vas\" is in the present continuous tense, indicating an ongoing or future action. The use of \"vas\" instead of \"vayas\" is an informal idiom, common in spoken Spanish."
+    },
+    {
+      "time": 89.47619999998808,
+      "text": "Pa la isla tengo el portal",
+      "translation": "I have the portal for the island",
+      "grammar": "The phrase \"tengo el portal\" uses the present perfect tense to indicate that the speaker has already acquired or obtained the portal, implying a sense of readiness or availability."
+    },
+    {
+      "time": 91.68739999997617,
+      "text": "Bien borracho' los tre",
+      "translation": "'The three of them are really drunk'",
+      "grammar": "This idiomatic expression uses the present tense to describe a temporary or ongoing situation, and the pronoun \"los tres\" agrees with the subject \"they\" in English."
+    },
+    {
+      "time": 94.20409999999404,
+      "text": "Baby, a las do' me las vo'a llevar",
+      "translation": "Baby, I'm gonna take them at two",
+      "grammar": "The use of \"a\" before \"las\" is an idiomatic expression in Spanish, where the indefinite article \"a\" is used to indicate a specific time or place, similar to English \"at\". This construction is often translated as \"at two o'clock\" rather than \"two o'clock\"."
+    },
+    {
+      "time": 96.70869999998808,
+      "text": "Oh, oh, me quiere besar",
+      "translation": "Oh, oh, he wants to kiss me",
+      "grammar": "The use of \"me\" instead of \"him\" or \"it\" in this phrase is an example of the idiomatic expression \"me quiere\" meaning \"he loves\" or \"he likes\", where the verb agrees with the object rather than the subject. This construction is a common feature of Spanish romantic expressions."
+    },
+    {
+      "time": 99.00909999999404,
+      "text": "Ja, yo que la puse mal",
+      "translation": "Yeah, I'm the one who put it wrong.",
+      "grammar": "The phrase \"yo que\" is an idiomatic expression used to emphasize the speaker's responsibility or agency in a situation. It can be translated as \"I'm the one who\" and is often used to take ownership of one's actions."
+    },
+    {
+      "time": 101.82269999998807,
+      "text": "Tírate fotitos ahora",
+      "translation": "Take some pictures now",
+      "grammar": "The phrase \"fotitos\" is an informal, colloquial way to say \"photos\" or \"pictures,\" often used in spoken language. The imperative verb \"tire\" (take) is in the present tense, emphasizing the urgency of taking photos at this moment."
+    },
+    {
+      "time": 104.20429999998211,
+      "text": "Porque ahorita te vo'a despeinar",
+      "translation": "Because right now I'm going to mess up your hair",
+      "grammar": "The phrase \"ahorita\" is an informal way of saying \"right now\" or \"immediately\", often used in spoken language, and its tense/aspect/mood matches the context of the sentence."
+    },
+    {
+      "time": 106.41289999997616,
+      "text": "Yeh-eh-eh-eh-eh",
+      "translation": "Yeah-eh-eh-eh-eh",
+      "grammar": "This interjection, often used to express strong agreement or enthusiasm, is in the present tense and has a casual, informal tone. It's an idiomatic expression that doesn't follow traditional grammatical rules."
+    },
+    {
+      "time": 108.21329999998211,
+      "text": "Vo'a llevarte pa PR",
+      "translation": "I'm going to take you to PR",
+      "grammar": "This informal expression uses the present continuous tense (llevarte) to convey a sense of immediate action, and the phrase \"pa PR\" is an idiomatic way to say \"to Puerto Rico\"."
+    },
+    {
+      "time": 110.07259999999404,
+      "text": "Mami, pa que veas cómo es que se perrea",
+      "translation": "Mommy, so you can see how to twerk",
+      "grammar": "The phrase \"pa que veas\" is an idiomatic expression used to convey the purpose or intention behind an action, similar to \"so that you can see\". It is a subordinate conjunction in the subjunctive mood, indicating a hypothetical or uncertain situation."
+    },
+    {
+      "time": 112.803,
+      "text": "Tráete a tu amiga si te gusta la idea",
+      "translation": "Bring your friend if you like the idea",
+      "grammar": "This sentence uses the conditional mood to express a hypothetical situation, with \"si\" introducing a dependent clause that describes a condition. The verb \"traer\" is in the subjunctive mood because it's expressing a possibility or desire rather than fact."
+    },
+    {
+      "time": 115.75579999998212,
+      "text": "Dile que esta noche vamo a janguear",
+      "translation": "Tell her we're going out tonight",
+      "grammar": "The phrase \"vamo\" is an informal, colloquial way to express future plans in Spanish, equivalent to \"we're going to\" or \"we'll be\". It's often used with friends or acquaintances, and implies a sense of spontaneity or casualness."
+    },
+    {
+      "time": 118.93159999999403,
+      "text": "Que rico la vamo a pasar",
+      "translation": "We're going to have a great time",
+      "grammar": "The phrase \"que rico\" is an idiomatic expression meaning \"how great\" or \"what a treat\", using the subjunctive mood to convey enthusiasm and emphasis. The verb \"vamo\" is a colloquial contraction of \"vamos\" (we're going), indicating informal conversation."
+    },
+    {
+      "time": 121.09369999998808,
+      "text": "Aquí nadie se va a casar",
+      "translation": "Nobody's getting married here",
+      "grammar": "The phrase \"nadie se va\" is in the future tense, indicating that no one will get married at this place or time. The idiom \"nadie se va a casar\" emphasizes the impossibility of marriage happening there."
+    },
+    {
+      "time": 123.45229999998212,
+      "text": "Pero tú te vas a querer quedar",
+      "translation": "But you're going to want to stay",
+      "grammar": "The verb \"querer\" is in the future tense, indicating the speaker's prediction about the listener's desire. The phrase \"te vas a\" is an idiomatic expression used to emphasize the certainty of the action."
+    },
+    {
+      "time": 125.6195,
+      "text": "Yeh, yeh, sí, sí",
+      "translation": "Yeah, yeah, yeah, yeah",
+      "grammar": "This interjection \"yeh\" is an informal way to express strong agreement or confirmation in Spanish, often used in casual conversations. The repetition of \"yeh\" and \"sí\" emphasizes the speaker's enthusiasm and consent."
+    },
+    {
+      "time": 131.05589999997616,
+      "text": "Esto es PR, mami",
+      "translation": "This is PR, mommy",
+      "grammar": "The phrase \"esto es\" uses the present tense to express a permanent or general truth about Public Relations (PR), rather than describing an ongoing action. The use of \"mami\" as a term of endearment adds a colloquial and informal tone to the sentence."
+    },
+    {
+      "time": 132.99789999997617,
+      "text": "Aquí nací yo",
+      "translation": "I was born here",
+      "grammar": "The phrase \"yo\" is used to emphasize the speaker's identity, similar to \"me myself and I\". The verb \"nací\" is in the preterite tense, indicating a completed action in the past."
+    },
+    {
+      "time": 134.36979999998212,
+      "text": "Y el reguetón, pa que sepa' (hey, hey, hey)",
+      "translation": "And reggaeton, so you know (hey, hey, hey)",
+      "grammar": "The phrase \"pa que sepa'\" is an idiomatic expression used to emphasize the speaker's intention for someone to understand or be aware of something. It is a colloquial way to say \"so you know\" or \"just in case you don't know\"."
+    },
+    {
+      "time": 136.79,
+      "text": "Voy cazando y muero perreando",
+      "translation": "I go hunting and I die twerking",
+      "grammar": "This line uses the present continuous tense to convey a sense of ongoing action, with \"voy\" (I'm going) indicating the speaker's current activity. The idiomatic expression \"muero perreando\" literally means \"I die dancing\", but figuratively implies that the speaker is so caught up in their fun that they feel like they're dying from exhaustion or joy."
+    },
+    {
+      "time": 139.25240000000596,
+      "text": "Voy cazando y muero perreando",
+      "translation": "I go hunting and I die twerking",
+      "grammar": "This line uses the present continuous tense to convey a sense of ongoing action, with \"voy\" (I'm going) indicating the speaker's current activity. The idiomatic expression \"muero perreando\" literally means \"I die dancing\", but figuratively implies that the speaker is so caught up in their fun that they feel like they're dying from pleasure."
+    },
+    {
+      "time": 141.65659999999403,
+      "text": "Voy cazando y muero perreando",
+      "translation": "I go hunting and I die twerking",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a sense of habitual or repeated action, with \"voy\" indicating the speaker's ongoing involvement in hunting. The phrase \"muero perreando\" is an exaggerated way of saying that someone dies laughing or having so much fun they might as well be dying."
+    },
+    {
+      "time": 144.13459999999404,
+      "text": "Que bailen toa las gata', nos fuimo al garete",
+      "translation": "Let all the girls dance, we're going to hell.",
+      "grammar": "The phrase \"Que bailen\" is an imperative sentence in the subjunctive mood, used to express a desire or wish, rather than giving a direct order. This usage is idiomatic and common in Spanish."
+    },
+    {
+      "time": 146.36959999999405,
+      "text": "Tas escuchando el que más le mete",
+      "translation": "You're listening to the one who puts in the most effort.",
+      "grammar": "This idiomatic expression uses the present continuous tense (escuchando) to convey the idea of actively engaging with someone's input, emphasizing the importance of effort and dedication."
+    },
+    {
+      "time": 148.85809999999404,
+      "text": "Dale, mami, suéltate el grillete",
+      "translation": "Come on, Mommy, unshackle yourself.",
+      "grammar": "The imperative verb \"dale\" is used to address the speaker's mother in a familiar and informal tone, conveying a sense of urgency and encouragement. The phrase \"súetele el grillete\" is an idiomatic expression meaning \"to break free\" or \"to be released\"."
+    },
+    {
+      "time": 151.234,
+      "text": "Ponte en cuatro, que te vo'a dar fuete",
+      "translation": "Get on all fours, I'm gonna whip you",
+      "grammar": "This idiomatic expression uses the present continuous tense (te vo'a) to convey a sense of imminent action, and the imperative mood (\"ponte\" and \"dar\") to give a direct command. The phrase \"en cuatro\" is an informal way to say \"on all fours\", adding to the colloquial tone of the sentence."
+    },
+    {
+      "time": 154.15240000000597,
+      "text": "Ponte en cuatro, que te vo'a dar fue-",
+      "translation": "Get on all fours, I'm gonna give you fire-",
+      "grammar": "The phrase \"Ponte en cuatro\" is an idiomatic expression that uses the present tense to convey a sense of urgency and immediacy, as if the speaker is about to take action. The use of \"te vo'a dar\" instead of \"te voy a dar\" is a colloquialism that adds to the informal tone of the phrase."
+    }
+  ]
+}

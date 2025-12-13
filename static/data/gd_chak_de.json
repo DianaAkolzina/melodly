@@ -1,0 +1,337 @@
+{
+  "id": "gd_chak_de",
+  "title": "Chak De",
+  "artist": "Jatin-Lalit feat. Sonu Nigam, Sadhana Sargam & Prasoon Joshi",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "hi",
+  "to_language": "en",
+  "audio": "/audio/gd_chak_de.mp3",
+  "duration": 346,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Chakk de, chakk de, chakk de",
+      "translation": "Chakka de, chakka de, chakka de",
+      "grammar": "This is an imperative phrase in Hindi, instructing someone to take action. The repetition of \"chakk\" emphasizes the urgency or intensity of the command."
+    },
+    {
+      "time": 4.568,
+      "text": "Chakk de, chakk de, chakk de",
+      "translation": "Chakka de, chakka de, chakka de",
+      "grammar": "This is an idiomatic expression used to encourage or urge someone to take action, with the verb \"chakk\" implying a sense of momentum and energy. The repeated phrase creates a rhythmic effect, emphasizing the imperative mood."
+    },
+    {
+      "time": 9.135,
+      "text": "(Chakk de, chakk de, chakk de) chakk de saare gham",
+      "translation": "(Turn it, turn it, turn it) Turn it all the heat",
+      "grammar": "The repeated use of \"chakk de\" is an idiomatic expression, similar to English's \"turn it up,\" conveying the idea of increasing or amplifying something (in this case, emotional pain). The verb \"de\" is a causative particle indicating action on someone else."
+    },
+    {
+      "time": 16.531,
+      "text": "(Chakk de, chakk de, chakk de) tere sang hain hum",
+      "translation": "(Turn it, turn it, turn it) I am with you",
+      "grammar": "The phrase \"tere sang hain\" is an idiomatic expression meaning \"I am with you\", using the verb \"hain\" in the present continuous tense to convey a sense of being in a state or situation."
+    },
+    {
+      "time": 23.926,
+      "text": "Hans ke to dekh tu ek baar",
+      "translation": "You should look at me laughing once",
+      "grammar": "The phrase \"tu\" is an informal second-person singular pronoun, used in colloquial Hindi and Urdu to address a friend or someone familiar."
+    },
+    {
+      "time": 29.2,
+      "text": "Khud hi aa jaayegi phir bahaar",
+      "translation": "It will come out again on its own",
+      "grammar": "The phrase \"khud hi\" is an idiomatic expression indicating the subject's inherent tendency or natural course of action, equivalent to \"naturally\" or \"automatically\"."
+    },
+    {
+      "time": 33.768,
+      "text": "Hans ke to dekh tu ek baar",
+      "translation": "You should look at me laughing once",
+      "grammar": "The sentence uses the imperative mood, instructing someone to perform an action. The verb \"dekh\" is in the second person singular form, agreeing with the pronoun \"tu\"."
+    },
+    {
+      "time": 39.043,
+      "text": "Khud hi aa jaayegi phir bahaar",
+      "translation": "It will come out again on its own",
+      "grammar": "This line uses the future tense of the verb \"to come\" to express a sense of inevitability, implying that something will happen naturally without external intervention. The phrase \"khud hi\" is an idiomatic expression meaning \"on its own\"."
+    },
+    {
+      "time": 43.61,
+      "text": "Ga le nai sargam, geet ek naya gaa",
+      "translation": "Let's sing a new song, sing a new song",
+      "grammar": "The phrase \"Ga le\" is an idiomatic expression used to encourage or invite someone to do something, in this case, singing a new song. The verb \"gaa\" is in the imperative mood, indicating a command or suggestion."
+    },
+    {
+      "time": 49.592,
+      "text": "Aaya naya mausam, aaya din naya",
+      "translation": "A new season has come, a new day has come",
+      "grammar": "The phrase \"aaya\" is an idiomatic expression indicating the arrival of something new, often used to describe a change in time or circumstances. In this context, it functions as a verb, conveying the idea that a new season and day have arrived."
+    },
+    {
+      "time": 54.16,
+      "text": "Chakk de, chakk de, chakk de, chakk de saare gham",
+      "translation": "Turn it, turn it, turn it, turn it all the time",
+      "grammar": "This idiomatic phrase uses the imperative mood to convey a sense of urgency and repetition, encouraging someone to constantly deal with their troubles. The verb \"chakk\" is an onomatopoeic representation of turning or spinning, emphasizing the idea of constant movement towards resolving emotional pain."
+    },
+    {
+      "time": 61.555,
+      "text": "Chakk de, chakk de, chakk de, tere sang hain hum",
+      "translation": "Turn it, turn it, turn it, we are with you",
+      "grammar": "This line uses the imperative mood to convey a sense of urgency and inclusivity, with the verb \"chakk\" (turn) repeated for emphasis. The phrase \"tere sang hain hum\" is an idiomatic expression meaning \"we are with you\", where \"hain\" is a copula indicating a state of being."
+    },
+    {
+      "time": 68.95,
+      "text": "Ho, chakk de, chakk de, chakk de, chakk de saare gham",
+      "translation": "Yes, turn it, turn it, turn it, turn it all the time",
+      "grammar": "The phrase \"Ho, chakk de\" is an idiomatic expression used to emphasize agreement or confirmation, similar to saying \"yes\" in English. The verb \"chakk de\" is in the imperative mood, indicating a command or instruction."
+    },
+    {
+      "time": 77.052,
+      "text": "Chakk de, chakk de, chakk de, tere sang hain hum",
+      "translation": "Turn it, turn it, turn it, we are with you",
+      "grammar": "The verb \"hain\" is in the present continuous tense, indicating a sense of ongoing action or permanent state. The phrase \"tere sang hain\" can be translated to \"we are with you\" and uses the idiomatic expression \"sang\" meaning \"alongside\" or \"with\"."
+    },
+    {
+      "time": 84.447,
+      "text": "Ched de dhun wo aaj chha jaaye mastiyaan",
+      "translation": "Ched de dhoon wo aaj chaaye mastiyaan",
+      "grammar": "The verb \"chha\" is in the present continuous tense, indicating an ongoing action. The phrase \"aaj chha\" can be translated to \"today happens\" or \"today is happening\"."
+    },
+    {
+      "time": 90.429,
+      "text": "Chhod de khul ke aaj lahro mein kashtiyaan",
+      "translation": "Leave the open today, the boats in the waves",
+      "grammar": "The phrase \"chhod de\" is an idiomatic expression meaning \"leave\" or \"let go\", using the imperative mood to convey a sense of urgency. The verb \"chhodna\" typically takes the dative case, but here it's used with the accusative particle \"de\" to emphasize the idea of releasing something."
+    },
+    {
+      "time": 96.41,
+      "text": "Ched de dhun wo aaj chha jaaye mastiyaan",
+      "translation": "Ched de dhoon wo aaj chaaye mastiyaan",
+      "grammar": "The verb \"chha\" is in the present continuous tense, indicating an ongoing action. The phrase \"aaj\" means \"today\" and is used idiomatically to emphasize the immediacy of the situation."
+    },
+    {
+      "time": 102.392,
+      "text": "Chhod de khul ke aaj lahro mein kashtiyaan",
+      "translation": "Leave the open today, the boats in the waves",
+      "grammar": "The verb phrase \"chhod de\" is an idiomatic expression meaning \"to leave\" or \"to let go\", using the imperative mood to convey a sense of urgency. The sentence structure also employs the present tense to emphasize the importance of taking action immediately."
+    },
+    {
+      "time": 108.373,
+      "text": "Thokar mein masti ho, dang kar bhi jhoome",
+      "translation": "There should be fun in throwing, dance even after dancing",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a sense of ongoing enjoyment and enthusiasm. The phrase \"dang kar bhi\" is an idiom that means \"even after\" or \"still\", emphasizing the idea that the fun continues beyond the initial excitement."
+    },
+    {
+      "time": 114.355,
+      "text": "Mann bhi thirak jaaye, baadal ko choome",
+      "translation": "Even the mind gets restless, kiss the change",
+      "grammar": "The phrase \"baadal ko choome\" is an idiomatic expression that uses the verb \"choome\" in a figurative sense to mean \"to accept or go with\"."
+    },
+    {
+      "time": 119.629,
+      "text": "Chakk de, chakk de, chakk de, chakk de saare gham",
+      "translation": "Turn it, turn it, turn it, turn it all the time",
+      "grammar": "The repeated phrase \"chakk de\" is an idiomatic expression in Hindi, literally meaning \"turn it,\" but used here to convey a sense of urgency and encouragement."
+    },
+    {
+      "time": 127.025,
+      "text": "Chakk de, chakk de, chakk de, tere sang hain hum",
+      "translation": "Turn it, turn it, turn it, we are with you",
+      "grammar": "This line uses the imperative mood to express a sense of urgency and encouragement, with the verb \"chakk\" (turn) repeated for emphasis. The phrase \"tere sang hain hum\" is an idiomatic expression meaning \"we are with you\", where the pronoun \"hum\" agrees in number with the subject \"you\"."
+    },
+    {
+      "time": 134.42,
+      "text": "Ho, chakk de, chakk de, chakk de, chakk de saare gham",
+      "translation": "Yes, turn it, turn it, turn it, turn it all the time",
+      "grammar": "The phrase \"Ho, chakk de\" is an interjection and idiom in Hindi, used to express enthusiasm or agreement. It is often translated as \"yes\" or \"okay\"."
+    },
+    {
+      "time": 142.522,
+      "text": "Chakk de, chakk de, chakk de, tere sang hain hum",
+      "translation": "Turn it, turn it, turn it, we are with you",
+      "grammar": "The phrase \"tere sang hain\" is an idiomatic expression meaning \"we are with you\", using the verb \"hain\" in the present continuous tense to convey a sense of unity and solidarity."
+    },
+    {
+      "time": 149.917,
+      "text": "Yeh hawa tere paas aake hai beh rahi",
+      "translation": "This wind is blowing near you",
+      "grammar": "The verb phrase \"hai beh rahi\" is in the continuous present tense, indicating an ongoing action. The use of \"beh rahi\" (blowing) implies a gentle or soothing quality to the wind."
+    },
+    {
+      "time": 155.899,
+      "text": "\"Jhoom le mere sang,\" kaanon mein keh rahi",
+      "translation": "\"Dance with me,\" she was whispering in my ears",
+      "grammar": "The verb \"keh rahi\" is in the imperfective continuous tense, indicating a ongoing action, and the phrase \"kaanon mein\" means \"in my ears\", creating an intimate atmosphere."
+    },
+    {
+      "time": 161.88,
+      "text": "Yeh hawa tere paas aake hai beh rahi",
+      "translation": "This wind is blowing near you",
+      "grammar": "The verb phrase \"hai beh rahi\" is in the continuous present tense, indicating an ongoing action. The use of \"beh rahi\" (blowing) also employs the idiomatic expression \"beeh rahna\" meaning \"to be happening\"."
+    },
+    {
+      "time": 167.862,
+      "text": "\"Jhoom le mere sang,\" kaanon mein keh rahi",
+      "translation": "\"Dance with me,\" she was whispering in my ears",
+      "grammar": "The verb phrase \"keh rahi\" is in the past continuous tense, indicating an ongoing action at a specific point in the past. The idiom \"kaanon mein\" means \"in my ears\"."
+    },
+    {
+      "time": 173.843,
+      "text": "Lahraake, balkhaake, muskuraake jee le",
+      "translation": "Laugh, laugh, smile like this",
+      "grammar": "This line uses the imperative mood to give instructions on how to express joy, with the verbs \"laugh\" and \"smile\" in the same tense and aspect. The phrase \"like this\" is an idiomatic expression encouraging imitation."
+    },
+    {
+      "time": 177.704,
+      "text": "Pee le hawaon ko, gungunaake jee le",
+      "translation": "Drink the wind, live like a lukewarm",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a sense of ongoing action, emphasizing the idea of living in the moment. The phrase \"gungunaake\" is an adverbial particle indicating a relaxed or casual attitude."
+    },
+    {
+      "time": 182.978,
+      "text": "Chakk de, chakk de, chakk de, chakk de saare gham",
+      "translation": "Turn it, turn it, turn it, turn it all the time",
+      "grammar": "The repeated phrase \"chakk de\" is an idiomatic expression that functions as a command or instruction, using the imperative mood to urge someone to take action."
+    },
+    {
+      "time": 190.374,
+      "text": "Chakk de, chakk de, chakk de, tere sang hain hum",
+      "translation": "Turn it, turn it, turn it, we are with you",
+      "grammar": "The imperative verb \"chakk\" is used in the present tense to convey a sense of urgency and encouragement, while the pronoun \"hum\" agrees with the subject-verb agreement in Hindi."
+    },
+    {
+      "time": 197.769,
+      "text": "Ho, chakk de, chakk de, chakk de, chakk de saare gham",
+      "translation": "Yes, turn it, turn it, turn it, turn it all the time",
+      "grammar": "The phrase \"chakk de\" is an idiomatic expression meaning \"to do something repeatedly or habitually\", with the verb \"de\" implying continuous action in the present tense."
+    },
+    {
+      "time": 205.871,
+      "text": "Chakk de, chakk de, chakk de, tere sang hain hum",
+      "translation": "Turn it, turn it, turn it, we are with you",
+      "grammar": "This line uses the imperative mood to urge action (\"Chakk de\"), and the pronoun \"hum\" agrees with the subject-verb agreement in Hindi."
+    },
+    {
+      "time": 213.266,
+      "text": "Sach hai yeh, bas ek baar milti hai zindagi",
+      "translation": "It's true, life comes only once",
+      "grammar": "The phrase \"bas ek baar\" is an idiom that means \"only once\" or \"just once\", emphasizing the uniqueness of a particular experience. The verb \"milti hai\" is in the present continuous tense, indicating a general truth rather than a specific event."
+    },
+    {
+      "time": 219.955,
+      "text": "Karvatein badalti hain pal-pal yeh zindagi",
+      "translation": "This life changes every moment",
+      "grammar": "The verb phrase \"badalti hain\" is in the present continuous tense, indicating an ongoing process or a habitual action. The idiom \"pal-pal\" means \"every moment\" or \"constantly\"."
+    },
+    {
+      "time": 225.229,
+      "text": "Sach hai yeh, bas ek baar milti hai zindagi",
+      "translation": "It's true, life comes only once",
+      "grammar": "The phrase \"sach hai\" is an idiomatic expression used to emphasize the truth or reality of a statement, equivalent to saying \"it's true\" in English. The verb \"milti hai\" is in the present continuous tense, indicating that this opportunity for life is constantly available but can only be seized once."
+    },
+    {
+      "time": 231.918,
+      "text": "Karvatein badalti hain pal-pal yeh zindagi",
+      "translation": "This life changes every moment",
+      "grammar": "The phrase \"pal-pal\" is an idiom in Hindi, meaning \"every moment\" or \"constantly\", emphasizing the continuous nature of change in life."
+    },
+    {
+      "time": 237.192,
+      "text": "Har pal ko gale se hans ke laga le",
+      "translation": "Embrace every moment with a smile",
+      "grammar": "The phrase \"har pal\" is an idiom that means \"every moment\", emphasizing the importance of living in the present. The verb \"laga le\" is in the imperative mood, encouraging the listener to take action and cherish each instant."
+    },
+    {
+      "time": 243.881,
+      "text": "Pal-pal mein chhupi jo khushiyan chura le",
+      "translation": "steal the happiness hidden in every moment",
+      "grammar": "The phrase \"pal-pal\" is an idiom meaning \"in every moment\" or \"at every instant\", conveying a sense of constant mindfulness. The verb \"chhupi\" is in the present participle form, emphasizing the ongoing nature of finding happiness."
+    },
+    {
+      "time": 249.862,
+      "text": "Chakk de, chakk de, chakk de, chakk de saare gham",
+      "translation": "Turn it, turn it, turn it, turn it all the time",
+      "grammar": "This line uses the imperative mood to instructively tell someone to constantly deal with their troubles (\"turn it\" is an idiom meaning to manage or cope). The repeated verb phrase \"chakk de\" emphasizes the idea of persistent effort."
+    },
+    {
+      "time": 257.257,
+      "text": "Chakk de, chakk de, chakk de, tere sang hain hum",
+      "translation": "Turn it, turn it, turn it, we are with you",
+      "grammar": "The phrase \"tere sang hain\" is an idiomatic expression meaning \"we are with you\", using the possessive pronoun \"tere\" (your) to convey a sense of unity and solidarity."
+    },
+    {
+      "time": 264.652,
+      "text": "Ho, chakk de, chakk de, chakk de, chakk de saare gham",
+      "translation": "Yes, turn it, turn it, turn it, turn it all the time",
+      "grammar": "The phrase \"chakk de\" is an idiomatic expression meaning \"to do something repeatedly or habitually\"."
+    },
+    {
+      "time": 272.755,
+      "text": "Chakk de, chakk de, chakk de, tere sang hain hum",
+      "translation": "Turn it, turn it, turn it, we are with you",
+      "grammar": "This line uses the imperative mood to convey a sense of urgency and inclusivity, encouraging the listener to join in. The pronoun \"hum\" (we) is used to create a sense of solidarity and shared experience."
+    },
+    {
+      "time": 280.15,
+      "text": "Hans ke to dekh tu ek baar",
+      "translation": "You should look at me laughing once",
+      "grammar": "The phrase \"tu\" is a second-person singular pronoun, used informally and idiomatically in Hindi, equivalent to \"you\" (singular) in English."
+    },
+    {
+      "time": 285.424,
+      "text": "Khud hi aa jaayegi phir bahaar",
+      "translation": "It will come out again on its own",
+      "grammar": "This line uses the future tense of the verb \"to come\" (aa jaayegi) to express a sense of inevitability, implying that something will happen naturally without external intervention. The phrase \"khud hi\" is an idiomatic expression meaning \"on its own\", emphasizing the autonomous nature of the event."
+    },
+    {
+      "time": 289.992,
+      "text": "Ga le nai sargam, geet ek naya gaa",
+      "translation": "Let's sing a new song, sing a new song",
+      "grammar": "The phrase \"Ga le\" is an idiomatic expression indicating permission or invitation to do something, equivalent to \"let's\" in English. It is used to express shared intention or agreement among the speaker and listener(s)."
+    },
+    {
+      "time": 295.974,
+      "text": "Aaya naya mausam, aaya din naya",
+      "translation": "A new season has come, a new day has come",
+      "grammar": "This line uses the present perfect tense to convey the idea that a change or a new beginning is happening now, rather than in the past. The phrase \"aaya\" is an idiomatic expression meaning \"has come\", emphasizing the arrival of something new."
+    },
+    {
+      "time": 300.541,
+      "text": "Chakk de, chakk de, chakk de, chakk de saare gham",
+      "translation": "Turn it, turn it, turn it, turn it all the time",
+      "grammar": "The repeated phrase \"chakk de\" is an idiomatic expression conveying a sense of urgency and encouragement, equivalent to \"come on\" or \"go ahead\". The verb \"de\" is an imperative particle indicating a command or suggestion."
+    },
+    {
+      "time": 307.936,
+      "text": "Chakk de, chakk de, chakk de, tere sang hain hum",
+      "translation": "Turn it, turn it, turn it, we are with you",
+      "grammar": "The imperative verb \"chakk\" is used in the present tense to convey a sense of urgency and encouragement, similar to the English idiom \"turn it up.\" The pronoun \"tere sang hain hum\" uses the possessive adjective \"tere\" to emphasize the connection between the speaker and the listener."
+    },
+    {
+      "time": 315.332,
+      "text": "Ho, chakk de, chakk de, chakk de, chakk de saare gham",
+      "translation": "Yes, turn it, turn it, turn it, turn it all the time",
+      "grammar": "The phrase \"Ho, chakk de\" is an idiomatic expression used to emphasize agreement or confirmation, similar to saying \"yes\" in English. The verb \"chakk de\" is in the imperative mood and second person singular form, indicating a command or instruction directed at the listener."
+    },
+    {
+      "time": 323.434,
+      "text": "Chakk de, chakk de, chakk de, tere sang hain hum",
+      "translation": "Turn it, turn it, turn it, we are with you",
+      "grammar": "This line uses the imperative mood to convey a sense of urgency and encouragement, with the verb \"chakk\" (turn) repeated for emphasis. The phrase \"tere sang hain hum\" is an idiomatic expression meaning \"we are with you\", where \"hain\" is a copula indicating a state of being."
+    },
+    {
+      "time": 330.829,
+      "text": "Ho, chakk de, chakk de, chakk de, chakk de saare gham",
+      "translation": "Yes, turn it, turn it, turn it, turn it all the time",
+      "grammar": "The phrase \"chakk de\" is an idiomatic expression meaning \"to do something repeatedly or habitually\". The verb \"de\" is a causative particle indicating the action of turning."
+    },
+    {
+      "time": 338.931,
+      "text": "Chakk de, chakk de, chakk de, tere sang hain hum",
+      "translation": "Turn it, turn it, turn it, we are with you",
+      "grammar": "The phrase \"tere sang hain\" is an idiomatic expression meaning \"we are with you\", using the verb \"hain\" in the present continuous tense to convey a sense of unity and solidarity."
+    }
+  ]
+}

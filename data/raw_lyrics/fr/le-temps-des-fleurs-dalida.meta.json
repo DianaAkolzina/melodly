@@ -1,0 +1,16 @@
+{
+  "language": "fr",
+  "title": "Le temps des fleurs",
+  "artist": "Dalida",
+  "slug": "le-temps-des-fleurs-dalida",
+  "track_length_seconds": 240,
+  "source": {
+    "provider": "musixmatch",
+    "track_id": 335813573,
+    "commontrack_id": 285079,
+    "track_share_url": "https://www.musixmatch.com/lyrics/Dalida/Le-temps-des-fleurs?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "track_edit_url": "https://www.musixmatch.com/lyrics/Dalida/Le-temps-des-fleurs/edit?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "search_language": "fr",
+    "fetched_at": "2025-11-21T10:59:08.738450Z"
+  }
+}

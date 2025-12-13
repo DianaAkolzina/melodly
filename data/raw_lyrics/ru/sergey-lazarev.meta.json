@@ -1,0 +1,16 @@
+{
+  "language": "ru",
+  "title": "Тут или Там",
+  "artist": "Sergey Lazarev",
+  "slug": "sergey-lazarev",
+  "source": {
+    "provider": "musixmatch",
+    "track_id": 345778522,
+    "commontrack_id": 213339245,
+    "track_share_url": "https://www.musixmatch.com/lyrics/Sergey-Lazarev/%D0%A2%D1%83%D1%82-%D0%B8%D0%BB%D0%B8-%D0%A2%D0%B0%D0%BC?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "track_edit_url": "https://www.musixmatch.com/lyrics/Sergey-Lazarev/%D0%A2%D1%83%D1%82-%D0%B8%D0%BB%D0%B8-%D0%A2%D0%B0%D0%BC/edit?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "search_language": "ru",
+    "fetched_at": "2025-10-31T13:24:11.588604Z"
+  },
+  "track_length_seconds": 205
+}

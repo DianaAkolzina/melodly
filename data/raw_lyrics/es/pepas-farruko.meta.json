@@ -1,0 +1,16 @@
+{
+  "language": "es",
+  "title": "Pepas",
+  "artist": "Farruko",
+  "slug": "pepas-farruko",
+  "track_length_seconds": 287,
+  "source": {
+    "provider": "musixmatch",
+    "track_id": 223588215,
+    "commontrack_id": 129319998,
+    "track_share_url": "https://www.musixmatch.com/lyrics/Farruko-7/pepas?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "track_edit_url": "https://www.musixmatch.com/lyrics/Farruko-7/pepas/edit?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "search_language": "es",
+    "fetched_at": "2025-11-21T10:52:56.057450Z"
+  }
+}

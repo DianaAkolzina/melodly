@@ -1,0 +1,313 @@
+{
+  "id": "fr_jamais_toi",
+  "title": "JAMAIS TOI",
+  "artist": "R2",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_jamais_toi.mp3",
+  "duration": 167,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 7.3115,
+      "text": "C'est la PushK mon pote",
+      "translation": "It's PushK, my friend.",
+      "grammar": "The phrase \"C'est la\" is an idiomatic expression used to introduce a person or thing, equivalent to \"That's the one\" in English. The pronoun \"mon pote\" means \"my friend\" and agrees with the masculine noun \"PushK\"."
+    },
+    {
+      "time": 15.6995,
+      "text": "Mon bébé, descends, y a le gamos en bas",
+      "translation": "Baby, come downstairs, the car's downstairs",
+      "grammar": "The imperative mood is used to convey a sense of urgency and directness, with \"descends\" being an informal way to address someone, similar to \"come on\". The use of \"y a\" (there is) instead of \"il y a\" (there is) creates a more casual tone."
+    },
+    {
+      "time": 17.46909999999404,
+      "text": "Vu là d'où je viens, j'vais pas baisser les bras",
+      "translation": "Given where I come from, I'm not going to give up.",
+      "grammar": "The phrase \"j'vais pas\" is an idiomatic expression meaning \"I'm not going to\" or \"I won't\", using the future tense and negation to convey determination."
+    },
+    {
+      "time": 19.314300000011922,
+      "text": "Un petit goût amer, je sais pas si tu vois",
+      "translation": "A slightly bitter taste, I don't know if you see...",
+      "grammar": "The phrase \"je sais pas\" is an informal way of saying \"I don't know\" in French, using the negation particle \"pas\" instead of the more formal \"ne...pas\". This idiomatic expression is often used in spoken language to convey a sense of uncertainty or hesitation."
+    },
+    {
+      "time": 21.13159999999404,
+      "text": "Ne te mélange pas, ils sont che-lou là-bas",
+      "translation": "Don't get mixed up with them, they're weird over there.",
+      "grammar": "The phrase \"là-bas\" is an idiomatic expression meaning \"over there\", used to indicate a distant or unfamiliar place. The verb \"sont\" agrees in number and person with the plural subject \"ils\"."
+    },
+    {
+      "time": 23.04109999999404,
+      "text": "La madrée m'a dit \"mon fils, c'est les choix\"",
+      "translation": "My mother told me, \"My son, it's about choices.\"",
+      "grammar": "The phrase \"c'est les choix\" is an idiomatic expression meaning \"it's all about\" or \"it depends on\", using the present tense to convey a general truth rather than a specific event."
+    },
+    {
+      "time": 26.064700000017883,
+      "text": "Moi, j'ai compris les bails sur le tas",
+      "translation": "I figured things out on the job.",
+      "grammar": "The phrase \"Moi, j'ai\" is an idiomatic expression equivalent to \"I\" in English, using the reflexive pronoun \"moi\" and the verb \"j'ai\" (first person singular of avoir) to indicate a personal experience."
+    },
+    {
+      "time": 27.003700000017883,
+      "text": "Pourquoi j'ai l'impression d'être grave en retard?",
+      "translation": "Why do I feel like I'm seriously behind?",
+      "grammar": "The phrase \"l'impression\" indicates a subjective feeling or impression, which is expressed in the present tense using the verb \"avoir\" to convey a sense of permanence. This usage is idiomatic and common in French to describe one's emotional state."
+    },
+    {
+      "time": 28.703,
+      "text": "On prend les cs-tru, on tire dans le tas",
+      "translation": "We take the CS-Tru, we shoot into the crowd",
+      "grammar": "This informal expression uses the present tense to convey a sense of habit or routine, and the idiomatic phrase \"prendre\" (to take) implies accepting or going along with something. The use of \"on\" instead of \"nous\" emphasizes the collective nature of the action."
+    },
+    {
+      "time": 31.16470000001788,
+      "text": "Et pourtant mon cœur me fait mal quand t'es pas là",
+      "translation": "And yet my heart aches when you're not here",
+      "grammar": "The phrase \"me fait mal\" is an idiomatic expression meaning \"hurts\" or \"aches\", using the reflexive pronoun \"me\" to emphasize the speaker's emotional pain."
+    },
+    {
+      "time": 32.21140000000596,
+      "text": "Quand t'es pas là, quand t'es pas là, mon cœur, je le sens pas",
+      "translation": "When you're not here, when you're not here, my heart, I don't feel it",
+      "grammar": "This line uses the informal \"tu\" form and the negation \"pas\" to express a sense of longing, with the idiomatic phrase \"je le sens pas\" implying that the speaker's emotional state is directly tied to the physical presence of the loved one."
+    },
+    {
+      "time": 34.09780000001192,
+      "text": "Solo dans ma ville, je fais les cent pas, solo dans ma ville, ouais",
+      "translation": "Alone in my city, I pace back and forth, alone in my city, yeah",
+      "grammar": "The phrase \"je fais les cent pas\" is an idiomatic expression meaning to pace back and forth, often indicating anxiety or restlessness. The verb \"fais\" is in the present tense, emphasizing the speaker's ongoing action."
+    },
+    {
+      "time": 37.8605,
+      "text": "C'est moi le chef, elle voulait sa main",
+      "translation": "I'm the boss, she wanted his hand",
+      "grammar": "The phrase \"C'est moi le chef\" uses the present tense to assert a current state of being the boss, while \"elle voulait\" is in the past tense to describe a past desire. The use of \"sa main\" instead of \"son main\" (her hand) highlights the idiomatic expression \"voulait sa main\", which means \"wanted to take control\"."
+    },
+    {
+      "time": 40.36720000001788,
+      "text": "Donc, elle s'met en le'-le', bien positionnée",
+      "translation": "So, she positions herself in the '-the' position, well placed.",
+      "grammar": "The phrase \"s'met\" is an informal way to say \"se met\" (to put oneself), using the reflexive pronoun \"se\" and the verb \"mettre\" in the informal imperative mood."
+    },
+    {
+      "time": 42.51960000002384,
+      "text": "Combien de blèmes-pro, j'ai dû additionner?",
+      "translation": "How many professional problems did I have to add up?",
+      "grammar": "The phrase \"combien de\" is an idiomatic expression used to ask for a quantity or number, and the verb \"additionner\" is in the passé composé tense, indicating that the speaker had to count their professional problems at some point in the past."
+    },
+    {
+      "time": 44.35920000001788,
+      "text": "Si tu ne veux plus, continue sans moi?",
+      "translation": "If you don't want to anymore, continue without me?",
+      "grammar": "The phrase \"continue sans moi\" is an idiomatic expression meaning \"to carry on without someone's involvement or support\", using the present continuous tense to convey a sense of ongoing action."
+    },
+    {
+      "time": 46.944800000011924,
+      "text": "Je ressens le besoin de m'isoler (le besoin de m'isoler)",
+      "translation": "I feel the need to isolate myself (the need to isolate myself)",
+      "grammar": "The verb \"ressens\" is in the present tense, indicating a general feeling or tendency, rather than a specific action. The phrase \"le besoin de...\" is an idiomatic expression meaning \"the urge to...\"."
+    },
+    {
+      "time": 49.90310000002384,
+      "text": "Le besoin de m'isoler (le besoin de m'isoler)",
+      "translation": "The need to isolate myself (the need to isolate myself)",
+      "grammar": "This line illustrates the use of reflexive pronoun \"m'\" and verb agreement in French, where the subject-verb accord is maintained even when the subject is a reflexive pronoun."
+    },
+    {
+      "time": 56.47470000001788,
+      "text": "On a repris les bails, repris les (repris les), repris les bails",
+      "translation": "We took over the leases, took over the (took over the), took over the leases",
+      "grammar": "The repeated use of \"repris\" in this line is an example of emphatic repetition, emphasizing the idea that something has been taken control of. This idiomatic expression is often used to convey a sense of determination or urgency."
+    },
+    {
+      "time": 56.96590000000596,
+      "text": "On veut la maille, donc on est d'attaque, on ne perd plus de time",
+      "translation": "We want the money, so we're on the offensive, we're not wasting any more time",
+      "grammar": "The phrase \"on est d'attaque\" is an idiomatic expression meaning \"we're on the offensive\", using the present tense to convey a sense of ongoing action."
+    },
+    {
+      "time": 61.23390000000596,
+      "text": "Le temps, il passe, tu me manques de moins en moins",
+      "translation": "Time passes, I miss you less and less.",
+      "grammar": "The use of \"il\" instead of \"le\" before \"temps\" is an idiomatic expression in French, where the masculine indefinite article \"un\" is used to refer to abstract concepts like time. This is a common construction in French, often translated as \"time passes\"."
+    },
+    {
+      "time": 63.90360000002384,
+      "text": "Et si j'dois faire un choix, tu sais qu'en vrai, ce sera jamais toi",
+      "translation": "And if I have to make a choice, you know that in reality, it will never be you",
+      "grammar": "The use of \"j'dois\" instead of \"je dois\" is an informal idiomatic expression indicating obligation or necessity, often used in spoken French."
+    },
+    {
+      "time": 67.40140000000596,
+      "text": "Ça fait un mal de chien de zapper les humains qu'on aimait autrefois",
+      "translation": "It hurts like hell to lose touch with the people we once loved.",
+      "grammar": "This idiom \"faire un mal de chien\" is an informal way to express strong emotional pain, equivalent to saying \"it hurts like hell\"."
+    },
+    {
+      "time": 71.07230000001192,
+      "text": "Et si j'dois faire un choix, tu sais qu'en vrai, ce sera jamais toi",
+      "translation": "And if I have to make a choice, you know that in reality, it will never be you",
+      "grammar": "The use of \"j'dois\" instead of \"je dois\" is an informal idiomatic expression indicating obligation or necessity, often used in spoken French."
+    },
+    {
+      "time": 75.51390000000596,
+      "text": "Tu lèves les mains vers le ciel en espérant qu'il réponde",
+      "translation": "You raise your hands to the sky, hoping he will answer.",
+      "grammar": "The verb \"espérer\" is in the present tense and implies a habitual or ongoing action of hoping, rather than a one-time event. The phrase \"il répondra\" (he will answer) is also implied, as the speaker's expectation is that someone or something will respond to their prayer-like gesture."
+    },
+    {
+      "time": 78.01590000000596,
+      "text": "Seul dans la chambre, moi, je compte et je compte et je recompte",
+      "translation": "Alone in my room, I count and I count and I recount",
+      "grammar": "The use of \"je compte\" three times emphasizes the speaker's obsessive thinking, creating a sense of urgency through repetition. The phrase \"moi, je compte\" is an idiomatic expression that highlights the speaker's personal involvement in the counting process."
+    },
+    {
+      "time": 79.54590000000596,
+      "text": "Maintenant la bitch veut per-pom, re per-pom",
+      "translation": "Now the bitch wants to per-pom, re-per-pom",
+      "grammar": "The phrase \"Maintenant la bitch\" is an idiomatic expression used to convey a sense of irony or sarcasm, with \"maintenant\" (now) emphasizing the unexpectedness of the situation. The use of \"bitch\" as a term of endearment is also an informal idiom in French."
+    },
+    {
+      "time": 82.24480000001192,
+      "text": "J't'appelle, c'est que quand ça t'arrange",
+      "translation": "I only call you when it suits you.",
+      "grammar": "This informal phrase uses the present tense to convey a habitual or repeated action, and the idiomatic expression \"j't'appelle\" (literally \"I'll call myself\") is equivalent to saying \"I only call you\"."
+    },
+    {
+      "time": 83.50020000001788,
+      "text": "En attendant mon tour, j'suis posé dans la caille",
+      "translation": "While waiting my turn, I'm chilling in the quail",
+      "grammar": "The phrase \"j'suis\" is a colloquialism used to indicate informal, relaxed speech, equivalent to \"I am\" or \"I'm\" in English. It is often employed in spoken language and can be considered an idiomatic expression."
+    },
+    {
+      "time": 85.2915,
+      "text": "La difficulté m'a pas sortie des rails",
+      "translation": "The difficulty didn't throw me off track.",
+      "grammar": "This idiomatic expression uses the verb \"sortir\" in its figurative sense, meaning to deviate or stray from a path. The sentence is in the present perfect tense, indicating that the speaker's experience with difficulty has not caused them to lose their focus."
+    },
+    {
+      "time": 87.11130000001192,
+      "text": "C'est ton gars sûr qui veut pas que tu grailles",
+      "translation": "It's your trusted friend who doesn't want you to eat.",
+      "grammar": "The phrase \"C'est ton gars sûr\" is an idiomatic expression used to address a close friend, with \"gars\" meaning \"guy\" or \"buddy\". The sentence uses the present tense to convey a sense of certainty and informality."
+    },
+    {
+      "time": 88.981,
+      "text": "C'est ton gars sûr qui veut pas que tu grailles",
+      "translation": "It's your trusted friend who doesn't want you to eat.",
+      "grammar": "The phrase \"C'est ton gars sûr\" is an idiomatic expression, literally meaning \"it is your guy sure\", but figuratively referring to a trusted friend. The verb \"voudrais\" is in the subjunctive mood, indicating doubt or uncertainty about someone's willingness."
+    },
+    {
+      "time": 91.09170000001788,
+      "text": "Faut pas que t'aies peur de passer pour un con",
+      "translation": "Don't be afraid of looking like an idiot",
+      "grammar": "This informal idiom uses the present tense to convey a sense of habitual fear, and the phrase \"faire peur\" is an idiomatic expression meaning \"to look like\". The pronoun \"t'\" is a familiar second-person singular form."
+    },
+    {
+      "time": 92.93140000000597,
+      "text": "C'est quand t'abandonnes que t'as touché le fond",
+      "translation": "It's when you give up that you've hit rock bottom.",
+      "grammar": "This idiomatic expression uses the present perfect tense to convey a sense of completion, implying that giving up is a decisive moment. The pronoun \"t'\" is an informal second-person singular subject agreement, typical in spoken French."
+    },
+    {
+      "time": 94.68810000002384,
+      "text": "Au début, ils m'prenaient pour un fou",
+      "translation": "At first, they thought I was crazy",
+      "grammar": "The phrase \"m'prenaient\" is a colloquialism using the reflexive pronoun \"me\" with the verb \"prendre\" to convey informal, conversational tone. This construction is often used in spoken French to express a sense of familiarity or camaraderie."
+    },
+    {
+      "time": 96.64540000000596,
+      "text": "Maintenant, ça demande, j'ai combien sur le compte",
+      "translation": "Now it asks, how much do I have in the account?",
+      "grammar": "The phrase \"ça demande\" is an idiomatic expression meaning \"it's asking\" or \"it's requesting\", using the present tense to convey a sense of ongoing inquiry."
+    },
+    {
+      "time": 98.46420000001788,
+      "text": "D'où on vient, on n'oubliera jamais d'où on vient, la galère et moi, on s'connait bien",
+      "translation": "Where we come from, we'll never forget where we come from, hardship and I know each other well",
+      "grammar": "The phrase \"d'où on vient\" is an idiomatic expression meaning \"where we come from\", emphasizing the importance of one's origin. The use of \"on\" instead of \"je\" or \"nous\" highlights the shared experience and collective identity."
+    },
+    {
+      "time": 103.27680000001192,
+      "text": "Tout c'que je fais, c'est pour les miens, pour les miens",
+      "translation": "Everything I do is for my family, for my family.",
+      "grammar": "The phrase \"c'est pour les miens\" uses the reflexive pronoun \"les miens\" to emphasize the possessive relationship with one's family, conveying a sense of devotion and dedication."
+    },
+    {
+      "time": 107.57520000001789,
+      "text": "Je ressens le besoin de m'isoler (le besoin de m'isoler)",
+      "translation": "I feel the need to isolate myself (the need to isolate myself)",
+      "grammar": "The use of \"ressens\" in the present tense indicates a subjective experience, emphasizing the speaker's emotional state. The phrase \"le besoin de\" is an idiomatic expression meaning \"a strong desire to\"."
+    },
+    {
+      "time": 111.67270000001788,
+      "text": "Le besoin de m'isoler (le besoin de m'isoler)",
+      "translation": "The need to isolate myself (the need to isolate myself)",
+      "grammar": "This line illustrates the use of reflexive pronoun \"m'\" emphasizing the speaker's desire for self-isolation, with the repetition of \"le besoin de\" creating a sense of introspection."
+    },
+    {
+      "time": 115.48960000002384,
+      "text": "On a repris les bails, repris les (repris les), repris les bails",
+      "translation": "We took over the leases, took over the (took over the), took over the leases",
+      "grammar": "The repetition of \"repris\" in this line is an example of emphatic construction, emphasizing the idea that something has been taken control of. The verb \"repris\" is in the imperfect tense, indicating a completed action in the past."
+    },
+    {
+      "time": 117.62990000000596,
+      "text": "On veut la maille, donc on est d'attaque, on ne perd plus de time",
+      "translation": "We want the money, so we're on the offensive, we're not wasting any more time",
+      "grammar": "The phrase \"on est d'attaque\" is an idiomatic expression that translates to \"we're on the offensive\". It uses the present tense to convey a sense of ongoing action and emphasizes the sudden shift in attitude."
+    },
+    {
+      "time": 121.43230000001192,
+      "text": "Le temps, il passe, tu me manques de moins en moins",
+      "translation": "Time passes, I miss you less and less.",
+      "grammar": "The use of \"il\" instead of \"on\" or \"le\" is an idiomatic expression indicating the passing of time, emphasizing its impersonal nature. The sentence's present tense conveys a sense of ongoing experience."
+    },
+    {
+      "time": 124.34170000001788,
+      "text": "Et si j'dois faire un choix, tu sais qu'en vrai, ce sera jamais toi",
+      "translation": "And if I have to make a choice, you know that in reality, it will never be you",
+      "grammar": "The use of \"j'dois\" instead of \"je dois\" is an informal idiomatic expression indicating obligation or necessity, commonly used in spoken French. This construction is often translated as \"have to\" in English."
+    },
+    {
+      "time": 127.87160000002385,
+      "text": "Ça fait un mal de chien de zapper les humains qu'on aimait autrefois",
+      "translation": "It hurts like hell to lose touch with the people we once loved.",
+      "grammar": "The phrase \"ça fait un mal de chien\" is an idiomatic expression conveying strong emotional pain, equivalent to \"it hurts like hell\"."
+    },
+    {
+      "time": 132.15640000000596,
+      "text": "Et si j'dois faire un choix, tu sais qu'en vrai, ce sera jamais toi",
+      "translation": "And if I have to make a choice, you know that in reality, it will never be you",
+      "grammar": "The use of \"j'dois\" instead of \"je dois\" is an informal idiomatic expression indicating obligation or necessity, common in spoken French."
+    },
+    {
+      "time": 136.76010000002384,
+      "text": "Oh, la, la, la (ce sera jamais toi), oh, la, la, la (ce sera jamais toi)",
+      "translation": "Oh, la, la, la (it will never be you), oh, la, la, la (it will never be you)",
+      "grammar": "This line uses the idiomatic expression \"ce sera jamais\" to emphasize that something is impossible or unlikely, with the verb \"être\" in the future tense indicating a hypothetical scenario."
+    },
+    {
+      "time": 140.45020000001787,
+      "text": "Oh, la, la, la (ce sera jamais toi, ce sera jamais toi, de temps en temps, tu l'sais)",
+      "translation": "Oh, la, la, la (it will never be you, it will never be you, sometimes, you know that)",
+      "grammar": "The use of \"de temps en temps\" is an idiomatic expression meaning \"sometimes\", conveying a sense of rarity or unpredictability."
+    },
+    {
+      "time": 144.11440000000596,
+      "text": "Oh, la, la, la (ce sera jamais toi), oh, la, la, la (ce sera jamais toi, toi, toi, toi)",
+      "translation": "Oh, la, la, la (it will never be you), oh, la, la, la (it will never be you, you, you, you)",
+      "grammar": "This line uses the idiomatic expression \"ce sera jamais\" to convey a sense of impossibility or certainty, with the repetition of \"toi\" emphasizing the speaker's conviction that someone else is meant for another person."
+    },
+    {
+      "time": 149.1865,
+      "text": "2-2",
+      "translation": "2-2",
+      "grammar": "The use of \"2-2\" in both French and English is an idiom, likely referring to a perfect score or a match."
+    }
+  ]
+}

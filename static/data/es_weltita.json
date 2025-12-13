@@ -1,0 +1,337 @@
+{
+  "id": "es_weltita",
+  "title": "WELTiTA",
+  "artist": "Bad Bunny feat. Chuwi",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_weltita.mp3",
+  "duration": 162,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 12.22659999999404,
+      "text": "Baby, te vo'a dar una vuelta por la playita",
+      "translation": "Baby, I'm gonna take you for a walk on the beach",
+      "grammar": "The phrase \"te vo'a\" is an informal way of saying \"I'm going to\" in Spanish, using the verb \"ir\" in the future tense and the pronoun \"te\" instead of \"yo\". This idiom is often used with friends or loved ones."
+    },
+    {
+      "time": 15.03840000000596,
+      "text": "Te vo'a llenar de besitos la carita",
+      "translation": "I'm going to fill your face with little kisses",
+      "grammar": "The phrase \"te voy a\" is an idiomatic expression used to indicate future intention, equivalent to \"I'm going to\" in English. The verb \"llenar\" is in the subjunctive mood because it's expressing a hypothetical or desired action."
+    },
+    {
+      "time": 18.580699999988077,
+      "text": "Un día conmigo es lo que tú necesita'",
+      "translation": "A day with me is what you need.",
+      "grammar": "This sentence uses the present tense to express a general truth, and the phrase \"lo que tú necesita\" is an idiomatic expression meaning \"what you need\", rather than a literal translation."
+    },
+    {
+      "time": 22.10419999998808,
+      "text": "Sonriendo tú te ves más bonita",
+      "translation": "You look prettier when you smile.",
+      "grammar": "This sentence uses the present continuous tense to describe a habitual action, and the phrase \"te ves\" is an idiomatic expression meaning \"you think\" or \"you consider\"."
+    },
+    {
+      "time": 25.042400000005962,
+      "text": "Baby, te vo'a dar una vuelta por la playita",
+      "translation": "Baby, I'm gonna take you for a walk on the beach",
+      "grammar": "The phrase \"te vo'a\" is an informal way of saying \"I'm going to\" in Spanish, using the verb \"ir\" in the future tense and the pronoun \"te\" (you) with the particle \"vo'\" which indicates the speaker's intention. This construction is commonly used in spoken language among friends or family members."
+    },
+    {
+      "time": 27.93,
+      "text": "Te vo'a llenar de besitos la carita",
+      "translation": "I'm going to fill your face with little kisses",
+      "grammar": "The phrase \"te voy a\" is an informal way of expressing the future tense, equivalent to \"I'm going to\" in English. The verb \"llenar\" agrees with the indirect object \"la carita\" in the accusative case."
+    },
+    {
+      "time": 31.38630000001192,
+      "text": "Un día conmigo es lo que tú necesita'",
+      "translation": "A day with me is what you need.",
+      "grammar": "This sentence uses the present tense to express a general truth, and the phrase \"lo que tú necesita\" is an idiomatic expression meaning \"what you need\", rather than a literal translation."
+    },
+    {
+      "time": 35.08009999999404,
+      "text": "Sonriendo tú te ves más bonita",
+      "translation": "You look prettier when you smile.",
+      "grammar": "The phrase \"sonriendo tú\" is an idiomatic expression indicating a simultaneous action, using the present participle \"sonriendo\" (smiling) and the pronoun \"tú\" in the subject position, emphasizing the connection between smiling and looking prettier."
+    },
+    {
+      "time": 38.75509999999404,
+      "text": "Eh-eh, eh-eh, eh-eh",
+      "translation": "Eh-eh, eh-eh, eh-eh",
+      "grammar": "This interjection is an expression of excitement or emphasis, with the repeated \"eh\" sound creating a sense of rhythm and energy. The use of \"eh\" instead of a more formal phrase emphasizes the speaker's emotional state."
+    },
+    {
+      "time": 40.29459999999404,
+      "text": "Baby, yo sé, baby, yo sé",
+      "translation": "Baby, I know, baby, I know",
+      "grammar": "This line uses the present tense and the idiomatic expression \"yo sé\" to convey strong agreement or confirmation, similar to saying \"I totally agree\" in English. The repetition of \"baby\" is an informal way to address someone, adding a sense of intimacy and familiarity."
+    },
+    {
+      "time": 43.24309999999404,
+      "text": "La vida es así, la vida es así",
+      "translation": "That's life, that's life",
+      "grammar": "The phrase \"es así\" is an idiomatic expression meaning \"that's how it is\" or \"that's the way it goes\". It uses the present tense to convey a sense of universality and acceptance."
+    },
+    {
+      "time": 45.86540000000596,
+      "text": "Eh-eh, ey",
+      "translation": "Eh-eh, hey",
+      "grammar": "This interjection \"Eh-eh\" is an informal way to get someone's attention or express surprise, similar to saying \"Hey!\" in English."
+    },
+    {
+      "time": 48.33369999998808,
+      "text": "Pero ponte el traje'e baño, mami, que tе vo'a buscar",
+      "translation": "But put on your swimsuit, mommy, because I'm going to get you",
+      "grammar": "The use of \"te\" instead of \"tú\" is an idiomatic expression in Spanish, indicating a familiar or affectionate tone towards the speaker's mother."
+    },
+    {
+      "time": 51.75809999999404,
+      "text": "Te dejo mojaíta, el sol tе va a secar",
+      "translation": "I'll leave you all wet, the sun will dry you out",
+      "grammar": "The phrase \"te dejo mojaíta\" is an idiomatic expression meaning to abandon or leave someone in a helpless state, with \"mojaíta\" implying complete vulnerability. The use of the present continuous tense (\"va a secar\") emphasizes the inevitability of the sun's drying effect."
+    },
+    {
+      "time": 55.09159999999404,
+      "text": "Sí, te va a quemar",
+      "translation": "Yes, it's going to burn you",
+      "grammar": "This idiomatic expression uses the present continuous tense (va a) to convey a sense of inevitability or certainty. The phrase \"te va a\" is an impersonal construction indicating that someone or something will cause harm to the listener."
+    },
+    {
+      "time": 56.736699999988076,
+      "text": "Tú eres mi canción favorita",
+      "translation": "You are my favorite song",
+      "grammar": "In Spanish, the verb \"eres\" is in the present tense and second person singular form, indicating a direct address to someone. The phrase \"mi canción favorita\" uses the possessive adjective \"mi\" to emphasize the speaker's personal preference."
+    },
+    {
+      "time": 59.77709999999404,
+      "text": "Y en repeat te vo'a tocar, ey",
+      "translation": "And I'm gonna play you on repeat, hey",
+      "grammar": "The phrase \"tocar\" is often used idiomatically in Spanish to mean \"to play (music)\" or \"to perform\", rather than its literal meaning of \"to touch\"."
+    },
+    {
+      "time": 61.54969999998808,
+      "text": "Te la vo'a aplicar",
+      "translation": "I'm going to apply it to you",
+      "grammar": "The verb \"aplicar\" is in the present continuous tense, indicating a future action. The phrase \"te la\" is an idiomatic expression meaning \"to you\"."
+    },
+    {
+      "time": 63.10809999999404,
+      "text": "Quiero dibujar corazoncitos en la orilla",
+      "translation": "I want to draw little hearts on the shore",
+      "grammar": "The verb \"quiero\" is in the present tense, indicating a desire or intention, which is typical of the first conditional construction. The phrase \"corazoncitos\" uses the diminutive suffix to convey affection and intimacy."
+    },
+    {
+      "time": 66.51419999998808,
+      "text": "Tranquila, mami, yo te cargo la silla",
+      "translation": "Don't worry, Mommy, I'll carry the chair for you.",
+      "grammar": "The phrase \"yo te cargo\" is an idiomatic expression meaning \"I'll take care of\" or \"I'll handle,\" using the present tense to convey a sense of obligation and responsibility. The use of \"te\" instead of \"me\" agrees with the indirect object \"la silla."
+    },
+    {
+      "time": 69.43440000000597,
+      "text": "Eso' ojitos lindo', me encanta cómo brillan",
+      "translation": "Those 'pretty little eyes', I love how they sparkle",
+      "grammar": "The phrase \"eso' ojitos\" is an idiomatic expression that uses the informal pronoun \"eso'\" to address something or someone with affection, emphasizing its endearing qualities. The use of \"'ojitos\" instead of \"ojos\" (eyes) adds a playful and intimate tone to the sentence."
+    },
+    {
+      "time": 72.92930000001192,
+      "text": "¿Cómo una diosa puede ser tan sencilla?, ey",
+      "translation": "How can a goddess be so simple?",
+      "grammar": "The phrase \"¿Cómo una diosa puede ser tan sencilla?\" is an rhetorical question, using the present tense to express surprise and wonder. The use of \"¿cómo?\" (how) implies a sense of incredulity, as if the speaker cannot comprehend how something so extraordinary could be possible."
+    },
+    {
+      "time": 77.31630000001192,
+      "text": "Y por un beso de la flaca yo daría lo que fuera (fuera)",
+      "translation": "And for a kiss from that skinny girl I'd give anything (anything)",
+      "grammar": "The phrase \"yo daría lo que fuera\" is an idiomatic expression meaning \"I'd do anything\", where \"fuera\" is used to emphasize the extent of one's willingness, rather than indicating location."
+    },
+    {
+      "time": 83.05080000001192,
+      "text": "Tú me dice' (dice') si adentro o afuera (mami)",
+      "translation": "You tell me (tells me) if inside or outside (mommy)",
+      "grammar": "The phrase \"Tú me dice'\" is an informal way of saying \"You're telling me\" in the present continuous tense, using the verb \"dice'\" instead of \"dices\", which is a common colloquialism in Latin American Spanish."
+    },
+    {
+      "time": 85.73490000000596,
+      "text": "Debajo del agua nadie se entera",
+      "translation": "Underwater, nobody notices",
+      "grammar": "This idiomatic expression uses the present continuous tense (nadle) to convey a sense of ongoing action, implying that even if something happens underwater, it remains unnoticed."
+    },
+    {
+      "time": 88.71869999998808,
+      "text": "Baby, te vo'a dar una vuelta por la playita (ja)",
+      "translation": "Baby, I'm gonna take you for a walk on the beach (ha)",
+      "grammar": "The phrase \"te vo'a\" is an informal way to say \"I'm going to\" in Spanish, using the verb \"ir\" in the future tense and the pronoun \"te\" instead of \"yo\". This construction is commonly used in spoken language among friends or family."
+    },
+    {
+      "time": 92.17130000001193,
+      "text": "Te vo'a llenar de besitos la carita (la carita)",
+      "translation": "I'm going to fill your face with little kisses (your face)",
+      "grammar": "The verb \"vo'a\" is in the present tense and implies a future action, using the informal \"tú\" form to convey a sense of intimacy. The phrase \"llenar de besitos\" is an idiomatic expression meaning \"to shower with affection\"."
+    },
+    {
+      "time": 95.37519999998808,
+      "text": "Un día conmigo es lo que tú necesita'",
+      "translation": "A day with me is what you need.",
+      "grammar": "The phrase \"es lo que\" is an idiomatic expression used to mean \"is what\", implying a sense of necessity or suitability, and the sentence is in the present tense."
+    },
+    {
+      "time": 98.79019999998808,
+      "text": "Sonriendo tú te ves más bonita",
+      "translation": "You look prettier when you smile.",
+      "grammar": "This sentence uses the present continuous tense (sonriendo) to describe an action that is happening at the moment, and the pronoun tú emphasizes the informal tone."
+    },
+    {
+      "time": 101.84409999999404,
+      "text": "Baby, te vo'a dar una vuelta por la playita",
+      "translation": "Baby, I'm gonna take you for a walk on the beach",
+      "grammar": "The phrase \"te vo'a\" is an informal way of saying \"I'm going to\" in Spanish, using the verb \"ir\" in the future tense and the pronoun \"te\" (you) with the particle \"vo'\" which is a colloquialism used among friends or people who are familiar with each other."
+    },
+    {
+      "time": 104.96430000001192,
+      "text": "Te vo'a llenar de besitos la carita",
+      "translation": "I'm going to fill your face with little kisses",
+      "grammar": "The phrase \"te voy a\" is an informal way of expressing the future tense, equivalent to \"I'm going to\" in English. The verb \"llenar\" agrees with the indirect object \"la carita\" in both number and gender."
+    },
+    {
+      "time": 108.35980000001192,
+      "text": "Contigo me siento distinto",
+      "translation": "With you I feel different",
+      "grammar": "The phrase \"me siento\" is an idiomatic expression indicating a change in emotional state, using the present tense to convey a sense of ongoing experience."
+    },
+    {
+      "time": 111.94609999999403,
+      "text": "Hay algo cuando nos miramo",
+      "translation": "There's something when we look at each other",
+      "grammar": "The phrase \"nos miramo\" is an informal, colloquial way of saying \"we look at each other\", using the reflexive verb \"mirar\" in the present tense to convey a sense of simultaneous action. This usage note highlights the casual tone and intimate nature of the conversation."
+    },
+    {
+      "time": 114.84730000001193,
+      "text": "Y en el pozo nos dimos la mano (y gritamo)",
+      "translation": "And in the well we shook hands (and shouted)",
+      "grammar": "The phrase \"nos dimos\" is a colloquial way to express shared experience or mutual agreement, using the preterite tense and the reflexive pronoun \"nos\" to emphasize the collective action. This idiomatic expression is often used in informal settings to convey a sense of camaraderie or shared understanding."
+    },
+    {
+      "time": 118.18169999998808,
+      "text": "\"¡Jacinto!\"",
+      "translation": "\"Hyacinth!\"",
+      "grammar": "This interjection ¡Jacinto! is an informal way to express surprise or excitement, similar to saying \"Good grief!\" in English. The use of the exclamation mark and the name Jacinto convey a sense of urgency and playfulness."
+    },
+    {
+      "time": 118.70730000001193,
+      "text": "Cuando no estoy en la buena",
+      "translation": "When I'm not in a good mood",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a habitual or general truth about one's emotional state, rather than describing a specific moment. The phrase \"no estoy\" is an informal way of saying \"I'm not\" and is used to express a personal opinion or feeling."
+    },
+    {
+      "time": 124.38169999998807,
+      "text": "Tú me lleva' a hacer castillos de arena",
+      "translation": "You take me to build sandcastles",
+      "grammar": "The verb phrase \"me lleva'\" is in the informal second person singular present tense, using the pronoun \"tú\" and the particle \"'a'\" to indicate movement or direction. This idiomatic expression conveys a sense of intimacy and informality."
+    },
+    {
+      "time": 127.4355,
+      "text": "Y los castillo' se convierten en aldea'",
+      "translation": "And the castles become villages.",
+      "grammar": "The phrase \"los castillo'\" is a colloquialism, using the diminutive suffix \"-ito\" to convey a sense of informality and familiarity. This usage is common in spoken Spanish, particularly when referring to something that has lost its original grandeur or importance."
+    },
+    {
+      "time": 130.6475,
+      "text": "Un pueblito donde no existen problema'",
+      "translation": "A small town where there are no problems.",
+      "grammar": "The phrase \"no existen\" is in the present tense, indicating a general truth about the town, rather than a specific situation. This usage of the verb \"existir\" to mean \"to be a problem\" is an idiomatic expression."
+    },
+    {
+      "time": 133.94240000000596,
+      "text": "Y ahí soñamos con un futuro",
+      "translation": "And there we dream of a future",
+      "grammar": "The phrase \"y ahí\" is an idiomatic expression used to indicate a hypothetical or idealized situation, equivalent to \"and then\" in English. The verb \"soñamos\" is in the first person plural imperfect tense, describing a habitual or continuous action in the past."
+    },
+    {
+      "time": 136.98519999998808,
+      "text": "Que estemo bien, no hace falta mucho",
+      "translation": "Just being okay isn't necessary.",
+      "grammar": "This idiomatic expression uses the present tense to convey a general truth or habitual situation, rather than describing a specific moment in time. The phrase \"estemo\" is an informal way of saying \"estar\" (to be), emphasizing the speaker's emotional state."
+    },
+    {
+      "time": 140.32430000001193,
+      "text": "Por un segundo nos olvidamos de to",
+      "translation": "For a second we forgot about everything",
+      "grammar": "The phrase \"nos olvidamos\" is in the present perfect tense, indicating that the action of forgetting started before the moment of speaking and continues up to that point. The use of \"nos\" instead of \"nosotros/as\" is an idiomatic expression implying a shared experience among the speaker and others."
+    },
+    {
+      "time": 143.38230000001192,
+      "text": "Aquí solo somos tú y yo",
+      "translation": "It's just you and me here.",
+      "grammar": "The phrase \"tú y yo\" is an idiomatic expression used to emphasize a personal, intimate situation, equivalent to the English idiom \"it's just between you and me\"."
+    },
+    {
+      "time": 146.8465,
+      "text": "Vamo a besarno frente a las ola' (aunque sea de piquito, de piquito)",
+      "translation": "Let's kiss in front of the waves (even if it's just a peck, a peck)",
+      "grammar": "The phrase \"Vamo\" is an informal way to say \"let's\" in Spanish, used to express willingness or agreement. It's often used with friends or in casual settings, and its tone is more relaxed than the formal \"vamos\"."
+    },
+    {
+      "time": 150.7825,
+      "text": "De piquito pin-pin, pin-pin-pin (vamo a besarno frente a las ola')",
+      "translation": "Let's kiss in front of the waves",
+      "grammar": "The phrase \"vamo a\" is an informal way to express future intention or obligation, equivalent to \"let's\" in English. It is often used in colloquial language and can be translated as \"we're going to\" or \"let's\"."
+    },
+    {
+      "time": 153.29009999999403,
+      "text": "Hay mucho' mosquito' en la costa",
+      "translation": "There are a lot of mosquitoes on the coast",
+      "grammar": "The phrase \"hay mucho\" is an idiomatic expression used to indicate a large quantity, similar to \"there are many\" in English. The verb \"hay\" is in the present tense and indicates existence or presence, rather than action."
+    },
+    {
+      "time": 157.85559999999404,
+      "text": "Baby, vo'a poner un escrín (vamo' a besarno' frente a)",
+      "translation": "Baby, I'm going to put on a screen (let's kiss in front of)",
+      "grammar": "The phrase \"vo'a\" is an informal way to say \"I'm going to\", using the verb \"ir\" in the future tense and the particle \"a\" to indicate purpose. This construction is common in spoken Spanish, particularly among friends or in casual settings."
+    },
+    {
+      "time": 162.17869999998808,
+      "text": "Sudaíta, el sol te da (las ola')",
+      "translation": "Sudachita, the sun gives you (the waves')",
+      "grammar": "The phrase \"el sol te da\" is an idiomatic expression in Spanish, using the present tense to convey a sense of habitual or general truth about the sun's action. The pronoun \"te\" agrees with the subject \"Sudaíta\", indicating a direct and intimate connection between the person and the sun's gift."
+    },
+    {
+      "time": 164.2065,
+      "text": "Y eso brilla como blin-blin (vamo' a besarno' frente a las ola')",
+      "translation": "And that shines like bling-bling (let's kiss in front of the waves)",
+      "grammar": "The use of \"vamo'\" and \"'a\" is an informal, colloquial way to express future intention or permission, similar to saying \"we're going to\" or \"let's\". This construction is common in spoken Spanish."
+    },
+    {
+      "time": 166.0608000000119,
+      "text": "Vamo a quedarnos por Maya, después te llevo a París",
+      "translation": "Let's stay in Maya, then I'll take you to Paris",
+      "grammar": "The phrase \"Vamo\" is an informal way of saying \"let's go\" or \"come on\", used to express enthusiasm and agreement. It is often translated as \"let's\" in English, indicating a first-person plural imperative mood."
+    },
+    {
+      "time": 171.521,
+      "text": "Por eso es que me gusta ir contigo a la playita",
+      "translation": "That's why I like going to the beach with you.",
+      "grammar": "The phrase \"me gusta\" is an idiomatic expression indicating the speaker's liking or preference, using the present tense and informal second-person pronoun \"tú\"."
+    },
+    {
+      "time": 175.57909999999404,
+      "text": "Y llenarte de besitos la carita",
+      "translation": "And cover your face with little kisses",
+      "grammar": "This idiomatic expression uses the present continuous tense (y llenarte) to convey a sense of ongoing action, and the phrase \"de besitos\" is an idiomatic way to refer to gentle, affectionate touches."
+    },
+    {
+      "time": 178.813,
+      "text": "Y un día juntito' es lo que yo necesito",
+      "translation": "And a day together is what I need",
+      "grammar": "The phrase \"juntito'\" is an informal, colloquial expression meaning \"together\" or \"close by\", often used to convey a sense of intimacy or closeness."
+    },
+    {
+      "time": 182.10659999999405,
+      "text": "Sonriendo tú te ves más bonito",
+      "translation": "You look prettier when you smile.",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a habitual or general truth, rather than describing an ongoing action. The phrase \"te ves\" is an informal way of saying \"you think\" or \"you consider\"."
+    }
+  ]
+}

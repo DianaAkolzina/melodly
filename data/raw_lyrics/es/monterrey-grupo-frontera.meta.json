@@ -1,0 +1,16 @@
+{
+  "language": "es",
+  "title": "monterrey",
+  "artist": "Grupo Frontera",
+  "slug": "monterrey-grupo-frontera",
+  "source": {
+    "provider": "musixmatch",
+    "track_id": 355410750,
+    "commontrack_id": 223711224,
+    "track_share_url": "https://www.musixmatch.com/lyrics/Grupo-La-Frontera/monterrey?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "track_edit_url": "https://www.musixmatch.com/lyrics/Grupo-La-Frontera/monterrey/edit?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "search_language": "es",
+    "fetched_at": "2025-10-31T13:22:18.451384Z"
+  },
+  "track_length_seconds": 218
+}

@@ -1,0 +1,205 @@
+{
+  "id": "fr_tous_les_mmes",
+  "title": "Tous les mêmes",
+  "artist": "Stromae",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_tous_les_mmes.mp3",
+  "duration": 96,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 9.40140000000596,
+      "text": "Vous les hommes vous êtes tous les mêmes",
+      "translation": "You men are all the same",
+      "grammar": "This sentence uses the present tense to express a general truth or universal statement, and the idiomatic phrase \"tous les mêmes\" emphasizes the sameness of all men."
+    },
+    {
+      "time": 12.56819999998808,
+      "text": "Macho mais cheap, bande de mauviettes infidèles",
+      "translation": "Macho but cheap, you bunch of unfaithful wimps",
+      "grammar": "The phrase \"bande de\" is an idiomatic expression meaning \"a group of\" or \"you bunch of\", used to address a group of people in an informal and often derogatory manner. The verb \"sont\" (are) is implied, but not explicitly stated, as the sentence is in the present tense."
+    },
+    {
+      "time": 17.36469999998808,
+      "text": "Si prévisibles, non je ne suis pas certaine, que-que-que tu l'mérites",
+      "translation": "So predictable? No, I'm not sure, that-that-that you deserve it",
+      "grammar": "The use of \"que-que-que\" is an informal idiom in French, equivalent to the English phrase \"no matter what,\" emphasizing the speaker's uncertainty."
+    },
+    {
+      "time": 22.64169999998808,
+      "text": "Z'avez d'la chance qu'on vous aime",
+      "translation": "You're lucky that we love you",
+      "grammar": "The phrase \"Z'avez\" is a colloquialism used to address someone in an informal tone, equivalent to \"you've got\" or \"you're lucky\". The verb agrees with the subject pronoun \"vous\" in the second person plural."
+    },
+    {
+      "time": 25.64259999999404,
+      "text": "Dis-moi \"merci\"",
+      "translation": "Say \"thank you\" to me",
+      "grammar": "This idiomatic expression uses the imperative mood, with the speaker requesting that someone express gratitude towards them. The phrase \"dis-moi\" is a literal translation of \"tell me\", but in this context, it means \"say it to me\"."
+    },
+    {
+      "time": 26.888,
+      "text": "Rendez-vous, rendez-vous, rendez-vous au prochain règlement",
+      "translation": "See you, see you, see you at the next settlement",
+      "grammar": "The repeated imperative \"rendez-vous\" is an idiomatic expression meaning \"see you\", emphasizing the idea of a meeting or encounter."
+    },
+    {
+      "time": 30.97790000000596,
+      "text": "Rendez-vous, rendez-vous, rendez-vous sûrement aux prochaines règles",
+      "translation": "See you, see you, see you for sure at the next period",
+      "grammar": "The repeated phrase \"rendez-vous\" is an idiom that means \"see you\", using the formal imperative to convey a sense of certainty and formality."
+    },
+    {
+      "time": 44.71770000001788,
+      "text": "Cette fois c'était la dernière, tu peux croire que c'est qu'une crise",
+      "translation": "This time it was the last time, you can believe it's just a crisis",
+      "grammar": "The phrase \"c'était la dernière\" is in the passé composé tense, indicating that this specific instance of an event is being presented as complete and final. The use of \"la dernière\" also implies a sense of inevitability or finality."
+    },
+    {
+      "time": 48.59870000001788,
+      "text": "Mate une dernière fois mon derrière, il est à côté de mes valises",
+      "translation": "Take one last look at my backside, it's next to my suitcases.",
+      "grammar": "The use of \"une dernière fois\" implies a sense of finality and emphasizes the speaker's intention to take a thorough glance. The phrase is an idiomatic expression in French, equivalent to saying \"one last time\" or \"for the very last time\"."
+    },
+    {
+      "time": 52.836300000011924,
+      "text": "Tu diras au revoir à ta mère, elle qui t'idéalise",
+      "translation": "You will say goodbye to your mother, the one who idolizes you.",
+      "grammar": "The phrase \"elle qui\" is an idiomatic expression used to introduce a subordinate clause, equivalent to \"the one who\" in English. It indicates that the subject of the main clause (your mother) is also the one performing the action described in the subordinate clause (idolizing you)."
+    },
+    {
+      "time": 57.2905,
+      "text": "Tu n'vois même pas tout c'que tu perds avec une autre ce serait pire",
+      "translation": "You don't even see everything you're losing with someone else; it would be worse.",
+      "grammar": "The phrase \"tu perds\" is in the present tense, emphasizing the ongoing nature of the loss, and the use of \"ce serait\" implies a hypothetical situation."
+    },
+    {
+      "time": 62.11320000001788,
+      "text": "Quoi toi aussi tu veux finir maintenant? C'est l'monde à l'envers",
+      "translation": "What, you want to end it now too? It's a topsy-turvy world.",
+      "grammar": "The phrase \"quoi toi aussi\" is an idiomatic expression used to seek confirmation or agreement from someone, similar to \"right?\" or \"don't you think?\" in English."
+    },
+    {
+      "time": 66.04630000001193,
+      "text": "Moi, je l'disais pour t'faire réagir seulement, toi t'y pensais",
+      "translation": "I only said it to get a reaction from you; you were thinking about it.",
+      "grammar": "The use of \"je l'disais\" (I was saying) in the past imperfect tense indicates ongoing action at the time of speaking, emphasizing the speaker's intention. The phrase \"pour t'faire réagir seulement\" is an idiomatic expression meaning \"to get a reaction from you\"."
+    },
+    {
+      "time": 70.45560000002384,
+      "text": "Rendez-vous, rendez-vous, rendez-vous au prochain règlement",
+      "translation": "See you, see you, see you at the next settlement",
+      "grammar": "The repeated imperative \"rendez-vous\" is an idiomatic expression used to bid farewell or take leave, with a playful tone. The verb agrees in number and person with the implied speaker."
+    },
+    {
+      "time": 74.69710000002384,
+      "text": "Rendez-vous, rendez-vous, rendez-vous sûrement aux prochaines règles",
+      "translation": "See you, see you, see you for sure at the next period",
+      "grammar": "The repeated phrase \"rendez-vous\" is an idiomatic expression meaning \"see you\", using the formal imperative form to convey a sense of certainty and politeness."
+    },
+    {
+      "time": 96.768,
+      "text": "Facile à dire, je suis gnangnan",
+      "translation": "Easy to say, I'm a wimp.",
+      "grammar": "The phrase \"je suis gnangnan\" is an idiomatic expression in French, where the verb \"être\" (to be) is used to describe one's personality or character, rather than their current state. This usage is informal and conversational, similar to saying \"I'm a wimp\" in English."
+    },
+    {
+      "time": 99.4215,
+      "text": "Et que j'aime trop les bla-bla-bla, mais non, non, non, c'est important",
+      "translation": "And that I love blah-blah-blah too much, but no, no, no, it's important",
+      "grammar": "The use of \"c'est\" instead of \"il est\" to indicate the importance of something is an idiomatic expression in French, emphasizing the speaker's emotional involvement."
+    },
+    {
+      "time": 103.49920000001788,
+      "text": "Ce que t'appelles les ragnagnas, tu sais la vie, c'est des enfants",
+      "translation": "What you call \"periods,\" you know, life is about children.",
+      "grammar": "This line uses the informal second-person singular form \"tu\" and the pronoun \"t'\" to create a sense of intimacy and familiarity with the listener."
+    },
+    {
+      "time": 107.65640000000596,
+      "text": "Mais comme toujours, c'est pas l'bon moment",
+      "translation": "But as always, it's not the right time.",
+      "grammar": "The phrase \"c'est pas\" is an idiomatic expression meaning \"it's not\" and is used to express negation in informal contexts. The sentence uses the imperfect tense \"était\" to describe a habitual or repeated situation."
+    },
+    {
+      "time": 109.58030000001192,
+      "text": "Ah oui pour les faire là, tu es présent, mais pour les élever y aura qu'des absents",
+      "translation": "Ah yes, you're there to make them, but when it comes to raising them, there will only be absentees.",
+      "grammar": "The use of \"y aura\" instead of \"il y aura\" is an informal idiomatic expression indicating a future situation where someone or something will not be present."
+    },
+    {
+      "time": 114.39630000001192,
+      "text": "Lorsque je n'serais plus belle ou du moins au naturel",
+      "translation": "When I am no longer beautiful, or at least not naturally so.",
+      "grammar": "The use of \"n'serais\" instead of \"ne serais\" is an idiomatic expression in French, where the negation \"ne\" is incorporated into the verb \"serai\" to create a more natural and poetic tone."
+    },
+    {
+      "time": 119.63420000001788,
+      "text": "Arrête je sais que tu mens, il n'y a que Kate Moss qui est éternelle",
+      "translation": "Stop, I know you're lying, only Kate Moss is eternal",
+      "grammar": "The phrase \"je sais\" implies the speaker's certainty about the situation, using the present tense to emphasize their conviction. The idiomatic expression \"n'y a que\" translates to \"only\" or \"there is only\", highlighting Kate Moss as the sole exception in this context."
+    },
+    {
+      "time": 122.75940000000595,
+      "text": "Moche ou bête (c'est jamais bon)",
+      "translation": "Ugly or stupid (it's never good)",
+      "grammar": "This idiomatic expression uses the present tense to convey a general truth, rather than describing a specific situation. The phrase \"c'est jamais bon\" is an idiomatic way of saying that something is always bad, emphasizing the negative outcome."
+    },
+    {
+      "time": 124.87960000002384,
+      "text": "Bête ou belle (c'est jamais bon)",
+      "translation": "Stupid or beautiful (it's never good)",
+      "grammar": "This idiomatic expression uses the present tense to convey a general truth, rather than describing a specific situation. The phrase \"c'est jamais bon\" is an idiomatic way of saying that something is always bad or unfavorable."
+    },
+    {
+      "time": 127.08690000000595,
+      "text": "Belle ou moi (c'est jamais bon)",
+      "translation": "Belle or me (it's never good)",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or timeless sense of something being never good, rather than describing an actual situation. The phrase \"belle ou moi\" is an alternative to saying \"or else\", implying that the speaker feels they would be in a worse position if someone else were more attractive."
+    },
+    {
+      "time": 129.315,
+      "text": "Moi ou elle (c'est jamais bon)",
+      "translation": "Me or her (it's never good)",
+      "grammar": "This idiomatic expression uses the present tense to convey a general truth, rather than describing a specific situation. The phrase \"Moi ou elle\" is an example of a rhetorical question, emphasizing the speaker's uncertainty and frustration."
+    },
+    {
+      "time": 131.4395,
+      "text": "Rendez-vous, rendez-vous, rendez-vous au prochain règlement",
+      "translation": "See you, see you, see you at the next settlement",
+      "grammar": "The repeated phrase \"rendez-vous\" is an idiomatic expression meaning \"see you\", using the imperative mood and emphasizing the idea of a future meeting."
+    },
+    {
+      "time": 135.7837000000179,
+      "text": "Rendez-vous, rendez-vous, rendez-vous sûrement aux prochaines règles",
+      "translation": "See you, see you, see you for sure at the next period",
+      "grammar": "The repeated phrase \"rendez-vous\" is an idiom meaning \"see you\", and its use in this context emphasizes the certainty of meeting again."
+    },
+    {
+      "time": 175.605,
+      "text": "Tous les mêmes, tous les mêmes, tous les mêmes et y'en a marre",
+      "translation": "They're all the same, all the same, all the same, and I'm fed up.",
+      "grammar": "The phrase \"y'en a marre\" is an idiomatic expression that translates to \"I'm fed up\". It's an informal way of saying you've had enough or are tired of something."
+    },
+    {
+      "time": 179.4765,
+      "text": "Tous les mêmes, tous les mêmes, tous les mêmes et y'en a marre",
+      "translation": "They're all the same, all the same, all the same, and I'm fed up.",
+      "grammar": "The phrase \"y'en a marre\" is an idiomatic expression in French, literally meaning \"there's enough\" but figuratively conveying being tired or fed up. It is often used to express frustration or boredom with a situation."
+    },
+    {
+      "time": 183.6655,
+      "text": "Tous les mêmes, tous les mêmes, tous les mêmes et y'en a marre",
+      "translation": "They're all the same, all the same, all the same, and I'm fed up.",
+      "grammar": "The phrase \"y'en a marre\" is an idiomatic expression meaning \"I'm fed up\", using the informal \"en\" instead of \"il y en a\" to indicate the speaker's personal experience."
+    },
+    {
+      "time": 188.17410000002386,
+      "text": "Tous les mêmes, tous les mêmes, tous les mêmes",
+      "translation": "All the same, all the same, all the same",
+      "grammar": "This idiom \"tous les mêmes\" is used to express indifference or lack of interest in a situation, and its repetition emphasizes this sentiment. The phrase functions as an interjection, conveying a sense of resignation or apathy."
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "id": "es_volando",
+  "title": "Volando",
+  "artist": "Remix — Mora feat. Bad Bunny & Sech",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_volando.mp3",
+  "duration": 273,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Yeh-yeh, yeh-yeh",
+      "translation": "Yeah-yeah, yeah-yeah",
+      "grammar": "This interjection \"yeh-yeh\" is an informal expression of agreement or confirmation, often used in spoken English to convey a sense of enthusiasm or familiarity."
+    },
+    {
+      "time": 2.09,
+      "text": "Yeh-eh; ey, ey",
+      "translation": "Yeah-eh; hey, hey",
+      "grammar": "This interjection \"Yeh-eh\" is an informal expression of agreement or confirmation in Spanish, often used in casual conversations."
+    },
+    {
+      "time": 4.181,
+      "text": "Disfruto el poder verte aunque no sea conmigo (oh-oh-oh), no, ey",
+      "translation": "I enjoy being able to see you even if it's not with me (oh-oh-oh), no, hey",
+      "grammar": "The use of the present tense \"disfruto\" emphasizes the speaker's ongoing enjoyment of seeing the person, while the conditional phrase \"aunque no sea conmigo\" indicates a hypothetical situation."
+    },
+    {
+      "time": 10.3,
+      "text": "Tengo que conformarme con ser solo tu amigo",
+      "translation": "I guess I'll have to settle for just being your friend",
+      "grammar": "The phrase \"tengo que\" is a way of expressing obligation or necessity in the present tense, similar to \"have to\" in English."
+    },
+    {
+      "time": 14.181,
+      "text": "Siempre pensando en tu nombre, vivo distraído",
+      "translation": "Always thinking of your name, I live distractedly",
+      "grammar": "The verb phrase \"pensando\" is in the present participle form, indicating ongoing action in the present tense."
+    },
+    {
+      "time": 17.614,
+      "text": "Por fin me enamoré y resulta que e'prohibido",
+      "translation": "I finally fell in love and it turns out it's forbidden",
+      "grammar": "The phrase \"por fin\" is an idiomatic expression meaning \"finally\" or \"at last\", indicating the speaker has reached a long-awaited emotional state."
+    },
+    {
+      "time": 21.942,
+      "text": "Má' adelante vive gente, pero no me he movido",
+      "translation": "People live further on, but I haven't moved.",
+      "grammar": "The use of \"adelante\" (further on) implies a sense of distance or progression, creating an idiomatic expression that conveys the idea of something being located ahead. The verb \"he movido\" is in the preterite tense, indicating that the speaker has not taken any action up until this point."
+    },
+    {
+      "time": 26.271,
+      "text": "Sigo estancao, siempre soñando contigo",
+      "translation": "I'm still stuck, always dreaming of you",
+      "grammar": "The verb \"sigo\" is in the present continuous tense, indicating a ongoing action or state, and \"siempre\" emphasizes the habitual nature of the dreaming."
+    },
+    {
+      "time": 28.809,
+      "text": "El DM explotao, pero la' dеjo en leído",
+      "translation": "The DM exploded, but I left it on read",
+      "grammar": "This line uses the idiomatic expression \"en leído\" to mean \"unanswered\" or \"left unread\", which is a common way to describe ignoring someone's message."
+    },
+    {
+      "time": 32.69,
+      "text": "Mi' letra' siеmpre tienen tu nombre y apellido",
+      "translation": "My lyrics always have your first and last name in them",
+      "grammar": "The phrase \"siempre tienen\" is in the present perfect tense, indicating that the action of having someone's name in the lyrics has been ongoing up to the present moment."
+    },
+    {
+      "time": 36.571,
+      "text": "Viviendo con mil pregunta', el lápi' sin punta",
+      "translation": "Living with a thousand questions, the pencil without a point",
+      "grammar": "The phrase \"con mil pregunta\" is an idiomatic expression meaning \"with many questions\", using the indefinite article \"mil\" instead of the expected \"muchos\". This construction emphasizes the abundance or multitude of questions."
+    },
+    {
+      "time": 40.452,
+      "text": "De todo lo que escribo, ma, tú tiene' la culpa",
+      "translation": "Of everything I write, ma, you're to blame",
+      "grammar": "The phrase \"tú tiene' la culpa\" is an idiomatic expression in Spanish, using the informal \"tú\" and the verb \"tener\" in the present tense, emphasizing the speaker's blame towards the listener."
+    },
+    {
+      "time": 45.228,
+      "text": "Llevo un año' pagando la misma multa",
+      "translation": "I've been paying the same fine for a year.",
+      "grammar": "The verb \"llevo\" is in the present perfect tense, indicating an action started in the past and continuing up to the moment of speaking."
+    },
+    {
+      "time": 48.661,
+      "text": "Tú ere' ese mal que no sé por qué me gusta",
+      "translation": "You are that evil that I don't know why I like",
+      "grammar": "This line uses the informal second-person singular pronoun \"tú\" and the verb \"ere'\" in the present tense, which is an idiomatic expression to emphasize a person's inherent nature."
+    },
+    {
+      "time": 53.885,
+      "text": "El no poder olvidarte me frustra",
+      "translation": "Not being able to forget you frustrates me.",
+      "grammar": "The verb phrase \"no poder\" is an idiomatic expression meaning \"to be unable to\" or \"it's impossible not to\". The sentence uses the present tense to convey a general truth about the speaker's emotional state."
+    },
+    {
+      "time": 56.87,
+      "text": "Te lo juro que me frustra",
+      "translation": "I swear it frustrates me",
+      "grammar": "This phrase uses the informal verb form \"te lo juro\" to express a strong emotional commitment, equivalent to saying \"I swear\" in English. The use of \"me frustra\" is an idiomatic expression meaning \"it frustrates me\", with the pronoun \"me\" agreeing with the subject \"it\"."
+    },
+    {
+      "time": 59.856,
+      "text": "Pero si me llamas le llego volando",
+      "translation": "But if you call me, I'll be there in a flash",
+      "grammar": "The phrase \"le llego\" is an idiomatic expression meaning \"I'll be there in a flash\", using the present continuous tense to convey sudden action."
+    },
+    {
+      "time": 63.289,
+      "text": "En la Mercedes voy capsuleando",
+      "translation": "I'm taking capsules in the Mercedes.",
+      "grammar": "The verb \"voy\" is used to indicate a habitual or continuous action, and \"capsuleando\" is an informal way of saying \"taking medication\"."
+    },
+    {
+      "time": 65.827,
+      "text": "Y cuando no está', te sigo imaginando",
+      "translation": "And when you're not here, I still imagine you",
+      "grammar": "The verb \"imaginar\" is in the present continuous tense, indicating a habitual or ongoing action. The phrase \"te sigo imaginando\" can be translated as \"I still imagine you\", using the idiomatic expression \"sigo\" to emphasize the persistence of the action."
+    },
+    {
+      "time": 69.261,
+      "text": "Y sin ropa en mi cama, mi nombre gritando",
+      "translation": "And naked in my bed, my name screaming",
+      "grammar": "The phrase \"mi nombre gritando\" is an idiomatic expression that uses the verb \"gritar\" (to scream) to convey strong emotions or intense passion, rather than literally screaming one's name. This usage is informal and colloquial, typical of spoken language in Spanish."
+    },
+    {
+      "time": 73.589,
+      "text": "Y si me llama' le llego volando",
+      "translation": "And if he calls me, I'll fly there.",
+      "grammar": "The use of \"le llego\" (I'll fly) in the present conditional tense (\"si me llama\") creates a sense of urgency and emphasizes the speaker's willingness to respond quickly. This idiomatic expression is a common way to convey enthusiasm and eagerness in Spanish."
+    },
+    {
+      "time": 77.022,
+      "text": "En la Mercede' voy capsuleando",
+      "translation": "In La Merced, I'm capsule-ing",
+      "grammar": "The use of \"voy\" (I'm) in the present continuous tense indicates ongoing action, while \"capsuleando\" is a playful verb form used to describe an activity. This idiom is informal and commonly used in Latin American Spanish to express enthusiasm or excitement about something."
+    },
+    {
+      "time": 79.561,
+      "text": "Y cuando no está', te sigo imaginando",
+      "translation": "And when you're not here, I still imagine you",
+      "grammar": "The verb \"imaginando\" is in the present continuous tense, indicating a habitual or ongoing action. This usage implies that the speaker's imagination of the person continues even when they are physically absent."
+    },
+    {
+      "time": 82.994,
+      "text": "Sin ropa en mi cama, mi nombre gritando, oh",
+      "translation": "Naked in my bed, my name screaming, oh",
+      "grammar": "The phrase \"mi nombre gritando\" is an idiomatic expression using the verb \"gritar\" (to scream) to convey strong emotions or emphasis, rather than literally shouting one's name."
+    },
+    {
+      "time": 87.322,
+      "text": "Voy volando aunque sufra de vértigo (ey)",
+      "translation": "I'm flying even though I suffer from vertigo (hey)",
+      "grammar": "The phrase \"voy volando\" is in the present continuous tense, emphasizing the ongoing action of flying despite the speaker's fear of vertigo. The use of \"volando\" instead of \"vuelo\" implies a sense of freedom and liberation."
+    },
+    {
+      "time": 90.756,
+      "text": "Y si me caigo no tengo un plan médico, oh-oh (oh-oh)",
+      "translation": "And if I fall, I don't have a medical plan, oh-oh (oh-oh)",
+      "grammar": "The use of the present tense \"tengo\" in this sentence implies that the speaker is making a general statement about their situation rather than describing a specific event."
+    },
+    {
+      "time": 96.875,
+      "text": "Con tu' senote' yo me siento en México (eh-ey)",
+      "translation": "With your senote I feel like I'm in Mexico (eh-ey)",
+      "grammar": "The use of \"senote\" is an idiomatic expression, equivalent to \"old friend\", emphasizing the speaker's affection and closeness with the person being addressed."
+    },
+    {
+      "time": 101.651,
+      "text": "Contigo el doctor me medicó, así que vente",
+      "translation": "The doctor prescribed medication for me with you, so come on over",
+      "grammar": "This line uses the present perfect tense (me medicó) to describe a completed action in the past, and the imperative mood (vente) to give a command. The phrase \"Contigo el doctor\" is an idiomatic expression meaning \"with you, the doctor\"."
+    },
+    {
+      "time": 105.532,
+      "text": "Olvida el pasado que el futuro lo tiene' de frente",
+      "translation": "Forget the past, the future is right in front of you.",
+      "grammar": "The phrase \"el futuro lo tiene de frente\" uses the present tense to convey a sense of immediacy and emphasis on the idea that the future is already present. The idiom \"tener algo de frente\" means to have something directly ahead or in one's path, adding to the overall message of moving forward from past experiences."
+    },
+    {
+      "time": 110.308,
+      "text": "En su ropa tiene un \"X 100PRE\"",
+      "translation": "His clothes have an \"X 100PRE\" on them",
+      "grammar": "This phrase uses the present perfect tense to describe a permanent condition, emphasizing that the \"X 100PRE\" logo is always visible on his clothes. The quotation marks around \"X 100PRE\" indicate it's a brand name or slogan."
+    },
+    {
+      "time": 113.741,
+      "text": "Pero yo le llego, solo dime (pero dime) que no me vaya",
+      "translation": "But I'll get there, just tell me (but tell me) not to leave",
+      "grammar": "The phrase \"le llego\" is an idiomatic expression meaning \"I'll get there\" or \"I'll arrive\", using the present tense of the verb \"llegar\" to convey a sense of determination and future action."
+    },
+    {
+      "time": 119.412,
+      "text": "Cuéntame si tiro la toalla o si la tiramos en la playa",
+      "translation": "Tell me if I should throw in the towel or if we should throw it in on the beach",
+      "grammar": "The phrase \"si tiro\" and \"si la tiramos\" are examples of conditional sentences, using the present tense to express a hypothetical situation. The speaker is asking for advice on what action to take, making this a polite request rather than a direct instruction."
+    },
+    {
+      "time": 125.084,
+      "text": "Baby, voy volando por si la señal me falla (ah-ah-ah)",
+      "translation": "Baby, I'm flying in case the signal fails me (ah-ah-ah)",
+      "grammar": "The use of \"voy\" instead of \"estoy\" or \"soy\" indicates the speaker is using the present continuous tense to express a hypothetical situation."
+    },
+    {
+      "time": 130.755,
+      "text": "Y si me llama' le llego volando",
+      "translation": "And if he calls me, I'll fly there.",
+      "grammar": "This line uses the present conditional to express a hypothetical situation and its consequence. The phrase \"le llego\" is an idiomatic expression meaning \"I'll go to him\" or \"I'll get to him\"."
+    },
+    {
+      "time": 134.188,
+      "text": "En la Mercede' voy capsuleando",
+      "translation": "In La Merced, I'm capsule-ing",
+      "grammar": "The use of \"voy\" instead of \"I'm\" indicates the speaker's intention or future plan, rather than their current action, making it a future tense construction. This is an idiomatic expression in Spanish, where \"voy\" is used to express willingness or intention to do something."
+    },
+    {
+      "time": 136.726,
+      "text": "Y cuando no está', te sigo imaginando",
+      "translation": "And when you're not here, I still imagine you",
+      "grammar": "The verb \"imaginar\" is in the present continuous tense, indicating a habitual or ongoing action. The phrase \"te sigo imaginando\" can be translated to \"I still keep on imagining you\", using the idiomatic expression \"sigo\" to convey the idea of persistence or continuity."
+    },
+    {
+      "time": 140.159,
+      "text": "Sin ropa en mi cama, mi nombre gritando, oh",
+      "translation": "Naked in my bed, my name screaming, oh",
+      "grammar": "The phrase \"mi nombre gritando\" is an idiomatic expression that uses the verb \"gritar\" (to scream) to emphasize the intensity of the speaker's emotions, rather than literally describing a situation where their name is shouting."
+    },
+    {
+      "time": 144.488,
+      "text": "Y si me llama' yo le caigo en el AMG",
+      "translation": "And if he calls me, I'll show up in the AMG.",
+      "grammar": "The phrase \"le caigo\" is an informal way of saying \"I'll show up\" or \"I'll be there\", using the verb \"caer\" in the subjunctive mood to express willingness."
+    },
+    {
+      "time": 149.264,
+      "text": "Baby, pa terminar lo que a mitad dejé",
+      "translation": "Baby, to finish what I left half-finished",
+      "grammar": "The phrase \"pa terminar\" is an idiomatic expression meaning \"to finish\" or \"in order to finish\", using the preposition \"pa\" (meaning \"for\" or \"to\") in a colloquial manner."
+    },
+    {
+      "time": 153.145,
+      "text": "En la cama hicimo' una serie, pero no PG",
+      "translation": "We had a series in bed, but not PG",
+      "grammar": "The phrase \"hicimos\" is in the preterite tense, indicating that the action of having a series took place in the past. The use of \"'a'\" instead of \"en la\" is an informal idiom common in spoken Spanish."
+    },
+    {
+      "time": 157.473,
+      "text": "Y aunque me alejé",
+      "translation": "And although I walked away",
+      "grammar": "The phrase \"y aunque\" is an idiomatic expression used to indicate a contrast or exception, similar to \"and yet\" in English. The verb \"alejé\" is in the preterite tense, indicating completed action in the past."
+    },
+    {
+      "time": 159.564,
+      "text": "Sigo viendo tu cara cuando a otra se lo pongo",
+      "translation": "I still see your face when I put it on someone else.",
+      "grammar": "The use of \"sigo\" (still) indicates the present perfect tense, emphasizing the ongoing nature of the speaker's habit. The phrase \"cuando a otra se lo pongo\" is an idiomatic expression meaning \"when I'm with someone else\"."
+    },
+    {
+      "time": 164.34,
+      "text": "Si todavía tengo tu wallpaper de fondo",
+      "translation": "I still have your background wallpaper",
+      "grammar": "The phrase \"tengo\" is in the present perfect tense, indicating that the speaker has had the wallpaper for some time. The use of \"tengo\" instead of \"he tenido\" (I had) emphasizes the ongoing nature of possessing the wallpaper."
+    },
+    {
+      "time": 167.773,
+      "text": "Ando sin salvavida' nadando en lo hondo",
+      "translation": "I'm swimming in the deep without a life preserver",
+      "grammar": "The phrase \"Ando sin salvavida\" is an idiomatic expression that combines the present continuous tense (ando) with the idea of being without a safety net or support, emphasizing the speaker's sense of vulnerability."
+    },
+    {
+      "time": 171.207,
+      "text": "Yo siento tus látido' aunque me quede sordo",
+      "translation": "I feel your heartbeat even if I go deaf",
+      "grammar": "The phrase \"yo siento\" is an idiomatic expression, equivalent to \"I can sense\" or \"I intuitively know\", using the present tense to convey a general feeling rather than a specific action."
+    },
+    {
+      "time": 175.087,
+      "text": "Y dime tú cómo e'que se sana este dolor",
+      "translation": "And tell me, how is this pain healed?",
+      "grammar": "The phrase \"¿Cómo e'que?\" is an idiomatic expression used to ask for a detailed explanation or solution, with the verb \"ser\" implied in the sentence. The use of \"¿Cómo?\" (how) and \"e'que\" (what) together creates a rhetorical question that encourages the listener to share their thoughts on how to heal the pain."
+    },
+    {
+      "time": 179.864,
+      "text": "Si ya lavé la' sábana', pero siguen con tu olor",
+      "translation": "I already washed the sheets, but they still smell like you.",
+      "grammar": "The verb \"saben\" is in the present tense and implies a habitual or continuous action, conveying that despite efforts to remove the scent, it persists. The phrase \"con tu olor\" uses the possessive pronoun \"tu\" to emphasize the strong association with the person's smell."
+    },
+    {
+      "time": 184.64,
+      "text": "Y yo solo pido sentir de nuevo tu calor",
+      "translation": "And all I ask is to feel your warmth again.",
+      "grammar": "The phrase \"sentir de nuevo\" is an idiomatic expression that conveys a strong desire or longing, using the present perfect tense to emphasize the intensity of the feeling."
+    },
+    {
+      "time": 188.968,
+      "text": "Ya probé una' cuanta', pero extraño tu sabor (yeh-yeh-yeh-yeh; ey)",
+      "translation": "I already tried a few, but I miss your taste (yeah-yeah-yeah-yeah; hey)",
+      "grammar": "The phrase \"ya probé\" is an informal way of saying \"I already tried\", using the imperfect tense to convey a sense of completion. The particle \"una' cuanta'\" is an idiomatic expression meaning \"a few\"."
+    },
+    {
+      "time": 195.087,
+      "text": "Si tú me llama', yo le llego má' rápido que Emergencia'",
+      "translation": "If you call me, I'll get there faster than Emergency Services.",
+      "grammar": "This line uses the present tense to express a hypothetical situation and the speaker's willingness to respond quickly. The phrase \"llama'\" is an informal way of saying \"call\" in Spanish, often used with friends or acquaintances."
+    },
+    {
+      "time": 200.311,
+      "text": "Pa ti no hay competencia",
+      "translation": "There's no competition for you.",
+      "grammar": "The phrase \"pa ti\" is an idiomatic expression used to emphasize that something belongs or is intended specifically for the person being addressed, conveying a sense of exclusivity."
+    },
+    {
+      "time": 202.849,
+      "text": "Cuando tú llegas se siente la diferencia",
+      "translation": "When you arrive, you can feel the difference.",
+      "grammar": "The phrase \"Cuando tú llegas\" is an idiomatic expression that uses the present tense to convey a future action, typical of Spanish. The use of \"tú\" instead of \"usted\" shows informal familiarity with the speaker."
+    },
+    {
+      "time": 206.282,
+      "text": "¿Será una maldición o coincidencia?",
+      "translation": "Is it a curse or a coincidence?",
+      "grammar": "The sentence uses the present subjunctive mood (\"será\") to express uncertainty and possibility, typical in rhetorical questions."
+    },
+    {
+      "time": 208.82,
+      "text": "Con ese culote y esa carita",
+      "translation": "With that cute little ass and that face",
+      "grammar": "The phrase \"ese\" is an informal adjective used to emphasize the speaker's affection, equivalent to saying \"that cute one\" or \"that adorable\"."
+    },
+    {
+      "time": 211.806,
+      "text": "Tú ere' la mami favorita",
+      "translation": "You're the favorite mommy",
+      "grammar": "The phrase \"ere' la\" is an idiomatic expression used to emphasize possession or belonging, equivalent to \"you are the one I love\" or \"you belong to me\". The use of \"tú\" instead of \"vos\" in this context indicates a familiar and affectionate tone."
+    },
+    {
+      "time": 214.344,
+      "text": "Si estuviésemo' en kínder te enviaba cartita'",
+      "translation": "If we were in kindergarten I would send you a little letter",
+      "grammar": "This line uses the conditional tense to express hypothetical situations, and the phrase \"si estuviésemo'\" is an informal way of saying \"if we were\" in the plural form, which is not commonly used in formal writing or speaking."
+    },
+    {
+      "time": 217.777,
+      "text": "Llevo to el día en la playa pa ver si se me quita",
+      "translation": "I've been at the beach all day to see if it will go away.",
+      "grammar": "The phrase \"llevo to\" is an idiomatic expression equivalent to \"have been doing something since morning\", using the present perfect tense to convey the idea of an action started in the past and continuing up to the moment of speaking."
+    },
+    {
+      "time": 223.896,
+      "text": "La' estrella' te ven y piden un deseo",
+      "translation": "The 'star' sees you and makes a wish",
+      "grammar": "This line uses the present tense to express a timeless or universal truth, rather than describing a specific event. The phrase \"la estrella te ve\" is an idiomatic expression meaning \"the star notices you\"."
+    },
+    {
+      "time": 227.777,
+      "text": "Baby, tú tiene' algo que yo solo veo",
+      "translation": "Baby, you have something that only I see",
+      "grammar": "The use of \"tú\" instead of \"yo\" in the phrase \"tú tiene' algo\" is an example of a rhetorical device called \"apostrophe,\" where the speaker addresses someone else while still referring to themselves. This construction emphasizes the uniqueness of the speaker's perspective and creates a sense of intimacy with the listener."
+    },
+    {
+      "time": 231.658,
+      "text": "Ya no quiero má' premio', no quiero má' trofeo'",
+      "translation": "I don't want any more prizes, I don't want any more trophies",
+      "grammar": "The use of \"ya\" in \"Ya no quiero\" is an informal way to express the present tense, equivalent to saying \"I don't want\" in English. This phrase is a common idiom in Spanish, used to convey a sense of tiredness or frustration."
+    },
+    {
+      "time": 235.986,
+      "text": "Yo lo único que pido e'mañana verte de nuevo, ey",
+      "translation": "All I ask is to see you again tomorrow, hey",
+      "grammar": "The phrase \"e'mañana\" is an informal way of saying \"tomorrow\", often used in spoken language, and the \"ey\" at the end is a casual interjection similar to \"hey\"."
+    },
+    {
+      "time": 241.21,
+      "text": "Aunque sea con él, el cielo en el infierno, nadie va a entender",
+      "translation": "Even with him, heaven in hell, nobody will understand",
+      "grammar": "This idiomatic expression uses the subjunctive mood to convey strong negation and emphasizes the impossibility of understanding. The phrase \"nadie va a entender\" is equivalent to \"no one will ever be able to understand\"."
+    },
+    {
+      "time": 247.329,
+      "text": "Huyendo'e lo que siento, me cansé de correr",
+      "translation": "Running away from what I feel, I got tired of running",
+      "grammar": "The phrase \"me cansé\" is an idiomatic expression that translates to \"I got tired\". It's a colloquial way to express exhaustion in the present perfect tense."
+    },
+    {
+      "time": 251.658,
+      "text": "En mis ojos se nota, no lo puedo esconder",
+      "translation": "It shows in my eyes, I can't hide it",
+      "grammar": "The verb \"notar\" is in the present tense and implies a habitual or continuous action, suggesting that the speaker's emotions are consistently evident on their face. The phrase \"no lo puedo esconder\" uses the idiomatic expression \"poder\" to emphasize inability rather than ability."
+    },
+    {
+      "time": 255.986,
+      "text": "Que si tú me llama' le llego volando",
+      "translation": "If you call me, I'll fly there.",
+      "grammar": "This line uses the present conditional to express a hypothetical situation and its consequence. The idiom \"le llego\" is an informal way of saying \"I'll get there\" or \"I'll arrive\"."
+    },
+    {
+      "time": 259.867,
+      "text": "A la hora que tú diga', no importa dónde y cuándo",
+      "translation": "'Whenever you say,' no matter where or when",
+      "grammar": "This line uses the present tense to express a general truth, and the phrase \"no importa\" is an idiom meaning \"it doesn't matter\"."
+    },
+    {
+      "time": 265.091,
+      "text": "Y cuándo no está' te sigo imaginando",
+      "translation": "And when you're not here, I still imagine you",
+      "grammar": "The verb \"sigo\" is in the present continuous tense, indicating a habitual or ongoing action, and the phrase \"te sigo imaginando\" can be translated as \"I still keep imagining you\"."
+    },
+    {
+      "time": 268.524,
+      "text": "Tu alma con la mía, la' do' junta' vibrando, ey",
+      "translation": "Your soul with mine, both together vibrating, hey",
+      "grammar": "The phrase \"la' do' junta'\" is an idiomatic expression that combines the verb \"juntar\" (to join) with the particle \"do'\" to convey a sense of unity and harmony between two entities."
+    }
+  ]
+}

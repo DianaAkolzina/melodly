@@ -1,0 +1,481 @@
+{
+  "id": "es_despacito",
+  "title": "Despacito",
+  "artist": "Luis Fonsi ft. Daddy Yankee",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_despacito.mp3",
+  "duration": 260,
+  "licensing_note": "User-provided full lyrics (Spanish).",
+  "lines": [
+    {
+      "time": 8.2,
+      "text": "¡Ay!",
+      "translation": "Ay!",
+      "grammar": "Interjection expressing excitement/surprise; discourse opener."
+    },
+    {
+      "time": 20.99,
+      "text": "Fonsi, DY",
+      "translation": "Fonsi, DY",
+      "grammar": "Artist tags; proper nouns (Luis Fonsi, Daddy Yankee)."
+    },
+    {
+      "time": 46.43,
+      "text": "Oh, oh no, oh no (oh)",
+      "translation": "Oh, oh no, oh no (oh)",
+      "grammar": "Onomatopoeic fillers; phatic function before verse."
+    },
+    {
+      "time": 48.03,
+      "text": "Hey yeah",
+      "translation": "Hey yeah",
+      "grammar": "Phatic discourse marker; no propositional content."
+    },
+    {
+      "time": 48.03,
+      "text": "Diridiri, dirididi Daddy",
+      "translation": "Diridiri, dirididi Daddy",
+      "grammar": "Scat-like filler + nickname 'Daddy' (Daddy Yankee)."
+    },
+    {
+      "time": 48.03,
+      "text": "Go!",
+      "translation": "Go!",
+      "grammar": "Imperative/exhortation launching the verse."
+    },
+    {
+      "time": 48.03,
+      "text": "Sí, sabes que ya llevo un rato mirándote",
+      "translation": "Yes, you know I've already been watching you for a while",
+      "grammar": "Periphrasis 'llevar + gerundio' indicates duration; pronoun enclisis 'mirándote'."
+    },
+    {
+      "time": 48.03,
+      "text": "Tengo que bailar contigo hoy (DY)",
+      "translation": "I have to dance with you today (DY)",
+      "grammar": "Obligation with 'tener que' + infinitive; complement 'contigo' (with you)."
+    },
+    {
+      "time": 48.03,
+      "text": "Vi que tu mirada ya estaba llamándome",
+      "translation": "I saw that your look was already calling me",
+      "grammar": "Pretérito perfecto simple 'vi' + imperfect progressive 'estaba llamándome'; enclitic pronoun order."
+    },
+    {
+      "time": 48.03,
+      "text": "Muéstrame el camino que yo voy",
+      "translation": "Show me the way and I'll go",
+      "grammar": "Affirmative imperative 'muéstrame' with enclitic 'me'; coordinated result clause with ellipsis of verb in second clause."
+    },
+    {
+      "time": 48.03,
+      "text": "Oh, tú, tú eres el imán y yo soy el metal",
+      "translation": "Oh, you, you are the magnet and I am the metal",
+      "grammar": "Copular 'ser' for identity; metaphorical mapping 'imán/metal'."
+    },
+    {
+      "time": 48.03,
+      "text": "Me voy acercando y voy armando el plan",
+      "translation": "I'm getting closer and I'm putting together the plan",
+      "grammar": "Progressive of gradualness 'ir + gerundio' twice; pronominal 'acercarse'."
+    },
+    {
+      "time": 48.03,
+      "text": "Solo con pensarlo se acelera el pulso (oh yeah)",
+      "translation": "Just by thinking about it the pulse speeds up (oh yeah)",
+      "grammar": "Prepositional phrase 'con + infinitivo' expresses condition; impersonal 'se' + 3rd singular verb."
+    },
+    {
+      "time": 48.03,
+      "text": "Ya, ya me estás gustando más de lo normal",
+      "translation": "Already, you're pleasing me more than usual",
+      "grammar": "Reduplicated 'ya' for emphasis; verb 'gustar' with indirect object 'me'."
+    },
+    {
+      "time": 48.03,
+      "text": "Todos mis sentidos van pidiendo más",
+      "translation": "All my senses are asking for more",
+      "grammar": "Locution 'ir + gerundio' (van pidiendo) for progression; plural subject agreement."
+    },
+    {
+      "time": 48.03,
+      "text": "Esto hay que tomarlo sin ningún apuro",
+      "translation": "This we have to take without any rush",
+      "grammar": "Impersonal obligation 'hay que' + infinitive; negative polarity item 'ningún'."
+    },
+    {
+      "time": 48.03,
+      "text": "Despacito",
+      "translation": "Slowly",
+      "grammar": "Adverb functioning as refrain key word."
+    },
+    {
+      "time": 48.03,
+      "text": "Quiero respirar tu cuello despacito",
+      "translation": "I want to breathe in your neck slowly",
+      "grammar": "Verb 'querer' + infinitive; direct object 'tu cuello'; adverb postposed."
+    },
+    {
+      "time": 48.03,
+      "text": "Deja que te diga cosas al oído",
+      "translation": "Let me whisper things in your ear",
+      "grammar": "Periphrasis 'dejar que' + subjunctive ('diga'); indirect object 'te'; 'al' = a + el."
+    },
+    {
+      "time": 48.03,
+      "text": "Para que te acuerdes si no estás conmigo",
+      "translation": "So that you remember if you aren't with me",
+      "grammar": "Final clause 'para que' + present subjunctive 'te acuerdes'; conditional 'si'."
+    },
+    {
+      "time": 48.03,
+      "text": "Despacito",
+      "translation": "Slowly",
+      "grammar": "Refrain return; thematic adverb."
+    },
+    {
+      "time": 48.03,
+      "text": "Quiero desnudarte a besos despacito",
+      "translation": "I want to undress you with kisses, slowly",
+      "grammar": "Enclitic DO 'te'; instrumental phrase 'a besos' (with kisses)."
+    },
+    {
+      "time": 48.03,
+      "text": "Firmar las paredes de tu laberinto",
+      "translation": "To sign the walls of your labyrinth",
+      "grammar": "Metaphorical DO 'las paredes'; possessive 'tu'."
+    },
+    {
+      "time": 48.03,
+      "text": "Y hacer de tu cuerpo todo un manuscrito (sube, sube, sube)",
+      "translation": "And make your body into a whole manuscript (go up, up, up)",
+      "grammar": "Causative 'hacer de X Y' (turn X into Y); parenthetical exhortation 'sube'."
+    },
+    {
+      "time": 48.03,
+      "text": "(Sube, sube) Oh",
+      "translation": "(Go up, go up) Oh",
+      "grammar": "Parenthetical chant; interjection."
+    },
+    {
+      "time": 48.03,
+      "text": "Quiero ver bailar tu pelo",
+      "translation": "I want to see your hair dance",
+      "grammar": "Perception verb + infinitive 'ver bailar'; subject of infinitive is 'tu pelo'."
+    },
+    {
+      "time": 48.03,
+      "text": "Quiero ser tu ritmo (uh oh, uh oh)",
+      "translation": "I want to be your rhythm (uh oh, uh oh)",
+      "grammar": "Copular 'ser' expressing metaphorical identity."
+    },
+    {
+      "time": 48.03,
+      "text": "Que le enseñes a mi boca (uh oh, uh oh)",
+      "translation": "So that you teach my mouth (uh oh, uh oh)",
+      "grammar": "Subordinate of desire with 'que' + present subjunctive 'enseñes'; indirect object clitic 'le' (a mi boca)."
+    },
+    {
+      "time": 48.03,
+      "text": "Tus lugares favoritos (favoritos, favoritos baby)",
+      "translation": "Your favorite places (favorite, favorite baby)",
+      "grammar": "Possessive 'tus'; apposition/repetition for emphasis."
+    },
+    {
+      "time": 48.03,
+      "text": "Déjame sobrepasar tus zonas de peligro (uh oh, uh oh)",
+      "translation": "Let me go past your danger zones (uh oh, uh oh)",
+      "grammar": "Imperative 'déjame' + infinitive; DO 'tus zonas'; preposition 'de' for 'of'."
+    },
+    {
+      "time": 48.03,
+      "text": "Hasta provocar tus gritos (uh oh, uh oh)",
+      "translation": "Until provoking your screams (uh oh, uh oh)",
+      "grammar": "Preposition 'hasta' + infinitive signals intended endpoint/result."
+    },
+    {
+      "time": 48.03,
+      "text": "Y que olvides tu apellido (dirididi Daddy)",
+      "translation": "And that you forget your surname (dirididi Daddy)",
+      "grammar": "Desired outcome with 'que' + present subjunctive 'olvides'."
+    },
+    {
+      "time": 48.03,
+      "text": "Yo sé que estás pensándolo (eh)",
+      "translation": "I know that you're thinking about it (eh)",
+      "grammar": "Perception/cognition 'sé que' + present progressive; enclitic 'lo'."
+    },
+    {
+      "time": 48.03,
+      "text": "Llevo tiempo intentándolo (eh)",
+      "translation": "I've been trying for a while (eh)",
+      "grammar": "Duration 'llevar + gerundio'; enclitic 'lo'."
+    },
+    {
+      "time": 48.03,
+      "text": "Mami, esto es dando y dándolo",
+      "translation": "Baby, this is about giving and giving it",
+      "grammar": "Colloquial idiom; gerund nominalization; enclitic DO 'lo'."
+    },
+    {
+      "time": 48.03,
+      "text": "Sabes que tu corazón conmigo te hace bam bam",
+      "translation": "You know that with me your heart goes bam bam",
+      "grammar": "'hacer' + onomatopoeia; dative of interest 'me/te'."
+    },
+    {
+      "time": 48.03,
+      "text": "Sabe que esa beba 'tá buscando de mi bam bam",
+      "translation": "Know that that babe is looking from me for bam bam",
+      "grammar": "Elision ''tá' for 'está'; preposition 'de' in Caribbean usage 'buscar de'."
+    },
+    {
+      "time": 48.03,
+      "text": "Ven prueba de mi boca para ver cómo te sabe",
+      "translation": "Come taste from my mouth to see how it tastes to you",
+      "grammar": "Chain of imperatives 'ven, prueba'; 'para ver' expresses purpose; 'saber' as 'to taste'."
+    },
+    {
+      "time": 48.03,
+      "text": "Quiero, quiero, quiero ver cuánto amor a ti te cabe",
+      "translation": "I want, want, want to see how much love fits in you",
+      "grammar": "Reduplication for emphasis; 'caber' with dative 'a ti te' indicates capacity."
+    },
+    {
+      "time": 48.03,
+      "text": "Yo no tengo prisa, yo me quiero dar el viaje",
+      "translation": "I'm not in a hurry, I want to take the trip",
+      "grammar": "Negation with 'no'; pronominal 'darse el viaje' idiomatic for 'treat oneself to the trip'."
+    },
+    {
+      "time": 48.03,
+      "text": "Empezamo' lento, después salvaje",
+      "translation": "We start slow, then wild",
+      "grammar": "Apocope 'Empezamo'' for 'Empezamos'; adverbs functioning adverbially 'lento/salvaje'."
+    },
+    {
+      "time": 48.03,
+      "text": "Pasito a pasito, suave suavecito",
+      "translation": "Step by step, soft and gently",
+      "grammar": "Diminutives '-ito' for affection/intensity; parallel structure."
+    },
+    {
+      "time": 48.03,
+      "text": "Nos vamos pegando poquito a poquito",
+      "translation": "We keep getting closer little by little",
+      "grammar": "'Irse + gerundio' progressive; pronominal 'pegarse' (to stick/press)."
+    },
+    {
+      "time": 48.03,
+      "text": "Cuando tú me besas con esa destreza",
+      "translation": "When you kiss me with that skill",
+      "grammar": "Temporal 'cuando' + present; DO 'me'; abstract noun 'destreza'."
+    },
+    {
+      "time": 48.03,
+      "text": "Veo que eres malicia con delicadeza",
+      "translation": "I see that you are mischief with delicacy",
+      "grammar": "'ver que' + copular 'ser'; antithesis 'malicia/delicadeza'."
+    },
+    {
+      "time": 48.03,
+      "text": "Pasito a pasito, suave suavecito",
+      "translation": "Step by step, soft and gently",
+      "grammar": "Refrain repetition; diminutives again for tone."
+    },
+    {
+      "time": 48.03,
+      "text": "Nos vamos pegando, poquito a poquito (oh oh)",
+      "translation": "We keep getting closer, little by little (oh oh)",
+      "grammar": "Progressive with pronominal verb; parenthetical interjection."
+    },
+    {
+      "time": 48.03,
+      "text": "Y es que esa belleza es un rompecabezas (oh no)",
+      "translation": "And it's that beauty is a puzzle (oh no)",
+      "grammar": "Explanatory 'es que'; metaphor 'rompecabezas'."
+    },
+    {
+      "time": 48.03,
+      "text": "Pero pa' montarlo aquí tengo la pieza (slow, oh yeah)",
+      "translation": "But to assemble it I've got the piece right here (slow, oh yeah)",
+      "grammar": "'pa'' = 'para' (colloquial); DO pronoun omitted; deictic 'aquí'."
+    },
+    {
+      "time": 48.03,
+      "text": "Despacito (yeh, yo)",
+      "translation": "Slowly (yeah, me)",
+      "grammar": "Refrain tag; vocative ad-lib."
+    },
+    {
+      "time": 48.03,
+      "text": "Quiero respirar tu cuello despacito (yo)",
+      "translation": "I want to breathe in your neck slowly (me)",
+      "grammar": "Refrain line with ad-lib 'yo'."
+    },
+    {
+      "time": 48.03,
+      "text": "Deja que te diga cosas al oído (yo)",
+      "translation": "Let me whisper things in your ear (me)",
+      "grammar": "'Dejar que' + subjunctive 'diga'; clitic 'te'."
+    },
+    {
+      "time": 48.03,
+      "text": "Para que te acuerdes si no estás conmigo",
+      "translation": "So that you remember if you're not with me",
+      "grammar": "'Para que' + subjunctive again; conditional 'si'."
+    },
+    {
+      "time": 48.03,
+      "text": "Despacito",
+      "translation": "Slowly",
+      "grammar": "Key adverb; refrain."
+    },
+    {
+      "time": 48.03,
+      "text": "Quiero desnudarte a besos despacito (yeh)",
+      "translation": "I want to undress you with kisses, slowly (yeah)",
+      "grammar": "Enclitic pronoun 'te'; instrumental 'a besos'."
+    },
+    {
+      "time": 48.03,
+      "text": "Firmar las paredes de tu laberinto",
+      "translation": "Sign the walls of your labyrinth",
+      "grammar": "Metaphor of exploration/intimacy; DO plural 'paredes'."
+    },
+    {
+      "time": 48.03,
+      "text": "Y hacer de tu cuerpo todo un manuscrito (sube, sube, sube)",
+      "translation": "And make your body into a whole manuscript (go up, up, up)",
+      "grammar": "Causative 'hacer de'; parenthetical chant."
+    },
+    {
+      "time": 48.03,
+      "text": "(Sube, sube) Oh",
+      "translation": "(Go up, go up) Oh",
+      "grammar": "Interjection braces the drop."
+    },
+    {
+      "time": 48.03,
+      "text": "Quiero ver bailar tu pelo",
+      "translation": "I want to see your hair dance",
+      "grammar": "Perception + infinitive; subject of infinitive 'tu pelo'."
+    },
+    {
+      "time": 48.03,
+      "text": "Quiero ser tu ritmo (uh oh, uh oh)",
+      "translation": "I want to be your rhythm (uh oh, uh oh)",
+      "grammar": "Copular identity metaphor."
+    },
+    {
+      "time": 48.03,
+      "text": "Que le enseñes a mi boca (uh oh, uh oh)",
+      "translation": "So that you teach my mouth (uh oh, uh oh)",
+      "grammar": "'Que' + subjunctive 'enseñes'; indirect object 'le'."
+    },
+    {
+      "time": 48.03,
+      "text": "Tus lugares favoritos (favoritos, favoritos baby)",
+      "translation": "Your favorite places (favorite, favorite baby)",
+      "grammar": "Possessive; reduplication for emphasis/addressee focus."
+    },
+    {
+      "time": 48.03,
+      "text": "Déjame sobrepasar tus zonas de peligro (uh oh, uh oh)",
+      "translation": "Let me go beyond your danger zones (uh oh, uh oh)",
+      "grammar": "Imperative with enclitic; DO with possessive 'tus'."
+    },
+    {
+      "time": 48.03,
+      "text": "Hasta provocar tus gritos (uh oh, uh oh)",
+      "translation": "Until provoking your screams (uh oh, uh oh)",
+      "grammar": "Result with 'hasta' + infinitive; DO 'tus gritos'."
+    },
+    {
+      "time": 48.03,
+      "text": "Y que olvides tu apellido",
+      "translation": "And that you forget your surname",
+      "grammar": "Desired outcome with 'que' + subjunctive 'olvides'."
+    },
+    {
+      "time": 48.03,
+      "text": "Despacito",
+      "translation": "Slowly",
+      "grammar": "Refrain anchor before bridge."
+    },
+    {
+      "time": 48.03,
+      "text": "Vamo' a hacerlo en una playa en Puerto Rico",
+      "translation": "Let's do it on a beach in Puerto Rico",
+      "grammar": "Apocope 'Vamo'' for 'Vamos'; periphrasis 'ir a' + infinitive as let's-form; locative complement."
+    },
+    {
+      "time": 48.03,
+      "text": "Hasta que las olas griten \"Ay, bendito\"",
+      "translation": "Until the waves shout 'Oh, blessed'",
+      "grammar": "'Hasta que' + present subjunctive 'griten' (anticipated event); quotation marked interjection."
+    },
+    {
+      "time": 48.03,
+      "text": "Para que mi sello se quede contigo (báilalo)",
+      "translation": "So that my mark stays with you (dance it)",
+      "grammar": "Final 'para que' + subjunctive 'se quede'; pronominal 'quedarse'."
+    },
+    {
+      "time": 48.03,
+      "text": "Pasito a pasito, suave suavecito (hey yeah, yeah)",
+      "translation": "Step by step, soft and gently (hey yeah, yeah)",
+      "grammar": "Diminutives; ad-libs in parenthesis."
+    },
+    {
+      "time": 48.03,
+      "text": "Nos vamos pegando, poquito a poquito (oh no)",
+      "translation": "We keep getting closer, little by little (oh no)",
+      "grammar": "'Irse + gerundio' progressive; pronominal 'pegarnos'."
+    },
+    {
+      "time": 48.03,
+      "text": "Que le enseñes a mi boca (uh oh, uh oh)",
+      "translation": "That you teach my mouth (uh oh, uh oh)",
+      "grammar": "Desired clause with 'que' + subjunctive 'enseñes'."
+    },
+    {
+      "time": 48.03,
+      "text": "Tus lugares favoritos (favoritos, favoritos baby)",
+      "translation": "Your favorite places (favorite, favorite baby)",
+      "grammar": "Refrain object repetition; vocative 'baby'."
+    },
+    {
+      "time": 48.03,
+      "text": "Pasito a pasito, suave suavecito",
+      "translation": "Step by step, soft and gently",
+      "grammar": "Refrain formula; diminutives signal tenderness."
+    },
+    {
+      "time": 48.03,
+      "text": "Nos vamos pegando, poquito a poquito",
+      "translation": "We keep getting closer, little by little",
+      "grammar": "Progressive action via 'ir + gerundio'."
+    },
+    {
+      "time": 48.03,
+      "text": "Hasta provocar tus gritos (eh-oh) (Fonsi)",
+      "translation": "Until provoking your screams (eh-oh) (Fonsi)",
+      "grammar": "Result clause with 'hasta' + infinitive; credit tag in parentheses."
+    },
+    {
+      "time": 48.03,
+      "text": "Y que olvides tu apellido (DY)",
+      "translation": "And that you forget your surname (DY)",
+      "grammar": "Desired outcome; artist tag."
+    },
+    {
+      "time": 48.03,
+      "text": "Despacito",
+      "translation": "Slowly",
+      "grammar": "Final cadence with title hook."
+    }
+  ]
+}

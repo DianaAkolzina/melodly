@@ -1,0 +1,109 @@
+{
+  "id": "gd_noble_maiden_fair_a_mhaighdean_bhan_uasal",
+  "title": "Noble Maiden Fair [A Mhaighdean Bhan Uasal]",
+  "artist": "Emma Thompson feat. Peigi Barker",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "gd",
+  "to_language": "en",
+  "audio": "/audio/gd_noble_maiden_fair_a_mhaighdean_bhan_uasal.mp3",
+  "duration": 156,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "A naoidhean bhig, cluinn mo ghuth",
+      "translation": "Little babies, hear my voice.",
+      "grammar": "The phrase \"A naoidhean bhig\" is an idiomatic expression that uses the plural form of \"naoidhean\" (baby) to convey a sense of intimacy and inclusivity, similar to saying \"little ones\". The verb \"cluinn\" is in the imperative mood, making it a command or request."
+    },
+    {
+      "time": 9.98,
+      "text": "Mise ri d'thaobh, Ó mhaighdean bhàn",
+      "translation": "I am by your side, O fair maiden.",
+      "grammar": "The phrase \"Mise ri\" is an idiomatic expression in Irish Gaelic, equivalent to the English phrase \"I am by\". It uses the first person singular pronoun \"mise\" and the prepositional particle \"ri\" to convey a sense of proximity."
+    },
+    {
+      "time": 21.536,
+      "text": "Ar rìbhinn òg, fàs a's faic",
+      "translation": "Our young queen, grow and see.",
+      "grammar": "The phrase \"fàs a's faic\" is an idiomatic expression in Gaelic, equivalent to the English idiom \"grow and learn\". The verb \"fàs\" is in the imperative mood, indicating a command or suggestion."
+    },
+    {
+      "time": 33.092,
+      "text": "Do thìr, dìleas fhéin",
+      "translation": "To your country, loyal to yourself",
+      "grammar": "The phrase \"dìleas fhéin\" is an idiomatic expression meaning \"loyal to oneself\", using the reflexive pronoun \"fhéin\" to emphasize self-loyalty."
+    },
+    {
+      "time": 39.918,
+      "text": "A ghrian a's a ghealach, stiùir sinn",
+      "translation": "Sun and moon, guide us",
+      "grammar": "This line uses the present tense to express a timeless truth, with the verb \"stiùir\" (guide) in the imperative mood, addressing the listener directly. The phrase \"a ghrian a's a ghealach\" is an idiomatic expression meaning \"sun and moon\", where the possessive pronoun \"a's\" indicates a connection between the two celestial bodies."
+    },
+    {
+      "time": 53.051,
+      "text": "Gu uair ar cliù's ar glòir",
+      "translation": "To the hour of our fame and glory",
+      "grammar": "The phrase \"uair\" is a preposition indicating time, equivalent to \"until\" or \"up to\". It is used with the verb \"ar\" in the idiomatic expression \"gu uair ar\", meaning \"to the point when\" or \"up to the moment when\"."
+    },
+    {
+      "time": 64.607,
+      "text": "Naoidhean bhig, ar rìbhinn òg",
+      "translation": "Little babies, our young queen",
+      "grammar": "The phrase \"Naoidhean bhig\" uses the possessive adjective \"bhit\" to indicate possession in the present tense, emphasizing the speaker's connection to the \"little babies\"."
+    },
+    {
+      "time": 73.01,
+      "text": "Mhaighdean uasal bhàn",
+      "translation": "A fair-haired maiden",
+      "grammar": "The phrase \"Mhaighdean uasal bhàn\" is in the nominative case, with the adjective \"uasal\" agreeing with the noun \"mhaighdean\". The use of \"bhàn\" to describe hair color is an idiomatic expression."
+    },
+    {
+      "time": 78.26,
+      "text": "A naoidhean bhig, cluinn mo ghuth",
+      "translation": "Little babies, hear my voice.",
+      "grammar": "The phrase \"A naoidhean bhig\" is an idiomatic expression in Gaelic, using the vocative case to address a group of people (little babies), with no direct English translation."
+    },
+    {
+      "time": 88.24,
+      "text": "Mise ri d'thaobh, Ó mhaighdean bhàn",
+      "translation": "I am by your side, O fair maiden.",
+      "grammar": "The lyric uses the present continuous tense to convey a sense of being in a moment with the beloved, emphasizing the intimacy and immediacy of their connection."
+    },
+    {
+      "time": 99.796,
+      "text": "Ar rìbhinn òg, fàs a's faic",
+      "translation": "Our young queen, grow and see.",
+      "grammar": "The phrase \"fàs a's faic\" is an idiomatic expression in Gaelic, using the imperative mood to convey encouragement or exhortation, similar to \"grow and see\" in English."
+    },
+    {
+      "time": 111.352,
+      "text": "Do thìr, dìleas fhéin",
+      "translation": "To your country, loyal to yourself",
+      "grammar": "The phrase \"dìleas fhéin\" is an idiomatic expression meaning \"loyal to oneself\", emphasizing the importance of staying true to one's own values and principles."
+    },
+    {
+      "time": 118.178,
+      "text": "A ghrian a's a ghealach, stiùir sinn",
+      "translation": "Sun and moon, guide us",
+      "grammar": "The phrase \"stiùir sinn\" is in the imperative mood, using the first person plural pronoun \"sinn\" to mean \"let us be guided\"."
+    },
+    {
+      "time": 131.311,
+      "text": "Gu uair ar cliù's ar glòir",
+      "translation": "To the hour of our fame and glory",
+      "grammar": "The phrase \"gu uair\" is a Scottish Gaelic idiomatic expression indicating direction towards something, similar to English \"to\" or \"till\"."
+    },
+    {
+      "time": 142.867,
+      "text": "Naoidhean bhig, ar rìbhinn òg",
+      "translation": "Little babies, our young queen",
+      "grammar": "The phrase \"ar rìbhinn òg\" is an idiomatic expression that uses the possessive pronoun \"ar\" to indicate possession or belonging, rather than the expected \"na\" due to the following noun being feminine."
+    },
+    {
+      "time": 151.27,
+      "text": "Mhaighdean uasal bhàn",
+      "translation": "A fair-haired maiden",
+      "grammar": "The phrase \"Mhaighdean uasal bhàn\" is in the nominative case, with the adjective \"uasal\" agreeing with the noun \"mhaighdean\". The use of \"bhàn\" to describe hair color is an idiomatic expression."
+    }
+  ]
+}

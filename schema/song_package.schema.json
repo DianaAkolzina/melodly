@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/song_package.schema.json",
+  "title": "Song Package",
+  "type": "object",
+  "required": ["language", "title", "artist", "slug", "lyrics_path", "source", "translation"],
+  "properties": {
+    "language": {"type": "string", "description": "ISO 639-1 code of the source language"},
+    "title": {"type": "string"},
+    "artist": {"type": "string"},
+    "slug": {"type": "string"},
+    "lyrics_path": {"type": "string"},
+    "source": {
+      "type": "object",
+      "required": ["provider", "fetched_at"],
+      "properties": {
+        "provider": {"type": "string"},
+        "track_id": {"type": ["integer", "string"]},
+        "track_share_url": {"type": ["string", "null"]},
+        "track_edit_url": {"type": ["string", "null"]},
+        "fetched_at": {"type": "string"}
+      }
+    },
+    "translation": {
+      "type": "object",
+      "required": ["language", "full_text"],
+      "properties": {
+        "language": {"type": "string"},
+        "full_text": {"type": "string"}
+      }
+    },
+    "glossary": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["source", "pos", "gloss"],
+        "properties": {
+          "source": {"type": "string"},
+          "pos": {"type": "string"},
+          "gloss": {"type": "string"},
+          "notes": {"type": ["string", "null"]}
+        }
+      }
+    },
+    "grammar": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["topic", "explanation"],
+        "properties": {
+          "topic": {"type": "string"},
+          "explanation": {"type": "string"},
+          "examples": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["source", "translation"],
+              "properties": {
+                "source": {"type": "string"},
+                "translation": {"type": "string"}
+              }
+            }
+          }
+        }
+      }
+    },
+    "timestamps": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["index", "text", "approx_start"],
+        "properties": {
+          "index": {"type": "integer"},
+          "text": {"type": "string"},
+          "approx_start": {"type": "string", "pattern": "^\\d{1,2}:\\d{2}$"},
+          "approx_end": {"type": ["string", "null"], "pattern": "^\\d{1,2}:\\d{2}$"}
+        }
+      }
+    }
+  }
+}

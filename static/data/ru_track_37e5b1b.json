@@ -1,0 +1,493 @@
+{
+  "id": "ru_track_37e5b1b",
+  "title": "Ханнамонтана",
+  "artist": "Poshlaya Molly",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_track_37e5b1b.mp3",
+  "duration": 191,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 2.970899999976158,
+      "text": "Я объебошился клеем",
+      "translation": "I'm fed up with glue",
+      "grammar": "The verb \"обьебошился\" is in the first person singular past tense, using the prefix \"об-\" to indicate frustration or annoyance."
+    },
+    {
+      "time": 2.970899999976158,
+      "text": "Занюхал дорожку, наелся таблеток",
+      "translation": "I snorted a line and took a bunch of pills.",
+      "grammar": ""
+    },
+    {
+      "time": 3.807,
+      "text": "Я ебанутый на голову, а",
+      "translation": "I'm totally nuts, and",
+      "grammar": ""
+    },
+    {
+      "time": 5.4626000000238415,
+      "text": "Самый прикольный среди малолеток",
+      "translation": "The coolest among the youngsters",
+      "grammar": ""
+    },
+    {
+      "time": 7.157900000035763,
+      "text": "Мы рисовали в подъезде",
+      "translation": "We were drawing in the entrance hall.",
+      "grammar": ""
+    },
+    {
+      "time": 8.7695,
+      "text": "То ли пентаграмму, то ли твою маму",
+      "translation": "Either a pentagram or your mother",
+      "grammar": ""
+    },
+    {
+      "time": 10.6205,
+      "text": "Что это за черный тип",
+      "translation": "What is this black guy?",
+      "grammar": ""
+    },
+    {
+      "time": 11.872900000035763,
+      "text": "Рядом с тобой, чувак?",
+      "translation": "Next to you, dude?",
+      "grammar": ""
+    },
+    {
+      "time": 12.654699999988079,
+      "text": "Мэнчик, не парься - это Барак Обама",
+      "translation": "Manchik, don't worry - it's Barack Obama.",
+      "grammar": ""
+    },
+    {
+      "time": 14.462900000035763,
+      "text": "Джинсовка Levi's, йоу! Totally Spies, йоу!",
+      "translation": "Levi's jeans, yo! Totally Spies, yo!",
+      "grammar": ""
+    },
+    {
+      "time": 17.82960000002384,
+      "text": "Где мои деньги?! Где мои деньги",
+      "translation": "Where is my money?! Where is my money?",
+      "grammar": ""
+    },
+    {
+      "time": 19.466100000023843,
+      "text": "Грёбаный сукин сын Oliver Sykes?!",
+      "translation": "Fucking son of a bitch Oliver Sykes?!",
+      "grammar": ""
+    },
+    {
+      "time": 22.258900000035762,
+      "text": "Дома закончился крэк",
+      "translation": "I ran out of crack at home.",
+      "grammar": ""
+    },
+    {
+      "time": 23.274800000011922,
+      "text": "Я пойду прогуляюсь",
+      "translation": "I'll go for a walk.",
+      "grammar": ""
+    },
+    {
+      "time": 24.641,
+      "text": "С Miley Cyrus, Miley Cyrus",
+      "translation": "With Miley Cyrus, Miley Cyrus",
+      "grammar": ""
+    },
+    {
+      "time": 30.248100000023843,
+      "text": "У меня есть подружка",
+      "translation": "I have a girlfriend",
+      "grammar": ""
+    },
+    {
+      "time": 31.07230000001192,
+      "text": "Она носит джинсы клешеные, умалишенная",
+      "translation": "She wears flared jeans, she's crazy",
+      "grammar": ""
+    },
+    {
+      "time": 33.05919999998808,
+      "text": "Колется дезоморфином",
+      "translation": "Injects desomorphine",
+      "grammar": ""
+    },
+    {
+      "time": 34.471400000035764,
+      "text": "Уже полудохлая, кожа зеленая",
+      "translation": "Already half dead, skin green",
+      "grammar": ""
+    },
+    {
+      "time": 36.42410000002384,
+      "text": "Играет в какой-то рок-группе",
+      "translation": "Plays in some rock band",
+      "grammar": ""
+    },
+    {
+      "time": 37.73540000003576,
+      "text": "Там марихуана, Ханна Монтана",
+      "translation": "There's marijuana, Hannah Montana",
+      "grammar": ""
+    },
+    {
+      "time": 39.41169999998808,
+      "text": "Быть шоколадкой, почти, как Рианна хочу",
+      "translation": "I want to be a chocolate bar, almost like Rihanna.",
+      "grammar": ""
+    },
+    {
+      "time": 41.425699999988076,
+      "text": "Но я белый, как сметана",
+      "translation": "But I'm white as sour cream",
+      "grammar": ""
+    },
+    {
+      "time": 43.206400000035764,
+      "text": "Я объебошился клеем",
+      "translation": "I'm full of glue.",
+      "grammar": ""
+    },
+    {
+      "time": 44.2135,
+      "text": "Занюхал дорожку, наелся таблеток",
+      "translation": "I snorted a line and took a bunch of pills.",
+      "grammar": ""
+    },
+    {
+      "time": 46.267400000035764,
+      "text": "Я ебанутый на голову, а",
+      "translation": "I'm totally nuts, and",
+      "grammar": ""
+    },
+    {
+      "time": 47.63480000001192,
+      "text": "Самый прикольный среди малолеток",
+      "translation": "The coolest among the youngsters",
+      "grammar": ""
+    },
+    {
+      "time": 49.63,
+      "text": "Мы рисовали в подъезде",
+      "translation": "We were drawing in the entrance hall.",
+      "grammar": ""
+    },
+    {
+      "time": 51.352,
+      "text": "То ли пентаграмму, то ли твою маму",
+      "translation": "Either a pentagram or your mother",
+      "grammar": ""
+    },
+    {
+      "time": 53.028,
+      "text": "Что это за черный тип",
+      "translation": "What is this black guy?",
+      "grammar": ""
+    },
+    {
+      "time": 58.13210000002384,
+      "text": "Рядом с тобой, чувак?",
+      "translation": "Are you nearby, buddy?",
+      "grammar": "The phrase 'чувак' is an informal way to address a friend or acquaintance."
+    },
+    {
+      "time": 58.133900000035766,
+      "text": "Мэнчик, не парься - это Барак Обама",
+      "translation": "Manchik, don't worry - it's Barack Obama.",
+      "grammar": ""
+    },
+    {
+      "time": 58.13660000002384,
+      "text": "Джинсовка Levi's, йоу! Totally Spies, йоу!",
+      "translation": "Levi's jeans, yo! Totally Spies, yo!",
+      "grammar": ""
+    },
+    {
+      "time": 60.178400000035765,
+      "text": "Где мои деньги?! Где мои деньги",
+      "translation": "Where is my money?! Where is my money?",
+      "grammar": ""
+    },
+    {
+      "time": 62.47230000001192,
+      "text": "Грёбаный сукин сын Oliver Sykes?!",
+      "translation": "Fucking son of a bitch Oliver Sykes?!",
+      "grammar": ""
+    },
+    {
+      "time": 64.48669999998808,
+      "text": "Дома закончился крэк",
+      "translation": "I ran out of crack at home.",
+      "grammar": ""
+    },
+    {
+      "time": 65.719,
+      "text": "Я пойду прогуляюсь",
+      "translation": "I'll go for a walk.",
+      "grammar": ""
+    },
+    {
+      "time": 67.03860000002385,
+      "text": "С Miley Cyrus, Miley Cyrus",
+      "translation": "With Miley Cyrus, Miley Cyrus",
+      "grammar": ""
+    },
+    {
+      "time": 70.73590000003577,
+      "text": "Джинсовка Levi's, йоу! Totally Spies, йоу!",
+      "translation": "Levi's jeans, yo! Totally Spies, yo!",
+      "grammar": ""
+    },
+    {
+      "time": 73.81440000003576,
+      "text": "Где мои деньги?! Где мои деньги",
+      "translation": "Where is my money?! Where is my money?",
+      "grammar": ""
+    },
+    {
+      "time": 75.44960000002384,
+      "text": "Грёбаный сукин сын Oliver Sykes?!",
+      "translation": "Fucking son of a bitch Oliver Sykes?!",
+      "grammar": ""
+    },
+    {
+      "time": 78.1995,
+      "text": "Дома закончился крэк",
+      "translation": "I ran out of crack at home.",
+      "grammar": ""
+    },
+    {
+      "time": 79.36630000001192,
+      "text": "Я пойду прогуляюсь",
+      "translation": "I'll go for a walk.",
+      "grammar": ""
+    },
+    {
+      "time": 80.63490000003576,
+      "text": "С Miley Cyrus, Miley Cyrus",
+      "translation": "With Miley Cyrus, Miley Cyrus",
+      "grammar": ""
+    },
+    {
+      "time": 84.70730000001193,
+      "text": "Miley Cyrus",
+      "translation": "Miley Cyrus",
+      "grammar": ""
+    },
+    {
+      "time": 85.88040000003576,
+      "text": "Miley Cyrus",
+      "translation": "Miley Cyrus",
+      "grammar": ""
+    },
+    {
+      "time": 87.46590000003576,
+      "text": "Miley Cyrus",
+      "translation": "Miley Cyrus",
+      "grammar": ""
+    },
+    {
+      "time": 89.22240000003576,
+      "text": "Miley Cyrus",
+      "translation": "Miley Cyrus",
+      "grammar": ""
+    },
+    {
+      "time": 90.84930000001192,
+      "text": "Miley Cyrus",
+      "translation": "Miley Cyrus",
+      "grammar": ""
+    },
+    {
+      "time": 92.50340000003577,
+      "text": "Miley Cyrus",
+      "translation": "Miley Cyrus",
+      "grammar": ""
+    },
+    {
+      "time": 94.249,
+      "text": "Miley Cyrus",
+      "translation": "Miley Cyrus",
+      "grammar": ""
+    },
+    {
+      "time": 95.98219999998808,
+      "text": "Miley Cyrus",
+      "translation": "Miley Cyrus",
+      "grammar": ""
+    },
+    {
+      "time": 100.07810000002384,
+      "text": "Слышишь, подружка",
+      "translation": "Listen, girlfriend.",
+      "grammar": ""
+    },
+    {
+      "time": 105.70840000003577,
+      "text": "Прокатимся может?",
+      "translation": "Maybe we should go for a ride?",
+      "grammar": ""
+    },
+    {
+      "time": 106.16919999998808,
+      "text": "Лада шестерка",
+      "translation": "Lada Six",
+      "grammar": ""
+    },
+    {
+      "time": 109.18330000001193,
+      "text": "Кстати, твой парень тоже",
+      "translation": "By the way, your boyfriend too",
+      "grammar": ""
+    },
+    {
+      "time": 114.1545,
+      "text": "Он такой скучный, просто зануда",
+      "translation": "He's so boring, just a bore.",
+      "grammar": ""
+    },
+    {
+      "time": 119.35690000003576,
+      "text": "А ты просто чудо, гладкая кожа",
+      "translation": "And you are just a miracle, smooth skin",
+      "grammar": ""
+    },
+    {
+      "time": 125.39060000002384,
+      "text": "Джинсовка Levi's, йоу! (Ханна Монтана)",
+      "translation": "Levi's denim, yo! (Hannah Montana)",
+      "grammar": ""
+    },
+    {
+      "time": 127.63990000003577,
+      "text": "Totally Spies, йоу! (Ханна Монтана)",
+      "translation": "Totally Spies, yo! (Hannah Montana)",
+      "grammar": ""
+    },
+    {
+      "time": 129.4358000000119,
+      "text": "Джинсовка Levi's, йоу! (Ханна Монтана)",
+      "translation": "Levi's jeans, yeah!",
+      "grammar": "The use of 'йоу' (yo) is an informal way to express enthusiasm or agreement."
+    },
+    {
+      "time": 135.43280000001192,
+      "text": "Джинсовка Levi's, йоу!",
+      "translation": "Levi's jeans, yo!",
+      "grammar": ""
+    },
+    {
+      "time": 137.17610000002384,
+      "text": "Totally Spies, йоу!",
+      "translation": "Totally Spies, yo!",
+      "grammar": ""
+    },
+    {
+      "time": 138.738,
+      "text": "Джинсовка Levi's, йоу! (Ханна Монтана)",
+      "translation": "Levi's denim, yo! (Hannah Montana)",
+      "grammar": ""
+    },
+    {
+      "time": 140.28740000003577,
+      "text": "Totally Spies, йоу! (Ханна Монтана)",
+      "translation": "Totally Spies, yo! (Hannah Montana)",
+      "grammar": ""
+    },
+    {
+      "time": 152.862,
+      "text": "Джинсовка Levi's, йоу! (Ханна Монтана)",
+      "translation": "Levi's denim, yo! (Hannah Montana)",
+      "grammar": ""
+    },
+    {
+      "time": 156.03,
+      "text": "Джинсовка Levi's, йоу!",
+      "translation": "Levi's jeans, yo!",
+      "grammar": ""
+    },
+    {
+      "time": 158.242,
+      "text": "Totally Spies, йоу!",
+      "translation": "Totally Spies, yo!",
+      "grammar": ""
+    },
+    {
+      "time": 159.976,
+      "text": "Джинсовка Levi's, йоу! Totally Spies, йоу!",
+      "translation": "Levi's jeans, yo! Totally Spies, yo!",
+      "grammar": ""
+    },
+    {
+      "time": 163.622,
+      "text": "Где мои деньги?! Где мои деньги",
+      "translation": "Where is my money?! Where is my money?",
+      "grammar": ""
+    },
+    {
+      "time": 166.79,
+      "text": "Грёбаный сукин сын Oliver Sykes?!",
+      "translation": "Fucking son of a bitch Oliver Sykes?!",
+      "grammar": ""
+    },
+    {
+      "time": 169.48,
+      "text": "Дома закончился крэк",
+      "translation": "I ran out of crack at home.",
+      "grammar": ""
+    },
+    {
+      "time": 171.214,
+      "text": "Я пойду прогуляюсь",
+      "translation": "I'll go for a walk.",
+      "grammar": ""
+    },
+    {
+      "time": 172.948,
+      "text": "С Miley Cyrus, Miley Cyrus",
+      "translation": "With Miley Cyrus, Miley Cyrus",
+      "grammar": ""
+    },
+    {
+      "time": 175.638,
+      "text": "Джинсовка Levi's, йоу! Totally Spies, йоу!",
+      "translation": "Levi's jeans, yo! Totally Spies, yo!",
+      "grammar": ""
+    },
+    {
+      "time": 179.284,
+      "text": "Где мои деньги?! Где мои деньги",
+      "translation": "Where is my money?! Where is my money?",
+      "grammar": ""
+    },
+    {
+      "time": 182.452,
+      "text": "Грёбаный сукин сын Oliver Sykes?!",
+      "translation": "Fucking son of a bitch Oliver Sykes?!",
+      "grammar": ""
+    },
+    {
+      "time": 185.142,
+      "text": "Дома закончился крэк",
+      "translation": "I ran out of crack at home.",
+      "grammar": ""
+    },
+    {
+      "time": 186.876,
+      "text": "Я пойду прогуляюсь",
+      "translation": "I'll go for a walk.",
+      "grammar": ""
+    },
+    {
+      "time": 188.61,
+      "text": "С Miley Cyrus, Miley Cyrus",
+      "translation": "With Miley Cyrus, Miley Cyrus",
+      "grammar": ""
+    }
+  ]
+}

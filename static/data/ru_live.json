@@ -1,0 +1,373 @@
+{
+  "id": "ru_live",
+  "title": "Третье сентября (Live)",
+  "artist": "Mikhail Shufutinsky",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_live.mp3",
+  "duration": 354,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Всё не то, всё не так",
+      "translation": "It's not like that, it's not right",
+      "grammar": "The phrase 'всё не то' is an idiomatic expression meaning 'it's not the way it should be'"
+    },
+    {
+      "time": 8.307,
+      "text": "Я твой друг, ты мой враг",
+      "translation": "I am your friend, you are my enemy",
+      "grammar": ""
+    },
+    {
+      "time": 16.614,
+      "text": "Как же так всё у нас",
+      "translation": "How is everything like this with us?",
+      "grammar": ""
+    },
+    {
+      "time": 24.921,
+      "text": "С тобою?",
+      "translation": "With you?",
+      "grammar": ""
+    },
+    {
+      "time": 27.89,
+      "text": "Был апрель, и в любви",
+      "translation": "It was April, and in love",
+      "grammar": ""
+    },
+    {
+      "time": 34.863,
+      "text": "Мы клялись, но, увы",
+      "translation": "We swore, but alas",
+      "grammar": ""
+    },
+    {
+      "time": 40.501,
+      "text": "Пролетел жёлтый лист",
+      "translation": "A yellow leaf flew by",
+      "grammar": ""
+    },
+    {
+      "time": 44.805,
+      "text": "По бульварам Москвы",
+      "translation": "Along the boulevards of Moscow",
+      "grammar": ""
+    },
+    {
+      "time": 49.108,
+      "text": "Третье сентября, день прощанья",
+      "translation": "September 3rd, farewell day",
+      "grammar": ""
+    },
+    {
+      "time": 54.746,
+      "text": "День, когда горят костры рябин",
+      "translation": "The day when the rowan fires burn",
+      "grammar": ""
+    },
+    {
+      "time": 61.719,
+      "text": "Как костры, горят обещанья",
+      "translation": "Promises burn like fires",
+      "grammar": ""
+    },
+    {
+      "time": 67.357,
+      "text": "В день, когда я совсем один",
+      "translation": "On a day when I'm all alone",
+      "grammar": ""
+    },
+    {
+      "time": 75.664,
+      "text": "Я календарь переверну",
+      "translation": "I'll turn the calendar over",
+      "grammar": ""
+    },
+    {
+      "time": 79.968,
+      "text": "И снова третье сентября",
+      "translation": "And again the third of September",
+      "grammar": ""
+    },
+    {
+      "time": 85.606,
+      "text": "На фото я твоё взгляну",
+      "translation": "I'll take a look at your photo.",
+      "grammar": ""
+    },
+    {
+      "time": 92.579,
+      "text": "И снова третье сентября",
+      "translation": "And again the third of September",
+      "grammar": ""
+    },
+    {
+      "time": 98.217,
+      "text": "Но почему, но почему",
+      "translation": "But why, but why",
+      "grammar": ""
+    },
+    {
+      "time": 103.855,
+      "text": "Расстаться всё же нам пришлось?",
+      "translation": "We had to break up after all?",
+      "grammar": ""
+    },
+    {
+      "time": 110.827,
+      "text": "Ведь было всё у нас всерьёз",
+      "translation": "After all, everything was serious with us.",
+      "grammar": ""
+    },
+    {
+      "time": 119.135,
+      "text": "Второго сентября",
+      "translation": "September 2nd",
+      "grammar": ""
+    },
+    {
+      "time": 122.104,
+      "text": "Но почему, но почему",
+      "translation": "But why, but why",
+      "grammar": ""
+    },
+    {
+      "time": 127.742,
+      "text": "Расстаться всё же нам пришлось?",
+      "translation": "We had to break up after all?",
+      "grammar": ""
+    },
+    {
+      "time": 134.714,
+      "text": "Ведь было всё у нас всерьёз",
+      "translation": "After all, everything was serious with us.",
+      "grammar": ""
+    },
+    {
+      "time": 143.021,
+      "text": "Второго сентября",
+      "translation": "September 2nd",
+      "grammar": ""
+    },
+    {
+      "time": 145.99,
+      "text": "Журавлей белый клин",
+      "translation": "White wedge of cranes",
+      "grammar": ""
+    },
+    {
+      "time": 150.294,
+      "text": "Твоя дочь и мой сын",
+      "translation": "Your daughter and my son",
+      "grammar": ""
+    },
+    {
+      "time": 157.267,
+      "text": "Все хотят теплоты",
+      "translation": "Everyone wants warmth",
+      "grammar": ""
+    },
+    {
+      "time": 161.57,
+      "text": "И ласки",
+      "translation": "And affection",
+      "grammar": ""
+    },
+    {
+      "time": 164.539,
+      "text": "Мы в любовь, как в игру",
+      "translation": "We are in love, like in a game",
+      "grammar": ""
+    },
+    {
+      "time": 172.846,
+      "text": "На холодном ветру",
+      "translation": "In the cold wind",
+      "grammar": ""
+    },
+    {
+      "time": 177.15,
+      "text": "Поиграли с тобой",
+      "translation": "We played with you",
+      "grammar": "The verb 'поиграли' is in the plural form, indicating that multiple people played together."
+    },
+    {
+      "time": 181.454,
+      "text": "Но пришёл сам собой",
+      "translation": "But it came by itself",
+      "grammar": ""
+    },
+    {
+      "time": 187.092,
+      "text": "Третье сентября, день прощанья",
+      "translation": "September 3rd, farewell day",
+      "grammar": ""
+    },
+    {
+      "time": 192.73,
+      "text": "День, когда горят костры рябин",
+      "translation": "The day when the rowan fires burn",
+      "grammar": ""
+    },
+    {
+      "time": 199.702,
+      "text": "Как костры, горят обещанья",
+      "translation": "Promises burn like fires",
+      "grammar": ""
+    },
+    {
+      "time": 205.34,
+      "text": "В день, когда я совсем один",
+      "translation": "On a day when I'm all alone",
+      "grammar": ""
+    },
+    {
+      "time": 213.648,
+      "text": "Я календарь переверну",
+      "translation": "I'll turn the calendar over",
+      "grammar": ""
+    },
+    {
+      "time": 217.951,
+      "text": "И снова третье сентября",
+      "translation": "And again the third of September",
+      "grammar": ""
+    },
+    {
+      "time": 223.589,
+      "text": "На фото я твоё взгляну",
+      "translation": "I'll take a look at your photo.",
+      "grammar": ""
+    },
+    {
+      "time": 230.562,
+      "text": "И снова третье сентября",
+      "translation": "And again the third of September",
+      "grammar": ""
+    },
+    {
+      "time": 236.2,
+      "text": "Но почему, но почему",
+      "translation": "But why, but why",
+      "grammar": ""
+    },
+    {
+      "time": 241.838,
+      "text": "Расстаться всё же нам пришлось?",
+      "translation": "We had to break up after all?",
+      "grammar": ""
+    },
+    {
+      "time": 248.811,
+      "text": "Ведь было всё у нас всерьёз",
+      "translation": "After all, everything was serious with us.",
+      "grammar": ""
+    },
+    {
+      "time": 257.118,
+      "text": "Второго сентября",
+      "translation": "September 2nd",
+      "grammar": ""
+    },
+    {
+      "time": 260.087,
+      "text": "Но почему, но почему",
+      "translation": "But why, but why",
+      "grammar": ""
+    },
+    {
+      "time": 265.725,
+      "text": "Расстаться всё же нам пришлось?",
+      "translation": "We had to break up after all?",
+      "grammar": ""
+    },
+    {
+      "time": 272.698,
+      "text": "Ведь было всё у нас всерьёз",
+      "translation": "After all, everything was serious with us.",
+      "grammar": ""
+    },
+    {
+      "time": 281.005,
+      "text": "Второго сентября",
+      "translation": "September 2nd",
+      "grammar": ""
+    },
+    {
+      "time": 283.974,
+      "text": "Я календарь переверну",
+      "translation": "I'll turn the calendar over",
+      "grammar": ""
+    },
+    {
+      "time": 288.277,
+      "text": "И снова третье сентября",
+      "translation": "And again the third of September",
+      "grammar": ""
+    },
+    {
+      "time": 293.915,
+      "text": "На фото я твоё взгляну",
+      "translation": "I'll take a look at your photo.",
+      "grammar": ""
+    },
+    {
+      "time": 300.888,
+      "text": "И снова третье сентября",
+      "translation": "And again the third of September",
+      "grammar": ""
+    },
+    {
+      "time": 306.526,
+      "text": "Но почему, но почему",
+      "translation": "But why, but why",
+      "grammar": ""
+    },
+    {
+      "time": 312.164,
+      "text": "Расстаться всё же нам пришлось?",
+      "translation": "We had to break up after all?",
+      "grammar": ""
+    },
+    {
+      "time": 319.137,
+      "text": "Ведь было всё у нас всерьёз",
+      "translation": "After all, everything was serious with us.",
+      "grammar": ""
+    },
+    {
+      "time": 327.444,
+      "text": "Второго сентября",
+      "translation": "September 2nd",
+      "grammar": ""
+    },
+    {
+      "time": 330.413,
+      "text": "Но почему, но почему",
+      "translation": "But why, but why",
+      "grammar": ""
+    },
+    {
+      "time": 336.051,
+      "text": "Расстаться всё же нам пришлось?",
+      "translation": "We had to break up after all?",
+      "grammar": ""
+    },
+    {
+      "time": 343.024,
+      "text": "Ведь было всё у нас всерьёз",
+      "translation": "After all, everything was serious with us.",
+      "grammar": ""
+    },
+    {
+      "time": 351.331,
+      "text": "Второго сентября",
+      "translation": "September 2nd",
+      "grammar": ""
+    }
+  ]
+}

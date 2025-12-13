@@ -1,0 +1,205 @@
+{
+  "id": "ga_mo_ghile_mear",
+  "title": "Mo Ghile Mear",
+  "artist": "The Chieftains",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ga",
+  "to_language": "en",
+  "audio": "/audio/ga_mo_ghile_mear.mp3",
+  "duration": 96,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "'Sé mo laoch mo ghile mear",
+      "translation": "He is my hero, my swift knight.",
+      "grammar": "This line employs a poetic idiom, where \"mo\" is used to express possession or affection, similar to English phrases like \"my own\" or \"my very\". The use of \"mo\" instead of the more literal \"am mo laoch\" emphasizes the speaker's strong emotional connection."
+    },
+    {
+      "time": 3.0,
+      "text": "'Sé mo Shéasar, gile mear",
+      "translation": "He is my Caesar, quick and bright.",
+      "grammar": "The phrase \"Sé mo Shéasar\" uses the verb \"sé\" in the present tense to express a permanent or general truth, similar to \"he is\" in English. The possessive pronoun \"mo\" agrees with the subject \"Shéasar\", emphasizing that Caesar belongs to him."
+    },
+    {
+      "time": 6.0,
+      "text": "Suan gan séan ní bhfuair mé féin",
+      "translation": "I myself have not found a peaceful sleep.",
+      "grammar": "The use of \"féin\" (myself) emphasizes the speaker's personal experience, highlighting the first-person singular pronoun \"mé\". This idiomatic expression indicates that the speaker is speaking from their own perspective."
+    },
+    {
+      "time": 9.0,
+      "text": "Ó chuaigh i gcéin mo ghile mear",
+      "translation": "Since my quick wit has gone far away",
+      "grammar": "The phrase \"ó chuaigh\" is an idiomatic expression indicating a past action, using the verb \"chuaidh\" in the perfective aspect to convey that the speaker's wit has been absent for some time."
+    },
+    {
+      "time": 12.0,
+      "text": "'Sé mo laoch mo ghile mear",
+      "translation": "He is my hero, my swift knight.",
+      "grammar": "This line uses the present tense to express a timeless truth or eternal quality about someone, with the verb sé (is) in agreement with the subject pronoun he. The phrase also employs an idiomatic expression mo laoch mo ghile mear, which is equivalent to \"my hero\" in English."
+    },
+    {
+      "time": 15.0,
+      "text": "'Sé mo Shéasar, gile mear",
+      "translation": "He is my Caesar, quick and bright.",
+      "grammar": "This line uses the present tense to express a permanent or general truth about the speaker's relationship with Caesar. The phrase \"gile mear\" is an idiomatic expression meaning \"quick and bright\"."
+    },
+    {
+      "time": 18.0,
+      "text": "Suan gan séan ní bhfuair mé féin",
+      "translation": "I myself have not found a peaceful sleep.",
+      "grammar": "The use of \"féin\" (myself) emphasizes the speaker's personal experience, indicating first-person singular subjectivity. This is an idiomatic expression in Irish, equivalent to saying \"I myself\" or \"for me\"."
+    },
+    {
+      "time": 21.0,
+      "text": "Ó chuaigh i gcéin mo ghile mear",
+      "translation": "Since my quick wit has gone far away",
+      "grammar": "The line uses the past tense (ó) to express a completed action, and the phrase \"mo ghile mear\" is an idiomatic expression meaning \"my best/most clever\"."
+    },
+    {
+      "time": 24.0,
+      "text": "Grief and pain are all I know",
+      "translation": "Grief and pain are all I know.",
+      "grammar": "This line uses the present tense to express a universal truth, emphasizing the speaker's emotional state. The phrase \"all I know\" is an idiomatic expression meaning that grief and pain are the only things the speaker has experienced or understood."
+    },
+    {
+      "time": 27.0,
+      "text": "My heart is sore",
+      "translation": "My heart is sore.",
+      "grammar": "The verb phrase \"is sore\" is in the present continuous tense, indicating a temporary or ongoing emotional state. The idiom \"sore\" means feeling deeply hurt or upset, conveying a sense of emotional pain."
+    },
+    {
+      "time": 30.0,
+      "text": "My tears a'flow",
+      "translation": "My tears are flowing.",
+      "grammar": "The phrase \"a'flow\" is an idiomatic expression indicating continuous action in the present tense, equivalent to \"are flowing\"."
+    },
+    {
+      "time": 33.0,
+      "text": "No word we know of him...",
+      "translation": "We don't know a word about him...",
+      "grammar": "This line uses the present perfect tense to convey the idea that there is no information or knowledge about someone, emphasizing the lack of understanding."
+    },
+    {
+      "time": 36.0,
+      "text": "'Sé mo laoch mo ghile mear",
+      "translation": "He is my hero, my swift knight.",
+      "grammar": "This line uses the present tense to express a timeless truth about the speaker's admiration for their hero. The phrase \"mo laoch\" and \"mo ghile mear\" are idiomatic expressions meaning \"my hero\" and \"my swift knight\", respectively."
+    },
+    {
+      "time": 39.0,
+      "text": "'Sé mo Shéasar, gile mear",
+      "translation": "He is my Caesar, quick and bright.",
+      "grammar": "The phrase \"Sé mo Shéasar\" uses the idiomatic expression \"mo\" to mean \"my\", emphasizing possession."
+    },
+    {
+      "time": 42.0,
+      "text": "Suan gan séan ní bhfuair mé féin",
+      "translation": "I myself have not found a peaceful sleep.",
+      "grammar": "The use of \"féin\" (myself) emphasizes the speaker's personal experience, indicating first-person singular subjectivity. This is an example of reflexive pronoun usage in Irish Gaelic."
+    },
+    {
+      "time": 45.0,
+      "text": "Ó chuaigh i gcéin mo ghile mear",
+      "translation": "Since my quick wit has gone far away",
+      "grammar": "The phrase \"ó chuaigh\" is an idiomatic expression in Irish, equivalent to the English phrase \"since [something] has gone\". It indicates a past action's ongoing effect or consequence."
+    },
+    {
+      "time": 48.0,
+      "text": "A proud and gallant cavalier",
+      "translation": "A proud and gallant cavalier",
+      "grammar": "The phrase \"proud and gallant\" is an idiomatic expression describing a person's noble character, with \"gallant\" implying chivalrous behavior."
+    },
+    {
+      "time": 51.0,
+      "text": "A high man's scion of gentle mien",
+      "translation": "A high man's scion of gentle mien",
+      "grammar": "This idiomatic phrase uses the noun \"scion\" to mean a person, often with connotations of nobility or refinement. The phrase is in the nominative case and functions as a subject complement, describing the type of person being referred to."
+    },
+    {
+      "time": 54.0,
+      "text": "A fiery blade engaged to reap",
+      "translation": "A fiery blade engaged in reaping",
+      "grammar": "The phrase \"engaged to\" is an idiom that indicates a purpose or intention, similar to the English phrase \"intended to\"."
+    },
+    {
+      "time": 57.0,
+      "text": "He'd break the bravest in the field",
+      "translation": "He'd break the bravest in the field",
+      "grammar": "This line uses the past habitual tense, indicating a general or repeated action that was common in the past. The phrase \"break the bravest\" is an idiomatic expression meaning to defeat someone who is considered strong or courageous."
+    },
+    {
+      "time": 60.0,
+      "text": "'Sé mo laoch mo ghile mear",
+      "translation": "He is my hero, my swift knight.",
+      "grammar": "This line employs a poetic idiom, where \"mo\" is used to express possession and affection, similar to English phrases like \"my own\" or \"my very\". The phrase \"Sé mo laoch\" literally means \"It is my warrior\", but the idiomatic translation conveys the speaker's admiration for their hero."
+    },
+    {
+      "time": 63.0,
+      "text": "'Sé mo Shéasar, gile mear",
+      "translation": "He is my Caesar, quick and bright.",
+      "grammar": "The phrase \"Sé mo Shéasar\" uses a possessive pronoun \"mo\" to indicate possession, similar to English \"my\"."
+    },
+    {
+      "time": 66.0,
+      "text": "Suan gan séan ní bhfuair mé féin",
+      "translation": "I myself have not found a peaceful sleep.",
+      "grammar": "The use of \"féin\" (myself) emphasizes the speaker's personal experience and highlights their agency in the action, indicating first-person singular possessive reflexive pronoun."
+    },
+    {
+      "time": 69.0,
+      "text": "Ó chuaigh i gcéin mo ghile mear",
+      "translation": "Since my quick wit has gone far away",
+      "grammar": "The verb ó chuaigh is in the past tense, indicating that the speaker's quick wit has ceased to be effective. The phrase \"mo ghile mear\" is an idiomatic expression meaning \"my best\" or \"my greatest\"."
+    },
+    {
+      "time": 72.0,
+      "text": "Come sing his praise as sweet harps play",
+      "translation": "Come sing his praise as sweet harps play",
+      "grammar": "The phrase \"as sweet harps play\" is an idiomatic expression indicating simultaneous action, using the present participle (-ing) form to describe a concurrent event."
+    },
+    {
+      "time": 75.0,
+      "text": "And proudly toast his noble frame",
+      "translation": "And proudly toast his noble frame",
+      "grammar": "The phrase \"proudly toast\" is an idiom, where \"toast\" means to honor or praise someone, rather than the usual meaning of drinking a toast. The sentence uses the present participle \"toasting\" in the imperative mood, instructing someone to honorably praise his noble character."
+    },
+    {
+      "time": 78.0,
+      "text": "With spirit and with mind aflame",
+      "translation": "With spirit and with mind aflame",
+      "grammar": "This idiomatic phrase uses the present participle \"-ing\" forms to convey a sense of simultaneous action, emphasizing the intensity of the speaker's emotions. The use of \"aflame\" also adds a vivid metaphorical touch, suggesting passion and fervor."
+    },
+    {
+      "time": 81.0,
+      "text": "So wish him strength and length of day",
+      "translation": "So wish him strength and length of day",
+      "grammar": "The phrase \"length of day\" is an idiom, literally meaning a long period of time, but figuratively wishing someone good health and vitality."
+    },
+    {
+      "time": 84.0,
+      "text": "'Sé mo laoch mo ghile mear",
+      "translation": "He is my hero, my swift knight.",
+      "grammar": "The phrase \"Sé mo laoch\" is an idiomatic expression in Irish Gaelic, equivalent to the English phrase \"he is my hero\". The verb \"sé\" is in the present tense and agrees with the subject \"mo laoch\", emphasizing the speaker's admiration."
+    },
+    {
+      "time": 87.0,
+      "text": "'Sé mo Shéasar, gile mear",
+      "translation": "He is my Caesar, quick and bright.",
+      "grammar": "This line uses the present tense to express a statement of identity, with \"Sé\" being an archaic first-person singular pronoun equivalent to \"I am\". The phrase \"mo Shéasar\" can be translated as \"my Caesar\", where \"Shéasar\" is likely an honorific title."
+    },
+    {
+      "time": 90.0,
+      "text": "Suan gan séan ní bhfuair mé féin",
+      "translation": "I myself have not found a peaceful sleep.",
+      "grammar": "The use of \"féin\" (myself) emphasizes the speaker's personal experience, indicating first-person singular subjectivity. This is an example of reflexive pronoun usage in Irish Gaelic."
+    },
+    {
+      "time": 93.0,
+      "text": "Ó chuaigh i gcéin mo ghile mear",
+      "translation": "Since my quick wit has gone far away",
+      "grammar": "The phrase \"ó chuaigh\" is an idiomatic expression in Irish, equivalent to the English idiom \"since I've lost my wits\". It uses the past tense of the verb \"to go\" ( chuaigh ) to convey a sense of something being absent or gone."
+    }
+  ]
+}

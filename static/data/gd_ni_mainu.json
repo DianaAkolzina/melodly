@@ -1,0 +1,127 @@
+{
+  "id": "gd_ni_mainu",
+  "title": "Ni Mainu",
+  "artist": "Amrinder Gill",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "hi",
+  "to_language": "en",
+  "audio": "/audio/gd_ni_mainu.mp3",
+  "duration": 57,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Ni menu pyaar ta jata len de",
+      "translation": "Ni menu pyaar ta jata len de",
+      "grammar": "This line uses the informal imperative mood, with \"ni\" serving as a casual particle to soften the tone. The sentence is an idiom, where \"menu pyaar\" means \"to get into someone's heart\"."
+    },
+    {
+      "time": 3.0,
+      "text": "Ni menu pyaar ta jata len de",
+      "translation": "Ni menu pyaar ta jata len de",
+      "grammar": "This line uses the informal imperative mood to express a command, with \"ni\" being an idiomatic negation equivalent to \"don't\"."
+    },
+    {
+      "time": 6.0,
+      "text": "Akh je main tere na lai",
+      "translation": "Akh je main tere na lai",
+      "grammar": "The phrase \"Akh je\" is an idiomatic expression in Hindi, equivalent to \"I swear\" or \"I assure you\" in English, used to emphasize the speaker's sincerity. The verb \"main\" agrees with the subject \"I\" in number and case."
+    },
+    {
+      "time": 9.0,
+      "text": "Ni menu akh ta la len de",
+      "translation": "Ni menu akh ta la len de",
+      "grammar": "This line is an idiomatic expression, using the verb \"la\" to indicate a habitual or customary action in the present tense."
+    },
+    {
+      "time": 12.0,
+      "text": "Ni menu akh ta la len de",
+      "translation": "Ni menu akh ta la len de",
+      "grammar": "This line is an idiomatic expression in Hokkien, a Chinese dialect. The phrase \"ni menu\" is an informal way to address someone, similar to saying \"you guys\" or \"y'all\" in English."
+    },
+    {
+      "time": 15.0,
+      "text": "Tere walo pawe koi pakka jeya karar ni",
+      "translation": "I have decided not to pack your feet.",
+      "grammar": "This line uses the present perfect tense (pawe) to indicate a completed action, and the idiomatic phrase \"pakka jeya\" means \"to decide finally\"."
+    },
+    {
+      "time": 18.0,
+      "text": "Saha ch lako k rakhu tavi tera pyaar ni",
+      "translation": "I love you so much that I love you so much.",
+      "grammar": "This line uses a common idiomatic expression in Hindi, where the verb \"rakhu\" is used to emphasize the intensity of the feeling, equivalent to saying \"so much\" or \"that much\". The repetition of \"love you so much\" conveys the speaker's strong emotions."
+    },
+    {
+      "time": 21.0,
+      "text": "Saha ch lako k rakhu tavi tera pyaar ni",
+      "translation": "I love you so much that I love you so much.",
+      "grammar": "This line uses a common idiomatic expression in Hindi, where the verb \"rakhu\" is used to emphasize the intensity of the feeling, equivalent to saying \"so much\" or \"that much\". The repetition of \"love you so much\" conveys the speaker's strong affection."
+    },
+    {
+      "time": 24.0,
+      "text": "Ni menu khaba ch he aa len de",
+      "translation": "Ni menu khaba ch he aa len de",
+      "grammar": "This line uses the informal imperative mood to convey a sense of urgency, with \"\" (aa len de) idiomatically translating to \"come and take\" rather than a literal request."
+    },
+    {
+      "time": 27.0,
+      "text": "zindgi ch bhawe na tu ai",
+      "translation": "zindagi ch bhawe na tu ai",
+      "grammar": "The phrase \"ch bhawe\" is an idiomatic expression in Hindi, literally meaning \"is not done\" but implying \"should not be done\". The sentence as a whole expresses a strong negation using the verb \"na\" and the pronoun \"tu\", emphasizing the speaker's firm stance."
+    },
+    {
+      "time": 30.0,
+      "text": "Ni menu khaba ch he aa len de",
+      "translation": "Ni menu khaba ch he aa len de",
+      "grammar": "This line uses the informal imperative mood to express a suggestion or permission, with \"\" (ni) indicating negation and \"\" (chhe) implying approximation."
+    },
+    {
+      "time": 33.0,
+      "text": "Ni menu akh ta la len de",
+      "translation": "Ni menu akh ta la len de",
+      "grammar": "This line uses the imperative mood to give a command, with \"ni\" serving as an interjection emphasizing the speaker's intention. The verb \"len de\" is in the present tense, indicating immediate action."
+    },
+    {
+      "time": 36.0,
+      "text": "Peran ch wicha de kach ful menu das k",
+      "translation": "But what kind of menu is given?",
+      "grammar": "This line uses the present tense to ask a question, with the verb \"kach\" (to give) in its base form. The phrase \"what kind of\" is an idiom translating \"wicha de\"."
+    },
+    {
+      "time": 39.0,
+      "text": "Sula te v tur paunga tere lai main has k",
+      "translation": "Sula te v tur paunga tere lai main has k",
+      "grammar": "This line features a common idiomatic expression in Hindi, where the verb \"has\" is used to indicate possession or existence, rather than its usual meaning of \"to have\". The sentence is written in the present tense and uses the informal pronoun \"main\" to refer to the speaker."
+    },
+    {
+      "time": 42.0,
+      "text": "Sula te v tur paunga tere lai main has k",
+      "translation": "Sula te v tur paunga tere lai main has k",
+      "grammar": "This line uses the present continuous tense to describe an ongoing action, with \"main\" functioning as a particle indicating emphasis or focus on the speaker's intention."
+    },
+    {
+      "time": 45.0,
+      "text": "Ni menu chis ta handa len de",
+      "translation": "Ni menu chis ta handa len de",
+      "grammar": "This line uses the imperative mood to give a command, with the verb \"len\" in its base form, indicating an instruction or request."
+    },
+    {
+      "time": 48.0,
+      "text": "Peed je tu choli ch pai",
+      "translation": "Peed je tu choli ch pai",
+      "grammar": "This line uses the informal imperative mood, with \"\" (peed) meaning \"to pee\" and \"\" (je) being a casual particle indicating permission or willingness."
+    },
+    {
+      "time": 51.0,
+      "text": "Ni menu peed ta handa len de",
+      "translation": "Ni menu peed ta handa len de",
+      "grammar": "This line uses the informal second-person singular pronoun \"ni\" to address a friend, which is common in casual conversations among peers. The sentence also employs the present tense and the idiomatic expression \"menu peed\" meaning \"to help\"."
+    },
+    {
+      "time": 54.0,
+      "text": "Ni menu akh ta la len de...",
+      "translation": "Ni menu akh ta la len de...",
+      "grammar": "This line is an informal conversation, using the present continuous tense to express ongoing actions and the particle \"la\" to indicate a direction or movement."
+    }
+  ]
+}

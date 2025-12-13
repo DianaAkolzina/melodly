@@ -1,0 +1,223 @@
+{
+  "id": "lv_signals",
+  "title": "Signals",
+  "artist": "Dons",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "lv",
+  "to_language": "en",
+  "audio": "/audio/lv_signals.mp3",
+  "duration": 191,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 20.13059999999404,
+      "text": "Smalki kā dubļi",
+      "translation": "Fine as mud",
+      "grammar": "This idiomatic expression uses the present participle \"smalki\" to convey a sense of impermanence, similar to English phrases like \"as fragile as glass\" or \"as fleeting as sand\". The phrase is used to describe something that is delicate and easily damaged."
+    },
+    {
+      "time": 24.405399999976158,
+      "text": "Uz viņas ceļgaliem.",
+      "translation": "On her knees.",
+      "grammar": "The phrase \"uz viņas ceļgaliem\" is in the accusative case, indicating that the object of the sentence is on someone's knees. The preposition \"uz\" can be translated as \"on\" or \"at\", and the possessive pronoun \"viņas\" agrees with the noun \"ceļgaliem\"."
+    },
+    {
+      "time": 31.30740000000596,
+      "text": "Dubļi pēc viņas lūgšanām.",
+      "translation": "Mud after her prayers.",
+      "grammar": "The phrase \"pēc viņas\" is an idiomatic expression indicating the time period \"after she\", using the possessive pronoun \"viņas\" to convey a sense of proximity and connection."
+    },
+    {
+      "time": 40.35510000002384,
+      "text": "Esmu klusums virs ūdens,",
+      "translation": "I am the silence above the water,",
+      "grammar": "The phrase \"Esmu\" is a first-person singular pronoun in the present tense, indicating that the speaker is currently experiencing or embodying the state of being the silence above the water."
+    },
+    {
+      "time": 43.2835,
+      "text": "Es esmu neiesākts glāsts",
+      "translation": "I am an uninitiated caress",
+      "grammar": "The verb \"esmu\" is in the present tense, indicating a state or condition rather than an action. The phrase \"neiesākts glāsts\" can be considered an idiomatic expression, where \"glāsts\" means a gentle touch or caress."
+    },
+    {
+      "time": 45.921,
+      "text": "Un starta zīmi gaidošs",
+      "translation": "And waiting for the starting signal",
+      "grammar": "The verb \"gaidošs\" is in the present continuous tense, indicating ongoing action, and the phrase \"un starta\" can be translated as \"and waiting\" using an idiomatic expression."
+    },
+    {
+      "time": 48.60980000001192,
+      "text": "Kā karogs, vēja neaizskarts.",
+      "translation": "Like a flag, untouched by the wind.",
+      "grammar": "The phrase \"kā karogs\" is an idiomatic expression meaning \"like\" or \"as\", used to compare two things without using the verb \"to be\". It's often translated as \"like\" in English."
+    },
+    {
+      "time": 51.10570000001788,
+      "text": "Jau sakustas zars.",
+      "translation": "The branch is already moving.",
+      "grammar": "In Latvian, the verb \"sakustas\" is in the present continuous tense, indicating an ongoing action. The phrase \"jau\" can be translated to English as \"already\", implying that the movement of the branch has started or begun."
+    },
+    {
+      "time": 61.22240000000596,
+      "text": "Picikato",
+      "translation": "Pizzicato",
+      "grammar": "The word \"Picikato\" is an interjection, used to indicate a sudden or sharp action, similar to the English phrase \"pizzicato\" which refers to a musical technique of plucking strings."
+    },
+    {
+      "time": 65.13510000002384,
+      "text": "Ne \"Bamm!\" pa kastroļiem.",
+      "translation": "Not \"Bamm!\" on the pots.",
+      "grammar": "The phrase \"Ne \\\"Bamm!\\\"\" is an idiomatic negation, emphasizing that something is not what it seems. The verb \"pa\" is in the nominative case and agrees with the neuter noun \"kastroļiem\"."
+    },
+    {
+      "time": 71.24170000001789,
+      "text": "Picikato kā signāls baložiem -",
+      "translation": "Picicato as a signal for pigeons -",
+      "grammar": "This idiomatic expression uses the present tense to describe a habitual or general truth, implying that picicato is a common practice or characteristic associated with signaling pigeons."
+    },
+    {
+      "time": 80.93360000002384,
+      "text": "Visiem reizē sākt dūdot",
+      "translation": "Everyone start blowing the horn at once",
+      "grammar": "The verb \"sākt\" is in the imperative mood, indicating a command or instruction. The phrase \"reizē\" means \"at once\" and functions as an adverb modifying the verb \"sākt\"."
+    },
+    {
+      "time": 83.7315,
+      "text": "Un kailiem izģērbties",
+      "translation": "And strip naked",
+      "grammar": "The verb \"izģērbties\" is in the imperative mood, indicating a command or instruction to strip naked. The phrase \"un kailiem\" can be translated as \"and then\" or \"and so\", implying a sense of consequence or result."
+    },
+    {
+      "time": 86.32820000001789,
+      "text": "Kā pagāniskos svētkos,",
+      "translation": "As in pagan festivals,",
+      "grammar": "This phrase uses the comparative form \"paganos\" to describe a type of festival, indicating a similarity or analogy between ancient and modern celebrations. The sentence is in the nominative absolute construction, with \"pagāniskos\" functioning as an adverbial phrase modifying the verb \"svētkos\"."
+    },
+    {
+      "time": 88.86760000002384,
+      "text": "Kur atļauts tas,",
+      "translation": "Where is it allowed?",
+      "grammar": "The phrase \"Kur atļauts tas\" uses the present tense to ask about a general or habitual permission, rather than a specific one. The word \"atļauts\" can be translated as \"allowed\" and implies a sense of uncertainty or inquiry."
+    },
+    {
+      "time": 90.9335,
+      "text": "Kas gadiem liegts.",
+      "translation": "Which has been denied for years.",
+      "grammar": "The verb \"liegts\" is in the passive voice, indicating that the subject (what has been denied) is having an action done to it, rather than performing the action itself."
+    },
+    {
+      "time": 91.8055,
+      "text": "Nu tad viens, divi, trīs, un sakustas zars,",
+      "translation": "Well then, one, two, three, and the branch shakes,",
+      "grammar": "The phrase \"Nu tad\" is an idiomatic expression used to introduce a sequence of events or actions, equivalent to \"Now then\" in English."
+    },
+    {
+      "time": 95.8555,
+      "text": "Tāds kā sakuras zars;",
+      "translation": "Like a sakura branch;",
+      "grammar": "This idiomatic expression uses the comparative form \"tāds\" to convey a sense of similarity or analogy, rather than indicating a direct comparison in terms of size or quantity."
+    },
+    {
+      "time": 98.43590000000596,
+      "text": "Tas ir kā signāls, signāls.",
+      "translation": "It's like a signal, a signal.",
+      "grammar": "The phrase \"kā\" is used to introduce a simile or comparison, equivalent to the English idiom \"like\"."
+    },
+    {
+      "time": 101.85640000000596,
+      "text": "Nav vairs laika, jo uzausīs Marss,",
+      "translation": "There is no more time, because Mars will rise,",
+      "grammar": "The phrase \"vairs\" is an adverb indicating the present perfect tense, emphasizing that there is no more time left. It can be translated as \"already\" or \"by now\"."
+    },
+    {
+      "time": 106.18890000000596,
+      "text": "Tas ir kā signāls, signāls.",
+      "translation": "It's like a signal, a signal.",
+      "grammar": "The phrase \"Tas ir\" is an idiomatic expression equivalent to \"It's like\", using the present tense to convey a sense of similarity or comparison."
+    },
+    {
+      "time": 131.46510000002385,
+      "text": "Esmu klusums virs ūdens,",
+      "translation": "I am the silence above the water,",
+      "grammar": "The phrase \"Esmu klusums\" is an idiomatic expression, where \"esmu\" means \"I am\" in the present tense, and \"klusums\" literally translates to \"silence\", conveying a sense of quiet contemplation."
+    },
+    {
+      "time": 134.29960000002384,
+      "text": "Es esmu neiesākts glāsts",
+      "translation": "I am an uninitiated caress",
+      "grammar": "The verb \"esmu\" is in the present tense, indicating a state or condition, rather than an action. The phrase \"neiesākts glāsts\" can be considered an idiomatic expression, where \"glāsts\" typically means \"touch\" or \"stroke\", but here it conveys a sense of gentle and intimate contact."
+    },
+    {
+      "time": 136.38940000000596,
+      "text": "Un starta zīmi gaidošs",
+      "translation": "And waiting for the starting signal",
+      "grammar": "The verb \"gaidošs\" is in the present continuous tense, indicating ongoing action, and can be translated as \"waiting\"."
+    },
+    {
+      "time": 139.29510000002384,
+      "text": "Kā karogs, vēja neaizskarts.",
+      "translation": "Like a flag, untouched by the wind.",
+      "grammar": "The phrase \"kā\" is an idiomatic expression meaning \"like\" or \"as\", used to compare two things. It is often translated as \"like\" in English, and its usage is similar to the English idiom \"as\"."
+    },
+    {
+      "time": 141.09,
+      "text": "Nu tad viens, divi, trīs, un sakustas zars,",
+      "translation": "Well then, one, two, three, and the branch shakes,",
+      "grammar": "This line uses a common Latvian idiom, where numbers are used to create a sense of anticipation or expectation, rather than simply counting. The phrase \"Nu tad viens, divi, trīs\" can be translated as \"Well then, one, two, three\", implying that something is about to happen."
+    },
+    {
+      "time": 146.584,
+      "text": "Tāds kā sakuras zars;",
+      "translation": "Like a sakura branch;",
+      "grammar": "The phrase \"tāds\" is an idiomatic expression used to convey a sense of delicacy and fragility, similar to the Japanese concept of yūgen. The sentence is written in the present tense, describing a fleeting or ephemeral experience."
+    },
+    {
+      "time": 149.02260000002383,
+      "text": "Tas ir kā signāls, signāls.",
+      "translation": "It's like a signal, a signal.",
+      "grammar": "The phrase \"tās ir\" is an idiomatic expression used to introduce a simile or comparison in the present tense, equivalent to \"it's like\" in English."
+    },
+    {
+      "time": 152.163,
+      "text": "Nav vairs laika, jo uzausīs Marss,",
+      "translation": "There is no more time, because Mars will rise,",
+      "grammar": "The phrase \"Nav vairs laika\" uses the present tense to convey a sense of urgency and emphasizes that there is no more time available."
+    },
+    {
+      "time": 156.72840000000596,
+      "text": "Tas ir kā signāls, signāls.",
+      "translation": "It's like a signal, a signal.",
+      "grammar": "The phrase \"kā\" is used to introduce an idiomatic comparison, indicating a similarity or analogy between two things. This construction is often translated as \"like\" or \"as\"."
+    },
+    {
+      "time": 162.68140000000597,
+      "text": "Nu tad viens, divi, trīs, un sakustas zars,",
+      "translation": "Well then, one, two, three, and the branch shakes,",
+      "grammar": "This line uses a common Latvian idiom \"Nu tad\" which translates to \"Well then\", implying a sense of conclusion or finality. The subsequent numbers \"viens, divi, trīs\" are used in an exclamatory manner, emphasizing the sudden action described by \"un sakustas zars\"."
+    },
+    {
+      "time": 166.619,
+      "text": "Tāds kā sakuras zars;",
+      "translation": "Like a sakura branch;",
+      "grammar": "This idiomatic phrase uses the comparative particle \"tāds\" to convey a metaphorical comparison, rather than indicating a precise similarity. The sentence is in the nominative absolute construction, with the subject \"Tāds\" functioning as an adverb modifying the following clause."
+    },
+    {
+      "time": 170.69440000000597,
+      "text": "Tas ir kā signāls, signāls.",
+      "translation": "It's like a signal, a signal.",
+      "grammar": "The phrase \"kā\" is used to introduce an idiomatic comparison, similar to the English phrase \"like\"."
+    },
+    {
+      "time": 172.32490000000595,
+      "text": "Nav vairs laika, jo uzausīs Marss,",
+      "translation": "There is no more time, because Mars will rise,",
+      "grammar": "The phrase \"Nav vairs laika\" is in the present tense, indicating a sense of urgency and emphasizing that there is no more time available. The use of \"vairs\" instead of \"nav\" implies a strong emphasis on the idea that time has almost run out."
+    },
+    {
+      "time": 177.09340000000597,
+      "text": "Tas ir kā signāls, signāls.",
+      "translation": "It's like a signal, a signal.",
+      "grammar": "The phrase \"kā\" is an idiomatic expression indicating similarity or comparison, similar to English \"like\"."
+    }
+  ]
+}

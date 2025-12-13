@@ -1,0 +1,343 @@
+{
+  "id": "gd_smeorach_chlann_domhnaill_the_mavis_of_clan_donald",
+  "title": "Smeorach Chlann Domhnaill (The Mavis of Clan Donald)",
+  "artist": "Julie Fowlis",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "gd",
+  "to_language": "en",
+  "audio": "/audio/gd_smeorach_chlann_domhnaill_the_mavis_of_clan_donald.mp3",
+  "duration": 252,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Hoilibheag hilibheag hò-aill-il ò",
+      "translation": "Holly little,",
+      "grammar": "This line features a poetic use of repetition and rhyme, with no specific grammatical or usage notes to highlight. The phrase is an idiomatic expression used to address someone in a playful or affectionate manner."
+    },
+    {
+      "time": 4.763,
+      "text": "Hoilibheag hilibheag hò-rò ì",
+      "translation": "Holly little",
+      "grammar": "This line uses the Scots Gaelic imperative mood to express a playful, affectionate tone, with the repetition of \"hili\" emphasizing the speaker's enthusiasm. The use of particles like \"hoi\" and \"ì\" adds a sense of intimacy and informality."
+    },
+    {
+      "time": 8.782,
+      "text": "Hoilibheag hilibheag hò-aill-il ò",
+      "translation": "Holly little,",
+      "grammar": "This line employs a poetic, lyrical tone through the repetition of the diminutive suffix \"-il\" (-aill-il), which softens the meaning of \"hoilibheag\" to convey affection and intimacy. The phrase also uses an idiomatic expression to address someone in a gentle manner."
+    },
+    {
+      "time": 13.545,
+      "text": "Smeòrach le Clann Dòmhnaill mì",
+      "translation": "Thriller with the MacDonalds",
+      "grammar": "The phrase \"Smeòrach\" is an idiomatic expression meaning \"thriller\" or \"exciting event\", using the verb \"smeòrach\" in the nominative case to create a sense of excitement."
+    },
+    {
+      "time": 17.565,
+      "text": "Smeòrach mis' air ùrlar Phaibil",
+      "translation": "I'm a thug on the floor of the Bible.",
+      "grammar": "The phrase \"smeòrach mis'\" is an idiomatic expression meaning \"to be a thug\" or \"to be rough\", using the present participle smeòrach to convey a sense of continuous action."
+    },
+    {
+      "time": 21.584,
+      "text": "Crùbadh ann an dùsal cadail",
+      "translation": "Crouching in a dream",
+      "grammar": "The phrase \"ann an\" is an idiomatic expression indicating location or situation, similar to \"in\" or \"on\". The verb \"crùbadh\" is in the present tense, describing a state of being."
+    },
+    {
+      "time": 25.603,
+      "text": "Gun deòrachd a thèid na 's fhaide",
+      "translation": "No drunkenness will last longer.",
+      "grammar": "The phrase \"Gun deòrachd\" is an idiomatic expression in Scottish Gaelic, equivalent to the English idiom \"no drunkenness will last\". The verb \"thèid\" is in the future tense, indicating that the speaker expects no drunkenness to persist."
+    },
+    {
+      "time": 31.11,
+      "text": "Truimid mo bhròn, thòirleum m' aigne",
+      "translation": "Through my sorrow, my mind wanders.",
+      "grammar": "The verb phrase \"mo bhròn\" is in the nominative absolute construction, describing the state of being rather than an action. The pronoun \"m'\" agrees with the subject \"ainge\"."
+    },
+    {
+      "time": 35.873,
+      "text": "Hoilibheag hilibheag hò-aill-il ò",
+      "translation": "Holly little,",
+      "grammar": "This line features a poetic use of Gaelic pronunciation and intonation, with the repetition of \"hili-\" emphasizing the speaker's affectionate tone. The phrase is an idiomatic expression used to address someone in a playful or endearing manner."
+    },
+    {
+      "time": 40.636,
+      "text": "Hoilibheag hilibheag hò-rò ì",
+      "translation": "Holly little",
+      "grammar": "This line features a playful use of alliteration and rhyme, characteristic of traditional Gaelic singing. The phrase \"hilibheag\" is an idiomatic expression meaning \"little one\", with the repetition emphasizing affection and endearment."
+    },
+    {
+      "time": 44.656,
+      "text": "Hoilibheag hilibheag hò-aill-il ò",
+      "translation": "Holly little,",
+      "grammar": "This line features a poetic use of Gaelic, with the repetition of \"hili-\" creating an onomatopoeic effect. The phrase is an idiomatic expression used to address someone in a playful or affectionate manner."
+    },
+    {
+      "time": 49.419,
+      "text": "Smeòrach le Clann Dòmhnaill mì",
+      "translation": "Thriller with the MacDonalds",
+      "grammar": "The phrase \"Smeòrach\" is an idiomatic expression, equivalent to \"a thrill\" or \"an excitement\", using the verb \"smeòrach\" in the nominative absolute construction, which functions as a predicate nominative."
+    },
+    {
+      "time": 53.438,
+      "text": "Smeòrach mis' air mullach beinne",
+      "translation": "I'm a thresher on the mountaintop.",
+      "grammar": "The phrase \"smeòrach mis' air\" is an idiomatic expression, where \"smeòrach\" means \"thresher\" and \"mis'\" is a possessive particle indicating the speaker's profession."
+    },
+    {
+      "time": 57.457,
+      "text": "'G amharc grèin' is speuran soilleir",
+      "translation": "Watching the sun and clear skies",
+      "grammar": "The phrase \"is speuran\" uses the present continuous tense to describe a temporary or ongoing state, emphasizing the clarity of the sky."
+    },
+    {
+      "time": 62.22,
+      "text": "Thig mi stòlda chòir na coille -",
+      "translation": "I will come to the forest's rightful place -",
+      "grammar": "The use of \"stòlda\" (will come) indicates future tense, emphasizing the speaker's determination and commitment."
+    },
+    {
+      "time": 66.983,
+      "text": "Bidh mi beò air treòdas eile",
+      "translation": "I will live on another path.",
+      "grammar": "The verb bidh is in the future tense, indicating a planned or intended action. The phrase beò air treòdas eile can be translated to \"on another path\" and implies a sense of moving forward or continuing on a different journey."
+    },
+    {
+      "time": 71.746,
+      "text": "Hoilibheag hilibheag hò-aill-il ò",
+      "translation": "Holly little,",
+      "grammar": "The use of \"hò-aill-il\" in this line is an example of Scottish Gaelic's unique phonological and grammatical features, where the repetition of sounds and syllables creates a musical quality."
+    },
+    {
+      "time": 76.509,
+      "text": "Hoilibheag hilibheag hò-rò ì",
+      "translation": "Holly little",
+      "grammar": "In Scottish Gaelic, hoilibheag is an adjective phrase in the nominative case, used to address someone with affection and familiarity. The use of hò-rò ì is a poetic way to express endearment, similar to saying \"little one\" or \"sweetheart\"."
+    },
+    {
+      "time": 80.529,
+      "text": "Hoilibheag hilibheag hò-aill-il ò",
+      "translation": "Holly little,",
+      "grammar": "The use of \"hò\" and \"il\" in this line is an example of Scottish Gaelic's distinctive vowel lengthening and nasalization, which can be challenging for learners to replicate accurately. Pay attention to the subtle changes in pitch and pronunciation to convey the correct meaning."
+    },
+    {
+      "time": 85.292,
+      "text": "Smeòrach le Clann Dòmhnaill mì",
+      "translation": "Thriller with the MacDonalds",
+      "grammar": "The phrase \"Smeòrach le\" is an idiomatic expression meaning \"thriller\" or \"exciting event\", using the verb \"smeòrach\" in the sense of a thrilling or exciting experience."
+    },
+    {
+      "time": 89.311,
+      "text": "Ma mholas gach eun a thìr fèin",
+      "translation": "If every bird praises its own land",
+      "grammar": "This line uses the present tense to describe a hypothetical situation, with the verb \"mholas\" (praises) in the subjunctive mood, indicating a wish or possibility rather than fact. The phrase \"gach eun\" (every bird) is an idiomatic expression emphasizing universality."
+    },
+    {
+      "time": 94.818,
+      "text": "Cuim thar èis nach moladh mise",
+      "translation": "Keep in mind that I don't recommend it.",
+      "grammar": "The phrase \"cuim thar èis\" is an idiomatic expression meaning \"keep in mind\" or \"take into account\", using the present tense to convey a general or habitual sense."
+    },
+    {
+      "time": 99.581,
+      "text": "Tìr nan curaidh, tìr nan cliar",
+      "translation": "Land of champions, land of the brave",
+      "grammar": "This phrase uses the idiomatic expression \"tìr\" (land) to refer to a place or community that values certain qualities, in this case, bravery and champion-like behavior. The use of \"tìr\" emphasizes the importance of these traits within the culture being described."
+    },
+    {
+      "time": 104.344,
+      "text": "An tìr bhiadhchar, fhialaidh mhiosail?",
+      "translation": "The fertile, generous, and fertile land?",
+      "grammar": "This line uses the present tense to ask a rhetorical question about the nature of the land, with the repetition of \"fertile\" emphasizing its abundance."
+    },
+    {
+      "time": 108.363,
+      "text": "Hoilibheag hilibheag hò-aill-il ò",
+      "translation": "Holly little,",
+      "grammar": "This line features a poetic use of repetition and intonation to create an idiomatic expression, rather than a grammatically correct sentence. The repeated \"hili\" sounds mimic the rhythm of a traditional Gaelic song, emphasizing the affectionate tone of the phrase."
+    },
+    {
+      "time": 113.126,
+      "text": "Hoilibheag hilibheag hò-rò ì",
+      "translation": "Holly little",
+      "grammar": "The use of \"hò-rò\" is an idiomatic expression in Gaelic, equivalent to the English phrase \"little one\"."
+    },
+    {
+      "time": 117.146,
+      "text": "Hoilibheag hilibheag hò-aill-il ò",
+      "translation": "Holly little,",
+      "grammar": "The lyric uses the Scottish Gaelic vocative case to address someone, similar to saying \"oh, little one\" in English. The repetition of \"hili-\" is an idiomatic expression emphasizing affection and endearment."
+    },
+    {
+      "time": 121.909,
+      "text": "Smeòrach le Clann Dòmhnaill mì",
+      "translation": "Thriller with the MacDonalds",
+      "grammar": "This line uses the idiomatic phrase \"le Clann Dòmhnaill\" to mean \"with the MacDonalds\", employing a possessive particle (le) to indicate association, rather than possession."
+    },
+    {
+      "time": 125.928,
+      "text": "'N tìr nach caol ri cois na mara",
+      "translation": "The land that is not narrow by the sea",
+      "grammar": "In Scottish Gaelic, the verb \"nach\" in this phrase functions as a negation, indicating the opposite of what would be expected, and is often translated as \"that is not\"."
+    },
+    {
+      "time": 132.179,
+      "text": "An tìr ghaolach, chaomhnach, channach",
+      "translation": "The loving, caring, and loving land",
+      "grammar": "This line employs a poetic idiom, where the adjective \"loving\" is repeated to emphasize the speaker's affection for the land. The use of the present participle \"-ing\" form in \"loving\" creates a sense of continuity and intimacy."
+    },
+    {
+      "time": 136.198,
+      "text": "An tìr laoghach, uanach, mheannach",
+      "translation": "The land of calves, lambs, and young ones",
+      "grammar": "This phrase uses the idiomatic expression \"laoghach\" to describe a place as peaceful or serene, conveying a sense of calmness. The use of \"uanach\" and \"mheannach\" emphasizes this tranquil atmosphere, creating an evocative image of a idyllic land."
+    },
+    {
+      "time": 140.217,
+      "text": "Tìr an arain, bhainneach, mhealach",
+      "translation": "Land of bread, milk, honey",
+      "grammar": "The phrase \"Tìr an arain\" is an idiomatic expression using the preposition \"an\" to indicate a place or territory, rather than possession."
+    },
+    {
+      "time": 144.237,
+      "text": "Hoilibheag hilibheag hò-aill-il ò",
+      "translation": "Holly little,",
+      "grammar": "This line features a poetic use of Gaelic, where the repetition of \"hili-\" creates an onomatopoeic effect, mimicking the sound of whispering or gentle rustling. The phrase is used as an affectionate address, similar to saying \"oh, dear little one\"."
+    },
+    {
+      "time": 149.0,
+      "text": "Hoilibheag hilibheag hò-rò ì",
+      "translation": "Holly little",
+      "grammar": "This line uses a playful repetition of words to create an idiomatic expression, with no specific grammatical features to note."
+    },
+    {
+      "time": 153.019,
+      "text": "Hoilibheag hilibheag hò-aill-il ò",
+      "translation": "Holly little,",
+      "grammar": "This line features a poetic use of Gaelic, with the repetition of \"hili-\" creating an onomatopoeic effect. The phrase is an idiomatic expression used to address someone in a playful or affectionate manner."
+    },
+    {
+      "time": 157.782,
+      "text": "Smeòrach le Clann Dòmhnaill mì",
+      "translation": "Thriller with the MacDonalds",
+      "grammar": "The phrase \"Smeòrach\" is an idiomatic expression, equivalent to \"thrilling\" or \"exciting\", and is used in a playful manner to describe an event. The use of \"le Clann Dòmhnaill mì\" (with my MacDonalds) adds a sense of possessiveness and familiarity, emphasizing the speaker's connection to the group."
+    },
+    {
+      "time": 161.801,
+      "text": "An Cladh Chomhghain mise rugadh",
+      "translation": "I was born in the Chowghan Cemetery.",
+      "grammar": "The phrase \"An Cladh Chomhghain\" is a noun phrase functioning as a topic, with \"an\" indicating the definite article and \"Cladh Chomhghain\" being a proper noun. The verb \"rugadh\" is in the past tense, specifically the passive voice, indicating the subject's birthplace."
+    },
+    {
+      "time": 165.821,
+      "text": "'N Àird an Rùnair fhuair mi togail",
+      "translation": "I was raised in the Secretary's Office.",
+      "grammar": "The phrase \"fhuair mi\" is a common idiomatic expression in Scottish Gaelic, equivalent to English \"was raised\" or \"grew up\", using the past passive participle \"togail\" and the verb \"fhuair\" (got) to convey the idea of upbringing."
+    },
+    {
+      "time": 171.327,
+      "text": "Fradharc a' chuain uaibhrich chuislich",
+      "translation": "The sight of the majestic, calm ocean",
+      "grammar": "In Scottish Gaelic, the verb \"a' chuain\" is in the present participle form, describing an ongoing action, and the phrase \"uaibhrich chuislich\" uses a descriptive adjective to modify the noun \"chuain\", creating a vivid image."
+    },
+    {
+      "time": 175.347,
+      "text": "Nan stuagh guanach cluaineach cluiceach",
+      "translation": "In the hollow, hollow, hollow arches",
+      "grammar": "The phrase \"Nan stuagh\" is an idiomatic expression indicating a sense of being in a secluded or hidden place, with \"nan\" functioning as a particle to emphasize the idea of something being inside or within."
+    },
+    {
+      "time": 179.366,
+      "text": "Hoilibheag hilibheag hò-aill-il ò",
+      "translation": "Holly little,",
+      "grammar": "This line features a poetic use of Gaelic, with the repetition of \"hili-\" creating an onomatopoeic effect. The phrase is likely meant to be sung or chanted, rather than spoken in standard English."
+    },
+    {
+      "time": 184.129,
+      "text": "Hoilibheag hilibheag hò-rò ì",
+      "translation": "Holly little",
+      "grammar": "This line features a poetic use of Gaelic, with the repetition of \"hili\" emphasizing the smallness and delicacy of the subject. The phrase \"hoilibheag\" is an idiomatic expression meaning \"little\" or \"small\"."
+    },
+    {
+      "time": 188.148,
+      "text": "Hoilibheag hilibheag hò-aill-il ò",
+      "translation": "Holly little,",
+      "grammar": "This line features a poetic and idiomatic expression, where \"hilibheag\" is a repetitive intensifier emphasizing the smallness of something. The use of the vocative particle \"o\" (ò) addresses someone or something with affection."
+    },
+    {
+      "time": 192.911,
+      "text": "Smeòrach le Clann Dòmhnaill mì",
+      "translation": "Thriller with the MacDonalds",
+      "grammar": "This idiomatic phrase uses the present participle \"smeòrach\" to describe an action in progress, equivalent to English's continuous tense. The possessive pronoun \"le\" indicates association with Clann Dòmhnaill, similar to saying \"a thriller by the MacDonalds\"."
+    },
+    {
+      "time": 196.931,
+      "text": "Measg Chlann Dòmhnaill fhuair mi m' altrum -",
+      "translation": "Among the Clan Donald I received my upbringing -",
+      "grammar": "The phrase \"Measg Chlann Dòmhnaill\" is an idiomatic expression indicating a person's origin or affiliation, similar to saying \"among the people of Clan Donald\"."
+    },
+    {
+      "time": 202.438,
+      "text": "Buidheann nan seòl 's nan sròl daithte",
+      "translation": "A group of colorful sails and sails",
+      "grammar": "The phrase \"buidheann\" is an idiomatic expression meaning \"a group\" or \"a collection\", using the noun \"buide\" (color) in a figurative sense, emphasizing the vibrant colors of the sails."
+    },
+    {
+      "time": 207.944,
+      "text": "Nan long luath air chuantaibh farsaing",
+      "translation": "In fast ships on wide seas",
+      "grammar": "The verb \"long\" is in the imperative mood, used to express a command or instruction. The phrase \"nan long\" can be translated as \"let it be\" or \"may it be\", implying a sense of permission or allowance."
+    },
+    {
+      "time": 212.708,
+      "text": "Aiteam nach ciùin rùsgadh ghlas-lann",
+      "translation": "An item that does not shed green leaves",
+      "grammar": "The phrase \"nach ciùin\" is an idiomatic expression indicating negation, equivalent to \"not quiet\" or \"not silent\"."
+    },
+    {
+      "time": 217.471,
+      "text": "Hoilibheag hilibheag hò-aill-il ò",
+      "translation": "Holly little,",
+      "grammar": "The use of \"hò-aill-il\" in this line is an example of a Scottish Gaelic idiomatic expression, where the verb \"aill\" (to be) is used to emphasize the speaker's affection or fondness for something."
+    },
+    {
+      "time": 222.234,
+      "text": "Hoilibheag hilibheag hò-rò ì",
+      "translation": "Holly little",
+      "grammar": "This line features a poetic use of Gaelic, with \"hò-rò\" being an idiomatic expression that combines the words for \"little\" and \"red\" to create a whimsical description. The phrase is likely meant to evoke a sense of endearment or affection, rather than conveying literal information about holly's size or color."
+    },
+    {
+      "time": 226.253,
+      "text": "Hoilibheag hilibheag hò-aill-il ò",
+      "translation": "Holly little,",
+      "grammar": "This line features a poetic use of Gaelic, with the repetition of \"hili-\" creating an onomatopoeic effect. The phrase is an idiomatic expression used to address someone in a playful or affectionate manner."
+    },
+    {
+      "time": 231.016,
+      "text": "Smeòrach le Clann Dòmhnaill mì (Hoilibheag hilibheag hò-aill-il ò)",
+      "translation": "Thriller with the MacDonalds (Hoolibheag hilibheag hò-aill-il ò)",
+      "grammar": "This line uses a playful idiom, combining the phrase \"thriller\" with the names of a Scottish clan to create a whimsical title. The use of \"Smeòrach\", which means \"thriller\" or \"sensation\", is an example of creative language usage in Gaelic song titles."
+    },
+    {
+      "time": 239.498,
+      "text": "Hoilibheag hilibheag hò-rò ì",
+      "translation": "Holly little",
+      "grammar": "The use of \"hilibheag\" twice, with different vowel lengths and accents, is an example of a Gaelic idiom, where the repetition emphasizes the endearment. The phrase \"Hoilibheag hò-rò ì\" can be translated to \"Holly little one\", conveying affection."
+    },
+    {
+      "time": 243.518,
+      "text": "Hoilibheag hilibheag hò-aill-il ò",
+      "translation": "Holly little,",
+      "grammar": "In Scottish Gaelic, the use of the verb \"hilibheag\" in the present participle form (\"-ing\") and the particle \"ho-\" creates a poetic, affectionate tone, equivalent to saying \"little\" or \"dear\". The sentence structure is informal and conversational."
+    },
+    {
+      "time": 248.281,
+      "text": "Smeòrach le Clann Dòmhnaill mì",
+      "translation": "Thriller with the MacDonalds",
+      "grammar": "This line uses the idiomatic phrase \"le Clann Dòmhnaill\" to mean \"with the MacDonalds\", employing a possessive particle \"le\" instead of preposition \"with\"."
+    }
+  ]
+}

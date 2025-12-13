@@ -1,0 +1,181 @@
+{
+  "id": "ru_track_6ec120e",
+  "title": "Я в моменте",
+  "artist": "Dzharakhov feat. Markul",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_track_6ec120e.mp3",
+  "duration": 127,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Эй, эй, хм",
+      "translation": "Hey, hey, hmm",
+      "grammar": "The phrase 'хм' is an interjection used to express a thought or feeling, similar to 'hmm' in English."
+    },
+    {
+      "time": 2.12,
+      "text": "Я в моменте",
+      "translation": "I'm in the moment",
+      "grammar": ""
+    },
+    {
+      "time": 4.24,
+      "text": "И пролетел который день, я не заметил",
+      "translation": "And several days flew by, I didn’t notice",
+      "grammar": ""
+    },
+    {
+      "time": 8.786,
+      "text": "На своих двух, и мне навстречу только ветер",
+      "translation": "On my own two feet, and only the wind comes my way",
+      "grammar": ""
+    },
+    {
+      "time": 13.939,
+      "text": "Мне светит солнце, хоть и говорили все тут",
+      "translation": "The sun is shining on me, even though everyone here said",
+      "grammar": ""
+    },
+    {
+      "time": 19.092,
+      "text": "Что мне ничё не светит",
+      "translation": "That I have no chance",
+      "grammar": ""
+    },
+    {
+      "time": 22.426,
+      "text": "И мы раскрасим серый Питер, подарим ему улыбки",
+      "translation": "And we will color gray St. Petersburg and give it smiles",
+      "grammar": ""
+    },
+    {
+      "time": 27.579,
+      "text": "Я в моменте, извините! Не пишите, не звоните, нет!",
+      "translation": "I'm in a hurry, sorry! Don't write, don't call, no!",
+      "grammar": ""
+    },
+    {
+      "time": 33.338,
+      "text": "Каким бы трудным не был путь",
+      "translation": "No matter how difficult the path may be",
+      "grammar": ""
+    },
+    {
+      "time": 37.278,
+      "text": "Иду куда глаза глядят, и куда ноги ведут, эй",
+      "translation": "I go wherever my eyes look and wherever my feet lead, hey",
+      "grammar": ""
+    },
+    {
+      "time": 43.038,
+      "text": "Я в моменте",
+      "translation": "I'm in the moment",
+      "grammar": ""
+    },
+    {
+      "time": 45.158,
+      "text": "И пролетел который день, я не заметил",
+      "translation": "And several days flew by, I didn’t notice",
+      "grammar": ""
+    },
+    {
+      "time": 49.704,
+      "text": "На своих двух, и мне навстречу только ветер",
+      "translation": "On my own two feet, and only the wind comes my way",
+      "grammar": ""
+    },
+    {
+      "time": 54.857,
+      "text": "Мне светит солнце, хоть и говорили все тут",
+      "translation": "The sun is shining on me, even though everyone here said",
+      "grammar": ""
+    },
+    {
+      "time": 60.01,
+      "text": "Что мне ничё не светит",
+      "translation": "That I have no chance",
+      "grammar": ""
+    },
+    {
+      "time": 63.343,
+      "text": "Всю свою жизнь я просто бегу за чем-то (бегу за чем-то)",
+      "translation": "All my life I've been just running after something (running after something)",
+      "grammar": ""
+    },
+    {
+      "time": 71.53,
+      "text": "Не знаю зачем, просто бегу зачем-то",
+      "translation": "I don't know why, I'm just running for some reason.",
+      "grammar": ""
+    },
+    {
+      "time": 76.076,
+      "text": "Я так давно уже не находил момента",
+      "translation": "It's been so long since I've found a moment",
+      "grammar": ""
+    },
+    {
+      "time": 80.622,
+      "text": "Чтобы сделать вдох, выдох, перезагрузить ленту",
+      "translation": "To inhale, exhale, reset the feed",
+      "grammar": ""
+    },
+    {
+      "time": 84.562,
+      "text": "Я уже и забыл, когда смотрел на звёзды",
+      "translation": "I already forgot when I looked at the stars",
+      "grammar": ""
+    },
+    {
+      "time": 89.715,
+      "text": "И делал всё что хотел, ведь так хотел быть взрослым",
+      "translation": "And I did everything I wanted, because I wanted to be an adult so much.",
+      "grammar": ""
+    },
+    {
+      "time": 96.082,
+      "text": "Когда ещё я вернусь домой в тех старых кроссах?",
+      "translation": "When else will I come home in those old sneakers?",
+      "grammar": ""
+    },
+    {
+      "time": 101.841,
+      "text": "Ты скажешь мне: \"Никогда\", но никогда не поздно",
+      "translation": "You'll tell me \"Never,\" but it's never too late.",
+      "grammar": ""
+    },
+    {
+      "time": 106.994,
+      "text": "Я в моменте",
+      "translation": "I'm in the moment",
+      "grammar": ""
+    },
+    {
+      "time": 109.114,
+      "text": "И пролетел который день, я не заметил",
+      "translation": "And several days flew by, I didn’t notice",
+      "grammar": ""
+    },
+    {
+      "time": 113.661,
+      "text": "На своих двух, и мне навстречу только ветер",
+      "translation": "On my own two feet, and only the wind comes my way",
+      "grammar": ""
+    },
+    {
+      "time": 118.814,
+      "text": "Мне свeтит солнце, хоть и говорили все тут",
+      "translation": "The sun is shining on me, even though everyone here said so",
+      "grammar": ""
+    },
+    {
+      "time": 123.967,
+      "text": "Что мне ничё не светит",
+      "translation": "That I have no chance",
+      "grammar": ""
+    }
+  ]
+}

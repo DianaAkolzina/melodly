@@ -1,0 +1,373 @@
+{
+  "id": "es_enemigos",
+  "title": "Enemigos",
+  "artist": "Ozuna feat. Beéle & Ovy On The Drums",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_enemigos.mp3",
+  "duration": 201,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "¿Que si a mí me matan los celos cuando te veo con él?",
+      "translation": "Do I get so jealous when I see you with him?",
+      "grammar": "The use of ¿Qué si...? is an informal way to express doubt or uncertainty, equivalent to \"What if...\" in English. The sentence remains in the present tense, describing a hypothetical situation."
+    },
+    {
+      "time": 5.887,
+      "text": "Eso es obvio",
+      "translation": "That's obvious.",
+      "grammar": "The phrase \"eso es\" is an idiomatic expression used to emphasize a statement, equivalent to saying \"it's clear\" or \"it's evident\". The verb \"ser\" (to be) is in the present tense and agrees with the subject \"eso\" (that)."
+    },
+    {
+      "time": 7.477,
+      "text": "Si te conozco más de lo que te conoce el que dice que es tu novio",
+      "translation": "I know you better than the guy who claims to be your boyfriend does.",
+      "grammar": "The phrase \"Si te conozco\" is a conditional sentence in the present tense, implying a hypothetical situation where the speaker knows someone better. The use of \"te\" instead of \"yo\" emphasizes the focus on the listener and creates an intimate tone."
+    },
+    {
+      "time": 14.652,
+      "text": "Puedo notar, puedo notar",
+      "translation": "I can tell, I can tell",
+      "grammar": "The repetition of \"puedo notar\" emphasizes the speaker's ability to notice or perceive something, using the present tense to convey a sense of ongoing awareness."
+    },
+    {
+      "time": 16.672,
+      "text": "Te toca disimular cuando te veo de la mano con el fulano de tal",
+      "translation": "You have to pretend when I see you holding hands with that guy.",
+      "grammar": "This line uses the present tense of the verb \"tocar\" (to touch) in the idiomatic expression \"te toca\" meaning \"it's up to you\" or \"you have to\", indicating a sense of obligation."
+    },
+    {
+      "time": 22.988,
+      "text": "Esos ojitos bonitos ya no te han vuelto a brillar",
+      "translation": "Those pretty eyes have stopped shining.",
+      "grammar": "The verb \"han vuelto\" is in the pluperfect tense, indicating an action that occurred before another action in the past. The phrase \"ya no\" is an idiomatic expression meaning \"no longer\"."
+    },
+    {
+      "time": 27.586,
+      "text": "Conmigo tú eras real, con él sí",
+      "translation": "With me you were real, with him you were",
+      "grammar": "The use of \"eras\" instead of \"fuiste\" indicates the past perfect tense, emphasizing that the speaker's relationship was genuine at some point in the past. The phrase \"conmigo tú eras\" is an idiomatic expression implying a deep connection between the speaker and the subject."
+    },
+    {
+      "time": 30.895,
+      "text": "Puedo notar, puedo notar",
+      "translation": "I can tell, I can tell",
+      "grammar": "The repetition of \"puedo notar\" emphasizes the speaker's ability to notice or recognize something, using the present tense to convey a sense of ongoing awareness."
+    },
+    {
+      "time": 32.914,
+      "text": "Te cuesta disimular cuando te veo de la mano con el fulano de tal",
+      "translation": "You have a hard time hiding it when I see you holding hands with that guy.",
+      "grammar": "The verb \"cuesta\" is in the present tense, indicating a habitual or general difficulty in hiding one's emotions. The phrase \"de la mano\" is an idiomatic expression meaning \"holding hands\", and the pronoun \"te\" agrees with the subject \"you\"."
+    },
+    {
+      "time": 39.231,
+      "text": "Esos ojitos bonitos ya no te han vuelto a brillar",
+      "translation": "Those pretty eyes have stopped shining.",
+      "grammar": "The phrase \"ya no\" is an idiomatic expression indicating the past perfect tense, implying that the action of the eyes stopping to shine occurred before another action in the past."
+    },
+    {
+      "time": 43.828,
+      "text": "Conmigo tú eras real",
+      "translation": "With me you were real",
+      "grammar": "The use of \"eras\" instead of \"eran\" in this sentence is a common idiomatic expression in Spanish, indicating a past experience or memory that is still relevant. This construction emphasizes the speaker's personal connection to the event."
+    },
+    {
+      "time": 45.848,
+      "text": "Con ese puedo notar",
+      "translation": "With that I can notice",
+      "grammar": "This line illustrates the use of the present tense (puedo) to express ability or capability, with the verb notar meaning \"to notice\" in a figurative sense."
+    },
+    {
+      "time": 47.868,
+      "text": "Ha sido en vano irnos tan lejos",
+      "translation": "It was in vain to go so far away",
+      "grammar": "The verb phrase \"ha sido\" indicates a past action with a sense of regret or futility, using the imperfective aspect to convey a sense of ongoing effort. The idiom \"irnos tan lejos\" is an idiomatic expression meaning \"to go too far\"."
+    },
+    {
+      "time": 51.177,
+      "text": "O cómo estamos por esto y aquello",
+      "translation": "Or how we are because of this and that",
+      "grammar": "This sentence uses the present tense to express a general truth or habitual action, with \"estamos\" indicating a shared experience. The phrase \"por esto y aquello\" is an idiomatic expression meaning \"because of various reasons\"."
+    },
+    {
+      "time": 54.485,
+      "text": "Lo que sentimos los dos no lo sentimos en ellos",
+      "translation": "What we both feel, we don't feel in them.",
+      "grammar": "This sentence uses the present tense to describe a general feeling or state, rather than a specific past event. The phrase \"no lo sentimos\" is an idiomatic expression meaning \"we don't understand\" or \"it doesn't make sense\", emphasizing the contrast between their emotional experience and the external world."
+    },
+    {
+      "time": 59.083,
+      "text": "Y no has pensao que estamos",
+      "translation": "And haven't you thought that we are",
+      "grammar": "The phrase \"¿Y no has pensao\" is an informal way of asking someone if they have considered or realized something, using the present perfect tense to convey a sense of surprise or irony."
+    },
+    {
+      "time": 61.962,
+      "text": "Tú y yo durmiendo con los enemigos",
+      "translation": "You and I sleeping with the enemy",
+      "grammar": "The phrase \"con los enemigos\" is an idiomatic expression that means to be in a difficult or precarious situation, rather than literally sleeping with one's enemies. The use of the preposition \"con\" indicates a state of being in a particular condition, rather than a physical action."
+    },
+    {
+      "time": 65.271,
+      "text": "Dos seres que jamás hemos querido",
+      "translation": "Two beings we have never loved",
+      "grammar": "The phrase \"dos seres\" is in the nominative plural form, agreeing with the subject pronoun \"hemos\". The use of the present perfect tense \"hemos querido\" emphasizes the negation of a past action."
+    },
+    {
+      "time": 68.15,
+      "text": "Los dos somos victimarios de un amor correspondido",
+      "translation": "We are both victims of a reciprocated love",
+      "grammar": "The phrase \"somos\" is in the present tense, indicating that the speaker and their partner are currently experiencing the effects of this reciprocated love. The use of \"victimas\" (victims) is an idiomatic expression to convey the idea that they are both suffering or being affected by the same romantic situation."
+    },
+    {
+      "time": 71.889,
+      "text": "Si contigo había sentido lo que nunca había sentido",
+      "translation": "With you I had felt what I had never felt before.",
+      "grammar": "The phrase \"haya sentido\" is in the preterite perfect tense, indicating a completed action in the past that has relevance to the present. The use of \"había\" instead of \"sentí\" emphasizes the significance of this experience with the speaker's current emotional state."
+    },
+    {
+      "time": 76.057,
+      "text": "Yo sé bien que está prohibido, pero es que me matas tú",
+      "translation": "I know perfectly well that it's forbidden, but you're killing me.",
+      "grammar": "The phrase \"me matas\" is an idiomatic expression meaning \"you're driving me crazy\" or \"you're killing me with frustration\", rather than a literal statement of violence. The verb \"matar\" is in the informal second person singular form \"me matas\" to emphasize the speaker's emotional state."
+    },
+    {
+      "time": 81.513,
+      "text": "Uh, uh-uh-uh-uh-uh",
+      "translation": "Uh, uh-uh-uh-uh-uh",
+      "grammar": "This interjection is an example of a repeated phrase used to express hesitation or uncertainty, with the speaker seeking confirmation or clarification. The use of \"uh\" particles emphasizes the speaker's indecision and invites the listener to share their perspective."
+    },
+    {
+      "time": 84.393,
+      "text": "Uh, uh-uh-uh-uh-uh",
+      "translation": "Uh, uh-uh-uh-uh-uh",
+      "grammar": "This interjection is an example of a repeated phrase used to express hesitation or uncertainty, often in informal spoken English. The use of \"uh\" before each repetition emphasizes the speaker's reluctance to commit to their thoughts."
+    },
+    {
+      "time": 87.272,
+      "text": "Uh, uh, uh-uh-uh",
+      "translation": "Uh, uh, uh-uh-uh",
+      "grammar": "This interjection is an example of a repetitive phrase used to express hesitation or uncertainty, with the repeated \"uh\" emphasizing the speaker's lack of confidence."
+    },
+    {
+      "time": 89.721,
+      "text": "Uh, uh-uh-uh-uh",
+      "translation": "Uh, uh-uh-uh-uh",
+      "grammar": "This interjection is an example of a repetitive phrase used to express hesitation or uncertainty, with the speaker repeating the sound \"uh\" for emphasis."
+    },
+    {
+      "time": 92.171,
+      "text": "Uh, uh-uh-uh-uh-uh",
+      "translation": "Uh, uh-uh-uh-uh-uh",
+      "grammar": "This interjection is an example of a repeated phrase used to express hesitation or uncertainty, with the \"uh\" sound serving as a filler word to buy time before speaking. The tense and mood are informal and conversational, mirroring everyday spoken language."
+    },
+    {
+      "time": 95.05,
+      "text": "Uh, uh-uh-uh-uh-uh",
+      "translation": "Uh, uh-uh-uh-uh-uh",
+      "grammar": "This interjection is an expression of hesitation or uncertainty, often used to seek confirmation or clarification. It does not convey a specific tense or mood, but rather serves as a filler word in informal conversation."
+    },
+    {
+      "time": 97.929,
+      "text": "Uh, uh, uh-uh-uh",
+      "translation": "Uh, uh, uh-uh-uh",
+      "grammar": "This interjection is an example of a repetitive phrase used to express hesitation or uncertainty, with the repeated \"uh\" emphasizing the speaker's lack of clarity."
+    },
+    {
+      "time": 100.378,
+      "text": "Uh, uh",
+      "translation": "Uh, uh",
+      "grammar": "This interjection is an informal way to express hesitation or uncertainty in spoken English."
+    },
+    {
+      "time": 101.578,
+      "text": "Puedo notar, puedo notar",
+      "translation": "I can tell, I can tell",
+      "grammar": "The repeated use of \"puedo\" (can) in the present tense indicates a habitual or general ability, emphasizing the speaker's capacity to notice something."
+    },
+    {
+      "time": 103.598,
+      "text": "Te cuesta disimular cuando te veo de la mano con el fulano de tal",
+      "translation": "You have a hard time hiding it when I see you holding hands with that guy.",
+      "grammar": "The verb \"cuesta\" is in the present tense, indicating a habitual or general difficulty in hiding one's emotions. The phrase \"de la mano con el fulano de tal\" is an idiomatic expression meaning \"holding hands with that person\", emphasizing the speaker's emotional distress when seeing the other person with someone else."
+    },
+    {
+      "time": 109.914,
+      "text": "Esos ojitos bonitos ya no te han vuelto a brillar",
+      "translation": "Those pretty eyes have stopped shining.",
+      "grammar": "The phrase \"ya no\" is an idiomatic expression indicating the past perfect tense, implying that the action of the eyes stopping to shine occurred before another action in the past."
+    },
+    {
+      "time": 114.512,
+      "text": "Conmigo tú eras real, con ese",
+      "translation": "With me you were real, with that",
+      "grammar": "The use of \"eras\" (were) in the past perfect tense indicates a completed action in the past that has relevance to the present moment. The phrase \"conmigo tú eras\" is an idiomatic expression equivalent to \"with me you were\"."
+    },
+    {
+      "time": 117.391,
+      "text": "Puedo notar, puedo notar",
+      "translation": "I can tell, I can tell",
+      "grammar": "The repetition of \"puedo notar\" emphasizes the speaker's certainty and uses the present tense to convey a sense of ongoing ability."
+    },
+    {
+      "time": 119.411,
+      "text": "Te toca disimular cuando te veo de la mano con el fulano de tal",
+      "translation": "You have to pretend when I see you holding hands with that guy.",
+      "grammar": "This line uses the present tense of the verb \"toca\" (has to) in a conditional sentence, implying a hypothetical situation. The phrase \"de la mano con el fulano de tal\" is an idiomatic expression meaning \"holding hands with that person\"."
+    },
+    {
+      "time": 125.727,
+      "text": "Esos ojitos bonitos ya no te han vuelto a brillar",
+      "translation": "Those pretty eyes have stopped shining.",
+      "grammar": "The phrase \"ya no\" is an idiomatic expression indicating the past perfect tense, implying that the action of the eyes stopping to shine occurred before another action in the past."
+    },
+    {
+      "time": 130.325,
+      "text": "Conmigo tú eras real, óyeme",
+      "translation": "With me you were real, listen to me",
+      "grammar": "The use of \"eras\" instead of \"fuiste\" indicates a past perfect tense, emphasizing the speaker's perception that their relationship was genuine in the past. The phrase \"Conmigo tú eras\" is an idiomatic expression meaning \"with me you were\"."
+    },
+    {
+      "time": 132.774,
+      "text": "Si nos juntamos somos el hambre y las ganas de comer",
+      "translation": "If we come together, we are like hunger and the desire to eat.",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of habitual or inherent truth, emphasizing the idea that when people gather, their collective energy is comparable to intense physical needs."
+    },
+    {
+      "time": 137.802,
+      "text": "No existe algo peor que un ciego que él mismo no quiere ver",
+      "translation": "There is nothing worse than a blind person who refuses to see.",
+      "grammar": "This idiomatic expression uses the present tense to convey a timeless truth, emphasizing the idea that some things are inherently bad or undesirable. The phrase \"no existe algo peor\" literally means \"there doesn't exist something worse\", but the emphasis is on the existence of such an evil rather than its non-existence."
+    },
+    {
+      "time": 143.688,
+      "text": "Si ellos se enteran, sigue tranquila que yo lo voy a resolver",
+      "translation": "If they find out, don't worry, I'll sort it out.",
+      "grammar": "The verb \"sigue\" is in the imperative mood and second person singular (\"you\"), indicating a direct address to someone. The phrase \"no te preocupes\" is an idiomatic expression meaning \"don't worry\"."
+    },
+    {
+      "time": 149.145,
+      "text": "Y así estamos",
+      "translation": "And so we are",
+      "grammar": "The phrase \"Y así estamos\" uses the present tense to express a general truth or habitual situation, with \"así\" indicating a sense of inevitability. Note that \"estamos\" is the plural form of the verb agreeing with the pronoun \"we\"."
+    },
+    {
+      "time": 150.735,
+      "text": "Tú y yo durmiendo con los enemigos",
+      "translation": "You and I sleeping with the enemy",
+      "grammar": "The phrase \"con los enemigos\" is an idiomatic expression meaning \"with our adversaries\" or \"on the same side as our opponents\"."
+    },
+    {
+      "time": 154.044,
+      "text": "Dos seres que jamás hemos querido",
+      "translation": "Two beings we have never loved",
+      "grammar": "The phrase \"dos seres\" is in the nominative plural form, agreeing with the subject pronoun \"hemos\". The use of the present perfect tense \"hemos querido\" implies a sense of regret or longing for something that has not happened."
+    },
+    {
+      "time": 156.923,
+      "text": "Los dos somos victimarios de un amor correspondido",
+      "translation": "We are both victims of a reciprocated love",
+      "grammar": "The verb phrase \"somos\" is in the present tense, indicating that the speaker and their partner are currently experiencing the consequences of their reciprocated love. The use of \"victimas\" (victims) emphasizes the idea that they are powerless to control their emotions."
+    },
+    {
+      "time": 160.662,
+      "text": "Si contigo había sentido lo que nunca había sentido",
+      "translation": "With you I had felt what I had never felt before.",
+      "grammar": "The use of the past perfect tense (had sensed) emphasizes the uniqueness of the experience, implying that it was a one-time event in the speaker's life. The phrase \"nunca había sentido\" is an idiomatic expression meaning \"I had never experienced\"."
+    },
+    {
+      "time": 164.83,
+      "text": "Yo sé bien que está prohibido, pero es que me matas tú",
+      "translation": "I know perfectly well that it's forbidden, but you're killing me.",
+      "grammar": "The phrase \"me matas tú\" is an idiomatic expression conveying strong emotions, equivalent to saying \"you're driving me crazy\" or \"you're killing me with your actions\". The use of the verb \"matar\" in this context implies a figurative death caused by someone's words or actions."
+    },
+    {
+      "time": 170.286,
+      "text": "Uh, uh-uh-uh-uh-uh",
+      "translation": "Uh, uh-uh-uh-uh-uh",
+      "grammar": "This interjection is an example of a repetitive phrase used to express hesitation or uncertainty, with the repeated \"uh\" emphasizing the speaker's indecision."
+    },
+    {
+      "time": 173.166,
+      "text": "Uh, uh-uh-uh-uh-uh",
+      "translation": "Uh, uh-uh-uh-uh-uh",
+      "grammar": "This interjection is an example of a phonetic representation of hesitation or uncertainty in spoken English, often used to stall for time before speaking. The repeated \"uh\"s convey a sense of awkwardness or discomfort."
+    },
+    {
+      "time": 176.045,
+      "text": "Uh, uh, uh-uh-uh",
+      "translation": "Uh, uh, uh-uh-uh",
+      "grammar": "This interjection is an example of a repeated phrase used to express hesitation or uncertainty, with no specific grammatical function."
+    },
+    {
+      "time": 178.494,
+      "text": "Uh, uh-uh-uh-uh",
+      "translation": "Uh, uh-uh-uh-uh",
+      "grammar": "This interjection is an example of a repeated phrase used to express hesitation or uncertainty, with the \"uh\" sound indicating a pause or a moment's consideration. The tense and mood remain informal throughout."
+    },
+    {
+      "time": 180.944,
+      "text": "Uh, uh-uh-uh-uh-uh",
+      "translation": "Uh, uh-uh-uh-uh-uh",
+      "grammar": "This interjection is an example of a repetitive phrase used to express hesitation or uncertainty, with the repeated \"uh\" emphasizing the speaker's lack of confidence."
+    },
+    {
+      "time": 183.823,
+      "text": "Uh, uh-uh-uh-uh-uh",
+      "translation": "Uh, uh-uh-uh-uh-uh",
+      "grammar": "This interjection is an expression of hesitation or uncertainty, often used to stall for time before speaking. The repeated \"uh\" emphasizes the speaker's reluctance to continue."
+    },
+    {
+      "time": 186.702,
+      "text": "Uh, uh-uh-uh-uh-uh",
+      "translation": "Uh, uh-uh-uh-uh-uh",
+      "grammar": "This interjection is an example of a repetitive phrase used to express hesitation or uncertainty, with the repeated \"uh\" emphasizing the speaker's indecision. The lack of grammatical structure and tense indicates a casual, informal tone."
+    },
+    {
+      "time": 189.581,
+      "text": "Uh, uh",
+      "translation": "Uh, uh",
+      "grammar": "This interjection is an informal way to express hesitation or uncertainty in spoken English."
+    },
+    {
+      "time": 190.781,
+      "text": "O-O-Ovy On The Drums",
+      "translation": "O-O-Ovy On The Drums",
+      "grammar": "This line is an interjection, used to express excitement or emphasis."
+    },
+    {
+      "time": 193.66,
+      "text": "Ozu-, Ozuna",
+      "translation": "Ozu, Ozuna",
+      "grammar": "This line is an example of a casual, informal way to address someone in Spanish, using the speaker's nickname or stage name. The verb tense and mood are not explicitly stated as it's more of a vocative phrase used for direct address."
+    },
+    {
+      "time": 194.86,
+      "text": "Yeah, rasta, yeah, mi pana",
+      "translation": "Yeah, rasta, yeah, my friend",
+      "grammar": "In this informal conversation, \"mi\" is used as a colloquial first-person singular pronoun, equivalent to \"my\" or \"me\", emphasizing the speaker's close relationship with their friend."
+    },
+    {
+      "time": 197.31,
+      "text": "Óyelo, Super Dá",
+      "translation": "Listen to it, Super Dá",
+      "grammar": "This interjection \"Óyelo\" is an imperative verb in the second person singular, instructing someone to listen. The use of \"it\" implies that the speaker is referring to a song or music."
+    },
+    {
+      "time": 198.9,
+      "text": "Ah-yeah",
+      "translation": "Ah-yeah",
+      "grammar": "This interjection \"Ah-yeah\" is an informal expression of strong agreement or confirmation, often used in spoken English to show enthusiasm and emphasis."
+    },
+    {
+      "time": 200.1,
+      "text": "Alright, alright",
+      "translation": "Alright, alright",
+      "grammar": "This interjection is an informal expression of agreement or confirmation, often used in spoken English to acknowledge someone's statement. Its tone and intonation convey a sense of friendliness and camaraderie."
+    }
+  ]
+}

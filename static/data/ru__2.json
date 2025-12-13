@@ -1,0 +1,169 @@
+{
+  "id": "ru__2",
+  "title": "Матушка",
+  "artist": "Татьяна Куртукова",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_.mp3",
+  "duration": 173,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Полевых цветов веночек, в утренней росе цветок",
+      "translation": "A wreath of wild flowers, a flower in the morning dew",
+      "grammar": "The phrase \"в утренней росе\" is an idiomatic expression that combines the noun \"роса\" (dew) with the adjectival phrase \"утренний\" (morning), creating a poetic and evocative image."
+    },
+    {
+      "time": 7.865,
+      "text": "Соловья запев свисточек, сок берёзовый глоток",
+      "translation": "The nightingale's whistle, the sip of birch sap",
+      "grammar": "This line uses the present participle form \"запев\" (whistling) to create a vivid and dynamic image, emphasizing the nightingale's continuous singing. The phrase \"свисточек\" is an idiomatic expression that conveys the idea of a gentle, soothing sound."
+    },
+    {
+      "time": 14.656,
+      "text": "Тишины послушать волю, по тропинке в лес густой",
+      "translation": "Listen to the will of silence, along the path into the dense forest",
+      "grammar": "The phrase \"тишины послушать\" is an idiom that means to follow one's intuition or listen to inner guidance. The verb \"послушать\" is in the infinitive form, indicating a desire or intention rather than a completed action."
+    },
+    {
+      "time": 23.596,
+      "text": "Поболтать с берёзкой вдоволь про него и про любовь",
+      "translation": "Chat with the birch tree about him and about love",
+      "grammar": "The phrase \"про него\" is an idiomatic expression meaning \"about him\" or \"concerning him\", using the preposition \"про\" to indicate topic rather than location."
+    },
+    {
+      "time": 33.609,
+      "text": "Матушка-земля, белая берёзонька",
+      "translation": "Mother Earth, white birch tree",
+      "grammar": "The phrase \"Матушка-земля\" is an idiomatic expression that combines the concept of motherhood with the idea of the earth, conveying a sense of nurturing and protection."
+    },
+    {
+      "time": 38.252,
+      "text": "Для меня — Святая Русь, для других — занозонька",
+      "translation": "For me it’s Holy Rus', for others it’s a thorn",
+      "grammar": "The phrase \"для других\" (for others) is an idiomatic expression implying that something is considered annoying or bothersome by people in general. The use of \"занозонька\" instead of the more literal translation (\"thorn\") adds to the idiomatic tone, conveying a sense of disdain and frustration."
+    },
+    {
+      "time": 46.118,
+      "text": "Матушка-земля, ой, белая берёзонька",
+      "translation": "Mother Earth, oh, white birch tree",
+      "grammar": "The phrase \"ой\" is an interjection expressing a sense of surprise or wonder, often used to draw attention to something. The sentence is in the nominative case and uses the vocative form \"Матушка-земля\" to address Mother Earth."
+    },
+    {
+      "time": 51.834,
+      "text": "Для меня — Святая Русь, для других — занозонька",
+      "translation": "For me it’s Holy Rus', for others it’s a thorn",
+      "grammar": "The phrase \"для меня\" and \"для других\" is an idiomatic expression indicating the speaker's subjective perspective (\"for me\") versus the objective view of others, with no grammatical connection between the two clauses."
+    },
+    {
+      "time": 59.7,
+      "text": "Сколько мне ещё годочков у кукушки поспрошать",
+      "translation": "How many more years should I ask the cuckoo for?",
+      "grammar": "The phrase \"сколько мне\" is an idiomatic expression meaning \"how many more\" in English, used to indicate a limited time frame. The verb \"поспрашивать\" is in the subjunctive mood, implying a hypothetical or uncertain situation."
+    },
+    {
+      "time": 67.565,
+      "text": "Про любовь свою девичью на ромашке погадать?",
+      "translation": "Should I tell fortunes about my maiden love on a daisy?",
+      "grammar": "The phrase \"про любовь свою\" is an idiomatic expression meaning \"about my maiden love\", where \"свою\" agrees with the noun \"любовь\" in the possessive case, emphasizing the speaker's personal experience."
+    },
+    {
+      "time": 75.43,
+      "text": "Ключевой воды студёной, в сотах свежего медку",
+      "translation": "Cold spring water, fresh honey in honeycombs",
+      "grammar": "The phrase \"Ключевой воды\" uses the idiomatic expression \"ключевой\" meaning \"key\" or \"essential\", rather than its literal translation. This emphasizes the importance of the cold spring water."
+    },
+    {
+      "time": 83.296,
+      "text": "В чистом поле тёмной ночью в небе звёздном утону",
+      "translation": "In an open field on a dark night, I will drown in the starry sky",
+      "grammar": "The verb \"утону\" is in the future tense, indicating the speaker's intention to be overwhelmed by the beauty of the starry sky. The phrase \"в чистом поле\" creates an idiom meaning \"in a state of freedom or openness\", emphasizing the sense of vastness and isolation."
+    },
+    {
+      "time": 93.309,
+      "text": "Матушка-земля, белая берёзонька",
+      "translation": "Mother Earth, white birch tree",
+      "grammar": "The phrase \"Матушка-земля\" is an idiomatic expression that translates to \"Mother Earth\", using the possessive suffix \"-а\" to convey a sense of affection and closeness."
+    },
+    {
+      "time": 97.952,
+      "text": "Для меня — Святая Русь, для других — занозонька",
+      "translation": "For me it’s Holy Rus', for others it’s a thorn",
+      "grammar": "The phrase \"для меня\" and \"для других\" indicate a contrastive idea, using the prepositional phrases to express different perspectives. The idiomatic expression \"занозонька\" is an informal way to refer to something annoying or bothersome."
+    },
+    {
+      "time": 105.817,
+      "text": "Матушка-земля, ой, белая берёзонька",
+      "translation": "Mother Earth, oh, white birch tree",
+      "grammar": "The phrase \"ой\" is an interjection expressing surprise or emphasis, often used to draw attention to the following statement. The sentence also employs a poetic tone, using metaphorical language (\"Матушка-земля\") to personify nature."
+    },
+    {
+      "time": 111.534,
+      "text": "Для меня — Святая Русь, для других — занозонька",
+      "translation": "For me it’s Holy Rus', for others it’s a thorn",
+      "grammar": "This idiomatic expression uses the comparative form of the possessive pronoun \"меня\" (for me) to convey a strong sense of ownership and emotional attachment, emphasizing the speaker's unique perspective."
+    },
+    {
+      "time": 119.399,
+      "text": "Матушка-земля",
+      "translation": "Mother Earth",
+      "grammar": "This phrase is an idiomatic expression, using a metaphorical mother figure to personify the natural world. The possessive suffix \"-земля\" (meaning \"of the earth\") emphasizes the idea of Mother Earth as a nurturing and protective entity."
+    },
+    {
+      "time": 121.894,
+      "text": "Для меня — Святая Русь",
+      "translation": "For me - Holy Rus'",
+      "grammar": "This phrase uses the possessive pronoun \"для меня\" (dlya menya) to express a strong emotional connection, equivalent to saying \"to me\" or \"for me\". The use of \"Святая Русь\" (Svyataya Russ') emphasizes the speaker's reverence and devotion."
+    },
+    {
+      "time": 126.536,
+      "text": "Матушка-земля, белая берёзонька",
+      "translation": "Mother Earth, white birch tree",
+      "grammar": "This phrase uses a poetic metaphor to personify Mother Nature, employing the idiomatic expression \"матушка\" (mother) to convey a sense of nurturing and protection. The phrase is in the nominative case, with \"Матушка-земля\" functioning as a single noun phrase."
+    },
+    {
+      "time": 131.179,
+      "text": "Для меня — Святая Русь, для других — занозонька",
+      "translation": "For me it’s Holy Rus', for others it’s a thorn",
+      "grammar": "This idiomatic phrase uses the comparative form of the possessive pronoun \"меня\" (mine) to convey a strong sense of personal identification with one's country, emphasizing the speaker's emotional connection. The phrase also employs a common Russian idiom \"занозонька\" which roughly translates as \"a thorn in someone's side\", implying that others may view Russia differently."
+    },
+    {
+      "time": 139.045,
+      "text": "Матушка-земля, белая берёзонька",
+      "translation": "Mother Earth, white birch tree",
+      "grammar": "This line uses a poetic metaphor to address Mother Earth directly, employing the idiomatic expression \"Матушка\" (Matoushka), which is a common way to refer to one's homeland or country in Russian culture."
+    },
+    {
+      "time": 143.687,
+      "text": "Для меня — Святая Русь, для других — занозонька",
+      "translation": "For me it’s Holy Rus', for others it’s a thorn",
+      "grammar": "This line employs a common Russian idiom \"занозонька\" which literally means \"thorn\" but figuratively conveys the idea of something annoying or bothersome, often used to express disdain or disapproval."
+    },
+    {
+      "time": 151.553,
+      "text": "Матушка-земля, ой, белая берёзонька",
+      "translation": "Mother Earth, oh, white birch tree",
+      "grammar": "The phrase \"ой\" is an interjection expressing surprise or emphasis, often used to draw attention to the following statement. In this context, it adds a touch of informality and intimacy to the speaker's address to Mother Earth."
+    },
+    {
+      "time": 157.269,
+      "text": "Для меня — Святая Русь, для других — занозонька",
+      "translation": "For me it’s Holy Rus', for others it’s a thorn",
+      "grammar": "This idiomatic expression uses the comparative form of the possessive pronoun \"меня\" (for me) to convey a sense of exclusivity and contrast, emphasizing the speaker's strong attachment to Russia."
+    },
+    {
+      "time": 165.135,
+      "text": "Матушка-земля",
+      "translation": "Mother Earth",
+      "grammar": "This idiomatic phrase is an interjection, used to express affection and respect towards nature or the environment. It does not have a specific tense or mood, but rather conveys a sense of reverence and connection."
+    },
+    {
+      "time": 167.629,
+      "text": "Матушка-земля, для других — занозонька",
+      "translation": "Mother Earth, for others - a thorn",
+      "grammar": "The phrase \"для других\" is an idiom meaning \"for others\" or \"to others\", conveying the idea that something is unpleasant or annoying to people other than oneself."
+    }
+  ]
+}

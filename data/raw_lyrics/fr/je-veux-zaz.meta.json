@@ -1,0 +1,16 @@
+{
+  "language": "fr",
+  "title": "Je veux",
+  "artist": "ZAZ",
+  "slug": "je-veux-zaz",
+  "track_length_seconds": 216,
+  "source": {
+    "provider": "musixmatch",
+    "track_id": 30957831,
+    "commontrack_id": 50672084,
+    "track_share_url": "https://www.musixmatch.com/lyrics/Dan-Balan/Je-Veux?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "track_edit_url": "https://www.musixmatch.com/lyrics/Dan-Balan/Je-Veux/edit?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "search_language": "fr",
+    "fetched_at": "2025-11-21T10:58:56.201108Z"
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "id": "es_yonaguni",
+  "title": "Yonaguni",
+  "artist": "Bad Bunny",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_yonaguni.mp3",
+  "duration": 207,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 2.8890999999940394,
+      "text": "Yeh-yeh-yeh-yeh",
+      "translation": "Yeah-yeah-yeah-yeah",
+      "grammar": "This interjection, \"yeh-yeh\", is an informal way to express strong agreement or enthusiasm in spoken English."
+    },
+    {
+      "time": 4.279300000011921,
+      "text": "Yeh-yeh-yeh-yeh-yeh-yeh",
+      "translation": "Yeah-yeah-yeah-yeah-yeah-yeah",
+      "grammar": "This is an example of a repeated interjection, used to express strong agreement or enthusiasm. The repetitive rhythm and stress on the \"yeah\" create a sense of emphasis and excitement."
+    },
+    {
+      "time": 6.57909999999404,
+      "text": "Yeh-yeh-yeh-yeh-yeh",
+      "translation": "Yeah-yeah-yeah-yeah-yeah",
+      "grammar": "This interjection \"yeh-yeh\" is an informal way to express strong agreement or enthusiasm, often used in spoken English. It's a repeated phrase with no specific grammatical function, but conveys a sense of emphasis and excitement."
+    },
+    {
+      "time": 10.90430000001192,
+      "text": "Una noche más y copas de más",
+      "translation": "One more night and one more drink",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a habitual or repeated action, implying that the speaker often stays out late drinking. The phrase \"una noche más\" can be translated as \"one more time\" rather than just \"one more night\"."
+    },
+    {
+      "time": 15.84290000000596,
+      "text": "Tú no me dejas en paz",
+      "translation": "You won't leave me alone",
+      "grammar": "The phrase \"no me dejas\" is an idiomatic expression indicating strong emotional attachment or possessiveness, equivalent to \"won't leave me alone\". The verb \"dejar\" is in the present tense and imperfective aspect, conveying a sense of ongoing action."
+    },
+    {
+      "time": 18.2645,
+      "text": "De mi mente no te vas",
+      "translation": "You won't leave my mind",
+      "grammar": "This phrase uses the idiomatic expression \"no te vas\" to mean \"won't leave\" or \"won't depart\", rather than a literal departure. The verb \"vas\" is in the second person singular imperfect tense, indicating a habitual or repeated action."
+    },
+    {
+      "time": 20.73819999998808,
+      "text": "Aunque sé que no debo, ey",
+      "translation": "Although I know I shouldn't, hey",
+      "grammar": "The phrase \"Aunque sé\" is an idiomatic expression equivalent to \"Although I know\" in English, using the present subjunctive mood to convey a hypothetical or uncertain situation."
+    },
+    {
+      "time": 23.16790000000596,
+      "text": "Pensar en ti bebé, pero cuando bebo",
+      "translation": "Thinking of you, baby, but when I drink",
+      "grammar": "The phrase \"pensar en ti\" is an idiomatic expression equivalent to \"think about you\" in English, conveying a sense of longing or nostalgia. The use of the present tense \"pienso\" (I think) implies a habitual or continuous action."
+    },
+    {
+      "time": 28.776,
+      "text": "Me viene tu nombre, tu cara, tu risa y tu pelo, ey",
+      "translation": "I remember your name, your face, your laugh, and your hair, hey",
+      "grammar": "The phrase \"ey\" is an informal way to address someone or express familiarity, often used in spoken language. It can be translated as \"hey\" or \"hi\"."
+    },
+    {
+      "time": 33.7375,
+      "text": "Dime dónde tú está', que yo por ti cojo un vuelo",
+      "translation": "Tell me where you are, and I'll take a flight for you.",
+      "grammar": "The use of \"¿Dime...\" is an informal way to ask someone to tell you something, equivalent to \"What's up?\" or \"How's it going?\". The sentence is in the present tense, with the speaker making a request."
+    },
+    {
+      "time": 39.348599999994036,
+      "text": "Y a Yonaguni le llego, oh",
+      "translation": "And it reached Yonaguni, oh",
+      "grammar": "This line uses the informal \"you\" (ya) to address the listener, which is common in spoken Spanish. The phrase \"le llego\" is an idiomatic expression meaning \"it reached\" or \"it arrived\"."
+    },
+    {
+      "time": 42.02779999998212,
+      "text": "Aunque sé que no debo, ey",
+      "translation": "Although I know I shouldn't, hey",
+      "grammar": "The phrase \"Aunque sé\" is an idiomatic expression used to convey a sense of resignation or inevitability, equivalent to \"although I know\". The verb \"sé\" is in the present tense, indicating a general truth or habitual knowledge."
+    },
+    {
+      "time": 45.38419999998808,
+      "text": "Pensar en ti bebé, pero cuando bebo",
+      "translation": "Thinking of you, baby, but when I drink",
+      "grammar": "The phrase \"pensar en ti\" is an idiomatic expression meaning \"to think of someone\", using the present tense to convey a habitual or ongoing action."
+    },
+    {
+      "time": 49.95529999998212,
+      "text": "Me viene tu nombre, tu cara, tu risa y tu pelo, ey",
+      "translation": "I remember your name, your face, your laugh, and your hair, hey",
+      "grammar": "The phrase \"ey\" is an informal way to address someone or express familiarity, similar to saying \"hey\" in English. It's often used with friends or people you're familiar with, conveying a sense of casualness and friendliness."
+    },
+    {
+      "time": 55.03769999998808,
+      "text": "Dime dónde tú está', que yo por ti cojo un vuelo",
+      "translation": "Tell me where you are, and I'll take a flight for you.",
+      "grammar": "The phrase \"¿Dime dónde tú está'\" uses the present tense to express a request or inquiry, with the verb \"estar\" indicating location. The pronoun \"tú\" is used to address the listener in an informal tone."
+    },
+    {
+      "time": 60.67239999997616,
+      "text": "Y a Yonaguni le llego, ey",
+      "translation": "And it arrived in Yonaguni, hey",
+      "grammar": "The phrase \"Y a\" is an informal way to express \"and then\" or \"so\" in Spanish, often used in spoken language. The sentence uses the present perfect tense (llegó) to indicate that the arrival occurred at some point before the current moment."
+    },
+    {
+      "time": 63.606399999976155,
+      "text": "No me busque' en Instagram",
+      "translation": "Don't look me up on Instagram",
+      "grammar": "The phrase \"no me busque'\" is an informal way of saying \"don't look for me\" in the present tense, using the imperative mood and the indirect object pronoun \"me\". The apostrophe indicates a colloquial pronunciation."
+    },
+    {
+      "time": 65.20569999998808,
+      "text": "Mami, búscame en casa",
+      "translation": "Mommy, come find me at home",
+      "grammar": "The use of \"búscame\" (come find me) is an informal imperative verb form, often used in intimate or familiar settings, such as with family members. This idiomatic expression emphasizes the speaker's desire for their mother to take action and search for them."
+    },
+    {
+      "time": 67.23669999998808,
+      "text": "Pa que vea' lo que pasa, ey",
+      "translation": "So you can see what happens, hey",
+      "grammar": "The phrase \"pa que\" is an idiomatic expression used to indicate purpose or intention, similar to \"so that\" in English. The use of \"vea'\" instead of the standard verb conjugation \"veas\" is a colloquialism common in informal speech and song lyrics."
+    },
+    {
+      "time": 69.78939999997615,
+      "text": "Si tú me prueba', te casa', ey",
+      "translation": "If you try me, you'll marry me, hey",
+      "grammar": "This line uses the informal second person singular pronoun \"tú\" and the colloquial phrase \"prueba' (try me)\" as an idiom to express a challenge or test of love."
+    },
+    {
+      "time": 72.4245,
+      "text": "Ese cabrón ni te abraza",
+      "translation": "That bastard won't even hug you.",
+      "grammar": "The phrase \"ese\" is an informal intensifier used to emphasize the speaker's disdain, equivalent to saying \"that damn\" or \"that bloody\". It's often used in colloquial Spanish to express strong emotions."
+    },
+    {
+      "time": 74.93059999999404,
+      "text": "Y yo loco por tocarte",
+      "translation": "And I'm crazy about touching you.",
+      "grammar": "The phrase \"y yo\" is an idiomatic expression equivalent to \"and I\", where \"yo\" is a colloquial or informal way of saying \"I\"."
+    },
+    {
+      "time": 77.4585,
+      "text": "Pero ni me atrevo a textearte",
+      "translation": "But I don't even dare to text you",
+      "grammar": "The phrase \"ni me atrevo\" is an idiomatic expression indicating extreme reluctance or fear, equivalent to saying \"I'm too scared\". The verb \"atrevo\" is in the subjunctive mood, which emphasizes the speaker's emotional state."
+    },
+    {
+      "time": 79.41419999998809,
+      "text": "Tú con cualquier outfit la parte'",
+      "translation": "You with any outfit the part'",
+      "grammar": "This idiomatic expression uses the present tense to convey a general truth, emphasizing that someone's presence is what makes an occasion special, regardless of their attire. The phrase \"la parte'\" is an informal way to say \"the main attraction\"."
+    },
+    {
+      "time": 82.123,
+      "text": "Mami, tú ere' aparte",
+      "translation": "Mommy, you're special",
+      "grammar": "The use of \"ere'\" is an informal way to express emphasis or affection, similar to saying \"you're really\" or \"you're truly\". This phrase is often used in spoken language and can be translated as \"you're really apart from the rest\" or \"you stand out\"."
+    },
+    {
+      "time": 85.047,
+      "text": "Shorty, tiene' un culo bien grande, eh",
+      "translation": "Shorty, she's got a really big ass, huh?",
+      "grammar": "The phrase \"tiene' un culo\" is an informal way of saying \"has\" in the present tense, using the verb tener and the contraction \"'un\" for \"uno\". The use of \"eh\" at the end is an interjection, similar to \"huh\" or \"right\", used to seek agreement or confirmation."
+    },
+    {
+      "time": 87.67979999998212,
+      "text": "De-demasiao grande",
+      "translation": "Too big",
+      "grammar": "This phrase uses the idiomatic expression \"de-demasiao\" to emphasize the degree of something, equivalent to saying \"too much\" or \"way too\". The verb \"ser\" is implied but not explicitly stated, as it's a common construction in Spanish."
+    },
+    {
+      "time": 90.37119999998808,
+      "text": "Y yo lo tengo estudiao, ya mismo me gradúo",
+      "translation": "And I've already studied it, I'm graduating very soon.",
+      "grammar": "The phrase \"yo lo tengo estudiao\" uses the present perfect tense to convey that the speaker has completed studying something, with a sense of completion and finality."
+    },
+    {
+      "time": 93.76879999998212,
+      "text": "Y en la cara me lo tatúo",
+      "translation": "And I'll get it tattooed on my face.",
+      "grammar": "The use of \"me lo\" is an idiomatic expression in Spanish, where \"me\" is the indirect object pronoun and \"lo\" is a direct object pronoun agreeing with the preceding noun. This construction indicates that the action of getting something tattooed will be done to oneself."
+    },
+    {
+      "time": 95.9125,
+      "text": "Vi que viste mi story y subiste una pa mí",
+      "translation": "I saw that you saw my story and uploaded one for me.",
+      "grammar": "The phrase \"subiste una pa mí\" is an idiomatic expression, where \"subir\" means \"to upload\" but also implies a sense of permission or allowance, similar to \"allowing someone to do something\". The use of \"pa\" (meaning \"for\") emphasizes the idea that the speaker is giving their consent."
+    },
+    {
+      "time": 99.49629999998211,
+      "text": "Yo que me iba a dormir, ey",
+      "translation": "I was just about to go to sleep, hey",
+      "grammar": "The phrase \"yo que\" is an informal way of saying \"I\" in Spanish, used to express familiarity or camaraderie. The verb \"iba\" is in the preterite tense, indicating a completed action in the past."
+    },
+    {
+      "time": 101.82959999999404,
+      "text": "En la disco habían mil",
+      "translation": "There were a thousand people in the disco.",
+      "grammar": "The verb phrase \"habían\" is in the preterite tense, indicating an action that occurred before another action in the past. This usage implies that the speaker is describing a situation that existed at some point in the past, rather than one that is currently happening."
+    },
+    {
+      "time": 103.73519999998808,
+      "text": "Y yo bailando contigo en mi mente",
+      "translation": "And me dancing with you in my mind",
+      "grammar": "The phrase \"yo bailando\" is an idiomatic expression, where \"yo\" (I) is used to emphasize the speaker's imagination or fantasy, rather than indicating a specific time or tense. This construction is often used to express a desire or wish, as if the action were happening in the present moment."
+    },
+    {
+      "time": 106.22239999997616,
+      "text": "Aunque sé que no debo",
+      "translation": "Although I know I shouldn't",
+      "grammar": "This sentence uses the present subjunctive mood (sé) to express doubt or uncertainty about a hypothetical situation, which is common in conditional clauses. The phrase \"no debo\" is an idiomatic expression meaning \"I shouldn't\" and is used to convey regret or reluctance."
+    },
+    {
+      "time": 109.17479999998211,
+      "text": "Pensar en ti bebé, pero cuando bebo",
+      "translation": "Thinking of you, baby, but when I drink",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or repeated action (\"pensar\" means \"to think\" in general), and the phrase \"en ti bebé\" is an informal way to express affection for someone."
+    },
+    {
+      "time": 113.97269999998808,
+      "text": "Me viene tu nombre, tu cara, tu risa y tu pelo, ey",
+      "translation": "I remember your name, your face, your laugh, and your hair, hey",
+      "grammar": "The phrase \"ey\" is an informal way to address someone or express familiarity, often used in spoken language. It can be translated as \"hey\" or \"huh\"."
+    },
+    {
+      "time": 119.323,
+      "text": "Dime dónde tú está', que yo por ti cojo un vuelo",
+      "translation": "Tell me where you are, and I'll take a flight for you.",
+      "grammar": "The use of \"está\" instead of the more common \"estás\" is an example of voseo, a regional Spanish phenomenon where \"vos\" is used as the second-person singular pronoun. This is a characteristic feature of Rioplatense Spanish, spoken in Argentina and Uruguay."
+    },
+    {
+      "time": 124.76269999998807,
+      "text": "Y a Yonaguni le llego",
+      "translation": "And Yonaguni arrived",
+      "grammar": "This line uses the informal, colloquial construction \"Y a\" to indicate arrival or arrival at a place, similar to saying \"and then\" in English. The verb \"llego\" is in the preterite tense, indicating that the event of Yonaguni's arrival has already occurred."
+    },
+    {
+      "time": 127.35389999997616,
+      "text": "Si me da' tu dirección, yo te mando mil carta'",
+      "translation": "If you give me your address, I'll send you a thousand letters.",
+      "grammar": "The verb phrase \"yo te mando\" is in the future tense and conditional mood, implying a hypothetical situation. The use of \"te\" instead of \"tú\" agrees with the indirect object \"dirección\", emphasizing the recipient's possession."
+    },
+    {
+      "time": 130.229,
+      "text": "Si me da' tu cuenta de banco, un millón de peso'",
+      "translation": "If you give me your bank account details, I'll give you a million pesos.",
+      "grammar": "The phrase \"si me da'\" is an informal way of saying \"if you give me\" in Spanish, using the verb \"dar\" in the subjunctive mood to express uncertainty or possibility."
+    },
+    {
+      "time": 132.7342999999821,
+      "text": "Toa la noche arrodillado a Dio' le rezo",
+      "translation": "All night long I kneel and pray to God",
+      "grammar": "This line uses the present continuous tense (arrodillado, rezo) to convey a sense of ongoing devotion, emphasizing the speaker's commitment to prayer throughout the night."
+    },
+    {
+      "time": 135.41819999998808,
+      "text": "Pa que ante' que se acabe el año tú me de' un beso",
+      "translation": "So that before the year ends you give me a kiss",
+      "grammar": "The phrase \"Pa que\" is an idiomatic expression used to indicate purpose or intention, similar to \"so that\" in English. It is often followed by the subjunctive mood, as seen here with \"ante' que se acabe el año\"."
+    },
+    {
+      "time": 138.58169999998807,
+      "text": "Y empezar el 2023 bien cabrón",
+      "translation": "And start 2023 off right!",
+      "grammar": "The phrase \"caboñ\" is an informal, colloquial expression used to emphasize a strong or intense statement. It can be translated as \"dude\" or \"guy,\" and its use contributes to the overall casual tone of the sentence."
+    },
+    {
+      "time": 141.905,
+      "text": "Contigo y un blunt",
+      "translation": "With you and a blunt",
+      "grammar": "The phrase \"contigo\" is an informal way to say \"with you\" in Spanish, often used with friends or in casual settings."
+    },
+    {
+      "time": 143.92919999998807,
+      "text": "Tú te ve' asesina con ese mahón",
+      "translation": "You look killer in those jeans",
+      "grammar": "The phrase \"te ve'\" is an informal way of saying \"you look\" in Spanish, using the verb \"ver\" in the present tense and the pronoun \"te\" to address the listener. This construction is a common idiomatic expression used among friends or acquaintances."
+    },
+    {
+      "time": 146.79769999998808,
+      "text": "Me matas sin un pistolón",
+      "translation": "You can kill me without a gun.",
+      "grammar": "The phrase \"me matas\" is an idiomatic expression in Spanish, where \"matar\" means to kill or defeat, but in this context it's used to convey the idea of being able to overcome or dominate someone."
+    },
+    {
+      "time": 149.17279999998212,
+      "text": "Y yo te compro un Banshee",
+      "translation": "And I'll buy you a Banshee",
+      "grammar": "The verb \"compro\" is in the future tense, indicating a planned action. The phrase \"yo te\" uses the indirect object pronoun \"te\" to indicate who will receive the action of buying."
+    },
+    {
+      "time": 151.09109999999404,
+      "text": "Gucci, Givenchy",
+      "translation": "Gucci, Givenchy",
+      "grammar": "This phrase is an idiomatic expression used to emphasize luxury or high-end fashion, with no specific grammatical function."
+    },
+    {
+      "time": 152.9656999999881,
+      "text": "Un poodle, un frenchie",
+      "translation": "A poodle, a Frenchie",
+      "grammar": "This phrase uses the indefinite article \"un\" to indicate that each noun is singular and non-specific. The idiomatic expression \"un poodle, un Frenchie\" is equivalent to saying \"a poodle, a French Bulldog\"."
+    },
+    {
+      "time": 154.85259999999403,
+      "text": "El pasto, lo' munchie'",
+      "translation": "The grass, the munchies",
+      "grammar": "This line uses the informal pronoun \"lo'\" instead of \"el\" to refer to masculine nouns, a common colloquialism in spoken Spanish."
+    },
+    {
+      "time": 156.77719999998808,
+      "text": "Te canto un mariachi",
+      "translation": "I'll sing you a mariachi song",
+      "grammar": "The verb \"canto\" is in the future tense, indicating the speaker's intention to perform the action at some point in the future. The phrase \"te canto\" is an idiomatic expression meaning \"I'll sing for/entertain you\"."
+    },
+    {
+      "time": 158.586,
+      "text": "Me convierto en Itachi, eh",
+      "translation": "I'm turning into Itachi, huh?",
+      "grammar": "The phrase \"eh\" is an informal filler word used to seek agreement or confirmation from the listener, similar to \"right?\" or \"okay?\" in English."
+    },
+    {
+      "time": 161.9035,
+      "text": "Yeh-yeh-yeh-yeh",
+      "translation": "Yeah-yeah-yeah-yeah",
+      "grammar": "This is an interjection, used to express strong agreement or enthusiasm. The repeated \"yeah\" emphasizes the speaker's emotions and creates a sense of excitement."
+    },
+    {
+      "time": 164.05319999998807,
+      "text": "Bad Bunny baby, bebé",
+      "translation": "Bad Bunny baby, baby",
+      "grammar": "This line uses the informal and affectionate vocative phrase \"Bad Bunny baby\" to address someone, which is a common idiomatic expression in Spanish. The use of \"bebé\" (baby) instead of the more formal \"niño\" or \"hijo\" emphasizes the speaker's familiarity with Bad Bunny."
+    },
+    {
+      "time": 166.51959999999403,
+      "text": "Bad Bunny baby, bebé",
+      "translation": "Bad Bunny baby, baby",
+      "grammar": "This line uses the informal and affectionate vocative phrase \"baby\" (bebé) to address someone, which is a common idiomatic expression in Spanish. The use of \"bebé\" instead of just \"baby\" adds a playful and endearing touch to the phrase."
+    },
+    {
+      "time": 170.7345,
+      "text": "今日はセックスしたい",
+      "translation": "今日はセックスしたい",
+      "grammar": "This line uses the present tense to express a desire or intention, with the verb \"\" (shita) in the polite negative form, indicating a strong desire or willingness."
+    },
+    {
+      "time": 175.5245,
+      "text": "でもあなたとだけ",
+      "translation": "でもあなたとだけ",
+      "grammar": "This phrase uses the informal pronoun \"あなた\" (anata) to address a close friend or someone younger, and the particle \"と\" (to) indicates an exclusive relationship."
+    },
+    {
+      "time": 181.37219999998808,
+      "text": "どこにいますか?",
+      "translation": "どこにいますか?",
+      "grammar": "This line is an example of polite inquiry, using the informal verb ending (-ます) to show respect and politeness. The sentence is in the present continuous tense (います), asking about someone's current location."
+    },
+    {
+      "time": 184.1545,
+      "text": "どこにいますか?",
+      "translation": "どこにいますか?",
+      "grammar": "This line is an example of a polite inquiry in Japanese, using the informal verb ending (-ます) to show respect and politeness. The sentence is asking about someone's location, with the speaker seeking confirmation or clarification."
+    },
+    {
+      "time": 188.9536999999881,
+      "text": "今日はセックスしたい",
+      "translation": "今日はセックスしたい",
+      "grammar": "The phrase \"今日は\" is an idiomatic expression indicating a desire or intention to do something today, often used in informal settings. The sentence as a whole expresses the speaker's wish or longing for sex today, conveyed through the use of the polite negative copula \"-たい\" which softens the tone and conveys a sense of hesitation."
+    },
+    {
+      "time": 193.66309999999405,
+      "text": "でもあなたとだけ",
+      "translation": "でもあなたとだけ",
+      "grammar": "This line uses the polite sentence ending \"-も\" (demo) to express a sense of exclusivity, implying that the speaker is only sharing this feeling with the person they're addressing. The verb tense remains informal and present-like, emphasizing the intimate nature of the sentiment."
+    },
+    {
+      "time": 194.407,
+      "text": "どこにいますか?",
+      "translation": "どこにいますか?",
+      "grammar": "This is a polite inquiry in the present continuous tense, using the informal pronoun \"です\" to seek information about someone's location."
+    },
+    {
+      "time": 195.05419999998807,
+      "text": "どこにいますか? Eh",
+      "translation": "どこにいますか? Hey",
+      "grammar": "This line is an informal way of asking someone's location, using the polite sentence ending (-masu) in the present continuous tense to convey a sense of curiosity and friendliness. The interjection \"Eh\" adds a casual tone to the question."
+    }
+  ]
+}

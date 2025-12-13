@@ -1,0 +1,283 @@
+{
+  "id": "ru__3",
+  "title": "Асфальт",
+  "artist": "Jakone feat. Kiliana",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_.mp3",
+  "duration": 171,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 13.88909999999404,
+      "text": "Эй, эй",
+      "translation": "Hey, hey",
+      "grammar": "The use of 'эй' (hey) is a common way to start a song or poem in Russian, similar to an interjection."
+    },
+    {
+      "time": 14.9925,
+      "text": "Алё-алё, связи снова нету",
+      "translation": "Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey hey, hey, hey, hey hey hey hey hey hey hey hey hey hey, hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey, hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey, hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey, hey hey hey hey hey hey hey hey hey hey, hey, hey, hey, hey, hey, hey, hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey",
+      "grammar": ""
+    },
+    {
+      "time": 16.47309999999404,
+      "text": "Этот холод твой игнорит лето",
+      "translation": "This cold of your ignorance summer",
+      "grammar": ""
+    },
+    {
+      "time": 18.402599999994038,
+      "text": "Не читаю, пролистаю ленту",
+      "translation": "Can not open message",
+      "grammar": ""
+    },
+    {
+      "time": 20.24789999997616,
+      "text": "А ты читаешь, но без ответа",
+      "translation": "And you're reading, but no answer.",
+      "grammar": ""
+    },
+    {
+      "time": 22.35339999997616,
+      "text": "Мечтаю увидеть тебя здесь",
+      "translation": "I'm hoping to see you here.",
+      "grammar": ""
+    },
+    {
+      "time": 24.101299999982118,
+      "text": "Но считаю, тебе лучше без",
+      "translation": "But I think you're better off without it.",
+      "grammar": ""
+    },
+    {
+      "time": 25.993,
+      "text": "Я останусь в этом грустном dance'е",
+      "translation": "I'll stay in this rough dance.",
+      "grammar": ""
+    },
+    {
+      "time": 27.971,
+      "text": "И больше так не смогу запеть",
+      "translation": "And I can't ask you any more.",
+      "grammar": ""
+    },
+    {
+      "time": 30.68859999999404,
+      "text": "Полупьяный, полумокрый дождь",
+      "translation": "Poultry, semi-circuit rain",
+      "grammar": ""
+    },
+    {
+      "time": 32.53369999998808,
+      "text": "Твои слёзы плавят мою ладонь",
+      "translation": "Your tears flow my boat",
+      "grammar": ""
+    },
+    {
+      "time": 34.50159999999404,
+      "text": "Сам не знаю, уже пою о ком",
+      "translation": "I don't know who I'm talking about.",
+      "grammar": ""
+    },
+    {
+      "time": 36.35180000001192,
+      "text": "Ты разная вся, как калейдоскоп",
+      "translation": "You're all different like a kalydoscopic.",
+      "grammar": ""
+    },
+    {
+      "time": 38.245,
+      "text": "Ты палишь мои шаги, кучу звонков",
+      "translation": "You are watching my steps, a bunch of calls!",
+      "grammar": ""
+    },
+    {
+      "time": 40.24440000000596,
+      "text": "Карты под стол, стволы на стол",
+      "translation": "Cards below the table, chairs on the table",
+      "grammar": ""
+    },
+    {
+      "time": 41.92559999999404,
+      "text": "Просишь: \"Оставь\", я прошу: \"Постой\"",
+      "translation": "Please, \"Let go,\" please. \"Let go.\"",
+      "grammar": ""
+    },
+    {
+      "time": 44.13590000000596,
+      "text": "На место поставь мою любовь",
+      "translation": "Put My Love in the Place",
+      "grammar": ""
+    },
+    {
+      "time": 46.04809999999404,
+      "text": "Асфальт мокрый, как мои глаза, я нарезаю по МКАДу",
+      "translation": "Asphalt soft, like my eyes, I'm looking at the ICAD.",
+      "grammar": ""
+    },
+    {
+      "time": 50.30540000000596,
+      "text": "Тут весна, а я пуста, как и мой бак",
+      "translation": "Here's the spring, and I'm empty, like my tank.",
+      "grammar": ""
+    },
+    {
+      "time": 53.473599999994036,
+      "text": "Оставь! Меняй меня на девочек и кайф",
+      "translation": "Leave me alone for a girl and euphoria.",
+      "grammar": ""
+    },
+    {
+      "time": 57.245,
+      "text": "Я знаю, что ты знаешь, что я знаю, что ты там",
+      "translation": "I know you know I know you're there",
+      "grammar": ""
+    },
+    {
+      "time": 61.1585,
+      "text": "Асфальт мокрый, как мои глаза, я нарезаю по МКАДу",
+      "translation": "Asphalt is wet, like my eyes, I'm looking at the ICAD.",
+      "grammar": ""
+    },
+    {
+      "time": 65.74730000001192,
+      "text": "Тут весна, а я пуста, как и мой бак",
+      "translation": "Here's the news, and I'm empty, like my side.",
+      "grammar": ""
+    },
+    {
+      "time": 68.61559999999405,
+      "text": "Оставь! Меняй меня на девочек и кайф",
+      "translation": "Leave me alone for a girl and a cup of coffee.",
+      "grammar": ""
+    },
+    {
+      "time": 72.38240000000596,
+      "text": "Я знаю, что ты знаешь, что я знаю, что ты там",
+      "translation": "I know you know I know you're there",
+      "grammar": ""
+    },
+    {
+      "time": 76.74369999998808,
+      "text": "Алле, ты как там? А я, вот, пою тебе",
+      "translation": "Alle, how are you there?",
+      "grammar": ""
+    },
+    {
+      "time": 82.3185,
+      "text": "И вроде отзывается по весне",
+      "translation": "And the species is called by whiskey.",
+      "grammar": ""
+    },
+    {
+      "time": 86.17259999999403,
+      "text": "Я не с ним, а ты не с ней",
+      "translation": "I'm not with him, and you're not with him.",
+      "grammar": ""
+    },
+    {
+      "time": 87.92380000001192,
+      "text": "Объясниться не успел, и никаких \"нас\" больше нет",
+      "translation": "I couldn't explain it, and no more \"we\"",
+      "grammar": ""
+    },
+    {
+      "time": 91.66159999999404,
+      "text": "Но ведь ты сам себя загнал, опять упал",
+      "translation": "But you've lost yourself, you've fallen back",
+      "grammar": ""
+    },
+    {
+      "time": 94.01869999998807,
+      "text": "Пятибалльный твой загон всё подорвал",
+      "translation": "Your five-star enclosure has been torn apart",
+      "grammar": "The verb 'подорвал' is in the passive voice, indicating that the action of tearing apart was performed on the subject (zagón) rather than by it."
+    },
+    {
+      "time": 95.88280000001193,
+      "text": "Ты палишь-палишь-палишь мой профиль",
+      "translation": "You're going to burn my profile.",
+      "grammar": ""
+    },
+    {
+      "time": 97.69840000000596,
+      "text": "Ты палишь всё, ведь цветы не профит",
+      "translation": "You burn everything because the flowers don't benefit",
+      "grammar": ""
+    },
+    {
+      "time": 99.67119999998808,
+      "text": "Оставь меня, бери снова",
+      "translation": "Leave me alone. Take it again.",
+      "grammar": ""
+    },
+    {
+      "time": 101.48980000001193,
+      "text": "Остановись, ты ещё не враг",
+      "translation": "Stay away. You're not the enemy yet.",
+      "grammar": ""
+    },
+    {
+      "time": 103.66490000000596,
+      "text": "Я знала другой, но тебе остался последний шанс",
+      "translation": "I knew another one, but you're the last chance.",
+      "grammar": ""
+    },
+    {
+      "time": 108.10280000001192,
+      "text": "(Асфальт мокрый, как мои-)",
+      "translation": "(Asphalt soft as mine)",
+      "grammar": ""
+    },
+    {
+      "time": 109.35719999998808,
+      "text": "Асфальт мокрый, как мои глаза, я нарезаю по МКАДу",
+      "translation": "Asphalt soft, like my eyes, I'm looking at the ICAD.",
+      "grammar": ""
+    },
+    {
+      "time": 114.19330000001192,
+      "text": "Тут весна, а я пуста, как и мой бак",
+      "translation": "Here's the news, and I'm empty, like my side.",
+      "grammar": ""
+    },
+    {
+      "time": 116.573,
+      "text": "Оставь! Меняй меня на девочек и кайф",
+      "translation": "Leave me alone for a girl and a cup of coffee.",
+      "grammar": ""
+    },
+    {
+      "time": 120.49609999999404,
+      "text": "Я знаю, что ты знаешь, что я знаю, что ты там",
+      "translation": "I know you know I know you're there",
+      "grammar": ""
+    },
+    {
+      "time": 124.79190000000597,
+      "text": "Асфальт мокрый, как мои глаза, я нарезаю по МКАДу",
+      "translation": "Asphalt soft, like my eyes, I'm looking at the ICAD.",
+      "grammar": ""
+    },
+    {
+      "time": 129.4321999999881,
+      "text": "Тут весна, а я пуста, как и мой бак",
+      "translation": "Here's the news, and I'm empty, like my side.",
+      "grammar": ""
+    },
+    {
+      "time": 132.51290000000597,
+      "text": "Оставь! Меняй меня на девочек и кайф",
+      "translation": "Leave me alone for a girl and a cup of coffee.",
+      "grammar": ""
+    },
+    {
+      "time": 135.9776999999881,
+      "text": "Я знаю, что ты знаешь, что я знаю, что ты там",
+      "translation": "I know you know I know you're there",
+      "grammar": ""
+    }
+  ]
+}

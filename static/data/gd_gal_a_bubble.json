@@ -1,0 +1,649 @@
+{
+  "id": "gd_gal_a_bubble",
+  "title": "Gal a Bubble",
+  "artist": "Konshens",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "gd",
+  "to_language": "en",
+  "audio": "/audio/gd_gal_a_bubble.mp3",
+  "duration": 212,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Yo, o da party a luk soh?",
+      "translation": "Yo, is she a party?",
+      "grammar": "This informal dialogue uses the present continuous tense (a-luk) to describe an ongoing situation, and the pronoun \"o\" (she) agrees with the noun \"da party\"."
+    },
+    {
+      "time": 2.049,
+      "text": "Dawg, o da party a luk soh?",
+      "translation": "Dawg, what about the party and the soup?",
+      "grammar": "This informal dialogue uses the present continuous tense (luk) to describe an ongoing event, and the phrase \"o da\" is an idiomatic expression equivalent to \"about the\"."
+    },
+    {
+      "time": 4.098,
+      "text": "O mi gyal dem tan up an a luk soh?",
+      "translation": "And I'm going to go up and see this?",
+      "grammar": "The phrase \"tan up\" is an idiomatic expression meaning \"to go up\", using the present continuous tense to convey a sense of intention or planning."
+    },
+    {
+      "time": 6.887,
+      "text": "Wah yuh a do tuh mi?",
+      "translation": "Uh-huh. What about that?",
+      "grammar": "This line is an informal way of seeking confirmation or agreement, using the particle \"yuh\" (a colloquialism for \"you\") and the verb \"do\" in the present tense to create a sense of inquiry. The phrase is often used in spoken language to elicit a response or show interest."
+    },
+    {
+      "time": 8.689,
+      "text": "Selecta, bounce an wine here fi deh gyal dem bubble pon",
+      "translation": "Select the wine you want to add to the bubble entry",
+      "grammar": "This line uses the present tense and informal tone typical of spoken Jamaican Patois. The phrase \"bounce an\" is an idiomatic expression meaning \"to choose or select\"."
+    },
+    {
+      "time": 11.724,
+      "text": "If yuh luv fi si di gyal dem a bubble, put up yuh han",
+      "translation": "If you want to go to a bubble, put up yuh han",
+      "grammar": "This line uses the informal second-person singular pronoun \"yuh\" and the imperative mood to give a command. The phrase \"put up yuh han\" is an idiomatic expression meaning \"to lift your hand\"."
+    },
+    {
+      "time": 15.499,
+      "text": "Yuh play song fi gangster buss blank",
+      "translation": "Yuh play song fi gangster bus white",
+      "grammar": "This line uses the present tense and informal second-person singular \"yuh\" to describe a habitual action, while \"fi\" is an idiomatic preposition indicating association or belonging."
+    },
+    {
+      "time": 17.548,
+      "text": "Now a deh gyal dem time, play song fi gyal wine",
+      "translation": "Now you have the time, play song me to wine",
+      "grammar": "The phrase \"play song fi gyal\" is an idiomatic expression meaning \"to play music for someone\", using the infinitive verb form and a preposition \"fi\" to indicate purpose."
+    },
+    {
+      "time": 20.583,
+      "text": "Big Selecta a play, yu nuh rookie",
+      "translation": "Big Select a Play, No Rock",
+      "grammar": "In Jamaican Patois, \"yu\" is a colloquial second-person singular pronoun equivalent to English \"you\", used informally among friends or in casual settings."
+    },
+    {
+      "time": 22.632,
+      "text": "Ketch di base line, watch di gyal dem a shobie",
+      "translation": "Baseline widget, valid values are found",
+      "grammar": "In Jamaican Patois, \"watch\" is an idiomatic expression meaning \"to observe or pay attention to\", and \"gyal dem\" is a plural pronoun referring to women."
+    },
+    {
+      "time": 25.42,
+      "text": "Aye, wen di gyal dem a dip it an a drop it",
+      "translation": "Yes, you can go there and dip it and drop it",
+      "grammar": "This line uses the present tense to describe a habitual or general truth, with \"wen\" functioning as a particle indicating permission or possibility. The phrase \"di gyal dem\" is an idiomatic expression meaning \"the girls\", where \"dem\" is a plural pronoun agreeing in number with \"gyal\"."
+    },
+    {
+      "time": 28.702,
+      "text": "Yu ah funny man if yu nuh happy",
+      "translation": "I don't know if there's any way to be happy.",
+      "grammar": "This informal dialogue uses the present tense and colloquial expressions, with \"yu\" instead of \"you\" and \"nuh\" meaning \"not\". The sentence structure is also characteristic of spoken language in some dialects."
+    },
+    {
+      "time": 30.998,
+      "text": "Fallah mi den",
+      "translation": "I'm sorry.",
+      "grammar": "In Scottish Gaelic, \"Fallah\" is a casual way to express apology or regret, using the verb \"fall\" in the imperative mood. This idiomatic phrase is often used informally among friends and family."
+    },
+    {
+      "time": 32.198,
+      "text": "Gyal a dash out suh mi glad mi cum out",
+      "translation": "Let's get out of here. I'm glad I like you.",
+      "grammar": "The phrase \"suh mi\" is an informal way to say \"me too\" or \"I agree\", using the pronoun \"mi\" (I) and the particle \"suh\" to indicate agreement, which is common in spoken Gaelic."
+    },
+    {
+      "time": 34.986,
+      "text": "Ready fi leff, what yuh talking about?",
+      "translation": "Ready fi left, what yuh talking about?",
+      "grammar": "This informal dialogue uses the present continuous tense (talking) and the first person singular pronoun \"yuh\" to express a casual, conversational tone. Note that \"fi\" is a Jamaican Patois preposition indicating purpose or direction."
+    },
+    {
+      "time": 37.035,
+      "text": "Road mi live, mi nah waan si nuh house",
+      "translation": "My way of life, I remember Noah's house",
+      "grammar": "The phrase \"mi live\" is an idiomatic expression indicating the speaker's lifestyle or habits, using the first-person singular pronoun \"mi\" in a non-standard way to emphasize personal experience."
+    },
+    {
+      "time": 39.577,
+      "text": "Mi a rave an a wait pon di sun fi cum out",
+      "translation": "I've done it and I've been waiting for the sun to shine like out.",
+      "grammar": "The phrase \"wait pon\" is an idiomatic expression meaning \"to wait for\", using the verb \"pon\" in its aspectual sense, indicating a prolonged or continuous action."
+    },
+    {
+      "time": 42.859,
+      "text": "Gal a bubble",
+      "translation": "Can not open message",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey frustration and inability, rather than literal meaning. The phrase \"can not\" is an informal way of saying \"cannot\"."
+    },
+    {
+      "time": 44.059,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line uses the imperative mood to give an instruction, with the verb \"bubble\" repeated for emphasis. The phrase \"gal a\" is an idiomatic expression meaning \"yellow\"."
+    },
+    {
+      "time": 45.368,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line uses the imperative mood to instruct someone to blow bubbles. The phrase \"gal a\" is an idiomatic expression meaning \"yellow\"."
+    },
+    {
+      "time": 46.678,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line uses the imperative mood to make a playful request, with the idiomatic phrase \"gal a\" meaning \"and\"."
+    },
+    {
+      "time": 47.988,
+      "text": "Bubble, dem a bubble",
+      "translation": "Bubble, let's go a bubble",
+      "grammar": "This line uses the informal imperative mood and the idiomatic phrase \"let's go\" (a common English expression for \"come on\" or \"come along\"), encouraging the listener to participate in an activity."
+    },
+    {
+      "time": 49.297,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line uses the imperative mood to instruct someone to blow bubbles. The phrase \"gal a\" is an idiom meaning \"yellow\"."
+    },
+    {
+      "time": 50.607,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line uses the imperative mood to instruct someone to blow bubbles, with the idiomatic phrase \"gal a\" meaning \"and\"."
+    },
+    {
+      "time": 51.917,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line illustrates an idiomatic expression in English, where \"gal\" is an old-fashioned term for \"girl\" or \"young woman\", used to emphasize the idea of something being bright or cheerful, like the color yellow. The sentence uses a playful tone and informal language."
+    },
+    {
+      "time": 53.226,
+      "text": "Alright den",
+      "translation": "Right to",
+      "grammar": "In Scottish Gaelic, \"alright\" is an informal adverb used to express agreement or confirmation, equivalent to English \"okay\"."
+    },
+    {
+      "time": 54.426,
+      "text": "Gyal deh pon headtop a spin like G",
+      "translation": "Go to the top of a spin like G",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a sense of ongoing action, and \"like G\" is an idiomatic phrase used to compare oneself to someone else."
+    },
+    {
+      "time": 56.722,
+      "text": "Mi haffi ask if sum a dem writing",
+      "translation": "I'm asking if they're writing.",
+      "grammar": "The use of \"sum\" instead of \"some\" is an informal idiom, common in spoken English, particularly in African American Vernacular English (AAVE)."
+    },
+    {
+      "time": 59.017,
+      "text": "Watch da wan daii, wi di wah yuh waistline",
+      "translation": "Watch and watch the clock, yes wah yah wistline",
+      "grammar": "The phrase \"Watch da\" is an informal imperative construction in Jamaican Patois, equivalent to English \"Watch out!\" or \"Pay attention!\", using the present continuous tense to convey urgency."
+    },
+    {
+      "time": 61.559,
+      "text": "Watch yuh body dey, yo dah, luk o dat big",
+      "translation": "Watch yuh body says, i dah, luk o da big",
+      "grammar": "This line uses non-standard English to convey a warning or cautionary phrase. The verb \"dey\" is an informal way of saying \"they are\" in the present continuous tense, and \"luk o dat\" is an idiomatic expression meaning \"look at that\"."
+    },
+    {
+      "time": 64.348,
+      "text": "Cock out gyal, show yuh talent an skill",
+      "translation": "Cock you're right, show yuh talent of skill",
+      "grammar": "In informal spoken English, the phrase \"cock out\" is an idiomatic expression meaning \"to be correct\" or \"to be right\", used to acknowledge someone's accurate statement. The sentence uses the present tense to convey a sense of agreement and confirmation."
+    },
+    {
+      "time": 66.643,
+      "text": "Red Label wine yu waan turn on di trill",
+      "translation": "Label of the window in the spinner",
+      "grammar": "This line uses the present tense to express a desire or intention, with \"yu waan\" being an informal way of saying \"you want\". The phrase \"turn on di trill\" is an idiom meaning to start enjoying oneself."
+    },
+    {
+      "time": 69.186,
+      "text": "Likkle buss inna mi head like grenade",
+      "translation": "Like a bus inside my head like a grenade",
+      "grammar": "This line uses the present participle \"likkle\" (a colloquialism for \"little\") to create an idiomatic expression, emphasizing the intensity of the thought or feeling. The phrase also employs a metaphorical comparison between a bus and a grenade, conveying the overwhelming nature of the idea."
+    },
+    {
+      "time": 71.235,
+      "text": "But all wen mi talkin di late mi nah leff",
+      "translation": "Let me talk to you on my left side",
+      "grammar": "In informal spoken English, \"wen\" is an adverbial particle used to indicate time or sequence, similar to \"when\". The sentence uses the present continuous tense to convey a sense of ongoing action."
+    },
+    {
+      "time": 74.023,
+      "text": "Gyal a dash out suh mi glad mi cum out",
+      "translation": "Let's get out of here. I'm glad I like you.",
+      "grammar": "The phrase \"Gyal a dash out\" is an idiomatic expression, equivalent to the English idiom \"get out of here\", conveying a sense of urgency or dismissal. The use of \"a\" instead of \"the\" is a common feature in Scottish Gaelic, where it indicates a more casual or informal tone."
+    },
+    {
+      "time": 76.812,
+      "text": "Ready fi leff, what yuh talking about?",
+      "translation": "Ready fi left, what yuh talking about?",
+      "grammar": "This informal dialogue uses the present continuous tense (\"talking\") to convey a sense of ongoing conversation. The phrase \"ready fi\" is an idiomatic expression meaning \"prepared to\", and \"yuh\" is a colloquial second-person singular pronoun common in Caribbean English."
+    },
+    {
+      "time": 78.861,
+      "text": "Road mi live, mi nah waan si nuh house",
+      "translation": "My way of life, I remember Noah's house",
+      "grammar": "This line uses the present tense to describe a habitual or characteristic way of living (\"Road mi live\"), and the past tense to recall a specific memory (\"mi nah waan si\")."
+    },
+    {
+      "time": 81.403,
+      "text": "Mi a rave an a wait pon di sun fi cum out",
+      "translation": "I've done it and I've been waiting for the sun to shine like out.",
+      "grammar": "The phrase \"mi a\" is a colloquialism in Jamaican Patois, equivalent to \"I am\" or \"I'm doing\", used to indicate ongoing action. It's an example of the present continuous tense, with \"a\" functioning as a linking verb and \"wait\" describing the ongoing action."
+    },
+    {
+      "time": 84.684,
+      "text": "Gal a bubble",
+      "translation": "Can not open message",
+      "grammar": "This idiomatic expression uses the imperative mood to convey a sense of inability or impossibility, with \"gal\" meaning \"can't\" and \"a bubble\" implying something is inaccessible."
+    },
+    {
+      "time": 85.884,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line uses the imperative mood to give an instruction, with the verb \"bubble\" repeated for emphasis. The phrase \"gal a\" is an idiomatic expression meaning \"yellow\"."
+    },
+    {
+      "time": 87.194,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line uses the imperative mood to instruct someone to blow bubbles. The phrase \"gal\" is an idiomatic expression meaning \"yellow\"."
+    },
+    {
+      "time": 88.504,
+      "text": "Bubble, dem a bubble",
+      "translation": "Bubble, let's go a bubble",
+      "grammar": "The phrase \"dem a\" is an informal way of saying \"let's\" in Jamaican Patois, using the pronoun \"dem\" (them) and the verb \"a\" (to go), indicating a casual invitation."
+    },
+    {
+      "time": 89.813,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line uses the imperative mood to make a playful request, with the idiomatic phrase \"gal a\" meaning \"and\"."
+    },
+    {
+      "time": 91.123,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line illustrates the use of an interjection (\"Bubble\") to express excitement or emphasis, with no grammatical significance."
+    },
+    {
+      "time": 92.433,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line uses the imperative mood to give an instruction, with the verb \"bubble\" in the present continuous tense, emphasizing the ongoing action. The phrase \"gal a\" is an idiomatic expression meaning \"yellow\"."
+    },
+    {
+      "time": 93.742,
+      "text": "Bubble, dem a bubble",
+      "translation": "Bubble, let's go a bubble",
+      "grammar": "The phrase \"dem a\" is an informal way of saying \"let's\" in Jamaican Patois, using the pronoun \"dem\" (them) and the verb \"a\" (go), which indicates the first person plural present tense."
+    },
+    {
+      "time": 95.052,
+      "text": "Selecta, bounce an wine here fi deh gyal dem bubble pon",
+      "translation": "Select the wine you want to add to the bubble entry",
+      "grammar": "The phrase \"bounce an\" is a colloquialism used to express enthusiasm or agreement, equivalent to saying \"let's\" or \"go ahead\". The verb \"selecta\" is in the imperative mood, instructing the listener to take action."
+    },
+    {
+      "time": 98.087,
+      "text": "If yuh luv fi si di gyal dem a bubble, put up yuh han",
+      "translation": "If you want to go to a bubble, put up yuh han",
+      "grammar": "This line uses the informal \"yuh\" instead of \"you\", common in Jamaican Patois. The sentence is in the imperative mood, giving instructions on what to do if one wants to attend a party or event (bubble)."
+    },
+    {
+      "time": 101.861,
+      "text": "Yuh play song fi gangster buss blank",
+      "translation": "Yuh play song fi gangster bus white",
+      "grammar": "In Jamaican Patois, \"yuh\" is a second-person singular pronoun equivalent to English \"you\". The sentence uses the present continuous tense (\"play\") to describe an ongoing action."
+    },
+    {
+      "time": 103.91,
+      "text": "Now a deh gyal dem time, play song fi gyal wine",
+      "translation": "Now you have the time, play song me to wine",
+      "grammar": "This line uses the present tense and the imperative mood to give an instruction. The phrase \"play song fi gyal\" is an idiomatic expression meaning \"to play a song for someone\"."
+    },
+    {
+      "time": 106.945,
+      "text": "Big Selecta a play, yu nuh rookie",
+      "translation": "Big Select a Play, No Rock",
+      "grammar": "In Jamaican Patois, the phrase \"yu nuh\" is an informal way of saying \"you're not\", using the negation particle \"nuh\" instead of \"not\". This idiomatic expression is used to emphasize the speaker's confidence in their selection."
+    },
+    {
+      "time": 108.994,
+      "text": "Ketch di base line, watch di gyal dem a shobie",
+      "translation": "Baseline widget, valid values are found",
+      "grammar": "The phrase \"watch di gyal dem\" is an idiomatic expression using the plural pronoun \"dem\" to refer to women, which is common in Jamaican Patois. The verb \"shobie\" means to dance or move in a carefree manner."
+    },
+    {
+      "time": 111.783,
+      "text": "Aye, wen di gyal dem a dip it an a drop it",
+      "translation": "Yes, you can go there and dip it and drop it",
+      "grammar": "This line uses the present tense to express habitual or general truth, with \"wen\" indicating permission or ability. The phrase \"di gyal dem\" is an idiomatic expression meaning \"the girls\" or \"those girls\", with \"dem\" being a plural pronoun particle agreeing with the noun \"gyal\"."
+    },
+    {
+      "time": 115.064,
+      "text": "Yu ah funny man if yu nuh happy",
+      "translation": "I don't know if there's any way to be happy.",
+      "grammar": "This informal dialogue uses the present tense and colloquial pronunciation of \"yu\" instead of standard English \"you\", creating a casual tone. The phrase \"if yu nuh happy\" is an idiomatic expression meaning \"if you're not happy\"."
+    },
+    {
+      "time": 117.36,
+      "text": "Follow mi den",
+      "translation": "Follow me",
+      "grammar": "In informal Scottish English, \"follow\" is often used as an idiom to mean \"come with\" or \"join\", and \"mi\" is a colloquialism for \"me\"."
+    },
+    {
+      "time": 118.56,
+      "text": "Gyal a dash out suh mi glad mi cum out",
+      "translation": "Let's get out of here. I'm glad I like you.",
+      "grammar": "The phrase \"Gyal a dash out\" is an idiomatic expression, equivalent to the English idiom \"get out of here\", conveying a sense of urgency or dismissal. The use of \"a\" instead of \"the\" (due to Scottish Gaelic's lack of definite articles) adds to the informal tone and colloquial feel of the phrase."
+    },
+    {
+      "time": 121.349,
+      "text": "Ready fi leff, what yuh talking about?",
+      "translation": "Ready fi left, what yuh talking about?",
+      "grammar": "This informal dialogue uses the present continuous tense (e.g. \"talking\") to convey a sense of ongoing conversation, while \"ready\" indicates preparedness or willingness, rather than a specific moment in time. The phrase \"what yuh talking about\" is an idiomatic expression asking for clarification on someone's statement."
+    },
+    {
+      "time": 123.398,
+      "text": "Road mi live, mi nah waan si nuh house",
+      "translation": "My way of life, I remember Noah's house",
+      "grammar": "The phrase \"mi live\" is an idiomatic expression indicating the speaker's lifestyle or habits, using the first-person singular pronoun \"mi\" in a non-standard way to emphasize ownership."
+    },
+    {
+      "time": 125.94,
+      "text": "Mi a rave an a wait pon di sun fi cum out",
+      "translation": "I've done it and I've been waiting for the sun to shine like out.",
+      "grammar": "The phrase \"wait pon\" is an idiomatic expression meaning \"to wait for\", using the particle \"pon\" instead of \"for\". This construction is common in Jamaican Patois, but may not be familiar to learners."
+    },
+    {
+      "time": 129.221,
+      "text": "Gal a bubble",
+      "translation": "Can not open message",
+      "grammar": "In informal Scottish Gaelic, \"gal\" is an idiomatic expression meaning \"can't\" or \"cannot\", used to convey inability or refusal."
+    },
+    {
+      "time": 130.421,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line uses the imperative mood to make a playful request, with the idiomatic phrase \"gal a\" meaning \"and\"."
+    },
+    {
+      "time": 131.731,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line uses the imperative mood to make a request or give an instruction, with the verb \"bubble\" in the present continuous tense. The phrase \"gal a\" is an idiomatic expression meaning \"yellow\"."
+    },
+    {
+      "time": 133.04,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line uses the imperative mood to give an instruction, with the verb \"bubble\" repeated for emphasis. The phrase \"gal a\" is an idiomatic expression meaning \"yellow\"."
+    },
+    {
+      "time": 134.35,
+      "text": "Bubble, dem a bubble",
+      "translation": "Bubble, let's go a bubble",
+      "grammar": "This line uses the informal imperative mood and the idiomatic phrase \"let's go\" (a common English expression for \"come on, let's do something\") to encourage action. The pronoun \"dem\" is an informal plural pronoun used in Caribbean dialects."
+    },
+    {
+      "time": 135.66,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line uses the imperative mood to make a playful request, with the idiomatic phrase \"gal a\" meaning \"and\"."
+    },
+    {
+      "time": 136.969,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line uses the imperative mood to give an instruction, with the verb \"bubble\" repeated for emphasis. The phrase \"gal a\" is an idiomatic expression meaning \"yellow\"."
+    },
+    {
+      "time": 138.279,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line uses the imperative mood to instruct someone to blow bubbles. The phrase \"gal a\" is an idiomatic expression meaning \"yellow\"."
+    },
+    {
+      "time": 139.589,
+      "text": "Alright den",
+      "translation": "Right to",
+      "grammar": "This phrase uses the informal adverb \"alright\" in a colloquial expression, where \"den\" is an idiomatic particle indicating agreement or confirmation."
+    },
+    {
+      "time": 140.789,
+      "text": "Gyal deh pon headtop a spin like G",
+      "translation": "Go to the top of a spin like G",
+      "grammar": "This phrase uses the present continuous tense to convey a sense of ongoing action, and the idiom \"spin like G\" is an informal expression meaning to do something in a skillful or impressive way."
+    },
+    {
+      "time": 143.084,
+      "text": "Mi haffi ask if sum a dem writing",
+      "translation": "I'm asking if they're writing.",
+      "grammar": "In informal spoken English, the present continuous tense is often used to express a request or inquiry, as seen in this example. The phrase \"sum a dem\" is an idiomatic expression equivalent to \"are they\"."
+    },
+    {
+      "time": 145.38,
+      "text": "Watch da wan daii, wi di wah yuh waistline",
+      "translation": "Watch and watch the clock, yes wah yah wistline",
+      "grammar": "This line uses the present continuous tense to convey a sense of ongoing action, with \"watch\" repeated for emphasis. The phrase \"wi di wah\" is an idiomatic expression meaning \"and then\"."
+    },
+    {
+      "time": 147.922,
+      "text": "Watch yuh body dey, yo dah, luk o dat big",
+      "translation": "Watch yuh body says, i dah, luk o da big",
+      "grammar": "This line uses the present continuous tense (\"dey\" and \"luk\") to convey a sense of ongoing action, while \"yo dah\" is an idiomatic expression equivalent to \"I'm saying\" or \"I mean\"."
+    },
+    {
+      "time": 150.71,
+      "text": "Cock out gyal, show yuh talent an skill",
+      "translation": "Cock you're right, show yuh talent of skill",
+      "grammar": "In informal spoken English, the phrase \"cock out\" is an idiomatic expression meaning \"to be correct\" or \"to be right\". The verb \"show\" is in the imperative mood, instructing someone to display their abilities."
+    },
+    {
+      "time": 153.006,
+      "text": "Red Label wine yu waan turn on di trill",
+      "translation": "Label of the window in the spinner",
+      "grammar": "This line uses the present tense and informal language, with a colloquialism (\"yu waan\") equivalent to \"you want\" or \"I want\". The phrase \"turn on di trill\" is an idiom meaning to start enjoying oneself."
+    },
+    {
+      "time": 155.548,
+      "text": "Likkle buss inna mi head like grenade",
+      "translation": "Like a bus inside my head like a grenade",
+      "grammar": "In Jamaican Patois, \"inna\" is an idiomatic preposition indicating possession or location, equivalent to \"inside\" or \"within\"."
+    },
+    {
+      "time": 157.597,
+      "text": "But all wen mi talkin di late mi nah leff",
+      "translation": "Let me talk to you on my left side",
+      "grammar": "The phrase \"wen mi talkin\" is an idiomatic expression using the present continuous tense to convey permission or willingness, rather than a literal description of talking."
+    },
+    {
+      "time": 160.386,
+      "text": "Gyal a dash out suh mi glad mi cum out",
+      "translation": "Let's get out of here. I'm glad I like you.",
+      "grammar": "This informal phrase uses the present tense to express immediate action, and the idiomatic expression \"glad\" implies liking or appreciation. The pronoun \"mi\" is used instead of \"I\" to maintain a casual tone."
+    },
+    {
+      "time": 163.174,
+      "text": "Ready fi leff, what yuh talking about?",
+      "translation": "Ready fi left, what yuh talking about?",
+      "grammar": "This informal dialogue uses the present continuous tense (\"talking\") to convey ongoing conversation. The phrase \"what yuh talking about\" is an idiomatic expression equivalent to \"what are you saying?\" or \"what's your point?\"."
+    },
+    {
+      "time": 165.223,
+      "text": "Road mi live, mi nah waan si nuh house",
+      "translation": "My way of life, I remember Noah's house",
+      "grammar": "This line uses the present tense to describe a habitual or customary way of living (\"Road mi live\"), and the past tense to recall a specific memory (\"mi nah waan si\")."
+    },
+    {
+      "time": 167.765,
+      "text": "Mi a rave an a wait pon di sun fi cum out",
+      "translation": "I've done it and I've been waiting for the sun to shine like out.",
+      "grammar": "The phrase \"mi a\" is a colloquialism used in Jamaican Patois, equivalent to \"I'm\" or \"I am\" in standard English. It's an example of a present continuous construction, indicating ongoing action."
+    },
+    {
+      "time": 171.047,
+      "text": "Gal a bubble",
+      "translation": "Can not open message",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey frustration or inability, rather than literal meaning."
+    },
+    {
+      "time": 172.247,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line uses the imperative mood to instruct someone to blow bubbles. The phrase \"gal a\" is an idiomatic expression meaning \"yellow\"."
+    },
+    {
+      "time": 173.556,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line uses the imperative mood to give an instruction or make a request, with the verb \"bubble\" in the present continuous tense. The phrase \"gal a\" is an idiomatic expression meaning \"yellow\"."
+    },
+    {
+      "time": 174.866,
+      "text": "Bubble, dem a bubble",
+      "translation": "Bubble, let's go a bubble",
+      "grammar": "In informal spoken English, \"let's\" is an idiomatic expression of permission or invitation, used to form the first person plural imperative mood."
+    },
+    {
+      "time": 176.176,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line illustrates the use of an interjection (\"Bubble\") to express excitement or emphasis, with no specific tense or mood indicated."
+    },
+    {
+      "time": 177.485,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line uses the imperative mood to instructively repeat an action (\"bubble\"), creating a playful and whimsical tone. The phrase \"gal a\" is an idiomatic expression meaning \"yellow\"."
+    },
+    {
+      "time": 178.795,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line uses the imperative mood to instruct someone to blow bubbles, with the idiomatic phrase \"gal a\" meaning \"and\"."
+    },
+    {
+      "time": 180.105,
+      "text": "Bubble, dem a bubble",
+      "translation": "Bubble, let's go a bubble",
+      "grammar": "This line uses the informal imperative mood and the idiomatic expression \"let's go\" (dem a) to invite someone to participate in an activity."
+    },
+    {
+      "time": 181.414,
+      "text": "Yo, o da party a luk so?",
+      "translation": "Yo, is she the party?",
+      "grammar": "This informal dialogue uses the present simple tense to ask about someone's identity at a party, with the idiomatic expression \"is she\" implying a question about the speaker's interest in this person."
+    },
+    {
+      "time": 183.463,
+      "text": "O da party a luk so?",
+      "translation": "He's a party?",
+      "grammar": "This line uses the informal, colloquial expression \"a luk\" to ask if someone is a party person, with the speaker inquiring about their social nature. The sentence is in the present tense and employs an idiomatic phrase common in Scottish Gaelic."
+    },
+    {
+      "time": 185.266,
+      "text": "O da party a luk so?",
+      "translation": "He's a party?",
+      "grammar": "This line uses the informal, colloquial construction \"a luk\" to ask if someone is a party person, with \"luk\" being an idiomatic expression meaning \"to be lively or fun\". The sentence is in the present tense and has a casual, conversational tone."
+    },
+    {
+      "time": 187.069,
+      "text": "Wah yuh a do tuh mi?",
+      "translation": "Uh-huh. What about that?",
+      "grammar": "This line uses the informal, colloquial phrase \"wah\" to express surprise or inquiry, similar to an interjection in English, and the verb \"a do\" is in the present continuous tense, indicating ongoing action."
+    },
+    {
+      "time": 188.871,
+      "text": "Fallah mi den",
+      "translation": "I'm sorry.",
+      "grammar": "In Scottish Gaelic, \"Fallah\" is a casual way to express apology or regret, often used in informal settings. The verb \"mi\" is the first person singular pronoun indicating the speaker's intention to apologize."
+    },
+    {
+      "time": 190.071,
+      "text": "Gyal a dash out suh mi glad mi cum out",
+      "translation": "Let's get out of here. I'm glad I like you.",
+      "grammar": "The phrase \"suh mi\" is an informal way to say \"me too\" or \"I agree\", using the pronoun \"mi\" and the particle \"suh\" to indicate agreement, similar to a casual English idiom like \"same here\"."
+    },
+    {
+      "time": 192.86,
+      "text": "Ready fi leff, what yuh talking about?",
+      "translation": "Ready fi left, what yuh talking about?",
+      "grammar": "This informal dialogue uses the present continuous tense to convey a sense of immediacy and urgency. The phrase \"what yuh talking 'bout\" is an idiomatic expression equivalent to \"what are you talking about\"."
+    },
+    {
+      "time": 194.909,
+      "text": "Road mi live, mi nah waan si nuh house",
+      "translation": "My way of life, I remember Noah's house",
+      "grammar": "This line uses the present tense to describe a habitual or general truth (\"Road mi live\" means \"I live my life this way\"), and the phrase \"mi nah waan si\" is an idiomatic expression meaning \"I don't want to see\"."
+    },
+    {
+      "time": 197.451,
+      "text": "Mi a rave an a wait pon di sun fi cum out",
+      "translation": "I've done it and I've been waiting for the sun to shine like out.",
+      "grammar": "The phrase \"wait pon\" is an idiomatic expression meaning \"to wait for\", using the particle \"pon\" to indicate expectation or anticipation, rather than a literal physical location."
+    },
+    {
+      "time": 200.732,
+      "text": "Gal a bubble",
+      "translation": "Can not open message",
+      "grammar": "In informal Scottish Gaelic, \"gal\" is an idiomatic expression meaning \"can't\" or \"cannot\", used to convey inability or refusal."
+    },
+    {
+      "time": 201.932,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line uses the imperative mood to instructively repeat an action (\"bubble\"), emphasizing the playful and whimsical nature of the scene. The phrase \"gal a\" is an idiomatic expression meaning \"yellow\"."
+    },
+    {
+      "time": 203.242,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line uses the imperative mood to instruct someone to blow bubbles. The phrase \"gal\" is an idiomatic expression meaning \"yellow\"."
+    },
+    {
+      "time": 204.552,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line uses the imperative mood to make a playful request, with the idiomatic phrase \"gal a\" meaning \"and\"."
+    },
+    {
+      "time": 205.861,
+      "text": "Bubble, dem a bubble",
+      "translation": "Bubble, let's go a bubble",
+      "grammar": "This line uses the informal imperative mood and the idiomatic phrase \"let's go\" (expressing shared action), with no specific tense or aspect indicated."
+    },
+    {
+      "time": 207.171,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line uses the imperative mood to instructively repeat an action (\"bubble\"), creating a playful and whimsical tone. The phrase \"gal a\" is an idiomatic expression meaning \"yellow\"."
+    },
+    {
+      "time": 208.481,
+      "text": "Bubble, gal a bubble",
+      "translation": "Bubble, yellow and bubble",
+      "grammar": "This line uses the imperative mood to give an instruction, with the verb \"bubble\" repeated for emphasis. The phrase \"gal a\" is an idiomatic expression meaning \"and\"."
+    },
+    {
+      "time": 209.79,
+      "text": "Bubble, dem a bubble",
+      "translation": "Bubble, let's go a bubble",
+      "grammar": "In informal spoken English, \"let's\" is used to express permission or invitation in the present tense, often with a sense of urgency or encouragement."
+    },
+    {
+      "time": 211.1,
+      "text": "Alright den",
+      "translation": "Right to",
+      "grammar": "This phrase uses the informal adverb \"alright\" in a casual, conversational tone, typical of spoken English. The word order is also idiomatic, with \"den\" functioning as an adverb meaning \"now\" or \"immediately\"."
+    }
+  ]
+}

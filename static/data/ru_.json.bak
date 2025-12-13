@@ -1,0 +1,127 @@
+{
+  "id": "ru_",
+  "title": "Группа крови",
+  "artist": "Кино",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_.mp3",
+  "duration": 57,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Тёплое место, но улицы ждут отпечатков наших ног",
+      "translation": "A cozy place, but the streets await our footprints",
+      "grammar": "The phrase 'но улицы...' is an example of a contrastive conjunction ('но') used to highlight the difference between two ideas."
+    },
+    {
+      "time": 3.0,
+      "text": "Звёздная пыль на сапогах",
+      "translation": "Stardust on our boots",
+      "grammar": "The phrase 'звёздная пыль' is an idiomatic expression meaning 'a reminder of adventure or travel'."
+    },
+    {
+      "time": 6.0,
+      "text": "Мягкое кресло, клетчатый плед, не нажатый вовремя курок",
+      "translation": "Soft couch, tartan blanket, and a trigger not yet pulled",
+      "grammar": "The phrase 'клетчатый плед' is an example of a compound adjective ('клетчатый') modifying the noun 'плед'."
+    },
+    {
+      "time": 9.0,
+      "text": "Солнечный день в ослепительных снах",
+      "translation": "A sunny day in dazzling dreams",
+      "grammar": "The phrase 'ослепительных снов' is an example of a superlative form ('ослепительные') used to emphasize the intensity of the dreams."
+    },
+    {
+      "time": 12.0,
+      "text": "Группа крови на рукаве",
+      "translation": "Blood type on my sleeve",
+      "grammar": "The phrase 'группа крови' is an idiomatic expression meaning 'a person's blood type or group'."
+    },
+    {
+      "time": 15.0,
+      "text": "Мой порядковый номер на рукаве",
+      "translation": "My serial number on my sleeve",
+      "grammar": "The phrase 'порядковый номер' is an example of a compound adjective ('порядковый') modifying the noun 'номер'."
+    },
+    {
+      "time": 18.0,
+      "text": "Пожелай мне удачи в бою, пожелай мне",
+      "translation": "Wish me luck in battle, wish me",
+      "grammar": "The phrase 'пожелай мне...' is an example of a polite imperative ('пожелай') used to express gratitude."
+    },
+    {
+      "time": 21.0,
+      "text": "Не остаться в этой траве, не остаться в этой траве",
+      "translation": "Don't stay in this mess, don't stay in this mess",
+      "grammar": "The phrase 'не остаться...' is an example of a negated imperative ('не остаться') used to express a warning or prohibition."
+    },
+    {
+      "time": 24.0,
+      "text": "Пожелай мне удачи, пожелай мне удачи",
+      "translation": "Wish me luck, wish me luck",
+      "grammar": "The phrase 'пожелай мне...' is an example of a polite imperative ('пожелай') used to express gratitude."
+    },
+    {
+      "time": 27.0,
+      "text": "И есть чем платить, но я не хочу победы любой ценой",
+      "translation": "And there's something to pay for, but I don't want victory at any cost",
+      "grammar": "The phrase 'есть чем платить' is an example of a subordinate clause ('есть') used to express a condition or concession."
+    },
+    {
+      "time": 30.0,
+      "text": "Я никому не хочу ставить ногу на грудь",
+      "translation": "I don't want to put my foot on someone's chest",
+      "grammar": "The phrase 'никому не хочу...' is an example of a negated imperative ('не хочу') used to express a refusal or prohibition."
+    },
+    {
+      "time": 33.0,
+      "text": "Я хотел бы остаться с тобой",
+      "translation": "I would like to stay with you",
+      "grammar": "The phrase 'хотел бы...' is an example of the polite form of the verb 'хотеть' used to express a desire or preference."
+    },
+    {
+      "time": 36.0,
+      "text": "Просто остаться с тобой",
+      "translation": "Just stay with you",
+      "grammar": "The phrase 'просто...' is an example of an adverb ('просто') modifying the verb 'остаться'."
+    },
+    {
+      "time": 39.0,
+      "text": "Но высокая в небе звезда зовёт меня в путь",
+      "translation": "But a high star in the sky calls me on my way",
+      "grammar": "The phrase 'высокая в небе звезда' is an example of a descriptive phrase ('высокая...') used to modify the noun 'звезда'."
+    },
+    {
+      "time": 42.0,
+      "text": "Группа крови на рукаве",
+      "translation": "Blood type on my sleeve",
+      "grammar": "The phrase 'группа крови' is an idiomatic expression meaning 'a person's blood type or group'."
+    },
+    {
+      "time": 45.0,
+      "text": "Мой порядковый номер на рукаве",
+      "translation": "My serial number on my sleeve",
+      "grammar": "The phrase 'порядковый номер' is an example of a compound adjective ('порядковый') modifying the noun 'номер'."
+    },
+    {
+      "time": 48.0,
+      "text": "Пожелай мне удачи в бою, пожелай мне",
+      "translation": "Wish me luck in battle, wish me",
+      "grammar": "The phrase 'пожелай мне...' is an example of a polite imperative ('пожелай') used to express gratitude."
+    },
+    {
+      "time": 51.0,
+      "text": "Не остаться в этой траве, не остаться в этой траве",
+      "translation": "Don't stay in this mess, don't stay in this mess",
+      "grammar": "The phrase 'не остаться...' is an example of a negated imperative ('не остаться') used to express a warning or prohibition."
+    },
+    {
+      "time": 54.0,
+      "text": "Пожелай мне удачи, пожелай мне удачи",
+      "translation": "Wish me luck, wish me luck",
+      "grammar": "The phrase 'пожелай мне...' is an example of a polite imperative ('пожелай') used to express gratitude."
+    }
+  ]
+}

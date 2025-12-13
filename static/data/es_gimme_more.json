@@ -1,0 +1,421 @@
+{
+  "id": "es_gimme_more",
+  "title": "GIMME MORE",
+  "artist": "CA7RIEL & Paco Amoroso",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_gimme_more.mp3",
+  "duration": 185,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Gimme gimme, gimme more",
+      "translation": "Gimme gimme, gimme more",
+      "grammar": "This line is an imperative sentence in the present tense, using the idiomatic expression \"gimme\" to convey a sense of urgency and demand. The repetition of \"gimme\" emphasizes the speaker's strong desire for something."
+    },
+    {
+      "time": 1.79,
+      "text": "Todo lo cambio por algo mejor",
+      "translation": "I'd trade everything for something better.",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of longing or aspiration, rather than describing an actual change that has occurred. The phrase \"algo mejor\" can be translated as \"something better\", emphasizing the speaker's desire for improvement."
+    },
+    {
+      "time": 4.319,
+      "text": "Gimme gimme, gimme more",
+      "translation": "Gimme gimme, gimme more",
+      "grammar": "This imperative phrase uses the idiomatic expression \"gimme\" as a colloquial way to say \"give me\", emphasizing the speaker's desire for something. The repeated \"gimme\" creates a sense of urgency and enthusiasm."
+    },
+    {
+      "time": 6.109,
+      "text": "Entre más tengo me siento peor",
+      "translation": "The more I have, the worse I feel.",
+      "grammar": "This sentence illustrates the common Spanish idiom \"entre más X, Y\" which translates to \"the more X, the Y\". It expresses a cause-and-effect relationship between two states or conditions."
+    },
+    {
+      "time": 8.637,
+      "text": "Plata y sexo sin amor",
+      "translation": "Money and sex without love",
+      "grammar": "This idiomatic phrase uses the present tense to convey a sense of habitual or ongoing situation, emphasizing the lack of emotional fulfillment despite material and physical satisfaction."
+    },
+    {
+      "time": 10.796,
+      "text": "Otra ronda, por favor",
+      "translation": "Another round, please",
+      "grammar": "The phrase \"por favor\" is an idiomatic expression used to request something politely, equivalent to saying \"please\"."
+    },
+    {
+      "time": 12.586,
+      "text": "Gimme gimme, gimme more",
+      "translation": "Gimme gimme, gimme more",
+      "grammar": "This line is an imperative sentence in the present tense, using the idiomatic expression \"gimme\" to convey a sense of urgency and demand. The repetition of \"gimme\" emphasizes the speaker's strong desire for something."
+    },
+    {
+      "time": 14.377,
+      "text": "Me estoy quemando y no siento el calor",
+      "translation": "I'm burning up and I don't feel the heat",
+      "grammar": "This line uses the present progressive tense (estoy) to convey a sense of intense emotional experience, emphasizing the ongoing nature of the speaker's feelings. The phrase \"Me estoy quemando\" is an idiomatic expression that literally means \"I am burning myself\", but figuratively conveys the idea of being consumed by passion or desire."
+    },
+    {
+      "time": 17.643,
+      "text": "Ya me pasé el juego",
+      "translation": "I already finished the game",
+      "grammar": "This phrase uses the informal \"ya\" to express a sense of completion, equivalent to saying \"already\" in English. The verb \"pasé\" is in the preterite tense, indicating that the action of finishing the game has been completed."
+    },
+    {
+      "time": 19.803,
+      "text": "No sé a dónde voy, solo sé que no llego",
+      "translation": "I don't know where I'm going, I only know that I'm not getting there.",
+      "grammar": "The phrase \"no sé\" is an idiomatic expression meaning \"I don't know\", using the verb \"saber\" in the present tense to convey a sense of uncertainty about the future. The use of \"voy\" and \"llego\" in the present continuous tense emphasizes the speaker's ongoing struggle or lack of progress."
+    },
+    {
+      "time": 23.808,
+      "text": "Soy yo o es mi ego",
+      "translation": "Is it me or is it my ego?",
+      "grammar": "This line uses the present tense to express a rhetorical question, with \"soy\" (I am) and \"es\" (it is) in the same sentence to create a sense of uncertainty. The phrase \"Soy yo o es mi ego\" can be translated as \"Is it me or is it my ego?"
+    },
+    {
+      "time": 26.336,
+      "text": "Como y repito, pero no me lleno",
+      "translation": "I eat, and I repeat, but I'm not satisfied.",
+      "grammar": "The phrase \"como y repito\" is an idiomatic expression that combines the present tense of \"to eat\" (come) with the verb \"repeat\", conveying the idea of constantly consuming or engaging in something without feeling fulfilled."
+    },
+    {
+      "time": 29.234,
+      "text": "Y yo no les creo",
+      "translation": "And I don't believe them.",
+      "grammar": "The phrase \"yo no\" is an idiomatic expression in Spanish, equivalent to \"I don't\" or \"me neither\", used to express strong negation or disagreement. It's a common way to emphasize the speaker's disbelief or skepticism."
+    },
+    {
+      "time": 31.393,
+      "text": "Dicen que en mi cuenta ya no entra otro cero",
+      "translation": "They say that no more zeros can be added to my account.",
+      "grammar": "The phrase \"dicen que\" is a common idiomatic expression in Spanish, equivalent to \"they say\" or \"it's said,\" used to introduce a rumor or unverified information."
+    },
+    {
+      "time": 35.398,
+      "text": "Y yo no les creo",
+      "translation": "And I don't believe them.",
+      "grammar": "The phrase \"yo no\" is an idiomatic expression used to emphasize the speaker's personal opinion or experience, equivalent to \"I myself\" in English."
+    },
+    {
+      "time": 37.557,
+      "text": "Dicen que en mi cama no entra otra modelo",
+      "translation": "They say no other model can fit in my bed",
+      "grammar": "The phrase \"no otra modelo\" is an idiomatic expression meaning \"no one else\" or \"nobody else\", emphasizing the uniqueness of the speaker's situation. The verb \"dicen\" is in the third person plural present tense, indicating a general opinion or rumor."
+    },
+    {
+      "time": 41.193,
+      "text": "Tengo un millón y quiero dos (I want two)",
+      "translation": "I have a million and I want two (I want two)",
+      "grammar": "The phrase \"quiero dos\" is an idiomatic expression, not a literal request for the number two. It's used to emphasize one's desire or enthusiasm, equivalent to saying \"I really want\"."
+    },
+    {
+      "time": 44.829,
+      "text": "Tengo un ángel, pero quiero a Dios",
+      "translation": "I have an angel, but I want God",
+      "grammar": "This sentence uses the present perfect tense (tengo) to express a completed action in the past, and the first conditional (quiero) to express a future intention."
+    },
+    {
+      "time": 47.726,
+      "text": "Tengo todo lo que quiero, pero quiero lo que tenés vos",
+      "translation": "I have everything I want, but I want what you have.",
+      "grammar": "This sentence uses the present tense to express a contrast between having what one wants and desiring something else. The phrase \"tenés vos\" is an idiomatic expression meaning \"what you have\", with \"vos\" being the second-person plural pronoun used in informal speech."
+    },
+    {
+      "time": 52.101,
+      "text": "No, no, no, no, no",
+      "translation": "No, no, no, no, no",
+      "grammar": "This repeated negation is an idiomatic expression emphasizing strong refusal or denial, often used to convey a sense of urgency or frustration."
+    },
+    {
+      "time": 54.26,
+      "text": "No me sirve más",
+      "translation": "It's no longer useful to me.",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of permanent or habitual unavailability, rather than a specific point in time. The phrase \"no me\" is an informal way to say \"it's not for me\"."
+    },
+    {
+      "time": 56.05,
+      "text": "La casa que quería no me sirve más",
+      "translation": "The house I wanted is no longer suitable for me.",
+      "grammar": "This sentence uses the present perfect tense to convey a sense of completed action, emphasizing that the speaker's desire for the house has changed over time. The phrase \"no me sirve\" is an idiomatic expression meaning \"is not suitable for me\"."
+    },
+    {
+      "time": 59.317,
+      "text": "La mujer de mi vida no me sirve más",
+      "translation": "The woman of my life is no longer useful to me",
+      "grammar": "This sentence uses the present tense to express a general truth about someone's life, and the phrase \"no me sirve\" is an idiomatic expression meaning \"is not suitable for me\"."
+    },
+    {
+      "time": 62.953,
+      "text": "Lo que antes me servía no me sirve más",
+      "translation": "What used to work for me no longer works for me.",
+      "grammar": "This sentence uses the present perfect tense to express a change in situation, highlighting that something that was once effective is now ineffective. The phrase \"no me sirve\" is an idiomatic expression meaning \"is of no use\" or \"does not serve\"."
+    },
+    {
+      "time": 66.588,
+      "text": "Quiero más",
+      "translation": "I want more",
+      "grammar": "This phrase is an informal expression of desire, often used in spoken language. The verb \"quiero\" is in the present tense and first person singular, indicating a current or immediate desire."
+    },
+    {
+      "time": 67.788,
+      "text": "Siempre quiero más",
+      "translation": "I always want more",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or general desire, rather than a specific momentary craving. The phrase \"siempre quiero\" can be translated as \"I always\" in English, emphasizing the speaker's persistent longing for more."
+    },
+    {
+      "time": 69.209,
+      "text": "Ese es mi problema, no me sirve más",
+      "translation": "That's my problem, it's no longer useful to me.",
+      "grammar": "The phrase \"no me sirve más\" is an idiomatic expression indicating that something has reached its limit or is no longer effective. The verb \"sirve\" is in the present tense and agrees with the subject \"mi problema\"."
+    },
+    {
+      "time": 72.476,
+      "text": "Tener la cuenta llena no me sirve más",
+      "translation": "Having a full account is no longer useful to me.",
+      "grammar": "The phrase \"no me sirve\" is an idiomatic expression meaning \"is no longer useful to me\". The verb \"sirve\" is in the present tense, indicating a general truth or habitual situation."
+    },
+    {
+      "time": 75.743,
+      "text": "Lo que antes me servía no me sirve más",
+      "translation": "What used to work for me no longer works for me.",
+      "grammar": "This sentence uses the present tense of the verb \"servir\" to express a general truth about the speaker's current situation, rather than describing a specific past event. The phrase \"Lo que antes\" is an idiomatic expression meaning \"what used to\"."
+    },
+    {
+      "time": 79.379,
+      "text": "Quiero más",
+      "translation": "I want more",
+      "grammar": "This phrase uses the present tense of the verb \"querer\" to express a strong desire, and the idiom \"más\" implies a sense of dissatisfaction or longing."
+    },
+    {
+      "time": 80.579,
+      "text": "Antes me comía modelos",
+      "translation": "I used to eat models",
+      "grammar": "The phrase \"me comía\" is in the preterite tense, indicating a past habit or custom. The verb \"comía\" agrees with the subject pronoun \"me\" in both number and person, using the reflexive pronoun to emphasize the subject's involvement."
+    },
+    {
+      "time": 82.369,
+      "text": "Ahora son supermodelos",
+      "translation": "Now they are supermodels",
+      "grammar": "The phrase \"son\" is in the present tense and agrees with the plural noun \"they\", indicating that the subject has recently acquired a new status as supermodels."
+    },
+    {
+      "time": 83.79,
+      "text": "No sé si existen las hipermodelos",
+      "translation": "I don't know if hypermodels exist",
+      "grammar": "The phrase \"no sé\" is an idiomatic expression used to convey uncertainty or doubt, equivalent to \"I don't know\" in English."
+    },
+    {
+      "time": 86.318,
+      "text": "Pero si existen las quiero",
+      "translation": "But if they exist, I want them.",
+      "grammar": "The phrase \"las quiero\" is an idiomatic expression meaning \"I want them\". The verb \"querer\" is in the present tense and agrees with the plural pronoun \"las\"."
+    },
+    {
+      "time": 88.477,
+      "text": "Hoy es rutina lo que antes era un sueño",
+      "translation": "What was once a dream is now routine.",
+      "grammar": "The phrase \"Hoy es\" uses the present tense to express a general truth or a habitual action, emphasizing the contrast between what used to be and what has become."
+    },
+    {
+      "time": 92.113,
+      "text": "Me volví esclavo de lo que soy dueño",
+      "translation": "I became a slave to what I own.",
+      "grammar": "The phrase \"Me volví\" is an idiomatic expression that indicates a change in the speaker's situation, using the verb \"volverse\" in the reflexive form to emphasize the transformation."
+    },
+    {
+      "time": 95.38,
+      "text": "God total",
+      "translation": "God, totally.",
+      "grammar": "This phrase is an idiomatic expression used to emphasize a strong agreement or confirmation, equivalent to saying \"totally\" or \"absolutely\"."
+    },
+    {
+      "time": 96.58,
+      "text": "Pero todo me da igual",
+      "translation": "But I don't care about any of it.",
+      "grammar": "The phrase \"me da igual\" is an idiomatic expression meaning \"I don't care\". The verb \"dar\" is in the third person singular form, but the subject is \"me\", indicating a colloquial or informal tone."
+    },
+    {
+      "time": 98.739,
+      "text": "Antes faltaba, ahora me sobra",
+      "translation": "Before I needed it, now I have too much.",
+      "grammar": "This line uses the present perfect tense to contrast a past situation with the current one, highlighting the change in quantity from lacking something (antes faltaba) to having an excess of it (ahora me sobra)."
+    },
+    {
+      "time": 100.899,
+      "text": "Antes dolía lo que ahora no importa",
+      "translation": "What used to hurt, now it doesn't matter.",
+      "grammar": "The phrase \"antes\" indicates a past tense and contrast with the present tense \"ahora\", highlighting a change in perspective."
+    },
+    {
+      "time": 103.796,
+      "text": "Ahora que puedo pagar, ni me cobran",
+      "translation": "Now that I can pay, they don't even charge me.",
+      "grammar": "The phrase \"ni me cobran\" is an idiomatic expression in Spanish, where \"ni\" means \"not even\" and indicates a strong negation. This construction emphasizes the speaker's surprise or frustration at not being charged despite their ability to pay."
+    },
+    {
+      "time": 106.694,
+      "text": "La vida es irónica, corta",
+      "translation": "Life is ironic, it's short",
+      "grammar": "The phrase \"la vida es\" is an idiomatic expression that conveys a philosophical tone, using the present tense to emphasize the inherent nature of life being ironic and short."
+    },
+    {
+      "time": 108.853,
+      "text": "Antes todo era un poco más simple",
+      "translation": "Things used to be a bit simpler.",
+      "grammar": "This sentence uses the past perfect tense (era) to describe a completed action in the past, indicating that something was true before another event occurred. The phrase \"un poco más\" is an idiomatic expression meaning \"a bit more\"."
+    },
+    {
+      "time": 111.751,
+      "text": "Ahora, si no es imposible, no sirve",
+      "translation": "Now, if it's not impossible, it's useless.",
+      "grammar": "The phrase \"no sirve\" is an idiomatic expression meaning \"it's of no use\" or \"it's pointless\". The verb \"sirve\" is in the present tense and agrees with the subject \"lo\" (it) in a hypothetical situation."
+    },
+    {
+      "time": 114.648,
+      "text": "La quiero santa con cara de zorra",
+      "translation": "I want her to be a saint with a foxy face",
+      "grammar": "The phrase \"quiero santa\" is an idiomatic expression meaning \"to idealize or romanticize someone\", using the subjunctive mood to convey a desire for something to be true."
+    },
+    {
+      "time": 117.546,
+      "text": "Que sea flaca con culo de gorda",
+      "translation": "I want her to be skinny with a fat ass",
+      "grammar": "This idiomatic expression uses the subjunctive mood (\"sea\" instead of \"fuera\") to express a wish or desire, typical in Spanish when talking about someone's appearance or characteristics."
+    },
+    {
+      "time": 120.443,
+      "text": "Tengo un millón y quiero dos",
+      "translation": "I have a million and I want two.",
+      "grammar": "The phrase \"tengo un millón\" is in the present perfect tense, indicating that the speaker has already acquired one million. The idiom \"querer dos\" means to desire or long for something, rather than literally wanting to possess two specific things."
+    },
+    {
+      "time": 122.972,
+      "text": "Tengo un ángel, pero quiero a Dios",
+      "translation": "I have an angel, but I want God",
+      "grammar": "This sentence uses the present perfect tense (tengo) to describe a completed action in the past, and the present tense (quiero) to express a current desire. The phrase \"pero quiero\" is an idiomatic expression meaning \"but I really want\"."
+    },
+    {
+      "time": 125.869,
+      "text": "Tengo todo lo que quiero, pero quiero lo que tenés vos",
+      "translation": "I have everything I want, but I want what you have.",
+      "grammar": "This line illustrates a common idiomatic expression in Spanish, \"querer lo que tenés vos\" (literally \"want what you have\"), which is used to convey envy or admiration for someone else's possessions or circumstances."
+    },
+    {
+      "time": 130.243,
+      "text": "Sirve más",
+      "translation": "It serves more",
+      "grammar": "This idiomatic expression uses the verb \"sirve\" in the present tense to convey a sense of general truth or habitual action, rather than describing a specific serving event."
+    },
+    {
+      "time": 131.443,
+      "text": "La casa que quería no me sirve más (es que estoy confundido)",
+      "translation": "The house I wanted is no longer suitable for me (I'm confused)",
+      "grammar": "This sentence uses the present perfect tense to convey a sense of ongoing confusion, with \"estoy\" emphasizing the speaker's current emotional state. The phrase \"no me sirve más\" is an idiomatic expression meaning \"is no longer suitable\" or \"doesn't work for me\"."
+    },
+    {
+      "time": 136.187,
+      "text": "La mujer de mi vida no me sirve más (antes estaba mejor y tenía poco)",
+      "translation": "The woman in my life is no longer useful to me (she was better before and had little)",
+      "grammar": "This sentence uses the present tense to express a general truth about someone's current situation, while also referencing their past with the phrase \"antes estaba\" (literally \"before I was\")."
+    },
+    {
+      "time": 142.038,
+      "text": "Lo que antes me servía no me sirve más (y ahora no sé qué hacer con todo esto)",
+      "translation": "What used to work for me doesn't work anymore (and now I don't know what to do with all this)",
+      "grammar": "The phrase \"Lo que antes me servía\" is in the past perfect tense, indicating that something was true at a specific point in the past and has since changed."
+    },
+    {
+      "time": 148.996,
+      "text": "Quiero más",
+      "translation": "I want more",
+      "grammar": "This phrase is an informal expression of desire, often used in spoken English. The verb \"quiero\" is in the present tense and first person singular, equivalent to \"I want\"."
+    },
+    {
+      "time": 150.196,
+      "text": "No me sirve más",
+      "translation": "It's no longer useful to me.",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of permanence, emphasizing that something is no longer suitable or effective. The phrase \"no me\" is an informal way to say \"it's not for me\"."
+    },
+    {
+      "time": 151.986,
+      "text": "La casa que quería no me sirve más",
+      "translation": "The house I wanted is no longer suitable for me.",
+      "grammar": "This sentence uses the present perfect tense (quería) to express a past experience that has relevance in the present, indicating that the speaker's preferences have changed."
+    },
+    {
+      "time": 155.253,
+      "text": "La mujer de mi vida no me sirve más",
+      "translation": "The woman of my life is no longer useful to me",
+      "grammar": "This sentence uses the present tense to express a general truth or a permanent state, and the phrase \"no me sirve\" is an idiomatic expression meaning \"is not suitable for me\"."
+    },
+    {
+      "time": 158.889,
+      "text": "Lo que antes me servía no me sirve más",
+      "translation": "What used to work for me no longer works for me.",
+      "grammar": "This sentence uses the present tense of the verb \"servir\" to express a general truth or a habitual action in the past, which is a common way to describe a change that has occurred. The phrase \"Lo que antes\" can be translated as \"What used to\" and indicates a contrast between the past and the present."
+    },
+    {
+      "time": 162.524,
+      "text": "Quiero más",
+      "translation": "I want more",
+      "grammar": "This phrase is an informal expression of desire, using the present tense and the first person singular pronoun \"yo\" to convey a sense of urgency or immediacy. The word order is also idiomatic in Spanish, with the verb \"querer\" followed by the direct object \"más\"."
+    },
+    {
+      "time": 163.724,
+      "text": "Siempre quiero más",
+      "translation": "I always want more",
+      "grammar": "This phrase uses the present tense of the verb \"querer\" to express a general or habitual desire, rather than a specific or immediate one. The idiom \"siempre quiero\" is equivalent to \"I always\" in English, emphasizing the speaker's persistent longing for more."
+    },
+    {
+      "time": 165.145,
+      "text": "Ese es mi problema, no me sirve más",
+      "translation": "That's my problem, it's no longer useful to me.",
+      "grammar": "The phrase \"no me sirve más\" is an idiomatic expression indicating that something has reached its limit or is no longer effective. The verb \"sirve\" is in the present tense and agrees with the subject \"mi problema\"."
+    },
+    {
+      "time": 168.412,
+      "text": "Tener la cuenta llena no me sirve más",
+      "translation": "Having a full account is no longer useful to me.",
+      "grammar": "The phrase \"no me sirve\" is an idiomatic expression meaning \"is no longer useful to me\". The verb \"sirve\" is in the present tense, indicating a general truth or habitual situation."
+    },
+    {
+      "time": 171.679,
+      "text": "Lo que antes me servía no me sirve más",
+      "translation": "What used to work for me no longer works for me.",
+      "grammar": "This sentence uses the present perfect tense (no longer) to express a change in situation, highlighting the contrast between past and current states."
+    },
+    {
+      "time": 175.315,
+      "text": "Quiero más",
+      "translation": "I want more",
+      "grammar": "This phrase is an informal expression of desire, using the first person singular verb \"querer\" in the present tense to convey a sense of urgency and immediacy. The word order is also idiomatic, with the object \"más\" (more) placed after the subject \"yo\" (I)."
+    },
+    {
+      "time": 176.515,
+      "text": "Casi",
+      "translation": "Almost",
+      "grammar": "This interjection \"Casi\" is used to express a sense of approximation or nearness, similar to saying \"almost\" in English."
+    },
+    {
+      "time": 177.715,
+      "text": "No estoy donde quiero, pero casi",
+      "translation": "I'm not where I want to be, but almost.",
+      "grammar": "The phrase \"no estoy\" is an idiomatic expression that indicates a state of being rather than a physical location. The verb \"estoy\" is in the present tense and agrees with the subject \"yo\"."
+    },
+    {
+      "time": 180.243,
+      "text": "No tengo tanta plata, pero casi",
+      "translation": "I don't have that much money, but almost",
+      "grammar": "The phrase \"casi\" is an adverb indicating approximation or nearness in time or quantity, equivalent to \"almost\" or \"nearly\"."
+    },
+    {
+      "time": 182.772,
+      "text": "No estoy satisfecho, pero casi, casi",
+      "translation": "I'm not satisfied, but almost, almost",
+      "grammar": "The use of \"casi\" (almost) in this phrase is an idiomatic expression that conveys a sense of near-satisfaction, rather than literal proximity. The speaker's tone is one of resignation or acceptance, rather than strong dissatisfaction."
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "id": "lv_sekundes",
+  "title": "Sekundes",
+  "artist": "Musiqq",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "lv",
+  "to_language": "en",
+  "audio": "/audio/lv_sekundes.mp3",
+  "duration": 180,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Kad debesīs nežēlo ūdeni",
+      "translation": "When the sky doesn't spare water",
+      "grammar": "The phrase \"nežēlo\" is an idiom, literally meaning \"not to spare\" but figuratively conveying a sense of abundance or generosity. The sentence uses the present tense to describe a habitual or general situation."
+    },
+    {
+      "time": 2.505,
+      "text": "Mēs dedzinām tiltus ar pagātni",
+      "translation": "We burn bridges with the past",
+      "grammar": "The verb \"dedzinām\" is in the present tense, indicating a habitual or general action of burning bridges with the past. The phrase \"ar pagātni\" uses the preposition \"ar\" to indicate the object being burned, which is idiomatic in Latvian."
+    },
+    {
+      "time": 10.643799999982118,
+      "text": "Lai līst, lai visa pasaule plīst",
+      "translation": "Let it rain, let the whole world burst",
+      "grammar": "This line uses the imperative mood to express a desire or command, with the verb \"lai\" (let) in the present tense. The idiomatic phrase \"pasaule plīst\" literally means \"the world bursts\", but figuratively conveys the idea of something overwhelming or intense happening."
+    },
+    {
+      "time": 14.885900000005961,
+      "text": "Ja man nav lemts redzēt tevi sev līdzās",
+      "translation": "If I'm not destined to see you by my side",
+      "grammar": "The phrase \"nav lemts\" is a conditional construction in the third person singular, implying a hypothetical situation where the speaker's destiny does not allow them to be with the loved one."
+    },
+    {
+      "time": 19.05640000000596,
+      "text": "Atņemiet amoram bultas",
+      "translation": "Take away Cupid's arrows",
+      "grammar": "The imperative mood is used to express a direct command, with the verb \"atņemiet\" (take away) in the second person plural form, addressing multiple people. The idiomatic phrase \"amoram bultas\" literally means \"of love's arrows\", referring to Cupid's mythological powers of attraction and affection."
+    },
+    {
+      "time": 21.13559999999404,
+      "text": "Atņemiet amoram tās",
+      "translation": "Take away from Cupid those",
+      "grammar": "This line employs a figurative expression, using the verb \"atņemiet\" (take away) to mean \"remove\" or \"dismiss\", implying a desire to eliminate unwanted romantic feelings. The sentence is in the imperative mood, addressing someone to take action."
+    },
+    {
+      "time": 23.65409999999404,
+      "text": "Lai atkal ir gaisma uz manas ielas",
+      "translation": "May there be light on my street again",
+      "grammar": "The phrase \"atkal\" is a temporal adverb indicating a return to a previous situation, often translated as \"again\". This idiom implies a sense of longing or nostalgia for a past time."
+    },
+    {
+      "time": 27.56569999998808,
+      "text": "Atņemiet amoram bultas",
+      "translation": "Take away Cupid's arrows",
+      "grammar": "The imperative mood is used to express a direct command, with the verb \"atņemiet\" (take away) in the second person plural form, addressing multiple people. The idiom \"amoram bultas\" translates to \"Cupid's arrows\", referring to the mythological concept of Cupid's power to inspire love or desire."
+    },
+    {
+      "time": 29.869,
+      "text": "Atņemiet amoram tās",
+      "translation": "Take away from Cupid those",
+      "grammar": "This idiomatic expression uses the imperative mood to make a request, with the verb \"atņemiet\" (take away) in the second person plural form, addressing an unknown or implied audience. The phrase is a figurative way of saying \"stop romanticizing\" or \"don't idealize love\"."
+    },
+    {
+      "time": 33.1035,
+      "text": "Lai atkal ir gaisma",
+      "translation": "Let there be light again",
+      "grammar": "The phrase \"atkal\" is an adverb indicating a return to a previous state or situation, often translated as \"again\". This idiom is used to express a desire for something to happen once more."
+    },
+    {
+      "time": 36.71840000000596,
+      "text": "Sekundes rit, rit, sekundēm līdz",
+      "translation": "The seconds pass, the seconds pass,",
+      "grammar": "This line uses the present continuous tense to convey a sense of ongoing action, emphasizing the passage of time. The repetition of \"rit\" (pass) creates an idiomatic expression suggesting a feeling of monotony or routine."
+    },
+    {
+      "time": 41.249100000023844,
+      "text": "Sekundes līdz, līdz, mainās skats uz dzīvi",
+      "translation": "Seconds until, until, the view on life changes",
+      "grammar": "The phrase \"līdz\" is an idiom used to indicate a gradual change or transition, similar to English \"until\" in phrases like \"until I learn\". The sentence structure and verb tense convey a sense of anticipation and expectation."
+    },
+    {
+      "time": 46.3815,
+      "text": "Sekundes rit, rit, sekundēm līdz",
+      "translation": "The seconds pass, the seconds pass,",
+      "grammar": "This line uses the present continuous tense to convey a sense of ongoing or repetitive action, emphasizing the passage of time. The repetition of \"rit\" (pass) creates an idiomatic expression that underscores the monotony and inevitability of time moving forward."
+    },
+    {
+      "time": 49.92670000001788,
+      "text": "Sekundes līdz, līdz, mainās skats uz dzīvi",
+      "translation": "Seconds until, until, the view on life changes",
+      "grammar": "The phrase \"līdz, līdz\" is an idiom expressing a sense of anticipation or expectation, similar to English \"until\" in the context of a change. The use of \"līdz\" twice emphasizes the suddenness and significance of this transformation."
+    },
+    {
+      "time": 55.141,
+      "text": "Rokas, tukšumu tausta, tukšumā sirds tevi rausta",
+      "translation": "Hands, feel the emptiness, your heart pulls you into the emptiness",
+      "grammar": "The verb \"rausta\" is in the imperative mood, indicating a command or strong suggestion. The use of \"tevi\" instead of \"tu\" emphasizes the direct address and intimacy of the speaker's words."
+    },
+    {
+      "time": 59.2895,
+      "text": "Rokas, tukšumu tausta, tukšums- jo sirds tev ir lauzta",
+      "translation": "Hands, feel the emptiness, emptiness - because your heart is broken",
+      "grammar": "The phrase \"tukšums-jo\" is an idiomatic expression conveying a sense of emotional exhaustion or despair, often translated as \"emptiness\". The use of \"-jo\" (a possessive particle) emphasizes the speaker's personal experience and emotional state."
+    },
+    {
+      "time": 63.66520000001788,
+      "text": "Rokas, tukšumu tausta, tukšumā sirds tevi rausta",
+      "translation": "Hands, feel the emptiness, your heart pulls you into the emptiness",
+      "grammar": "The verb \"rausta\" is in the imperative mood, indicating a command or strong suggestion to let one's heart be drawn into the emptiness."
+    },
+    {
+      "time": 67.94140000000596,
+      "text": "Rokas, tukšumu tausta, tukšums- jo sirds tev ir lauzta",
+      "translation": "Hands, feel the emptiness, emptiness - because your heart is broken",
+      "grammar": "The phrase \"tukšums-jo\" is an idiomatic expression meaning \"because of\" or \"due to\", indicating a causal relationship between the state of being broken-hearted and the feeling of emptiness."
+    },
+    {
+      "time": 72.60180000001192,
+      "text": "Rokas",
+      "translation": "Hands",
+      "grammar": "This interjection \"Rokas\" is used to emphasize a point or express strong agreement, similar to saying \"hands down\" in English."
+    },
+    {
+      "time": 76.73760000002385,
+      "text": "Rokas",
+      "translation": "Hands",
+      "grammar": "This idiom uses the noun \"rokas\" to figuratively mean \"hands\", conveying a sense of being in control or taking charge."
+    },
+    {
+      "time": 81.03660000002384,
+      "text": "Rokas",
+      "translation": "Hands",
+      "grammar": "This interjection \"Rokas\" is used to express agreement or confirmation, similar to saying \"okay\" or \"got it\"."
+    },
+    {
+      "time": 85.58790000000596,
+      "text": "Rokas",
+      "translation": "Hands",
+      "grammar": "This idiomatic expression uses the noun \"rokas\" to mean \"hands\", employing a common Latvian metaphorical extension of body parts to convey physical or emotional involvement."
+    },
+    {
+      "time": 88.83210000002384,
+      "text": "Kad debesīs nežēlo ūdeni",
+      "translation": "When the sky doesn't spare water",
+      "grammar": "The phrase \"nežēlo\" is an idiom, literally meaning \"to not spare\" but figuratively conveying the idea of being generous or abundant. The verb agrees with the subject \"debesīs\" in the nominative plural form."
+    },
+    {
+      "time": 94.18610000002384,
+      "text": "Mēs dedzinām tiltus ar pagātni",
+      "translation": "We burn bridges with the past",
+      "grammar": "The phrase \"dedzinām\" is in the present tense, indicating a habitual or ongoing action of burning bridges with the past. The idiom \"dedzināt tiltus\" literally means to destroy bridges, but here it figuratively means to sever ties with one's past."
+    },
+    {
+      "time": 99.04540000000596,
+      "text": "Lai līst, lai visa pasaule plīst",
+      "translation": "Let it rain, let the whole world burst",
+      "grammar": "This line employs a common Latvian idiom, where the verb \"līst\" (to rain) is used figuratively to convey intense emotional release or overwhelming circumstances. The imperative mood and plural subject (\"pasaule\", meaning \"world\") emphasize the universality of the desired outcome."
+    },
+    {
+      "time": 103.33610000002385,
+      "text": "Ja man nav lemts redzēt tevi sev līdzās",
+      "translation": "If I'm not destined to see you by my side",
+      "grammar": "The sentence uses the conditional mood, indicating a hypothetical or uncertain situation. The phrase \"nav lemts\" is an idiomatic expression meaning \"not destined\" or \"not meant to be\"."
+    },
+    {
+      "time": 107.40420000001788,
+      "text": "Atņemiet amoram bultas",
+      "translation": "Take away Cupid's arrows",
+      "grammar": "The imperative mood is used to express a direct command, with the verb \"atņemiet\" (take away) in the second person plural form, addressing multiple people. The idiom \"amoram bultas\" literally means \"of love's arrows\", referring to Cupid's mythical ability to inspire romantic feelings."
+    },
+    {
+      "time": 109.50280000001192,
+      "text": "Atņemiet amoram tās",
+      "translation": "Take away those from Cupid",
+      "grammar": "The imperative mood is used to express a command, with the verb \"atņemiet\" (take away) in the second person plural form, addressing multiple people. The phrase \"those from Cupid\" is an idiomatic expression meaning people who are under the influence of romantic love."
+    },
+    {
+      "time": 112.60430000001192,
+      "text": "Lai atkal ir gaisma uz manas ielas",
+      "translation": "May there be light on my street again",
+      "grammar": "The sentence uses the subjunctive mood to express a wish or possibility, rather than stating a fact. The phrase \"atkal\" is an adverb meaning \"again\", indicating the speaker's desire for a return to a previous state."
+    },
+    {
+      "time": 116.0545,
+      "text": "Atņemiet amoram bultas",
+      "translation": "Take away Cupid's arrows",
+      "grammar": "The imperative mood is used to convey a direct command, with the verb \"atņemiet\" (take away) in the second person plural form, addressing multiple people."
+    },
+    {
+      "time": 118.13170000001789,
+      "text": "Atņemiet amoram tās",
+      "translation": "Take away from Cupid those",
+      "grammar": "This idiomatic phrase uses the imperative mood to make a request, with the verb \"atņemiet\" (take away) in the second person plural form, agreeing with the pronoun \"tās\" (those)."
+    },
+    {
+      "time": 123.6485,
+      "text": "Lai atkal ir gaisma",
+      "translation": "Let there be light again",
+      "grammar": "The phrase \"atkal\" is an adverb indicating a return to a previous state or situation, often translated as \"again\". This idiom is used to express a desire for something to happen once more."
+    },
+    {
+      "time": 125.08420000001789,
+      "text": "Sekundes rit, rit, sekundēm līdz",
+      "translation": "The seconds pass, the seconds pass,",
+      "grammar": "This line uses the present continuous tense to convey a sense of ongoing or repeated action, emphasizing the passing of time. The repetition of \"rit\" (pass) creates an idiomatic expression that underscores the relentless nature of time's passage."
+    },
+    {
+      "time": 129.50040000000595,
+      "text": "Sekundes līdz, līdz, mainās skats uz dzīvi",
+      "translation": "Seconds until, until, the view on life changes",
+      "grammar": "The phrase \"līdz, līdz\" is an idiom translating to \"until\" or \"as long as\", used to express a condition that will lead to a change. The verb \"mainās\" is in the present tense, indicating a continuous process of changing one's perspective on life."
+    },
+    {
+      "time": 134.5475,
+      "text": "Sekundes rit, rit, sekundēm līdz",
+      "translation": "The seconds pass, the seconds pass,",
+      "grammar": "This line uses the present continuous tense to convey a sense of ongoing or repetitive action, emphasizing the passage of time. The idiom \"rit, rit\" is an onomatopoeic representation of ticking clock hands, adding to the sense of urgency and monotony."
+    },
+    {
+      "time": 138.26170000001787,
+      "text": "Sekundes līdz, līdz, mainās skats uz dzīvi",
+      "translation": "Seconds until, until, the view on life changes",
+      "grammar": "The phrase \"līdz\" is an idiom indicating a gradual process or transition, similar to English \"until\" or \"as long as\". It's used to describe a continuous action that will change when something happens."
+    },
+    {
+      "time": 143.47240000000596,
+      "text": "Rokas, tukšumu tausta, tukšumā sirds tevi rausta",
+      "translation": "Hands, feel the emptiness, your heart pulls you into the emptiness",
+      "grammar": "The verb \"rausta\" is in the imperative mood, indicating a command or exhortation to let one's heart be drawn into the emptiness. The use of \"tevi\" (you) emphasizes the personal and intimate nature of this emotional experience."
+    },
+    {
+      "time": 147.75360000002385,
+      "text": "Rokas, tukšumu tausta, tukšums- jo sirds tev ir lauzta",
+      "translation": "Hands, feel the emptiness, emptiness - because your heart is broken",
+      "grammar": "The phrase \"tukšums-jo\" is an idiomatic expression meaning \"because of\" or \"due to\", indicating a causal relationship between the speaker's emotional state and the emptiness they're feeling."
+    },
+    {
+      "time": 151.99320000001788,
+      "text": "Rokas, tukšumu tausta, tukšumā sirds tevi rausta",
+      "translation": "Hands, feel the emptiness, your heart pulls you into the emptiness",
+      "grammar": "The verb \"rausta\" is in the imperative mood, indicating a command or strong suggestion to let one's heart be drawn into the emptiness. The phrase \"tukšumu tausta\" can be translated as \"feel the emptiness\", using the idiomatic expression \"tausta\" meaning \"to feel\" or \"to sense\"."
+    },
+    {
+      "time": 156.31990000000596,
+      "text": "Rokas, tukšumu tausta, tukšums- jo sirds tev ir lauzta",
+      "translation": "Hands, feel the emptiness, emptiness - because your heart is broken",
+      "grammar": "The phrase \"tukšums-jo\" is an idiomatic expression meaning \"because of something\", conveying a sense of causality. The use of the possessive pronoun \"tev\" (your) agrees with the subject \"sirds\" (heart)."
+    },
+    {
+      "time": 160.88380000001192,
+      "text": "Rokas",
+      "translation": "Hands",
+      "grammar": "This idiomatic expression uses the noun \"rokas\" to mean \"hands\", employing a common Latvian metaphor where body parts are used to describe abstract concepts."
+    },
+    {
+      "time": 164.98740000000595,
+      "text": "Rokas",
+      "translation": "Hands",
+      "grammar": "The word \"Rokas\" is an idiomatic expression in Latvian, equivalent to the English phrase \"Hands\"."
+    },
+    {
+      "time": 169.4605,
+      "text": "Rokas",
+      "translation": "Hands",
+      "grammar": "This idiomatic expression uses the noun \"rokas\" to metaphorically refer to one's skills or abilities, rather than literally meaning hands."
+    },
+    {
+      "time": 173.88510000002384,
+      "text": "Rokas",
+      "translation": "Hands",
+      "grammar": "This idiomatic expression uses the noun \"Rokas\" to metaphorically refer to hands, conveying a sense of being busy or occupied."
+    },
+    {
+      "time": 177.55490000000597,
+      "text": "Sekundes rit, rit, sekundēm līdz",
+      "translation": "The seconds pass, the seconds pass,",
+      "grammar": "This line uses the present continuous tense to convey a sense of ongoing action, emphasizing the passing of time. The repetition of \"rit\" (pass) creates an idiomatic expression suggesting a feeling of being stuck or trapped in time."
+    },
+    {
+      "time": 181.95960000002384,
+      "text": "Sekundes līdz, līdz, mainās skats uz dzīvi",
+      "translation": "Seconds until, until, the view on life changes",
+      "grammar": "The phrase \"līdz, līdz\" is an idiom translating to \"until\" or \"as long as\", used to express a condition that will lead to a change. The sentence is in the present continuous tense, describing an ongoing process of changing one's perspective on life."
+    },
+    {
+      "time": 187.65310000002384,
+      "text": "Sekundes rit, rit, sekundēm līdz",
+      "translation": "The seconds pass, the seconds pass,",
+      "grammar": "This line uses the present continuous tense to convey a sense of ongoing or repeated action, emphasizing the passage of time. The repetition of \"rit\" (pass) creates an idiomatic expression suggesting the relentless and inevitable flow of seconds."
+    },
+    {
+      "time": 190.58670000001788,
+      "text": "Sekundes līdz, līdz, mainās skats uz dzīvi",
+      "translation": "Seconds until, until, the view on life changes",
+      "grammar": "The phrase \"līdz, līdz\" is an idiom expressing a sense of anticipation or expectation, similar to English \"until\" in the context of a change. The verb \"mainās\" is in the present continuous tense, indicating ongoing transformation."
+    },
+    {
+      "time": 195.2808000000119,
+      "text": "Rokas, tukšumu tausta, tukšumā sirds tevi rausta",
+      "translation": "Hands, feel the emptiness, your heart pulls you into the emptiness",
+      "grammar": "The verb \"rausta\" is in the imperative mood, indicating a command or strong suggestion to let one's heart be pulled into the emptiness. The phrase \"tukšumā sirds tevi rausta\" can be translated as \"your heart pulls you into the emptiness\", emphasizing the emotional pull of the emptiness."
+    },
+    {
+      "time": 199.98430000001193,
+      "text": "Rokas, tukšumu tausta, tukšums- jo sirds tev ir lauzta",
+      "translation": "Hands, feel the emptiness, emptiness - because your heart is broken",
+      "grammar": "The phrase \"tukšums-jo\" is an idiomatic expression meaning \"because of\" or \"due to\", indicating a causal relationship between the speaker's emotional state and the current situation."
+    },
+    {
+      "time": 204.3585,
+      "text": "Rokas, tukšumu tausta, tukšumā sirds tevi rausta",
+      "translation": "Hands, feel the emptiness, your heart pulls you into the emptiness",
+      "grammar": "The verb \"rausta\" is in the imperative mood, indicating a command or strong suggestion to \"pull yourself into the emptiness\". The phrase \"tukšumu tausta\" can be translated as \"feel the emptiness\", using the idiomatic expression \"to feel the void\" to convey a sense of emotional desolation."
+    },
+    {
+      "time": 208.72270000001788,
+      "text": "Rokas, tukšumu tausta, tukšums- jo sirds tev ir lautza",
+      "translation": "Hands, feel the emptiness, emptiness - because your heart is broken",
+      "grammar": "The phrase \"tukšums- jo\" can be translated as \"because\" or \"since\", indicating a causal relationship between the emptiness and the broken heart, using the idiomatic expression \"jo\" to convey this meaning."
+    },
+    {
+      "time": 213.15940000000597,
+      "text": "Rokas",
+      "translation": "Hands",
+      "grammar": "In this idiomatic expression, \"Rokas\" is used figuratively to mean \"Hands\", conveying a sense of responsibility or control."
+    },
+    {
+      "time": 216.10470000001789,
+      "text": "Rokas, tukšumu tausta",
+      "translation": "Hands, feeling the void",
+      "grammar": "The phrase \"Rokas, tukšumu tausta\" uses the imperative mood to make a statement rather than give a direct instruction, which is an idiomatic expression in Latvian. The verb \"tausta\" is in the present tense, suggesting a sense of ongoing or continuous feeling."
+    },
+    {
+      "time": 217.5378000000119,
+      "text": "Rokas",
+      "translation": "Hands",
+      "grammar": "This idiomatic expression uses the noun \"rokas\" to metaphorically refer to someone's skills or abilities, rather than literal hands."
+    },
+    {
+      "time": 220.67630000001193,
+      "text": "Tukšumā sirds tevi rausta",
+      "translation": "In the emptiness, your heart is pulling you",
+      "grammar": "The verb \"rausta\" is in the infinitive form, indicating a desire or tendency, rather than an actual action. This usage is idiomatic in Latvian, conveying a sense of longing or yearning."
+    },
+    {
+      "time": 221.857,
+      "text": "Rokas",
+      "translation": "Hands",
+      "grammar": "This idiomatic expression uses the noun \"rokas\" to figuratively mean \"hands\", conveying a sense of being in control or taking charge."
+    },
+    {
+      "time": 224.51540000000597,
+      "text": "Rokas, tukšumu tausta",
+      "translation": "Hands, feeling the void",
+      "grammar": "The phrase \"Rokas, tukšumu tausta\" is an idiomatic expression using the present continuous tense to convey a sense of emotional longing or searching."
+    },
+    {
+      "time": 226.22370000001789,
+      "text": "Rokas",
+      "translation": "Hands",
+      "grammar": "This interjection \"Rokas\" is used to express agreement or confirmation, similar to saying \"okay\" in English."
+    },
+    {
+      "time": 228.73910000002385,
+      "text": "Tukšums- jo sirds tev ir lautza",
+      "translation": "Emptiness - because your heart is broken",
+      "grammar": "The phrase \"jo sirds\" uses the possessive pronoun \"jo\" to indicate that the speaker's heart is being referred to, emphasizing a personal and intimate connection."
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "id": "fr_la_vie_en_rose",
+  "title": "La vie en rose",
+  "artist": "Édith Piaf",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_la_vie_en_rose.mp3",
+  "duration": 115,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Des yeux qui font baisser les miens",
+      "translation": "Eyes that make mine lower",
+      "grammar": "The phrase \"des yeux\" is an idiomatic expression meaning \"eyes that have a certain power or charm\". The verb \"font baisser\" is in the passive voice, indicating the effect of someone's eyes on the speaker."
+    },
+    {
+      "time": 3.418,
+      "text": "Un rire qui se perd sur sa bouche",
+      "translation": "A laugh that fades away on his mouth",
+      "grammar": "The phrase \"se perd\" is an idiomatic expression indicating a gradual loss or disappearance, often used to describe something fleeting or ephemeral. In this context, it emphasizes the transience of the laughter."
+    },
+    {
+      "time": 7.282,
+      "text": "Voila le portrait sans retouche",
+      "translation": "Here is the unretouched portrait.",
+      "grammar": "The phrase \"Voilà\" is an interjection used to draw attention and introduce something, often with a sense of drama or surprise. It can be translated as \"Here it is\" or \"Behold\"."
+    },
+    {
+      "time": 9.809,
+      "text": "De l'homme auquel j'appartiens",
+      "translation": "From the man to whom I belong",
+      "grammar": "The phrase \"auquel\" is a relative pronoun in the objective case, used to indicate the person or thing to which something belongs. Its use indicates a possessive relationship between the speaker and the man mentioned."
+    },
+    {
+      "time": 12.782,
+      "text": "Quand il me prend dans ses bras",
+      "translation": "When he takes me in his arms",
+      "grammar": "The phrase \"quand il me prend\" is a subordinate clause in the present continuous tense, indicating an ongoing action. The use of \"me\" instead of \"le/la\" agrees with the idiomatic expression \"prendre dans ses bras\", which means to hold or embrace someone."
+    },
+    {
+      "time": 16.2,
+      "text": "Qu'il me parle tout bas",
+      "translation": "He should speak to me in a low voice.",
+      "grammar": "The phrase \"Qu'il me parle\" is an indirect command in the subjunctive mood, used to express a polite request. The verb \"parle\" agrees with the subject \"il\" (he) in number and person."
+    },
+    {
+      "time": 19.173,
+      "text": "Je vois la vie en rose",
+      "translation": "I see life through rose-colored glasses",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or general feeling, rather than a specific action. The phrase \"en rose\" is an idiomatic expression meaning \"through rose-colored glasses,\" implying a positive and optimistic outlook on life."
+    },
+    {
+      "time": 22.145,
+      "text": "Il me dit des mots d'amour",
+      "translation": "He whispered words of love to me.",
+      "grammar": "The phrase \"Il me dit\" is an idiomatic way to express that someone is speaking directly to the speaker, using the informal \"tu\" form and the indirect object pronoun \"me\" to convey a sense of intimacy."
+    },
+    {
+      "time": 25.564,
+      "text": "Des mots de tous les jours",
+      "translation": "Everyday words",
+      "grammar": "This idiomatic phrase uses the present tense to convey a sense of familiarity and commonality, emphasizing that everyday words are those we use in our daily lives."
+    },
+    {
+      "time": 28.536,
+      "text": "Et ça me fait quelque chose",
+      "translation": "And that does something to me.",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of emotional impact, implying that the speaker's feelings are still relevant. The phrase \"faire quelque chose à quelqu'un\" is an idiomatic way to describe how someone or something affects you."
+    },
+    {
+      "time": 31.509,
+      "text": "Il est entré dans mon coeur",
+      "translation": "He entered my heart",
+      "grammar": "The phrase \"Il est entré\" is in the passé composé tense, indicating a completed action in the past. The verb \"entrer\" means \"to enter\", but here it's used idiomatically to mean \"to win someone's love or affection\"."
+    },
+    {
+      "time": 34.482,
+      "text": "Une part de bonheur",
+      "translation": "A piece of happiness",
+      "grammar": "This idiomatic expression uses the preposition \"de\" to convey a sense of possession or belonging, rather than indicating a physical portion."
+    },
+    {
+      "time": 36.564,
+      "text": "Dont je connais la cause",
+      "translation": "Whose cause I know",
+      "grammar": "The phrase \"dont\" is an informal way to ask whose, using the possessive adverb \"dont\" (meaning \"whose\") to form a question about ownership or origin."
+    },
+    {
+      "time": 39.091,
+      "text": "C'est lui pour moi",
+      "translation": "He's the one for me",
+      "grammar": "This phrase uses the present tense and the informal pronoun \"lui\" to express a personal preference, equivalent to saying \"he's the one I'm interested in\". The idiomatic expression \"c'est lui pour moi\" is a common way to indicate a strong emotional connection or attraction."
+    },
+    {
+      "time": 41.618,
+      "text": "Moi pour lui dans la vie",
+      "translation": "Me for him in life",
+      "grammar": "This idiomatic expression uses the reflexive pronoun \"moi\" to indicate a sense of selflessness, emphasizing the speaker's willingness to put someone else's needs before their own. The phrase is often used to convey devotion or sacrifice."
+    },
+    {
+      "time": 44.591,
+      "text": "Il me l'a dit, l'a juré pour la vie",
+      "translation": "He told me, he swore it for life",
+      "grammar": "The phrase \"l'a juré\" is an idiomatic expression in French, equivalent to \"he swore\" in English, using the imperfect tense to convey a sense of habitual or repeated action."
+    },
+    {
+      "time": 49.791,
+      "text": "Et dès que je l'aperçois",
+      "translation": "And as soon as I see him",
+      "grammar": "The phrase \"dès que\" is an adverbial expression indicating immediate future action, equivalent to \"as soon as\"."
+    },
+    {
+      "time": 52.764,
+      "text": "Alors je sens dans moi",
+      "translation": "So I feel it inside me",
+      "grammar": "The phrase \"Alors je sens\" is an idiomatic expression, equivalent to \"Then I realize\" or \"And then I feel\". The verb \"sens\" is in the present tense, indicating a general feeling or intuition."
+    },
+    {
+      "time": 55.291,
+      "text": "Mon coeur qui bat",
+      "translation": "My heart is beating",
+      "grammar": "The phrase \"Mon coeur qui bat\" uses the present continuous tense to convey a sense of ongoing action, emphasizing the intensity or urgency of the heartbeat. The idiomatic translation \"My heart is beating\" captures this dynamic feel."
+    },
+    {
+      "time": 57.373,
+      "text": "Des nuits d'amour à plus finir",
+      "translation": "Endless nights of love",
+      "grammar": "The phrase \"des nuits d'amour\" is an idiomatic expression, using the plural noun \"nuits\" to convey a sense of eternity or infinity, rather than referring to multiple specific nights. This usage is equivalent to saying \"endless nights\" in English."
+    },
+    {
+      "time": 60.791,
+      "text": "Un grand bonheur qui prend sa place",
+      "translation": "A great happiness that takes its place",
+      "grammar": "The phrase \"prend sa place\" is an idiomatic expression, literally meaning \"takes its place\", but figuratively conveying the idea of something or someone filling a gap or taking over."
+    },
+    {
+      "time": 64.209,
+      "text": "Des enuis des chagrins, s'effacent",
+      "translation": "Anxieties and sorrows fade away.",
+      "grammar": "The phrase \"s'effacent\" is in the third person singular imperfect tense, indicating a continuous or ongoing action of fading away. The construction \"s'\" is an impersonal pronoun equivalent to \"they\" in English, used to describe a general or abstract phenomenon."
+    },
+    {
+      "time": 67.182,
+      "text": "Heureux, heureux à en mourir",
+      "translation": "Happy, happy to the point of dying",
+      "grammar": "This idiomatic expression uses the present participle \"à en mourir\" to convey an extreme degree of happiness, equivalent to \"to the point of being overjoyed\". The verb \"mourir\" is used figuratively to emphasize the intensity of the feeling."
+    },
+    {
+      "time": 69.709,
+      "text": "Quand il me prend dans ses bras",
+      "translation": "When he takes me in his arms",
+      "grammar": "The phrase \"Quand il me prend dans ses bras\" uses the present continuous tense to convey a sense of ongoing action, emphasizing the intimacy and immediacy of being held. The use of \"me\" instead of \"mon corps\" or \"mes épaules\" highlights the idiomatic expression of being physically close to someone."
+    },
+    {
+      "time": 73.127,
+      "text": "Qu'il me parle tout bas",
+      "translation": "He should speak to me in a low voice.",
+      "grammar": "This idiomatic expression uses the subjunctive mood to convey a polite request, suggesting that someone should do something rather than actually doing it. The phrase \"qu'il\" is a formal way of saying \"that he\" and is used to express doubt or uncertainty about the situation."
+    },
+    {
+      "time": 76.1,
+      "text": "Je vois la vie en rose",
+      "translation": "I see life through rose-colored glasses",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or general feeling, rather than a specific action. The phrase \"en rose\" is an idiom meaning to view something optimistically or with a positive bias."
+    },
+    {
+      "time": 79.073,
+      "text": "Il me dit des mots d'amour",
+      "translation": "He whispered words of love to me.",
+      "grammar": "The use of \"me\" as the direct object of \"dit\" indicates that the verb is in the reflexive construction, emphasizing the action's effect on the speaker. This is a common way to express intimacy or affection in French."
+    },
+    {
+      "time": 82.491,
+      "text": "Des mots de tous les jours",
+      "translation": "Everyday words",
+      "grammar": "This phrase uses the present tense to describe common, ordinary expressions, emphasizing their familiarity and ubiquity in everyday life."
+    },
+    {
+      "time": 85.464,
+      "text": "Et ça me fait quelque chose",
+      "translation": "And that does something to me.",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of emotional impact, implying that the speaker's feelings are still relevant and affecting them in some way. The phrase \"faire quelque chose à quelqu'un\" is an idiomatic translation of \"do something to someone\", emphasizing the personal connection and emotional resonance."
+    },
+    {
+      "time": 88.436,
+      "text": "Il est entré dans mon coeur",
+      "translation": "He entered my heart",
+      "grammar": "The verb \"est\" is in the present perfect tense, indicating that the action of entering has a lasting effect on the speaker's heart. The phrase \"dans mon coeur\" is an idiomatic expression meaning \"into my heart\"."
+    },
+    {
+      "time": 91.409,
+      "text": "Une part de bonheur",
+      "translation": "A piece of happiness",
+      "grammar": "This idiomatic expression uses the preposition \"de\" to convey a sense of possession or belonging, rather than indicating a physical portion."
+    },
+    {
+      "time": 93.491,
+      "text": "Dont je connais la cause",
+      "translation": "Whose cause I know",
+      "grammar": "This line uses the idiomatic expression \"dont\" instead of \"de qui\", which is a common way to ask whose something belongs to or is responsible for, in informal French."
+    },
+    {
+      "time": 96.018,
+      "text": "C'est toi pour moi",
+      "translation": "It's you to me",
+      "grammar": "This idiomatic expression uses the present tense and a possessive pronoun to convey a sense of intimacy, emphasizing that someone is special or unique to the speaker."
+    },
+    {
+      "time": 98.545,
+      "text": "Moi pour toi dans ma vie",
+      "translation": "Me for you in my life",
+      "grammar": "This idiomatic phrase uses the reflexive pronoun \"moi\" to emphasize a personal sacrifice, conveying a sense of devotion and selflessness. The verb tense is present continuous, emphasizing the ongoing nature of the speaker's commitment."
+    },
+    {
+      "time": 101.518,
+      "text": "Tu me l'a dis, l'a juré pour la vie",
+      "translation": "You told me, swore it for life",
+      "grammar": "The phrase \"l'a\" is a contraction of \"le lui a\", using the indirect object pronoun \"lui\" and the verb \"a\" in the passé composé tense, indicating that someone else did something to or for someone else in the past."
+    },
+    {
+      "time": 106.718,
+      "text": "Et dès que je t'aperçois",
+      "translation": "And as soon as I see you",
+      "grammar": "The phrase \"dès que\" is an adverbial expression indicating a specific point in time, equivalent to \"as soon as\" or \"the moment\". It's used to describe an action that happens immediately after something else."
+    },
+    {
+      "time": 109.691,
+      "text": "Alors je sens dans moi",
+      "translation": "So I feel it inside me",
+      "grammar": "The phrase \"Alors je sens\" is an idiomatic expression that combines a conjunction (alors) with the verb sens, which is in the present tense and indicates a general or habitual feeling."
+    },
+    {
+      "time": 112.218,
+      "text": "Mon coeur qui bat",
+      "translation": "My heart is beating",
+      "grammar": "The phrase \"Mon coeur qui bat\" uses the present continuous tense to convey a sense of ongoing action, emphasizing the intensity or urgency of the heartbeat."
+    }
+  ]
+}

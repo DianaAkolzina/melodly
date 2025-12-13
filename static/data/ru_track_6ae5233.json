@@ -1,0 +1,385 @@
+{
+  "id": "ru_track_6ae5233",
+  "title": "Снова в школу",
+  "artist": "Корни",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_track_6ae5233.mp3",
+  "duration": 228,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Снова в школу",
+      "translation": "Back to school",
+      "grammar": "The phrase 'снова' (again) is used to indicate a return to a previous state or situation, which is a common idiomatic expression in Russian."
+    },
+    {
+      "time": 6.462199999988079,
+      "text": "Словно в первый раз",
+      "translation": "Like the first time",
+      "grammar": ""
+    },
+    {
+      "time": 8.71919999998808,
+      "text": "Снова в школу",
+      "translation": "Back to school",
+      "grammar": ""
+    },
+    {
+      "time": 12.583099999964237,
+      "text": "Словно в первый класс идём с тобой",
+      "translation": "It's like we're going to first grade together.",
+      "grammar": ""
+    },
+    {
+      "time": 38.1,
+      "text": "По листьям жёлтым и красным мы вместе идём",
+      "translation": "We walk together through yellow and red leaves",
+      "grammar": ""
+    },
+    {
+      "time": 41.77480000001192,
+      "text": "Ты в параллельном \"А\" классе, и это облом",
+      "translation": "You're in parallel class \"A\", and it's a bummer.",
+      "grammar": ""
+    },
+    {
+      "time": 45.56740000003576,
+      "text": "Ты знаешь, ты стала взрослой, красивой такой",
+      "translation": "You know, you've become an adult, so beautiful.",
+      "grammar": ""
+    },
+    {
+      "time": 49.40790000003576,
+      "text": "Тебя уже так непросто коснуться, коснуться рукой",
+      "translation": "It's so hard to touch you anymore, to touch you with my hand",
+      "grammar": ""
+    },
+    {
+      "time": 54.53940000003576,
+      "text": "А на парте тебя рисовал",
+      "translation": "And I drew you on the desk.",
+      "grammar": ""
+    },
+    {
+      "time": 57.77169999998808,
+      "text": "А помнишь как я на пати тебя целовал?",
+      "translation": "Do you remember how I kissed you at the party?",
+      "grammar": ""
+    },
+    {
+      "time": 60.89190000003576,
+      "text": "Ты в параллельном, а значит тебе я чужак",
+      "translation": "You're in a parallel universe, which means I'm a stranger to you.",
+      "grammar": ""
+    },
+    {
+      "time": 64.83560000002385,
+      "text": "Но я тебя провожаю",
+      "translation": "But I'll see you off.",
+      "grammar": ""
+    },
+    {
+      "time": 68.83030000001192,
+      "text": "И это не просто так",
+      "translation": "And it's not just like that",
+      "grammar": ""
+    },
+    {
+      "time": 70.20040000003576,
+      "text": "Снова в школу",
+      "translation": "Back to school",
+      "grammar": ""
+    },
+    {
+      "time": 73.972,
+      "text": "Словно в первый раз",
+      "translation": "Like the first time",
+      "grammar": ""
+    },
+    {
+      "time": 77.8715,
+      "text": "Снова в школу",
+      "translation": "Back to school",
+      "grammar": ""
+    },
+    {
+      "time": 81.62760000002385,
+      "text": "Словно в первый класс идём с тобой",
+      "translation": "It's like we're going to first grade together.",
+      "grammar": ""
+    },
+    {
+      "time": 91.22660000002384,
+      "text": "Back to school, school, school",
+      "translation": "Back to school, school, school",
+      "grammar": ""
+    },
+    {
+      "time": 92.7275,
+      "text": "School is cool, cool, cool",
+      "translation": "School is cool, cool, cool",
+      "grammar": ""
+    },
+    {
+      "time": 94.67280000001192,
+      "text": "Back to school, school, school",
+      "translation": "Back to school, school, school",
+      "grammar": ""
+    },
+    {
+      "time": 96.56410000002384,
+      "text": "School is cool, cool, cool",
+      "translation": "School is cool, cool, cool",
+      "grammar": ""
+    },
+    {
+      "time": 98.62510000002383,
+      "text": "Back to school, school, school",
+      "translation": "Back to school, school, school",
+      "grammar": ""
+    },
+    {
+      "time": 100.41919999998808,
+      "text": "School is cool, cool, cool",
+      "translation": "School is cool, cool, cool",
+      "grammar": ""
+    },
+    {
+      "time": 102.31260000002383,
+      "text": "Back to school, school, school",
+      "translation": "Back to school, school, school",
+      "grammar": ""
+    },
+    {
+      "time": 104.19190000003576,
+      "text": "School is cool, cool, cool",
+      "translation": "School is cool, cool, cool",
+      "grammar": ""
+    },
+    {
+      "time": 106.74719999998808,
+      "text": "School, school, school",
+      "translation": "School, school, school",
+      "grammar": ""
+    },
+    {
+      "time": 110.48080000001193,
+      "text": "Cool, cool, cool",
+      "translation": "Cool, cool, cool",
+      "grammar": ""
+    },
+    {
+      "time": 114.01310000002384,
+      "text": "School, school, school",
+      "translation": "School, school, school",
+      "grammar": ""
+    },
+    {
+      "time": 118.0345,
+      "text": "Cool, cool, cool",
+      "translation": "Cool, cool, cool",
+      "grammar": ""
+    },
+    {
+      "time": 122.652,
+      "text": "Ты выключаешь мобильный и смотрит на нас",
+      "translation": "You turn off your mobile and look at us",
+      "grammar": ""
+    },
+    {
+      "time": 126.23519999998808,
+      "text": "Твой параллельный, дебильный десятый \"А\" класс",
+      "translation": "Your parallel, silly tenth 'A' class",
+      "grammar": "The phrase uses the possessive adjective твой (your) to emphasize the speaker's connection to the group being referred to."
+    },
+    {
+      "time": 129.83580000001191,
+      "text": "Здорова школа, тусовки, прогулки, понты",
+      "translation": "Great school, parties, walks, showing off",
+      "grammar": ""
+    },
+    {
+      "time": 133.77310000002385,
+      "text": "Скажу тебе без рисовки - я рад, что есть ты",
+      "translation": "I'll tell you without any pretense - I'm glad you exist.",
+      "grammar": ""
+    },
+    {
+      "time": 137.84780000001192,
+      "text": "И тройки у доски (cool!)",
+      "translation": "And threes at the board (cool!)",
+      "grammar": ""
+    },
+    {
+      "time": 139.7988000000119,
+      "text": "И стрелки за углом (cool!)",
+      "translation": "And the arrows are around the corner (cool!)",
+      "grammar": ""
+    },
+    {
+      "time": 141.576,
+      "text": "И глупые стихи (cool!)",
+      "translation": "And stupid poems (cool!)",
+      "grammar": ""
+    },
+    {
+      "time": 143.48219999998807,
+      "text": "Любовь-морковь",
+      "translation": "Love-carrot",
+      "grammar": ""
+    },
+    {
+      "time": 145.4105,
+      "text": "Тебя научат ждать (cool!)",
+      "translation": "You will be taught to wait (cool!)",
+      "grammar": ""
+    },
+    {
+      "time": 147.348,
+      "text": "Страдать и побеждать (cool!)",
+      "translation": "Suffer and win (cool!)",
+      "grammar": ""
+    },
+    {
+      "time": 149.28440000003576,
+      "text": "Бороться за себя (cool!)",
+      "translation": "Fight for yourself (cool!)",
+      "grammar": ""
+    },
+    {
+      "time": 151.5101999999881,
+      "text": "И быть собой",
+      "translation": "And be yourself",
+      "grammar": ""
+    },
+    {
+      "time": 155.21119999998808,
+      "text": "Снова в школу",
+      "translation": "Back to school",
+      "grammar": ""
+    },
+    {
+      "time": 158.51469999998807,
+      "text": "Словно в первый раз",
+      "translation": "Like the first time",
+      "grammar": ""
+    },
+    {
+      "time": 163.13560000002383,
+      "text": "Снова в школу",
+      "translation": "Back to school",
+      "grammar": ""
+    },
+    {
+      "time": 166.11680000001192,
+      "text": "Словно в первый класс идём с тобой",
+      "translation": "It's like we're going to first grade together.",
+      "grammar": ""
+    },
+    {
+      "time": 175.22280000001192,
+      "text": "Back to school, school, school",
+      "translation": "Back to school, school, school",
+      "grammar": ""
+    },
+    {
+      "time": 177.14419999998807,
+      "text": "School is cool, cool, cool",
+      "translation": "School is cool, cool, cool",
+      "grammar": ""
+    },
+    {
+      "time": 179.13969999998807,
+      "text": "Back to school, school, school",
+      "translation": "Back to school, school, school",
+      "grammar": ""
+    },
+    {
+      "time": 181.49180000001192,
+      "text": "School is cool, cool, cool",
+      "translation": "School is cool, cool, cool",
+      "grammar": ""
+    },
+    {
+      "time": 183.24010000002383,
+      "text": "Back to school, school, school",
+      "translation": "Back to school, school, school",
+      "grammar": ""
+    },
+    {
+      "time": 184.94480000001192,
+      "text": "School is cool, cool, cool",
+      "translation": "School is cool, cool, cool",
+      "grammar": ""
+    },
+    {
+      "time": 186.80680000001192,
+      "text": "Back to school, school, school",
+      "translation": "Back to school, school, school",
+      "grammar": ""
+    },
+    {
+      "time": 188.73510000002383,
+      "text": "School is cool, cool, cool",
+      "translation": "School is cool, cool, cool",
+      "grammar": ""
+    },
+    {
+      "time": 190.71980000001193,
+      "text": "Back to school, school, school",
+      "translation": "Back to school, school, school",
+      "grammar": ""
+    },
+    {
+      "time": 194.94540000003576,
+      "text": "Cool, cool, cool",
+      "translation": "Cool, cool, cool",
+      "grammar": ""
+    },
+    {
+      "time": 198.75510000002384,
+      "text": "School, school, school",
+      "translation": "School, school, school",
+      "grammar": ""
+    },
+    {
+      "time": 202.5666999999881,
+      "text": "Cool, cool, cool",
+      "translation": "Cool, cool, cool",
+      "grammar": ""
+    },
+    {
+      "time": 206.45760000002383,
+      "text": "School, school, school",
+      "translation": "School, school, school",
+      "grammar": ""
+    },
+    {
+      "time": 210.34260000002385,
+      "text": "Cool, cool, cool",
+      "translation": "Cool, cool, cool",
+      "grammar": ""
+    },
+    {
+      "time": 214.25560000002383,
+      "text": "School, school, school",
+      "translation": "School, school, school",
+      "grammar": ""
+    },
+    {
+      "time": 219.73989999997616,
+      "text": "Cool, cool, cool",
+      "translation": "Cool, cool, cool",
+      "grammar": "The repetition of 'cool' is an example of alliteration in Russian."
+    },
+    {
+      "time": 222.44810000002383,
+      "text": "Back to school, school, school",
+      "translation": "Back to school, school, school",
+      "grammar": ""
+    }
+  ]
+}

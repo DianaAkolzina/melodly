@@ -1,0 +1,301 @@
+{
+  "id": "lv_stundiu_divas",
+  "title": "Stundiņu, Divas",
+  "artist": "Kreisais Krasts feat. Ivans Baigais, marcways, Cepums & Pionieris",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "lv",
+  "to_language": "en",
+  "audio": "/audio/lv_stundiu_divas.mp3",
+  "duration": 171,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 22.42120000001788,
+      "text": "Kāds skrien pēc naudas, kāds nē,",
+      "translation": "Some run for money, some don't,",
+      "grammar": "This idiom uses the present tense to describe a general truth or tendency, rather than a specific action. The phrase \"kāds\" is an indefinite pronoun meaning \"some\" or \"someone\", used to introduce contrasting examples."
+    },
+    {
+      "time": 24.4215,
+      "text": "Kāds meklē laimi, tikmēr kāds meklē ēst,",
+      "translation": "Someone is looking for happiness, while someone is looking for food,",
+      "grammar": "This line uses the present continuous tense to describe simultaneous actions, with \"kāds\" (someone) repeated to emphasize the contrast between two people's priorities."
+    },
+    {
+      "time": 27.10909999999404,
+      "text": "Kāds melo daudz, kāds runā tikai taisnību,",
+      "translation": "Some people lie a lot, some people only tell the truth,",
+      "grammar": "The phrase \"kāds\" is an idiomatic expression equivalent to \"some people\", using the indefinite pronoun \"kāds\" to convey a sense of vagueness and universality."
+    },
+    {
+      "time": 29.870800000011922,
+      "text": "Kurā pusē man būt, kam dot saistības?",
+      "translation": "Which side should I be on, to whom should I commit?",
+      "grammar": "The sentence uses the present tense to express a question about one's emotional alignment and commitment, with the verb \"būt\" meaning \"to be\" in the sense of being emotionally connected."
+    },
+    {
+      "time": 32.65179999998212,
+      "text": "Pārdomas, tamlīdzīgas, kuram vispār vajag šīs,",
+      "translation": "Reflections, like, who needs these anyway,",
+      "grammar": "The phrase \"tamlīdzīgas\" is an idiomatic expression equivalent to the English phrase \"like\", used to introduce a simile or a comparison."
+    },
+    {
+      "time": 35.33159999999404,
+      "text": "Blakus būt nav kam, tās ir grūti aizdzīt,",
+      "translation": "There's no one to be around, it's hard to drive them away,",
+      "grammar": "The verb \"būt\" is in the present tense and has a passive voice mood, indicating that there is no one available. The phrase \"nav kam\" is an idiomatic expression meaning \"there's no one\"."
+    },
+    {
+      "time": 38.05119999998808,
+      "text": "Aizklīst tālu un aiz bezgalības aizlīst,",
+      "translation": "Wandering far away and slipping away into infinity,",
+      "grammar": "The phrase \"aizklīst\" is an idiomatic expression meaning \"to wander\" or \"to drift\", using the present continuous tense to convey a sense of ongoing action."
+    },
+    {
+      "time": 40.74059999999404,
+      "text": "Stundas divas, trīs, ir tas laiks, kas man vajadzīgs",
+      "translation": "Two, three hours is all I need.",
+      "grammar": "The phrase \"tas laiks\" (that time) implies a specific moment in the past or future, using the indefinite article \"tas\" to refer to a previously mentioned or mutually understood period."
+    },
+    {
+      "time": 43.524,
+      "text": "Stundiņu divas varbūt trīs",
+      "translation": "Two hours, maybe three.",
+      "grammar": "This line uses the informal way of expressing time in Latvian, where the verb \"stundināt\" is used to indicate a rough estimate rather than an exact duration. The phrase \"varbūt\" is an idiomatic expression meaning \"maybe\" or \"perhaps\"."
+    },
+    {
+      "time": 46.28229999998212,
+      "text": "Atgulties drīkst atpūsties dzīs",
+      "translation": "You can lie down and rest in peace.",
+      "grammar": "The phrase \"atgulties\" is an idiomatic expression meaning \"to be able to\" or \"can\", using the present tense to convey a general ability rather than a specific action."
+    },
+    {
+      "time": 49.03019999998808,
+      "text": "Un attopies rīt",
+      "translation": "And find yourself tomorrow",
+      "grammar": "The phrase \"un attpies\" is an idiomatic expression, where \"un\" means \"and\" and \"attpies\" is a colloquial way to say \"tomorrow\"."
+    },
+    {
+      "time": 51.65579999998212,
+      "text": "Saprot ka vairāk negribās tik ļoti trakot pa dzīvi",
+      "translation": "I understand that I don't want to go through life so crazy anymore.",
+      "grammar": "The phrase \"negribās\" is an idiomatic expression meaning \"don't want\", which is in the present tense, indicating a habitual or general feeling. The verb \"gribēt\" typically takes the accusative case, but here it's used with the preposition \"pa\" to indicate the extent of something, similar to English \"so much\"."
+    },
+    {
+      "time": 55.69279999998212,
+      "text": "Stundiņu divas varbūt trīs",
+      "translation": "Two hours maybe three",
+      "grammar": "This phrase uses the informal, colloquial expression of estimating time in Latvian, where the verb \"varbūt\" is used to soften the exactness of the duration."
+    },
+    {
+      "time": 57.34279999998212,
+      "text": "Atgulties drīkst atpūsties dzīs",
+      "translation": "You can lie down and rest in peace.",
+      "grammar": "The verb \"drīkst\" is in the imperative mood, indicating a command or permission. The phrase \"atpūsties dzīs\" is an idiomatic expression meaning \"to rest in peace\"."
+    },
+    {
+      "time": 59.93690000000596,
+      "text": "Un attopies rīt",
+      "translation": "And find yourself tomorrow",
+      "grammar": "The phrase \"un attpies\" is an idiomatic expression, where \"un\" is used to indicate a future action in the present tense, creating a sense of uncertainty or possibility."
+    },
+    {
+      "time": 62.5765,
+      "text": "Saprot ka vairāk negribās tik ļoti trakot pa dzīvi",
+      "translation": "I understand that I don't want to go through life so crazy anymore.",
+      "grammar": "The phrase \"negribās\" is an idiom meaning \"don't want\", which is a negation of the verb \"gribēt\" (to want) in the present tense, indicating the speaker's current reluctance."
+    },
+    {
+      "time": 67.38879999998211,
+      "text": "Lūdzu, panāc tuvāk",
+      "translation": "Please come closer.",
+      "grammar": "The phrase \"Lūdzu\" is a polite imperative, used to express a request or invitation, and the verb \"panāc\" is in the imperative mood, indicating a command."
+    },
+    {
+      "time": 69.72179999998212,
+      "text": "Jeb vāries tikai savā sulā,",
+      "translation": "Or just simmer in your own juice,",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a sense of ongoing or habitual action, emphasizing the idea of being content with one's own situation. The phrase \"savā sulā\" is an idiomatic equivalent for \"one's own juice\", implying self-sufficiency and independence."
+    },
+    {
+      "time": 72.24340000000596,
+      "text": "Mēs katrs esam savādāks,",
+      "translation": "We are all different,",
+      "grammar": "The phrase \"katrs\" is an idiomatic expression meaning \"each one\", emphasizing the individuality in the statement. The verb \"esam\" is in the present tense, indicating a general truth or a state of being."
+    },
+    {
+      "time": 73.936,
+      "text": "Kāds iet savu ceļu viens bet kāds pie ģimenes turās",
+      "translation": "Some go their own way, while others stick to their family.",
+      "grammar": "The phrase \"iet savu ceļu\" is an idiomatic expression meaning \"to go one's own way\", conveying the idea of independence or nonconformity."
+    },
+    {
+      "time": 77.24529999998212,
+      "text": "Kādam neinteresē nekas vairs kā tikai iedzert",
+      "translation": "Someone is not interested in anything anymore except drinking",
+      "grammar": "The phrase \"nekas\" means \"nothing\" or \"nobody\", and the idiom \"neinteresē nekas\" conveys a sense of complete disinterest, similar to English \"not bothered about anything\"."
+    },
+    {
+      "time": 80.93529999998212,
+      "text": "un zaudēt nepieķeroties laikam,",
+      "translation": "and lose without taking time,",
+      "grammar": "The phrase \"nepieķeroties\" is an idiomatic expression, implying a sense of urgency or haste, and the verb \"zaudēt\" is in the infinitive form, indicating a purpose clause."
+    },
+    {
+      "time": 82.33290000000596,
+      "text": "Bet kādam vajag kaut ko vairāk un tas saista,",
+      "translation": "But someone needs something more and it binds,",
+      "grammar": "This line uses the present continuous tense to describe a universal truth, emphasizing the ongoing nature of human need. The phrase \"vajag\" is an idiomatic expression meaning \"to need\", rather than a literal verb translation."
+    },
+    {
+      "time": 84.51659999999404,
+      "text": "Citam liekas, ka šodien nepietiek pilsētā gaisa",
+      "translation": "Others feel that there is not enough air in the city today.",
+      "grammar": "The phrase \"liekas\" is an idiom translating to \"like\" or \"as if\", used to express a hypothetical situation, often in the present tense."
+    },
+    {
+      "time": 88.06929999998212,
+      "text": "Stundiņu divas varbūt trīs",
+      "translation": "Two hours maybe three",
+      "grammar": "This phrase uses the informal, colloquial way of expressing uncertainty in Latvian, where the verb \"varbt\" is used to indicate possibility or probability. The sentence structure and word order are typical of spoken language in Latvian, with a focus on conveying the speaker's attitude rather than following strict grammatical rules."
+    },
+    {
+      "time": 89.8475,
+      "text": "Atgulties drīkst atpūsties dzīs",
+      "translation": "You can lie down and rest in peace.",
+      "grammar": "The verb \"drīkst\" is in the third person singular present tense, indicating a general truth or permission, rather than a specific action. The phrase \"atpūsties dzīs\" is an idiomatic expression meaning \"to rest in peace\", with \"dzīs\" being an adverbial particle conveying a sense of completion or finality."
+    },
+    {
+      "time": 92.68459999999403,
+      "text": "Un attopies rīt",
+      "translation": "And find yourself tomorrow",
+      "grammar": "The phrase \"un attopies\" is an idiomatic expression, where \"un\" is used to indicate a future action in the present tense, similar to English \"will\" or \"be going to\". This construction is specific to Latvian and does not have a direct equivalent in English."
+    },
+    {
+      "time": 94.91909999999405,
+      "text": "Saprot ka vairāk negribās tik ļoti trakot pa dzīvi",
+      "translation": "I understand that I don't want to go through life so crazy anymore.",
+      "grammar": "The phrase \"negribās\" is an idiomatic expression meaning \"don't want\", which is in the present tense, indicating a habitual or general feeling rather than a specific desire."
+    },
+    {
+      "time": 101.524,
+      "text": "Stundiņu divas varbūt trīs",
+      "translation": "Two hours maybe three",
+      "grammar": "The phrase \"varbūt\" is an idiomatic expression indicating uncertainty or approximation, often translated as \"maybe\" or \"perhaps\". It is used to soften the tone of a statement and convey a sense of tentativeness."
+    },
+    {
+      "time": 101.524,
+      "text": "Atgulties drīkst atpūsties dzīs",
+      "translation": "You can lie down and rest in peace.",
+      "grammar": "The verb \"drīkst\" is in the third person singular present tense, indicating a general truth or permission. The phrase \"atpūsties dzīs\" is an idiomatic expression meaning \"to rest in peace\", where \"dzīs\" is a noun functioning as an adverb."
+    },
+    {
+      "time": 103.68519999998809,
+      "text": "Un attopies rīt",
+      "translation": "And find yourself tomorrow",
+      "grammar": "The phrase \"rīt\" is an adverbial particle indicating future time, equivalent to \"tomorrow\". Note that it's not translated as a full word in the English target language."
+    },
+    {
+      "time": 106.19819999998808,
+      "text": "Saprot ka vairāk negribās tik ļoti trakot pa dzīvi",
+      "translation": "I understand that I don't want to go through life so crazy anymore.",
+      "grammar": "The phrase \"negribās\" is an idiomatic expression meaning \"don't want\" in the sense of having had enough or being tired, rather than a literal refusal."
+    },
+    {
+      "time": 108.99019999998808,
+      "text": "Slēptuvе Vidusjūrā lai tiktu prom (prom)",
+      "translation": "Hiding in the Mediterranean to get away (away)",
+      "grammar": "The phrase \"lai tiktu\" is a subordinate conjunction construction indicating purpose, equivalent to \"in order to\" or \"so that\", used to express the speaker's intention. The verb \"tiktu\" is in the infinitive mood and agrees with the subject \"Slēptuvе\"."
+    },
+    {
+      "time": 111.64409999999404,
+      "text": "Visas negācijas mani tikai nomāc ļoti (skumji)",
+      "translation": "All the negativity just makes me feel really (sadly) depressed.",
+      "grammar": "The phrase \"visas negācijas\" is an idiomatic expression meaning \"all the negativity\", where \"visas\" is a plural form agreeing with the abstract concept of negativity, rather than having a specific countable quantity."
+    },
+    {
+      "time": 114.52340000000596,
+      "text": "Par mani runā gribi nomelnot (lai jau)",
+      "translation": "You want to slander me when you talk about me (even though)",
+      "grammar": "The phrase \"gribi nomelnot\" is an idiomatic expression indicating a desire or tendency, using the present continuous tense to convey a habitual action."
+    },
+    {
+      "time": 117.0885,
+      "text": "Mana dzīve īsta nevar nosapņot (ne e)",
+      "translation": "My life is real, you can't dream it (not e)",
+      "grammar": "The phrase \"nevar\" is the negation of the verb \"sapņot\", emphasizing the impossibility of dreaming one's life. The sentence uses the present tense to convey a general truth about the speaker's life."
+    },
+    {
+      "time": 120.57540000000596,
+      "text": "Izdaru savu plānu un atpūšos (protams)",
+      "translation": "I'll make my plan and rest (of course)",
+      "grammar": "The phrase \"protams\" is an idiomatic expression used to emphasize the inevitability of something, equivalent to saying \"naturally\" or \"of course\"."
+    },
+    {
+      "time": 122.63359999999403,
+      "text": "Katram sava kārta es pasteidzos (vienmēr)",
+      "translation": "To each his own turn I hurry (always)",
+      "grammar": "The phrase \"katram sava\" is an idiomatic expression meaning \"to each their own\", conveying the idea that people tend to stick with what they're familiar with. The verb \"pasteidzos\" is in the first person singular, indicating the speaker's personal experience and commitment to this principle."
+    },
+    {
+      "time": 125.31119999998808,
+      "text": "Daru labu tā par dzīvi pateicos",
+      "translation": "I do good, so I am grateful for life.",
+      "grammar": "The phrase \"pateicos\" is an idiomatic expression indicating a cause-and-effect relationship between one's actions and their emotional state. It implies that the speaker's positive actions (\"Daru labu tā\") have led to their gratitude for life."
+    },
+    {
+      "time": 128.041,
+      "text": "Ne es ko ņēmu, bet atpakaļ varu dot",
+      "translation": "I didn't take anything, but I can give it back.",
+      "grammar": "The use of \"bet\" indicates a contrastive conjunction, connecting two clauses in the same tense (both in the past), while \"varu\" is an idiomatic expression meaning \"ability to\"."
+    },
+    {
+      "time": 131.48140000000595,
+      "text": "Stundiņu divas varbūt trīs",
+      "translation": "Two hours maybe three",
+      "grammar": "The phrase \"varbūt\" is a modal verb in the subjunctive mood, used to express uncertainty or possibility. It's often translated as \"maybe\" or \"perhaps\"."
+    },
+    {
+      "time": 133.55479999998212,
+      "text": "Atgulties drīkst atpūsties dzīs",
+      "translation": "You can lie down and rest in peace.",
+      "grammar": "The verb \"drīkst\" is in the third person singular present tense, indicating that it's a general truth or possibility rather than a specific action. The phrase \"atpūsties dzīs\" is an idiomatic expression meaning \"to rest in peace\", with \"dzīs\" being a noun equivalent to \"peace\"."
+    },
+    {
+      "time": 136.28779999998213,
+      "text": "Un attopies rīt",
+      "translation": "And find yourself tomorrow",
+      "grammar": "The phrase \"un attopies\" is an idiomatic expression, where \"un\" means \"and\" and \"attopies\" is a colloquialism for \"to find\". The sentence is in the future tense, using the verb \"rīt\" (will be) to indicate the speaker's intention."
+    },
+    {
+      "time": 138.95469999998807,
+      "text": "Saprot ka vairāk negribās tik ļoti trakot pa dzīvi",
+      "translation": "I understand that I don't want to go through life so crazy anymore.",
+      "grammar": "The phrase \"negribās\" is in the present tense, indicating a desire or intention not to continue with something. The idiom \"trakt\" means \"crazy\" or \"wild\", emphasizing the speaker's willingness to change their reckless behavior."
+    },
+    {
+      "time": 142.55090000000595,
+      "text": "Stundiņu divas varbūt trīs",
+      "translation": "Two hours maybe three",
+      "grammar": "This phrase uses the informal, colloquial expression \"varbūt\" to indicate a rough estimate or approximation, similar to saying \"around\" or \"about\". The sentence is in the present tense, with no specific time reference."
+    },
+    {
+      "time": 144.38879999998213,
+      "text": "Atgulties drīkst atpūsties dzīs",
+      "translation": "You can lie down and rest in peace.",
+      "grammar": "The verb \"drīkst\" is in the third person singular present tense, indicating that it's a general truth or possibility rather than an instruction to the listener. The phrase \"atpūsties dzīs\" is an idiomatic expression meaning \"to rest in peace\", where \"dzīs\" is a noun functioning as an adverb."
+    },
+    {
+      "time": 147.1705,
+      "text": "Un attopies rīt",
+      "translation": "And find yourself tomorrow",
+      "grammar": "The phrase \"un attopies\" is an idiomatic expression, where \"un\" means \"and\" and \"attopies\" is a verb in the future tense, indicating a planned action for the next day."
+    },
+    {
+      "time": 149.73390000000597,
+      "text": "Saprot ka vairāk negribās tik ļoti trakot pa dzīvi",
+      "translation": "I understand that I don't want to go through life so crazy anymore.",
+      "grammar": "The phrase \"negribās\" is in the present tense, expressing a desire or intention, rather than a statement of fact. The idiom \"trakt\" means \"crazy\" or \"wild\", emphasizing the speaker's emotional state."
+    }
+  ]
+}

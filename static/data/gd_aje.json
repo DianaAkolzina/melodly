@@ -1,0 +1,511 @@
+{
+  "id": "gd_aje",
+  "title": "Aje",
+  "artist": "Tayna feat. Ledri Vula",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "sq",
+  "to_language": "en",
+  "audio": "/audio/gd_aje.mp3",
+  "duration": 174,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Kallzom a je",
+      "translation": "Are you Kallzom?",
+      "grammar": "The phrase \"Kallzom a je\" is an idiomatic expression, where \"a je\" is used as a rhetorical question tag to seek confirmation or agreement, similar to \"isn't it\" in English. The verb tense and mood are informal and conversational, typical of everyday spoken language."
+    },
+    {
+      "time": 1.2,
+      "text": "Kallzom a je",
+      "translation": "Are you Kallzom?",
+      "grammar": "This line uses the informal, colloquial way of asking a question in Albanian, where the verb \"to be\" is omitted and the subject pronoun is replaced with an interrogative particle \"a\"."
+    },
+    {
+      "time": 2.4,
+      "text": "A je, a je, my baby ti a je, a je",
+      "translation": "Are you, are you, my baby are you, are you",
+      "grammar": "This line illustrates the use of repetitive questions in informal conversation, with the speaker seeking confirmation or agreement from their partner. The verb \"are\" is used in its present tense form to convey a sense of ongoing action and intimacy."
+    },
+    {
+      "time": 5.851,
+      "text": "Kallzom a je",
+      "translation": "Are you Kallzom?",
+      "grammar": "The phrase \"Kallzom a je\" is an idiomatic question, using the name Kallzom as a placeholder for someone's identity, similar to \"Who are you?\" in English. The verb \"je\" is used to form a polite inquiry."
+    },
+    {
+      "time": 7.051,
+      "text": "Ti kallzom a je",
+      "translation": "Are you a liar?",
+      "grammar": "In Albanian, \"kallzo\" is an idiomatic expression meaning \"to lie\" or \"to be a liar\", often used in informal settings to challenge someone's honesty. The verb \"kallzo\" is in the present tense and agrees with the subject pronoun \"ti\"."
+    },
+    {
+      "time": 8.499,
+      "text": "Qajo qe m'don qajo qe m'shan",
+      "translation": "Cry for those who love me, cry for those who curse me.",
+      "grammar": "This line uses the imperative mood to convey a sense of urgency and emotional intensity. The repetition of \"qajo\" (cry) emphasizes the speaker's plea, while the use of \"qe\" (for) indicates the scope of their grief."
+    },
+    {
+      "time": 11.092,
+      "text": "Beb kallxom a je",
+      "translation": "Baby, are you okay?",
+      "grammar": "This line uses the informal vocative phrase \"Beb\" (a shortened form of \"baba\") to address someone, followed by an idiom \"kallxom\" which is equivalent to English \"okay\"."
+    },
+    {
+      "time": 12.54,
+      "text": "Qajo qe m'len neser kthehet",
+      "translation": "The cry that leaves me will come back tomorrow.",
+      "grammar": "This line uses the future tense to express a promise or prediction, with the verb \"kthehet\" agreeing with the subject \"qajo qe m'len\" (that cry). The phrase \"neser kthehet\" is an idiom meaning \"will come back\", implying a sense of inevitability."
+    },
+    {
+      "time": 14.561,
+      "text": "Ti kallzom a je",
+      "translation": "Are you a liar?",
+      "grammar": "The phrase \"Ti kallzom\" is an idiomatic expression used to ask if someone is lying, with the verb \"kallzo\" implying deception. The sentence is in the present tense and uses the informal second-person singular pronoun \"ti\"."
+    },
+    {
+      "time": 16.009,
+      "text": "A je, a je",
+      "translation": "Are you, are you?",
+      "grammar": "This line illustrates the use of the idiomatic phrase \"a je\" to ask if someone is ready or willing to do something, with the speaker repeating themselves for emphasis. The verb \"je\" is in the present tense and has a sense of inquiry, similar to \"are you\"."
+    },
+    {
+      "time": 17.457,
+      "text": "My baby ti a je, a je",
+      "translation": "My baby, are you there, are you there?",
+      "grammar": "The phrase \"a je\" is an idiomatic expression in Albanian, equivalent to the English phrase \"are you there\". It's used to ask if someone is present or available."
+    },
+    {
+      "time": 19.764,
+      "text": "Nese ti nuk ma din vleren",
+      "translation": "If you don't know my worth",
+      "grammar": "The phrase \"nese ti\" is an idiomatic expression in Albanian, equivalent to the English idiom \"if you don't know\". The verb \"ma din\" is in the present tense and implies a sense of uncertainty or doubt."
+    },
+    {
+      "time": 21.785,
+      "text": "Dije tjeter kush ma din",
+      "translation": "Who knows?",
+      "grammar": "The phrase \"Dije\" is an informal way to express uncertainty or inquiry, equivalent to \"who knows\" in English. It's often used in casual conversations and doesn't necessarily imply a formal question."
+    },
+    {
+      "time": 23.519,
+      "text": "Smunesh me gjet ti si une boy",
+      "translation": "You can find me like me, boy.",
+      "grammar": "This line uses the informal second-person singular pronoun \"ti\" and the idiomatic expression \"une boy\" to convey a casual tone. The sentence is in the present tense, with the verb \"si\" implying a sense of possibility or ability."
+    },
+    {
+      "time": 25.826,
+      "text": "1 sa 100",
+      "translation": "1 to 100",
+      "grammar": "This idiomatic expression uses the numeral \"1\" and \"100\" to indicate a range or scope, rather than a specific quantity."
+    },
+    {
+      "time": 27.026,
+      "text": "Pse po rrin vec n'Instagram",
+      "translation": "Why are they only on Instagram?",
+      "grammar": "The phrase \"pse\" is an informal way to ask a question in Albanian, equivalent to \"why\" or \"what's up\". It is often used with the present continuous tense (\"po\") to inquire about someone's current activity."
+    },
+    {
+      "time": 29.046,
+      "text": "E po bon follow shume puta",
+      "translation": "And you're following a lot of people.",
+      "grammar": "This line uses the present continuous tense (po) to describe an ongoing action, and the idiomatic expression \"follow shume\" means \"to follow many\"."
+    },
+    {
+      "time": 31.067,
+      "text": "I'm a boss chick boy",
+      "translation": "I'm a boss chick boy",
+      "grammar": "This line uses the present continuous tense to emphasize the speaker's current status as a confident and capable individual, with \"boss\" being an idiomatic expression meaning someone in control or authority."
+    },
+    {
+      "time": 33.087,
+      "text": "Mos meno qe t'luta",
+      "translation": "Don't forget to pray.",
+      "grammar": "The imperative mood is used in \"Mos\" (don't) to give a command, and the verb \"meno\" agrees with the subject \"që\" (who/that), emphasizing the importance of prayer."
+    },
+    {
+      "time": 34.821,
+      "text": "Ja kom puth synin e trete",
+      "translation": "I kissed your third eye.",
+      "grammar": "This line uses the present tense to express a timeless or universal truth, rather than describing a specific past event. The phrase \"ja kom\" is an idiomatic expression meaning \"I kissed\" in English."
+    },
+    {
+      "time": 36.842,
+      "text": "E tash I'm all up on his visions",
+      "translation": "Now I'm all up on his visions",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey enthusiasm and agreement with someone's ideas, rather than a literal current activity."
+    },
+    {
+      "time": 39.721,
+      "text": "Edhe mi pas ti tri jete",
+      "translation": "Even after three lifetimes",
+      "grammar": "This idiomatic phrase uses the verb \"pas\" in the subjunctive mood, implying a hypothetical or uncertain situation. The phrase \"tri jete\" is an idiomatic expression meaning \"three lifetimes\"."
+    },
+    {
+      "time": 41.741,
+      "text": "E sheh qe jom tjeter dimension",
+      "translation": "You see I'm in another dimension.",
+      "grammar": "The phrase \"qe\" is a particle used to indicate that what follows is a new or additional information, similar to the English idiom \"I mean\"."
+    },
+    {
+      "time": 43.762,
+      "text": "E ex-at e tu, krejt i kom intimidu",
+      "translation": "And your exes, I intimidated them all.",
+      "grammar": "The phrase \"e ex-at\" is an idiomatic expression in Albanian, equivalent to the English phrase \"your exes\". The verb \"intimidated\" is in the past tense, indicating that the speaker has previously intimidated their ex-partners."
+    },
+    {
+      "time": 46.641,
+      "text": "As next-at e tu s'ishin krahasu me mu",
+      "translation": "Even your nexts were not compared to mine",
+      "grammar": "The phrase \"next-at\" is an idiomatic expression in Albanian, used to convey a sense of superiority or uniqueness. The verb \"ishin\" is in the imperfect tense, indicating a past action that was ongoing or repeated."
+    },
+    {
+      "time": 49.806,
+      "text": "E tash po thote qe don me m'lon",
+      "translation": "And now he's saying he wants to kill me.",
+      "grammar": "The phrase \"E tash\" is an idiomatic expression in Albanian, equivalent to the English phrase \"now he's saying\". It indicates a sudden change or revelation."
+    },
+    {
+      "time": 52.685,
+      "text": "Where the f#ck you're going?",
+      "translation": "Where the f#ck are you going?",
+      "grammar": "This line uses the present continuous tense to express curiosity about someone's destination, while the phrase \"where the hell\" is an idiomatic expression used to emphasize surprise or frustration."
+    },
+    {
+      "time": 54.991,
+      "text": "T'dyt e dime prape ki mu kthy",
+      "translation": "We both know it's back to me.",
+      "grammar": "The phrase \"t'dyt\" is an idiomatic expression in Albanian, equivalent to the English phrase \"we both know\". It indicates shared understanding or mutual knowledge."
+    },
+    {
+      "time": 57.584,
+      "text": "Yeah baby we've been knowing",
+      "translation": "Yeah baby we've been knowing",
+      "grammar": "The phrase \"we've been knowing\" is an idiomatic expression in English, using the present perfect continuous tense to convey a sense of ongoing familiarity or acquaintance."
+    },
+    {
+      "time": 59.605,
+      "text": "I'm a crazy chick",
+      "translation": "I'm a crazy chick.",
+      "grammar": "The phrase \"I'm a crazy chick\" is an informal idiom, using the present continuous tense to convey a sense of self-identification and emotional intensity. The pronoun \"I\" agrees with the subject's first-person perspective."
+    },
+    {
+      "time": 61.339,
+      "text": "Mos u muno ti me m'ik",
+      "translation": "Don't try to leave me.",
+      "grammar": "This line uses the imperative mood, with the verb \"m'ik\" meaning \"to leave\" in a negative command. The phrase \"mos u\" is an idiomatic expression equivalent to \"don't\" or \"won't\"."
+    },
+    {
+      "time": 63.646,
+      "text": "Se m'qet pun me t'qit ty diss",
+      "translation": "I'm tired of telling you something.",
+      "grammar": "The phrase \"Se m'qet\" is an idiomatic expression indicating the speaker's reluctance or frustration, often translated as \"I'm tired of\". It uses the imperfect tense to convey a sense of ongoing action."
+    },
+    {
+      "time": 66.525,
+      "text": "E krejt jeten me ta fik",
+      "translation": "And spend your whole life with them.",
+      "grammar": "The phrase \"e krejt\" is an idiomatic expression in Albanian, equivalent to the English idiom \"to spend one's whole life\". It conveys a sense of devoting oneself fully to someone or something."
+    },
+    {
+      "time": 68.545,
+      "text": "Kallzom a je",
+      "translation": "Are you Kallzom?",
+      "grammar": "This line uses the informal, colloquial way of asking someone's name in Albanian, with the verb \"to be\" omitted and the pronoun \"je\" used as an idiomatic expression equivalent to \"are you\"."
+    },
+    {
+      "time": 69.745,
+      "text": "Ti kallzom a je",
+      "translation": "Are you a liar?",
+      "grammar": "The phrase \"Ti kallzom\" is an idiomatic expression in Albanian, equivalent to the English idiom \"to call someone names\". The verb \"kallzo\" is in the present tense, indicating a habitual or repeated action."
+    },
+    {
+      "time": 71.193,
+      "text": "Qaj qe m'don qaj qe m'shan",
+      "translation": "Cry because you love me, cry because you curse me.",
+      "grammar": "This line employs a common Albanian idiom where the verb \"qaj\" (to cry) is used to express strong emotions or reactions, rather than literal crying. The sentence structure and verb forms convey a sense of urgency and intensity."
+    },
+    {
+      "time": 73.786,
+      "text": "Ti kallzom a je",
+      "translation": "Are you a liar?",
+      "grammar": "The phrase \"Ti kallzom\" is an idiomatic expression in Albanian, equivalent to the English question \"Are you lying?\" or \"Is that a lie?\", using the present continuous tense to convey a sense of ongoing deception."
+    },
+    {
+      "time": 75.234,
+      "text": "Qaj qe m'len neser kthehesh",
+      "translation": "Cry because you'll leave me tomorrow.",
+      "grammar": "The verb \"qaj\" is in the imperative mood, used to express a strong emotional appeal, equivalent to \"cry\" in English. The sentence structure employs the idiomatic expression \"qe m'len\", which translates to \"because you will leave me\"."
+    },
+    {
+      "time": 77.255,
+      "text": "Ti kallzom a je",
+      "translation": "Are you a liar?",
+      "grammar": "The phrase \"Ti kallzom\" is an idiomatic expression in Albanian, equivalent to \"Are you lying?\" or \"Is that a lie?\", using the present tense and the verb \"kallzo\" meaning \"to lie\"."
+    },
+    {
+      "time": 78.703,
+      "text": "A je, a je",
+      "translation": "Are you, are you?",
+      "grammar": "This line uses the idiomatic expression \"a je\" to ask if someone is ready or willing, which is equivalent to \"are you\" in English. The repetition of \"a je\" emphasizes the speaker's curiosity and inquiry."
+    },
+    {
+      "time": 80.151,
+      "text": "My baby ti a je, a je",
+      "translation": "My baby, are you there, are you there?",
+      "grammar": "The phrase \"a je\" is an idiomatic expression used to ask if someone is present or available. It's often translated as \"are you there\", but the literal translation would be \"is it there\"."
+    },
+    {
+      "time": 82.458,
+      "text": "Kallzom a je",
+      "translation": "Are you Kallzom?",
+      "grammar": "The phrase \"Kallzom a je\" is an idiomatic expression, where \"a je\" is used as a rhetorical question tag to seek confirmation or agreement."
+    },
+    {
+      "time": 83.658,
+      "text": "Ti kallzom a je",
+      "translation": "Are you a liar?",
+      "grammar": "The phrase \"Ti kallzom\" is an idiomatic expression used to ask if someone is lying, with the verb \"kallzo\" implying deception. The sentence is in the present tense, using the informal second-person singular pronoun \"ti\"."
+    },
+    {
+      "time": 85.106,
+      "text": "Qajo qe m'don qajo qe m'shan",
+      "translation": "Cry for those who love me, cry for those who curse me.",
+      "grammar": "This Albanian lyric line uses the imperative mood to express a strong emotional appeal, with the verb \"qajo\" (to cry) in the second person singular form, emphasizing the direct address and urgency of the plea."
+    },
+    {
+      "time": 87.699,
+      "text": "Beb kallzom a je",
+      "translation": "Baby, are you kidding?",
+      "grammar": "This informal phrase uses the imperative mood to convey a sense of surprise or incredulity, with \"are you kidding\" being an idiomatic expression that doesn't strictly follow grammatical rules. The pronoun \"you\" is used in the singular form despite the potential for multiple addressees, which is common in English colloquialisms."
+    },
+    {
+      "time": 89.147,
+      "text": "Qajo qe mlen neser kthehet",
+      "translation": "The cry that leaves will come back tomorrow.",
+      "grammar": "This line uses the future tense to express a promise or prediction, with the verb \"kthehet\" (will come) indicating a future action. The phrase \"qajo qe mlen\" can be translated as \"that cry\" and functions as an object pronoun, agreeing in number with the subject \"qe\"."
+    },
+    {
+      "time": 90.881,
+      "text": "Ti kallzom a je",
+      "translation": "Are you a liar?",
+      "grammar": "The phrase \"Ti kallzom\" is an idiomatic expression in Albanian, equivalent to the English question \"Are you lying?\" or \"Is that a lie?\", conveying a sense of accusation or skepticism."
+    },
+    {
+      "time": 92.33,
+      "text": "A je, a je",
+      "translation": "Are you, are you?",
+      "grammar": "This line illustrates the use of the idiomatic expression \"a je\" to ask if someone is ready or willing to do something, similar to \"are you up for it?\" in English. The repetition of \"a je\" emphasizes the speaker's inquiry and encourages a response from the listener."
+    },
+    {
+      "time": 93.778,
+      "text": "My baby ti a je, a je",
+      "translation": "My baby, are you there, are you there?",
+      "grammar": "The phrase \"a je\" is an idiomatic expression in Albanian, equivalent to the English phrase \"are you there\". It's used to ask if someone is present or available."
+    },
+    {
+      "time": 96.084,
+      "text": "Fuck Vula so ka t'vyn sen",
+      "translation": "Fuck Vula, so it's coming.",
+      "grammar": "This line uses the present tense of the verb \"to be\" (so) to indicate a sudden or unexpected event, and the idiomatic expression \"it's coming\" implies an imminent arrival or occurrence."
+    },
+    {
+      "time": 98.391,
+      "text": "Menihere t'len masi me ty flen",
+      "translation": "He immediately let Masi sleep with you",
+      "grammar": "The verb \"t'len\" is in the imperative mood, indicating a command or instruction. The use of \"masi\" (Masi) as an object pronoun agrees with the subject \"ty flen\" (you), showing agreement between the two."
+    },
+    {
+      "time": 100.698,
+      "text": "Prish pune nese ty t'nxen se ti i ki 102 n'ren",
+      "translation": "It's a shame if you learn that you had 102 in your head.",
+      "grammar": "The phrase \"t'nxen se\" is an idiomatic expression indicating the past tense, equivalent to \"had\" in English."
+    },
+    {
+      "time": 104.721,
+      "text": "S'ja nin nese ty t'dhem vec per veti ty t'kthen",
+      "translation": "I don't care if I give it to you, but I will give it back to you",
+      "grammar": "The phrase \"S'ja\" is an informal way of saying \"I don't care\" or \"it doesn't matter\", using the verb \"jam\" in the imperative mood and the particle \"s'\" which indicates a negative attitude."
+    },
+    {
+      "time": 108.745,
+      "text": "Babe, une jom vec nji njeri",
+      "translation": "Dad, I'm just a man.",
+      "grammar": "This informal address \"Babe\" is an idiomatic expression used to convey affection and familiarity, equivalent to saying \"honey\" or \"sweetheart\". The phrase is in the present tense, with \"une jom\" translating to \"I'm\", indicating a conversational tone."
+    },
+    {
+      "time": 110.765,
+      "text": "S'po e kuptoj pse me dy mene je",
+      "translation": "I don't understand why you're with me twice.",
+      "grammar": "The phrase \"s'po\" is an idiomatic expression translating to \"don't understand\". It uses the imperfective aspect to convey a sense of ongoing puzzlement."
+    },
+    {
+      "time": 113.644,
+      "text": "Je kam fluturon, n'chill ky djale si n'gravitet tu m'ngre",
+      "translation": "I'm flying, how can this guy lift me up like gravity?",
+      "grammar": "The phrase \"n'chill\" is an idiomatic expression meaning \"how\" or \"what\", used to seek explanation or justification."
+    },
+    {
+      "time": 117.668,
+      "text": "Mu ki bo si ghost s'po t'shoh",
+      "translation": "I feel like a ghost if I don't see you.",
+      "grammar": "The phrase \"s'po\" is an idiomatic expression indicating a hypothetical or conditional situation, often translated as \"if not\" or \"unless\". The sentence uses the present continuous tense to convey a sense of ongoing action."
+    },
+    {
+      "time": 120.547,
+      "text": "Po pe di qe afer meje je",
+      "translation": "Yes, I know you are close to me.",
+      "grammar": "The phrase \"po pe\" is an idiomatic expression in Albanian, equivalent to the English phrase \"yes, I know\". It indicates agreement and understanding."
+    },
+    {
+      "time": 122.853,
+      "text": "As s'po kan, as s'po kesh",
+      "translation": "Neither have, nor have you.",
+      "grammar": "This line employs a common Albanian idiom, using the verb \"kam\" in its potential form to convey negation and equivalence, equivalent to saying \"neither do I nor do you\"."
+    },
+    {
+      "time": 125.446,
+      "text": "Mos, Mona Lisa je",
+      "translation": "No, you're the Mona Lisa.",
+      "grammar": "The phrase \"Mona Lisa je\" uses the informal second-person singular pronoun \"je\" to address someone in a familiar or intimate manner, which is common in Albanian culture. This usage is equivalent to saying \"you're\" in English, but with a more casual tone."
+    },
+    {
+      "time": 126.894,
+      "text": "Jom ka t'gjuj me lule, pse po ma kthen me thika?",
+      "translation": "I don't have flowers on my knees, why are you coming back at me with knives?",
+      "grammar": "The verb \"kthen\" is in the imperative mood, used to express a command or request, rather than a statement of fact. The phrase \"me lule\" uses the possessive particle \"i\" to indicate possession, similar to English \"my\"."
+    },
+    {
+      "time": 130.632,
+      "text": "Yeah I like it when you act tough",
+      "translation": "Yeah I like it when you act tough",
+      "grammar": "This line uses the present tense to describe a habitual or general preference, with the phrase \"when you act tough\" functioning as an idiom meaning \"when you behave in a confident or assertive manner\"."
+    },
+    {
+      "time": 133.224,
+      "text": "E sidomos kur tu m'nxo n'bllof",
+      "translation": "And especially when you call me out on my bluff",
+      "grammar": "The phrase \"kur tu\" is an idiomatic expression meaning \"when you call me out\" or \"when you challenge me\", using the imperative verb \"to call\" in a figurative sense."
+    },
+    {
+      "time": 135.817,
+      "text": "JLo une s'jom Puff",
+      "translation": "JLo, I'm not Puff.",
+      "grammar": "This line illustrates a common idiomatic expression in Albanian, where \"s'jom\" is used to indicate negation and is equivalent to the English phrase \"I'm not\". The verb \"une\" agrees with the subject \"JLo\", maintaining grammatical consistency."
+    },
+    {
+      "time": 137.551,
+      "text": "I am a hot boy kur po rrin ftohte",
+      "translation": "I am a hot boy when it's cold.",
+      "grammar": "This line uses the present simple tense to describe a habitual or general truth, with the idiomatic expression \"kur po\" implying a contrast between expected and actual circumstances."
+    },
+    {
+      "time": 140.43,
+      "text": "Asnjo si une nuk ta din",
+      "translation": "No one knows like me.",
+      "grammar": "The phrase \"Asnjo si\" is an idiomatic expression meaning \"no one\" or \"nobody\", used to emphasize the uniqueness of one's experience. The verb \"ta din\" is in the present tense, indicating a general truth about the speaker's knowledge."
+    },
+    {
+      "time": 142.451,
+      "text": "Se s'isha kon me ty beb, po me 100",
+      "translation": "That I wasn't crazy about you, baby, but about 100",
+      "grammar": "The phrase \"po me 100\" is an idiomatic expression indicating a large or exaggerated quantity, equivalent to \"a hundred times\" or \"much more\"."
+    },
+    {
+      "time": 145.616,
+      "text": "Kallzom a je",
+      "translation": "Are you Kallzom?",
+      "grammar": "The phrase \"Kallzom a je\" is an idiomatic expression, where \"a je\" is a shortened form of the question word \"a jem\" (\"are you\"), and \"Kallzom\" is likely a proper noun or nickname."
+    },
+    {
+      "time": 146.816,
+      "text": "Ti kallzom a je",
+      "translation": "Are you a liar?",
+      "grammar": "The phrase \"Ti kallzom\" is an idiomatic expression in Albanian, equivalent to the English question \"Are you a liar?\", using the present tense and the informal second-person singular pronoun \"ti\"."
+    },
+    {
+      "time": 148.264,
+      "text": "Qaj qe m'don qaj qe m'shan",
+      "translation": "Cry because you love me, cry because you curse me.",
+      "grammar": "This line employs a common Albanian idiom where the verb \"qaj\" (to cry) is used to convey strong emotions, rather than its literal meaning. The use of the same verb in different tenses (\"qe m'don\" and \"qe m'shan\") emphasizes the intensity of the speaker's feelings."
+    },
+    {
+      "time": 150.857,
+      "text": "Ti kallzom a je",
+      "translation": "Are you a liar?",
+      "grammar": "The phrase \"Ti kallzom\" is an idiomatic expression in Albanian, equivalent to the English question \"Are you lying?\" or \"Is that a lie?\", conveying a sense of accusation or skepticism."
+    },
+    {
+      "time": 152.305,
+      "text": "Qaj qe m'len neser kthehet",
+      "translation": "The cry that leaves me will come back tomorrow.",
+      "grammar": "This line uses the future tense (kthehet) to express a promise or prediction, and the idiomatic phrase \"qaj qe\" can be translated as \"that which\" or \"which one\", implying a specific instance of the cry."
+    },
+    {
+      "time": 154.326,
+      "text": "Ti kallzom a je",
+      "translation": "Are you a liar?",
+      "grammar": "The phrase \"Ti kallzom\" is an idiomatic expression in Albanian, equivalent to the English question \"Are you a liar?\", using the present tense and the informal second-person singular pronoun \"ti\"."
+    },
+    {
+      "time": 155.774,
+      "text": "A je, a je",
+      "translation": "Are you, are you?",
+      "grammar": "This line uses the idiomatic expression \"a je\" to ask a rhetorical question in the present tense, emphasizing the speaker's curiosity or uncertainty."
+    },
+    {
+      "time": 157.222,
+      "text": "My baby ti a je, a je, aje",
+      "translation": "My baby, are you, are you, are you?",
+      "grammar": "The repeated use of \"are you\" in this lyric line is an example of rhetorical repetition, emphasizing the speaker's emotional inquiry. The verb agreement with \"baby\" is also notable, as it uses the informal \"ti\" instead of the formal \"je\" to create a sense of intimacy."
+    },
+    {
+      "time": 159.815,
+      "text": "Kallzom a je",
+      "translation": "Are you Kallzom?",
+      "grammar": "The phrase \"Kallzom a je\" is an idiomatic expression, where \"a je\" is a shortened form of the question word \"a jemi\" (\"to whom\"), and \"Kallzom\" is likely a proper noun or title."
+    },
+    {
+      "time": 161.015,
+      "text": "Ti kallzom a je",
+      "translation": "Are you a liar?",
+      "grammar": "The phrase \"Ti kallzom\" is an idiomatic expression in Albanian, equivalent to the English question \"Are you a liar?\", using the present tense and informal tone."
+    },
+    {
+      "time": 162.463,
+      "text": "Qajo qe m'don qajo qe m'shan",
+      "translation": "Cry for those who love me, cry for those who curse me.",
+      "grammar": "The phrase \"qajo qe\" is an idiomatic expression that can be translated to \"cry\" or \"weep\", used in the imperative mood, instructing someone to cry."
+    },
+    {
+      "time": 165.056,
+      "text": "Beb kallzom a je",
+      "translation": "Baby, are you kidding?",
+      "grammar": "This informal phrase uses the imperative mood to convey a sense of surprise or incredulity, with \"are you kidding\" being an idiomatic expression. The pronoun \"you\" is used in the singular form, indicating a direct address to one person."
+    },
+    {
+      "time": 166.504,
+      "text": "Qajo qe m'len neser kthehet",
+      "translation": "The cry that leaves me will come back tomorrow.",
+      "grammar": "This sentence uses the future tense to express a promise or prediction, with \"kthehet\" implying a sense of inevitability. The idiomatic phrase \"qajo qe m'len\" can be translated as \"that which leaves me\", emphasizing the emotional impact of the cry."
+    },
+    {
+      "time": 168.525,
+      "text": "Ti kallzom a je",
+      "translation": "Are you a liar?",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of accusation or inquiry, with \"kallzo\" implying deception. Note that \"a je\" is an informal way to ask if someone is lying."
+    },
+    {
+      "time": 169.973,
+      "text": "A je, a je",
+      "translation": "Are you, are you?",
+      "grammar": "This idiomatic expression uses the present tense to ask a question about someone's identity or state, with \"a\" being an archaic form of \"is\"."
+    },
+    {
+      "time": 171.421,
+      "text": "My baby ti a je, a je, a je",
+      "translation": "My baby, are you, are you, are you",
+      "grammar": "The use of \"a je\" is an idiomatic expression in Albanian, equivalent to the English phrase \"are you\". The verb \"je\" is in the present tense and second person singular form, agreeing with the pronoun \"ti\", which means \"you\"."
+    }
+  ]
+}

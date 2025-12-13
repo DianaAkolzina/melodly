@@ -1,0 +1,139 @@
+{
+  "id": "ru_track_1ede140",
+  "title": "Иордан",
+  "artist": "Mona",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_track_1ede140.mp3",
+  "duration": 126,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 8.391299999952317,
+      "text": "Manvel",
+      "translation": "I'll keep you in my heart, on the shore where Jordan is",
+      "grammar": "The phrase 'где Иордан' (where Jordan is) uses the prepositional case to indicate a location."
+    },
+    {
+      "time": 17.315799999952315,
+      "text": "Я тебя в сердце сберегу, на берегу, где Иордан",
+      "translation": "I will keep you in my heart, on the shore where the Jordan is",
+      "grammar": ""
+    },
+    {
+      "time": 21.807299999952317,
+      "text": "Собью дыханье на бегу, тебя найду и не отдам",
+      "translation": "I'll catch my breath on the run, I'll find you and I won't give you up",
+      "grammar": ""
+    },
+    {
+      "time": 26.163299999952315,
+      "text": "Пусть рухнет мир напополам, я тихо по твоим следам",
+      "translation": "Even if the world falls apart, I'll quietly follow in your footsteps.",
+      "grammar": ""
+    },
+    {
+      "time": 30.844199999988078,
+      "text": "По городам, по адресам, бегу к твоим родным глазам",
+      "translation": "Through cities, through addresses, I run to your familiar eyes",
+      "grammar": ""
+    },
+    {
+      "time": 37.168899999976155,
+      "text": "Спой для меня, дай мне в глазах огня, а",
+      "translation": "Sing for me, give me fire in my eyes, and",
+      "grammar": ""
+    },
+    {
+      "time": 40.743,
+      "text": "Сгорим ты и я, но долгой будет линия",
+      "translation": "You and I will burn, but the line will be long",
+      "grammar": ""
+    },
+    {
+      "time": 45.80730000001192,
+      "text": "Я люблю тебя так, как море прибой, как небо земля",
+      "translation": "I love you as much as the sea surf, as the sky loves the earth",
+      "grammar": ""
+    },
+    {
+      "time": 49.83830000001192,
+      "text": "Как грустный Есенин пожар голубой, люблю как ты меня, а",
+      "translation": "Like Yesenin's sad blue fire, I love you like you love me, and",
+      "grammar": ""
+    },
+    {
+      "time": 54.57069999998808,
+      "text": "Подари мне счастье, подари, оно неоспоримо",
+      "translation": "Give me happiness, give it to me, it's undeniable",
+      "grammar": ""
+    },
+    {
+      "time": 58.78709999996424,
+      "text": "Мы на одном языке любви с тобою говорим",
+      "translation": "We speak the same language of love",
+      "grammar": ""
+    },
+    {
+      "time": 63.19189999997616,
+      "text": "Птицы ведут за собой, я к ним бегу быстрее ветра",
+      "translation": "Birds lead the way, I run to them faster than the wind",
+      "grammar": ""
+    },
+    {
+      "time": 68.73309999996424,
+      "text": "Я к тебе как торнадо, как тайфун, комета",
+      "translation": "I am to you like a tornado, like a typhoon, a comet",
+      "grammar": ""
+    },
+    {
+      "time": 71.8495,
+      "text": "Я тебя в сердце сберегу, на берегу, где Иордан",
+      "translation": "I will keep you in my heart, on the shore where the Jordan is",
+      "grammar": ""
+    },
+    {
+      "time": 76.18659999996424,
+      "text": "Собью дыханье на бегу, тебя найду и не отдам",
+      "translation": "I'll catch my breath on the run, I'll find you and I won't give you up",
+      "grammar": ""
+    },
+    {
+      "time": 80.57809999996424,
+      "text": "Пусть рухнет мир напополам, я тихо по твоим следам",
+      "translation": "Even if the world falls apart, I'll quietly follow in your footsteps.",
+      "grammar": ""
+    },
+    {
+      "time": 85.50889999997615,
+      "text": "По городам, по адресам, бегу к твоим родным глазам",
+      "translation": "Through cities, through addresses, I run to your familiar eyes",
+      "grammar": ""
+    },
+    {
+      "time": 89.76830000001192,
+      "text": "Я тебя в сердце сберегу, на берегу, где Иордан",
+      "translation": "I will keep you in my heart, on the shore where the Jordan is",
+      "grammar": ""
+    },
+    {
+      "time": 93.98809999996423,
+      "text": "Собью дыханье на бегу, тебя найду и не отдам",
+      "translation": "I'll catch my breath on the run, I'll find you and I won't give you up",
+      "grammar": ""
+    },
+    {
+      "time": 98.581,
+      "text": "Пусть рухнет мир напополам, я тихо по твоим следам",
+      "translation": "Even if the world falls apart, I'll quietly follow in your footsteps.",
+      "grammar": ""
+    },
+    {
+      "time": 103.483,
+      "text": "По городам, по адресам, бегу к твоим родным глазам",
+      "translation": "Through cities, through addresses, I run to your familiar eyes",
+      "grammar": ""
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "id": "es_tu_boda",
+  "title": "Tu Boda",
+  "artist": "Oscar Maydon feat. Fuerza Regida",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_tu_boda.mp3",
+  "duration": 226,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Siento un vacío muy frío por dentro, mi amor",
+      "translation": "I feel a very cold emptiness inside, my love.",
+      "grammar": "The phrase \"siento un vacío\" is an idiomatic expression that conveys the speaker's emotional state in the present moment, using the present continuous tense to emphasize the ongoing feeling of emptiness."
+    },
+    {
+      "time": 6.19,
+      "text": "Cuando te fuiste, te robaste mi corazón",
+      "translation": "When you left, you stole my heart.",
+      "grammar": "The verb phrase \"te robaste\" is in the preterite tense and uses the reflexive pronoun \"te\" to emphasize the subject's action, creating a sense of self-removal or taking something away. This idiomatic expression conveys the idea that someone's departure had a profound impact on the speaker's emotions."
+    },
+    {
+      "time": 9.05209999999404,
+      "text": "Me quedé loco de tanto pensar y pensar",
+      "translation": "I went crazy from thinking and thinking so much.",
+      "grammar": "The phrase \"Me quedé loco\" is an idiomatic expression that conveys the idea of going mad or becoming extremely frustrated, rather than literally staying crazy. The verb \"quedé\" is in the preterite tense, indicating a completed action in the past."
+    },
+    {
+      "time": 12.71059999999404,
+      "text": "Me iré al infierno, pero me tengo que vengar",
+      "translation": "I'll go to hell, but I have to get my revenge.",
+      "grammar": "The use of \"me tengo que\" is a common idiomatic expression in Spanish, equivalent to \"I have to\" or \"I must\" in English, indicating obligation or necessity."
+    },
+    {
+      "time": 41.083300000011924,
+      "text": "Siento un vacío muy frío por dentro, mi amor",
+      "translation": "I feel a very cold emptiness inside, my love.",
+      "grammar": "The phrase \"siento un vacío\" is an idiomatic expression that translates to \"feel a sense of emptiness\". The verb \"siento\" is in the present tense, indicating a general feeling or state."
+    },
+    {
+      "time": 44.246100000023844,
+      "text": "Cuando te fuiste, te robaste mi corazón",
+      "translation": "When you left, you stole my heart.",
+      "grammar": "The verb phrase \"te robaste\" is in the preterite tense and uses the reflexive pronoun \"te\" to emphasize the subject's action, which is an idiomatic expression meaning \"to steal someone's heart\" when they leave."
+    },
+    {
+      "time": 47.35360000002384,
+      "text": "Me quedé loco de tanto pensar y pensar",
+      "translation": "I went crazy from thinking and thinking so much.",
+      "grammar": "The phrase \"Me quedé loco\" is an idiomatic expression that conveys the idea of going mad or becoming extremely frustrated, rather than literally losing one's mind. The verb \"quedé\" is in the preterite tense, indicating a completed action in the past."
+    },
+    {
+      "time": 50.65410000002384,
+      "text": "Me iré al infierno, pero me tengo que vengar",
+      "translation": "I'll go to hell, but I have to get my revenge.",
+      "grammar": "The use of \"me tengo que\" is an idiomatic expression in Spanish, equivalent to \"I have to\" or \"I must\" in English, indicating a sense of obligation or necessity."
+    },
+    {
+      "time": 53.933200000017884,
+      "text": "Quiero manchar el vestido blanco de rojo",
+      "translation": "I want to stain the white dress red.",
+      "grammar": "The phrase \"manchar\" is an idiomatic expression meaning \"to ruin\" or \"to spoil\", rather than its literal translation \"to stain\". This usage note highlights the importance of understanding idioms in Spanish, as they can significantly alter the meaning of a sentence."
+    },
+    {
+      "time": 56.85190000000596,
+      "text": "Sé que el altar de Dios es santo, pero, mi amor",
+      "translation": "I know that God's altar is holy, but, my love",
+      "grammar": "The phrase \"mi amor\" is an idiomatic expression used to address a loved one, equivalent to \"my dear\" or \"my beloved\"."
+    },
+    {
+      "time": 60.05160000002384,
+      "text": "Cien invitados, y todos tendrán que mirar",
+      "translation": "One hundred guests, and they will all have to watch",
+      "grammar": "The verb \"tendrán\" is in the future tense, indicating a future obligation or necessity. The phrase \"todos tendrán\" is an idiomatic expression meaning \"they will all have to\"."
+    },
+    {
+      "time": 63.323,
+      "text": "Que nuestro amor va al más allá",
+      "translation": "That our love goes beyond",
+      "grammar": "The phrase \"que nuestro amor\" is a subordinate clause in the subjunctive mood, indicating a hypothetical or uncertain situation."
+    },
+    {
+      "time": 67.21860000002384,
+      "text": "Quiero que bailemos juntos",
+      "translation": "I want us to dance together",
+      "grammar": "The verb phrase \"quiero que\" is a polite way of expressing desire, equivalent to \"would like it if\" in English. The use of the subjunctive mood (\"bailemos\") indicates a hypothetical or desired situation."
+    },
+    {
+      "time": 69.49130000001192,
+      "text": "En el cielo o el infierno, pero sin ese puto",
+      "translation": "In heaven or hell, but without that fucking",
+      "grammar": "The phrase \"sin ese puto\" is an idiomatic expression meaning \"without that damn thing\", where \"puto\" is a strong intensifier equivalent to \"bloody\" or \"damn\". The sentence uses the present continuous tense (estar + verb) to convey a sense of ongoing existence in either heaven or hell."
+    },
+    {
+      "time": 72.79360000002384,
+      "text": "El que te ha apartado todo este tiempo de mí",
+      "translation": "The one who has kept you away from me all this time",
+      "grammar": "This sentence uses the present perfect tense to describe a past action that started in the past and continues up to the moment of speaking, emphasizing the duration of the separation."
+    },
+    {
+      "time": 76.00930000001192,
+      "text": "Al inconsciente que hizo que no fueras pa mí",
+      "translation": "To the unconscious mind that made you not be for me",
+      "grammar": "The phrase \"no fueras\" is a conditional construction in the past, indicating hypothetical or counterfactual situations. The verb \"ser\" (to be) is in the subjunctive mood because it's referring to an unrealized condition."
+    },
+    {
+      "time": 79.88810000002384,
+      "text": "Danza, una danza eterna",
+      "translation": "Dance, an eternal dance",
+      "grammar": "The verb \"danza\" is in the imperative mood, used to give a command or make a request. The phrase \"una danza eterna\" uses the indefinite article \"una\" with the noun \"danza\" to indicate a type of dance rather than a specific one."
+    },
+    {
+      "time": 82.26410000002384,
+      "text": "Pero me voy contigo, pero nos vamos juntos",
+      "translation": "But I'm going with you, but we're going together.",
+      "grammar": "The use of \"voy\" and \"vamos\" in the same sentence illustrates the difference between the first-person singular \"ir\" (to go) and the first-person plural \"ir\" in Spanish, highlighting the importance of verb agreement with subject pronouns."
+    },
+    {
+      "time": 85.59090000000596,
+      "text": "Llevo tres noches malditas sin poder dormir",
+      "translation": "I've had three damn nights without being able to sleep",
+      "grammar": "The verb \"llevo\" is in the present perfect tense, indicating that the speaker has experienced these three nights without sleep up until the moment of speaking. The phrase \"tres noches malditas\" is an idiomatic expression meaning \"three damn nights\", emphasizing the unpleasantness of the experience."
+    },
+    {
+      "time": 89.78930000001192,
+      "text": "Solo pensando y pensando que eres para mí (que eres para mí)",
+      "translation": "Just thinking and thinking that you're for me (that you're for me)",
+      "grammar": "The use of the present continuous tense (\"pensando\") emphasizes the ongoing nature of the speaker's thoughts, highlighting their introspective state. The repetition of \"que eres para mí\" is an idiomatic expression emphasizing the intensity of the speaker's feelings."
+    },
+    {
+      "time": 96.48370000001788,
+      "text": "¡Uh!",
+      "translation": "Uh!",
+      "grammar": "This interjection ¡Uh! is an informal expression of surprise or sudden realization, often used in spoken English."
+    },
+    {
+      "time": 98.20270000001788,
+      "text": "Y me despido de ti para siempre, chiquitita",
+      "translation": "And I say goodbye to you forever, little one.",
+      "grammar": "The phrase \"para siempre\" is an idiomatic expression meaning \"forever\" or \"for always\", used to emphasize the permanence of the action."
+    },
+    {
+      "time": 103.49160000002384,
+      "text": "Ahí le va pa todos los que traen el corazón roto, ¡uh!",
+      "translation": "Here's one for everyone with a broken heart, uh!",
+      "grammar": "The phrase \"¡pa todos!\" is an idiomatic expression meaning \"for everyone\" or \"to all\", using the preposition \"pa\" instead of \"a\" to convey a sense of inclusivity."
+    },
+    {
+      "time": 107.85940000000596,
+      "text": "Y su compa Oscar Maydon",
+      "translation": "And his buddy Oscar Maydon",
+      "grammar": "In Spanish, the phrase \"y su compa\" is an idiomatic expression meaning \"and his friend\" or \"and his buddy\", using the informal \"compa\" instead of the formal \"companero\"."
+    },
+    {
+      "time": 113.50590000000597,
+      "text": "Y Fuerza Regida",
+      "translation": "And Fuerza Regida",
+      "grammar": "This phrase is an idiomatic expression, used to emphasize a strong and authoritative presence. The verb \"Fuerza\" (Force) is in the nominative absolute construction, describing the subject's character or state."
+    },
+    {
+      "time": 119.48480000001192,
+      "text": "Camino lento, me duele la respiración",
+      "translation": "I walk slowly, my breathing hurts",
+      "grammar": "The use of \"me duele\" is an idiomatic expression meaning \"it hurts\" or \"I'm in pain\", rather than a literal description of the physical sensation."
+    },
+    {
+      "time": 121.53760000002384,
+      "text": "A mil por hora, latidos de mi corazón",
+      "translation": "My heart is beating a thousand miles an hour.",
+      "grammar": "This idiomatic expression uses the hyperbolic phrase \"a mil por hora\" to emphasize the intensity of the speaker's emotions, equivalent to saying \"at top speed\" or \"like crazy\". The verb \"latidos\" is in the present tense, describing the ongoing action of a racing heartbeat."
+    },
+    {
+      "time": 125.59830000001192,
+      "text": "En el pasillo me vienen recuerdos, flashbacks",
+      "translation": "In the hallway, memories come flooding back, flashbacks.",
+      "grammar": "The verb phrase \"me vienen\" is in the present continuous tense, indicating a habitual or ongoing action of memories coming back. The idiom \"viene recuerdo\" literally means \"a memory comes\", but figuratively conveys the idea of memories flooding back."
+    },
+    {
+      "time": 128.60730000001192,
+      "text": "Prometimos que los dos iríamos al altar",
+      "translation": "We promised that we would both go to the altar",
+      "grammar": "The verb phrase \"prometimos\" is in the preterite tense, indicating a completed action in the past. The use of \"que\" introduces a dependent clause describing the promise made."
+    },
+    {
+      "time": 132.08160000002385,
+      "text": "Te quitó el velo, aceptaste y luego te besó",
+      "translation": "He removed your veil, you accepted, and then he kissed you.",
+      "grammar": "The verb sequence uses the present perfect tense to describe completed actions in the past, indicating a narrative tone. The phrase \"te quitó\" is an idiomatic expression meaning \"he removed\"."
+    },
+    {
+      "time": 134.93860000002385,
+      "text": "Ya has consumado los votos sagrados, mi amor",
+      "translation": "You have already fulfilled your sacred vows, my love",
+      "grammar": "The phrase \"ya has\" is an idiomatic expression in Spanish, using the present perfect tense to convey a sense of completed action in the past. The verb \"has\" agrees with the subject \"you\" in number and person."
+    },
+    {
+      "time": 138.5425,
+      "text": "Un frío muy intenso se llevó todo mi ser",
+      "translation": "An intense cold gripped my entire being.",
+      "grammar": "The phrase \"se llevó\" is an idiomatic expression that translates to \"gripped\" or \"took hold of\", using the passive voice and the preposition \"se\" to convey a sense of intensity."
+    },
+    {
+      "time": 141.302,
+      "text": "Ya no hay razón pa estar de pie",
+      "translation": "There's no reason to stand anymore",
+      "grammar": "This line uses the present perfect tense (ya no) to convey a sense of completed action, implying that there is no longer any justification or motivation to continue standing."
+    },
+    {
+      "time": 145.53530000001192,
+      "text": "Quiero que bailemos juntos",
+      "translation": "I want us to dance together",
+      "grammar": "The verb phrase \"quiero que\" is a polite way of expressing desire, equivalent to \"would like it if\" in English. The use of the subjunctive mood (\"bailemos\") indicates that the speaker's wish is hypothetical or uncertain."
+    },
+    {
+      "time": 147.86080000001192,
+      "text": "En el cielo o el infierno, pero sin ese puto",
+      "translation": "In heaven or hell, but without that fucking",
+      "grammar": "The phrase \"sin ese puto\" is an idiomatic expression meaning \"without that damn thing\", using the informal pronoun \"puto\" to emphasize the speaker's strong sentiment. Note the use of the preposition \"sin\" in a negative sense, indicating the absence of something undesirable."
+    },
+    {
+      "time": 150.77240000000597,
+      "text": "Al que te ha apartado todo este tiempo de mí",
+      "translation": "To the one who has kept you away from me all this time",
+      "grammar": "The phrase \"al que\" is a formal way of saying \"to the one who\", using the indirect object pronoun \"le\" in the accusative form, which agrees with the subject \"quien\" (who) in the preceding clause."
+    },
+    {
+      "time": 154.06920000001787,
+      "text": "Al inconsciente que hizo que no fueras pa mí",
+      "translation": "To the unconscious mind that made you not be for me",
+      "grammar": "The phrase \"no fueras\" is a pluperfect subjunctive construction, used to express an unreal or hypothetical situation in the past. The verb \"fueras\" agrees with the subject \"inconsciente\" in number and person, indicating that the unconscious mind had an influence on the speaker's relationship."
+    },
+    {
+      "time": 157.7568000000119,
+      "text": "Danza, una danza eterna",
+      "translation": "Dance, an eternal dance",
+      "grammar": "The phrase \"una danza eterna\" is an idiomatic expression that uses the indefinite article \"una\" to describe a non-physical, abstract concept (dance), rather than a physical object. This usage is common in Spanish and can be translated as \"an eternal dance\", emphasizing the idea of a timeless or ongoing dance."
+    },
+    {
+      "time": 160.23440000000596,
+      "text": "Pero me voy contigo, pero nos vamos juntos",
+      "translation": "But I'm going with you, but we're going together.",
+      "grammar": "The use of \"voy\" and \"vamos\" in the same sentence illustrates the difference between the first person singular (I'm going) and the first person plural (we're going), highlighting the importance of verb agreement in Spanish."
+    },
+    {
+      "time": 163.55960000002383,
+      "text": "Llevo tres noches malditas sin poder dormir",
+      "translation": "I've had three damn nights without being able to sleep",
+      "grammar": "The use of \"hebo\" (had) in the present perfect tense (\"llevo\") indicates that the speaker is emphasizing their current state, implying a lingering effect from those three nights."
+    },
+    {
+      "time": 166.81960000002385,
+      "text": "Solo pensando y pensando que eras para mí",
+      "translation": "Just thinking and thinking that you were meant for me",
+      "grammar": "The verb phrase \"pensando\" is in the present participle form, indicating ongoing or continuous action, which emphasizes the speaker's introspective state. The use of \"que\" introduces a subordinate clause expressing a hypothetical situation."
+    },
+    {
+      "time": 170.5707000000179,
+      "text": "Miro cómo brillan tus ojos",
+      "translation": "I see how your eyes shine",
+      "grammar": "The verb \"miro\" is in the present tense, indicating a continuous or ongoing action, and uses the formal form to address the listener."
+    },
+    {
+      "time": 173.14310000002385,
+      "text": "Me resigno a perderte, y esta vez para siempre",
+      "translation": "I resign myself to losing you, and this time it's forever.",
+      "grammar": "The phrase \"me resigno\" is an idiomatic expression that conveys resignation or acceptance of one's fate, using the reflexive verb \"resignar\" in the first person singular. This construction implies a sense of inevitability, as if the speaker has no choice but to accept the situation."
+    },
+    {
+      "time": 176.274,
+      "text": "Me arrepentí de quitarte tu felicidad",
+      "translation": "I regretted taking away your happiness",
+      "grammar": "The verb \"arrepentí\" is in the preterite tense, indicating a completed action in the past. The phrase \"quitarte tu felicidad\" is an idiomatic expression meaning \"to take away someone's happiness\", where \"quitarte\" is a reflexive construction with the indirect object pronoun \"tu\"."
+    },
+    {
+      "time": 179.66210000002386,
+      "text": "Te dejaré, una familia puedas comenzar",
+      "translation": "I'll leave you so you can start a family.",
+      "grammar": "The verb \"dejar\" is in the future tense and implies permission or consent, making it an idiomatic expression equivalent to \"let you\"."
+    },
+    {
+      "time": 183.22630000001192,
+      "text": "Me despido, me despido pa siempre",
+      "translation": "I'm saying goodbye, I'm saying goodbye forever",
+      "grammar": "The phrase \"me despido\" is an idiomatic expression that combines the verb \"despedir\" (to dismiss or bid farewell) with the pronoun \"me\" to convey a sense of finality and permanence. The use of \"pa siempre\" emphasizes the idea of forever, creating a strong emotional tone."
+    },
+    {
+      "time": 185.78360000002385,
+      "text": "Y te deseo suerte y bendigo mi muerte",
+      "translation": "And I wish you luck and bless my death.",
+      "grammar": "The phrase \"bendigo\" is an archaic or poetic way to express blessing, often used in formal or solemn contexts. In this line, the speaker's intention is to convey a sense of acceptance and resignation towards their own mortality."
+    },
+    {
+      "time": 189.29830000001192,
+      "text": "Se la dedico al amor que nunca funcionó",
+      "translation": "I dedicate it to the love that never worked out",
+      "grammar": "The phrase \"se la dedico\" is an idiomatic expression meaning \"to dedicate something\" in English, using the subjunctive mood (dedico) to convey a sense of dedication rather than actual completion."
+    },
+    {
+      "time": 192.36040000000597,
+      "text": "A la persona que roto tiene el corazón",
+      "translation": "To the person whose heart is broken",
+      "grammar": "The phrase \"a la persona\" is an idiomatic expression equivalent to \"to the person\", using the preposition \"a\" with a singular noun, which is a common construction in Spanish."
+    }
+  ]
+}

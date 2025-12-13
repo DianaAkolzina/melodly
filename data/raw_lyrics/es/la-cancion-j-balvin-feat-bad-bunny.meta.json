@@ -1,0 +1,16 @@
+{
+  "language": "es",
+  "title": "LA CANCIÓN",
+  "artist": "J Balvin feat. Bad Bunny",
+  "slug": "la-cancion-j-balvin-feat-bad-bunny",
+  "track_length_seconds": 243,
+  "source": {
+    "provider": "musixmatch",
+    "track_id": 175109113,
+    "commontrack_id": 97305928,
+    "track_share_url": "https://www.musixmatch.com/lyrics/J-Balvin-feat-Bad-Bunny/LA-CANCI%C3%93N?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "track_edit_url": "https://www.musixmatch.com/lyrics/J-Balvin-feat-Bad-Bunny/LA-CANCI%C3%93N/edit?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "search_language": "es",
+    "fetched_at": "2025-11-21T10:50:34.920744Z"
+  }
+}

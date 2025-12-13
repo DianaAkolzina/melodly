@@ -1,0 +1,63 @@
+{
+  "id": "ru_mama_ya_ne_mogu_bolshe_pit",
+  "title": "Мама, я не могу больше пить",
+  "artist": "User-provided lyrics",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_mama_ya_ne_mogu_bolshe_pit.mp3",
+  "duration": 260,
+  "licensing_note": "User-provided full lyrics (Russian).",
+  "lines": [
+    { "time": 0.0, "text": "Мама, я не могу больше пить,", "translation": "Mom, I can't drink anymore,", "grammar": "Address term 'Мама' as vocative; modal negation 'не могу' + infinitive 'пить'." },
+    { "time": 3.0, "text": "Мама, я не могу больше пить,", "translation": "Mom, I can't drink anymore,", "grammar": "Repetition for emphasis; comparative 'больше' intensifies 'не могу'." },
+    { "time": 6.0, "text": "Мама, вылей всё, что стоит на столе,", "translation": "Mom, pour out everything that's on the table,", "grammar": "Imperative 'вылей'; relative clause 'что стоит'; locative phrase 'на столе'." },
+    { "time": 9.0, "text": "Я не могу больше пить.", "translation": "I can't drink anymore.", "grammar": "Simple declarative reinforcing request; first person singular present." },
+
+    { "time": 13.0, "text": "На мне железный аркан,", "translation": "There's an iron noose on me,", "grammar": "Prepositional phrase 'на мне' indicates burden; metaphor 'железный аркан'." },
+    { "time": 16.0, "text": "Я крещусь, когда я вижу стакан.", "translation": "I cross myself when I see a glass.", "grammar": "Reflexive verb 'креститься'; temporal clause 'когда ... вижу'." },
+    { "time": 19.0, "text": "Я не в силах поддерживать этот обман,", "translation": "I don't have the strength to keep up this deception,", "grammar": "Construction 'не в силах' + infinitive; DO 'этот обман'." },
+    { "time": 22.0, "text": "Мама, я не могу больше пить.", "translation": "Mom, I can't drink anymore.", "grammar": "Refrain line returns; vocative + modal negation." },
+
+    { "time": 26.0, "text": "Патриоты скажут, что я дал слабину,", "translation": "Patriots will say that I showed weakness,", "grammar": "Future-of-supposition 'скажут'; idiom 'дать слабину' = to falter." },
+    { "time": 29.0, "text": "Практически продал родную страну.", "translation": "Practically sold out my native country.", "grammar": "Perfective 'продал'; adverb 'практически' softens assertion." },
+    { "time": 32.0, "text": "Им легко, а я иду ко дну,", "translation": "It's easy for them, but I'm going under,", "grammar": "Dative 'им легко' (it is easy to them); idiom 'идти ко дну' (to sink)." },
+    { "time": 35.0, "text": "Я гляжу, как истончается нить.", "translation": "I watch as the thread grows thin.", "grammar": "Perception + 'как' + present 'истончается'; metaphor 'нить' for lifeline/endurance." },
+
+    { "time": 39.0, "text": "Я не валял дурака,", "translation": "I wasn't fooling around,", "grammar": "Idiomatic 'валять дурака' = to play the fool; negative past imperfective." },
+    { "time": 42.0, "text": "Тридцать пять лет от звонка до звонка,", "translation": "Thirty-five years bell to bell,", "grammar": "Fixed phrase 'от звонка до звонка' (to the bell) implies strict schedule/term; numeral + count phrase." },
+    { "time": 45.0, "text": "Но мне не вытравить из себя чужака,", "translation": "But I can't root out the stranger within me,", "grammar": "Modal negation 'не' with infinitive 'вытравить'; preposition 'из себя' (out of oneself)." },
+    { "time": 48.0, "text": "Мама, я не могу больше пить.", "translation": "Mom, I can't drink anymore.", "grammar": "Refrain. Vocative + modal negation." },
+
+    { "time": 52.0, "text": "Мама, я не могу больше пить,", "translation": "Mom, I can't drink anymore,", "grammar": "Chorus repetition; maintains motif." },
+    { "time": 55.0, "text": "Мама, я не могу больше пить,", "translation": "Mom, I can't drink anymore,", "grammar": "Repetition as intensifier." },
+    { "time": 58.0, "text": "Мама, позвони всем моим друзьям,", "translation": "Mom, call all my friends,", "grammar": "Imperative 'позвони' (2sg); dative 'моим друзьям'." },
+    { "time": 61.0, "text": "Скажи, я не могу больше пить.", "translation": "Tell them I can't drink anymore.", "grammar": "Imperative 'скажи'; reported clause with zero 'что' (colloquial ellipsis)." },
+
+    { "time": 65.0, "text": "Вот она - пропасть во ржи,", "translation": "There it is—the abyss in the rye,", "grammar": "Deictic 'вот'; dash apposition; locative 'во ржи'. Allusion to 'The Catcher in the Rye'." },
+    { "time": 68.0, "text": "Под босыми ногами ножи.", "translation": "Knives under bare feet.", "grammar": "Zero copula poetic nominal clause; instrumental/locative imagery." },
+    { "time": 71.0, "text": "Так достало жить не по лжи -", "translation": "So tired of living not by lies—", "grammar": "Colloquial 'достало' (I'm fed up); phrase 'жить не по лжи' (live not by lies), intertextual reference (Солженицын)." },
+    { "time": 74.0, "text": "Я не могу больше пить", "translation": "I can't drink anymore", "grammar": "Declarative restatement of refrain; no comma in original here for flow." },
+
+    { "time": 78.0, "text": "Скажи моим братьям, что теперь я большой,", "translation": "Tell my brothers that now I'm grown,", "grammar": "Imperative 'скажи'; reported clause with 'что'; predicate adjective 'большой' (grown/mature)." },
+    { "time": 81.0, "text": "Скажи сестре, что я болен душой.", "translation": "Tell my sister that my soul is sick.", "grammar": "Dative 'сестре'; instrumental metaphor 'болен душой' (sick at heart)." },
+    { "time": 84.0, "text": "Я мог бы быть обычным человеком,", "translation": "I could have been an ordinary person,", "grammar": "Conditional mood 'мог бы быть' (could have been); adjective as predicate nominative." },
+    { "time": 87.0, "text": "Но я упустил эту роль.", "translation": "But I missed that role.", "grammar": "Perfective 'упустил' (to let slip/miss); DO 'эту роль'." },
+
+    { "time": 91.0, "text": "Зашёл в бесконечный лес,", "translation": "I entered an endless forest,", "grammar": "Perfective 'зашёл' (entered); adjective 'бесконечный' intensifies metaphor." },
+    { "time": 94.0, "text": "Гляжу вверх, но я не вижу небес.", "translation": "I look up, but I don't see the heavens.", "grammar": "Present 'гляжу/вижу'; adversative 'но'; genitive plural 'небес' (poetic)." },
+    { "time": 97.0, "text": "Скажи в церкви, что во всех дверях стоит бес -", "translation": "Tell them in church that a demon stands in every doorway—", "grammar": "Locative 'в церкви'; reported clause; present 'стоит'; noun 'бес' (demon)." },
+    { "time": 100.0, "text": "Демон Алкоголь.", "translation": "The demon Alcohol.", "grammar": "Appositive naming; capitalization for personification." },
+
+    { "time": 104.0, "text": "Мама, я не могу больше пить,", "translation": "Mom, I can't drink anymore,", "grammar": "Refrain reprise." },
+    { "time": 107.0, "text": "Мама, я не могу больше пить,", "translation": "Mom, I can't drink anymore,", "grammar": "Repetition heightens plea." },
+    { "time": 110.0, "text": "Мама, вылей всё, что стоит на столе,", "translation": "Mom, pour out everything that's on the table,", "grammar": "Imperative + relative clause as earlier." },
+    { "time": 113.0, "text": "Я не могу больше пить.", "translation": "I can't drink anymore.", "grammar": "Closing refrain." },
+
+    { "time": 117.0, "text": "На мне железный аркан,", "translation": "There's an iron noose on me,", "grammar": "Repetition for cyclical structure; burden metaphor returns." },
+    { "time": 120.0, "text": "Я крещусь, когда я вижу стакан.", "translation": "I cross myself when I see a glass.", "grammar": "Temporal clause repeated; ritual gesture connotes fear/respect." },
+    { "time": 123.0, "text": "Я не в силах поддерживать этот обман,", "translation": "I don't have the strength to keep up this deception,", "grammar": "Fixed construction with 'не в силах' + infinitive." },
+    { "time": 126.0, "text": "Мама, я не могу больше пить.", "translation": "Mom, I can't drink anymore.", "grammar": "Final cadence; refrain concludes." }
+  ]
+}
+

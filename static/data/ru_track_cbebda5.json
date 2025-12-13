@@ -1,0 +1,163 @@
+{
+  "id": "ru_track_cbebda5",
+  "title": "распять",
+  "artist": "greyrock feat. tewiq & madk1d",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_track_cbebda5.mp3",
+  "duration": 120,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Ладони полны слёзок, но время не вернуть вспять",
+      "translation": "Hands are full of tears, but time won't turn back",
+      "grammar": "The phrase 'но время не вернуть вспять' is an idiomatic expression that conveys the idea that some things cannot be undone or reversed."
+    },
+    {
+      "time": 5.086800000011921,
+      "text": "На деревянный крест можешь распять меня раз пять",
+      "translation": "You can crucify me on a wooden cross five times.",
+      "grammar": ""
+    },
+    {
+      "time": 9.137100000023842,
+      "text": "Я снова своровал твои мысли, их не понять",
+      "translation": "I stole your thoughts again, they are incomprehensible",
+      "grammar": ""
+    },
+    {
+      "time": 13.5385,
+      "text": "Отомсти мне за всё, обиды запиши в тетрадь",
+      "translation": "Take revenge on me for everything, write down the grievances in a notebook",
+      "grammar": ""
+    },
+    {
+      "time": 17.36169999998808,
+      "text": "Ладони полны крови, будто тёрся об ножи",
+      "translation": "My palms are full of blood, as if I had been rubbing against knives.",
+      "grammar": ""
+    },
+    {
+      "time": 21.475800000011922,
+      "text": "На деревянный крест можешь распять, пока я жив",
+      "translation": "You can crucify me on a wooden cross while I'm alive.",
+      "grammar": ""
+    },
+    {
+      "time": 25.59810000002384,
+      "text": "Я снова своровал твоё сердце, будто каджит",
+      "translation": "I stole your heart again like a Khajiit",
+      "grammar": ""
+    },
+    {
+      "time": 29.732,
+      "text": "Отомсти мне за всё, обиды запиши в дневник",
+      "translation": "Take revenge on me for everything, write down the grievances in your diary",
+      "grammar": ""
+    },
+    {
+      "time": 33.9965,
+      "text": "Как ты попала в мои строки? В TikTok'е огни",
+      "translation": "How did you end up in my lines? There are lights on TikTok.",
+      "grammar": ""
+    },
+    {
+      "time": 37.9805,
+      "text": "Ты знаешь, о ком все строки, этот город один",
+      "translation": "You know who all the lines are about, this city is one",
+      "grammar": ""
+    },
+    {
+      "time": 42.163,
+      "text": "И мы в нём все одиноки, давай возьмём грибы",
+      "translation": "And we are all alone in it, let's take mushrooms",
+      "grammar": ""
+    },
+    {
+      "time": 46.243100000023844,
+      "text": "Из магазина эноки, ты знаешь, во мне петарды, ты знаешь, что во мне бомбы",
+      "translation": "From the enoki shop, you know I'm full of firecrackers, you know I'm full of bombs",
+      "grammar": ""
+    },
+    {
+      "time": 53.00010000002384,
+      "text": "Я хотел бы увидеться, к счастью, связаны руки",
+      "translation": "I would like to see you, fortunately my hands are tied",
+      "grammar": ""
+    },
+    {
+      "time": 56.83530000001192,
+      "text": "Ты знаешь этот mindset, ты знаешь все эти звуки",
+      "translation": "You know this mindset, you know all these sounds",
+      "grammar": ""
+    },
+    {
+      "time": 60.81560000002384,
+      "text": "Ты знаешь, почему больно, меня заполонил холод",
+      "translation": "You know why it hurts, I'm filled with cold",
+      "grammar": ""
+    },
+    {
+      "time": 64.93890000003576,
+      "text": "В моих руках твоё тело, а значит, ладони полны",
+      "translation": "I have your body in my hands, which means my palms are full",
+      "grammar": ""
+    },
+    {
+      "time": 69.95620000004769,
+      "text": "Ладони полны слёзок, но время не вернуть вспять",
+      "translation": "My palms are full of tears, but time cannot be turned back.",
+      "grammar": ""
+    },
+    {
+      "time": 73.80530000001193,
+      "text": "На деревянный крест можешь распять меня раз пять",
+      "translation": "You can crucify me on a wooden cross five times.",
+      "grammar": ""
+    },
+    {
+      "time": 77.81990000003576,
+      "text": "Я снова своровал твои мысли, их не понять",
+      "translation": "I stole your thoughts again, they are incomprehensible",
+      "grammar": ""
+    },
+    {
+      "time": 82.063,
+      "text": "Отомсти мне за всё, обиды запиши в тетрадь",
+      "translation": "Take revenge on me for everything, write down the grievances in a notebook",
+      "grammar": ""
+    },
+    {
+      "time": 86.08760000002384,
+      "text": "Ладони полны крови, будто тёрся об ножи",
+      "translation": "My palms are full of blood, as if I had been rubbing against knives.",
+      "grammar": ""
+    },
+    {
+      "time": 90.61160000002384,
+      "text": "На деревянный крест можешь распять, пока я жив",
+      "translation": "You can crucify me on a wooden cross while I'm alive.",
+      "grammar": ""
+    },
+    {
+      "time": 94.34910000002384,
+      "text": "Я снова своровал твоё сердце, будто каджит",
+      "translation": "I stole your heart again like a Khajiit",
+      "grammar": ""
+    },
+    {
+      "time": 98.63530000001192,
+      "text": "Отомсти мне за всё, обиды запиши в дневник",
+      "translation": "Take revenge on me for everything, write down the grievances in your diary",
+      "grammar": ""
+    },
+    {
+      "time": 117.96860000002384,
+      "text": "I am alive",
+      "translation": "I am alive",
+      "grammar": ""
+    }
+  ]
+}

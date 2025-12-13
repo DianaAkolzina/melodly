@@ -1,0 +1,421 @@
+{
+  "id": "fr_charger",
+  "title": "Charger",
+  "artist": "TRIANGLE DES BERMUDES feat. MC YOSHI, Mauvais djo & Kokosvoice",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_charger.mp3",
+  "duration": 155,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Yeah",
+      "translation": "Yeah",
+      "grammar": "This interjection \"Yeah\" is used to express strong agreement or confirmation, and its informal tone matches the conversational style of spoken English."
+    },
+    {
+      "time": 1.2,
+      "text": "Yo, move it",
+      "translation": "Yo, move it",
+      "grammar": "This interjection uses the informal and colloquial \"Yo\" to grab attention, followed by an imperative verb phrase in the present tense, instructing someone to take action."
+    },
+    {
+      "time": 2.465,
+      "text": "Prépare-toi à charger, mon amour (yeah)",
+      "translation": "Get ready to charge, my love (yeah)",
+      "grammar": "The phrase \"Prépare-toi\" is an informal imperative, equivalent to \"Get ready\" in English, using the reflexive pronoun \"toi\" and the verb \"préparer\" in its infinitive form. The \"(yeah)\" interjection adds a casual tone to the sentence."
+    },
+    {
+      "time": 4.994,
+      "text": "Arr, arr, arr, arr, arr",
+      "translation": "Arr, arr, arr, arr, arr",
+      "grammar": "This interjection is an example of onomatopoeia, mimicking the sound of a repeated shout or call. It's used to express excitement or emphasis in informal settings."
+    },
+    {
+      "time": 6.891,
+      "text": "Sortez les armes à feu, sortez les armes (wouh)",
+      "translation": "Bring out the guns, bring out the guns (whoa)",
+      "grammar": "The imperative verb \"sortez\" is in the plural form to address multiple people, and the repetition of \"sortez\" emphasizes the urgency. The interjection \"wouh\" is an expression of surprise or excitement."
+    },
+    {
+      "time": 10.053,
+      "text": "Sortez les armes à feu, sortez les armes (wouh)",
+      "translation": "Bring out the guns, bring out the guns (whoa)",
+      "grammar": "The imperative verb \"sortez\" is in the plural form to address multiple people, and the phrase \"les armes à feu\" is an idiomatic expression meaning \"the guns\"."
+    },
+    {
+      "time": 13.215,
+      "text": "Triangle de Babi, yeah (ouh)",
+      "translation": "Triangle de Babi, yeah (ooh)",
+      "grammar": "The phrase \"yeah\" is an interjection used to express enthusiasm or agreement, often translated as \"yes\". The use of \"ouh\" or \"ooh\" in the original French and translation English respectively adds a sense of excitement and emphasis."
+    },
+    {
+      "time": 15.112,
+      "text": "Triangle de Babi, yeah (one more time)",
+      "translation": "Babi triangle, yeah (one more time)",
+      "grammar": "The phrase \"yeah\" is an interjection used to express strong agreement or emphasis, often in informal contexts. Its use here adds a sense of enthusiasm and confirmation to the repetition of \"one more time\"."
+    },
+    {
+      "time": 17.641,
+      "text": "Sortez les armes à feu, sortez les armes",
+      "translation": "Bring out the guns, bring out the guns",
+      "grammar": "The imperative mood is used to give direct orders, with the repetition of \"sortez\" emphasizing urgency and intensity. The idiomatic expression \"bring out the guns\" is an English equivalent for the French phrase, conveying a sense of conflict or confrontation."
+    },
+    {
+      "time": 20.487,
+      "text": "Sortez les armes à feu, sortеz les armes (arr)",
+      "translation": "Bring out the guns, bring out the guns (arr)",
+      "grammar": "The imperative verb \"sortez\" is used to give a direct command, with the repetition emphasizing urgency. The phrase also employs an idiomatic expression \"bring out the guns\", which conveys a sense of intensity or conflict."
+    },
+    {
+      "time": 23.649,
+      "text": "Trianglе de Babi, yeah (triangle de what?)",
+      "translation": "Babi triangle, yeah (what triangle?)",
+      "grammar": "This line uses the idiomatic expression \"triangle de\" to ask for clarification on a specific topic or concept, similar to saying \"what's going on?\" or \"what's up?\". The phrase is informal and conversational in tone."
+    },
+    {
+      "time": 26.178,
+      "text": "Triangle de Babi, yeah (arr, arr)",
+      "translation": "Babi triangle, yeah (arr, arr)",
+      "grammar": "The phrase \"yeah\" is an interjection used to express enthusiasm or agreement, often in informal contexts. The repetition of \"yeah\" and \"arr\" creates a playful, rhythmic effect, typical of spoken language and song lyrics."
+    },
+    {
+      "time": 28.391,
+      "text": "J'ai trop mis mes lunettes, j'ai mal aux yeux",
+      "translation": "I've been wearing my glasses too long, my eyes hurt.",
+      "grammar": "The use of the present perfect tense \"j'ai mis\" (I've been wearing) emphasizes the duration of the action, indicating that the speaker has been wearing their glasses for a certain period."
+    },
+    {
+      "time": 32.185,
+      "text": "J'suis venu régler tous mes contentieux (arr)",
+      "translation": "I came to settle all my disputes (arr)",
+      "grammar": "The phrase \"J'suis\" is an informal, first-person singular construction in the passé composé tense, used to express a completed action in the past. It is equivalent to \"I have come\" or \"I came\"."
+    },
+    {
+      "time": 35.031,
+      "text": "Sortez les armes à feu, on n'est pas du genre à s'faire menacer (jamais)",
+      "translation": "Get out the guns, we're not the type to be threatened (ever)",
+      "grammar": "The phrase \"on n'est pas du genre\" is an idiomatic expression meaning \"we're not the kind of people\", using the impersonal pronoun \"on\" and the adjective \"du genre\" to convey a sense of collective identity."
+    },
+    {
+      "time": 40.406,
+      "text": "Sortez les armes à feu, sortez les armes",
+      "translation": "Bring out the guns, bring out the guns",
+      "grammar": "The imperative verb \"sortez\" is in the second person plural form, addressed to a group of people, and its repetition emphasizes urgency."
+    },
+    {
+      "time": 43.252,
+      "text": "Sortez les armes à feu, sortez les armes",
+      "translation": "Bring out the guns, bring out the guns",
+      "grammar": "The imperative verb \"sortez\" is in the second person plural form, addressing multiple people to take action. The repetition of \"sortez\" emphasizes urgency and intensity."
+    },
+    {
+      "time": 46.097,
+      "text": "Sortez-les aw, aw, aw, aw, aw",
+      "translation": "Bring them out aw, aw, aw, aw, aw",
+      "grammar": "The imperative \"Sortez-les\" is in the present tense, instructing someone to bring out the people or things immediately. The repeated \"aw\"s are an interjection expressing excitement or emphasis."
+    },
+    {
+      "time": 48.627,
+      "text": "Brrr, aw",
+      "translation": "Brrr, aw",
+      "grammar": "This interjection \"Brrr\" is an onomatopoeic expression that conveys a sudden feeling of coldness or shock, often used to emphasize the unpleasantness of a situation. The accompanying \"aw\" likely indicates surprise or dismay."
+    },
+    {
+      "time": 49.827,
+      "text": "Brrr, aw, brrr, aw",
+      "translation": "Brrr, aw, brrr, aw",
+      "grammar": "This line is an example of onomatopoeia, where the repeated \"brrr\" and \"aw\" imitate the sounds of shivering and a sigh, respectively. The use of these interjections creates a sense of coldness and discomfort, conveying the speaker's emotional state in a vivid and expressive way."
+    },
+    {
+      "time": 51.407,
+      "text": "Brrr, aw, brrr",
+      "translation": "Brrr, aw, brrr",
+      "grammar": "This interjection is an expression of sudden coldness or discomfort, with \"brrr\" imitating the sound of shivering. The repetition emphasizes the speaker's strong reaction to the chill."
+    },
+    {
+      "time": 52.672,
+      "text": "Charger, charger (wouh)",
+      "translation": "Charge, charge (whoa)",
+      "grammar": "The repeated use of \"charger\" and the interjection \"wouh\" is an idiomatic expression in French, emphasizing urgency or excitement. The verb tense remains present throughout, conveying a sense of ongoing action."
+    },
+    {
+      "time": 53.937,
+      "text": "Charger, charger (wouh)",
+      "translation": "Charge, charge (whoa)",
+      "grammar": "The use of \"charger\" and \"charge\" in this line is an idiom, where the verb \"to charge\" is used to convey excitement or urgency, rather than its literal meaning. The interjection \"wouh\" or \"whoa\" adds emphasis to the phrase, expressing a sense of suddenness or surprise."
+    },
+    {
+      "time": 55.202,
+      "text": "Charger, charger (wouh)",
+      "translation": "Charge, charge (whoa)",
+      "grammar": "The repeated imperative \"charger\" is an idiomatic expression emphasizing urgency, similar to English's \"Hurry up!\" or \"Get a move on!\", conveying a sense of excitement and encouragement."
+    },
+    {
+      "time": 56.466,
+      "text": "Charger, charger",
+      "translation": "Load, load",
+      "grammar": "This idiom uses the imperative mood to convey a sense of urgency and repetition, emphasizing the need to take action. The repeated use of \"charger\" (or \"load\") creates a sense of rhythm, mirroring the speaker's emotional state."
+    },
+    {
+      "time": 57.666,
+      "text": "Brrr, aw (wouh)",
+      "translation": "Brrr, aw (wouh)",
+      "grammar": "This interjection \"Brrr\" is an onomatopoeic expression used to convey a sudden feeling of coldness or discomfort, while \"aw\" is an informal filler word often used in spoken language."
+    },
+    {
+      "time": 58.931,
+      "text": "Brrr, aw (wouh), brrr, aw (yeah)",
+      "translation": "Brrr, aw (woah), brrr, aw (yeah)",
+      "grammar": "The repeated use of \"brrr\" and \"aw\" is an idiomatic expression conveying strong emotions or reactions, often used to emphasize excitement or surprise. The interjection \"aw\" can also be translated as \"whoa\", adding to the overall sense of astonishment."
+    },
+    {
+      "time": 61.144,
+      "text": "Brrr, aw (wouh), brrr",
+      "translation": "Brrr, aw (whoa), brrr",
+      "grammar": "This interjection \"aw\" is an informal expression of surprise or excitement, often used in spoken language to add emphasis. The repetition of \"brrr\" creates a sense of suddenness and intensity, mirroring the emotional tone of the speaker."
+    },
+    {
+      "time": 62.725,
+      "text": "Charger, charger (aw)",
+      "translation": "Charge, charge (aw)",
+      "grammar": "The repeated imperative \"charger\" and the interjection \"aw\" convey a sense of urgency and emphasis, while the use of the present tense (\"charge\") creates a sense of immediacy."
+    },
+    {
+      "time": 63.99,
+      "text": "Charger, charger (aw)",
+      "translation": "Charge, charge (aw)",
+      "grammar": "The repeated imperative \"charger\" in the original French and its English translation \"charge\" is an idiomatic expression emphasizing urgency or insistence."
+    },
+    {
+      "time": 65.254,
+      "text": "Charger, charger (aw)",
+      "translation": "Charge, charge (aw)",
+      "grammar": "The use of \"charger\" and \"charge\" in this line is an idiom, where the verb form remains the same to convey a sense of urgency or emphasis. The \"(aw)\" interjection adds a tone of excitement or encouragement."
+    },
+    {
+      "time": 66.519,
+      "text": "Charger (aw, aw, aw, aw)",
+      "translation": "Load (aw, aw, aw, aw)",
+      "grammar": "The phrase \"aw, aw, aw, aw\" is an interjection expressing excitement or emphasis, often used in informal speech. It does not affect the sentence's grammatical structure."
+    },
+    {
+      "time": 68.416,
+      "text": "J'ai sorti le neuf millimètres, ils ont couru (feu)",
+      "translation": "I took out the nine millimeters, they ran (fire)",
+      "grammar": "The use of the present perfect tense \"j'ai sorti\" (I have taken out) emphasizes the completed action of taking out the gun, while the past simple tense \"ils ont couru\" (they ran) describes a simultaneous action in the past."
+    },
+    {
+      "time": 71.894,
+      "text": "Les armes nucléaires, comme en Corée (huh-uh-uh)",
+      "translation": "Nuclear weapons, like in Korea (huh-uh-uh)",
+      "grammar": "The use of \"comme en Corée\" is an idiomatic expression indicating a comparison to a specific situation or place, rather than a literal location. The huh-uh-uh interjection adds a tone of irony and skepticism."
+    },
+    {
+      "time": 75.056,
+      "text": "Ki-di, ki-di-di-di, ki-di-di",
+      "translation": "Ki-di, ki-di-di-di, ki-di-di",
+      "grammar": "This interjection is an onomatopoeic expression imitating the sound of a repetitive rhythm or beat, often used to emphasize excitement or energy."
+    },
+    {
+      "time": 78.218,
+      "text": "Les armes nucléaires, comme en Corée",
+      "translation": "Nuclear weapons, like in Korea",
+      "grammar": "The phrase \"comme en Corée\" is an idiomatic expression used to convey a sense of similarity or analogy, rather than a literal comparison. It indicates that the situation described is comparable to one found in Korea."
+    },
+    {
+      "time": 80.431,
+      "text": "J'ai sorti le Famas, j'ai sorti le bazooka",
+      "translation": "I took out the Famas, I took out the bazooka",
+      "grammar": "The use of \"j'ai sorti\" twice in a row is an idiomatic expression meaning to take decisive action or make a bold move. The repeated \"j'ai sorti\" emphasizes the speaker's determination and confidence."
+    },
+    {
+      "time": 83.909,
+      "text": "Kalachnikov à côté de moi",
+      "translation": "Kalashnikov next to me",
+      "grammar": "The phrase \"à côté de\" is an idiomatic expression meaning \"next to\" or \"beside\", often used in informal settings. Note that the preposition \"de\" agrees with the masculine noun \"Kalachnikov\"."
+    },
+    {
+      "time": 85.806,
+      "text": "Ma chérie, non, ne panique pas",
+      "translation": "My darling, no, don't panic",
+      "grammar": "The imperative mood is used to convey a sense of urgency and direct address, with the verb \"panique\" (panic) in the negative form \"-ne\" emphasizing the prohibition. The phrase \"ne panique pas\" can be translated as \"don't panic\" or \"stay calm\"."
+    },
+    {
+      "time": 88.019,
+      "text": "Et j'ai aussi le U-Z-I (arr)",
+      "translation": "And I also have the U-Z-I (arr)",
+      "grammar": "The phrase \"j'ai\" is in the present perfect tense, indicating that the speaker has acquired the U-Z-I at some point in their life."
+    },
+    {
+      "time": 91.181,
+      "text": "J'ai trop mis mes lunettes, j'ai mal aux yeux (wouh)",
+      "translation": "I've been wearing my glasses too much, my eyes hurt (whoa)",
+      "grammar": "The phrase \"j'ai trop mis\" is an idiomatic expression indicating excessive or prolonged action in the past, using the imperfect tense to convey a sense of habituality."
+    },
+    {
+      "time": 95.291,
+      "text": "J'suis venu régler tous mes contentieux (wouh, wouh)",
+      "translation": "I came to settle all my disputes (whoo, whoo)",
+      "grammar": "The use of the verb \"suis\" in the phrase \"J'suis venu\" indicates the present perfect tense, emphasizing that the action of coming started before now and has a connection to the present. The interjection \"wouh, wouh\" is an expression of excitement or satisfaction."
+    },
+    {
+      "time": 98.453,
+      "text": "Sortez les armes à feu, on n'est pas du genre à s'faire menacer (jamais)",
+      "translation": "Get out the guns, we're not the type to be threatened (ever)",
+      "grammar": "The phrase \"on n'est pas du genre\" is an idiomatic expression meaning \"we're not the type\", using the formal \"on\" instead of the informal \"nous\" to emphasize the group's characteristics."
+    },
+    {
+      "time": 103.828,
+      "text": "Sortez les armes à feu, sortez les armes",
+      "translation": "Bring out the guns, bring out the guns",
+      "grammar": "The imperative verb \"sortez\" is in the second person plural form, addressing a group of people to take action. The repetition of the phrase emphasizes urgency and intensity."
+    },
+    {
+      "time": 106.674,
+      "text": "Sortez les armes à feu, sortez les armes",
+      "translation": "Bring out the guns, bring out the guns",
+      "grammar": "The imperative verb \"sortez\" is in the second person plural form, addressing multiple people to take action. The repetition of the phrase emphasizes urgency and intensity."
+    },
+    {
+      "time": 109.519,
+      "text": "Sortez-les aw, aw (sortez-les, aw, aw, aw",
+      "translation": "Bring them out, aw, aw (bring them out, aw, aw, aw",
+      "grammar": "The imperative verb \"sortez\" is in the second person plural (\"vous\") and is used to give an order to a group of people. The repeated \"aw\"s are interjections expressing excitement or enthusiasm."
+    },
+    {
+      "time": 112.681,
+      "text": "Brrr, aw (yeah)",
+      "translation": "Brrr, aw (yeah)",
+      "grammar": "This interjection \"Brrr\" is an onomatopoeic expression used to convey a sudden feeling of coldness or discomfort, while \"aw\" is an informal filler word similar to \"uh\" or \"um\", often used in spoken language."
+    },
+    {
+      "time": 113.946,
+      "text": "Brrr, aw (wouh), brrr, aw",
+      "translation": "Brrr, aw (whoa), brrr, aw",
+      "grammar": "The interjection \"aw\" is an expression of surprise or excitement, often used in informal speech. The repetition of \"brrr\" and \"aw\" creates a sense of emphasis and intensifies the emotional tone."
+    },
+    {
+      "time": 115.843,
+      "text": "Brrr, aw (wouh), brrr",
+      "translation": "Brrr, aw (whoa), brrr",
+      "grammar": "This interjection \"aw\" is an informal expression of surprise or excitement, often used in spoken English to convey a sense of amazement. The repetition of \"brrr\" emphasizes the speaker's strong emotional reaction."
+    },
+    {
+      "time": 117.424,
+      "text": "Charger, charger (eh)",
+      "translation": "Load, load (eh)",
+      "grammar": "The use of \"charger\" and \"load\" in this line is an idiom, where the verb \"to charge\" is used figuratively to mean \"to fill up\". The phrase \"charger, charger\" is repeated for emphasis."
+    },
+    {
+      "time": 118.688,
+      "text": "Charger, charger (yeah)",
+      "translation": "Load, load (yeah)",
+      "grammar": "This interjection \"charger\" is used to emphasize the idea of loading or filling up something, and its repetition creates a sense of urgency. The use of \"yeah\" after each instance adds enthusiasm and agreement."
+    },
+    {
+      "time": 119.953,
+      "text": "Charger, charger (wouh)",
+      "translation": "Charge, charge (whoa)",
+      "grammar": "This interjection \"Wouh\" is an expression of sudden realization or surprise, often used to emphasize the urgency of a situation."
+    },
+    {
+      "time": 121.218,
+      "text": "Charger, charger",
+      "translation": "Load, load",
+      "grammar": "This idiom uses the imperative mood to convey a sense of urgency and repetition, emphasizing the need to take action. The repeated verb \"charger\" (load) creates a sense of rhythm, mirroring the emotional intensity of the lyrics."
+    },
+    {
+      "time": 122.418,
+      "text": "Brrr, aw (wouh)",
+      "translation": "Brrr, aw (wouh)",
+      "grammar": "This interjection \"Brrr\" expresses sudden coldness or surprise, while \"aw\" is an informal expression of agreement or confirmation."
+    },
+    {
+      "time": 123.682,
+      "text": "Brrr, aw (wouh), brrr, (k-k-k-k-k-ki-di)",
+      "translation": "Brrr, aw (woah), brrr, (k-k-k-k-k-ki-di)",
+      "grammar": "The repeated \"brrr\" is an onomatopoeic expression indicating sudden coldness or shock, while the interjections \"aw\" and \"woah\" convey strong emotions like surprise or excitement."
+    },
+    {
+      "time": 127.477,
+      "text": "Brrr, aw (wouh), brrr",
+      "translation": "Brrr, aw (whoa), brrr",
+      "grammar": "This interjection uses the onomatopoeic word \"brrr\" to express sudden coldness or shock, while \"aw\" is an informal expression of surprise or excitement."
+    },
+    {
+      "time": 129.057,
+      "text": "Charger, charger (aw)",
+      "translation": "Charge, charge (aw)",
+      "grammar": "The repeated use of \"charger\" and the interjection \"aw\" creates an idiomatic expression emphasizing urgency or excitement. The imperative mood and present tense (\"charge\", \"charge\") convey a sense of immediate action."
+    },
+    {
+      "time": 130.322,
+      "text": "Charger, charger (aw)",
+      "translation": "Charge, charge (aw)",
+      "grammar": "The repeated imperative \"charger\" and \"charge\" is an idiomatic expression emphasizing urgency, similar to saying \"Hurry up!\" in English. The interjection \"aw\" adds a sense of exasperation or frustration."
+    },
+    {
+      "time": 131.587,
+      "text": "Charger, charger (aw)",
+      "translation": "Charge, charge (aw)",
+      "grammar": "The repeated phrase \"charger, charger\" is an idiomatic expression emphasizing urgency or insistence, similar to saying \"come on\" in English. The \"(aw)\" interjection adds a sense of excitement and encouragement."
+    },
+    {
+      "time": 132.851,
+      "text": "Charger, charger (aw, aw, aw, aw)",
+      "translation": "Load, load (aw, aw, aw, aw)",
+      "grammar": "The repeated imperative \"charger\" and \"load\" in the original French and English lyrics respectively is an example of a rhetorical device called anaphora, emphasizing the idea of continuous action. The use of \"aw\" interjections adds to the emotional intensity and rhythmic effect."
+    },
+    {
+      "time": 135.065,
+      "text": "Sortez les armes à feu, sortez les armes (wouh)",
+      "translation": "Bring out the guns, bring out the guns (whoa)",
+      "grammar": "The imperative verb \"sortez\" is in the plural form to address multiple people, and the phrase \"les armes à feu\" is an idiomatic expression meaning \"the guns\"."
+    },
+    {
+      "time": 138.226,
+      "text": "Sortez les armes à feu, sortez les armes (wouh)",
+      "translation": "Bring out the guns, bring out the guns (whoa)",
+      "grammar": "The imperative verb \"sortez\" is in the plural form to address multiple people, and the phrase \"les armes à feu\" is an idiomatic expression meaning \"the guns\"."
+    },
+    {
+      "time": 141.388,
+      "text": "Triangle de Babi, yeah (wouh)",
+      "translation": "Triangle de Babi, yeah (wouh)",
+      "grammar": "The phrase \"yeah\" is an interjection used to express enthusiasm or agreement, often in informal contexts. Its use here adds a casual tone to the lyric."
+    },
+    {
+      "time": 143.285,
+      "text": "Triangle de Babi, yeah (charger)",
+      "translation": "Babi triangle, yeah (load)",
+      "grammar": "The phrase \"yeah\" is an interjection used to express enthusiasm or agreement, often in informal contexts. The verb \"charger\" is in the imperative mood, giving a sense of urgency and instruction."
+    },
+    {
+      "time": 145.182,
+      "text": "Sortez les armes à feu, sortez les armes (wouh)",
+      "translation": "Bring out the guns, bring out the guns (whoa)",
+      "grammar": "The imperative verb \"sortez\" is in the present tense, used to give a direct order. The phrase \"bring out the guns\" is an idiom that means to take action or make something happen."
+    },
+    {
+      "time": 148.344,
+      "text": "Sortez les armes à feu, sortez les armes",
+      "translation": "Bring out the guns, bring out the guns",
+      "grammar": "The imperative verb \"sortez\" is in the plural form to address multiple people, and the repetition of the phrase emphasizes urgency."
+    },
+    {
+      "time": 151.19,
+      "text": "Triangle de Babi, yeah (charger)",
+      "translation": "Babi triangle, yeah (load)",
+      "grammar": "The phrase \"yeah\" is an interjection used to express enthusiasm or agreement, often in informal contexts. The verb \"charger\" is in the imperative mood, giving a sense of urgency and instruction."
+    },
+    {
+      "time": 153.087,
+      "text": "Triangle de Babi, yeah (arr, arr)",
+      "translation": "Babi triangle, yeah (arr, arr)",
+      "grammar": "The phrase \"yeah\" is an interjection used to express enthusiasm or agreement, often in informal settings. The repetition of \"yeah\" and \"arr, arr\" creates a playful, rhythmic effect, typical of spoken language and song lyrics."
+    }
+  ]
+}

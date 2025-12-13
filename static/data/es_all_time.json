@@ -1,0 +1,391 @@
+{
+  "id": "es_all_time",
+  "title": "ALL TIME",
+  "artist": "De La Rose",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_all_time.mp3",
+  "duration": 174,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 9.21540000000596,
+      "text": "Me la estoy pasando bien",
+      "translation": "I'm having a good time",
+      "grammar": "This phrase uses the present continuous tense (estoy) to describe an ongoing action, and the idiomatic expression \"pasar algo\" means \"to enjoy something\"."
+    },
+    {
+      "time": 11.911600000023842,
+      "text": "Los tragos son un extra",
+      "translation": "Drinks are an extra",
+      "grammar": "In this idiomatic expression, \"son\" is used to indicate that drinks are considered a bonus or added value, rather than being in the present tense. This usage of \"ser\" (to be) in the plural form with the subject \"tragos\" (drinks) creates a figurative meaning."
+    },
+    {
+      "time": 13.616600000023842,
+      "text": "Bellaqueo to el día",
+      "translation": "I'm a naughty girl all day long.",
+      "grammar": "The phrase \"Bellaqueo\" is an idiomatic expression, equivalent to saying \"I'm being bad\" or \"I'm misbehaving\", using the verb \"bellaquear\" in the present continuous tense."
+    },
+    {
+      "time": 15.8995,
+      "text": "Hoy no vamo a coger la siesta",
+      "translation": "We're not going to take a nap today.",
+      "grammar": "The phrase \"no vamo\" is an informal, colloquial way of saying \"we're not\" in the present tense, often used in spoken language among friends or family."
+    },
+    {
+      "time": 17.99930000001192,
+      "text": "¿Te acuerdas cuando chamaquito'",
+      "translation": "Do you remember when you were a little kid?",
+      "grammar": "The phrase \"¿Te acuerdas\" is an informal way of asking someone if they remember something, using the present tense to convey a sense of shared experience. The use of \"¿te\" instead of \"¿usted\" shows familiarity and friendliness in the tone."
+    },
+    {
+      "time": 19.87240000000596,
+      "text": "Bellaqueábamos por la web cam?",
+      "translation": "Did we bully on the web cam?",
+      "grammar": "The use of \"Bellaqueábamos\" is an informal, colloquial way to ask if someone was bullying or harassing others online, with a hint of irony and self-awareness. The verb tense indicates a past action, but the question still has a present connotation, as if seeking confirmation that this behavior occurred in the past and should not happen now."
+    },
+    {
+      "time": 23.0415,
+      "text": "Ahora es por el FaceTime",
+      "translation": "Now it's all about FaceTime",
+      "grammar": "This line uses the present tense (ahora) to express a sense of immediacy, emphasizing that the current focus is on using FaceTime."
+    },
+    {
+      "time": 24.95360000002384,
+      "text": "Eso es solo una muestra de que",
+      "translation": "That's just one example of that",
+      "grammar": "The verb \"es\" is in the present tense, indicating a general truth or fact. The phrase \"eso es\" can be translated as \"that is\" and implies a comparison between two things."
+    },
+    {
+      "time": 27.3085,
+      "text": "Llevamos tiempo en esto",
+      "translation": "We've been doing this for a while.",
+      "grammar": "The phrase \"llevamos\" is in the present perfect tense, indicating an action started in the past and continuing up to the present moment."
+    },
+    {
+      "time": 29.77280000001192,
+      "text": "Y el que falta",
+      "translation": "And the one that's missing",
+      "grammar": "This phrase uses the present participle \"falta\" to describe an ongoing or continuous action, emphasizing the idea of something being absent. The phrase \"el que\" is a common idiomatic expression in Spanish, equivalent to \"the one who\" in English."
+    },
+    {
+      "time": 32.05280000001192,
+      "text": "Conozco tanto tu cuerpo",
+      "translation": "I know your body so well",
+      "grammar": "The phrase \"tanto\" is an adverb indicating a high degree of familiarity, equivalent to \"so well\". It's used to express a strong sense of intimacy or knowledge."
+    },
+    {
+      "time": 34.387,
+      "text": "Que nunca me pierdo",
+      "translation": "That I never get lost",
+      "grammar": "This phrase uses the present tense to express a habitual or general truth, rather than describing a specific past or future event. The idiomatic expression \"nunca me\" emphasizes the speaker's personal experience and responsibility for not getting lost."
+    },
+    {
+      "time": 36.57890000000596,
+      "text": "Quédate",
+      "translation": "Stay",
+      "grammar": "This imperative verb \"Quédate\" is in the present tense, instructing someone to remain in a particular situation or location."
+    },
+    {
+      "time": 39.4525,
+      "text": "Como Quevedo y el Biza",
+      "translation": "Like Quevedo and Biza",
+      "grammar": "This phrase uses the idiomatic expression \"como\" to mean \"like\" or \"similarly\", rather than indicating a comparison of time."
+    },
+    {
+      "time": 41.7895,
+      "text": "Es que esta vida va deprisa",
+      "translation": "Life just goes by so fast.",
+      "grammar": "This phrase uses the informal expression \"es que\" to convey a sense of surprise or emphasis, equivalent to \"it's that\" in English. The verb \"va\" is in the present continuous tense, indicating an ongoing process."
+    },
+    {
+      "time": 44.97440000000596,
+      "text": "Te quiero aprovechar all day",
+      "translation": "I want to take advantage of you all day.",
+      "grammar": "The phrase \"te quiero\" is an idiomatic expression meaning \"to take advantage of\" rather than a literal declaration of love, and it's used in the present tense to convey a desire or intention."
+    },
+    {
+      "time": 46.74369999998808,
+      "text": "All night, all time",
+      "translation": "All night, all time",
+      "grammar": "This idiom emphasizes a sense of eternity or permanence, using the superlative forms \"all night\" and \"all time\" to convey an idea that is timeless. The phrase functions as an interjection, expressing a strong sentiment or conviction."
+    },
+    {
+      "time": 48.9945,
+      "text": "No te comparto, yo te quiero pa mí",
+      "translation": "I don't share you, I want you for myself",
+      "grammar": "The phrase \"pa mí\" is an idiomatic expression indicating possession or ownership, equivalent to \"for myself\" in English."
+    },
+    {
+      "time": 52.20059999999404,
+      "text": "Escondío en un hotel de Miami",
+      "translation": "Hiding in a Miami hotel",
+      "grammar": "The verb \"escondío\" is in the present tense, indicating a habitual or general action of hiding. The phrase \"en un hotel de Miami\" functions as an adverbial clause, providing context for where the speaker is hiding."
+    },
+    {
+      "time": 54.350099999994036,
+      "text": "Quiero aprovechar all day",
+      "translation": "I want to take advantage of the whole day",
+      "grammar": "This line uses the present tense and the verb \"querer\" (to want) in its infinitive form, which is a common way to express desire or intention. The phrase \"all day\" is an idiom that means the entire day, rather than just part of it."
+    },
+    {
+      "time": 57.317,
+      "text": "All night, all time",
+      "translation": "All night, all time",
+      "grammar": "This idiomatic phrase uses the present continuous tense to convey a sense of duration and emphasizes the idea that something is happening or true at any point in time."
+    },
+    {
+      "time": 60.12469999998808,
+      "text": "Besito a besito",
+      "translation": "Little kiss by little kiss",
+      "grammar": "This idiom uses the verb \"besito\" in the imperative mood, emphasizing the gradual and intimate nature of giving kisses. The repetition of \"a besito\" creates a sense of tender closeness."
+    },
+    {
+      "time": 62.018900000005964,
+      "text": "Despacito te quiero saborear",
+      "translation": "I want to savor you slowly",
+      "grammar": "The verb \"quiero\" is in the present tense, indicating a desire or intention, and the phrase \"te quiero\" is an idiomatic expression meaning \"to love someone\"."
+    },
+    {
+      "time": 64.33,
+      "text": "Me compré un pasaje",
+      "translation": "I bought a ticket",
+      "grammar": "The phrase \"Me compré\" is an idiomatic expression in Spanish, where \"me\" is used as a reflexive pronoun to indicate the subject's action of buying themselves a ticket. This construction is equivalent to saying \"I bought myself a ticket\"."
+    },
+    {
+      "time": 67.3865,
+      "text": "Y el destino es tu cuerpo",
+      "translation": "And your body is your destination",
+      "grammar": "This idiomatic phrase uses the verb \"ser\" in the present tense to convey a sense of inherent truth, rather than describing a specific event or action. The phrase also employs a metaphorical comparison between one's physical body and their ultimate goal or purpose."
+    },
+    {
+      "time": 69.62059999999404,
+      "text": "Pa estar solo' y cerquita",
+      "translation": "To be alone and close by",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of habit or tendency, rather than a specific moment in time. The phrase \"pa estar\" is an informal way of saying \"to be\" in this context."
+    },
+    {
+      "time": 71.64019999998808,
+      "text": "Y bellaquear como hicimo por texto",
+      "translation": "And to get up to mischief like we did through text.",
+      "grammar": "The phrase \"bellaquear como hicimo\" uses the verb \"bellaquear\" in the present tense, implying a habitual or customary action, and \"hicimos\" is used instead of \"hicimos por texto\" to emphasize the shared experience."
+    },
+    {
+      "time": 73.82059999999404,
+      "text": "Baby",
+      "translation": "Baby",
+      "grammar": "This interjection \"Baby\" is used to express affection or endearment, often in informal settings. It can be translated literally as \"Baby\", but its usage is idiomatic and conveys a sense of closeness or familiarity."
+    },
+    {
+      "time": 74.97869999998808,
+      "text": "Quiero verte en la morning",
+      "translation": "I want to see you in the morning",
+      "grammar": "The phrase \"quiero verte\" is an idiomatic expression, where \"verte\" means \"to see\" but is used as a colloquial way of saying \"to meet up with someone\". The verb \"querer\" is in the present tense, indicating a desire or intention."
+    },
+    {
+      "time": 77.1035,
+      "text": "Siempre me levanto horny",
+      "translation": "I always wake up horny",
+      "grammar": "This line uses the present tense to describe a habitual action, and the idiom \"levanto horny\" is an informal way of saying that someone wakes up with sexual desire."
+    },
+    {
+      "time": 79.49869999998808,
+      "text": "Tú me resuelve', no me dejas waiting",
+      "translation": "You solve my problems, don't leave me waiting",
+      "grammar": "The phrase \"me resuelve\" uses the informal \"tú\" form to express a close relationship between the speaker and the person solving their problems. This is an example of direct address, where the speaker addresses someone directly using the pronoun \"tú\"."
+    },
+    {
+      "time": 81.72890000000596,
+      "text": "Bien escandoloso, va a llegar la poli",
+      "translation": "That's really scandalous, the police are coming.",
+      "grammar": "The phrase \"va a llegar\" is an idiomatic expression indicating future action, equivalent to \"is going to arrive\" in English."
+    },
+    {
+      "time": 83.82180000001192,
+      "text": "Me mojo rápido, la tengo touchy",
+      "translation": "I get wet quickly, I'm touchy.",
+      "grammar": "The phrase \"me mojo rápido\" is an idiomatic expression that uses the verb \"mojo\" (get wet) in the present tense to describe a habitual or frequent action."
+    },
+    {
+      "time": 86.0575,
+      "text": "Chingamo rico, afuera está rainy",
+      "translation": "Chingamo rico, afuera está rainy",
+      "grammar": "This line uses the present tense to describe a situation that is currently happening, with \"está\" indicating continuous or ongoing action. The phrase \"afuera está rainy\" is an idiomatic expression equivalent to \"it's raining outside\"."
+    },
+    {
+      "time": 88.1445,
+      "text": "Tamo mezclando trago' con la honey",
+      "translation": "Tamo mezclando trago' con la honey",
+      "grammar": "The phrase \"tamo\" is an informal, colloquial expression used to indicate simultaneous action or mixing, similar to \"at the same time\" or \"together\". The use of \"tamo\" implies a relaxed, casual tone."
+    },
+    {
+      "time": 90.77090000000597,
+      "text": "Seguimo dándole al mmm, mmm, mmm, mmm",
+      "translation": "We keep going with the mmm, mmm, mmm, mmm",
+      "grammar": "This line uses the present continuous tense (segui-mo) to convey a sense of ongoing action, and the repeated \"mmm\" is an idiomatic expression used to emphasize enthusiasm or excitement."
+    },
+    {
+      "time": 94.35090000000596,
+      "text": "Dándole, dándole",
+      "translation": "Giving it, giving it",
+      "grammar": "This idiomatic phrase uses the present continuous tense to convey a sense of ongoing or repeated action, emphasizing the idea of constantly giving something."
+    },
+    {
+      "time": 95.65130000001191,
+      "text": "Pero con to, to, to, to",
+      "translation": "But with to, to, to, to",
+      "grammar": "This line illustrates the use of repetition and emphasis through the idiom \"con to\" (with to), which is a common way to express agreement or confirmation in informal conversations. The repeated \"to\"s also convey a sense of urgency or insistence."
+    },
+    {
+      "time": 99.00069999998809,
+      "text": "Tú abajo y yo arriba",
+      "translation": "You down below and me up above",
+      "grammar": "This line illustrates a common idiomatic expression in Spanish, where the verb agrees with the subject pronoun in the plural form (tú) even though it's referring to two people. This is because tú is an informal singular pronoun used among friends or family, rather than the formal singular vosotros."
+    },
+    {
+      "time": 100.54980000001193,
+      "text": "Baby, on top, top, top, top",
+      "translation": "Baby, on top, top, top, top",
+      "grammar": "This line uses the present participle (-ing) form of the verb \"be\" to describe a state or condition (on top), creating an idiomatic expression that emphasizes being in a dominant position."
+    },
+    {
+      "time": 103.335,
+      "text": "Yo sé que no olvidas",
+      "translation": "I know you don't forget",
+      "grammar": "The phrase \"Yo sé\" is an informal way to express certainty, using the first person singular subject pronoun \"yo\" instead of the more formal \"yo sé\" or \"conozco\". This construction is common in spoken Spanish and adds a sense of intimacy to the statement."
+    },
+    {
+      "time": 105.621,
+      "text": "Lo nuestro no se enfría",
+      "translation": "What we have doesn't cool down",
+      "grammar": "The phrase \"Lo nuestro\" is an idiomatic expression meaning \"what belongs to us\" or \"our thing\", using the possessive adjective \"nuestro\" to indicate a shared experience."
+    },
+    {
+      "time": 108.53069999998807,
+      "text": "Me falta el aire",
+      "translation": "I'm short of breath",
+      "grammar": "This idiomatic expression uses the verb \"falta\" in the present tense, indicating a current lack or shortage, rather than a physical absence. The phrase is an informal way to express feeling out of breath or exhausted."
+    },
+    {
+      "time": 110.79909999999404,
+      "text": "Llevamos tiempo en esto",
+      "translation": "We've been doing this for a while.",
+      "grammar": "The phrase \"llevamos\" is in the present perfect tense, indicating an action started in the past and continuing up to the present moment."
+    },
+    {
+      "time": 112.0785,
+      "text": "Y el que falta",
+      "translation": "And the one that's missing",
+      "grammar": "The phrase \"y el que falta\" uses the present participle \"falta\" to convey a sense of ongoing or continuous action, emphasizing the idea that something is still lacking."
+    },
+    {
+      "time": 114.74359999999405,
+      "text": "Conozco tanto tu cuerpo",
+      "translation": "I know your body so well",
+      "grammar": "The phrase \"tanto\" is an adverb indicating a high degree of familiarity, equivalent to \"so well\" in English. It's used to express a strong emotional connection or intimacy, often with a romantic connotation."
+    },
+    {
+      "time": 117.17459999999404,
+      "text": "Que nunca me pierdo",
+      "translation": "That I never get lost",
+      "grammar": "This phrase uses the present tense to express a habitual or general truth, rather than describing a specific past or future event. The idiom \"nunca me pierdo\" is equivalent to \"I always know where I'm going\" in English, emphasizing the speaker's sense of direction and confidence."
+    },
+    {
+      "time": 118.92959999999404,
+      "text": "Quédate",
+      "translation": "Stay",
+      "grammar": "This imperative verb \"Quédate\" is in the present tense, instructing someone to remain in a particular situation or location."
+    },
+    {
+      "time": 121.716,
+      "text": "Como Quevedo y el Biza",
+      "translation": "Like Quevedo and Biza",
+      "grammar": "This phrase uses a common Spanish idiom \"como\" meaning \"like\" or \"similar to\", which is often used to compare two people or things. It's translated literally in English, but the idiom is not directly translatable, as it relies on cultural context and shared knowledge of Quevedo and Biza."
+    },
+    {
+      "time": 124.078,
+      "text": "Es que esta vida va deprisa",
+      "translation": "Life just goes by so fast.",
+      "grammar": "This phrase uses the informal expression \"es que\" to emphasize the speaker's point, equivalent to saying \"it's that\" or \"the thing is\". The verb \"va deprisa\" is in the present continuous tense, conveying a sense of ongoing rapid passage of time."
+    },
+    {
+      "time": 127.30169999998807,
+      "text": "Te quiero aprovechar all day",
+      "translation": "I want to take advantage of you all day.",
+      "grammar": "This line uses the informal verb phrase \"te quiero\" (literally \"I love you\") as an idiomatic expression meaning \"to take advantage of someone\". The speaker's intention is not romantic, but rather manipulative."
+    },
+    {
+      "time": 130.74940000000595,
+      "text": "All night, all time",
+      "translation": "All night, all time",
+      "grammar": "This idiomatic phrase uses the present continuous tense to convey a sense of universality and eternity, emphasizing that something is true at any moment in time."
+    },
+    {
+      "time": 132.873,
+      "text": "No te comparto, yo te quiero pa mí",
+      "translation": "I don't share you, I want you for myself",
+      "grammar": "The phrase \"pa mí\" is an idiomatic expression indicating possession or ownership, similar to \"for me\" in English. It's used to emphasize the speaker's exclusive desire for someone."
+    },
+    {
+      "time": 134.6796999999881,
+      "text": "Escondío en un hotel de Miami",
+      "translation": "Hiding in a Miami hotel",
+      "grammar": "The verb \"escondío\" is in the present tense, indicating a habitual or general action of hiding. The phrase \"en un hotel de Miami\" functions as an adverbial clause, specifying the location where this action takes place."
+    },
+    {
+      "time": 136.74659999999403,
+      "text": "Quiero aprovechar all day",
+      "translation": "I want to take advantage of the whole day",
+      "grammar": "This phrase uses the present tense and the verb \"querer\" (to want) in its infinitive form, indicating a desire or intention. The idiom \"aprovechar\" means to make the most of something, which is often used with the adverb \"todo el día\" (all day) to express enthusiasm for an activity."
+    },
+    {
+      "time": 139.00469999998808,
+      "text": "All night, all time",
+      "translation": "All night, all time",
+      "grammar": "This idiomatic phrase uses the present continuous tense to convey a sense of duration and universality, implying that something is happening or true at any moment."
+    },
+    {
+      "time": 142.35890000000597,
+      "text": "Besito a besito",
+      "translation": "Little kiss by little kiss",
+      "grammar": "This line uses the idiomatic expression \"besito a besito\" to convey a gradual or repeated action, equivalent to \"little by little\" in English. The verb \"besito\" is in the infinitive form and functions as an adverbial phrase indicating the manner of the action."
+    },
+    {
+      "time": 144.207,
+      "text": "Despacito te quiero saborear",
+      "translation": "I want to savor you slowly",
+      "grammar": "The verb \"quiero\" is in the present tense, indicating a desire or intention, and the phrase \"saborear\" is an idiom meaning to enjoy or appreciate something thoroughly."
+    },
+    {
+      "time": 155.9058000000119,
+      "text": "Llevamos tiempo en esto",
+      "translation": "We've been doing this for a while.",
+      "grammar": "The phrase \"llevamos\" is in the present perfect tense, indicating that the action started in the past and continues up to the present moment. This construction is often used to express duration or elapsed time, similar to English phrases like \"we've been doing something for a while\"."
+    },
+    {
+      "time": 157.79209999999404,
+      "text": "Y el que falta",
+      "translation": "And the one that's missing",
+      "grammar": "This phrase uses the present participle \"falta\" to describe an ongoing or continuous action, emphasizing the idea of something being absent. The use of \"que\" before \"falta\" is a common idiomatic expression in Spanish, equivalent to saying \"the one who is missing\"."
+    },
+    {
+      "time": 160.14970000001787,
+      "text": "Conozco tanto tu cuerpo",
+      "translation": "I know your body so well",
+      "grammar": "The phrase \"tanto\" is an adverb indicating a high degree of familiarity, equivalent to \"so well\" in English. It's used to emphasize the speaker's intimate knowledge of the person's physical appearance."
+    },
+    {
+      "time": 162.50040000000595,
+      "text": "Que nunca me pierdo",
+      "translation": "That I never get lost",
+      "grammar": "This phrase uses the present tense to express a habitual or general truth, rather than describing a specific past or future event. The idiomatic expression \"nunca me\" emphasizes the speaker's personal experience and responsibility for not getting lost."
+    },
+    {
+      "time": 164.53959999999404,
+      "text": "Quédate",
+      "translation": "Stay",
+      "grammar": "This imperative verb \"Quédate\" is in the present tense, instructing someone to remain or stay, and uses a colloquial tone."
+    }
+  ]
+}

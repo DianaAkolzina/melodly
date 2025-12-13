@@ -1,0 +1,253 @@
+{
+  "id": "lv_es_skrienu",
+  "title": "Es skrienu",
+  "artist": "Lauris Reiniks",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "lv",
+  "to_language": "en",
+  "audio": "/audio/lv_es_skrienu.mp3",
+  "duration": 185,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 8.54380000001192,
+      "text": "Man galva kūp, zeme deg, rokas trīc",
+      "translation": "My head is burning, the ground is burning, my hands are shaking",
+      "grammar": "This line uses the present continuous tense to convey a sense of intense emotional experience, with \"galva\" and \"deg\" emphasizing the urgency of the situation. The idiomatic expression \"kūp\", \"zeme\", and \"rokas\" creates a vivid image of chaos and panic."
+    },
+    {
+      "time": 12.072700000017882,
+      "text": "Pēdas man svilst",
+      "translation": "My feet are burning.",
+      "grammar": "The verb \"svilst\" is in the present tense, describing a current state of physical discomfort, and the idiom \"pēdas\" (feet) is used to convey intense emotional pain."
+    },
+    {
+      "time": 16.33480000001192,
+      "text": "Es traucos tevi vēlreiz apraudzīt",
+      "translation": "I'm anxious to see you again.",
+      "grammar": "The verb \"apraudzīt\" is in the present tense, indicating a future action, which is an example of the futurate sense of the present tense. This construction is common in Latvian and implies a strong desire or eagerness to do something."
+    },
+    {
+      "time": 20.08690000000596,
+      "text": "Pirms trauki plīst",
+      "translation": "Before the dishes break",
+      "grammar": "The phrase \"pirms\" is a preposition indicating time, functioning as a temporal adverb in the subordinate clause, equivalent to \"before\" in English."
+    },
+    {
+      "time": 24.33509999999404,
+      "text": "Kurstojums vai vējš",
+      "translation": "Arson or wind",
+      "grammar": "This idiomatic phrase uses a metaphorical comparison between two possible causes of destruction, highlighting the speaker's uncertainty and ambiguity."
+    },
+    {
+      "time": 26.01630000001192,
+      "text": "Sekundes tie dzēš",
+      "translation": "They erase seconds",
+      "grammar": "The phrase \"dzēš\" is in the imperative mood, indicating a command or instruction. Note that the verb \"dzēš\" is in the second person plural form, agreeing with the pronoun \"tie\"."
+    },
+    {
+      "time": 28.04530000001192,
+      "text": "Pulsē un elš",
+      "translation": "Pulsating and panting",
+      "grammar": "The verb \"pulset\" is in the present participle form, indicating ongoing action. The phrase \"un elš\" can be translated as \"and panting\", using the idiomatic expression to convey a sense of intense physical activity."
+    },
+    {
+      "time": 32.02879999998212,
+      "text": "Viena tu vai bars",
+      "translation": "Alone or a pack?",
+      "grammar": "This idiomatic phrase uses the present tense to convey a sense of flexibility, suggesting that the speaker is open to either solitary activity (alone) or socializing with others (in a pack)."
+    },
+    {
+      "time": 33.974699999988076,
+      "text": "Mani neapzags",
+      "translation": "I will not be robbed.",
+      "grammar": "The phrase \"neapzags\" is in the future tense, indicating a promise or intention to avoid being robbed."
+    },
+    {
+      "time": 36.06,
+      "text": "Gaidītā nakts",
+      "translation": "The long-awaited night",
+      "grammar": "In Latvian, \"gaidītā\" is a feminine noun in the accusative case, agreeing with \"nakts\" in number and grammatical gender. The phrase expresses anticipation or expectation of an event, similar to the English idiom \"the long-awaited [event]\"."
+    },
+    {
+      "time": 39.46359999999404,
+      "text": "Un es skrienu, skrienu vēl, man vēl jāpaspēj",
+      "translation": "And I'm running, I'm still running, I still have time",
+      "grammar": "The verb \"es\" is in the present continuous tense, emphasizing the ongoing action of running. The phrase \"vēl\" is an adverb meaning \"still\" or \"yet\", indicating that the speaker has not finished their task."
+    },
+    {
+      "time": 44.09809999999404,
+      "text": "Pirms tu neaizej, gaidi vēl",
+      "translation": "Before you leave, wait a little longer.",
+      "grammar": "The phrase \"pirms\" is an adverb indicating the past tense and expressing a condition or circumstance preceding the main action. It is often translated as \"before\" in English."
+    },
+    {
+      "time": 47.41379999998212,
+      "text": "Tāpēc dejo, dejo vēl, man vēl jāpaspēj,",
+      "translation": "So dance, dance some more, I still have time,",
+      "grammar": "The verb \"dejo\" is in the imperative mood, instructing someone to perform an action. The phrase \"man vēl jāpaspēj\" uses the present tense to express a condition that is currently true."
+    },
+    {
+      "time": 52.06729999998212,
+      "text": "Vēl jau nav, tik vēls, būšu klāt",
+      "translation": "Not yet, it's too late, I'll be there",
+      "grammar": "The phrase \"vēl jau nav\" is an idiomatic expression indicating a sense of urgency or impending deadline, often translated as \"not yet\" but conveying the idea that time is running out."
+    },
+    {
+      "time": 55.49440000000596,
+      "text": "Tā kā cēls, dīvains tēls",
+      "translation": "Because a noble, strange image",
+      "grammar": "The phrase \"tā kā\" is an idiomatic expression used to introduce a reason or explanation, equivalent to \"because\" in English. The sentence uses the present tense to describe a general truth or a timeless situation."
+    },
+    {
+      "time": 63.02979999998212,
+      "text": "Man tāds tēls",
+      "translation": "I have such an image.",
+      "grammar": "The phrase \"Man tāds tēls\" is in the present perfect tense, indicating that the speaker has formed a mental image at some point in the past and it continues to be relevant now. The word \"man\" is an idiomatic expression meaning \"I have\" or \"I've got\"."
+    },
+    {
+      "time": 71.98079999998212,
+      "text": "Tā nu es steidzos, bet laika vairs nav",
+      "translation": "So I'm in a hurry, but there's no time left",
+      "grammar": "The phrase \"laika vairs nav\" is an idiom translating to \"there's no time left\", where \"vairs\" is a negation particle and \"nav\" means \"time\". The sentence uses the present continuous tense (\"es steidzos\") to convey a sense of urgency."
+    },
+    {
+      "time": 75.637,
+      "text": "Pēdas man svilst",
+      "translation": "My feet are burning.",
+      "grammar": "The phrase \"svilst\" is an idiomatic expression meaning \"to burn with excitement or anticipation\", rather than a literal description of physical burning. It's used to convey strong emotional experience in the present moment, often in the context of eagerness or impatience."
+    },
+    {
+      "time": 80.25069999998809,
+      "text": "Es dodos ceļā kaut kur pierādīt",
+      "translation": "I'm going somewhere to prove something.",
+      "grammar": "The phrase \"es dodos\" is a colloquial way of saying \"I'm going\" in the present continuous tense, with \"dodos\" implying movement or action. The sentence as a whole uses the idiomatic expression \"pierādīt\" which roughly translates to \"to prove something\", conveying a sense of determination or purpose."
+    },
+    {
+      "time": 84.41429999998212,
+      "text": "Tev jāpiekrīt",
+      "translation": "You must agree.",
+      "grammar": "The verb \"jāpiekrīt\" is in the imperative mood, indicating a command or instruction. The phrase \"Tev\" is an object pronoun agreeing with the subject \"you\"."
+    },
+    {
+      "time": 88.16169999998807,
+      "text": "Pēdas, pēdas, paliek pagātnē",
+      "translation": "Footprints, footprints, remain in the past",
+      "grammar": "The phrase \"pēdas, pēdas\" is an idiom, where the repetition of \"pēdas\" (footprints) emphasizes the idea that the past has a lasting impact. The verb \"paliek\" is in the third person singular present tense, indicating a general truth about the past's lingering effects."
+    },
+    {
+      "time": 91.74119999998808,
+      "text": "Man tās vēl jānosvēt",
+      "translation": "I still have to consecrate them.",
+      "grammar": "The verb \"jānosvēt\" is in the present imperative mood, indicating a sense of obligation or necessity. The pronoun \"tās\" agrees with the plural noun \"them\"."
+    },
+    {
+      "time": 95.938,
+      "text": "Tur, kur tavas acis saldi smej",
+      "translation": "Where your eyes smile sweetly",
+      "grammar": "The phrase \"tavas acis\" uses the idiomatic expression of personification, where one's eyes are said to \"smile\", conveying a sense of warmth and affection."
+    },
+    {
+      "time": 99.50259999999403,
+      "text": "Prasa, kur esi tu",
+      "translation": "Asking where you are",
+      "grammar": "The phrase \"Prasa, kur esi tu\" is an informal way of asking someone's location in Latvian, using the present continuous tense (esi) to convey a sense of inquiry. The word order and particle \"tu\" indicate direct address."
+    },
+    {
+      "time": 103.50129999998212,
+      "text": "Un es skrienu, skrienu vēl, man vēl jāpaspēj",
+      "translation": "And I'm running, I'm still running, I still have time",
+      "grammar": "The verb \"es\" is in the present continuous tense, emphasizing the ongoing action of running. The repeated use of \"skrienu\" and \"vēl\" (still) creates a sense of urgency and emphasizes the speaker's determination to keep going."
+    },
+    {
+      "time": 108.124,
+      "text": "Pirms tu neaizej, gaidi vēl",
+      "translation": "Before you leave, wait a little longer.",
+      "grammar": "The phrase \"pirms\" is used to indicate time before an action in the past, expressing a sense of urgency or caution. It can be translated as \"before\" in English, and its usage implies a sense of hesitation or reluctance."
+    },
+    {
+      "time": 111.22569999998808,
+      "text": "Tāpēc dejo, dejo vēl, man vēl jāpaspēj,",
+      "translation": "So dance, dance some more, I still have time,",
+      "grammar": "The verb \"dejo\" is in the imperative mood, used to give a command or make a request. The phrase \"man vēl jāpaspēj\" uses the adverb \"vēl\" to indicate that there is still time available."
+    },
+    {
+      "time": 115.99190000000596,
+      "text": "Vēl jau nav, tik vēls, būšu klāt",
+      "translation": "Not yet, it's too late, I'll be there",
+      "grammar": "The phrase \"vēl jau nav\" is an idiomatic expression indicating that something has not happened yet, but the speaker implies it might be too late. The verb \"būšu\" is in the future tense, expressing the speaker's intention to arrive on time."
+    },
+    {
+      "time": 119.24419999998808,
+      "text": "Tā kā cēls, dīvains tēls",
+      "translation": "Because a noble, strange image",
+      "grammar": "The phrase \"tā kā\" is an idiomatic expression used to introduce a reason or explanation, equivalent to \"because\" in English."
+    },
+    {
+      "time": 127.011,
+      "text": "Man tāds tēls",
+      "translation": "I have such an image.",
+      "grammar": "The phrase \"man\" is used as a first-person singular pronoun in the present perfect tense, indicating that the speaker has had this image for some time."
+    },
+    {
+      "time": 135.9875,
+      "text": "Skrienu, skrienu vēl, man vēl jāpaspēj, dejo, dejo vēl",
+      "translation": "I'm running, I'm still running, I still have time, I'm dancing, I'm still dancing",
+      "grammar": "The repeated use of \"vēl\" (still) emphasizes the ongoing action in the present continuous tense, indicating that the speaker is persisting with their activities."
+    },
+    {
+      "time": 144.815,
+      "text": "Un es skrienu, skrienu vēl, man vēl jāpaspēj",
+      "translation": "And I'm running, I'm still running, I still have time",
+      "grammar": "The verb \"es\" is in the present continuous tense, emphasizing the ongoing action of running. The phrase \"man vēl jāpaspēj\" uses the idiomatic expression \"vēl\" to convey that there's still time left."
+    },
+    {
+      "time": 148.025,
+      "text": "Pirms tu neaizej, gaidi vēl",
+      "translation": "Before you leave, wait a little longer.",
+      "grammar": "The phrase \"pirms\" is used to indicate the past time before the main action, which is equivalent to English's \"before\" in the past tense. The idiom \"neaizej\" means \"to leave\" but is often used to express reluctance or hesitation."
+    },
+    {
+      "time": 151.01290000000597,
+      "text": "Tāpēc dejo, dejo vēl, man vēl jāpaspēj,",
+      "translation": "So dance, dance some more, I still have time,",
+      "grammar": "The verb \"dejo\" is in the imperative mood, used to give a command or make a request. The phrase \"man vēl jāpaspēj\" uses the adverb \"vēl\" to indicate that there's still time left, emphasizing the speaker's willingness to continue dancing."
+    },
+    {
+      "time": 155.97090000000597,
+      "text": "Vēl jau nav, tik vēls, būšu klāt",
+      "translation": "Not yet, it's too late, I'll be there",
+      "grammar": "The phrase \"vēl jau nav\" is an idiomatic expression indicating that something has not happened yet, but the speaker implies it might already be too late. The use of \"būšu\" instead of \"esmu\" (I am) creates a sense of future uncertainty."
+    },
+    {
+      "time": 159.16629999998213,
+      "text": "Un es skrienu, skrienu vēl, man vēl jāpaspēj",
+      "translation": "And I'm running, I'm still running, I still have time",
+      "grammar": "The verb \"es\" is in the present continuous tense, emphasizing the ongoing action of running. The repeated use of \"skrienu\" and \"vēl\" creates a sense of urgency and emphasizes the speaker's determination to keep going."
+    },
+    {
+      "time": 163.6005,
+      "text": "Pirms tu neaizej, gaidi vēl",
+      "translation": "Before you leave, wait a little longer.",
+      "grammar": "The phrase \"pirms\" is used to indicate time before an action in the past, expressing a sense of urgency or caution. The idiom \"neaizej\" means \"to leave\" but implies a more permanent departure, emphasizing the importance of waiting."
+    },
+    {
+      "time": 167.266,
+      "text": "Tāpēc dejo, dejo vēl, man vēl jāpaspēj,",
+      "translation": "So dance, dance some more, I still have time,",
+      "grammar": "The verb \"dejo\" is in the imperative mood, instructing someone to perform an action. The phrase \"man vēl jāpaspēj\" uses the first-person singular pronoun \"man\" and the adverb \"vēl\", indicating that the speaker still has time to continue dancing."
+    },
+    {
+      "time": 172.544,
+      "text": "Vēl jau nav, tik vēls, būšu klāt",
+      "translation": "Not yet, it's too late, I'll be there",
+      "grammar": "The phrase \"vēl jau\" is an idiomatic expression indicating a sense of urgency or sudden realization, often translated as \"not yet\" but implying a strong sense of \"it's already too late\"."
+    },
+    {
+      "time": 174.98890000000597,
+      "text": "Tā kā cēls",
+      "translation": "Because noble",
+      "grammar": "The phrase \"tā\" is a pronoun indicating the subject of the sentence, and \"kā\" is an idiomatic expression meaning \"because\"."
+    }
+  ]
+}

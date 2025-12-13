@@ -1,0 +1,283 @@
+{
+  "id": "fr_tes_cts_nma_2025_live_version",
+  "title": "À tes côtés (NMA 2025 – Live Version)",
+  "artist": "Jungeli",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_tes_cts_nma_2025_live_version.mp3",
+  "duration": 165,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Si je m'attache au temps qui court",
+      "translation": "If I focus on the time that is passing",
+      "grammar": "The phrase \"au temps qui court\" is an idiomatic expression indicating a sense of urgency or fleeting nature, equivalent to English \"as things stand\" or \"in the present situation\". The verb \"attache\" is in the present tense, emphasizing the speaker's current focus."
+    },
+    {
+      "time": 3.77,
+      "text": "Si demain m'appelait au secours",
+      "translation": "If tomorrow he called me for help",
+      "grammar": "The phrase \"demain\" is used to express a hypothetical or uncertain future, equivalent to the English expression \"if tomorrow\"."
+    },
+    {
+      "time": 6.672,
+      "text": "Si mon cœur devient même lourd pour toi",
+      "translation": "If my heart even becomes heavy for you",
+      "grammar": "The phrase \"devient même\" is an idiomatic expression indicating a hypothetical or potential situation, rather than a literal prediction. The use of the present tense \"devient\" implies a future possibility or consequence."
+    },
+    {
+      "time": 10.442,
+      "text": "Je resterai pour toujours",
+      "translation": "I will stay forever",
+      "grammar": "The phrase \"je resterai\" is in the future tense, indicating a commitment or promise to stay. The idiomatic expression \"pour toujours\" means \"forever\" and emphasizes the duration of staying."
+    },
+    {
+      "time": 12.477,
+      "text": "L'horloge tourne autour de moi",
+      "translation": "The clock revolves around me",
+      "grammar": "This idiomatic expression uses the present continuous tense (tourne) to convey a sense of circular motion, emphasizing the clock's constant movement around the speaker."
+    },
+    {
+      "time": 15.379,
+      "text": "Tout est rose autour de toi",
+      "translation": "Everything is rosy around you",
+      "grammar": "The phrase \"Tout est rose\" is an idiomatic expression that conveys a sense of everything being fine or going well, using the metaphorical concept of roses to describe a pleasant situation."
+    },
+    {
+      "time": 18.281,
+      "text": "Les étoiles défilent autour de nous",
+      "translation": "The stars are passing around us",
+      "grammar": "This sentence uses the present continuous tense to convey a sense of ongoing action, emphasizing the dynamic movement of the stars. The phrase \"autour de nous\" is an idiomatic expression meaning \"around us\"."
+    },
+    {
+      "time": 21.183,
+      "text": "J'suis côté de l'est à l'ouest",
+      "translation": "I'm on the east coast, on the west coast",
+      "grammar": "The phrase \"J'suis\" is an informal way of saying \"I am\" in French, using the contraction of \"je suis\". This construction is used to express a sense of movement or action, and is often translated as \"I'm\" in English."
+    },
+    {
+      "time": 25.387,
+      "text": "Sur tes qualités, je peux compter",
+      "translation": "I can count on your qualities.",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of reliability and trustworthiness, implying that the speaker has confidence in the person's abilities."
+    },
+    {
+      "time": 28.289,
+      "text": "Jamais j'retournerai ma veste",
+      "translation": "I will never change my tune",
+      "grammar": "The phrase \"j'returnerai\" is a future negation of the verb \"retourner\", emphasizing the speaker's determination to maintain their stance, similar to the English idiom \"I'll never back down\"."
+    },
+    {
+      "time": 30.758,
+      "text": "Ma vie, j'veux la passer à t'écouter",
+      "translation": "I want to spend my life listening to you.",
+      "grammar": "The phrase \"j'veux\" is an informal way of saying \"I want\" in the present tense, using the contraction of \"je veux\". This construction is commonly used in spoken French and is equivalent to the formal \"Je veux\" in written or more formal contexts."
+    },
+    {
+      "time": 34.961,
+      "text": "J'te lirai matin et soir, s'il le faut",
+      "translation": "I'll read to you morning and night, if necessary.",
+      "grammar": "The phrase \"J'te\" is a informal way of saying \"I'll tell you\" or \"I'll let you know\", using the informal \"tu\" form and the contraction \"j'\" instead of \"je\"."
+    },
+    {
+      "time": 39.598,
+      "text": "Et même jusqu'à tard, s'il le faut (eh-eh)",
+      "translation": "And even until late, if necessary (eh-eh)",
+      "grammar": "The phrase \"s'il le faut\" is an idiomatic expression meaning \"if necessary\", used to emphasize the speaker's willingness to do something. The verb \"faut\" is in the subjunctive mood, indicating a hypothetical or uncertain situation."
+    },
+    {
+      "time": 44.669,
+      "text": "Nan, le temps, le temps ne pourra rien changer",
+      "translation": "No, time, time won't change anything.",
+      "grammar": "The phrase \"le temps ne pourra\" is in the future tense, indicating that no matter what happens in the future, it will not make a difference. The idiom \"ne pas pouvoir\" means \"won't be able to\" or \"can't\"."
+    },
+    {
+      "time": 48.873,
+      "text": "Même s'il devait s'arrêter, j'serai toujours à tes côtés",
+      "translation": "Even if he were to stop, I will always be by your side",
+      "grammar": "The use of \"j'serai\" instead of \"je serais\" is an informal, colloquial way to express future intention in the subjunctive mood. This construction is common in spoken French and adds a sense of intimacy and familiarity to the sentence."
+    },
+    {
+      "time": 54.377,
+      "text": "Nan le temps, le temps ne pourra rien changer",
+      "translation": "No, time, time won't change anything.",
+      "grammar": "The phrase \"le temps ne pourra\" is in the subjunctive mood, used to express doubt or uncertainty about the possibility of something happening. This construction emphasizes that it's impossible for time to change things."
+    },
+    {
+      "time": 58.581,
+      "text": "Même s'il devait s'arrêter, j'serai toujours à tes côtés",
+      "translation": "Even if he were to stop, I will always be by your side",
+      "grammar": "The use of \"j'serai\" instead of \"je serais\" is an informal, spoken idiom in French, equivalent to the English expression \"I'll always..."
+    },
+    {
+      "time": 64.085,
+      "text": "Les mots ne suffiront pas pour dire tout, tout, tout",
+      "translation": "Words will not be enough to say everything, everything, everything",
+      "grammar": "The repetition of \"tout\" emphasizes the speaker's conviction and frustration, using an idiomatic expression to convey the idea that words are insufficient for expressing their emotions."
+    },
+    {
+      "time": 68.722,
+      "text": "Toi et moi scellés, j'me demande si pour toi",
+      "translation": "You and I sealed together, I wonder if for you",
+      "grammar": "The phrase \"j'me demande\" is an informal way of saying \"I wonder\" or \"I ask myself\", using the reflexive pronoun \"me\" to emphasize the speaker's personal thought process. This construction is typical in spoken French and adds a sense of intimacy to the lyrics."
+    },
+    {
+      "time": 73.359,
+      "text": "J'donnerais pas tout, tout, tout (oh, non)",
+      "translation": "I wouldn't give everything, everything, everything (oh, no)",
+      "grammar": "The use of \"j'\" instead of \"je\" is a casual, informal way to express the first person singular pronoun in French, often used in spoken language or in writing to convey a sense of intimacy or familiarity."
+    },
+    {
+      "time": 77.129,
+      "text": "Si t'es ma consonne, laisse-moi être ta voyelle",
+      "translation": "If you're my consonant, let me be your vowel.",
+      "grammar": "This line employs a poetic idiom, using the sounds of letters to describe a harmonious relationship, rather than making a literal statement. The sentence structure and verb tense are intentionally playful and figurative, emphasizing the emotional connection between two people."
+    },
+    {
+      "time": 81.766,
+      "text": "Écrivons toutes nos phrases au pluriel",
+      "translation": "Let's write all our sentences in the plural.",
+      "grammar": "The use of \"toutes\" (all) with \"nos phrases\" (our sentences) indicates that the speaker is referring to multiple sentences, emphasizing the collective nature of writing. This usage illustrates the concept of agreement between the plural noun \"phrases\" and the plural pronoun \"toutes\"."
+    },
+    {
+      "time": 84.669,
+      "text": "Et si chaque page de notre livre était un poème",
+      "translation": "What if each page of our book was a poem?",
+      "grammar": "This sentence uses the hypothetical conditional mood to express a wish or possibility, with \"si\" introducing the condition and \"était\" indicating the past hypothetical state."
+    },
+    {
+      "time": 89.306,
+      "text": "Rendons l'histoire intemporelle",
+      "translation": "Let's make history timeless",
+      "grammar": "The phrase \"rendons\" is a first-person plural imperative, used to express a collective intention or decision, and the verb agrees with the subject in number."
+    },
+    {
+      "time": 91.341,
+      "text": "J'suis côté de l'est à l'ouest",
+      "translation": "I'm on the east side, on the west side",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of being constantly torn between two opposing sides or perspectives. The use of \"j'suis\" (literally \"I am\") instead of \"je suis\" emphasizes the speaker's emotional state and creates a sense of urgency."
+    },
+    {
+      "time": 95.544,
+      "text": "Sur tes qualités, je peux compter",
+      "translation": "I can count on your qualities.",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of reliability and trustworthiness, emphasizing that the speaker can rely on someone's good qualities at any time."
+    },
+    {
+      "time": 98.446,
+      "text": "Jamais j'retournerai ma veste",
+      "translation": "I will never change my tune",
+      "grammar": "The phrase \"j'returnerai\" is a future negation of the verb \"retourner\" in the first person singular, emphasizing the speaker's firm decision not to change their stance."
+    },
+    {
+      "time": 100.915,
+      "text": "Ma vie, je veux la passer à t'écouter",
+      "translation": "I want to spend my life listening to you",
+      "grammar": "The verb \"veux\" is in the present tense and expresses a desire or intention, which is typical of the subjunctive mood. The phrase \"je veux la passer\" can be translated as \"I want to spend\" using the idiomatic expression \"passer à\" meaning \"to spend time doing\"."
+    },
+    {
+      "time": 105.118,
+      "text": "J'te lirai matin et soir, s'il le faut",
+      "translation": "I'll read to you morning and night, if necessary.",
+      "grammar": "The phrase \"J'te\" is an informal way of saying \"I'll tell you\" or \"I'll let you know\", using the tu form instead of the formal vous. This informal tone is typical in spoken French among friends or family."
+    },
+    {
+      "time": 109.755,
+      "text": "Et même jusqu'à tard, s'il le faut",
+      "translation": "And even until late, if necessary.",
+      "grammar": "The phrase \"s'il le faut\" is an idiomatic expression meaning \"if necessary\" or \"if it's unavoidable\". It is used to indicate a condition that may not be desirable but is accepted as a last resort."
+    },
+    {
+      "time": 113.959,
+      "text": "Nan le temps, le temps ne pourra rien changer",
+      "translation": "No, time, time won't change anything.",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of resignation and impossibility, emphasizing that no matter what happens in the future, it will not make a difference."
+    },
+    {
+      "time": 118.162,
+      "text": "Même s'il devait s'arrêter, j'serai toujours à tes côtés",
+      "translation": "Even if he were to stop, I will always be by your side",
+      "grammar": "The use of \"j'serai\" instead of \"je serais\" is an informal idiomatic expression, common in spoken French, where the verb \"être\" is contracted with the subject pronoun \"je\"."
+    },
+    {
+      "time": 123.667,
+      "text": "Nan le temps, le temps ne pourra rien changer",
+      "translation": "No, time, time won't change anything.",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of resignation and inevitability, emphasizing that no matter what happens in the future, it will not alter the current situation."
+    },
+    {
+      "time": 127.87,
+      "text": "Même s'il devait s'arrêter, j'serai toujours à tes côtés",
+      "translation": "Even if he were to stop, I will always be by your side",
+      "grammar": "The use of \"j'serai\" instead of \"je serais\" is an informal, conversational way to express future intention in the subjunctive mood, common in spoken French."
+    },
+    {
+      "time": 133.375,
+      "text": "Le temps, le temps",
+      "translation": "Time, time",
+      "grammar": "This interjection \"Le temps, le temps\" is an idiomatic expression used to convey a sense of urgency or impatience, with the repetition emphasizing the speaker's frustration."
+    },
+    {
+      "time": 135.41,
+      "text": "Le temps n'pourra rien changer",
+      "translation": "Time will not change anything.",
+      "grammar": "The phrase \"n'pourra\" is a negation of the verb \"pouvoir\" in the future tense, indicating that something will not be possible."
+    },
+    {
+      "time": 138.312,
+      "text": "Le temps, le temps",
+      "translation": "Time, time",
+      "grammar": "This interjection \"Le temps\" is an idiomatic expression in French, used to convey a sense of urgency or impatience, similar to saying \"Come on, hurry up!\" in English."
+    },
+    {
+      "time": 140.347,
+      "text": "Oh-oh-oh, le temps, le temps",
+      "translation": "Oh-oh-oh, time, time",
+      "grammar": "This line uses the interjection \"Oh-oh-oh\" to express strong emotions or emphasis, similar to English expressions like \"Oh no!\" or \"Oh wow!\". The repetition of \"le temps\" (time) creates a sense of urgency and emphasizes the importance of time."
+    },
+    {
+      "time": 143.683,
+      "text": "Le temps n'pourra rien changer (n'pourra rien changer)",
+      "translation": "Time won't change anything (won't change anything)",
+      "grammar": "The phrase \"n'pourra\" is a negation of the verb \"pouvoir\", indicating the future tense and expressing impossibility, emphasizing that time will not have any effect. The repetition of \"rien changer\" reinforces this idea, creating an idiomatic expression conveying the futility of change."
+    },
+    {
+      "time": 148.32,
+      "text": "Oh-oh-oh, le temps, le temps",
+      "translation": "Oh-oh-oh, time, time",
+      "grammar": "This interjection \"Oh-oh-oh\" is an expression of emphasis or excitement, often used to draw attention to the following phrase. The verb \"le temps\" remains in the present tense, emphasizing the importance of time."
+    },
+    {
+      "time": 151.656,
+      "text": "Yié-yié-yié-yié-yié",
+      "translation": "Yié-yié-yié-yié-yié",
+      "grammar": "This interjection, often used in African and Caribbean cultures, expresses joy or celebration. It is typically repeated to emphasize the sentiment, as seen here."
+    },
+    {
+      "time": 154.125,
+      "text": "Oh-oh-oh, le temps, le temps",
+      "translation": "Oh-oh-oh, time, time",
+      "grammar": "This interjection \"Oh-oh-oh\" is an expression of emphasis or excitement, often used to draw attention to the following phrase. The verb \"le temps\" remains in the present tense, emphasizing the importance of time."
+    },
+    {
+      "time": 157.461,
+      "text": "Le temps n'pourra rien changer",
+      "translation": "Time will not change anything.",
+      "grammar": "The phrase \"n'pourra\" is a negation of the verb \"pouvoir\" in the future tense, indicating that something will not be possible. The idiom \"changer\" means to make a difference or have an impact."
+    },
+    {
+      "time": 160.363,
+      "text": "Le temps, le temps",
+      "translation": "Time, time",
+      "grammar": "This interjection \"Le temps\" is an idiomatic expression in French, used to convey a sense of urgency or impatience, similar to saying \"Come on, hurry up!\" in English."
+    },
+    {
+      "time": 162.398,
+      "text": "Oh-oh-oh, Oh-oh-oh",
+      "translation": "Oh-oh-oh, Oh-oh-oh",
+      "grammar": "This interjection is an expression of excitement or emphasis, often used to draw attention or convey strong emotions. The repetition of \"Oh-oh-oh\" creates a sense of urgency and intensifies the emotional impact."
+    }
+  ]
+}

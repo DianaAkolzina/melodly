@@ -1,0 +1,217 @@
+{
+  "id": "ru__12",
+  "title": "Валькирия",
+  "artist": "Bearwolf",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_.mp3",
+  "duration": 163,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "У-у-ха, убивала красота",
+      "translation": "Ooh, the beauty was killing me.",
+      "grammar": "The phrase \"У-у-ха\" is an interjection expressing strong emotional reaction, often translated as \"ooh\" or \"wow\". The sentence uses the past perfect tense to convey a sense of sudden realization."
+    },
+    {
+      "time": 3.764,
+      "text": "У-у-ха, говорил, что я не та",
+      "translation": "Ooh, he said I wasn't the one.",
+      "grammar": "The phrase \"У-у-ха\" is an interjection expressing surprise or excitement, often used in informal settings. The sentence structure and verb tense (past perfective) convey a sense of reported speech, as if someone else told the story."
+    },
+    {
+      "time": 9.606,
+      "text": "В дали лучи переливами",
+      "translation": "In the distance the rays shimmer",
+      "grammar": "The phrase \"В дали\" (in the distance) is an idiomatic expression that indicates a sense of remoteness or something being far away, often used to convey a sense of longing or yearning."
+    },
+    {
+      "time": 12.677,
+      "text": "Не повезло родиться птицами",
+      "translation": "It's bad luck to be born as birds",
+      "grammar": "This idiomatic expression uses the verb \"повезло\" in the passive voice, implying a sense of fate or destiny, rather than actual good or bad fortune. The phrase is an example of a common Russian idiom that conveys a moral or philosophical message."
+    },
+    {
+      "time": 15.748,
+      "text": "В меня ты целься донельзя",
+      "translation": "You aim at me as far as possible",
+      "grammar": "The phrase \"ты целься\" is an idiomatic expression, literally meaning \"you target\" or \"you aim at\", but figuratively conveying the idea of intense focus or strong intention towards someone. The verb \"целься\" is in the infinitive form and functions as a predicate nominative, emphasizing the extent of one's goal-directed behavior."
+    },
+    {
+      "time": 19.512,
+      "text": "Захлопнулись дверцы, да каменем на сердце (каменем на сердце)",
+      "translation": "The doors slammed shut, and it was like a stone on my heart (like a stone on my heart)",
+      "grammar": "This idiom \"каменем на сердце\" literally means \"like a stone on one's heart\", but figuratively conveys the feeling of being crushed or devastated."
+    },
+    {
+      "time": 26.047,
+      "text": "Тень валькирий мерцает, не ходи там, где темно",
+      "translation": "The shadow of the Valkyries flickers, don't go where it's dark",
+      "grammar": "This line uses the imperative mood to issue a warning, with the verb \"ходи\" (go) in the second person singular form \"не ходи\" (don't go), indicating direct address."
+    },
+    {
+      "time": 31.889,
+      "text": "Сердце от огня тает, судьбы наши — решето",
+      "translation": "The heart melts from the fire, our destinies are a sieve",
+      "grammar": "This idiomatic expression uses the metaphorical concept of melting (тает) to convey the idea that strong emotions or intense experiences can dissolve one's sense of control or direction. The phrase \"судьбы наши — решето\" is an analogy comparing human destinies to a sieve, implying that they are fragile and easily influenced by external factors."
+    },
+    {
+      "time": 37.038,
+      "text": "На пути тьма встанет, будь рядом врагам на зло",
+      "translation": "Darkness will stand in your way, be there to spite your enemies",
+      "grammar": "The phrase \"будь рядом\" is an idiomatic expression meaning \"to be present\" or \"to be there\", rather than a literal instruction. It's used to emphasize the importance of being near someone or something during a challenging situation."
+    },
+    {
+      "time": 43.573,
+      "text": "Врагам на зло, храни тепло",
+      "translation": "To spite your enemies, keep warm",
+      "grammar": "This idiomatic expression uses the imperative mood to convey a sense of determination and defiance, with the verb \"хранить\" (to keep) in the present tense emphasizing the ongoing action."
+    },
+    {
+      "time": 47.337,
+      "text": "Ворона бойся, да в лес не ходи, ни-ни",
+      "translation": "Be afraid of the crow, and don't go into the forest, no-no",
+      "grammar": "This idiom uses the imperative mood to convey a warning or prohibition, with the speaker advising against entering the forest. The repeated \"ни-ни\" is an emphatic particle reinforcing the negative command."
+    },
+    {
+      "time": 53.871,
+      "text": "Зов добрый злой стал, сказал мне: \"Подходи\"",
+      "translation": "The good call turned evil and said to me: \"Come on.\"",
+      "grammar": "This line uses the idiomatic expression \"стал\" (turned) to indicate a change in someone's behavior or character, rather than a literal transformation. The phrase \"сказал мне\" is an informal way of saying \"he told me\", with \"мне\" being the object pronoun indicating the recipient of the message."
+    },
+    {
+      "time": 59.021,
+      "text": "У страха глаза пути, исповеди моря",
+      "translation": "Fear has eyes of the path, confessions of the sea",
+      "grammar": "This idiom uses the metaphorical expression \"eyes\" to describe how fear can perceive and scrutinize one's actions, emphasizing its all-seeing quality. The phrase also employs a poetic device called personification, where abstract concepts like fear are given human-like qualities."
+    },
+    {
+      "time": 63.477,
+      "text": "О, горы я, где же я? Кто же я?",
+      "translation": "Oh, I am a mountain, where am I? Who am I?",
+      "grammar": "This line employs rhetorical questions to express existential uncertainty, using the first-person singular pronoun \"я\" (ya) to emphasize the speaker's confusion and introspection. The use of \"О\" (O) as an interjection adds emotional intensity to the inquiry."
+    },
+    {
+      "time": 70.012,
+      "text": "Уходя не бойся, пока догорит заря",
+      "translation": "When leaving, don't be afraid until the dawn burns out.",
+      "grammar": "The phrase \"Уходя не бойся\" is an idiom that conveys the idea of not being afraid to take risks or make a move when the time is right. The use of \"не бойся\" (don't be afraid) in the present tense implies a sense of urgency and encourages the listener to seize the opportunity before it's too late."
+    },
+    {
+      "time": 74.469,
+      "text": "У каждого свой взгляд, в нём не найдёшь себя",
+      "translation": "Everyone has their own view, you won't find yourself in it",
+      "grammar": "This idiom uses the possessive pronoun \"свой\" (own) to emphasize individuality, highlighting that each person's perspective is unique and cannot be fully understood by others."
+    },
+    {
+      "time": 81.004,
+      "text": "Хочу идти туда, где ожила, сгоря",
+      "translation": "I want to go to where I came to life after burning.",
+      "grammar": "The phrase \"сгоря\" is an idiomatic expression meaning \"after burning\" or \"having gone through a difficult experience\", using the verb \"гореть\" in the adverbial participle form to convey the idea of something intense having happened."
+    },
+    {
+      "time": 85.46,
+      "text": "Исповеди моря, о, море я, о, море я",
+      "translation": "Confessions of the sea, oh sea I, oh sea I",
+      "grammar": "The use of \"о\" (oh) before pronouns \"я\" (I) is an idiomatic expression in Russian, emphasizing the speaker's emotional connection to the subject. This construction does not change the verb tense or agreement, but rather adds a lyrical and introspective tone to the sentence."
+    },
+    {
+      "time": 91.302,
+      "text": "Тень валькирий мерцает, не ходи там, где темно",
+      "translation": "The shadow of the Valkyries flickers, don't go where it's dark",
+      "grammar": "This line uses the imperative mood to issue a warning, with the verb \"ходи\" (go) in the second person singular form \"не ходи\" (don't go), emphasizing the prohibition."
+    },
+    {
+      "time": 97.144,
+      "text": "Сердце от огня тает, судьбы наши — решето",
+      "translation": "The heart melts from the fire, our destinies are a sieve",
+      "grammar": "This idiomatic expression uses the metaphor of melting to describe the intense emotional impact of fate, conveying a sense of helplessness and vulnerability. The phrase \"судьбы наши\" is in the nominative plural form, agreeing with the singular noun \"решето\", emphasizing the idea that individual destinies are intertwined and easily manipulated by external forces."
+    },
+    {
+      "time": 102.294,
+      "text": "На пути тьма встанет, будь рядом врагам на зло",
+      "translation": "Darkness will stand in your way, be there to spite your enemies",
+      "grammar": "The phrase \"будь рядом\" is an idiomatic expression meaning \"to be present at a moment of triumph or victory over one's opponents\". It implies taking a proactive stance against adversaries."
+    },
+    {
+      "time": 108.829,
+      "text": "Врагам на зло, храни тепло",
+      "translation": "To spite your enemies, keep warm",
+      "grammar": "This idiom uses the imperative mood to convey a sense of irony and defiance, with the speaker advising themselves to stay warm as a way to spite their enemies. The phrase \"на зло\" is an idiomatic expression meaning \"to spite\" or \"in spite of\"."
+    },
+    {
+      "time": 112.592,
+      "text": "Врагам на зло",
+      "translation": "To spite enemies",
+      "grammar": "This idiom uses the infinitive phrase \"на зло\" to convey a sense of deliberate malice, emphasizing the speaker's intention to harm or thwart their enemies."
+    },
+    {
+      "time": 114.971,
+      "text": "Храни тепло",
+      "translation": "Keep warm",
+      "grammar": "This idiomatic expression uses the imperative mood to convey a sense of advice or recommendation, rather than making a direct command. The verb храни is in the second person singular form, addressing the listener directly."
+    },
+    {
+      "time": 116.656,
+      "text": "Тень валькирий мерцает, не ходи там, где темно",
+      "translation": "The shadow of the Valkyries flickers, don't go where it's dark",
+      "grammar": "This line uses the imperative mood to issue a warning, with the verb \"ходи\" (go) in the second person singular form \"не ходи\" (don't go), indicating direct address and emphasizing the prohibition."
+    },
+    {
+      "time": 122.498,
+      "text": "Сердце от огня тает, судьбы наши — решето",
+      "translation": "The heart melts from the fire, our destinies are a sieve",
+      "grammar": "This idiomatic expression uses the metaphor of melting to convey the idea that strong emotions can dissolve one's sense of purpose or direction. The phrase \"судьбы наши\" is in the nominative plural form, agreeing with the singular noun \"решето\", emphasizing the collective nature of their shared destinies."
+    },
+    {
+      "time": 127.648,
+      "text": "На пути тьма встанет, будь рядом врагам на зло",
+      "translation": "Darkness will stand in your way, be there to spite your enemies",
+      "grammar": "The phrase \"будь рядом\" is an idiomatic expression meaning \"to be present\" or \"to show up\", rather than a literal instruction. It's used to emphasize the importance of being with someone during a challenging situation."
+    },
+    {
+      "time": 134.182,
+      "text": "Врагам на зло, храни тепло",
+      "translation": "To spite your enemies, keep warm",
+      "grammar": "This idiomatic expression uses the imperative mood to convey a sense of irony and defiance, with the verb \"хранить\" (to keep) in the present tense implying a habitual action. The phrase \"на зло\" is an idiom meaning \"to spite\" or \"in spite of\"."
+    },
+    {
+      "time": 137.946,
+      "text": "Тень вaлькирий мерцает, не ходи там, где темно",
+      "translation": "The shadow of the Valkyries flickers, don't go where it's dark",
+      "grammar": "This line uses the imperative mood to issue a warning, with the verb \"ходи\" (go) in the second person singular form \"не ходи\" (don't go), indicating direct address to the listener."
+    },
+    {
+      "time": 143.788,
+      "text": "Сердце от огня тает, судьбы наши — решето",
+      "translation": "The heart melts from the fire, our destinies are a sieve",
+      "grammar": "This idiom uses the metaphor of melting to convey the idea that strong emotions can dissolve one's sense of purpose or direction. The phrase \"судьбы наши\" is in the nominative plural form, agreeing with the singular noun \"решето\", emphasizing the collective nature of their shared destinies."
+    },
+    {
+      "time": 148.938,
+      "text": "На пути тьма встанет, будь рядом врагам на зло",
+      "translation": "Darkness will stand in your way, be there to spite your enemies",
+      "grammar": "The phrase \"будь рядом\" is an idiomatic expression meaning \"to be present\" or \"to be there\", rather than a literal instruction. It's used to emphasize the importance of being near someone or something, often in a challenging situation."
+    },
+    {
+      "time": 155.472,
+      "text": "Врагам на зло, храни тепло",
+      "translation": "To spite your enemies, keep warm",
+      "grammar": "The phrase \"на зло\" is an idiom meaning \"to spite\" or \"in defiance of\", used to convey a sense of opposition or hostility."
+    },
+    {
+      "time": 159.236,
+      "text": "Врагам на зло",
+      "translation": "To spite enemies",
+      "grammar": "This idiom uses the infinitive phrase \"на зло\" to express a sense of malice or ill will, implying that one's actions are motivated by a desire to harm or thwart others. The verb \"Врагам\" is in the dative case, indicating the recipients of the action."
+    },
+    {
+      "time": 161.614,
+      "text": "Храни теплo",
+      "translation": "Keep warm",
+      "grammar": "This imperative phrase uses the present continuous tense to convey a sense of ongoing action, emphasizing the importance of keeping warm. The idiom храни (keep) is often used in Russian to express care or concern for someone's well-being."
+    }
+  ]
+}

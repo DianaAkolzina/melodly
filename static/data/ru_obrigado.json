@@ -1,0 +1,301 @@
+{
+  "id": "ru_obrigado",
+  "title": "Obrigado",
+  "artist": "MiyaGi & Endspiel",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_obrigado.mp3",
+  "duration": 181,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 14.6915,
+      "text": "Мне нужен спектр этих впечатлений",
+      "translation": "I need a spectrum of these impressions",
+      "grammar": "The verb 'нужен' is in the nominative case and agrees with the subject 'мне'"
+    },
+    {
+      "time": 16.80069999998808,
+      "text": "Я дорожу тут каждым метром, свободы пленник",
+      "translation": "I value every meter here, a prisoner of freedom",
+      "grammar": ""
+    },
+    {
+      "time": 19.70530000001192,
+      "text": "Акры черни, вёрсты лени, откровений",
+      "translation": "Acres of rabble, miles of laziness, revelations",
+      "grammar": ""
+    },
+    {
+      "time": 22.23380000001192,
+      "text": "Без сожалений не бывает, так уж повелось, наверное",
+      "translation": "There are no regrets, that's just the way it is, I guess.",
+      "grammar": ""
+    },
+    {
+      "time": 25.970699999988078,
+      "text": "Любовь и бремя вечно рядом, каждый релиз — припадок",
+      "translation": "Love and burden are always close, each release is a fit",
+      "grammar": ""
+    },
+    {
+      "time": 29.11060000002384,
+      "text": "Восстановить себя тут надо бы, биты каскадом",
+      "translation": "I need to restore myself here, the beats are cascading",
+      "grammar": ""
+    },
+    {
+      "time": 32.44810000002384,
+      "text": "Размывали будни словом, мысли комом",
+      "translation": "They washed away everyday life with words, thoughts with a lump",
+      "grammar": ""
+    },
+    {
+      "time": 34.97339999997616,
+      "text": "Сердце по жизни метрономом преданным ведёт по ровным тропам",
+      "translation": "The heart, like a faithful metronome, leads you through life along smooth paths.",
+      "grammar": ""
+    },
+    {
+      "time": 38.89080000001192,
+      "text": "Опыт приходит с опытом, годы галопом",
+      "translation": "Experience comes with experience, years go by at a gallop",
+      "grammar": ""
+    },
+    {
+      "time": 42.10380000001192,
+      "text": "Судьбы пугали как трагики, почерк — некий Софокл",
+      "translation": "Fates frightened like tragedians, the handwriting was a certain Sophocles",
+      "grammar": ""
+    },
+    {
+      "time": 45.264800000011924,
+      "text": "Не перекрикивай фриков в изломы улиц на сликах",
+      "translation": "Don't shout down the freaks on slicks in the street corners",
+      "grammar": ""
+    },
+    {
+      "time": 48.5955,
+      "text": "Нас не покинет удача, нас не покинет удача",
+      "translation": "Luck will not leave us, luck will not leave us",
+      "grammar": ""
+    },
+    {
+      "time": 51.83789999997616,
+      "text": "Obrigado каждому за свет подаренный",
+      "translation": "Obrigado to everyone for the light given",
+      "grammar": ""
+    },
+    {
+      "time": 55.87019999998808,
+      "text": "За грудинами любовь искали мы",
+      "translation": "We searched for love behind our breastbones",
+      "grammar": ""
+    },
+    {
+      "time": 58.64930000001192,
+      "text": "Пока высыхали голоса, снова собирали краски",
+      "translation": "While the voices were drying, the paints were collected again",
+      "grammar": ""
+    },
+    {
+      "time": 62.31589999997616,
+      "text": "Чтобы не потеряться, души трогали до глубины",
+      "translation": "To avoid getting lost, souls were touched to the depths",
+      "grammar": ""
+    },
+    {
+      "time": 65.421,
+      "text": "Obrigado каждому за свет подаренный",
+      "translation": "Obrigado to everyone for the light given",
+      "grammar": ""
+    },
+    {
+      "time": 68.48189999997616,
+      "text": "За грудинами любовь искали мы",
+      "translation": "We searched for love behind our breastbones",
+      "grammar": ""
+    },
+    {
+      "time": 71.49610000002384,
+      "text": "Пока высыхали голоса, снова собирали краски",
+      "translation": "While the voices were drying, the paints were collected again",
+      "grammar": ""
+    },
+    {
+      "time": 75.51589999997616,
+      "text": "Чтобы не потеряться, души трогали до глубины",
+      "translation": "To avoid getting lost, souls were touched to the depths",
+      "grammar": ""
+    },
+    {
+      "time": 78.56710000002384,
+      "text": "В укромный потайной карман упала мысль",
+      "translation": "A thought fell into a secret, hidden pocket",
+      "grammar": ""
+    },
+    {
+      "time": 82.20789999997616,
+      "text": "Заполнив чакры этой силой изнутри",
+      "translation": "Filling the chakras with this power from within",
+      "grammar": ""
+    },
+    {
+      "time": 85.42980000001192,
+      "text": "Чтоб разобрать мои полёты, нужны годы",
+      "translation": "It will take years to analyze my flights.",
+      "grammar": ""
+    },
+    {
+      "time": 89.25789999997616,
+      "text": "Растолковать необъяснимые дары",
+      "translation": "Explaining inexplicable gifts",
+      "grammar": ""
+    },
+    {
+      "time": 91.9155,
+      "text": "В глазах отчаяние и ненависть, мотивы",
+      "translation": "There is despair and hatred in the eyes, motives",
+      "grammar": ""
+    },
+    {
+      "time": 95.135,
+      "text": "Твои тут стали недостойными, увы",
+      "translation": "Yours have become unworthy here, alas.",
+      "grammar": ""
+    },
+    {
+      "time": 98.22880000001192,
+      "text": "Умы, что долго бичевали, встали с краю",
+      "translation": "The minds that had been scourged for a long time stood at the edge",
+      "grammar": ""
+    },
+    {
+      "time": 101.69630000001192,
+      "text": "Мы приоденемся, за окнами дожди",
+      "translation": "We'll get dressed up, it's raining outside",
+      "grammar": ""
+    },
+    {
+      "time": 105.1065,
+      "text": "Пылает ночь, в окнах останки силуэтов",
+      "translation": "The night is burning, the remains of silhouettes are in the windows",
+      "grammar": ""
+    },
+    {
+      "time": 107.79360000002384,
+      "text": "Бродят по улицам и самки, и коты",
+      "translation": "Both females and males roam the streets.",
+      "grammar": ""
+    },
+    {
+      "time": 111.43930000001193,
+      "text": "Под этим гнётом даже самый смелый ящер",
+      "translation": "Even the bravest lizard will bow down under this yoke",
+      "grammar": "The phrase 'гнёт' (yoke) is an idiomatic expression meaning to be oppressed or dominated."
+    },
+    {
+      "time": 114.44580000001191,
+      "text": "Опустит голову, выйдя из темноты, но мы с темами на \"ты\"",
+      "translation": "He lowers his head when he comes out of the darkness, but we are on first-name terms with the topics.",
+      "grammar": ""
+    },
+    {
+      "time": 119.76110000002384,
+      "text": "Лапы на голову, не с места",
+      "translation": "Paws on the head, don't move",
+      "grammar": ""
+    },
+    {
+      "time": 121.59980000001192,
+      "text": "Я не верен всем понятиям, мне тесно (мне тесно)",
+      "translation": "I am not true to all concepts, I feel cramped (I feel cramped)",
+      "grammar": ""
+    },
+    {
+      "time": 124.13169999998807,
+      "text": "Откроюсь миру, чистым сердцем, всё на добром (всё на добром)",
+      "translation": "I will open up to the world, with a pure heart, all in goodness (all in goodness)",
+      "grammar": ""
+    },
+    {
+      "time": 129.08739999997616,
+      "text": "Наше творение стремится к звёздам (эй)",
+      "translation": "Our creation is reaching for the stars (hey)",
+      "grammar": ""
+    },
+    {
+      "time": 131.27969999998808,
+      "text": "Поэта дар — его отрада",
+      "translation": "A poet's gift is his joy",
+      "grammar": ""
+    },
+    {
+      "time": 134.2253000000119,
+      "text": "Боль поёт, а не кричит, он раны сердца превращает в строки",
+      "translation": "Pain sings, but doesn't scream, it turns the wounds of the heart into lines",
+      "grammar": ""
+    },
+    {
+      "time": 138.1195,
+      "text": "Он ловит миг, что ускользает и, собрав остаток слов",
+      "translation": "He catches the moment that slips away and, collecting the rest of the words",
+      "grammar": ""
+    },
+    {
+      "time": 142.28060000002384,
+      "text": "На лист бумаги выливает свет",
+      "translation": "Light pours onto a sheet of paper",
+      "grammar": ""
+    },
+    {
+      "time": 149.47160000002384,
+      "text": "Obrigado каждому за свет подаренный",
+      "translation": "Obrigado to everyone for the light given",
+      "grammar": ""
+    },
+    {
+      "time": 152.98239999997617,
+      "text": "За грудинами любовь искали мы",
+      "translation": "We searched for love behind our breastbones",
+      "grammar": ""
+    },
+    {
+      "time": 155.94819999998808,
+      "text": "Пока высыхали голоса, снова собирали краски",
+      "translation": "While the voices were drying, the paints were collected again",
+      "grammar": ""
+    },
+    {
+      "time": 159.34010000002385,
+      "text": "Чтобы не потеряться, души трогали до глубины",
+      "translation": "To avoid getting lost, souls were touched to the depths",
+      "grammar": ""
+    },
+    {
+      "time": 162.95939999997617,
+      "text": "Obrigado каждому за свет подаренный",
+      "translation": "Obrigado to everyone for the light given",
+      "grammar": ""
+    },
+    {
+      "time": 165.76039999997616,
+      "text": "За грудинами любовь искали мы",
+      "translation": "We searched for love behind our breastbones",
+      "grammar": ""
+    },
+    {
+      "time": 168.86340000003577,
+      "text": "Пока высыхали голоса, снова собирали краски",
+      "translation": "While the voices were drying, the paints were collected again",
+      "grammar": ""
+    },
+    {
+      "time": 172.71210000002384,
+      "text": "Чтобы не потеряться, души трогали до глубины",
+      "translation": "To avoid getting lost, souls were touched to the depths",
+      "grammar": ""
+    }
+  ]
+}

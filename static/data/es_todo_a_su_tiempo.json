@@ -1,0 +1,181 @@
+{
+  "id": "es_todo_a_su_tiempo",
+  "title": "Todo a Su Tiempo",
+  "artist": "Neton Vega",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_todo_a_su_tiempo.mp3",
+  "duration": 238,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 29.62990000000596,
+      "text": "Junto a tu lado",
+      "translation": "By your side",
+      "grammar": "This phrase uses the preposition \"junto\" to indicate proximity, implying physical closeness or companionship. The verb \"estar\" is implied but not explicitly stated, suggesting a present continuous aspect of being together."
+    },
+    {
+      "time": 32.42559999999404,
+      "text": "Se me olvida todo lo bueno y lo malo",
+      "translation": "I forget everything, both good and bad.",
+      "grammar": "The phrase \"se me\" is an idiomatic expression used to indicate that something happens to the speaker, equivalent to \"it gets to me\" or \"it's too much for me\". The verb \"olvida\" is in the third person singular form, agreeing with the indirect object \"todo lo bueno y lo malo\", emphasizing the extent of what is forgotten."
+    },
+    {
+      "time": 39.42709999999404,
+      "text": "Cosas del pasado",
+      "translation": "Things from the past",
+      "grammar": "The phrase \"cosas del pasado\" is an idiomatic expression that translates to \"things from the past\". It uses the preposition \"del\" to indicate a relationship between the noun \"cosas\" and the abstract concept of time, conveying a sense of nostalgia or reminiscence."
+    },
+    {
+      "time": 43.99730000001192,
+      "text": "Todo a su tiempo",
+      "translation": "Everything in its own time.",
+      "grammar": "This idiomatic phrase uses the present continuous tense to convey a sense of gradualness and natural progression, implying that things will unfold at their own pace. The phrase is often used to express patience or acceptance of a situation's unfolding."
+    },
+    {
+      "time": 46.78059999999404,
+      "text": "Se fue dando todo lo que hemos logrado",
+      "translation": "Everything we've achieved just happened gradually.",
+      "grammar": "The verb \"fue\" is in the preterite aspect, indicating a completed action in the past, which contrasts with the present perfect \"hemos logrado\" used to describe the achievements. This juxtaposition emphasizes the suddenness of everything happening at once."
+    },
+    {
+      "time": 53.2585,
+      "text": "Muchos años han pasado",
+      "translation": "Many years have passed",
+      "grammar": "The phrase \"han pasado\" is in the preterite tense, indicating a completed action in the past. The use of \"han\" instead of \"ha\" agrees with the plural subject \"muchos años\"."
+    },
+    {
+      "time": 58.20259999999404,
+      "text": "Cosas fallaron",
+      "translation": "Things went wrong",
+      "grammar": "This idiomatic expression uses the verb \"fallar\" in the third person plural form, indicating a past situation where things did not go as planned. The phrase is often used to express regret or disappointment about an outcome."
+    },
+    {
+      "time": 61.23759999999404,
+      "text": "Pero eso no demostró que ahí quedamos",
+      "translation": "But that didn't prove that we were stuck there.",
+      "grammar": "The verb \"quedamos\" is in the imperfect tense, indicating a past continuous or ongoing action, which contrasts with the unexpected outcome (\"eso no demostró\") to emphasize the lack of resolution."
+    },
+    {
+      "time": 67.57009999999404,
+      "text": "Más que fuerte ahora andamos",
+      "translation": "We're stronger than ever now",
+      "grammar": "The phrase \"ahora\" is an adverb indicating present continuous aspect, emphasizing the ongoing nature of being strong."
+    },
+    {
+      "time": 72.89009999999404,
+      "text": "Rozar mis labios a los tuyos fue un sueño",
+      "translation": "Touching my lips to yours was a dream",
+      "grammar": "The verb \"fue\" is in the preterite tense, indicating that the action of touching lips happened in the past. The phrase \"un sueño\" is an idiomatic expression meaning something wonderful or extraordinary has occurred."
+    },
+    {
+      "time": 82.51909999999404,
+      "text": "Y se me hizo",
+      "translation": "And it happened to me",
+      "grammar": "This phrase uses the idiomatic expression \"hacerse\" in the passive voice, indicating that the event occurred without the speaker's agency. The verb tense is past imperfective, describing a completed action with ongoing duration."
+    },
+    {
+      "time": 86.94309999999403,
+      "text": "Tu personalidad fue mi debilidad",
+      "translation": "Your personality was my weakness",
+      "grammar": "The verb \"fue\" is in the preterite tense, indicating a completed action in the past. The phrase \"mi debilidad\" uses the possessive adjective \"mi\" to agree with the feminine noun \"debilidad\"."
+    },
+    {
+      "time": 96.85080000001192,
+      "text": "Y tu hermosura",
+      "translation": "And your beauty",
+      "grammar": "This phrase uses the formal form of address (\"tu\") to express admiration, conveying a sense of respect and intimacy. The phrase is an idiomatic expression that emphasizes the speaker's appreciation for the addressee's physical appearance."
+    },
+    {
+      "time": 104.27770000001789,
+      "text": "Ahí te va, chiquita",
+      "translation": "Here you go, little one",
+      "grammar": "The phrase \"Ahí te va\" is an idiomatic expression used to offer something or to give permission, with the verb \"ir\" (to go) in the informal imperative mood."
+    },
+    {
+      "time": 107.04359999999404,
+      "text": "Así suena el Netón",
+      "translation": "This is what the Netón sounds like.",
+      "grammar": "The phrase \"Así suena\" is an idiomatic expression used to describe the sound or quality of something, with \"así\" indicating a comparison in time and manner."
+    },
+    {
+      "time": 130.38590000000596,
+      "text": "Que no haya cuestión",
+      "translation": "Let there be no question",
+      "grammar": "This phrase is an idiomatic expression, using the verb \"ser\" in the subjunctive mood to convey a sense of uncertainty or doubt about something. The phrase is often used to express that a particular issue should not arise or be discussed."
+    },
+    {
+      "time": 133.31559999999405,
+      "text": "Me traes loco, totalmente hipnotizado",
+      "translation": "You drive me crazy, totally hypnotized",
+      "grammar": "The phrase \"Me traes\" is an idiomatic expression using the verb \"traer\" in the present tense, which implies a habitual or repeated action of driving someone crazy."
+    },
+    {
+      "time": 139.71009999999404,
+      "text": "Eso que te quede claro",
+      "translation": "Let that be clear to you.",
+      "grammar": "This phrase uses the subjunctive mood to express a desire or recommendation, rather than stating a fact. The verb \"quede\" is in the present subjunctive form, indicating a sense of urgency and emphasizing the importance of clarity."
+    },
+    {
+      "time": 144.48209999999403,
+      "text": "Siempre me pierdo",
+      "translation": "I always get lost",
+      "grammar": "This idiomatic expression uses the present tense to convey a habitual or general truth, rather than describing a specific past or future event. The phrase \"siempre\" emphasizes the frequency of getting lost."
+    },
+    {
+      "time": 147.66090000000597,
+      "text": "En tus ojitos quedé bien atrapado",
+      "translation": "I was completely captivated by your eyes",
+      "grammar": "The verb \"quedé\" is in the preterite tense, indicating a completed action in the past. The phrase \"en tus ojitos\" uses the idiomatic expression \"ojos\" to refer to someone's eyes, emphasizing their captivating power."
+    },
+    {
+      "time": 153.90609999999404,
+      "text": "Igual tus besos me han marcado",
+      "translation": "Your kisses have left their mark on me.",
+      "grammar": "The use of \"me han marcado\" in the present perfect tense indicates that the speaker's emotional state is still affected by the kisses, emphasizing the lasting impact."
+    },
+    {
+      "time": 159.05509999999404,
+      "text": "Amor eterno",
+      "translation": "Eternal love",
+      "grammar": "This phrase is an idiomatic expression that uses the present participle \"amor\" to convey a sense of eternal or timeless love, rather than describing a specific moment in time."
+    },
+    {
+      "time": 162.10609999999403,
+      "text": "Nada en esta vida podrá separarnos",
+      "translation": "Nothing in this life can separate us",
+      "grammar": "The phrase \"podrá\" is in the future tense, indicating a strong sense of determination and certainty that nothing can come between them. The verb agrees with the subject pronoun \"nada\" (nothing), emphasizing the idea that even the smallest obstacle cannot divide them."
+    },
+    {
+      "time": 167.98859999999405,
+      "text": "Me siento afortunado",
+      "translation": "I feel lucky",
+      "grammar": "The phrase \"me siento\" is an idiomatic expression equivalent to \"I feel\", using the reflexive pronoun \"me\" and the verb \"sentir\" in the present tense, conveying a sense of emotional state."
+    },
+    {
+      "time": 173.27009999999404,
+      "text": "Rozar mis labios a los tuyos fue un sueño",
+      "translation": "Touching my lips to yours was a dream",
+      "grammar": "The verb \"fue\" is in the preterite tense, indicating that the action of touching lips happened in the past. The phrase \"un sueño\" idiomatically means something wonderful or extraordinary."
+    },
+    {
+      "time": 183.10709999999403,
+      "text": "Y se me hizo",
+      "translation": "And it happened to me",
+      "grammar": "This idiomatic expression uses the present perfect tense (y se me hizo) to convey a sense of unexpectedness or surprise, implying that the event occurred at some point in the past but has relevance to the present."
+    },
+    {
+      "time": 187.86840000000595,
+      "text": "Tu personalidad fue mi debilidad",
+      "translation": "Your personality was my weakness",
+      "grammar": "The verb \"fue\" is in the preterite tense, indicating a completed action in the past. The phrase \"mi debilidad\" uses the possessive adjective \"mi\" to agree with the subject \"tu personalidad\"."
+    },
+    {
+      "time": 197.6688000000119,
+      "text": "Y tu hermosura",
+      "translation": "And your beauty",
+      "grammar": "This phrase uses the formal form of address (\"tu\" instead of \"usted\") to express admiration, and the idiomatic expression \"hermosura\" emphasizes the speaker's appreciation for the person's beauty."
+    }
+  ]
+}

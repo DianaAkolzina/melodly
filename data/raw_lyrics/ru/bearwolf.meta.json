@@ -1,0 +1,16 @@
+{
+  "language": "ru",
+  "title": "Валькирия",
+  "artist": "Bearwolf",
+  "slug": "bearwolf",
+  "track_length_seconds": 163,
+  "source": {
+    "provider": "musixmatch",
+    "track_id": 302227690,
+    "commontrack_id": 186840768,
+    "track_share_url": "https://www.musixmatch.com/lyrics/Bearwolf-3/%D0%92%D0%B0%D0%BB%D1%8C%D0%BA%D0%B8%D1%80%D0%B8%D1%8F?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "track_edit_url": "https://www.musixmatch.com/lyrics/Bearwolf-3/%D0%92%D0%B0%D0%BB%D1%8C%D0%BA%D0%B8%D1%80%D0%B8%D1%8F/edit?utm_source=application&utm_campaign=api&utm_medium=Verite+Solutions%3A1409626224320",
+    "search_language": "ru",
+    "fetched_at": "2025-11-22T09:32:57.575132Z"
+  }
+}

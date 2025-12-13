@@ -1,0 +1,151 @@
+{
+  "id": "ga_buachaill_n_irne",
+  "title": "Buachaill Ón Éirne",
+  "artist": "Clannad",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ga",
+  "to_language": "en",
+  "audio": "/audio/ga_buachaill_n_irne.mp3",
+  "duration": 69,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Ó, a leabhar na meaisbhréach in ainm thar líne as ól",
+      "translation": "Oh, the book of falsehoods in the name of over-the-top drinking",
+      "grammar": "The phrase \"in ainm\" is an idiomatic expression meaning \"in the name of\" or \"for the sake of\", used to indicate a purpose or intention."
+    },
+    {
+      "time": 3.0,
+      "text": "Níor thar an bhfost réirí atá mé ina saol ó lá",
+      "translation": "I am not beyond the bounds of my life.",
+      "grammar": "The phrase \"nó\" is a negation particle used to emphasize the negation, indicating strong denial. The sentence is in the present tense, describing a state or condition that exists at the moment of speaking."
+    },
+    {
+      "time": 6.0,
+      "text": "Slán, car, í a bheith ag a dhíomh",
+      "translation": "Goodbye, car, it's time to get rid of it.",
+      "grammar": "The phrase \"a bheith ag a dhíomh\" is in the future tense, indicating an upcoming action. The use of \"ag a\" instead of \"am\" or \"im\" is an idiomatic expression meaning \"it's time\"."
+    },
+    {
+      "time": 9.0,
+      "text": "A leabhar na stiúir ann",
+      "translation": "A book of instructions there",
+      "grammar": "The phrase \"ann\" is a prepositional particle indicating location, equivalent to \"there\" in English."
+    },
+    {
+      "time": 12.0,
+      "text": "'S mún an fhear, í mé beas í,'s bheim de",
+      "translation": "And if the man, I am his wife, and I am his.",
+      "grammar": "This line illustrates the use of the Irish idiomatic expression \"ís\" to indicate a possessive relationship, equivalent to \"his\" or \"her\". The speaker is emphasizing their connection with the man."
+    },
+    {
+      "time": 15.0,
+      "text": "Thar chomh ndéanfaidh i ón",
+      "translation": "I will do so from now on.",
+      "grammar": "The phrase \"thar chomh ndéanfaidh\" is in the future tense, indicating a commitment to take action. The use of \"thar\" (from) implies a sense of departure or change, emphasizing the speaker's intention to start something new."
+    },
+    {
+      "time": 18.0,
+      "text": "Ó, a ghluaireadh bá m'uaileoir",
+      "translation": "Oh, how my lover would rejoice!",
+      "grammar": "The phrase \"a ghluaireadh\" is an idiomatic expression indicating the speaker's emotional state, equivalent to saying \"if only\" or \"how I wish\". The verb \"bá\" is in the conditional mood, expressing a hypothetical situation."
+    },
+    {
+      "time": 21.0,
+      "text": "Náir gluaireadh mise ar a ghéal",
+      "translation": "I didn't smile at his face.",
+      "grammar": "The verb \"gluaireadh\" is in the past continuous tense, indicating an ongoing action that was not completed at the time of speaking. The use of \"nach\" (\"didn't\") negates the action, implying a deliberate choice to withhold a smile."
+    },
+    {
+      "time": 24.0,
+      "text": "Ach ag imeacht sa gcomhairle",
+      "translation": "But leaving in the council",
+      "grammar": "The phrase \"sa gcomhairle\" is an idiomatic expression indicating a decision or action taken within a group or organization, often translated as \"in the council\". The verb \"imeacht\" is in the present continuous tense, describing ongoing or simultaneous actions."
+    },
+    {
+      "time": 27.0,
+      "text": "'S le háthaigh bhreith easa fán clíal",
+      "translation": "And with a waterfall flowing down the stream",
+      "grammar": "The phrase \"S le háthaigh\" is an idiomatic expression indicating simultaneous action, equivalent to English \"as\" or \"while\"."
+    },
+    {
+      "time": 30.0,
+      "text": "Mo thagann mé mo stoir",
+      "translation": "I come from my past.",
+      "grammar": "This line employs a common Irish idiom, where \"mo\" is used to indicate origin or source, rather than possession. The phrase \"thagann mé\" translates to \"I come\" in the present continuous tense, emphasizing the ongoing nature of one's connection to their past."
+    },
+    {
+      "time": 33.0,
+      "text": "Ní d'fhág nár thagann mé mo chiall",
+      "translation": "I didn't let my senses fail me.",
+      "grammar": "The verb phrase \"nár thagann\" is in the conditional mood, indicating a hypothetical or uncertain situation. The use of \"nár\" (not) emphasizes the speaker's determination to not let their senses deceive them."
+    },
+    {
+      "time": 36.0,
+      "text": "Is ní mór liom do phóg",
+      "translation": "I need your kiss.",
+      "grammar": "In Irish, \"ní mór\" is an idiomatic expression meaning \"necessary\" or \"need\", used to convey a strong desire. The verb \"liom\" is in the first person singular possessive form, indicating that the speaker's need is personal and intimate."
+    },
+    {
+      "time": 39.0,
+      "text": "Nál bróg atá caithiúil le bliain",
+      "translation": "No shoes that are worn out for a year",
+      "grammar": "The phrase \"caithiúil\" is an adjective in the past participle form, indicating the duration of wear and tear (\"worn out\"). The sentence uses the present tense to describe a general truth about shoes."
+    },
+    {
+      "time": 42.0,
+      "text": "Ach is leas's a stór ná b'fhás",
+      "translation": "But it is better to treasure than to grow.",
+      "grammar": "The phrase \"is leas\" uses the subjunctive mood, indicating a hypothetical or uncertain situation. This construction is common in Irish Gaelic and can be translated as \"it would be better\"."
+    },
+    {
+      "time": 45.0,
+      "text": "An sean d'fhéin a leag",
+      "translation": "The old one who laid it down",
+      "grammar": "In Irish, \"a\" is used to indicate possession or association, similar to English \"whose\". In this context, \"an sean d'fhéin\" can be translated as \"the old one's\" or \"the old one who\", showing a possessive relationship between the speaker and the person being referred to."
+    },
+    {
+      "time": 48.0,
+      "text": "Ach b'fhás a bharróg",
+      "translation": "But his hug grew",
+      "grammar": "The phrase \"ach\" is an Irish idiomatic expression used to indicate a contrast or exception, similar to the English phrase \"but\"."
+    },
+    {
+      "time": 51.0,
+      "text": "Mo ghlodh, mo mhairis é a chloigean",
+      "translation": "My cry, my life, is his head.",
+      "grammar": "In Irish, the verb \"é\" is in the nominative case and functions as a pronoun, agreeing with the subject \"a chloigean\". The sentence uses a metaphorical idiom to convey the idea that one's very existence or being is tied to someone else."
+    },
+    {
+      "time": 54.0,
+      "text": "Ná b'fhéad tú go fáil gan ón",
+      "translation": "You couldn't have gotten it without it.",
+      "grammar": "The phrase \"gan ón\" is an idiomatic expression meaning \"without it\", where \"gan\" indicates the absence of something and \"ón\" implies a necessary condition. The sentence uses the past tense to describe a hypothetical situation, emphasizing the impossibility of achieving something without a particular factor."
+    },
+    {
+      "time": 57.0,
+      "text": "Ná mo chaost ó cheann",
+      "translation": "Don't mess with me from the beginning.",
+      "grammar": "The phrase \"Ná mo\" is an idiomatic expression meaning \"don't mess with me\", using the imperative mood and negation to convey a strong warning."
+    },
+    {
+      "time": 60.0,
+      "text": "A chuir le do deireadh",
+      "translation": "Which contributed to your end",
+      "grammar": "The phrase \"a chuir\" is an idiomatic expression indicating cause or contribution, using the verb \"to put\" in a figurative sense. The sentence is in the past tense, describing an action that led to a particular outcome."
+    },
+    {
+      "time": 63.0,
+      "text": "Tráthnóna nó ar maidin go tráth",
+      "translation": "Afternoon or early morning",
+      "grammar": "This phrase uses the idiomatic expression \"go tráth\" to indicate a time range, rather than a specific point in time. The verb \"go\" is used to convey a sense of approximation or flexibility, similar to English expressions like \"in the afternoon/evening\"."
+    },
+    {
+      "time": 66.0,
+      "text": "Ooh",
+      "translation": "Ohh",
+      "grammar": "This interjection \"Ooh\" is an expression of surprise or excitement, often used to draw attention or convey enthusiasm."
+    }
+  ]
+}

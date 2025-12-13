@@ -1,0 +1,277 @@
+{
+  "id": "ru_life",
+  "title": "Life",
+  "artist": "Zivert",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ru",
+  "to_language": "en",
+  "audio": "/audio/ru_life.mp3",
+  "duration": 188,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Every time you're here I can love",
+      "translation": "Every time you're here I can love",
+      "grammar": "The phrase \"Every time you're here\" is in the present continuous tense, indicating an ongoing action that happens repeatedly. The idiom \"I can love\" suggests the speaker's ability to express love when the person they care about is physically present."
+    },
+    {
+      "time": 8.19,
+      "text": "Don't you know, been waiting so long",
+      "translation": "Don't you know, been waiting so long",
+      "grammar": "The phrase \"been waiting so long\" is in the present perfect continuous tense, indicating an action started in the past and continuing up to the present moment. This idiom conveys a sense of prolonged expectation or anticipation."
+    },
+    {
+      "time": 9.34409999999404,
+      "text": "Like a ﬁrst time, give me this madness",
+      "translation": "Like a first time, give me this madness",
+      "grammar": "The phrase \"like a first time\" is an idiomatic expression used to convey the idea of experiencing something for the first time, regardless of actual frequency. It's often used to emphasize the intensity or novelty of the situation."
+    },
+    {
+      "time": 13.41740000000596,
+      "text": "Just stay and look into my eyes",
+      "translation": "Just stay and look into my eyes",
+      "grammar": "The imperative mood is used to give a direct instruction, with the verb \"stay\" in the present tense. The phrase \"look into my eyes\" is an idiomatic expression meaning to focus one's attention on someone or something."
+    },
+    {
+      "time": 17.335799999982118,
+      "text": "Every time you're here I can love",
+      "translation": "Every time you're here I can love",
+      "grammar": "This line illustrates the use of the present continuous tense to express a habitual or repeated action, with \"every time\" indicating frequency."
+    },
+    {
+      "time": 21.20879999998212,
+      "text": "Don't you know, been waiting so long",
+      "translation": "Don't you know, been waiting so long",
+      "grammar": "The phrase \"been waiting so long\" is an idiomatic expression in the present perfect continuous tense, indicating a prolonged period of waiting."
+    },
+    {
+      "time": 25.08079999998212,
+      "text": "Like a ﬁrst time, give me this madness",
+      "translation": "Like a first time, give me this madness",
+      "grammar": "The phrase \"like a first time\" is an idiom that conveys the idea of experiencing something for the first time, and the sentence is in the imperative mood, making it a request."
+    },
+    {
+      "time": 29.501199999988078,
+      "text": "Just stay and look into my eyes",
+      "translation": "Just stay and look into my eyes",
+      "grammar": "This line uses the imperative mood to make a request, with the verb \"stay\" in the present tense. The phrase \"look into my eyes\" is an idiomatic expression meaning to deeply connect or focus on someone."
+    },
+    {
+      "time": 32.44859999999404,
+      "text": "Эта life в кайф, когда ты сделал выбор сам",
+      "translation": "This life is a blast when you make your own choice.",
+      "grammar": "The phrase \"когда ты сделал выбор сам\" uses the present perfect tense to emphasize the importance of making one's own decision."
+    },
+    {
+      "time": 36.771,
+      "text": "И по пустякам не ищешь повода в глазах",
+      "translation": "And you don’t look for a reason in the eyes for trifles",
+      "grammar": "The phrase \"не ищешь\" is in the present tense, indicating a habitual or general truth, rather than a specific action. The idiom \"по пустякам\" translates to \"for trifles\", implying that one shouldn't overthink minor issues."
+    },
+    {
+      "time": 40.52019999998808,
+      "text": "Когда в ожогах толк, ведь для тебя это урок",
+      "translation": "When burns are useful, it's a lesson for you",
+      "grammar": "The phrase \"для тебя\" (dlya tebya) is an idiomatic expression meaning \"for you\" or \"as a lesson to you\". The verb \"толк\" (tolk) is in the passive voice, indicating that the burns are useful or beneficial."
+    },
+    {
+      "time": 44.29029999998212,
+      "text": "Куда-то унесло, и вот ты вновь сыграл в любовь",
+      "translation": "You were carried away somewhere, and now you're playing at love again",
+      "grammar": "The phrase \"сыграл в любовь\" is an idiom that means to pretend or act as if one is in love, rather than genuinely experiencing romantic feelings. The verb \"играть\" (to play) here implies a superficial or insincere approach to love."
+    },
+    {
+      "time": 48.49969999998808,
+      "text": "Перезаряжай или утопи в вискарь",
+      "translation": "Reload or drown in whiskey",
+      "grammar": "This idiomatic phrase uses the imperative mood to convey a sense of urgency, with the verb \"перезаряжай\" (reload) and \"утопи\" (drown) both in the second person singular form, emphasizing the speaker's direct address."
+    },
+    {
+      "time": 52.15009999999404,
+      "text": "Но не позволяй сказать, что эта life не кайф",
+      "translation": "But don't let me tell you this life isn't fun.",
+      "grammar": "The phrase \"не кайф\" is an idiomatic expression meaning \"fun\" or \"enjoyable\". The use of the verb \"позволяй\" (let) in the imperative mood emphasizes a strong prohibition, urging the listener not to think negatively about life."
+    },
+    {
+      "time": 56.44069999998808,
+      "text": "Из небытия эти все события",
+      "translation": "From nothingness all these events",
+      "grammar": "This phrase uses the idiomatic expression \"из небытия\" (from nothingness) to convey a sense of sudden or unexpected occurrence, rather than a literal spatial origin. The verb \"быть\" is implied but not explicitly stated, as it is often omitted in Russian when describing abstract concepts."
+    },
+    {
+      "time": 60.69359999999404,
+      "text": "Тут любая полоса на любителя",
+      "translation": "Here, every lane is for everyone.",
+      "grammar": "This idiomatic expression uses the present tense to convey a universal truth, implying that in this particular context, any lane is accessible to anyone."
+    },
+    {
+      "time": 66.171,
+      "text": "Every time you're here I can love",
+      "translation": "Every time you're here I can love",
+      "grammar": "This line illustrates the use of the present continuous tense to express a habitual or repeated action, with \"every time\" indicating a regular occurrence."
+    },
+    {
+      "time": 71.23009999999404,
+      "text": "Don't you know, been waiting so long",
+      "translation": "Don't you know, been waiting so long",
+      "grammar": "The phrase \"been waiting\" is in the present perfect continuous tense, indicating an action started in the past and still relevant now."
+    },
+    {
+      "time": 75.11689999997616,
+      "text": "Like a ﬁrst time, give me this madness",
+      "translation": "Like a first time, give me this madness",
+      "grammar": "This line uses the idiomatic expression \"like a first time\" to convey the idea of experiencing something for the first time again, rather than literally being a first-time event. The phrase is used to emphasize the intensity or novelty of the situation."
+    },
+    {
+      "time": 79.42819999998808,
+      "text": "Just stay and look into my eyes",
+      "translation": "Just stay and look into my eyes",
+      "grammar": "The imperative mood is used to express a polite request, with the verb \"stay\" in the present tense. The phrase \"look into my eyes\" is an idiomatic expression meaning to deeply connect or understand someone."
+    },
+    {
+      "time": 83.53369999998807,
+      "text": "Every time you're here I can love",
+      "translation": "Every time you're here I can love",
+      "grammar": "The phrase \"Every time you're here\" uses the present continuous tense to express a habitual or repeated action, implying that the speaker's ability to love is directly linked to the person being with them."
+    },
+    {
+      "time": 87.0705,
+      "text": "Don't you know, been waiting so long",
+      "translation": "Don't you know, been waiting so long",
+      "grammar": "This line uses the present simple tense to express a general truth or habitual action, and the past continuous tense to describe an ongoing action in the past."
+    },
+    {
+      "time": 91.26689999997616,
+      "text": "Like a ﬁrst time, give me this madness",
+      "translation": "Like a first time, give me this madness",
+      "grammar": "This line uses the idiomatic expression \"like a first time\" to convey the intensity or novelty of an experience, rather than referring to a literal first occurrence. The phrase is in the imperative mood, making it a request or command."
+    },
+    {
+      "time": 95.22159999999404,
+      "text": "Just stay and look into my eyes",
+      "translation": "Just stay and look into my eyes",
+      "grammar": "The imperative mood is used to express a request or command, as in \"stay\" and \"look\". The phrase \"into my eyes\" is an idiomatic expression meaning to gaze deeply at someone."
+    },
+    {
+      "time": 98.37969999998808,
+      "text": "Эта life в кайф, когда не хочется назад",
+      "translation": "This life is a joy when you don't want to go back",
+      "grammar": "The phrase \"когда не хочется назад\" uses the present continuous tense to convey a sense of ongoing reluctance or unwillingness, rather than a specific point in time. This idiomatic expression emphasizes the speaker's emotional state and creates a vivid image of contentment."
+    },
+    {
+      "time": 102.8095,
+      "text": "И только этот миг лишь бы повторять подряд",
+      "translation": "And only this moment should be repeated in a row",
+      "grammar": "The phrase \"подряд\" is an idiom meaning \"in a row\" or \"straight away\", emphasizing the importance of immediate repetition."
+    },
+    {
+      "time": 106.42569999998808,
+      "text": "Забить на палево, если так понравилось",
+      "translation": "Forget about it if you liked it that much",
+      "grammar": "This idiom uses the imperative mood to convey a casual suggestion. The phrase \"забить на\" is an informal way to say \"forget about\"."
+    },
+    {
+      "time": 110.30919999998808,
+      "text": "Чем-то большим стать, ведь наша жизнь — это фристайл",
+      "translation": "To become something more, because our life is freestyle",
+      "grammar": "The phrase \"фристайл\" (freestyle) is an idiom that conveys the idea of a spontaneous and unstructured approach to life."
+    },
+    {
+      "time": 114.34769999998808,
+      "text": "На трубке занято, возможно, вы уже никто",
+      "translation": "The line is busy, maybe you are nobody anymore",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of permanent or habitual state (\"you are nobody anymore\"), rather than a specific moment in time. The phrase \"уже никто\" (already nobody) emphasizes the idea that this person's status has been irreversibly lost."
+    },
+    {
+      "time": 118.20539999997615,
+      "text": "Но жёлтый светофор — последний шанс на тапку в пол",
+      "translation": "But a yellow traffic light is the last chance to put the pedal to the metal.",
+      "grammar": "The phrase \"put the pedal to the metal\" is an idiom that means to accelerate or go all out, conveying a sense of urgency and intensity."
+    },
+    {
+      "time": 122.32489999997615,
+      "text": "Эта карусель для таких, как мы, детей",
+      "translation": "This carousel is for kids like us.",
+      "grammar": "The phrase \"для таких, как мы\" is an idiomatic expression translating to \"like us\". It uses the comparative form of the adjective \"такой\" (such) with the preposition \"как\" (as/like), indicating a similarity in characteristics or nature."
+    },
+    {
+      "time": 126.72409999999404,
+      "text": "Если все вокруг не те, поищи в себе",
+      "translation": "If everyone around you is wrong, look within yourself",
+      "grammar": "This idiomatic expression uses the present tense to convey a timeless truth, emphasizing the importance of self-reflection regardless of external circumstances. The phrase \"не те\" is an idiom meaning \"not suitable\" or \"not right\", rather than a literal description."
+    },
+    {
+      "time": 132.636,
+      "text": "Every time you're here I can love",
+      "translation": "Every time you're here I can love",
+      "grammar": "This line uses the present continuous tense to express a habitual or repeated action, emphasizing the speaker's ability to love when the person is around."
+    },
+    {
+      "time": 136.91389999997617,
+      "text": "Don't you know, been waiting so long",
+      "translation": "Don't you know, been waiting so long",
+      "grammar": "The phrase \"been waiting\" is in the present perfect continuous tense, indicating an action started in the past and continuing up to the present moment."
+    },
+    {
+      "time": 141.4155,
+      "text": "Like a ﬁrst time, give me this madness",
+      "translation": "Like a first time, give me this madness",
+      "grammar": "The phrase \"like a first time\" is an idiomatic expression used to convey the idea of experiencing something for the first time, regardless of actual frequency. The present tense \"give me\" indicates a request or desire in the speaker's voice."
+    },
+    {
+      "time": 145.23139999997616,
+      "text": "Just stay and look into my eyes",
+      "translation": "Just stay and look into my eyes",
+      "grammar": "The imperative mood is used to express a direct instruction, with the verb \"stay\" in the present tense. The phrase \"look into my eyes\" is an idiomatic expression meaning to have a deep emotional connection or understanding."
+    },
+    {
+      "time": 149.1955,
+      "text": "Every time you're here I can love",
+      "translation": "Every time you're here I can love",
+      "grammar": "The phrase \"Every time you're here\" is an idiomatic expression indicating a habitual or repeated action, using the present continuous tense to convey a sense of ongoing possibility."
+    },
+    {
+      "time": 153.34769999998807,
+      "text": "Don't you know, been waiting so long",
+      "translation": "Don't you know, been waiting so long",
+      "grammar": "The phrase \"been waiting so long\" is an idiomatic expression in the present perfect tense, indicating that the action of waiting started in the past and continues up to the present moment."
+    },
+    {
+      "time": 157.22309999999405,
+      "text": "Like a ﬁrst time, give me this madness",
+      "translation": "Like a first time, give me this madness",
+      "grammar": "This line employs an idiomatic expression \"like a first time\" to convey the intensity of the experience, using the present perfect continuous tense to emphasize the ongoing nature of the madness."
+    },
+    {
+      "time": 161.20689999997614,
+      "text": "Just stay and look into my eyes",
+      "translation": "Just stay and look into my eyes",
+      "grammar": "The imperative mood is used to express a direct command, with the verb \"stay\" in the present tense. The phrase \"look into my eyes\" is an idiomatic expression meaning to gaze deeply into someone's eyes."
+    },
+    {
+      "time": 165.4441999999881,
+      "text": "Every time you're here I can love",
+      "translation": "Every time you're here I can love",
+      "grammar": "The phrase \"Every time you're here\" uses the present continuous tense to express a habitual or repeated action, implying that the speaker's ability to love is directly linked to the person being with them."
+    },
+    {
+      "time": 169.53059999999405,
+      "text": "Don't you know, been waiting so long",
+      "translation": "Don't you know, been waiting so long",
+      "grammar": "The phrase \"been waiting\" is in the past continuous tense, used to describe an action that started in the past and continued up to a specific point. This idiom conveys a sense of prolonged expectation or anticipation."
+    },
+    {
+      "time": 173.3878000000119,
+      "text": "Like a ﬁrst time, give me this madness",
+      "translation": "Like a first time, give me this madness",
+      "grammar": "This idiomatic expression uses the present perfect tense to convey the idea of experiencing something for the first time, emphasizing the intensity and novelty of the emotions."
+    },
+    {
+      "time": 177.539,
+      "text": "Just stay and look into my eyes",
+      "translation": "Just stay and look into my eyes",
+      "grammar": "The imperative mood is used to express a direct instruction, with the verb \"stay\" in the present tense. The phrase \"look into my eyes\" is an idiomatic expression meaning to maintain eye contact or focus attention on someone."
+    }
+  ]
+}

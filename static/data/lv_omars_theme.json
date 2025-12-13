@@ -1,0 +1,61 @@
+{
+  "id": "lv_omars_theme",
+  "title": "Omar's theme",
+  "artist": "Pet Shop Boys",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "lv",
+  "to_language": "en",
+  "audio": "/audio/lv_omars_theme.mp3",
+  "duration": 188,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Maiṁ tuhānū pi'āra karadā hāṁ",
+      "translation": "May you be blessed with a good heart.",
+      "grammar": "In this line, the verb \"karadā\" is in the imperative mood, used to express a polite request or blessing. The phrase \"Maiṁ tuhānū pi'āra\" can be translated as \"may you have\" and is an idiomatic expression conveying good wishes."
+    },
+    {
+      "time": 23.65,
+      "text": "Maiṁ tuhānū pi'āra karadā hāṁ",
+      "translation": "May you be blessed with a good heart.",
+      "grammar": "This line uses the imperative mood to express a wish or blessing, with the verb \"karadā\" (to bless) in the second person singular form \"hāṁ\" agreeing with the pronoun \"tuhānū\" (you)."
+    },
+    {
+      "time": 47.3,
+      "text": "Maiṁ tuhānū pi'āra karadā hāṁ",
+      "translation": "May you be blessed with a good heart.",
+      "grammar": "This sentence uses the imperative mood to express a wish or blessing, with the verb \"karadā\" (to bless) in the second person singular form \"hāṁ\" agreeing with the pronoun \"tuhānū\" (you)."
+    },
+    {
+      "time": 70.95,
+      "text": "Maiṁ tuhānū pi'āra karadā hāṁ",
+      "translation": "May you be blessed with a good heart.",
+      "grammar": "This line uses the formal second-person singular honorific verb form \"tu\" to express respect and politeness, which is common in Indian languages like Latvian. The phrase \"pi'āra karadā\" idiomatically means \"with a good heart\", conveying a wish for the person's well-being."
+    },
+    {
+      "time": 94.6,
+      "text": "Maiṁ tuhānū pi'āra karadā hāṁ",
+      "translation": "May you be blessed with a good heart.",
+      "grammar": "This line uses the formal second-person singular honorific form Maiṁ to express respect and politeness, emphasizing the speaker's humility and reverence."
+    },
+    {
+      "time": 118.25,
+      "text": "Maiṁ tuhānū pi'āra karadā hāṁ",
+      "translation": "May you be blessed with a good heart.",
+      "grammar": "This sentence is in the imperative mood, expressing a wish or blessing to someone. The verb \"karadā\" (to be blessed) is in the third person singular, agreeing with the indirect object \"you\"."
+    },
+    {
+      "time": 141.9,
+      "text": "Maiṁ tuhānū pi'āra karadā hāṁ",
+      "translation": "May you be blessed with a good heart.",
+      "grammar": "This sentence uses the humble verb form \"karadā\" to express a wish, which is a common idiomatic way to convey politeness and respect in Hindi. The sentence also employs the formal second-person singular pronoun \"tuhānū\", emphasizing the speaker's humility and deference towards the addressee."
+    },
+    {
+      "time": 165.55,
+      "text": "Maiṁ tuhānū pi'āra karadā hāṁ",
+      "translation": "May you be blessed with a good heart.",
+      "grammar": "This line uses the imperative mood to express a wish, with the verb \"karadā\" (to bless) in the second person singular form \"hāṁ\" agreeing with the pronoun \"tuhānū\" (you)."
+    }
+  ]
+}

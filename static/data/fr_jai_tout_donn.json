@@ -1,0 +1,157 @@
+{
+  "id": "fr_jai_tout_donn",
+  "title": "J'ai Tout Donné",
+  "artist": "Jabbour",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "fr",
+  "to_language": "en",
+  "audio": "/audio/fr_jai_tout_donn.mp3",
+  "duration": 225,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 8.539,
+      "text": "J'ai tout donné pour Florentine",
+      "translation": "I gave everything for Florentine",
+      "grammar": "The use of the imperfective tense \"j'ai\" (I have) instead of the perfective \"je lui ai donné\" (I gave to him/her) emphasizes the ongoing nature of the speaker's sacrifice, highlighting their dedication and commitment."
+    },
+    {
+      "time": 10.7455,
+      "text": "J'voulais rien qu'elle, c'était la plus fine",
+      "translation": "I wanted nothing but her, she was the most beautiful",
+      "grammar": "The phrase \"J'voulais rien qu'elle\" is an informal way to express strong desire or longing in French, using the contraction of \"je voulais\" (I wanted) and the pronoun \"elle\" (she), emphasizing the object of one's desire."
+    },
+    {
+      "time": 18.372100000023842,
+      "text": "J'ai écrit son nom avec des fleurs",
+      "translation": "I wrote his name with flowers",
+      "grammar": "The use of the verb \"j'ai\" (I have) in the present perfect tense indicates that the action of writing is completed before the current moment, emphasizing the significance of this act."
+    },
+    {
+      "time": 21.15290000000596,
+      "text": "Et un gros morceau d'mon cœur",
+      "translation": "And a big piece of my heart",
+      "grammar": "This idiomatic expression uses the informal pronoun \"mon\" instead of the formal \"mon cœur\" to convey a sense of intimacy and informality, typical in spoken French."
+    },
+    {
+      "time": 34.3515,
+      "text": "J'ai traversé le ponceau",
+      "translation": "I crossed the culvert",
+      "grammar": "The verb \"j'ai\" is in the compound past tense, indicating a completed action in the past. The phrase \"traverser le ponceau\" is an idiomatic expression meaning to overcome or get through a difficult situation."
+    },
+    {
+      "time": 36.65910000002384,
+      "text": "J'ai puisé l'eau, j'ai usé mon dos",
+      "translation": "I drew water, I wore out my back",
+      "grammar": "This idiomatic expression uses the present perfect tense to convey a sense of completion and exhaustion, emphasizing the consequences of one's actions. The use of \"mon dos\" instead of \"mon épaule\" or \"ma colonne vertébrale\" highlights the idiomatic phrase \"porter le fardeau\", meaning \"to bear the burden\"."
+    },
+    {
+      "time": 44.57070000001788,
+      "text": "J'ai tout semé sur la prairie",
+      "translation": "I sowed everything on the meadow",
+      "grammar": "The use of \"j'ai\" (I have) in the present perfect tense indicates that the action of sowing is completed, and its effects are still relevant. The idiomatic expression \"semé sur la prairie\" literally means \"sown on the meadow\", but figuratively conveys the idea of scattering one's life or energy everywhere."
+    },
+    {
+      "time": 47.48040000000596,
+      "text": "Et toutes les fleurs ont fleuri",
+      "translation": "And all the flowers bloomed",
+      "grammar": "The phrase \"ont fleuri\" is in the imperfect tense, indicating a completed action in the past with an emphasis on its duration. This idiomatic expression conveys that the blooming of flowers was a prolonged process."
+    },
+    {
+      "time": 73.53890000000597,
+      "text": "J'ai tout donné pour Violette",
+      "translation": "I gave everything for Violette",
+      "grammar": "The use of the imperfective tense \"j'ai\" (I have) to describe a past action emphasizes the speaker's enduring commitment and sacrifice, conveying a sense of regret or longing."
+    },
+    {
+      "time": 75.95460000002385,
+      "text": "Ma voiture, et ma bicyclette",
+      "translation": "My car, and my bicycle",
+      "grammar": "This line illustrates a common idiomatic expression in French, where a comma is used to connect two nouns or phrases that are not necessarily equal in importance. The sentence remains in the present tense, describing the speaker's possessions."
+    },
+    {
+      "time": 83.61420000001789,
+      "text": "J'ai tout laissé tomber pour Marguerite",
+      "translation": "I gave up everything for Marguerite",
+      "grammar": "The phrase \"j'ai tout laissé tomber\" is in the passé composé tense, indicating a completed action in the past. The idiom \"lâcher tomber\" means to give up or abandon something."
+    },
+    {
+      "time": 86.24440000000597,
+      "text": "Elle était si belle, elle est partie vite",
+      "translation": "She was so beautiful, she left us so quickly.",
+      "grammar": "The use of both passé composé (was) and présent simple (is) in the same sentence is a common way to express a contrast between past and present. The phrase \"elle était si belle\" describes a past state, while \"elle est partie vite\" describes a current consequence of that state."
+    },
+    {
+      "time": 99.53060000002384,
+      "text": "J'ai traversé le ponceau",
+      "translation": "I crossed the culvert",
+      "grammar": "The phrase \"j'ai traversé\" is in the passé composé tense, indicating a completed action in the past. The use of \"traverser\" with \"le ponceau\" creates an idiomatic expression meaning to cross or get over something difficult."
+    },
+    {
+      "time": 101.97270000001788,
+      "text": "J'ai puisé l'eau, j'ai usé mon dos",
+      "translation": "I drew water, I wore out my back",
+      "grammar": "The use of the imperfect tense (j'ai puisé, j'ai usé) to describe repeated actions emphasizes their habitual nature. The idiomatic expression \"mon dos\" literally means \"my back\", but figuratively conveys exhaustion or weariness."
+    },
+    {
+      "time": 109.84310000002384,
+      "text": "J'ai tout semé sur la prairie",
+      "translation": "I sowed everything on the meadow",
+      "grammar": "The phrase \"j'ai tout semé\" is in the present perfect tense, indicating that the action of sowing started and finished at some point before now. The idiomatic expression \"semé sur la prairie\" means to scatter or spread something widely, rather than planting it intentionally."
+    },
+    {
+      "time": 112.46090000000596,
+      "text": "Et toutes les fleurs ont fleuri",
+      "translation": "And all the flowers bloomed",
+      "grammar": "The phrase \"ont fleuri\" is in the imperfect tense, indicating a completed action in the past. This idiomatic expression means that something happened suddenly and simultaneously, rather than gradually or over time."
+    },
+    {
+      "time": 138.46030000001193,
+      "text": "Je me suis donné à Capucine",
+      "translation": "I gave myself to Capucine",
+      "grammar": "The phrase \"me suis\" is a reflexive construction in the passé composé tense, indicating that the subject (the speaker) performed the action of giving themselves. The use of \"se donner\" is an idiomatic expression meaning to surrender or dedicate oneself to someone."
+    },
+    {
+      "time": 141.30220000001788,
+      "text": "Angélique et Jasmine",
+      "translation": "Angelique and Jasmine",
+      "grammar": "This line uses the present tense to introduce two proper nouns, Angélique and Jasmine, in a nominative apposition, emphasizing their names."
+    },
+    {
+      "time": 148.8595,
+      "text": "Là, je suis seul sur la prairie",
+      "translation": "Here, I am alone on the meadow",
+      "grammar": "The phrase \"Là, je suis\" is an idiomatic expression that indicates a sense of isolation or loneliness. The adverb \"là\" implies a physical distance or separation, emphasizing the speaker's solitude."
+    },
+    {
+      "time": 151.51540000000597,
+      "text": "Et toutes les fleurs sont mes amies",
+      "translation": "And all the flowers are my friends",
+      "grammar": "The phrase \"toutes les fleurs\" is an idiomatic expression, where \"toutes\" means \"all\" in a figurative sense, emphasizing the speaker's affection and connection with nature."
+    },
+    {
+      "time": 159.56530000001192,
+      "text": "J'ai tout donné, j'ai tout donné",
+      "translation": "I gave it my all, I gave it my all",
+      "grammar": "The repeated use of \"j'ai tout donné\" emphasizes the speaker's complete commitment and sincerity, conveying a sense of resignation or acceptance. The present perfect tense (j'ai) highlights the completeness of their effort."
+    },
+    {
+      "time": 162.01020000001787,
+      "text": "Toutes les fleurs ont fleuri",
+      "translation": "All the flowers have bloomed",
+      "grammar": "The phrase \"ont fleuri\" is in the perfect tense, indicating that the action of blooming was completed at some point in the past."
+    },
+    {
+      "time": 164.4958000000119,
+      "text": "J'ai tout donné, j'ai tout donné",
+      "translation": "I gave it my all, I gave it my all",
+      "grammar": "The repeated use of \"j'ai tout donné\" is an idiomatic expression in French, emphasizing the speaker's complete commitment and exhaustion. The verb \"donné\" is in the passé composé tense, indicating a completed action in the past."
+    },
+    {
+      "time": 167.18610000002383,
+      "text": "Toutes les fleurs sont mes amies",
+      "translation": "All flowers are my friends",
+      "grammar": "The phrase \"toutes les fleurs\" is in the plural form, agreeing with the singular noun \"amie\" (friend), which is idiomatic in French. This construction emphasizes the speaker's affection and inclusivity towards all flowers."
+    }
+  ]
+}

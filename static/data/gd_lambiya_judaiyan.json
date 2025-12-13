@@ -1,0 +1,157 @@
+{
+  "id": "gd_lambiya_judaiyan",
+  "title": "Lambiya Judaiyan",
+  "artist": "Bilal Saeed",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "hi",
+  "to_language": "en",
+  "audio": "/audio/gd_lambiya_judaiyan.mp3",
+  "duration": 72,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Chhod de, chhod de, chhod de aaj hath",
+      "translation": "Leave it, leave it, leave my hand today",
+      "grammar": "The repeated imperative \"chhod de\" is an idiomatic expression emphasizing the urgency of leaving something or someone alone. The verb \"chhod\" remains in the present tense throughout, conveying a sense of ongoing action."
+    },
+    {
+      "time": 3.0,
+      "text": "Rok le, rok le aakhon mein jazbaat",
+      "translation": "Stop it, stop it, there are emotions in my eyes",
+      "grammar": "The phrase \"rok le\" is an idiom that means \"stop it\" or \"enough already\", conveying a sense of urgency and frustration. The use of the verb \"le\" (to do) in this context implies a strong emotional tone, emphasizing the speaker's desire to halt the situation."
+    },
+    {
+      "time": 6.0,
+      "text": "Hai shuru aaj se yeh judai ki raat",
+      "translation": "This night of separation begins today.",
+      "grammar": "The phrase \"hain shuru\" is an idiomatic expression indicating the start or beginning of something, often used to emphasize the significance of an event. In this context, it implies that a period of separation has begun as of today."
+    },
+    {
+      "time": 9.0,
+      "text": "Ja raha hoon liye main teri yaad sath",
+      "translation": "I am leaving with your memories",
+      "grammar": "The verb \"raha\" is in the present continuous tense, indicating an ongoing action. The phrase \"liye main\" is an idiomatic expression meaning \"with\" or \"accompanied by\"."
+    },
+    {
+      "time": 12.0,
+      "text": "Teri aagosh se door",
+      "translation": "away from your embrace",
+      "grammar": "The phrase \"Teri aagosh se door\" uses the idiomatic expression \"aagosh\" to convey being away or separated, rather than physical distance. The verb \"se\" is an ablative particle indicating separation or removal."
+    },
+    {
+      "time": 15.0,
+      "text": "Teri khushbuon se door",
+      "translation": "Away from your fragrance",
+      "grammar": "The phrase \"Teri khushbuon se\" is an idiomatic expression that uses the possessive pronoun \"teri\" to convey a sense of separation or distance, rather than literal possession."
+    },
+    {
+      "time": 18.0,
+      "text": "Mujhe ho jaane de",
+      "translation": "let me be",
+      "grammar": "This is an idiomatic expression, where \"ho jaane\" is a colloquial way to say \"to be\" in the imperative mood, with the speaker requesting permission or acquiescence. The verb \"jaane\" is in the subjunctive mood, indicating a polite request."
+    },
+    {
+      "time": 21.0,
+      "text": "Aaj khud se tu door",
+      "translation": "Today you are away from yourself",
+      "grammar": "The phrase \"khud se\" is an idiomatic expression indicating self-alienation, emphasizing a sense of disconnection or detachment."
+    },
+    {
+      "time": 24.0,
+      "text": "Dhoond loonga koyi to main aisi jagah",
+      "translation": "I will find someone in such a place",
+      "grammar": "The sentence uses the future tense (will find) and the subjunctive mood, implying a hypothetical or uncertain situation. The phrase \"koyi to\" is an idiomatic expression meaning \"someone\" or \"anyone\"."
+    },
+    {
+      "time": 27.0,
+      "text": "Na jahan ho yaad se raabta",
+      "translation": "Where there is no connection with memories",
+      "grammar": "The phrase \"ho yaad se\" is an idiomatic expression indicating a sense of nostalgia or longing, often used to describe a deep emotional connection. The verb \"ho\" is in the subjunctive mood, implying a hypothetical or ideal situation."
+    },
+    {
+      "time": 30.0,
+      "text": "Raaston se jude na koyi raasta",
+      "translation": "Don't follow the path and don't learn the path.",
+      "grammar": "This idiomatic expression uses the negative imperative to convey a sense of negation, emphasizing the idea that one should not conform or follow societal norms. The verb forms are in the second person singular, addressing the listener directly."
+    },
+    {
+      "time": 33.0,
+      "text": "Faaslon se bhi mit na sake faasla",
+      "translation": "The distance cannot be erased even by decisions",
+      "grammar": "This idiomatic expression uses the present continuous tense to convey a sense of impossibility, emphasizing that no matter what decisions are made, the distance cannot be eliminated."
+    },
+    {
+      "time": 36.0,
+      "text": "In raabton se door",
+      "translation": "away from these people",
+      "grammar": "The phrase \"in raabton\" is an idiomatic expression indicating distance or separation, often used to convey a sense of disconnection or removal."
+    },
+    {
+      "time": 39.0,
+      "text": "Tere raaston se door",
+      "translation": "away from your paths",
+      "grammar": "The phrase \"tere raaston\" is an idiomatic expression indicating separation or distance, using the verb \"raastu\" in the imperative mood to convey a sense of moving away. The pronoun \"tere\" can be translated as \"your\" and agrees with the noun \"raaston\", emphasizing the idea of departing from someone's path."
+    },
+    {
+      "time": 42.0,
+      "text": "Mujhe ho jaane de",
+      "translation": "let me be",
+      "grammar": "This is an imperative sentence in Hindi, where \"ho\" is a verb in the subjunctive mood, expressing a wish or desire. The phrase \"mujhe ho jaane de\" literally means \"give me to be\", but its idiomatic translation is \"let me be\"."
+    },
+    {
+      "time": 45.0,
+      "text": "Aaj khud se tu door",
+      "translation": "Today you are away from yourself",
+      "grammar": "The phrase \"Aaj khud se tu door\" uses the present continuous tense to convey a sense of ongoing separation, emphasizing the emotional distance between one's inner self and external reality."
+    },
+    {
+      "time": 48.0,
+      "text": "Lambiya judaiyan",
+      "translation": "Lambiya judaiyan",
+      "grammar": "This phrase is an idiomatic expression in Hindi, where \"lambiya\" means \"long\" and \"judaiyan\" means \"separations\". It's used to convey a sense of longing or yearning for something or someone that has been lost."
+    },
+    {
+      "time": 51.0,
+      "text": "Hisse sadde aaiyan",
+      "translation": "Hisse sadde aaiyan",
+      "grammar": "This line is an interjection, used to express strong emotions or emphasis. The phrase \"Hisse\" is an idiomatic expression that conveys urgency or intensity."
+    },
+    {
+      "time": 54.0,
+      "text": "Rabba ve mohabbatan",
+      "translation": "Rabba ve mohabbatan",
+      "grammar": "This phrase is an idiomatic expression, often used to convey strong affection or deep love. The verb \"Rabba\" is in the imperative mood, emphasizing the intensity of the sentiment."
+    },
+    {
+      "time": 57.0,
+      "text": "Kyon tu banaaiyan x (4)",
+      "translation": "Kyon tu banaaiyan x (4)",
+      "grammar": "This line uses the informal second-person singular pronoun \"tu\" to address a close friend or family member, which is common in casual conversations. The verb \"banaaiyan\" is in the present tense, indicating an ongoing action or a habitual behavior."
+    },
+    {
+      "time": 60.0,
+      "text": "In raabton se door",
+      "translation": "away from these people",
+      "grammar": "The phrase \"in raabton\" is an idiomatic expression indicating distance or separation, often translated as \"away from\"."
+    },
+    {
+      "time": 63.0,
+      "text": "Tere raaston se door",
+      "translation": "away from your paths",
+      "grammar": "The phrase \"tere\" is an idiomatic expression meaning \"away from\" or \"beyond\", used to indicate separation or distance, often in a figurative sense."
+    },
+    {
+      "time": 66.0,
+      "text": "Mujhe ho jaane de",
+      "translation": "let me be",
+      "grammar": "The phrase \"Mujhe ho\" is an idiomatic expression, where \"ho\" is a verb in the imperative mood and \"mujhe\" is the object pronoun \"me\" in the dative case."
+    },
+    {
+      "time": 69.0,
+      "text": "Aaj khud se tu door",
+      "translation": "Today you are away from yourself",
+      "grammar": "This idiomatic expression uses the present tense to convey a sense of regret or longing, emphasizing the speaker's emotional state. The verb \"door\" (away) is in the passive voice, suggesting that the subject (you) has distanced themselves from their own feelings or identity."
+    }
+  ]
+}

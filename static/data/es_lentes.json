@@ -1,0 +1,253 @@
+{
+  "id": "es_lentes",
+  "title": "/Lentes",
+  "artist": "Neton Vega",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_lentes.mp3",
+  "duration": 189,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Hoy me puse lentes pa que nadie viera",
+      "translation": "Today I wore glasses so no one could see.",
+      "grammar": "The phrase \"me puse\" is a colloquialism used to express the idea of putting something on, in this case, wearing glasses. This idiomatic expression is often used in informal contexts and is equivalent to saying \"I put on\" or \"I wore\"."
+    },
+    {
+      "time": 5.421,
+      "text": "Que anoche en medio de la borrachera",
+      "translation": "Last night, in the midst of drunkenness",
+      "grammar": "The phrase \"Que\" is an introductory particle used to indicate a subordinate clause, equivalent to \"that\" or \"when\". It sets the scene for the main event, which is described as happening \"en medio de la borrachera\", emphasizing the context of intoxication."
+    },
+    {
+      "time": 10.201,
+      "text": "Te llamé, te lloré, te colgué, te escribí",
+      "translation": "I called you, I cried for you, I hung up on you, I wrote to you",
+      "grammar": "The use of the verb forms \"llamé\", \"lloré\", \"colgué\" and \"escribí\" indicates a past tense narrative, with each action being performed in sequence. The phrase is an idiomatic expression conveying intense emotional effort to communicate with someone."
+    },
+    {
+      "time": 15.622,
+      "text": "Te pedí que por favor volvieras",
+      "translation": "I asked you to please come back",
+      "grammar": "The verb \"pedí\" is in the preterite tense, indicating a completed request in the past. The phrase \"por favor\" is an idiomatic expression meaning \"please\"."
+    },
+    {
+      "time": 19.762,
+      "text": "Ojalá y vieras pa que me entendieras",
+      "translation": "I wish you could see so you would understand me",
+      "grammar": "The phrase \"ojalá\" is an idiomatic expression used to convey a sense of longing or desire, often in the context of making a wish. It is typically followed by the verb \"vieras\" in the subjunctive mood, indicating a hypothetical or uncertain situation."
+    },
+    {
+      "time": 24.543,
+      "text": "Me pediste que ya no te escribiera",
+      "translation": "You asked me not to write to you anymore",
+      "grammar": "The verb \"pediste\" is in the preterite tense, indicating a completed action in the past. The phrase \"ya no\" is an idiom meaning \"no longer\"."
+    },
+    {
+      "time": 29.323,
+      "text": "Te bloqueé, después te desbloqueé",
+      "translation": "I blocked you, then I unblocked you",
+      "grammar": "The use of \"te\" and \"después\" indicates a change in tense from the imperfect (blocké) to the preterite (desbloqueé), creating a narrative sequence. This is an example of the imperfect-preterite contrast used to describe past actions with a clear beginning, middle, and end."
+    },
+    {
+      "time": 32.823,
+      "text": "Estoy loco, lo sé",
+      "translation": "I'm crazy, I know it",
+      "grammar": "The phrase \"Estoy loco\" is in the present tense and uses the verb estar to indicate a temporary or changing state of being, whereas \"lo sé\" is in the present tense and indicates knowledge or certainty."
+    },
+    {
+      "time": 35.684,
+      "text": "Aquí donde me ven supuestamente bien",
+      "translation": "Here where they supposedly see me looking good",
+      "grammar": "The phrase \"supuestamente bien\" is an idiomatic expression indicating a perceived image or impression, rather than the speaker's actual state. The verb \"ver\" (to see) is in the third person plural form \"ven\", emphasizing the external perspective."
+    },
+    {
+      "time": 39.824,
+      "text": "El corazón me falla, amor, ay, amor",
+      "translation": "My heart is failing me, love, oh, love",
+      "grammar": "The phrase \"ay\" is an interjection expressing strong emotions or emphasis, often used to convey a sense of longing or despair. In this context, it adds intensity to the speaker's declaration that their heart is failing them."
+    },
+    {
+      "time": 44.605,
+      "text": "¿Qué fue de esos ojos cafés",
+      "translation": "What became of those brown eyes?",
+      "grammar": "The phrase ¿Qué fue de...? is an idiomatic expression used to inquire about someone's current situation or whereabouts, equivalent to \"what's become of...\" in English."
+    },
+    {
+      "time": 48.745,
+      "text": "Que un día me miraban y ya no?",
+      "translation": "One day they looked at me, and then they didn't anymore?",
+      "grammar": "The phrase \"ya no\" is an idiomatic expression in Spanish, equivalent to the English phrase \"not anymore\", conveying a sense of something having ceased or stopped."
+    },
+    {
+      "time": 54.166,
+      "text": "Aquí donde me ven pasándomela bien",
+      "translation": "Here I am, having a good time.",
+      "grammar": "The phrase \"pasándomela\" is an idiomatic expression in Spanish that translates to \"having a good time\". It uses the reflexive verb \"pasar\" in the present continuous tense (estar pasando) to convey the idea of enjoying oneself."
+    },
+    {
+      "time": 58.306,
+      "text": "El corazón me falla, amor, ay, amor",
+      "translation": "My heart is failing me, love, oh, love",
+      "grammar": "The phrase \"ay\" is an interjection expressing strong emotions or emphasis, often translated as \"oh\" or \"alas\". The sentence uses the present tense to convey a sense of urgency and emotional intensity."
+    },
+    {
+      "time": 63.087,
+      "text": "Y ¿qué fue de esos ojos cafés",
+      "translation": "And what became of those brown eyes?",
+      "grammar": "The phrase \"¿Y qué fue de...\" is an idiomatic expression used to inquire about the current state or whereabouts of someone or something, often with a sense of nostalgia or curiosity. The verb \"fue\" is in the imperfect past tense, indicating a completed action in the past that has relevance to the present."
+    },
+    {
+      "time": 67.867,
+      "text": "Que un día me miraban y ya no?",
+      "translation": "One day they looked at me, and then they didn't anymore?",
+      "grammar": "The phrase \"ya no\" is an idiomatic expression in Spanish, equivalent to \"not anymore\" or \"no longer\", used to indicate a change of state. It's often translated as \"and then they didn't anymore\" to convey the suddenness of this change."
+    },
+    {
+      "time": 73.288,
+      "text": "Si me preguntan, mami, es lógico",
+      "translation": "If you ask me, Mom, it's logical",
+      "grammar": "This line uses the present tense to express a hypothetical situation, with the conditional phrase \"si me preguntan\" (if they ask me) implying a possible future scenario. The use of \"mami\" instead of the formal \"madre\" or the more common \"mamá\" adds a touch of informality and familiarity."
+    },
+    {
+      "time": 77.428,
+      "text": "Si está doliendo, mami, es lógico",
+      "translation": "If it's hurting, Mommy, that's understandable.",
+      "grammar": "The phrase \"mami\" is an informal, affectionate term used to address one's mother, equivalent to \"Mom\" or \"Mum\"."
+    },
+    {
+      "time": 81.569,
+      "text": "Si tú eras para mí lo único",
+      "translation": "If you were the only one for me",
+      "grammar": "The use of \"eras\" instead of \"eres\" indicates a past conditional construction, expressing a hypothetical or uncertain situation in the past. This tense is often used to express regret or longing."
+    },
+    {
+      "time": 86.349,
+      "text": "Lo único que me importaba, de eso no queda nada",
+      "translation": "The only thing that mattered to me, now nothing remains of it",
+      "grammar": "This sentence uses the present perfect tense (de eso no queda nada) to emphasize the complete and irreversible nature of the situation. The phrase \"Lo único que me importaba\" is an idiomatic expression meaning \"the only thing that mattered to me\"."
+    },
+    {
+      "time": 93.05,
+      "text": "Por ende, eso es lógico",
+      "translation": "Therefore, that's logical.",
+      "grammar": "The phrase \"eso es\" is an idiomatic expression in Spanish, equivalent to \"that's\" in English, used to indicate agreement or confirmation. The verb \"ser\" (to be) is in the present tense, indicating a general truth."
+    },
+    {
+      "time": 96.55,
+      "text": "Que está doliendo, mami, es lógico",
+      "translation": "It's hurting, Mommy, that's understandable.",
+      "grammar": "The phrase \"¿Qué está doliendo?\" is an idiomatic expression equivalent to \"How can it be hurting?\" or \"Why is it hurting?\", using the present continuous tense to convey a sense of ongoing pain."
+    },
+    {
+      "time": 100.691,
+      "text": "Si tú eras para mí lo único",
+      "translation": "If you were the only one for me",
+      "grammar": "This line uses the conditional perfect tense (erases) to express a hypothetical situation in the past, and the phrase \"lo único\" is an idiomatic expression meaning \"the only one that matters\"."
+    },
+    {
+      "time": 105.471,
+      "text": "Lo único que me importaba, de eso no queda nada",
+      "translation": "The only thing that mattered to me, now nothing remains of it",
+      "grammar": "The phrase \"Lo único que me importaba\" is in the present perfect tense, indicating a completed action with relevance to the current situation. The use of \"importaba\" instead of \"me importa\" emphasizes the importance of this matter at some point in the past."
+    },
+    {
+      "time": 112.172,
+      "text": "Ya pasé mil noches enteras esperando que algo subieras",
+      "translation": "I've already spent a thousand whole nights waiting for you to upload something.",
+      "grammar": "The phrase \"ya pasé\" is an idiomatic expression used to emphasize the completion of an action in the past, equivalent to \"already\" or \"by now\". It implies that the speaker has finished waiting and is no longer doing so."
+    },
+    {
+      "time": 118.232,
+      "text": "Pa ver si hay nuevo culito o todavía sigues soltera",
+      "translation": "Let's see if there's a new hottie or if you're still single.",
+      "grammar": "The phrase \"todavía sigues\" is in the present continuous tense, indicating ongoing action, and uses the pronoun \"tú\" to address the listener."
+    },
+    {
+      "time": 124.933,
+      "text": "Baby, llámame cuando quieras, rico que te aparecieras",
+      "translation": "Baby, call me whenever you want, it would be great if you showed up",
+      "grammar": "The phrase \"llámame\" is an imperative verb form in the present tense, used to give a direct order or make a request. The use of \"cuando quieras\" (whenever you want) indicates a willingness to accommodate the person's schedule and preferences."
+    },
+    {
+      "time": 130.354,
+      "text": "Cansao de dormir solito, ojalá me correspondieras, bebé",
+      "translation": "Tired of sleeping alone, I wish you would reciprocate, baby",
+      "grammar": "The verb \"correspondieras\" is in the subjunctive mood, used to express a hypothetical or desired situation. This construction is an idiomatic expression in Spanish, where the speaker expresses regret or longing for something that has not happened."
+    },
+    {
+      "time": 135.774,
+      "text": "Nuestro video nunca lo borré",
+      "translation": "I never deleted our video",
+      "grammar": "The verb \"borré\" is in the preterite tense, indicating a completed action in the past. The use of \"nunca\" (never) emphasizes the permanence of the action, implying that the video was intentionally left untouched."
+    },
+    {
+      "time": 139.275,
+      "text": "Tu piel de nuevo quiero recorrer",
+      "translation": "I want to explore your skin again",
+      "grammar": "The verb \"querer\" is in the present tense, indicating a desire or intention that may not be fulfilled. The phrase \"recorrer\" is an idiom meaning to get to know someone intimately, rather than literally exploring their skin."
+    },
+    {
+      "time": 143.415,
+      "text": "Yo sé que tú también",
+      "translation": "I know you do too",
+      "grammar": "This line uses the informal, colloquial expression \"yo sé\" to convey a sense of shared knowledge or understanding between the speaker and listener. The verb \"sé\" is in the present tense, indicating a general truth or familiarity rather than a specific action."
+    },
+    {
+      "time": 146.916,
+      "text": "Muy en el fondo me quieres ver",
+      "translation": "Deep down, you want to see me",
+      "grammar": "The phrase \"muy en el fondo\" is an idiomatic expression indicating a deep emotional desire or longing. The verb \"querer\" is in the subjunctive mood, suggesting a hypothetical or desired state rather than a factual one."
+    },
+    {
+      "time": 151.696,
+      "text": "Aquí donde me ven supuestamente bien",
+      "translation": "Here where they supposedly see me looking good",
+      "grammar": "The phrase \"supuestamente\" is an adverb indicating a hypothetical or assumed situation, often used to express irony or skepticism. In this context, it emphasizes the speaker's perceived image rather than their actual well-being."
+    },
+    {
+      "time": 155.836,
+      "text": "El corazón me falla, amor, ay, amor",
+      "translation": "My heart is failing me, love, oh, love",
+      "grammar": "The phrase \"ay\" is an interjection expressing strong emotions or emphasis, often used to convey a sense of longing or despair. Its use in this line adds a touch of intimacy and urgency to the speaker's declaration of heartache."
+    },
+    {
+      "time": 160.617,
+      "text": "¿Qué fue de esos ojos cafés",
+      "translation": "What became of those brown eyes?",
+      "grammar": "The phrase ¿Qué fue de...? is an idiomatic expression in Spanish, equivalent to \"what happened to...\" or \"whatever became of...\", used to inquire about the current state or fate of something."
+    },
+    {
+      "time": 164.757,
+      "text": "Que un día me miraban y ya no?",
+      "translation": "One day they looked at me, and then they didn't anymore?",
+      "grammar": "The phrase \"ya no\" is an idiomatic expression in Spanish, equivalent to \"not anymore\" or \"no longer\", used to indicate a change of state. It's often translated as \"and then they didn't anymore\"."
+    },
+    {
+      "time": 170.178,
+      "text": "Aquí donde me ven pasándomela bien",
+      "translation": "Here I am, having a good time.",
+      "grammar": "The phrase \"pasándomela\" is an idiomatic expression in Spanish, equivalent to the English idiom \"having a good time\". The verb \"pasar\" is used in its reflexive form with the pronoun \"se\" understood, indicating that the speaker is enjoying themselves."
+    },
+    {
+      "time": 174.318,
+      "text": "El corazón me falla, amor, ay, amor",
+      "translation": "My heart is failing me, love, oh, love",
+      "grammar": "The phrase \"ay\" is an interjection used to express strong emotions or emphasis, similar to \"oh\" in English. It's often used in exclamatory sentences to convey a sense of urgency or passion."
+    },
+    {
+      "time": 179.099,
+      "text": "Y ¿qué fue de esos ojos cafés",
+      "translation": "And what became of those brown eyes?",
+      "grammar": "The phrase \"¿Y qué fue de...\" is an idiomatic expression used to ask about the current state or whereabouts of someone or something, with a focus on the past and its consequences."
+    },
+    {
+      "time": 183.879,
+      "text": "Que un día me miraban y ya no?",
+      "translation": "One day they looked at me, and then they didn't anymore?",
+      "grammar": "The phrase \"ya no\" is an idiomatic expression in Spanish, equivalent to \"not anymore\" or \"no longer\", used to indicate a change of situation. It's often translated as \"and then they didn't anymore\" in this context."
+    }
+  ]
+}

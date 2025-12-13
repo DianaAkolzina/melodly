@@ -1,0 +1,355 @@
+{
+  "id": "es_hollywood",
+  "title": "HOLLYWOOD",
+  "artist": "Peso Pluma feat. Estevan Plazola",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "es",
+  "to_language": "en",
+  "audio": "/audio/es_hollywood.mp3",
+  "duration": 285,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "No quiero acostarme, no puedo dormir",
+      "translation": "I don't want to go to bed, I can't sleep",
+      "grammar": "The verb \"quiere\" and \"puedo\" are in the present tense, indicating a habitual or general truth about the speaker's unwillingness to go to bed and inability to sleep."
+    },
+    {
+      "time": 5.221,
+      "text": "No puedo acabar, no me puedo rendir",
+      "translation": "I can't finish, I can't give up",
+      "grammar": "The phrase \"no me puedo\" is an idiomatic expression indicating strong determination or refusal to surrender, using the verb \"poder\" in the present tense to convey a sense of inability."
+    },
+    {
+      "time": 11.262,
+      "text": "Tantos recuerdos, logros que viví",
+      "translation": "So many memories, achievements I experienced",
+      "grammar": "The verb \"viví\" is in the first person singular past tense, indicating that the speaker personally experienced these achievements. The use of \"que\" before \"logros\" is an example of a subordinate conjunction introducing a non-essential clause."
+    },
+    {
+      "time": 15.663,
+      "text": "Razones me sobran para sobrevivir",
+      "translation": "I have plenty of reasons to survive",
+      "grammar": "The phrase \"me sobran\" is an idiomatic expression indicating that there are more than enough reasons, using the verb \"sobrar\" in the impersonal form to emphasize abundance."
+    },
+    {
+      "time": 20.064,
+      "text": "No quiero acostarme, no puedo dormir",
+      "translation": "I don't want to go to bed, I can't sleep",
+      "grammar": "The use of \"no\" before \"quiero\" and \"puedo\" is an idiomatic expression in Spanish, emphasizing the speaker's strong negation. This construction is often used to convey a sense of reluctance or refusal."
+    },
+    {
+      "time": 25.285,
+      "text": "No puedo acabar, no me puedo rendir",
+      "translation": "I can't finish, I can't give up",
+      "grammar": "The phrase \"no me puedo\" is an idiomatic expression indicating strong determination or refusal to surrender, equivalent to \"I won't give up\". The verb \"poder\" is in the present tense, emphasizing the speaker's unwavering resolve."
+    },
+    {
+      "time": 31.327,
+      "text": "Tantos recuerdos, logros que viví",
+      "translation": "So many memories, achievements I experienced",
+      "grammar": "The verb \"viví\" is in the first person singular past tense, indicating that the speaker personally experienced these achievements. The phrase \"que viví\" is an idiomatic expression meaning \"which I experienced\"."
+    },
+    {
+      "time": 35.728,
+      "text": "Razones me sobran para sobrevivir",
+      "translation": "I have plenty of reasons to survive",
+      "grammar": "The phrase \"me sobran\" is an idiomatic expression meaning \"I have plenty of\" in English, using the verb \"sobrar\" in the present tense and the reflexive pronoun \"me\" to emphasize the speaker's possession."
+    },
+    {
+      "time": 40.128,
+      "text": "No todo es como parece",
+      "translation": "Not everything is as it seems",
+      "grammar": "This idiomatic expression uses the present tense to convey a general truth, rather than describing a specific situation. The phrase \"no todo\" means \"not everything\", emphasizing that appearances can be deceiving."
+    },
+    {
+      "time": 44.529,
+      "text": "Neta, yo soy prueba en vivo",
+      "translation": "Seriously, I'm living proof.",
+      "grammar": "The phrase \"Neta\" is an informal intensifier used to emphasize the truth or authenticity of the statement that follows. It can be translated as \"seriously\" or \"honestly\"."
+    },
+    {
+      "time": 49.75,
+      "text": "¿No me creen?, yo se los digo",
+      "translation": "Don't believe me? I'll tell you.",
+      "grammar": "The phrase \"¿No me creen?\" is an idiomatic expression that uses the present tense to convey a sense of incredulity, as if the speaker is asking for confirmation that others don't believe them. The use of the second-person plural pronoun \"creen\" implies a sense of shared skepticism or disbelief."
+    },
+    {
+      "time": 55.792,
+      "text": "Hold up",
+      "translation": "Hold up",
+      "grammar": "This idiom is an interjection used to request someone's attention or halt their actions, equivalent to saying \"wait a minute\" in English."
+    },
+    {
+      "time": 57.732,
+      "text": "Vivo muy a prisa, la vida de artista, drogas y mujeres",
+      "translation": "I live life in the fast lane, the life of an artist, drugs and women.",
+      "grammar": "The phrase \"vivo muy a prisa\" is an idiomatic expression that translates to \"living life in the fast lane\". It's an informal way to describe someone who leads a reckless or exciting lifestyle."
+    },
+    {
+      "time": 67.054,
+      "text": "Otra más para la lista",
+      "translation": "Another one for the list",
+      "grammar": "This phrase uses the present tense and informal tone, with the idiomatic expression \"para la lista\" implying a casual addition to a collection."
+    },
+    {
+      "time": 71.455,
+      "text": "En el ambiente, con figuras grandes, citas importantes",
+      "translation": "In the atmosphere, with prominent figures, important appointments",
+      "grammar": "This phrase uses the present participle \"ambiente\" to describe a state or condition, equivalent to English \"atmosphere\". The phrase also employs an idiomatic expression \"con figuras grandes\" meaning \"with influential people\", rather than literally \"with big figures\"."
+    },
+    {
+      "time": 78.317,
+      "text": "Caviar y otras comidas elegantes",
+      "translation": "Caviar and other fine foods",
+      "grammar": "The phrase \"caviar y otras comidas elegantes\" is in the nominative absolute construction, where \"caviar y otras comidas elegantes\" functions as a supplementary remark to the main clause, describing the type of food. This construction is commonly used in Spanish to add information about the topic or subject."
+    },
+    {
+      "time": 82.717,
+      "text": "Veinte mil como si nada",
+      "translation": "Twenty thousand, just like that.",
+      "grammar": "This idiomatic expression uses the present participle \"como si\" to convey a sense of suddenness or unexpectedness, equivalent to English \"just like that\"."
+    },
+    {
+      "time": 87.118,
+      "text": "Mucha ropa que es de marca",
+      "translation": "Lots of designer clothes",
+      "grammar": "The phrase \"es de marca\" is an idiomatic expression meaning \"is designer\" or \"is brand-name\". It's used to indicate that something, in this case clothing, is high-quality and from a well-known manufacturer."
+    },
+    {
+      "time": 92.339,
+      "text": "Puras dieces son mis damas",
+      "translation": "My ladies are all perfect tens",
+      "grammar": "The phrase \"puras dieces\" is an idiomatic expression, where \"dieces\" means \"tens\" in bowling, not the literal meaning of \"decades\". The sentence uses the present tense to describe a general truth."
+    },
+    {
+      "time": 96.74,
+      "text": "Desde antes de la fama",
+      "translation": "From before fame",
+      "grammar": "This phrase uses the preposition \"desde\" to indicate a point in time, specifically \"before\" something happened, which is an example of the use of the prepositional phrase to express temporal relationships."
+    },
+    {
+      "time": 101.141,
+      "text": "Pero déjame empezar",
+      "translation": "But let me begin",
+      "grammar": "This phrase uses the present tense to express a sense of urgency, with \"déjame\" being an idiomatic expression meaning \"let me\" or \"allow me\". The verb \"empezar\" is in the present tense, indicating that the speaker wants to start something immediately."
+    },
+    {
+      "time": 103.902,
+      "text": "Siéntense, les vo'a contar",
+      "translation": "Sit down, I'm going to tell you",
+      "grammar": "The imperative verb \"siéntense\" is in the plural form because it addresses multiple people, and the phrase \"les vo'a contar\" uses the informal \"you\" (vo'a) to create a sense of intimacy."
+    },
+    {
+      "time": 108.303,
+      "text": "Lo que no sabían de mí",
+      "translation": "What they didn't know about me",
+      "grammar": "This idiomatic phrase uses the subjunctive mood to express a hypothetical or unknown situation, emphasizing what others were unaware of."
+    },
+    {
+      "time": 113.524,
+      "text": "Toa la verdad",
+      "translation": "The truth",
+      "grammar": "This phrase is an idiomatic expression in Spanish, where \"toa\" is a colloquialism meaning \"the whole\" or \"entirely\"."
+    },
+    {
+      "time": 116.284,
+      "text": "Me arrestaron a los 15 años por querer lograr todos mis sueños",
+      "translation": "I was arrested at 15 for wanting to achieve all my dreams",
+      "grammar": "The phrase \"querer lograr\" is an idiomatic expression that conveys the idea of striving or aiming to accomplish something, rather than simply desiring it. The use of the verb querer in the present tense emphasizes the speaker's ongoing commitment to pursuing their goals."
+    },
+    {
+      "time": 126.427,
+      "text": "Le marcaron a mis jefes, les dijeron que no andaba en nada bueno",
+      "translation": "They called my bosses and told them I wasn't up to any good.",
+      "grammar": "The verb phrase \"andaba\" is in the imperfect tense, indicating ongoing or repeated action in the past. The idiom \"en nada bueno\" means \"up to no good\"."
+    },
+    {
+      "time": 137.389,
+      "text": "Doble pantalón para aguantar los cintarazos",
+      "translation": "Double trousers to withstand the belt beatings",
+      "grammar": "The phrase \"cintarazos\" is an idiomatic expression meaning \"scoldings\" or \"rebukes\", rather than literal physical beatings. The use of \"pantalón\" (trousers) in this context is a figurative way to describe being prepared for the verbal abuse, emphasizing the idea of protection and resilience."
+    },
+    {
+      "time": 142.61,
+      "text": "Cuando me corrieron yo me sentí abandonado",
+      "translation": "When I was fired, I felt abandoned.",
+      "grammar": "The use of \"me corrieron\" (they fired me) in the past tense indicates a completed action in the past, and the phrase \"yo me sentí\" is an idiomatic expression meaning \"I felt\"."
+    },
+    {
+      "time": 148.651,
+      "text": "Son las cosas que uno va pensando rolando un cigarro",
+      "translation": "These are the kinds of things you think about while rolling a cigarette.",
+      "grammar": "This idiomatic expression uses the present tense to describe habitual thinking, and the phrase \"las cosas\" is an abstract noun referring to thoughts or ideas."
+    },
+    {
+      "time": 157.153,
+      "text": "Paseando por Hollywood",
+      "translation": "Strolling through Hollywood",
+      "grammar": "This phrase uses the present participle \"paseando\" to describe an ongoing action, conveying a sense of leisurely movement. The preposition \"por\" indicates location, and \"Hollywood\" is a proper noun functioning as a place name."
+    },
+    {
+      "time": 159.914,
+      "text": "Son las cosas que uno va pensando rolando un cigarro",
+      "translation": "These are the kinds of things you think about while rolling a cigarette.",
+      "grammar": "This idiomatic phrase uses the present tense to describe habitual thinking, and the verb \"va\" is used to indicate ongoing action. The phrase also employs a common Spanish idiom where \"las cosas\" means \"these kinds of things\"."
+    },
+    {
+      "time": 168.416,
+      "text": "Paseando por Hollywood",
+      "translation": "Strolling through Hollywood",
+      "grammar": "This phrase uses the present participle \"paseando\" to describe an ongoing action, conveying a sense of leisurely movement. The preposition \"por\" indicates location, and the noun \"Hollywood\" is used as a proper place name."
+    },
+    {
+      "time": 171.176,
+      "text": "No quiero acostarme, no puedo dormir",
+      "translation": "I don't want to go to bed, I can't sleep",
+      "grammar": "The verb phrase \"no quiero acostarme\" is in the present tense and negative mood, indicating a habitual refusal or inability. The use of \"acostarme\" instead of \"irme a la cama\" emphasizes the speaker's reluctance to engage in the act of going to bed itself."
+    },
+    {
+      "time": 176.397,
+      "text": "No quiero acabar, no me puedo rendir",
+      "translation": "I don't want it to end, I can't give up",
+      "grammar": "The phrase \"no quiero acabar\" is in the present tense and expresses a desire not to finish something, using the idiomatic expression \"acabar\" meaning 'to come to an end'."
+    },
+    {
+      "time": 182.439,
+      "text": "Tantos recuerdos, logros que viví",
+      "translation": "So many memories, achievements I experienced",
+      "grammar": "The verb phrase \"logros que viví\" is in the first person singular past tense, indicating that the speaker personally experienced these achievements. The use of \"viví\" instead of \"he vivido\" emphasizes the speaker's direct involvement and personal connection to those experiences."
+    },
+    {
+      "time": 186.839,
+      "text": "Razones me sobran para sobrevivir",
+      "translation": "I have plenty of reasons to survive",
+      "grammar": "The phrase \"me sobran\" is an idiomatic expression meaning \"I have plenty of\" or \"I am well-equipped with\", using the verb \"sobrar\" in the reflexive form to convey a sense of abundance."
+    },
+    {
+      "time": 191.24,
+      "text": "Compa Peso",
+      "translation": "Compa Peso",
+      "grammar": "This phrase is an idiomatic expression, used as a vocative to address someone familiarly, similar to saying \"old friend\" or \"buddy\"."
+    },
+    {
+      "time": 193.181,
+      "text": "Match One Playa",
+      "translation": "Match One Beach",
+      "grammar": "This phrase uses the idiomatic expression \"match one\" to mean \"be as good as\" or \"equal to\", rather than a literal comparison. The verb \"match\" is in the present tense, indicating a general equivalence."
+    },
+    {
+      "time": 195.941,
+      "text": "Adquiero lo que yo admiro",
+      "translation": "I buy what I admire",
+      "grammar": "This sentence uses the present tense to express a general truth or principle, rather than describing a specific action. The phrase \"admiro\" is used idiomatically to mean \"appreciate\" or \"value\"."
+    },
+    {
+      "time": 200.342,
+      "text": "Pocos saben de lo que hablo",
+      "translation": "Few people know what I'm talking about.",
+      "grammar": "The phrase \"Pocos saben\" is in the present tense, indicating that the speaker assumes few people are currently aware of what they're discussing. The idiomatic expression \"de lo que hablo\" translates to \"what I'm talking about\", emphasizing the idea being discussed."
+    },
+    {
+      "time": 205.563,
+      "text": "Lo tomo como lo tengo",
+      "translation": "I'll take it as it is.",
+      "grammar": "This idiomatic expression uses the present tense to convey a future intention, and the phrase \"como lo tengo\" implies acceptance or resignation."
+    },
+    {
+      "time": 209.964,
+      "text": "Porque firmé con el diablo",
+      "translation": "Because I signed a deal with the devil",
+      "grammar": "The phrase \"firmé con\" is an idiomatic expression meaning \"to sign a deal\" or \"to make a pact\". The verb \"firmé\" is in the first person singular past tense, indicating that the speaker has already made this agreement."
+    },
+    {
+      "time": 214.365,
+      "text": "Nuestra generación piensa diferente",
+      "translation": "Our generation thinks differently.",
+      "grammar": "The phrase \"piensa diferente\" is in the present tense and uses the subjunctive mood to express a general or hypothetical idea, emphasizing the distinct perspective of their generation."
+    },
+    {
+      "time": 217.946,
+      "text": "Mira al presidente",
+      "translation": "Look at the president",
+      "grammar": "This idiomatic expression uses the verb \"mira\" in the imperative mood, instructing someone to perform an action. Note that \"al presidente\" is a direct object pronoun phrase, not a prepositional phrase indicating direction."
+    },
+    {
+      "time": 220.706,
+      "text": "Otro más para la lista de corruptos",
+      "translation": "Another one for the list of corrupt officials",
+      "grammar": "The phrase \"otro más\" is an idiomatic expression used to indicate addition or another instance, similar to \"one more\" in English. The verb \"ser\" (to be) is implied but not explicitly stated, as it is a common construction in Spanish to use the adjective form of the verb with the pronoun \"otro\"."
+    },
+    {
+      "time": 226.748,
+      "text": "Poder absoluto, viven puro lujo",
+      "translation": "Absolute power, they live in pure luxury.",
+      "grammar": "The phrase \"viven puro lujo\" is an idiomatic expression that uses the present tense to convey a sense of habitual or continuous action, emphasizing the idea that those with absolute power consistently live in luxury."
+    },
+    {
+      "time": 231.149,
+      "text": "Mientras que uno aquí valiendo...",
+      "translation": "While one of us here is worth...",
+      "grammar": "This sentence uses the present participle \"valiendo\" to describe an ongoing or continuous action, emphasizing the idea that someone's value is not fixed but rather depends on the context. The phrase \"uno aquí\" can be translated as \"one of us\", using the pronoun \"uno\" to refer back to the subject \"one\"."
+    },
+    {
+      "time": 235.55,
+      "text": "Pero yo seguiré avanzando",
+      "translation": "But I will keep moving forward",
+      "grammar": "The verb \"seguiré\" is in the future tense, indicating a commitment to continue moving forward. The phrase \"yo seguiré\" also uses the informal \"you\" (yo) and first person singular subject pronoun (yo), emphasizing the speaker's personal determination."
+    },
+    {
+      "time": 239.13,
+      "text": "Pero yo seguiré avanzando",
+      "translation": "But I will keep moving forward",
+      "grammar": "The verb \"seguiré\" is in the future tense, indicating a commitment to continue moving forward. The use of \"yo\" as subject pronoun agrees with the first person singular subject \"I\"."
+    },
+    {
+      "time": 242.711,
+      "text": "Son las cosas que uno va pensando rolando un cigarro",
+      "translation": "These are the kinds of things you think about while rolling a cigarette.",
+      "grammar": "The phrase \"son las cosas\" is an idiomatic expression that translates to \"these are the kinds of things\". It uses the verb \"ser\" in the present tense, indicating a general truth or habitual thought process."
+    },
+    {
+      "time": 251.213,
+      "text": "Paseando por Hollywood",
+      "translation": "Strolling through Hollywood",
+      "grammar": "This phrase uses the present participle \"paseando\" to describe an ongoing action, conveying a sense of leisurely movement. The preposition \"por\" indicates location, and the noun \"Hollywood\" is used as a proper place name."
+    },
+    {
+      "time": 253.973,
+      "text": "Son las cosas que uno va pensando rolando un cigarro",
+      "translation": "These are the kinds of things you think about while rolling a cigarette.",
+      "grammar": "This idiomatic expression uses the present tense to describe habitual thinking, with \"las cosas\" referring back to \"kinds of things\" in the translation. The phrase \"va pensando\" is a common way to express habitual or repeated thinking in Spanish."
+    },
+    {
+      "time": 262.475,
+      "text": "Paseando por Hollywood",
+      "translation": "Strolling through Hollywood",
+      "grammar": "This phrase uses the present participle \"paseando\" to describe an ongoing action in the present moment, conveying a sense of leisurely activity. The preposition \"por\" indicates movement through a place, similar to English phrases like \"walking down Main Street\"."
+    },
+    {
+      "time": 265.236,
+      "text": "No quiero acostarme, no puedo dormir",
+      "translation": "I don't want to go to bed, I can't sleep",
+      "grammar": "The verb phrase \"no quiero acostarme\" and \"no puedo dormir\" is in the present tense, expressing a habitual or general truth about the speaker's reluctance to sleep. The negation \"no\" is used to emphasize the speaker's unwillingness."
+    },
+    {
+      "time": 270.457,
+      "text": "No puedo acabar, no me puedo rendir",
+      "translation": "I can't finish, I can't give up",
+      "grammar": "The phrase \"no me puedo\" is an idiomatic expression indicating strong determination or refusal to surrender, equivalent to saying \"I won't give in\". The verb \"poder\" is used in the present tense to emphasize the speaker's unwavering resolve."
+    },
+    {
+      "time": 276.498,
+      "text": "Tantos recuerdos, logros que viví",
+      "translation": "So many memories, achievements I experienced",
+      "grammar": "The verb phrase \"logros que viví\" is in the first person singular past tense, indicating that the speaker personally experienced these achievements. The use of \"viví\" instead of \"he vivido\" emphasizes the speaker's direct involvement and personal connection to those experiences."
+    },
+    {
+      "time": 280.899,
+      "text": "Razones me sobran para sobrevivir",
+      "translation": "I have plenty of reasons to survive",
+      "grammar": "The phrase \"me sobran\" is an idiomatic expression meaning \"I have plenty of\" in English, using the verb \"sobrar\" in the present tense and the reflexive pronoun \"me\" to emphasize the speaker's abundance."
+    }
+  ]
+}

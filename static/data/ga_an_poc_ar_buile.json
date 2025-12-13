@@ -1,0 +1,73 @@
+{
+  "id": "ga_an_poc_ar_buile",
+  "title": "An Poc ar Buile",
+  "artist": "Seán Ó Sé",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "ga",
+  "to_language": "en",
+  "audio": "/audio/ga_an_poc_ar_buile.mp3",
+  "duration": 30,
+  "licensing_note": "Lyrics fetched via Musixmatch API; translations via local Ollama.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Ailliliú, puilliliú, ailliliú tá an puc ar buile!",
+      "translation": "Allilu, allilu, allilu, the puck is mad!",
+      "grammar": "This line uses the imperative mood to express excitement and enthusiasm, with the repetition of \"ailliliú\" creating a sense of rhythm and emphasis. The phrase \"tá an puc ar buile\" translates to \"the puck is mad\", using the present tense to convey a sense of current madness."
+    },
+    {
+      "time": 3.0,
+      "text": "Ailliliú, puilliliú, ailliliú tá an puc ar buile!",
+      "translation": "Allilu, allilu, allilu, the puck is mad!",
+      "grammar": "The phrase \"ailliliú\" is an interjection, used to express excitement or enthusiasm, and its repetition creates a sense of rhythm and emphasis. The sentence also employs the present tense to convey a sense of ongoing action, with \"tá\" indicating the subject's state of being."
+    },
+    {
+      "time": 6.0,
+      "text": "Ailliliú, puilliliú, ailliliú tá an puc ar buile!",
+      "translation": "Allilu, allilu, allilu, the puck is mad!",
+      "grammar": "This line uses the imperative mood to express excitement and enthusiasm, with the repeated phrase \"Ailliliú\" functioning as an interjection. The verb \"tá\" is in the present tense, indicating a state of being rather than an action."
+    },
+    {
+      "time": 9.0,
+      "text": "Ailliliú, puilliliú, ailliliú tá an puc ar buile!",
+      "translation": "Allilu, allilu, allilu, the puck is mad!",
+      "grammar": "This line uses the imperative mood to express excitement and enthusiasm, with the repetition of \"allilu\" creating a sense of rhythm and emphasis. The phrase \"tá an puc ar buile\" translates to \"the puck is mad\", using the present tense to convey a sense of urgency and intensity."
+    },
+    {
+      "time": 12.0,
+      "text": "Ailliliú, puilliliú, ailliliú tá an puc ar buile!",
+      "translation": "Allilu, allilu, allilu, the puck is mad!",
+      "grammar": "The use of \"ailliliú\" and repetition creates an onomatopoeic effect, mimicking the sound of a puck being hit or chased. The sentence's imperative mood emphasizes the urgency and excitement of the situation."
+    },
+    {
+      "time": 15.0,
+      "text": "Ailliliú, puilliliú, ailliliú tá an puc ar buile!",
+      "translation": "Allilu, allilu, allilu, the puck is mad!",
+      "grammar": "The phrase \"ailliliú\" is an interjection, used to express excitement or enthusiasm, and its repetition emphasizes the speaker's emotions. The sentence also employs a playful rhythm, characteristic of Irish folk music."
+    },
+    {
+      "time": 18.0,
+      "text": "Ailliliú, puilliliú, ailliliú tá an puc ar buile!",
+      "translation": "Allilu, allilu, allilu, the puck is mad!",
+      "grammar": "This line features a repetitive phrase structure and idiomatic language, with \"ailliliú\" serving as an interjection to express excitement or enthusiasm. The sentence's tense is imperative, urging the listener to acknowledge the puck's madness."
+    },
+    {
+      "time": 21.0,
+      "text": "Ailliliú, puilliliú, ailliliú tá an puc ar buile!",
+      "translation": "Allilu, allilu, allilu, the puck is mad!",
+      "grammar": "This line features a repetitive phrase structure and idiomatic language, with \"ailliliú\" serving as an interjection to express excitement or enthusiasm. The verb \"tá\" is in the present tense, indicating a state of being rather than an action."
+    },
+    {
+      "time": 24.0,
+      "text": "Ailliliú, puilliliú, ailliliú tá an puc ar buile!",
+      "translation": "Allilu, allilu, allilu, the puck is mad!",
+      "grammar": "This line uses the imperative mood to express excitement and enthusiasm, with the repetition of \"allilu\" creating a sense of rhythm and emphasis. The phrase \"tá an puc ar buile\" translates to \"the puck is mad\", using the present tense to convey a sense of urgency and intensity."
+    },
+    {
+      "time": 27.0,
+      "text": "Ailliliú, puilliliú, ailliliú tá an puc ar buile!",
+      "translation": "Allilu, allilu, allilu, the puck is mad!",
+      "grammar": "This line uses the imperative mood to express excitement and enthusiasm, with the repeated phrase \"Ailliliú\" functioning as an interjection. The verb \"tá\" is in the present tense, indicating a state of being rather than an action."
+    }
+  ]
+}
