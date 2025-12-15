@@ -35,16 +35,17 @@ def chunked(seq: List[Any], size: int) -> List[List[Any]]:
 
 
 def build_prompt(items: List[Tuple[int, Dict[str, Any]]], src_lang: str, tgt_lang: str) -> str:
-    # This returns a single-line prompt; we generate per-line for robustness.
+    # Build a rich prompt to coax specific, non-repetitive grammar guidance.
     payload = {
         "text": items[0][1].get("text", ""),
         "translation": items[0][1].get("translation", ""),
     }
     return (
-        "Write ONE concise grammar/usage note for this lyric line to help learners.\n"
-        "- Mention tense/aspect/mood, idiom, agreement, pronouns/particles, or note if it's just an interjection.\n"
-        "- Keep it short (1–2 sentences). No markup, no numbering. Respond ONLY with the note text.\n"
-        "- Use the target/translation language for the explanation.\n"
+        "Write a specific grammar/usage explanation (2–3 sentences) for this lyric line to help a learner.\n"
+        "- Mention verb form (person/tense/mood) and any notable endings or stems.\n"
+        "- Call out case/preposition patterns, agreement, word order (e.g., verb-second/separable prefixes), and idiomatic phrases.\n"
+        "- If there is a set phrase, tell the learner to memorize it and explain why. If the line is just an interjection, say that.\n"
+        "- Avoid fluff; be concrete about the words you see. Respond ONLY with the note text in the translation language.\n"
         f"Source language: {src_lang or 'unknown'}; Target translation language: {tgt_lang or 'unknown'}.\n"
         f"Line: {json.dumps(payload, ensure_ascii=False)}"
     )
