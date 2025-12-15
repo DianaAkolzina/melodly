@@ -1,0 +1,367 @@
+{
+  "id": "eo_bokudake_no_mono",
+  "title": "Bokudake no Mono",
+  "artist": "Sambomaster",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "eo",
+  "to_language": "en",
+  "audio": "/audio/eo_bokudake_no_mono.mp3",
+  "duration": 391,
+  "licensing_note": "Lyrics via Musixmatch API; translations via Google Translate API; grammar notes auto-generated placeholders.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "キミの翼は消えてないよ その羽根にいま 生命と太陽",
+      "translation": "キミの翼は消くてないよ その羽根にいま 生影と太陽",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 3.467,
+      "text": "閉ざされた闇は終わって 取り戻すの 心はキミだけのもの",
+      "translation": "閉ざがるたしい",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 6.935,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 16.662,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 26.39,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 36.118,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 45.845,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 55.573,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 65.3,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 75.028,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 84.756,
+      "text": "錆びついたものばかりみつめて ほんとうの心がみつめたいものが",
+      "translation": "领びついたものなんみつてたみつつての心がみつめたいたれん",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 87.18,
+      "text": "姿を消してしまったの",
+      "translation": "姿を消ししつたの",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 88.56,
+      "text": "取り戻せないと誰かがつぶやく僕らは 待ちわびた日 さがせるだろか",
+      "translation": "りり戻せないと さんがつぶやく僕らは さなかかだかか",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 92.027,
+      "text": "キミのこと思い出すよ",
+      "translation": "I'm sorry",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 93.408,
+      "text": "誰かの祈りが つながっていまがあるなら",
+      "translation": "かるの祈りが",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 95.832,
+      "text": "僕はいま 祈りをつなぐ キミに捧げるの",
+      "translation": "フックいま 祈りをながぐ キミに拍げるの",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 99.299,
+      "text": "キミの翼は消えてないよ その羽根にいま 生命と太陽",
+      "translation": "キミの翼は消くてないよ その羽根にいま 生影と太陽",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 102.766,
+      "text": "閉ざされた闇は終わって 聴こえるだろ 心はキミだけのもの",
+      "translation": "閉ざがるます闇は アックって 聴こえるだだ 心はキミだしたたた",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 106.234,
+      "text": "信じることが苦しいのは 愛しさの意味知るからだよ",
+      "translation": "意しささします 知るからだよ",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 108.657,
+      "text": "砕け散った夜だけど 聴こえたのさ 心は僕だけのもの",
+      "translation": "砕け散っった夜だとと 聴こえたのさ 心は僕ださたたます",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 112.125,
+      "text": "この部屋をノックしておくれよ どこまでも 悲しみが来ない夜の",
+      "translation": "がん部屋をノックなれよされまでも 悲しみが来ない夜の",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 115.592,
+      "text": "歌を聴いて欲しいのさ",
+      "translation": "歌を聴いてますのさ",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 116.972,
+      "text": "こんなになくしてしまっても 僕らは 待ちわびた日 さがせるだろか",
+      "translation": "さがになるしてしまっても 僕らは さんわびた日 さがるせだかか",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 121.483,
+      "text": "キミのこと思い出すよ",
+      "translation": "I'm sorry",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 122.864,
+      "text": "誰かの祈りが もし未来をかえるなら",
+      "translation": "かんの祈りがもし未来をかえりなら",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 125.287,
+      "text": "いま僕は 未来ってやつを キミとみたいの",
+      "translation": "カミとなたたの",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 128.755,
+      "text": "キミの翼は消えてないよ その羽根にいま 生命と太陽",
+      "translation": "キミの翼は消くてないよ その羽根にいま 生影と太陽",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 132.222,
+      "text": "疑う時は終わって 取り戻すの 心はキミだけのもの",
+      "translation": "疑う時れますっててり戻すの心はキミださたたた",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 135.689,
+      "text": "寂しくて泣きくずれたのは ぬくもりの意味知るからだよ",
+      "translation": "寂しくて泣きくしてたたは ぬくもり 歌词知るからだよ",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 138.113,
+      "text": "砕け散った夜だけど 聴こえたのさ 心は僕だけのもの",
+      "translation": "砕け散っった夜だとと 聴こえたのさ 心は僕ださたたます",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 141.58,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 151.308,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 161.036,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 170.763,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 180.491,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 190.219,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 199.946,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 209.674,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 219.402,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 229.129,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 238.857,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 248.585,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 258.312,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 268.04,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 277.768,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 287.495,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 297.223,
+      "text": "キミの翼は消えてないよ その羽根にいま 生命と太陽",
+      "translation": "キミの翼は消くてないよ その羽根にいま 生影と太陽",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 300.69,
+      "text": "閉ざされた闇は終わって 聴こえるだろ 心はキミだけのもの",
+      "translation": "閉ざがるます闇は アックって 聴こえるだだ 心はキミだしたたた",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 304.157,
+      "text": "はかなくゆれる生命だけど 未来をぬりかえてみたいの",
+      "translation": "はかなるゆれる生学だとと 未来をぬりかえれたたたの",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 306.581,
+      "text": "砕け散った夜だけど 羽ばたけるさ 心は僕だけのもの",
+      "translation": "砕け散った夜だだと 羽ばたけるさ 心は僕ださたとは",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 310.049,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 319.776,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 329.504,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 339.232,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 348.959,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 358.687,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 368.414,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 378.142,
+      "text": "La-la-la, la-la-la-la-la-la",
+      "translation": "La-la-la, la-la-la-la-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 387.87,
+      "text": "La-la-la",
+      "translation": "La-la-la",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    }
+  ]
+}

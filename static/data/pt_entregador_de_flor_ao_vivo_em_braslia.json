@@ -1,0 +1,277 @@
+{
+  "id": "pt_entregador_de_flor_ao_vivo_em_braslia",
+  "title": "Entregador de Flor - Ao Vivo em Brasília",
+  "artist": "Diego & Victor Hugo",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "pt",
+  "to_language": "en",
+  "audio": "/audio/pt_entregador_de_flor_ao_vivo_em_braslia.mp3",
+  "duration": 190,
+  "licensing_note": "Lyrics via Musixmatch API; translations via Google Translate API; grammar notes auto-generated placeholders.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Vai lá entregador de flor",
+      "translation": "Go ahead, flower delivery man!",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 3.8,
+      "text": "Dar assistência pra isso",
+      "translation": "To provide assistance for that.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 6.9,
+      "text": "Que eu e ela tá chamando de amor",
+      "translation": "What she and I are calling love.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 12.8,
+      "text": "E o coração se acostumou",
+      "translation": "And the heart got used to it.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 16.6,
+      "text": "Que de sete em sete dias",
+      "translation": "That every seven days",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 21.1,
+      "text": "Eu mando um novo, por que o outro murchou",
+      "translation": "I'm sending a new one because the other one went bad.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 27.7,
+      "text": "Pra não dar tempo dela me esquecer",
+      "translation": "So she doesn't have time to forget me.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 32.9,
+      "text": "Toda semana eu mando um buquê",
+      "translation": "Every week I send a bouquet.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 37.4,
+      "text": "Vou te encher de flor minha flor",
+      "translation": "I'm going to shower you with flowers, my flower.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 42.6,
+      "text": "Vou te encher de beijos de amor",
+      "translation": "I'm going to shower you with loving kisses.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 47.8,
+      "text": "Quero ver cê reclamar",
+      "translation": "I want to see you complain.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 50.9,
+      "text": "Quero ver cê não me amar",
+      "translation": "I want to see you not love me.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 55.4,
+      "text": "Vou te encher de flor minha flor",
+      "translation": "I'm going to shower you with flowers, my flower.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 60.6,
+      "text": "Vou te encher de beijos de amor",
+      "translation": "I'm going to shower you with loving kisses.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 65.8,
+      "text": "Quero ver cê reclamar",
+      "translation": "I want to see you complain.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 68.9,
+      "text": "Quero ver cê não me amar",
+      "translation": "I want to see you not love me.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 73.4,
+      "text": "Vou te encher de flor",
+      "translation": "I'll shower you with flowers.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 77.2,
+      "text": "Eu vou",
+      "translation": "I go",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 78.9,
+      "text": "(Vai lá, vai lá)",
+      "translation": "(Go there, go there)",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 82.0,
+      "text": "Vai lá entregador de flor",
+      "translation": "Go ahead, flower delivery man!",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 85.8,
+      "text": "Dar assistência pra isso",
+      "translation": "To provide assistance for this.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 88.9,
+      "text": "Que eu e ela tá chamando de amor",
+      "translation": "What she and I are calling love",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 94.8,
+      "text": "Meu coração se acostumou",
+      "translation": "My heart got used to it.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 97.9,
+      "text": "Que de sete em sete dias",
+      "translation": "That every seven days",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 102.4,
+      "text": "Eu já mando um novo, por que o outro murchou",
+      "translation": "I'll send a new one right away, because the other one went shriveled up.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 109.7,
+      "text": "Pra não dar tempo dela me esquecer",
+      "translation": "So she doesn't have time to forget me.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 114.9,
+      "text": "Toda semana eu mando um buquê",
+      "translation": "Every week I send a bouquet.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 119.4,
+      "text": "Eu vou te encher de flor minha flor",
+      "translation": "I'm going to shower you with flowers, my flower.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 125.3,
+      "text": "Vou te encher de beijos de amor",
+      "translation": "I'm going to shower you with loving kisses.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 130.5,
+      "text": "Quero ver cê reclamar",
+      "translation": "I want to see you complain.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 133.6,
+      "text": "Quero ver cê não me amar",
+      "translation": "I want to see you not love me.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 138.1,
+      "text": "Vou te encher de flor minha flor",
+      "translation": "I'm going to shower you with flowers, my flower.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 143.3,
+      "text": "Vou te encher de beijos de amor",
+      "translation": "I'm going to shower you with loving kisses.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 148.5,
+      "text": "Quero ver cê reclamar",
+      "translation": "I want to see you complain.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 151.6,
+      "text": "Quero ver cê não me amar",
+      "translation": "I want to see you not love me.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 156.1,
+      "text": "Vou te encher de flor minha flor",
+      "translation": "I'm going to shower you with flowers, my flower.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 161.3,
+      "text": "Vou te encher de beijos de amor",
+      "translation": "I'm going to shower you with loving kisses.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 166.5,
+      "text": "Quero ver cê reclamar",
+      "translation": "I want to see you complain.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 169.6,
+      "text": "Quero ver cê não me amar",
+      "translation": "I want to see you not love me.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 174.1,
+      "text": "Vou te encher de flor",
+      "translation": "I'll shower you with flowers.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 177.9,
+      "text": "Eu vou",
+      "translation": "I go",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 179.6,
+      "text": "Vou te encher de flor",
+      "translation": "I'll shower you with flowers.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 183.4,
+      "text": "Eu vou",
+      "translation": "I go",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 185.1,
+      "text": "Pode bater palma e fazer barulho Brasília",
+      "translation": "You can clap and make noise, Brasília.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    }
+  ]
+}

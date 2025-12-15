@@ -1,0 +1,343 @@
+{
+  "id": "de_lichterkinder",
+  "title": "Lichterkinder",
+  "artist": "Lichterkinder",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "de",
+  "to_language": "en",
+  "audio": "/audio/de_lichterkinder.mp3",
+  "duration": 241,
+  "licensing_note": "Lyrics via Musixmatch API; translations via Google Translate API; grammar notes auto-generated placeholders.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Lichterkinder auf dieser Erde",
+      "translation": "Children of light on this earth",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 2.809,
+      "text": "Leuchten wie Sterne am Himmelszelt",
+      "translation": "Shining like stars in the sky",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 6.245,
+      "text": "So wie Sankt Martin schenken sie Freude",
+      "translation": "Just like Saint Martin, they bring joy",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 10.936,
+      "text": "In alle Herzen auf dieser Welt",
+      "translation": "To all hearts in this world",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 14.999,
+      "text": "Lichterkinder auf dieser Erde",
+      "translation": "Children of light on this earth",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 17.808,
+      "text": "Leuchten wie Sterne am Himmelszelt",
+      "translation": "Shining like stars in the sky",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 21.244,
+      "text": "So wie Sankt Martin schenken sie Freude",
+      "translation": "Just like Saint Martin, they bring joy",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 25.934,
+      "text": "In alle Herzen auf dieser Welt",
+      "translation": "To all hearts in this world",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 29.997,
+      "text": "Es ist kalt in der Nacht, kein Mensch unterwegs",
+      "translation": "It's cold at night, no one around.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 35.941,
+      "text": "Alle sind zu Hause und haben es bequem",
+      "translation": "Everyone is at home and comfortable.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 41.259,
+      "text": "Sankt Martin reitet auf seinem Pferd durch den Schnee",
+      "translation": "Saint Martin rides his horse through the snow",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 47.203,
+      "text": "Es ist dunkel und kalt, er kann kaum was sehen",
+      "translation": "It is dark and cold; he can hardly see anything.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 53.774,
+      "text": "Am Straßenrand sieht er einen Mann",
+      "translation": "He sees a man at the side of the road.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 57.837,
+      "text": "Der wimmert leise: \"Ich friere und bin krank\"",
+      "translation": "He whimpers softly: \"I'm cold and sick\"",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 63.154,
+      "text": "Martin nimmt seinen Mantel und teilt ihn durch zwei",
+      "translation": "Martin takes his coat and cuts it in half.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 69.098,
+      "text": "Und Dank der zwei Hälften hat es für beide gereicht",
+      "translation": "And thanks to the two halves, there was enough for both.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 75.669,
+      "text": "Lichterkinder auf dieser Erde",
+      "translation": "Children of light on this earth",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 78.478,
+      "text": "Leuchten wie Sterne am Himmelszelt",
+      "translation": "Shining like stars in the sky",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 81.914,
+      "text": "So wie Sankt Martin schenken sie Freude",
+      "translation": "Just like Saint Martin, they bring joy",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 86.604,
+      "text": "In alle Herzen auf dieser Welt",
+      "translation": "To all hearts in this world",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 90.667,
+      "text": "Es ist kalt in der Nacht, kein Mensch unterwegs",
+      "translation": "It's cold at night, no one around.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 96.612,
+      "text": "Wir sind zu Hause und haben es bequem",
+      "translation": "We are at home and comfortable.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 101.929,
+      "text": "Doch so gut wie wir hat es nicht jeder auf der Welt",
+      "translation": "But not everyone in the world is as fortunate as we are.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 109.754,
+      "text": "Vielen fehlt es an Essen, fehlt es an Geld",
+      "translation": "Many lack food, many lack money",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 115.698,
+      "text": "Wir zünden ein Licht an, dann geht vielen ein Licht auf",
+      "translation": "We light a candle, and then many will see the light.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 122.895,
+      "text": "Teilen wie Sankt Martin, weil jemand auch dich braucht",
+      "translation": "Sharing like Saint Martin, because someone needs you too",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 128.84,
+      "text": "Lichterkinder bringen Lächeln in Gesichter",
+      "translation": "Children of light bring smiles to faces",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 132.276,
+      "text": "Singt dieses Lied und zeigt eure Lichter",
+      "translation": "Sing this song and show your lights",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 136.966,
+      "text": "Lichterkinder auf dieser Erde",
+      "translation": "Children of light on this earth",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 139.775,
+      "text": "Leuchten wie Sterne am Himmelszelt",
+      "translation": "Shining like stars in the sky",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 143.211,
+      "text": "So wie Sankt Martin schenken sie Freude",
+      "translation": "Just like Saint Martin, they bring joy",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 147.901,
+      "text": "In alle Herzen auf dieser Welt",
+      "translation": "To all hearts in this world",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 151.965,
+      "text": "Laternen und Lichter bringen Wärme in die Welt",
+      "translation": "Lanterns and lights bring warmth to the world.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 157.282,
+      "text": "Leuchten wie Sterne am Himmelszelt",
+      "translation": "Shining like stars in the sky",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 160.718,
+      "text": "Für alle deren Leben dunkel und kalt ist",
+      "translation": "For all whose lives are dark and cold",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 166.035,
+      "text": "Voller Schatten, Angst und Gewalt ist",
+      "translation": "It is full of shadows, fear, and violence.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 170.098,
+      "text": "Wir teilen wie Sankt Martin, den Mantel und Geld",
+      "translation": "Like Saint Martin, we share our cloak and money.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 176.042,
+      "text": "Nächstenliebe, ist alles, was zählt",
+      "translation": "Love of one's neighbor is all that matters.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 179.478,
+      "text": "Lichterkinder bringen Lächeln in Gesichter",
+      "translation": "Children of light bring smiles to faces",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 182.914,
+      "text": "Singt dieses Lied und zeigt eure Lichter",
+      "translation": "Sing this song and show your lights",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 187.605,
+      "text": "Wir alle sind Lichterkinder",
+      "translation": "We are all children of light",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 190.414,
+      "text": "Es strahlen die Kerzen, Lichterkinder",
+      "translation": "The candles are shining, children of light.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 193.85,
+      "text": "Mit Liebe im Herzen, Lichterkinder",
+      "translation": "With love in our hearts, children of light",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 197.286,
+      "text": "Für alle Kinder dieser Welt",
+      "translation": "For all the children of this world",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 200.722,
+      "text": "Wir alle sind Lichterkinder",
+      "translation": "We are all children of light",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 203.532,
+      "text": "Es strahlen die Kerzen, Lichterkinder",
+      "translation": "The candles are shining, children of light.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 206.968,
+      "text": "Mit Liebe im Herzen, Lichterkinder",
+      "translation": "With love in our hearts, children of light",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 210.404,
+      "text": "Für alle Kinder dieser Welt",
+      "translation": "For all the children of this world",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 213.84,
+      "text": "Lichterkinder",
+      "translation": "Children of Light",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 215.04,
+      "text": "Lichterkinder auf dieser Erde (Lichterkinder)",
+      "translation": "Children of Light on this earth (Children of Light)",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 218.476,
+      "text": "Leuchten wie Sterne am Himmelszelt (Lichterkinder)",
+      "translation": "Shining like stars in the sky (children of light)",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 222.54,
+      "text": "So wie Sankt Martin schenken sie Freude (Lichterkinder)",
+      "translation": "Like Saint Martin, they bring joy (children of light)",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 227.857,
+      "text": "In alle Herzen auf dieser Welt (Lichterkinder)",
+      "translation": "To all hearts in this world (children of light)",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 232.547,
+      "text": "So wie Sankt Martin schenken sie Freude",
+      "translation": "Just like Saint Martin, they bring joy",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 237.237,
+      "text": "In alle Herzen auf dieser Welt",
+      "translation": "To all hearts in this world",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "id": "pt_vou_voando_ao_vivo",
+  "title": "Vou Voando - Ao Vivo",
+  "artist": "Jorge & Mateus",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "pt",
+  "to_language": "en",
+  "audio": "/audio/pt_vou_voando_ao_vivo.mp3",
+  "duration": 237,
+  "licensing_note": "Lyrics via Musixmatch API; translations via Google Translate API; grammar notes auto-generated placeholders.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Oi, São Paulo!",
+      "translation": "Hi, São Paulo!",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 3.067,
+      "text": "Uh-uh, iê-iê-ié",
+      "translation": "Uh-uh, yeah-yeah-yeah",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 7.979,
+      "text": "Uh-uh, iê-iê-ié",
+      "translation": "Uh-uh, yeah-yeah-yeah",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 12.89,
+      "text": "Por que você não vem",
+      "translation": "Why don't you come?",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 17.802,
+      "text": "E deita aqui do meu lado?",
+      "translation": "And lie down here next to me?",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 23.636,
+      "text": "Acende a luz da noite",
+      "translation": "Turn on the night light.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 28.547,
+      "text": "Vamos ficar acordados",
+      "translation": "Let's stay awake.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 31.614,
+      "text": "Pular num mar de estrelas",
+      "translation": "Jump into a sea of stars",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 36.526,
+      "text": "E desvendar o infinito",
+      "translation": "And to unveil the infinite.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 40.515,
+      "text": "Se embriagar de amor",
+      "translation": "To get drunk on love",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 44.504,
+      "text": "Dizer o que nunca foi dito",
+      "translation": "To say what has never been said.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 50.338,
+      "text": "Assim, vem!",
+      "translation": "So, come on!",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 52.483,
+      "text": "Vem, vem, vem!",
+      "translation": "Come, come, come!",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 55.55,
+      "text": "Dias que não voltam mais",
+      "translation": "Days that will never return.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 60.461,
+      "text": "Tempo que ficou pra trás",
+      "translation": "Time that's gone by",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 65.373,
+      "text": "Fotos e recordações, primaveras e verões",
+      "translation": "Photos and memories, springs and summers",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 71.207,
+      "text": "Juras de amor sem fim",
+      "translation": "Vows of endless love",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 76.118,
+      "text": "Sem você, tá tão ruim",
+      "translation": "Without you, things are so bad.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 81.03,
+      "text": "Oh-oh-oh-oh (vem, São Paulo, assim!)",
+      "translation": "Oh-oh-oh-oh (come on, São Paulo, like this!)",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 88.708,
+      "text": "Amanheceu",
+      "translation": "Dawn broke.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 89.931,
+      "text": "E no meu sonho, o teu sorriso me chamando",
+      "translation": "And in my dream, your smile is calling me.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 98.531,
+      "text": "E eu vou voando, eu vou voando",
+      "translation": "And I'm flying, I'm flying",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 105.288,
+      "text": "Amanheceu",
+      "translation": "Dawn broke.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 106.51,
+      "text": "E no meu sonho, o teu sorriso me chamando",
+      "translation": "And in my dream, your smile is calling me.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 115.111,
+      "text": "E eu vou voando, eu vou voando",
+      "translation": "And I'm flying, I'm flying",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 121.867,
+      "text": "Por que você não vem pra mim, voando?",
+      "translation": "Why don't you come to me, flying?",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 129.545,
+      "text": "Uh-uh, iê-iê-ié",
+      "translation": "Uh-uh, yeah-yeah-yeah",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 134.457,
+      "text": "Dias que não voltam mais",
+      "translation": "Days that will never return.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 139.369,
+      "text": "Tempo que ficou pra trás",
+      "translation": "Time that's gone by",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 144.28,
+      "text": "Fotos e recordações, primaveras e verões",
+      "translation": "Photos and memories, springs and summers",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 150.114,
+      "text": "Juras de amor sem fim",
+      "translation": "Vows of endless love",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 155.026,
+      "text": "Sem você, tá tão ruim",
+      "translation": "Without you, things are so bad.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 159.937,
+      "text": "Oh-oh-oh-oh-oh",
+      "translation": "Oh-oh-oh-oh-oh",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 164.849,
+      "text": "Amanheceu",
+      "translation": "Dawn broke.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 166.071,
+      "text": "E no meu sonho, o teu sorriso me chamando",
+      "translation": "And in my dream, your smile is calling me.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 174.672,
+      "text": "E eu vou voando, eu vou voando",
+      "translation": "And I'm flying, I'm flying",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 181.428,
+      "text": "Amanheceu",
+      "translation": "Dawn broke.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 182.65,
+      "text": "E no meu sonho, o teu sorriso me chamando",
+      "translation": "And in my dream, your smile is calling me.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 191.251,
+      "text": "E eu vou voando, eu vou voando",
+      "translation": "And I'm flying, I'm flying",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 198.007,
+      "text": "Amanheceu",
+      "translation": "Dawn broke.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 199.23,
+      "text": "E no meu sonho, o teu sorriso me chamando",
+      "translation": "And in my dream, your smile is calling me.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 207.831,
+      "text": "E eu vou voando, eu vou voando",
+      "translation": "And I'm flying, I'm flying",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 214.587,
+      "text": "Amanheceu",
+      "translation": "Dawn broke.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 215.809,
+      "text": "E no meu sonho, o teu sorriso me chamando",
+      "translation": "And in my dream, your smile is calling me.",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 224.41,
+      "text": "E eu vou voando, eu vou voando",
+      "translation": "And I'm flying, I'm flying",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 231.166,
+      "text": "Muito obrigado! (Obrigado!)",
+      "translation": "Thank you very much!",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    },
+    {
+      "time": 234.233,
+      "text": "Eh, coisa boa!",
+      "translation": "Oh, that's great!",
+      "grammar": "Portuguese line; note verb conjugation and nasal vowels in pronunciation."
+    }
+  ]
+}

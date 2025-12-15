@@ -1,0 +1,67 @@
+{
+  "id": "de_euphoria_der_traum",
+  "title": "Euphoria: Der Traum",
+  "artist": "Schiller",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "de",
+  "to_language": "en",
+  "audio": "/audio/de_euphoria_der_traum.mp3",
+  "duration": 185,
+  "licensing_note": "Lyrics via Musixmatch API; translations via Google Translate API; grammar notes auto-generated placeholders.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Wir haben einen Traum",
+      "translation": "We have a dream",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 15.503,
+      "text": "Ein Funke Licht im Sturm der Zeit",
+      "translation": "A spark of light in the storm of time",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 41.767,
+      "text": "Ein stiller Ruf nach Ewigkeit",
+      "translation": "A silent cry for eternity",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 60.857,
+      "text": "Wir haben einen Traum",
+      "translation": "We have a dream",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 76.36,
+      "text": "Ein Funke Licht im Sturm der Zeit",
+      "translation": "A spark of light in the storm of time",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 102.623,
+      "text": "Ein stiller Ruf nach Ewigkeit",
+      "translation": "A silent cry for eternity",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 121.713,
+      "text": "Was innen leuchtet, trägt uns weit",
+      "translation": "What shines within carries us far",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 144.39,
+      "text": "Ein Traum, der bleibt, wenn alles schweigt",
+      "translation": "A dream that remains when everything is silent.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 170.653,
+      "text": "Wir haben einen Traum",
+      "translation": "We have a dream",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    }
+  ]
+}

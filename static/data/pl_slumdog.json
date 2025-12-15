@@ -1,0 +1,277 @@
+{
+  "id": "pl_slumdog",
+  "title": "SLUMDOG!",
+  "artist": "Oki feat. @atutowy",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "pl",
+  "to_language": "en",
+  "audio": "/audio/pl_slumdog.mp3",
+  "duration": 138,
+  "licensing_note": "Lyrics via Musixmatch API; translations via Google Translate API; grammar notes auto-generated placeholders.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Yeah, yeah, teraz by chcieli być jak ja",
+      "translation": "Yeah, yeah, now they want to be like me",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 3.089,
+      "text": "Nie raz nie robisz nic, jak ja",
+      "translation": "You don't do anything like me sometimes",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 5.829,
+      "text": "Mieć sos i taki fit—",
+      "translation": "Have sauce and such fit—",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 7.872,
+      "text": "Ej, ej, ej (yo)",
+      "translation": "Hey, hey, hey (yo)",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 9.566,
+      "text": "Dawaj mi klucze do miasta, bo jak wracam tam, to czuję się jak Slumdog",
+      "translation": "Give me the keys to the city, because when I go back there I feel like Slumdog Millionaire.",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 14.746,
+      "text": "Nie śmigam na pieszo, lecz z daleka słychać warkot",
+      "translation": "I'm not on foot, but I can hear the roar from afar",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 18.183,
+      "text": "Za mną kordon na rowerach i ktoś jedzie rafką",
+      "translation": "Behind me there is a cordon of bikes and someone is riding a raft",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 21.621,
+      "text": "Zatrzymują mnie na światłach i chcą fotkę — mówię: \"bardzo proszę\"",
+      "translation": "They stop me at a traffic light and want a photo - I say, \"Please.\"",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 25.406,
+      "text": "Wjeżdżam w tę alejkę, co łączy się z moim blokiem",
+      "translation": "I enter this alley that connects with my block",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 29.192,
+      "text": "Idzie młody, a ja idę o stówę, że niesie koper (smoke)",
+      "translation": "Here comes the young one, and I bet he's carrying some smoke",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 33.327,
+      "text": "Tam, gdzie po tej bibie spałem, zbudowali hotel",
+      "translation": "Where I slept after that party, they built a hotel",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 36.415,
+      "text": "Sprawdzam zmiany na osiedlu jak jebany deweloper (oh)",
+      "translation": "I'm checking the changes in the estate like a fucking developer (oh)",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 39.504,
+      "text": "I nas wyganiali z dachu, bo mieli to za głupotę",
+      "translation": "And they threw us off the roof because they thought it was stupid.",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 43.29,
+      "text": "Ale jak wyganiali mnie wtedy, nie wiedzieli, że jestem kotem",
+      "translation": "But when they were throwing me out, they didn't know I was a cat.",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 47.076,
+      "text": "Teraz ich dzieci do szkoły mówią: \"mamo, proszę do tej\"",
+      "translation": "Now their children go to school saying: \"Mom, please go to this one\"",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 50.861,
+      "text": "No bo Jeżyk dał tam płytę, która pokryła się złotem (wow)",
+      "translation": "Well, because Jeżyk released an album there that went gold (wow)",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 54.996,
+      "text": "Ja, teraz by chcieliby być jak ja",
+      "translation": "Me, now they would like to be like me",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 57.736,
+      "text": "Nie raz nie robić nic, jak ja",
+      "translation": "More than once do nothing, like me",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 60.476,
+      "text": "Mieć sos i taki fit jak ja",
+      "translation": "Have sauce and be as fit as me",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 63.216,
+      "text": "A wiesz, nie chcieli być jak ja",
+      "translation": "And you know, they didn't want to be like me.",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 65.956,
+      "text": "Teraz by chcieliby być jak ja",
+      "translation": "Now they would like to be like me",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 68.348,
+      "text": "Nie raz nie robić nic, jak ja",
+      "translation": "More than once do nothing, like me",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 71.088,
+      "text": "Mieć sos i taki fit jak ja",
+      "translation": "Have sauce and be as fit as me",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 73.828,
+      "text": "A wiesz, nie chcieli—",
+      "translation": "And you know, they didn't want—",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 75.522,
+      "text": "Właśnie mijam dupę — ona mnie nie chciała, też jej nie chcę teraz",
+      "translation": "I'm just passing by the ass - she didn't want me, I don't want her now either",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 80.005,
+      "text": "Ale wtedy bym się pociął za nią, zmienił et cetera",
+      "translation": "But then I would cut myself for her, change her, etc.",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 83.791,
+      "text": "Śmiała się z tych portków i mnie miała za pozera",
+      "translation": "She laughed at those pants and thought I was a poseur.",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 87.577,
+      "text": "A na trasie coś pisała, czy na backstage ją zabieram? (Woo)",
+      "translation": "Did she write anything on the tour, should I take her backstage? (Woo)",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 91.711,
+      "text": "Ty, a ta z pierwszej ławki była spoko niby (taa)",
+      "translation": "You, and the one in the first row was kind of cool (yeah)",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 95.497,
+      "text": "Po lekcjach paliła hajs, z Maroko niby",
+      "translation": "After classes she smoked cash, supposedly from Morocco",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 98.237,
+      "text": "Co by nie mówić — zawsze miała jakieś perspektywy",
+      "translation": "Whatever you say, she always had some prospects",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 101.326,
+      "text": "Najwyższe oceny w klasie i prezerwatywy",
+      "translation": "Top marks in class and condoms",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 103.717,
+      "text": "Yo, powiedz koleżankom, niech wystawią kolumny na balkon",
+      "translation": "Yo, tell your friends to put the speakers on the balcony",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 106.806,
+      "text": "Spodoba się to nawet sąsiadkom",
+      "translation": "Even the neighbors will like it",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 108.849,
+      "text": "Zwołaj tu każdego, kto tu był — ja będę bandą",
+      "translation": "Call everyone who was here - I'll be the gang",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 112.286,
+      "text": "A jak coś tu rozjebiemy, to w końcu mam na to banknot",
+      "translation": "And if we mess something up here, I finally have a banknote for it.",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 116.769,
+      "text": "Ja, teraz by chcieliby być jak ja",
+      "translation": "Me, now they would like to be like me",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 119.509,
+      "text": "Nie raz nie robić nic, jak ja",
+      "translation": "More than once do nothing, like me",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 122.249,
+      "text": "Mieć sos i taki fit jak ja",
+      "translation": "Have sauce and be as fit as me",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 124.989,
+      "text": "A wiesz, nie chcieli być jak ja",
+      "translation": "And you know, they didn't want to be like me.",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 127.729,
+      "text": "Teraz by chcieliby być jak ja",
+      "translation": "Now they would like to be like me",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 130.121,
+      "text": "Nie raz nie robić nic, jak ja",
+      "translation": "More than once do nothing, like me",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 132.861,
+      "text": "Mieć sos i taki fit jak ja",
+      "translation": "Have sauce and be as fit as me",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    },
+    {
+      "time": 135.601,
+      "text": "A wiesz, nie chcieli być jak—",
+      "translation": "And you know, they didn't want to be like—",
+      "grammar": "Polish line; watch Slavic case endings and aspectual verb choice."
+    }
+  ]
+}

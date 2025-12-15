@@ -1,0 +1,55 @@
+{
+  "id": "eo_mermelada_de_medusa",
+  "title": "Mermelada de Medusa",
+  "artist": "Spongebob Squarepants",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "eo",
+  "to_language": "en",
+  "audio": "/audio/eo_mermelada_de_medusa.mp3",
+  "duration": 102,
+  "licensing_note": "Lyrics via Musixmatch API; translations via Google Translate API; grammar notes auto-generated placeholders.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "La, lalala",
+      "translation": "The, lala lala",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 18.468,
+      "text": "Lalalalalala",
+      "translation": "Lalalalalala",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 28.127,
+      "text": "La, lalala",
+      "translation": "The, lala lala",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 46.595,
+      "text": "Lalalalalala",
+      "translation": "Lalalalalala",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 56.255,
+      "text": "La, lalala",
+      "translation": "The, lala lala",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 74.723,
+      "text": "Lalalalalala",
+      "translation": "Lalalalalala",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 84.382,
+      "text": "La, lalala",
+      "translation": "The, lala lala",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    }
+  ]
+}

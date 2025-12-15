@@ -1,0 +1,337 @@
+{
+  "id": "de_in_der_weihnachtsbckerei",
+  "title": "In der Weihnachtsbäckerei",
+  "artist": "Rolf Zuckowski",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "de",
+  "to_language": "en",
+  "audio": "/audio/de_in_der_weihnachtsbckerei.mp3",
+  "duration": 78,
+  "licensing_note": "Lyrics via Musixmatch API; translations via Google Translate API; grammar notes auto-generated placeholders.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "In der Weihnachtsbäckerei",
+      "translation": "In the Christmas bakery",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 1.212,
+      "text": "Gibt es manche Leckerei",
+      "translation": "Are there any treats?",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 2.673,
+      "text": "Zwischen Mehl und Milch",
+      "translation": "Between flour and milk",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 4.135,
+      "text": "Macht so mancher Knilch",
+      "translation": "That's what some kids do.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 5.596,
+      "text": "Eine riesengroße Kleckerei",
+      "translation": "A huge mess",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 6.808,
+      "text": "In der Weihnachtsbäckerei",
+      "translation": "In the Christmas bakery",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 8.019,
+      "text": "In der Weihnachtsbäckerei",
+      "translation": "In the Christmas bakery",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 9.231,
+      "text": "Wo ist das Rezept geblieben",
+      "translation": "Where did the recipe go?",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 10.942,
+      "text": "Von den Plätzchen, die wir lieben?",
+      "translation": "Of the cookies we love?",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 12.903,
+      "text": "Wer hat das Rezept verschleppt?",
+      "translation": "Who stole the recipe?",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 14.615,
+      "text": "\"Ich nicht\"",
+      "translation": "\"Not me\"",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 15.815,
+      "text": "\"Du vielleicht?\"",
+      "translation": "\"Maybe you?\"",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 17.015,
+      "text": "\"Ich auch nicht\"",
+      "translation": "\"Me neither\"",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 18.226,
+      "text": "Na, dann müssen wir es packen",
+      "translation": "Well, then we have to make it happen.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 20.187,
+      "text": "Einfach frei nach Schnauze backen",
+      "translation": "Just bake it however you like.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 21.899,
+      "text": "Schmeißt den Ofen an (oh ja)",
+      "translation": "Turn on the oven (oh yeah)",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 23.86,
+      "text": "Und ran",
+      "translation": "And go",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 25.06,
+      "text": "In der Weihnachtsbäckerei",
+      "translation": "In the Christmas bakery",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 26.271,
+      "text": "Gibt es manche Leckerei",
+      "translation": "Are there any treats?",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 27.733,
+      "text": "Zwischen Mehl und Milch",
+      "translation": "Between flour and milk",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 29.194,
+      "text": "Macht so mancher Knilch",
+      "translation": "That's what some kids do.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 30.656,
+      "text": "Eine riesengroße Kleckerei",
+      "translation": "A huge mess",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 31.867,
+      "text": "In der Weihnachtsbäckerei",
+      "translation": "In the Christmas bakery",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 33.079,
+      "text": "In der Weihnachtsbäckerei",
+      "translation": "In the Christmas bakery",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 34.291,
+      "text": "Brauchen wir nicht Schokolade",
+      "translation": "Don't we need chocolate?",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 35.752,
+      "text": "Honig, Nüsse und Succade",
+      "translation": "Honey, nuts and candied fruit",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 37.213,
+      "text": "Und ein bischen Zimt?",
+      "translation": "And a little cinnamon?",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 38.675,
+      "text": "Das stimmt",
+      "translation": "That's correct",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 39.875,
+      "text": "Butter, Mehl und Milch verrühren",
+      "translation": "Mix together butter, flour and milk",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 41.586,
+      "text": "Zwischendurch einmal probieren",
+      "translation": "Try it once in a while",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 42.798,
+      "text": "Und dann kommt das Ei (pass auf)",
+      "translation": "And then comes the egg (watch out)",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 45.009,
+      "text": "Vorbei",
+      "translation": "Over",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 46.209,
+      "text": "In der Weihnachtsbäckerei",
+      "translation": "In the Christmas bakery",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 47.42,
+      "text": "Gibt es manche Leckerei",
+      "translation": "Are there any treats?",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 48.882,
+      "text": "Zwischen Mehl und Milch",
+      "translation": "Between flour and milk",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 50.343,
+      "text": "Macht so mancher Knilch",
+      "translation": "That's what some kids do.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 51.805,
+      "text": "Eine riesengroße Kleckerei",
+      "translation": "A huge mess",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 53.016,
+      "text": "In der Weihnachtsbäckerei",
+      "translation": "In the Christmas bakery",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 54.228,
+      "text": "In der Weihnachtsbäckerei",
+      "translation": "In the Christmas bakery",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 55.44,
+      "text": "Bitte mal zur Seite treten",
+      "translation": "Please step aside.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 57.151,
+      "text": "Denn wir brauchen Platz zum kneten",
+      "translation": "Because we need space to knead",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 59.112,
+      "text": "Sind die Finger rein?",
+      "translation": "Are the fingers clean?",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 60.573,
+      "text": "Du Schwein",
+      "translation": "You pig",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 61.773,
+      "text": "Sind die Plätzchen, die wir stechen",
+      "translation": "Are the cookies we cut",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 63.735,
+      "text": "Erstmal auf den Ofenblechen",
+      "translation": "First, place them on the oven trays.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 65.196,
+      "text": "Warten wir gespannt",
+      "translation": "Let's wait and see.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 66.408,
+      "text": "Verbrannt",
+      "translation": "Burnt",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 67.608,
+      "text": "In der Weihnachtsbäckerei",
+      "translation": "In the Christmas bakery",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 68.819,
+      "text": "Gibt es manche Leckerei",
+      "translation": "Are there any treats?",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 70.281,
+      "text": "Zwischen Mehl und Milch",
+      "translation": "Between flour and milk",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 71.742,
+      "text": "Macht so mancher Knilch",
+      "translation": "That's what some kids do.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 73.204,
+      "text": "Eine riesengroße Kleckerei",
+      "translation": "A huge mess",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 74.415,
+      "text": "In der Weihnachtsbäckerei",
+      "translation": "In the Christmas bakery",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 75.627,
+      "text": "In der Weihnachtsbäckerei",
+      "translation": "In the Christmas bakery",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    }
+  ]
+}

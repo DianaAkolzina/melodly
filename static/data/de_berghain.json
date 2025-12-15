@@ -1,0 +1,271 @@
+{
+  "id": "de_berghain",
+  "title": "Berghain",
+  "artist": "ROSALÍA",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "de",
+  "to_language": "en",
+  "audio": "/audio/de_berghain.mp3",
+  "duration": 85,
+  "licensing_note": "Lyrics via Musixmatch API; translations via Google Translate API; grammar notes auto-generated placeholders.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Seine Angst ist meine Angst",
+      "translation": "His fear is my fear",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 1.875,
+      "text": "Seine Wut ist meine Wut",
+      "translation": "His anger is my anger",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 3.749,
+      "text": "Seine Liebe ist meine Liebe",
+      "translation": "His love is my love",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 5.624,
+      "text": "Sein Blut ist mein Blut",
+      "translation": "His blood is my blood",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 7.498,
+      "text": "Die Flamme dringt in mein Gehirn ein",
+      "translation": "The flame penetrates my brain",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 9.974,
+      "text": "Wie ein Blei-Teddybär",
+      "translation": "Like a lead teddy bear",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 11.548,
+      "text": "Ich bewahre viele Dinge in meinem Herzen auf",
+      "translation": "I keep many things in my heart.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 14.323,
+      "text": "Deshalb ist mein Herz so schwer",
+      "translation": "That's why my heart is so heavy",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 16.498,
+      "text": "Seine Angst ist meine Angst",
+      "translation": "His fear is my fear",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 18.373,
+      "text": "Seine Wut ist meine Wut",
+      "translation": "His anger is my anger",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 20.247,
+      "text": "Seine Liebe ist meine Liebe",
+      "translation": "His love is my love",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 22.122,
+      "text": "Sein Blut ist mein Blut",
+      "translation": "His blood is my blood",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 23.997,
+      "text": "Yo se muy bien lo que soy",
+      "translation": "Yo se muy bien lo que soy",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 26.472,
+      "text": "Ternura pa'l café",
+      "translation": "Ternura pa'l café",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 28.046,
+      "text": "Solo soy un terrón de azúcar",
+      "translation": "Solo soy un terrón de azúcar",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 30.221,
+      "text": "Sé que me funde el calor",
+      "translation": "Sé que me funde el calor",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 32.396,
+      "text": "Sé desaparecer",
+      "translation": "Sé desaparecer",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 33.596,
+      "text": "Cuando tú vienes es cuando me voy",
+      "translation": "Cuando tú vienes es cuando me voy",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 36.071,
+      "text": "Seine Angst ist meine Angst",
+      "translation": "His fear is my fear",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 37.946,
+      "text": "Seine Wut ist meine Wut",
+      "translation": "His anger is my anger",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 39.82,
+      "text": "Seine Liebe ist meine Liebe (this is divine intervention)",
+      "translation": "His love is my love (this is divine intervention)",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 42.896,
+      "text": "Sein Blut ist mein Blut",
+      "translation": "His blood is my blood",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 44.771,
+      "text": "The only way to save us is through divine",
+      "translation": "The only way to save us is through divine",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 47.847,
+      "text": "Intervention",
+      "translation": "intervention",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 49.047,
+      "text": "The only way I will be saved is through divine",
+      "translation": "The only way I will be saved is through divine",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 52.423,
+      "text": "Intervention",
+      "translation": "intervention",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 53.623,
+      "text": "I'll fuck you till you love me",
+      "translation": "I'll fuck you until you love me",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 56.398,
+      "text": "I'll fuck you till you love me",
+      "translation": "I'll fuck you until you love me",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 59.174,
+      "text": "I'll fuck you till you love me",
+      "translation": "I'll fuck you until you love me",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 61.95,
+      "text": "Till you love me",
+      "translation": "Until you love me",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 63.524,
+      "text": "Till you love me",
+      "translation": "Until you love me",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 65.098,
+      "text": "Till you love me",
+      "translation": "Until you love me",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 66.672,
+      "text": "Till you love me",
+      "translation": "Until you love me",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 68.247,
+      "text": "Till you love me",
+      "translation": "Until you love me",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 69.821,
+      "text": "Love me",
+      "translation": "Love me",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 71.021,
+      "text": "Till you",
+      "translation": "Till you",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 72.221,
+      "text": "Till you love me",
+      "translation": "Until you love me",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 73.795,
+      "text": "I'll fuck you till you love me",
+      "translation": "I'll fuck you until you love me",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 76.571,
+      "text": "I'll fuck you till you love me",
+      "translation": "I'll fuck you until you love me",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 79.346,
+      "text": "Love me",
+      "translation": "Love me",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 80.546,
+      "text": "Love me",
+      "translation": "Love me",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 81.746,
+      "text": "Love me",
+      "translation": "Love me",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 82.946,
+      "text": "Love me",
+      "translation": "Love me",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    }
+  ]
+}

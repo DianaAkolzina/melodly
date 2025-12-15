@@ -77,7 +77,6 @@ def load_generator(model_name: str, task: str, local_files_only: bool) -> Pipeli
     return pipeline(
         task=task,
         model=model_name,
-        dtype="auto",
         device="cpu",  # CPU by default to avoid accelerate/device_map requirements
         trust_remote_code=True,
     )

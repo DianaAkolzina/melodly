@@ -52,6 +52,10 @@ TARGET_LANGS = {
     "gaelic": ["gd", "ga"],
     "latvian": ["lv"],
     "russian": ["ru"],
+    "german": ["de"],
+    "esperanto": ["eo"],
+    "polish": ["pl"],
+    "portuguese": ["pt"],
 }
 
 PER_LANG_COUNT = 4
@@ -204,6 +208,28 @@ def normalize_lines(raw_lyrics: str) -> List[str]:
     return cleaned
 
 
+def google_translate_batch(texts: List[str], src: str | None, tgt: str, api_key: str) -> List[str]:
+    """Translate a batch of strings using Google Translate API."""
+    url = f"https://translation.googleapis.com/language/translate/v2?key={api_key}"
+    payload: Dict[str, Any] = {
+        "q": texts,
+        "target": tgt or "en",
+        "format": "text",
+    }
+    if src:
+        payload["source"] = src
+    resp = requests.post(url, json=payload, timeout=60)
+    resp.raise_for_status()
+    data = resp.json()
+    translations = data.get("data", {}).get("translations", [])
+    out: List[str] = []
+    for t in translations:
+        out.append(t.get("translatedText", "") if isinstance(t, dict) else str(t))
+    if len(out) != len(texts):
+        raise RuntimeError(f"Google Translate returned {len(out)} translations for {len(texts)} inputs")
+    return out
+
+
 def ollama_translate_with_grammar(lines: List[str], src_lang: str, dst_lang: str, base_url: str, model: str) -> List[Dict[str, str]]:
     # To stay robust, chunk lines if too many
     def mk_prompt(chunk: List[str]) -> str:
@@ -338,6 +364,8 @@ def fetch_for_language(
     api_key: str,
     ollama_url: str,
     ollama_model: str,
+    translation_engine: str,
+    google_api_key: Optional[str],
     seen_pairs: set[tuple[str, str]],
     per_count: int,
     skip_annotation: bool,
@@ -422,7 +450,16 @@ def fetch_for_language(
                     print(f"Saved raw lyrics {raw_txt}")
                     saved_paths.append(raw_txt)
                 else:
-                    translated = ollama_translate_with_grammar(lines, display_lang, "English", ollama_url, ollama_model)
+                    if translation_engine == "google":
+                        if not google_api_key:
+                            raise RuntimeError("GOOGLE_API_KEY is required for translation-engine=google")
+                        translations = google_translate_batch(lines, src=code, tgt="en", api_key=google_api_key)
+                        translated = [
+                            {"text": line, "translation": translations[idx], "grammar": ""}
+                            for idx, line in enumerate(lines)
+                        ]
+                    else:
+                        translated = ollama_translate_with_grammar(lines, display_lang, "English", ollama_url, ollama_model)
                     obj = build_song_json(code, t.track_name, t.artist_name, translated, to_lang="en", track_length=t.track_length)
                     out_path = ensure_unique_path(DATA_DIR, code, t.track_name)
                     out_path.write_text(json.dumps(obj, ensure_ascii=False, indent=2), encoding="utf-8")
@@ -442,9 +479,20 @@ def main():
     import argparse
     parser = argparse.ArgumentParser(description="Fetch Musixmatch songs and translate with Ollama")
     parser.add_argument("--per-lang", type=int, default=PER_LANG_COUNT, help="Number of songs per language (default: 4)")
-    parser.add_argument("--only-lang", action="append", default=None, help="Limit to specific display languages (repeatable). Choices: spanish, french, gaelic, latvian, russian")
+    parser.add_argument("--only-lang", action="append", default=None, help="Limit to specific display languages (repeatable). Choices: spanish, french, gaelic, latvian, russian, german, esperanto, polish, portuguese")
     parser.add_argument("--skip-annotation", action="store_true", help="Only fetch raw lyrics and metadata; skip translation/JSON generation")
     parser.add_argument("--verbose", action="store_true", help="Print per-track skip reasons")
+    parser.add_argument(
+        "--translation-engine",
+        choices=["ollama", "google"],
+        default="ollama",
+        help="Choose translation engine. 'google' uses Google Translate API; 'ollama' uses local model (default).",
+    )
+    parser.add_argument(
+        "--google-api-key",
+        default=os.getenv("GOOGLE_API_KEY"),
+        help="Google Translate API key (or set GOOGLE_API_KEY env). Required if translation-engine=google.",
+    )
     args = parser.parse_args()
 
     load_dotenv()
@@ -471,19 +519,25 @@ def main():
         wanted = set([w.lower() for w in args.only_lang])
         items = [(d, c) for d, c in items if d.lower() in wanted]
 
+    google_key = args.google_api_key
+    if args.translation_engine == "google" and not google_key:
+        raise SystemExit("GOOGLE_API_KEY is required for translation-engine=google")
+
     seen_pairs = load_existing_catalog()
 
     for display, codes in items:
         print(f"=== Fetching {per_count} songs for {display} ({'/'.join(codes)}) ===")
         paths = fetch_for_language(
-            display,
-            codes,
-            api_key,
-            ollama_url,
-            ollama_model,
-            seen_pairs,
-            per_count,
-            args.skip_annotation,
+            display_lang=display,
+            lang_codes=codes,
+            api_key=api_key,
+            ollama_url=ollama_url,
+            ollama_model=ollama_model,
+            translation_engine=args.translation_engine,
+            google_api_key=google_key,
+            seen_pairs=seen_pairs,
+            per_count=per_count,
+            skip_annotation=args.skip_annotation,
             verbose=args.verbose,
         )
         total_saved.extend(paths)

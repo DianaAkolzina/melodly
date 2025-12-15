@@ -1,0 +1,109 @@
+{
+  "id": "eo_bezos_ii",
+  "title": "Bezos II",
+  "artist": "Bo Burnham",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "eo",
+  "to_language": "en",
+  "audio": "/audio/eo_bezos_ii.mp3",
+  "duration": 46,
+  "licensing_note": "Lyrics via Musixmatch API; translations via Google Translate API; grammar notes auto-generated placeholders.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "Jeffrey Bezos",
+      "translation": "Jeffrey Bezos",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 3.067,
+      "text": "Jeffrey Bezos",
+      "translation": "Jeffrey Bezos",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 6.133,
+      "text": "Jeffrey Bezos",
+      "translation": "Jeffrey Bezos",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 9.2,
+      "text": "Ugh!",
+      "translation": "Ugh!",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 10.883,
+      "text": "Jeffrey Bezos",
+      "translation": "Jeffrey Bezos",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 13.95,
+      "text": "Jeffrey Bezos",
+      "translation": "Jeffrey Bezos",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 17.017,
+      "text": "Jeffrey Bezos",
+      "translation": "Jeffrey Bezos",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 20.083,
+      "text": "You did it!",
+      "translation": "You did it!",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 24.533,
+      "text": "Jeffrey Bezos",
+      "translation": "Jeffrey Bezos",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 27.6,
+      "text": "Jeffrey Bezos",
+      "translation": "Jeffrey Bezos",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 30.667,
+      "text": "Jeffrey Bezos",
+      "translation": "Jeffrey Bezos",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 33.733,
+      "text": "Congratulations!",
+      "translation": "Congratulations!",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 35.417,
+      "text": "Jeffrey Bezos",
+      "translation": "Jeffrey Bezos",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 38.483,
+      "text": "Jeffrey Bezos",
+      "translation": "Jeffrey Bezos",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 41.55,
+      "text": "Jeffrey Bezos",
+      "translation": "Jeffrey Bezos",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    },
+    {
+      "time": 44.617,
+      "text": "Oh!",
+      "translation": "Oh!",
+      "grammar": "Esperanto line; agglutinative morphology with -as/-is/-os tense endings."
+    }
+  ]
+}

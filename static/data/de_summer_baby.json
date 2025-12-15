@@ -1,0 +1,331 @@
+{
+  "id": "de_summer_baby",
+  "title": "Summer Baby",
+  "artist": "Azet",
+  "level": "B2 (Upper Intermediate)",
+  "from_language": "de",
+  "to_language": "en",
+  "audio": "/audio/de_summer_baby.mp3",
+  "duration": 128,
+  "licensing_note": "Lyrics via Musixmatch API; translations via Google Translate API; grammar notes auto-generated placeholders.",
+  "lines": [
+    {
+      "time": 0.0,
+      "text": "LOLO",
+      "translation": "LOLO",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 1.2,
+      "text": "This ain't nothin' but a summer jam",
+      "translation": "This ain't nothin' but a summer jam",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 4.183,
+      "text": "Bronze skin and cinnamon tans, whoa",
+      "translation": "Bronze skin and cinnamon tans, whoa",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 6.497,
+      "text": "This ain't nothin' but a summer jam",
+      "translation": "This ain't nothin' but a summer jam",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 9.48,
+      "text": "We're gonna party as much as we can",
+      "translation": "We're gonna party as much as we can",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 12.798,
+      "text": "Playboy, uff, uff, bin ein Playboy",
+      "translation": "Playboy, uff, uff, I'm a playboy",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 15.112,
+      "text": "Die Sonne brennt in der Stadt, wo wir sind (brr)",
+      "translation": "The sun is blazing in the city where we are (brr)",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 18.763,
+      "text": "Sie ist hübsch, macht alles für mich",
+      "translation": "She is pretty, does everything for me",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 21.412,
+      "text": "Loyal for life, keine Ratten am Tisch",
+      "translation": "Loyal for life, no rats at the table",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 24.061,
+      "text": "Du hast, du hast ein'n bösen Body (mh-hm)",
+      "translation": "You have, you have a badass body (mh-hm)",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 27.712,
+      "text": "Für dich würd ich töten, Honey",
+      "translation": "I would kill for you, Honey",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 30.027,
+      "text": "Komm aus'm Dreck und mach schönes Money",
+      "translation": "Come from the gutter and make good money",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 33.01,
+      "text": "Du bist ein Rätsel, ich hab die Lösung, Honey",
+      "translation": "You're a riddle, I have the solution, Honey",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 36.327,
+      "text": "32 Grad im Ghetto",
+      "translation": "32 degrees in the ghetto",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 37.972,
+      "text": "Bin am Handy, trink grad Espresso",
+      "translation": "I'm on my phone, drinking an espresso right now.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 40.287,
+      "text": "Duft LV, jeder Tag ist endlos",
+      "translation": "LV fragrance, every day is endless",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 42.601,
+      "text": "Jeder auf der Straße kennt uns (brra)",
+      "translation": "Everyone on the street knows us (brra)",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 45.249,
+      "text": "Nike TN, weißer Benz",
+      "translation": "Nike TN, white Benz",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 46.895,
+      "text": "Scheine gelb, zeig Respekt",
+      "translation": "Yellow bills, show respect",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 48.54,
+      "text": "Eisen steckt, Feinde renn'n",
+      "translation": "Iron is stuck, enemies run",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 50.52,
+      "text": "Ich hab zwei Frau'n in meinem Bett",
+      "translation": "I have two women in my bed",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 53.503,
+      "text": "This ain't nothin' but a summer jam",
+      "translation": "This ain't nothin' but a summer jam",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 56.486,
+      "text": "Bronze skin and cinnamon tans, whoa",
+      "translation": "Bronze skin and cinnamon tans, whoa",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 58.8,
+      "text": "This ain't nothin' but a summer jam",
+      "translation": "This ain't nothin' but a summer jam",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 61.783,
+      "text": "We're gonna party as much as we can",
+      "translation": "We're gonna party as much as we can",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 65.1,
+      "text": "Hey, ho-oh",
+      "translation": "Hey, ho-oh",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 66.412,
+      "text": "Hey (Playboys im AMG)",
+      "translation": "Hey (Playboys in an AMG)",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 68.057,
+      "text": "Hey, ho-oh",
+      "translation": "Hey, ho-oh",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 69.368,
+      "text": "Hey (Playgirls im AMG)",
+      "translation": "Hey (Playgirls in an AMG)",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 71.013,
+      "text": "Der Albaner im Hemd Armani",
+      "translation": "The Albanian in the shirt Armani",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 72.993,
+      "text": "Sieht nach nicht viel aus, doch du fängst dir eine",
+      "translation": "It doesn't look like much, but you'll catch one.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 76.645,
+      "text": "Ich pfeif aus'm Black Ferrari, ah",
+      "translation": "I'm whistling from the Black Ferrari, ah",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 79.294,
+      "text": "Come on, Barbie, let's go party (whoo)",
+      "translation": "Come on, Barbie, let's go party (whoo)",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 82.277,
+      "text": "Du hast ein'n bösen Body (mh-hm)",
+      "translation": "You have a badass body (mh-hm)",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 85.26,
+      "text": "Für dich würd ich töten, Honey",
+      "translation": "I would kill for you, Honey",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 87.574,
+      "text": "Komm aus'm Dreck und mach schönes Money",
+      "translation": "Come from the gutter and make good money",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 90.557,
+      "text": "Du bist ein Rätsel, ich hab die Lösung, Honey",
+      "translation": "You're a riddle, I have the solution, Honey",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 93.874,
+      "text": "Nimm ein'n Zug vom Cannabé",
+      "translation": "Take a drag of cannabis",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 96.188,
+      "text": "Mein Kopf wie 'ne Achterbahn",
+      "translation": "My head is like a roller coaster.",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 98.168,
+      "text": "Playboys fahr im AMG",
+      "translation": "Playboys drive in AMGs",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 99.814,
+      "text": "Gold-Cartier, Brille Ackermann",
+      "translation": "Gold Cartier, Ackermann glasses",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 101.459,
+      "text": "Nike TN, weißer Benz",
+      "translation": "Nike TN, white Benz",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 103.104,
+      "text": "Scheine gelb, zeig Respekt",
+      "translation": "Yellow bills, show respect",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 104.75,
+      "text": "Eisen steckt, Feinde renn'n",
+      "translation": "Iron is stuck, enemies run",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 106.73,
+      "text": "Ich hab zwei Frau'n in meinem Bett",
+      "translation": "I have two women in my bed",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 109.713,
+      "text": "This ain't nothin' but a summer jam",
+      "translation": "This ain't nothin' but a summer jam",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 112.696,
+      "text": "Bronze skin and cinnamon tans, whoa",
+      "translation": "Bronze skin and cinnamon tans, whoa",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 115.01,
+      "text": "This ain't nothin' but a summer jam",
+      "translation": "This ain't nothin' but a summer jam",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 117.993,
+      "text": "We're gonna party as much as we can",
+      "translation": "We're gonna party as much as we can",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 121.31,
+      "text": "Hey, ho-oh",
+      "translation": "Hey, ho-oh",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 122.621,
+      "text": "Hey (Playboys im AMG)",
+      "translation": "Hey (Playboys in an AMG)",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 124.267,
+      "text": "Hey, ho-oh",
+      "translation": "Hey, ho-oh",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    },
+    {
+      "time": 125.578,
+      "text": "Hey (Playgirls im AMG)",
+      "translation": "Hey (Playgirls in an AMG)",
+      "grammar": "German line; standard SVO word order and typical separable prefixes if present."
+    }
+  ]
+}
