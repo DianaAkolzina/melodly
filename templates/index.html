@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Melodly</title>
+<title>Meelange</title>
   <style>
     :root {
       --bg: #04070d;
@@ -693,8 +693,8 @@
   <nav class="topnav" role="navigation" aria-label="Primary">
     <div class="topnav__inner">
       <div class="topnav__brand" onclick="window.scrollTo({top:0,behavior:'smooth'})">
-        <img src="/static/assets/shapes/logo.png" alt="Melodly logo" class="topnav__logo" />
-        <span class="topnav__title">Melodly</span>
+        <img src="/static/assets/shapes/logo.png" alt="Meelange logo" class="topnav__logo" />
+        <span class="topnav__title">Meelange</span>
       </div>
       <button class="cta-connect" id="spotifyConnectTopBtn" type="button">Connect Spotify</button>
       <span class="status-pill" id="spotifyStatusPill" aria-live="polite" style="display:none">Spotify: Connected</span>
@@ -755,9 +755,9 @@
       <!-- Header -->
       <header class="header">
         <div class="brand">
-          <img src="/static/assets/shapes/logo.png" alt="Melodly logo" class="mascot" onerror="this.style.display='none'" />
+          <img src="/static/assets/shapes/logo.png" alt="Meelange logo" class="mascot" onerror="this.style.display='none'" />
           <div>
-            <h1>Melodly</h1>
+            <h1>Meelange</h1>
             <div class="subtitle">Learn with synced lyrics</div>
           </div>
         </div>
@@ -901,11 +901,11 @@
     <div class="modal__backdrop" id="aboutBackdrop"></div>
     <div class="modal__card" role="document">
       <div class="modal__header">
-        <h3>About Melodly</h3>
+        <h3>About Meelange</h3>
         <button class="modal__close" id="aboutClose" aria-label="Close">×</button>
       </div>
       <div class="modal__body">
-        <p>Melodly helps you learn languages with synced lyrics, translations, and grammar notes. Connect Spotify for playback, or use generated timing to follow along.</p>
+        <p>Meelange helps you learn languages with synced lyrics, translations, and grammar notes. Connect Spotify for playback, or use generated timing to follow along.</p>
         <ul>
           <li>Filter library by language and search.</li>
           <li>Click any line to jump and see grammar notes.</li>
@@ -919,7 +919,7 @@
   </div>
 
   <script>
-  // Melodly Frontend with Sidebar & Auto-Play
+  // Meelange Frontend with Sidebar & Auto-Play
   // Theme + nav state
   const navEls = {
     burger: document.getElementById('burgerBtn'),
@@ -1912,7 +1912,7 @@
     if (!window.Spotify || !window.Spotify.Player) { setTimeout(initSpotifySDK, 500); return; }
 
     spotifyPlayer = new Spotify.Player({
-      name: 'Melodly Player',
+      name: 'Meelange Player',
       getOAuthToken: async cb => {
         try { const res = await fetch('/api/spotify/token'); if (res.status !== 200) return; const data = await res.json(); cb(data.access_token); } catch {}
       },
@@ -2065,7 +2065,7 @@
     // Initial render with current language selection
     applyFilters();
     
-    showStatus('Welcome to Melodly! Select a song to start learning.', 'info');
+    showStatus('Welcome to Meelange! Select a song to start learning.', 'info');
   }
 
   // Theme loader: place CSS in /static/themes/<name>.css and call setTheme('<name>')

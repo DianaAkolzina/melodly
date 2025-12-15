@@ -1,8 +1,8 @@
-SingLang Demo — Lyrics + Translation + Grammar
+Meelange — Lyrics + Translation + Grammar
 
 Overview
 
-- Small Flask web app that demos learning a language through singing.
+- Small Flask web app (Meelange) that demos learning a language through singing.
 - Includes a French public‑domain song ("Au clair de la lune") with:
   - Time-synced lyrics
   - Side-by-side English translation (default)

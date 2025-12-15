@@ -1,4 +1,4 @@
-/* Melodly Frontend with Auto-Play & Spotify Visuals */
+/* Meelange Frontend with Auto-Play & Spotify Visuals */
 
 const els = {
   songSelect: document.getElementById('songSelect'),
@@ -566,7 +566,7 @@ function initSpotifySDK() {
   }
   
   spotifyPlayer = new Spotify.Player({
-    name: 'Melodly Player',
+    name: 'Meelange Player',
     getOAuthToken: async cb => {
       try {
         const res = await fetch('/api/spotify/token');
@@ -728,7 +728,7 @@ async function init() {
   updateSpotifyStatus();
   
   // Show welcome message
-  showStatus('Welcome to Melodly! Connect Spotify to play music, then pick a song.', 'info');
+  showStatus('Welcome to Meelange! Connect Spotify to play music, then pick a song.', 'info');
 }
 
 // Initialize when page loads
