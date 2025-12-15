@@ -16,6 +16,14 @@ import sys
 
 from util import slugify as slugify_ascii, estimate_line_timestamps
 
+try:
+    # Use langdetect to sanity-check fetched lyric language
+    from langdetect import detect, DetectorFactory  # type: ignore
+
+    DetectorFactory.seed = 0
+except Exception:  # pragma: no cover - optional dependency
+    detect = None  # type: ignore
+
 
 """
 Fetch new/popular songs with lyrics from Musixmatch by language, translate with
@@ -206,6 +214,23 @@ def normalize_lines(raw_lyrics: str) -> List[str]:
     # Drop empty lines
     cleaned = [ln for ln in cleaned if ln]
     return cleaned
+
+
+def is_language_match(lines: List[str], target_code: str, threshold: float = 0.55) -> bool:
+    """Heuristically verify the lines are in the requested language."""
+    if not detect or not lines:
+        return True  # best effort only if langdetect missing
+    codes = []
+    for ln in lines[: min(60, len(lines))]:
+        try:
+            codes.append(detect(ln))
+        except Exception:
+            continue
+    if not codes:
+        return True
+    target = target_code.split("-")[0].lower()
+    hits = sum(1 for c in codes if c == target)
+    return (hits / len(codes)) >= threshold
 
 
 def google_translate_batch(texts: List[str], src: str | None, tgt: str, api_key: str) -> List[str]:
@@ -403,6 +428,10 @@ def fetch_for_language(
                 if len(lines) < 4:
                     if verbose:
                         print(f"[{display_lang}] skip: too few lines for {t.track_name} — {t.artist_name}")
+                    continue
+                if not is_language_match(lines, code):
+                    if verbose:
+                        print(f"[{display_lang}] skip: detected language mismatch for {t.track_name} — {t.artist_name}")
                     continue
                 raw_slug = slugify_ascii(f"{t.track_name}-{t.artist_name}")
                 if raw_slug == "untitled":
