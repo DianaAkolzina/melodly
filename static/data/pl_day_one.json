@@ -13,409 +13,409 @@
       "time": 0.0,
       "text": "Atut!",
       "translation": "Asset!",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Asset!'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Asset!'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 1.2,
       "text": "Od Produktu nie wróciłem do domu bez zrobienia se z kimś selfie",
       "translation": "Since Product I haven't returned home without taking a selfie with someone",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Since Product I haven't returned home without taking a selfie with someone'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: wróciłem (prefix w- hints perfective/directional) (past 1sg). Prepositions/case: od + genitive for \"from/because of\"; do + genitive for motion toward; bez + genitive for without; z/ze + genitive for \"from/out of\". Meaning: 'Since Product I haven't returned home without taking a selfie with someone'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 5.712,
       "text": "A nie zawsze mam fit LV, i nieskończoność energii",
       "translation": "And I don't always have fit LV, and endless energy",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'And I don't always have fit LV, and endless energy'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: mam (present 1sg). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'And I don't always have fit LV, and endless energy'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 9.172,
       "text": "Wiem, że wygoda jest wrogiem sukcesu",
       "translation": "I know that comfort is the enemy of success",
-      "grammar": "Polish note: Verb focus: wiem, wrogiem (check person/tense and prefixes). Aspect pairs and rich case system; endings mark person/tense. Meaning: 'I know that comfort is the enemy of success'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'I know that comfort is the enemy of success'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 11.58,
       "text": "Co mi po tej willi na tym Airbnb?",
       "translation": "What do I need this villa on this Airbnb for?",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'What do I need this villa on this Airbnb for?'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: po + locative/accusative depending on motion; na + accusative (motion) / locative (location). Meaning: 'What do I need this villa on this Airbnb for?'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 14.689,
       "text": "Najlepsze numery robiłem na trapie",
       "translation": "I did my best tricks on the gangplank.",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'I did my best tricks on the gangplank.'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: robiłem (past 1sg). Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'I did my best tricks on the gangplank.'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 16.746,
       "text": "Jak chcę zrobić papier to śpię na kanapie, baby",
       "translation": "If I want to make paper, I sleep on the couch, baby",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'If I want to make paper, I sleep on the couch, baby'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: chcę (1sg ending -ę); zrobić (prefix z- hints perfective/directional). Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'If I want to make paper, I sleep on the couch, baby'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 20.206,
       "text": "Opiłem się trochę już wody sodowej i sobie nią bekam jak David (David)",
       "translation": "I've already had some soda and I'm burping it like David.",
-      "grammar": "Polish note: Verb focus: bekam (check person/tense and prefixes). Aspect pairs and rich case system; endings mark person/tense. Meaning: 'I've already had some soda and I'm burping it like David.'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: opiłem (prefix o- hints perfective/directional) (past 1sg); się (1sg ending -ę). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'I've already had some soda and I'm burping it like David.'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 25.069,
       "text": "Opowiem Ci jak się utrzymasz na topie",
       "translation": "I'll tell you how to stay on top",
-      "grammar": "Polish note: Verb focus: opowiem, utrzymasz (check person/tense and prefixes). Aspect pairs and rich case system; endings mark person/tense. Meaning: 'I'll tell you how to stay on top'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: się (1sg ending -ę); utrzymasz (prefix u- hints perfective/directional) (present 2sg). Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'I'll tell you how to stay on top'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 27.827,
       "text": "Choć szanse są slim jak Shady (Shady)",
       "translation": "Though the odds are slim as Shady (Shady)",
-      "grammar": "Polish note: Verb focus: slim (check person/tense and prefixes). Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Though the odds are slim as Shady (Shady)'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Though the odds are slim as Shady (Shady)'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 30.585,
       "text": "Na tracku masz Poland's finest, Taco i Oki jak Biggie jak Jay-Z",
       "translation": "On the track you have Poland's finest, Taco and Oki like Biggie like Jay-Z",
-      "grammar": "Polish note: Verb focus: masz (check person/tense and prefixes). Aspect pairs and rich case system; endings mark person/tense. Meaning: 'On the track you have Poland's finest, Taco and Oki like Biggie like Jay-Z'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: masz (present 2sg). Prepositions/case: na + accusative (motion) / locative (location); z/ze + genitive for \"from/out of\". Meaning: 'On the track you have Poland's finest, Taco and Oki like Biggie like Jay-Z'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 35.799,
       "text": "Zapraszam do stołu i zanim zagramy Ci powiem zasady tej gierki",
       "translation": "I invite you to the table and before we play, I will tell you the rules of this game.",
-      "grammar": "Polish note: Verb focus: zapraszam, zanim, powiem (check person/tense and prefixes). Aspect pairs and rich case system; endings mark person/tense. Meaning: 'I invite you to the table and before we play, I will tell you the rules of this game.'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: zapraszam (prefix z- hints perfective/directional) (present 1sg). Prepositions/case: do + genitive for motion toward. Meaning: 'I invite you to the table and before we play, I will tell you the rules of this game.'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 39.961,
       "text": "Zasada pierwsza — pierwszy hit i się grono zagęszcza",
       "translation": "Rule one – the first hit and the crowd grows",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Rule one – the first hit and the crowd grows'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: się (1sg ending -ę). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Rule one – the first hit and the crowd grows'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 43.07,
       "text": "W furze brakuje miejsca, więc już się busem przemieszczasz",
       "translation": "There's not enough space in the van, so you're already traveling by bus.",
-      "grammar": "Polish note: Verb focus: busem, przemieszczasz (check person/tense and prefixes). Aspect pairs and rich case system; endings mark person/tense. Meaning: 'There's not enough space in the van, so you're already traveling by bus.'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: się (1sg ending -ę); busem (present 1sg). Prepositions/case: w/we + locative for location, accusative for motion into. Meaning: 'There's not enough space in the van, so you're already traveling by bus.'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 46.53,
       "text": "Będziesz miał pierwszy leak i zerwany film na backstage'ach",
       "translation": "You will have the first leak and broken film on backstage",
-      "grammar": "Polish note: Verb focus: dziesz, film (check person/tense and prefixes). Aspect pairs and rich case system; endings mark person/tense. Meaning: 'You will have the first leak and broken film on backstage'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: będziesz (present 2sg). Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'You will have the first leak and broken film on backstage'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 50.34,
       "text": "Uważaj na social media i patrz kto robi Ci zdjęcia",
       "translation": "Be careful on social media and watch who takes your photos",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Be careful on social media and watch who takes your photos'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'Be careful on social media and watch who takes your photos'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 54.151,
       "text": "Zasada druga — nie idź do celu po trupach",
       "translation": "Rule two - don't walk over dead bodies to your destination",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Rule two - don't walk over dead bodies to your destination'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: do + genitive for motion toward; po + locative/accusative depending on motion. Meaning: 'Rule two - don't walk over dead bodies to your destination'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 57.26,
       "text": "Nie opierdalaj produkcji, że nie smakuje Ci zupa",
       "translation": "Don't criticize the production if you don't like the soup.",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Don't criticize the production if you don't like the soup.'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Don't criticize the production if you don't like the soup.'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 60.369,
       "text": "Na planie klipu płacze stylistka, make-upistka Cię wkurwia",
       "translation": "On the set of the video, the stylist is crying, the makeup artist is pissing you off",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'On the set of the video, the stylist is crying, the makeup artist is pissing you off'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: cię (1sg ending -ę). Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'On the set of the video, the stylist is crying, the makeup artist is pissing you off'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 63.829,
       "text": "Po paru burdach kręcisz sam, nie masz kogo zatrudniać",
       "translation": "After a few fights, you're on your own, you have no one to hire",
-      "grammar": "Polish note: Verb focus: cisz, masz (check person/tense and prefixes). Aspect pairs and rich case system; endings mark person/tense. Meaning: 'After a few fights, you're on your own, you have no one to hire'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: kręcisz (present 2sg); sam (present 1sg). Prepositions/case: po + locative/accusative depending on motion. Meaning: 'After a few fights, you're on your own, you have no one to hire'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 67.289,
       "text": "Zasada trzecia — nie jesteś z ulic tylko z przedmieścia",
       "translation": "Rule three - you're not from the streets, you're from the suburbs",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Rule three - you're not from the streets, you're from the suburbs'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: z/ze + genitive for \"from/out of\". Meaning: 'Rule three - you're not from the streets, you're from the suburbs'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 70.749,
       "text": "Więc nie nawijaj o Roadmanach i shooterach w tych wersach (po-po-po)",
       "translation": "So don't talk about Roadmen and shooters in these lines (po-po-po)",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'So don't talk about Roadmen and shooters in these lines (po-po-po)'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: o + locative/accusative depending on phrase; w/we + locative for location, accusative for motion into; po + locative/accusative depending on motion. Meaning: 'So don't talk about Roadmen and shooters in these lines (po-po-po)'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 75.612,
       "text": "Porównując sceny, my chodzimy w Pampersach",
       "translation": "Comparing scenes, we are walking around in Pampers",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Comparing scenes, we are walking around in Pampers'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: w/we + locative for location, accusative for motion into. Meaning: 'Comparing scenes, we are walking around in Pampers'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 78.02,
       "text": "Ciągle nawijasz o oppsach (mówimy tu o tych chłopcach?)",
       "translation": "You keep going on about opps (are we talking about those boys here?)",
-      "grammar": "Polish note: Verb focus: nawijasz (check person/tense and prefixes). Aspect pairs and rich case system; endings mark person/tense. Meaning: 'You keep going on about opps (are we talking about those boys here?)'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: nawijasz (prefix na- hints perfective/directional) (present 2sg). Prepositions/case: o + locative/accusative depending on phrase. Meaning: 'You keep going on about opps (are we talking about those boys here?)'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 81.479,
       "text": "Następnie zasada piąta — mordo, przeczytaj ten kontrakt",
       "translation": "Then rule five – dude, read this contract",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Then rule five – dude, read this contract'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Then rule five – dude, read this contract'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 84.238,
       "text": "Wiem, że jest długi, a już chcesz mieć tę zaliczkę na kontach",
       "translation": "I know it's long, and you already want to have that advance on your accounts",
-      "grammar": "Polish note: Verb focus: wiem, chcesz (check person/tense and prefixes). Aspect pairs and rich case system; endings mark person/tense. Meaning: 'I know it's long, and you already want to have that advance on your accounts'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: chcesz (present 2sg); mieć. Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'I know it's long, and you already want to have that advance on your accounts'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 88.75,
       "text": "Dziś nawet label independent ma praktyki z majorsa",
       "translation": "Nowadays, even independent labels have experience with majors.",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Nowadays, even independent labels have experience with majors.'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: z/ze + genitive for \"from/out of\". Meaning: 'Nowadays, even independent labels have experience with majors.'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 91.859,
       "text": "Wszystko wydałeś na pendant, potem pytasz, \"Gdzie forsa?\" (Let's go!)",
       "translation": "You spent it all on a pendant, then you ask, \"Where's the money?\" (Let's go!)",
-      "grammar": "Polish note: Verb focus: potem, pytasz (check person/tense and prefixes). Aspect pairs and rich case system; endings mark person/tense. Meaning: 'You spent it all on a pendant, then you ask, \"Where's the money?\" (Let's go!)'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: potem (prefix po- hints perfective/directional) (present 1sg); pytasz (present 2sg). Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'You spent it all on a pendant, then you ask, \"Where's the money?\" (Let's go!)'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 96.021,
       "text": "Twoje day one'y, Twoje day one'y Cię zostawią",
       "translation": "Your day ones, your day ones will leave you",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Your day ones, your day ones will leave you'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: cię (1sg ending -ę). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Your day ones, your day ones will leave you'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 99.831,
       "text": "Pusty backstage jak już będziesz mniej znany (pojebane)",
       "translation": "Empty backstage once you're less known (fucked up)",
-      "grammar": "Polish note: Verb focus: dziesz (check person/tense and prefixes). Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Empty backstage once you're less known (fucked up)'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: będziesz (present 2sg). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Empty backstage once you're less known (fucked up)'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 102.94,
       "text": "Dziś są Gucci glasses, a nie Ray-bany",
       "translation": "Today it's Gucci glasses, not Ray-Bans",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Today it's Gucci glasses, not Ray-Bans'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Today it's Gucci glasses, not Ray-Bans'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 106.05,
       "text": "Każdy jest wydripowany, miało być na dom dla mamy, lecz (ej)",
       "translation": "Everyone is dripping, it was supposed to be for a house for my mom, but (hey)",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Everyone is dripping, it was supposed to be for a house for my mom, but (hey)'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: być. Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'Everyone is dripping, it was supposed to be for a house for my mom, but (hey)'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 110.211,
       "text": "Twoje day one'y, Twoje day one'y Cię zostawią",
       "translation": "Your day ones, your day ones will leave you",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Your day ones, your day ones will leave you'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: cię (1sg ending -ę). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Your day ones, your day ones will leave you'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 114.022,
       "text": "Pusty backstage jak już będziesz mniej znany (pojebane)",
       "translation": "Empty backstage once you're less known (fucked up)",
-      "grammar": "Polish note: Verb focus: dziesz (check person/tense and prefixes). Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Empty backstage once you're less known (fucked up)'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: będziesz (present 2sg). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Empty backstage once you're less known (fucked up)'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 117.131,
       "text": "Dziś są Gucci glasses, a nie Ray-bany",
       "translation": "Today it's Gucci glasses, not Ray-Bans",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Today it's Gucci glasses, not Ray-Bans'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Today it's Gucci glasses, not Ray-Bans'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 120.24,
       "text": "Każdy jest wydripowany, miało być na dom dla mamy, lecz",
       "translation": "Everyone is dripping, it was supposed to be for a house for my mom, but",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Everyone is dripping, it was supposed to be for a house for my mom, but'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: być. Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'Everyone is dripping, it was supposed to be for a house for my mom, but'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 124.051,
       "text": "Zasada numer six — nie wydaj fortuny na drip",
       "translation": "Rule number six - don't spend a fortune on drip",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Rule number six - don't spend a fortune on drip'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'Rule number six - don't spend a fortune on drip'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 127.16,
       "text": "Nie płać im sumy za feat, jak i tak w sumie jest mid",
       "translation": "Don't pay them a fortune for the feat, it's basically mid anyway",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Don't pay them a fortune for the feat, it's basically mid anyway'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: płać. Prepositions/case: w/we + locative for location, accusative for motion into. Meaning: 'Don't pay them a fortune for the feat, it's basically mid anyway'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 132.023,
       "text": "Jak żądasz duży plik, bierzesz hajsy grube za geek",
       "translation": "If you demand a large file, you get big bucks for geek",
-      "grammar": "Polish note: Verb focus: dasz, bierzesz (check person/tense and prefixes). Aspect pairs and rich case system; endings mark person/tense. Meaning: 'If you demand a large file, you get big bucks for geek'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: żądasz (present 2sg); bierzesz (present 2sg). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'If you demand a large file, you get big bucks for geek'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 135.483,
       "text": "To chociaż nawiń coś na żywo, tak nie umie już nikt",
       "translation": "At least say something live, no one can do that anymore",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'At least say something live, no one can do that anymore'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'At least say something live, no one can do that anymore'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 139.644,
       "text": "Zasada ósma — weź się nie podpisuj na biustach",
       "translation": "Rule eight - don't sign your breasts",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Rule eight - don't sign your breasts'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: się (1sg ending -ę). Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'Rule eight - don't sign your breasts'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 142.753,
       "text": "Ej, stary, zrobiłem to raz, wiem, widziałem na grupkach",
       "translation": "Hey man, I did it once, I know, I saw it on groups",
-      "grammar": "Polish note: Verb focus: wiem (check person/tense and prefixes). Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Hey man, I did it once, I know, I saw it on groups'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: zrobiłem (prefix z- hints perfective/directional) (past 1sg); widziałem (prefix w- hints perfective/directional) (past 1sg). Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'Hey man, I did it once, I know, I saw it on groups'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 146.213,
       "text": "Nie bierz tych groupies na hotel, nie lej im wódy do kubka",
       "translation": "Don't take these groupies to the hotel, don't pour vodka into their cup",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Don't take these groupies to the hotel, don't pour vodka into their cup'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: na + accusative (motion) / locative (location); do + genitive for motion toward. Meaning: 'Don't take these groupies to the hotel, don't pour vodka into their cup'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 150.725,
       "text": "Strzel fotę, sklej pionę, no i powiedz jej, \"Good luck\"",
       "translation": "Take a photo, glue the piece together, and tell her, \"Good luck!\"",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Take a photo, glue the piece together, and tell her, \"Good luck!\"'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: fotę (1sg ending -ę); pionę (1sg ending -ę). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Take a photo, glue the piece together, and tell her, \"Good luck!\"'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 154.536,
       "text": "Number nine should've been number one to me",
       "translation": "Number nine should've been number one to me",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Number nine should've been number one to me'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Number nine should've been number one to me'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 157.996,
       "text": "Tutaj każdy chce Cię przyciąć, więc negocjuj fit",
       "translation": "Here everyone wants to trim you, so negotiate fit",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Here everyone wants to trim you, so negotiate fit'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: cię (1sg ending -ę). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Here everyone wants to trim you, so negotiate fit'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 161.105,
       "text": "I to jasne, każdy z nas chce być jak ODB",
       "translation": "And it's clear, each of us wants to be like ODB",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'And it's clear, each of us wants to be like ODB'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: być. Prepositions/case: z/ze + genitive for \"from/out of\". Meaning: 'And it's clear, each of us wants to be like ODB'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 164.916,
       "text": "Ale jak budujesz funbase, daj im show za free",
       "translation": "But if you're building a funbase, give them a show for free.",
-      "grammar": "Polish note: Verb focus: budujesz (check person/tense and prefixes). Aspect pairs and rich case system; endings mark person/tense. Meaning: 'But if you're building a funbase, give them a show for free.'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: budujesz (present 2sg). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'But if you're building a funbase, give them a show for free.'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 168.376,
       "text": "I zasada dziesięć — szanuj fanów kieszeń",
       "translation": "And rule ten - respect your fans' pockets",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'And rule ten - respect your fans' pockets'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'And rule ten - respect your fans' pockets'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 170.783,
       "text": "Nie-nie-nie wydawaj byle czego, nie kuś tanim merchem",
       "translation": "No-no-don't spend just anything, don't tempt with cheap merchandise",
-      "grammar": "Polish note: Verb focus: tanim, merchem (check person/tense and prefixes). Aspect pairs and rich case system; endings mark person/tense. Meaning: 'No-no-don't spend just anything, don't tempt with cheap merchandise'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'No-no-don't spend just anything, don't tempt with cheap merchandise'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 174.594,
       "text": "Bo Cię kochają, wezmą wszystko, co im wpadnie w ręcę",
       "translation": "Because they love you, they will take anything they can get their hands on.",
-      "grammar": "Polish note: Verb focus: wezm (check person/tense and prefixes). Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Because they love you, they will take anything they can get their hands on.'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: cię (1sg ending -ę); kochają (present 3pl). Prepositions/case: w/we + locative for location, accusative for motion into. Meaning: 'Because they love you, they will take anything they can get their hands on.'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 178.405,
       "text": "Będzie Ci głupio wozić dupę dojebanym Benzem, wuh",
       "translation": "You'll feel bad driving around in a shitty Benz, wuh",
-      "grammar": "Polish note: Verb focus: dojebanym, benzem (check person/tense and prefixes). Aspect pairs and rich case system; endings mark person/tense. Meaning: 'You'll feel bad driving around in a shitty Benz, wuh'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: wozić (prefix w- hints perfective/directional); dupę (1sg ending -ę). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'You'll feel bad driving around in a shitty Benz, wuh'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 181.514,
       "text": "Twoje day one'y, Twoje day one'y Cię zostawią",
       "translation": "Your day ones, your day ones will leave you",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Your day ones, your day ones will leave you'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: cię (1sg ending -ę). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Your day ones, your day ones will leave you'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 185.324,
       "text": "Pusty backstage jak już będziesz mniej znany (pojebane)",
       "translation": "Empty backstage once you're less known (fucked up)",
-      "grammar": "Polish note: Verb focus: dziesz (check person/tense and prefixes). Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Empty backstage once you're less known (fucked up)'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: będziesz (present 2sg). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Empty backstage once you're less known (fucked up)'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 188.434,
       "text": "Dziś są Gucci glasses, a nie Ray-bany",
       "translation": "Today it's Gucci glasses, not Ray-Bans",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Today it's Gucci glasses, not Ray-Bans'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Today it's Gucci glasses, not Ray-Bans'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 191.543,
       "text": "Każdy jest wydripowany, miało być na dom dla mamy, lecz (ej)",
       "translation": "Everyone is dripping, it was supposed to be for a house for my mom, but (hey)",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Everyone is dripping, it was supposed to be for a house for my mom, but (hey)'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: być. Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'Everyone is dripping, it was supposed to be for a house for my mom, but (hey)'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 195.704,
       "text": "Twoje day one'y, Twoje day one'y Cię zostawią",
       "translation": "Your day ones, your day ones will leave you",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Your day ones, your day ones will leave you'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: cię (1sg ending -ę). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Your day ones, your day ones will leave you'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 199.515,
       "text": "Pusty backstage jak już będziesz mniej znany (pojebane)",
       "translation": "Empty backstage once you're less known (fucked up)",
-      "grammar": "Polish note: Verb focus: dziesz (check person/tense and prefixes). Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Empty backstage once you're less known (fucked up)'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: będziesz (present 2sg). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Empty backstage once you're less known (fucked up)'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 202.624,
       "text": "Dziś są Gucci glasses, a nie Ray-bany",
       "translation": "Today it's Gucci glasses, not Ray-Bans",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Today it's Gucci glasses, not Ray-Bans'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Today it's Gucci glasses, not Ray-Bans'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 205.733,
       "text": "Każdy jest wydripowany, miało być na dom dla mamy, lecz",
       "translation": "Everyone is dripping, it was supposed to be for a house for my mom, but",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Everyone is dripping, it was supposed to be for a house for my mom, but'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: być. Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'Everyone is dripping, it was supposed to be for a house for my mom, but'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 209.544,
       "text": "Zasada czwarta — jak dobrego masz Day One'a masz farta",
       "translation": "Rule Four - If you have a good Day One, you're lucky",
-      "grammar": "Polish note: Verb focus: masz (check person/tense and prefixes). Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Rule Four - If you have a good Day One, you're lucky'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: masz (present 2sg). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Rule Four - If you have a good Day One, you're lucky'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 213.354,
       "text": "Lecz sprawdź czy jest z tobą zawsze, czy tylko gdy lejesz szampan",
       "translation": "But check if he is always with you or only when you pour champagne.",
-      "grammar": "Polish note: Verb focus: lejesz (check person/tense and prefixes). Aspect pairs and rich case system; endings mark person/tense. Meaning: 'But check if he is always with you or only when you pour champagne.'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: lejesz (present 2sg). Prepositions/case: z/ze + genitive for \"from/out of\". Meaning: 'But check if he is always with you or only when you pour champagne.'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 217.867,
       "text": "Czy jak powierzysz tajemnice nie wyśpiewa jak Sampha",
       "translation": "If you tell him your secrets, won't he sing like Sampha?",
-      "grammar": "Polish note: Verb focus: powierzysz (check person/tense and prefixes). Aspect pairs and rich case system; endings mark person/tense. Meaning: 'If you tell him your secrets, won't he sing like Sampha?'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: powierzysz (prefix po- hints perfective/directional) (present 2sg). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'If you tell him your secrets, won't he sing like Sampha?'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 220.976,
       "text": "Gdy się zacznie wycofywać, niech zapali się lampka",
       "translation": "When he starts to retreat, let the light go on",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'When he starts to retreat, let the light go on'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: się (1sg ending -ę); wycofywać (prefix wy- hints perfective/directional). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'When he starts to retreat, let the light go on'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 224.085,
       "text": "Zasada siódma — pamiętaj, branża bywa okrutna",
       "translation": "Rule Seven - Remember, the industry can be cruel",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Rule Seven - Remember, the industry can be cruel'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Rule Seven - Remember, the industry can be cruel'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 226.493,
       "text": "Czasami przyjaźń jest piękna, czasami przyjaźń jest złudna",
       "translation": "Sometimes friendship is beautiful, sometimes friendship is illusory",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Sometimes friendship is beautiful, sometimes friendship is illusory'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Sometimes friendship is beautiful, sometimes friendship is illusory'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 229.602,
       "text": "Nie warto wsadzać wszystkich naraz do tego samego pudła",
       "translation": "It's not worth putting everyone in the same box at once.",
-      "grammar": "Polish note: Identify the main verb, its ending, and any prefix movement. Aspect pairs and rich case system; endings mark person/tense. Meaning: 'It's not worth putting everyone in the same box at once.'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: wsadzać (prefix w- hints perfective/directional). Prepositions/case: do + genitive for motion toward. Meaning: 'It's not worth putting everyone in the same box at once.'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     },
     {
       "time": 233.062,
       "text": "Nie każdy day one jest złotem, nie każdy obcy to kurwa",
       "translation": "Not every day one is gold, not every stranger is a whore",
-      "grammar": "Polish note: Verb focus: otem (check person/tense and prefixes). Aspect pairs and rich case system; endings mark person/tense. Meaning: 'Not every day one is gold, not every stranger is a whore'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: złotem (prefix z- hints perfective/directional) (present 1sg). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Not every day one is gold, not every stranger is a whore'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
     }
   ]
 }
