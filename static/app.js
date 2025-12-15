@@ -36,6 +36,7 @@ let rafId = null;
 let startPerf = 0;
 let pausedAt = 0;
 let allSongs = [];
+let selectedLangFilter = "";
 
 // Spotify state
 let hasSpotifyAuth = false;
@@ -321,6 +322,34 @@ async function loadSongs() {
         renderSongList(els.searchInput.value);
       });
     }
+    // Language chips
+    const chips = Array.from(document.querySelectorAll('[data-lang-chip]'));
+  if (chips.length) {
+    chips.forEach((chip) => {
+      chip.addEventListener('click', () => {
+        chips.forEach(c => c.classList.remove('active'));
+        chip.classList.add('active');
+        selectedLangFilter = (chip.getAttribute('data-lang-chip') || '').toLowerCase();
+        if (els.fromLang) {
+          els.fromLang.value = selectedLangFilter || '';
+        }
+        renderSongList(els.searchInput?.value || '');
+      });
+    });
+  }
+  if (els.fromLang) {
+    els.fromLang.addEventListener('change', () => {
+      selectedLangFilter = (els.fromLang.value || '').toLowerCase();
+      // sync chips UI
+      const chips = Array.from(document.querySelectorAll('[data-lang-chip]'));
+      chips.forEach(c => c.classList.toggle('active', (c.getAttribute('data-lang-chip') || '').toLowerCase() === selectedLangFilter));
+      if (!selectedLangFilter) {
+        const allChip = chips.find(c => (c.getAttribute('data-lang-chip') || '') === '');
+        if (allChip) allChip.classList.add('active');
+      }
+      renderSongList(els.searchInput?.value || '');
+    });
+  }
     
     hideLoading();
     
@@ -337,7 +366,8 @@ function renderSongList(query = '') {
   els.songList.innerHTML = '';
   const filtered = allSongs.filter((s) => {
     const hay = `${s.title} ${s.artist} ${s.from_language || ''} ${s.level || ''}`.toLowerCase();
-    return hay.includes(q);
+    const langMatch = !selectedLangFilter || (s.from_language || '').toLowerCase() === selectedLangFilter;
+    return hay.includes(q) && langMatch;
   });
   filtered.forEach((s) => {
     const div = document.createElement('div');
