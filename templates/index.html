@@ -29,7 +29,7 @@
       color: var(--text);
       background:
         radial-gradient(1200px 600px at 10% 0%, rgba(196, 181, 253, 0.14), transparent 65%),
-        radial-gradient(1200px 600px at 90% -10%, rgba(211, 245, 138, 0.15), transparent 65%),
+        radial-gradient(1200px 600px at 90% 110%, rgba(211, 245, 138, 0.15), transparent 65%),
         linear-gradient(140deg, #07060f 0%, #09091a 45%, #0b0d1f 100%);
       overflow-x: hidden;
       display: flex;
@@ -860,7 +860,7 @@
             <div>
               <button id="spotifyLoadSavedBtn" class="btn secondary" type="button" disabled>Load Saved Tracks</button>
             </div>
-            <div class="status" id="spotifyStatus">Spotify: Not connected</div>
+            <div class="status" id="spotifyStatus"></div>
             <label style="align-self:center; display:flex; gap:8px;">
               <input type="checkbox" id="useSpotifyChk" /> Use Spotify playback
             </label>

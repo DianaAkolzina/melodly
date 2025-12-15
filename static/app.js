@@ -681,13 +681,14 @@ async function autoSearchSpotifyForSong(song) {
 function updateSpotifyStatus() {
   const parts = [];
   if (!hasSpotifyAuth) {
-    els.spotifyStatus.textContent = 'Spotify: Not connected';
+    els.spotifyStatus.textContent = '';
     return;
   }
-  parts.push('Spotify: Authed');
-  if (spotifyDeviceReady) parts.push('Device ready');
-  if (spotifyCurrent.name) parts.push(`Track: ${spotifyCurrent.name} — ${spotifyCurrent.artists || ''}`);
-  els.spotifyStatus.textContent = parts.join(' • ');
+  if (spotifyDeviceReady) {
+    els.spotifyStatus.textContent = 'Spotify connected';
+  } else {
+    els.spotifyStatus.textContent = 'Spotify connected (no active device)';
+  }
 }
 
 async function init() {
