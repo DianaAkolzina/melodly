@@ -1294,17 +1294,6 @@
       // Key changes per job start time so we re-apply after new runs
       const key = `${jobSong}:${st?.started_at || 0}`;
       const shouldFetch = running || (!running && tsLastAppliedKey !== key);
-      // Fetch recent logs for visibility
-      try {
-        const lr = await fetch('/api/timestamps/log?lines=100', { cache: 'no-store' });
-        const lj = await lr.json();
-        if (Array.isArray(lj?.lines)) {
-          const txt = lj.lines.join('\n');
-          const box = document.getElementById('tsLogBox');
-          if (box) { box.textContent = txt; box.scrollTop = box.scrollHeight; }
-        }
-      } catch {}
-
       if (!shouldFetch) { tsPollActive = false; return; }
 
       const res = await fetch(`/api/song/${encodeURIComponent(selectedSongId)}`, { cache: 'no-store' });
