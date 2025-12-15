@@ -13,337 +13,337 @@
       "time": 0.0,
       "text": "(D-Dkanee, thanks Pedro, welcome to the Crackhouse)",
       "translation": "(D-Dkanee, thanks Pedro, welcome to the Crackhouse)",
-      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: '(D-Dkanee, thanks Pedro, welcome to the Crackhouse)'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: '(D-Dkanee, thanks Pedro, welcome to the Crackhouse)'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 3.227,
       "text": "Zamawiam cztery shoty, mała mów mi kamikaze (kamikaze), uh",
       "translation": "I order four shots, baby call me kamikaze (kamikaze), uh",
-      "grammar": "Verbs: zamawiam (prefix z- hints perfective/directional) (present 1sg). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'I order four shots, baby call me kamikaze (kamikaze), uh'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: zamawiam (prefix z- affects meaning). Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'I order four shots, baby call me kamikaze (kamikaze), uh'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 6.821,
       "text": "Ja nic na to nie poradzę już, że kocham to",
       "translation": "I can't help it anymore, I love it",
-      "grammar": "Verbs: poradzę (prefix po- hints perfective/directional) (1sg ending -ę); kocham (present 1sg). Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'I can't help it anymore, I love it'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: poradzę (prefix po- affects meaning), kocham. Prepositions/case: na + acc (onto) / loc (on). Meaning: 'I can't help it anymore, I love it'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 10.78,
       "text": "Dobrze, że dziś nie prowadzę, uu-uu",
       "translation": "Good thing I'm not driving today, ooh-ooh",
-      "grammar": "Verbs: prowadzę (1sg ending -ę). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Good thing I'm not driving today, ooh-ooh'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: prowadzę. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Good thing I'm not driving today, ooh-ooh'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 13.642,
       "text": "Bo zrobiliby mi foty, jak jadę pod prąd",
       "translation": "Because they would take pictures of me driving against the flow.",
-      "grammar": "Verbs: jadę (1sg ending -ę). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Because they would take pictures of me driving against the flow.'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: jadę. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Because they would take pictures of me driving against the flow.'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 16.869,
       "text": "Na Pudelek lub Plejadę by wstawili to",
       "translation": "They would put this on Pudelek or Plejada",
-      "grammar": "Verbs: plejadę (1sg ending -ę). Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'They would put this on Pudelek or Plejada'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: plejadę. Prepositions/case: na + acc (onto) / loc (on). Meaning: 'They would put this on Pudelek or Plejada'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 19.731,
       "text": "Jak to diabeł nosi Pradę, skoro w Louis Vuitton",
       "translation": "How can the devil wear Prada when he's wearing Louis Vuitton?",
-      "grammar": "Verbs: pradę (1sg ending -ę). Prepositions/case: w/we + locative for location, accusative for motion into. Meaning: 'How can the devil wear Prada when he's wearing Louis Vuitton?'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: pradę. Prepositions/case: w/we + acc (into) / loc (in). Meaning: 'How can the devil wear Prada when he's wearing Louis Vuitton?'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 23.324,
       "text": "Shoty zamawiam przy barze, mm",
       "translation": "I order shots at the bar, mm",
-      "grammar": "Verbs: zamawiam (prefix z- hints perfective/directional) (present 1sg). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'I order shots at the bar, mm'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: zamawiam (prefix z- affects meaning). Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'I order shots at the bar, mm'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 25.454,
       "text": "Mała mów mi \"kamikaze\", bo zaliczę zgon dziś (kamikaze, kamikaze)",
       "translation": "Baby, call me \"kamikaze\" because I'm going to die today (kamikaze, kamikaze)",
-      "grammar": "Verbs: zaliczę (prefix z- hints perfective/directional) (1sg ending -ę). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Baby, call me \"kamikaze\" because I'm going to die today (kamikaze, kamikaze)'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: zaliczę (prefix z- affects meaning). Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Baby, call me \"kamikaze\" because I'm going to die today (kamikaze, kamikaze)'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 29.413,
       "text": "Mała mów mi kamikaze (kamikaze, kamikaze), bo zaliczę zgon dziś (kamikaze, mm, mm)",
       "translation": "Baby, call me kamikaze (kamikaze, kamikaze), because I'm going to die today (kamikaze, mm, mm)",
-      "grammar": "Verbs: zaliczę (prefix z- hints perfective/directional) (1sg ending -ę). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Baby, call me kamikaze (kamikaze, kamikaze), because I'm going to die today (kamikaze, mm, mm)'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: zaliczę (prefix z- affects meaning). Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Baby, call me kamikaze (kamikaze, kamikaze), because I'm going to die today (kamikaze, mm, mm)'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 34.47,
       "text": "Mała mów mi kamikaze, bo zaliczę zgon dziś, zaliczę ją dziś, uh",
       "translation": "Baby call me kamikaze, because I'll die today, I'll die today, uh",
-      "grammar": "Verbs: zaliczę (prefix z- hints perfective/directional) (1sg ending -ę). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Baby call me kamikaze, because I'll die today, I'll die today, uh'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: zaliczę (prefix z- affects meaning). Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Baby call me kamikaze, because I'll die today, I'll die today, uh'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 39.162,
       "text": "Mała, ze mną nie zabłądzisz",
       "translation": "Baby, you won't get lost with me",
-      "grammar": "Verbs: zabłądzisz (prefix z- hints perfective/directional) (present 2sg). Prepositions/case: z/ze + genitive for \"from/out of\". Meaning: 'Baby, you won't get lost with me'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: zabłądzisz (prefix z- affects meaning). Prepositions/case: z/ze + genitive (from/out of). Meaning: 'Baby, you won't get lost with me'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 41.291,
       "text": "Nie ma na to szans, mm, huh",
       "translation": "There's no chance of that, mm, huh",
-      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'There's no chance of that, mm, huh'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: na + acc (onto) / loc (on). Meaning: 'There's no chance of that, mm, huh'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 44.153,
       "text": "Nie ma na to szans (nie ma na to szans)",
       "translation": "There's no chance of that (there's no chance of that)",
-      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'There's no chance of that (there's no chance of that)'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: na + acc (onto) / loc (on). Meaning: 'There's no chance of that (there's no chance of that)'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 48.112,
       "text": "Nie ma na to szans (nie ma na to—), yeah",
       "translation": "There's no chance of that (there's no chance of that—), yeah",
-      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'There's no chance of that (there's no chance of that—), yeah'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: na + acc (onto) / loc (on). Meaning: 'There's no chance of that (there's no chance of that—), yeah'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 52.071,
       "text": "Nie ma na to szans, yeah, huh",
       "translation": "There's no chance of that, yeah, huh",
-      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'There's no chance of that, yeah, huh'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: na + acc (onto) / loc (on). Meaning: 'There's no chance of that, yeah, huh'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 54.933,
       "text": "(Skolim) łapię cię za biodra, jakbyś była moja",
       "translation": "(Skolim) I grab your hips as if you were mine",
-      "grammar": "Verbs: łapię (1sg ending -ę); cię (1sg ending -ę). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: '(Skolim) I grab your hips as if you were mine'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: łapię, cię. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: '(Skolim) I grab your hips as if you were mine'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 58.16,
       "text": "Odłóż do torebki już tego iPhone'a",
       "translation": "Put that iPhone back in your bag already",
-      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: do + genitive for motion toward. Meaning: 'Put that iPhone back in your bag already'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: do + genitive (toward). Meaning: 'Put that iPhone back in your bag already'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 61.022,
       "text": "Czemu jestem królem? Zaraz się przekonasz",
       "translation": "Why am I king? You'll find out soon.",
-      "grammar": "Verbs: jestem (present 1sg); królem (present 1sg). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Why am I king? You'll find out soon.'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: jestem, królem, się. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Why am I king? You'll find out soon.'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 63.518,
       "text": "Pozycje przeróżne i nie będzie to misjonarz",
       "translation": "Various positions and it won't be missionary",
-      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Various positions and it won't be missionary'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Various positions and it won't be missionary'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 66.379,
       "text": "To nie Walentynki, ale wyjdziemy stąd w parze",
       "translation": "It's not Valentine's Day, but we'll leave here together",
-      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: w/we + locative for location, accusative for motion into. Meaning: 'It's not Valentine's Day, but we'll leave here together'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: w/we + acc (into) / loc (in). Meaning: 'It's not Valentine's Day, but we'll leave here together'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 69.607,
       "text": "Robisz do mnie minki, siedząc samotnie przy barze",
       "translation": "You make faces at me while sitting alone at the bar",
-      "grammar": "Verbs: robisz (present 2sg). Prepositions/case: do + genitive for motion toward. Meaning: 'You make faces at me while sitting alone at the bar'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: robisz. Prepositions/case: do + genitive (toward). Meaning: 'You make faces at me while sitting alone at the bar'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 72.834,
       "text": "Zamawiam dwa drinki, ty masz w głowie kamikaze",
       "translation": "I order two drinks, you have a kamikaze in your head",
-      "grammar": "Verbs: zamawiam (prefix z- hints perfective/directional) (present 1sg); masz (present 2sg). Prepositions/case: w/we + locative for location, accusative for motion into. Meaning: 'I order two drinks, you have a kamikaze in your head'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: zamawiam (prefix z- affects meaning), masz. Prepositions/case: w/we + acc (into) / loc (in). Meaning: 'I order two drinks, you have a kamikaze in your head'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 76.062,
       "text": "Chcę robić uniki, ale zrobi, co jej każę",
       "translation": "I want to dodge, but she'll do what I tell her to do.",
-      "grammar": "Verbs: chcę (1sg ending -ę); robić. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'I want to dodge, but she'll do what I tell her to do.'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: chcę, robić, każę. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'I want to dodge, but she'll do what I tell her to do.'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 79.289,
       "text": "Zrobię ją na ladzie, chociaż wygląda na damę",
       "translation": "I'll make it on the counter, even though it looks like a lady",
-      "grammar": "Verbs: zrobię (prefix z- hints perfective/directional) (1sg ending -ę); damę (1sg ending -ę). Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'I'll make it on the counter, even though it looks like a lady'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: zrobię (prefix z- affects meaning), damę. Prepositions/case: na + acc (onto) / loc (on). Meaning: 'I'll make it on the counter, even though it looks like a lady'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 82.516,
       "text": "Zrobię ją na blacie, lubi rzeczy zakazane",
       "translation": "I'll make it on the counter, she likes forbidden things",
-      "grammar": "Verbs: zrobię (prefix z- hints perfective/directional) (1sg ending -ę). Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'I'll make it on the counter, she likes forbidden things'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: zrobię (prefix z- affects meaning). Prepositions/case: na + acc (onto) / loc (on). Meaning: 'I'll make it on the counter, she likes forbidden things'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 85.378,
       "text": "Znów się przy mnie kładzie i ma wszystko rozebrane",
       "translation": "He lies down next to me again and has everything undressed.",
-      "grammar": "Verbs: się (1sg ending -ę). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'He lies down next to me again and has everything undressed.'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: się. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'He lies down next to me again and has everything undressed.'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 88.971,
       "text": "Zrobię ją na blacie, lubi rzeczy pojebane (latino gang)",
       "translation": "I'll make it on the counter, she likes crazy things (latino gang)",
-      "grammar": "Verbs: zrobię (prefix z- hints perfective/directional) (1sg ending -ę). Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'I'll make it on the counter, she likes crazy things (latino gang)'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: zrobię (prefix z- affects meaning). Prepositions/case: na + acc (onto) / loc (on). Meaning: 'I'll make it on the counter, she likes crazy things (latino gang)'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 92.565,
       "text": "Zamawiam cztery shoty, mała mów mi kamikaze (kamikaze), uh",
       "translation": "I order four shots, baby call me kamikaze (kamikaze), uh",
-      "grammar": "Verbs: zamawiam (prefix z- hints perfective/directional) (present 1sg). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'I order four shots, baby call me kamikaze (kamikaze), uh'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: zamawiam (prefix z- affects meaning). Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'I order four shots, baby call me kamikaze (kamikaze), uh'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 96.158,
       "text": "Ja nic na to nie poradzę już, że kocham to",
       "translation": "I can't help it anymore, I love it",
-      "grammar": "Verbs: poradzę (prefix po- hints perfective/directional) (1sg ending -ę); kocham (present 1sg). Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'I can't help it anymore, I love it'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: poradzę (prefix po- affects meaning), kocham. Prepositions/case: na + acc (onto) / loc (on). Meaning: 'I can't help it anymore, I love it'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 100.118,
       "text": "Dobrze, że dziś nie prowadzę, uu-uu",
       "translation": "Good thing I'm not driving today, ooh-ooh",
-      "grammar": "Verbs: prowadzę (1sg ending -ę). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Good thing I'm not driving today, ooh-ooh'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: prowadzę. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Good thing I'm not driving today, ooh-ooh'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 102.979,
       "text": "Bo zrobiliby mi foty, jak jadę pod prąd",
       "translation": "Because they would take pictures of me driving against the flow.",
-      "grammar": "Verbs: jadę (1sg ending -ę). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Because they would take pictures of me driving against the flow.'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: jadę. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Because they would take pictures of me driving against the flow.'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 106.207,
       "text": "Na Pudelek lub Plejadę by wstawili to",
       "translation": "They would put this on Pudelek or Plejada",
-      "grammar": "Verbs: plejadę (1sg ending -ę). Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'They would put this on Pudelek or Plejada'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: plejadę. Prepositions/case: na + acc (onto) / loc (on). Meaning: 'They would put this on Pudelek or Plejada'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 109.068,
       "text": "Jak to diabeł nosi Pradę, skoro w Louis Vuitton",
       "translation": "How can the devil wear Prada when he's wearing Louis Vuitton?",
-      "grammar": "Verbs: pradę (1sg ending -ę). Prepositions/case: w/we + locative for location, accusative for motion into. Meaning: 'How can the devil wear Prada when he's wearing Louis Vuitton?'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: pradę. Prepositions/case: w/we + acc (into) / loc (in). Meaning: 'How can the devil wear Prada when he's wearing Louis Vuitton?'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 112.662,
       "text": "Shoty zamawiam przy barze, mm",
       "translation": "I order shots at the bar, mm",
-      "grammar": "Verbs: zamawiam (prefix z- hints perfective/directional) (present 1sg). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'I order shots at the bar, mm'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: zamawiam (prefix z- affects meaning). Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'I order shots at the bar, mm'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 114.791,
       "text": "Mała mów mi kamikaze, bo zaliczę zgon dziś",
       "translation": "Baby, call me kamikaze, or I'll die today",
-      "grammar": "Verbs: zaliczę (prefix z- hints perfective/directional) (1sg ending -ę). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Baby, call me kamikaze, or I'll die today'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: zaliczę (prefix z- affects meaning). Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Baby, call me kamikaze, or I'll die today'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 118.019,
       "text": "Tonight I want to shout you till I go cool-o",
       "translation": "Tonight I want to shout you till I go cool-o",
-      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: o + locative/accusative depending on phrase. Meaning: 'Tonight I want to shout you till I go cool-o'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: o + loc/acc depending on phrase. Meaning: 'Tonight I want to shout you till I go cool-o'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 122.344,
       "text": "I no see anybody out there on my own",
       "translation": "I no see anybody out there on my own",
-      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'I no see anybody out there on my own'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'I no see anybody out there on my own'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 125.937,
       "text": "Eke ne karibani is a one-time show",
       "translation": "Eke ne karibani is a one-time show",
-      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Eke ne karibani is a one-time show'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Eke ne karibani is a one-time show'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 129.165,
       "text": "Is a one-time show",
       "translation": "Is a one-time show",
-      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Is a one-time show'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Is a one-time show'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 131.295,
       "text": "Daddy kami-kami-kami-kami-kamikaze",
       "translation": "Daddy kami-kami-kami-kami-kamikaze",
-      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Daddy kami-kami-kami-kami-kamikaze'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Daddy kami-kami-kami-kami-kamikaze'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 133.79,
       "text": "Uro my baby, say you go tell them who's your daddy",
       "translation": "Uro my baby, say you go tell them who's your daddy",
-      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Uro my baby, say you go tell them who's your daddy'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Uro my baby, say you go tell them who's your daddy'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 138.481,
       "text": "Fresh like a Don Jazzy, fuck Illuminati",
       "translation": "Fresh like a Don Jazzy, fuck Illuminati",
-      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Fresh like a Don Jazzy, fuck Illuminati'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Fresh like a Don Jazzy, fuck Illuminati'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 141.343,
       "text": "And I carry kundo with this of your matimasi",
       "translation": "And I carry kundo with this of your matimasi",
-      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'And I carry kundo with this of your matimasi'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'And I carry kundo with this of your matimasi'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 144.936,
       "text": "She say she no want go",
       "translation": "She say she no want go",
-      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'She say she no want go'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'She say she no want go'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 147.432,
       "text": "She say she want time slow",
       "translation": "She say she want time slow",
-      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'She say she want time slow'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'She say she want time slow'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 149.927,
       "text": "With some ego I do go flow with the choke",
       "translation": "With some ego I do go flow with the choke",
-      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: do + genitive for motion toward. Meaning: 'With some ego I do go flow with the choke'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: do + genitive (toward). Meaning: 'With some ego I do go flow with the choke'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 153.887,
       "text": "Oh baby, no, I sure no want come my zone",
       "translation": "Oh baby, no, I sure don't want to come my zone",
-      "grammar": "Verbs: Find the main verb and note its aspect (perfective vs imperfective).. Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Oh baby, no, I sure don't want to come my zone'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Oh baby, no, I sure don't want to come my zone'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 157.846,
       "text": "Zamawiam cztery shoty, mała mów mi kamikaze (kamikaze), uh",
       "translation": "I order four shots, baby call me kamikaze (kamikaze), uh",
-      "grammar": "Verbs: zamawiam (prefix z- hints perfective/directional) (present 1sg). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'I order four shots, baby call me kamikaze (kamikaze), uh'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: zamawiam (prefix z- affects meaning). Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'I order four shots, baby call me kamikaze (kamikaze), uh'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 161.44,
       "text": "Ja nic na to nie poradzę już, że kocham to",
       "translation": "I can't help it anymore, I love it",
-      "grammar": "Verbs: poradzę (prefix po- hints perfective/directional) (1sg ending -ę); kocham (present 1sg). Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'I can't help it anymore, I love it'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: poradzę (prefix po- affects meaning), kocham. Prepositions/case: na + acc (onto) / loc (on). Meaning: 'I can't help it anymore, I love it'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 165.399,
       "text": "Dobrze, że dziś nie prowadzę, uu-uu",
       "translation": "Good thing I'm not driving today, ooh-ooh",
-      "grammar": "Verbs: prowadzę (1sg ending -ę). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Good thing I'm not driving today, ooh-ooh'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: prowadzę. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Good thing I'm not driving today, ooh-ooh'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 168.26,
       "text": "Bo zrobiliby mi foty, jak jadę pod prąd",
       "translation": "Because they would take pictures of me driving against the flow.",
-      "grammar": "Verbs: jadę (1sg ending -ę). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Because they would take pictures of me driving against the flow.'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: jadę. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Because they would take pictures of me driving against the flow.'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 171.488,
       "text": "Na Pudelek lub Plejadę by wstawili to",
       "translation": "They would put this on Pudelek or Plejada",
-      "grammar": "Verbs: plejadę (1sg ending -ę). Prepositions/case: na + accusative (motion) / locative (location). Meaning: 'They would put this on Pudelek or Plejada'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: plejadę. Prepositions/case: na + acc (onto) / loc (on). Meaning: 'They would put this on Pudelek or Plejada'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 174.349,
       "text": "Jak to diabeł nosi Pradę, skoro w Louis Vuitton",
       "translation": "How can the devil wear Prada when he's wearing Louis Vuitton?",
-      "grammar": "Verbs: pradę (1sg ending -ę). Prepositions/case: w/we + locative for location, accusative for motion into. Meaning: 'How can the devil wear Prada when he's wearing Louis Vuitton?'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: pradę. Prepositions/case: w/we + acc (into) / loc (in). Meaning: 'How can the devil wear Prada when he's wearing Louis Vuitton?'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 177.943,
       "text": "Shoty zamawiam przy barze, mm",
       "translation": "I order shots at the bar, mm",
-      "grammar": "Verbs: zamawiam (prefix z- hints perfective/directional) (present 1sg). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'I order shots at the bar, mm'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: zamawiam (prefix z- affects meaning). Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'I order shots at the bar, mm'. Aspect and prefixes shift meaning; prepositions choose case."
     },
     {
       "time": 180.073,
       "text": "Mała mów mi kamikaze, bo zaliczę zgon dziś",
       "translation": "Baby, call me kamikaze, or I'll die today",
-      "grammar": "Verbs: zaliczę (prefix z- hints perfective/directional) (1sg ending -ę). Prepositions/case: Check cases after preps (do+gen, z+gen, na/w for motion vs location).. Meaning: 'Baby, call me kamikaze, or I'll die today'. Explain how aspect/prefix changes meaning and how case follows these prepositions."
+      "grammar": "Verbs: zaliczę (prefix z- affects meaning). Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Baby, call me kamikaze, or I'll die today'. Aspect and prefixes shift meaning; prepositions choose case."
     }
   ]
 }

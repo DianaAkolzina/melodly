@@ -13,241 +13,241 @@
       "time": 0.0,
       "text": "Eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, aus",
       "translation": "One, two, three, four, five, six, seven, eight, nine, out",
-      "grammar": "German note: Identify the main verb, its ending, and any prefix movement. V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'One, two, three, four, five, six, seven, eight, nine, out'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: aus + dative. Meaning: 'One, two, three, four, five, six, seven, eight, nine, out'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 3.672,
       "text": "Alle warten auf das Licht",
       "translation": "Everyone is waiting for the light",
-      "grammar": "German note: Verb focus: warten (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'Everyone is waiting for the light'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: warten. Prepositions/case: auf + acc (onto) / dat (on). Meaning: 'Everyone is waiting for the light'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 5.659,
       "text": "Fürchtet euch, fürchtet euch nicht",
       "translation": "Fear not, fear not",
-      "grammar": "German note: Verb focus: fürchtet (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'Fear not, fear not'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: fürchtet. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Fear not, fear not'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 7.645,
       "text": "Die Sonne scheint mir aus den Augen",
       "translation": "The sun is shining out of my eyes",
-      "grammar": "German note: Verb focus: scheint (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'The sun is shining out of my eyes'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: scheint, den. Prepositions/case: aus + dative. Meaning: 'The sun is shining out of my eyes'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 10.306,
       "text": "Sie wird heut Nacht nicht untergeh'n",
       "translation": "She will not go down tonight",
-      "grammar": "German note: Identify the main verb, its ending, and any prefix movement. V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'She will not go down tonight'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: heut. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'She will not go down tonight'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 12.966,
       "text": "Und die Welt zählt laut bis zehn",
       "translation": "And the world counts aloud to ten",
-      "grammar": "German note: Verb focus: zählt, laut (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'And the world counts aloud to ten'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: zählt, laut. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'And the world counts aloud to ten'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 15.627,
       "text": "Eins, hier kommt die Sonne",
       "translation": "One, here comes the sun",
-      "grammar": "German note: Verb focus: kommt (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'One, here comes the sun'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'One, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 17.613,
       "text": "Zwei, hier kommt die Sonne",
       "translation": "Two, here comes the sun",
-      "grammar": "German note: Verb focus: kommt (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'Two, here comes the sun'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Two, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 19.6,
       "text": "Drei, sie ist der hellste Stern von allen",
       "translation": "Three, she is the brightest star of all",
-      "grammar": "German note: Verb focus: allen (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'Three, she is the brightest star of all'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: ist, allen. Prepositions/case: von + dative. Meaning: 'Three, she is the brightest star of all'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 22.598,
       "text": "Vier, hier kommt die Sonne",
       "translation": "Four, here comes the sun",
-      "grammar": "German note: Verb focus: kommt (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'Four, here comes the sun'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Four, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 24.584,
       "text": "Die Sonne scheint mir aus den Händen",
       "translation": "The sun shines from my hands",
-      "grammar": "German note: Verb focus: scheint (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'The sun shines from my hands'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: scheint, den. Prepositions/case: aus + dative. Meaning: 'The sun shines from my hands'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 27.245,
       "text": "Kann verbrennen, kann euch blenden",
       "translation": "It can burn you, it can blind you",
-      "grammar": "German note: Verb focus: verbrennen, blenden (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'It can burn you, it can blind you'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: verbrennen, blenden. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'It can burn you, it can blind you'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 29.231,
       "text": "Wenn sie aus den Fäusten bricht",
       "translation": "When it breaks from the fists",
-      "grammar": "German note: Verb focus: bricht (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'When it breaks from the fists'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: den, bricht. Prepositions/case: aus + dative. Meaning: 'When it breaks from the fists'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 31.554,
       "text": "Legt sich heiß auf das Gesicht",
       "translation": "It lies hot on the face",
-      "grammar": "German note: Identify the main verb, its ending, and any prefix movement. V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'It lies hot on the face'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: auf + acc (onto) / dat (on). Meaning: 'It lies hot on the face'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 33.878,
       "text": "Sie wird heut Nacht nicht untergeh'n",
       "translation": "She will not go down tonight",
-      "grammar": "German note: Identify the main verb, its ending, and any prefix movement. V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'She will not go down tonight'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: heut. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'She will not go down tonight'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 36.538,
       "text": "Und die Welt zählt laut bis zehn",
       "translation": "And the world counts aloud to ten",
-      "grammar": "German note: Verb focus: zählt, laut (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'And the world counts aloud to ten'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: zählt, laut. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'And the world counts aloud to ten'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 39.199,
       "text": "Eins, hier kommt die Sonne",
       "translation": "One, here comes the sun",
-      "grammar": "German note: Verb focus: kommt (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'One, here comes the sun'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'One, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 41.185,
       "text": "Zwei, hier kommt die Sonne",
       "translation": "Two, here comes the sun",
-      "grammar": "German note: Verb focus: kommt (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'Two, here comes the sun'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Two, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 43.172,
       "text": "Drei, sie ist der hellste Stern von allen",
       "translation": "Three, she is the brightest star of all",
-      "grammar": "German note: Verb focus: allen (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'Three, she is the brightest star of all'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: ist, allen. Prepositions/case: von + dative. Meaning: 'Three, she is the brightest star of all'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 46.17,
       "text": "Vier, hier kommt die Sonne",
       "translation": "Four, here comes the sun",
-      "grammar": "German note: Verb focus: kommt (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'Four, here comes the sun'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Four, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 48.156,
       "text": "Fünf, hier kommt die Sonne",
       "translation": "Five, here comes the sun",
-      "grammar": "German note: Verb focus: kommt (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'Five, here comes the sun'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Five, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 50.142,
       "text": "Sechs, hier kommt die Sonne",
       "translation": "Six, here comes the sun",
-      "grammar": "German note: Verb focus: kommt (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'Six, here comes the sun'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Six, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 52.128,
       "text": "Sieben, sie ist der hellste Stern von allen",
       "translation": "Seven, it is the brightest star of all",
-      "grammar": "German note: Verb focus: allen (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'Seven, it is the brightest star of all'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: ist, allen. Prepositions/case: von + dative. Meaning: 'Seven, it is the brightest star of all'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 55.126,
       "text": "Acht, neun, hier kommt die Sonne",
       "translation": "Eight, nine, here comes the sun",
-      "grammar": "German note: Verb focus: kommt (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'Eight, nine, here comes the sun'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Eight, nine, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 57.45,
       "text": "Die Sonne scheint mir aus den Händen",
       "translation": "The sun shines from my hands",
-      "grammar": "German note: Verb focus: scheint (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'The sun shines from my hands'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: scheint, den. Prepositions/case: aus + dative. Meaning: 'The sun shines from my hands'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 60.111,
       "text": "Kann verbrennen, kann dich blenden",
       "translation": "It can burn you, it can blind you",
-      "grammar": "German note: Verb focus: verbrennen, blenden (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'It can burn you, it can blind you'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: verbrennen, blenden. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'It can burn you, it can blind you'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 62.097,
       "text": "Wenn sie aus den Fäusten bricht",
       "translation": "When it breaks from the fists",
-      "grammar": "German note: Verb focus: bricht (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'When it breaks from the fists'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: den, bricht. Prepositions/case: aus + dative. Meaning: 'When it breaks from the fists'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 64.42,
       "text": "Legt sich heiß auf dein Gesicht",
       "translation": "It lies hot on your face",
-      "grammar": "German note: Identify the main verb, its ending, and any prefix movement. V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'It lies hot on your face'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: auf + acc (onto) / dat (on). Meaning: 'It lies hot on your face'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 66.744,
       "text": "Legt sich schmerzend auf die Brust",
       "translation": "It lies painfully on the chest",
-      "grammar": "German note: Identify the main verb, its ending, and any prefix movement. V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'It lies painfully on the chest'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: auf + acc (onto) / dat (on). Meaning: 'It lies painfully on the chest'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 69.067,
       "text": "Das Gleichgewicht wird zum Verlust",
       "translation": "The balance becomes a loss",
-      "grammar": "German note: Identify the main verb, its ending, and any prefix movement. V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'The balance becomes a loss'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'The balance becomes a loss'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 71.053,
       "text": "Lässt dich hart zu Boden geh'n",
       "translation": "It brings you down hard.",
-      "grammar": "German note: Verb focus: hart (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'It brings you down hard.'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: hart. Prepositions/case: zu + dative. Meaning: 'It brings you down hard.'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 73.714,
       "text": "Und die Welt zählt laut bis zehn",
       "translation": "And the world counts aloud to ten",
-      "grammar": "German note: Verb focus: zählt, laut (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'And the world counts aloud to ten'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: zählt, laut. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'And the world counts aloud to ten'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 76.375,
       "text": "Eins, hier kommt die Sonne",
       "translation": "One, here comes the sun",
-      "grammar": "German note: Verb focus: kommt (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'One, here comes the sun'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'One, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 78.361,
       "text": "Zwei, hier kommt die Sonne",
       "translation": "Two, here comes the sun",
-      "grammar": "German note: Verb focus: kommt (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'Two, here comes the sun'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Two, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 80.347,
       "text": "Drei, sie ist der hellste Stern von allen",
       "translation": "Three, she is the brightest star of all",
-      "grammar": "German note: Verb focus: allen (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'Three, she is the brightest star of all'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: ist, allen. Prepositions/case: von + dative. Meaning: 'Three, she is the brightest star of all'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 83.345,
       "text": "Vier, und wird nie vom Himmel fallen",
       "translation": "Four, and will never fall from the sky",
-      "grammar": "German note: Verb focus: fallen (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'Four, and will never fall from the sky'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: fallen. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Four, and will never fall from the sky'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 86.006,
       "text": "Fünf, hier kommt die Sonne",
       "translation": "Five, here comes the sun",
-      "grammar": "German note: Verb focus: kommt (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'Five, here comes the sun'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Five, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 87.992,
       "text": "Sechs, hier kommt die Sonne",
       "translation": "Six, here comes the sun",
-      "grammar": "German note: Verb focus: kommt (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'Six, here comes the sun'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Six, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 89.979,
       "text": "Sieben, sie ist der hellste Stern von allen",
       "translation": "Seven, it is the brightest star of all",
-      "grammar": "German note: Verb focus: allen (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'Seven, it is the brightest star of all'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: ist, allen. Prepositions/case: von + dative. Meaning: 'Seven, it is the brightest star of all'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     },
     {
       "time": 92.977,
       "text": "Acht, neun, hier kommt die Sonne",
       "translation": "Eight, nine, here comes the sun",
-      "grammar": "German note: Verb focus: kommt (check person/tense and prefixes). V2 word order and separable prefixes; articles show case (der/die/das). Meaning: 'Eight, nine, here comes the sun'. Highlight any set phrase to memorize and how the verb agrees with the subject."
+      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Eight, nine, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
     }
   ]
 }
