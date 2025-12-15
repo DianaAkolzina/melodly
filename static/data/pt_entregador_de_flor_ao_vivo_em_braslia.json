@@ -13,265 +13,265 @@
       "time": 0.0,
       "text": "Vai lá entregador de flor",
       "translation": "Go ahead, flower delivery man!",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: de + article contracts (do/da/dos/das). Meaning: 'Go ahead, flower delivery man!'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "de + article contracts (do/da/dos/das); Meaning: 'Go ahead, flower delivery man!'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 3.8,
       "text": "Dar assistência pra isso",
       "translation": "To provide assistance for that.",
-      "grammar": "Verbs: dar, isso. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'To provide assistance for that.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "dar, isso (1sg present); watch case/contracao after prepositions; Meaning: 'To provide assistance for that.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 6.9,
       "text": "Que eu e ela tá chamando de amor",
       "translation": "What she and I are calling love.",
-      "grammar": "Verbs: chamando. Prepositions/case: de + article contracts (do/da/dos/das). Meaning: 'What she and I are calling love.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "chamando (1sg present); de + article contracts (do/da/dos/das); Meaning: 'What she and I are calling love.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 12.8,
       "text": "E o coração se acostumou",
       "translation": "And the heart got used to it.",
-      "grammar": "Verbs: coração, acostumou. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'And the heart got used to it.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "coração (1sg present), acostumou (common past ending); watch case/contracao after prepositions; Meaning: 'And the heart got used to it.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 16.6,
       "text": "Que de sete em sete dias",
       "translation": "That every seven days",
-      "grammar": "Verbs: dias. Prepositions/case: de + article contracts (do/da/dos/das); em + article contracts (no/na/nos/nas). Meaning: 'That every seven days'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "dias (2sg present); de + article contracts (do/da/dos/das); em + article contracts (no/na/nos/nas); Meaning: 'That every seven days'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 21.1,
       "text": "Eu mando um novo, por que o outro murchou",
       "translation": "I'm sending a new one because the other one went bad.",
-      "grammar": "Verbs: mando, novo, outro. Prepositions/case: por (cause/path). Meaning: 'I'm sending a new one because the other one went bad.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "mando (1sg present), novo (1sg present), outro (1sg present); por (cause/path); Meaning: 'I'm sending a new one because the other one went bad.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 27.7,
       "text": "Pra não dar tempo dela me esquecer",
       "translation": "So she doesn't have time to forget me.",
-      "grammar": "Verbs: dar, tempo, esquecer. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'So she doesn't have time to forget me.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "dar, tempo (1sg present), esquecer; watch case/contracao after prepositions; Meaning: 'So she doesn't have time to forget me.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 32.9,
       "text": "Toda semana eu mando um buquê",
       "translation": "Every week I send a bouquet.",
-      "grammar": "Verbs: mando. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Every week I send a bouquet.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "mando (1sg present); watch case/contracao after prepositions; Meaning: 'Every week I send a bouquet.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 37.4,
       "text": "Vou te encher de flor minha flor",
       "translation": "I'm going to shower you with flowers, my flower.",
-      "grammar": "Verbs: vou, encher. Prepositions/case: de + article contracts (do/da/dos/das). Meaning: 'I'm going to shower you with flowers, my flower.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "vou (common past ending), encher; de + article contracts (do/da/dos/das); Meaning: 'I'm going to shower you with flowers, my flower.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 42.6,
       "text": "Vou te encher de beijos de amor",
       "translation": "I'm going to shower you with loving kisses.",
-      "grammar": "Verbs: vou, encher. Prepositions/case: de + article contracts (do/da/dos/das). Meaning: 'I'm going to shower you with loving kisses.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "vou (common past ending), encher; de + article contracts (do/da/dos/das); Meaning: 'I'm going to shower you with loving kisses.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 47.8,
       "text": "Quero ver cê reclamar",
       "translation": "I want to see you complain.",
-      "grammar": "Verbs: quero, ver, reclamar. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'I want to see you complain.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "quero (1sg present), ver, reclamar; watch case/contracao after prepositions; Meaning: 'I want to see you complain.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 50.9,
       "text": "Quero ver cê não me amar",
       "translation": "I want to see you not love me.",
-      "grammar": "Verbs: quero, ver, amar. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'I want to see you not love me.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "quero (1sg present), ver, amar; watch case/contracao after prepositions; Meaning: 'I want to see you not love me.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 55.4,
       "text": "Vou te encher de flor minha flor",
       "translation": "I'm going to shower you with flowers, my flower.",
-      "grammar": "Verbs: vou, encher. Prepositions/case: de + article contracts (do/da/dos/das). Meaning: 'I'm going to shower you with flowers, my flower.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "vou (common past ending), encher; de + article contracts (do/da/dos/das); Meaning: 'I'm going to shower you with flowers, my flower.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 60.6,
       "text": "Vou te encher de beijos de amor",
       "translation": "I'm going to shower you with loving kisses.",
-      "grammar": "Verbs: vou, encher. Prepositions/case: de + article contracts (do/da/dos/das). Meaning: 'I'm going to shower you with loving kisses.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "vou (common past ending), encher; de + article contracts (do/da/dos/das); Meaning: 'I'm going to shower you with loving kisses.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 65.8,
       "text": "Quero ver cê reclamar",
       "translation": "I want to see you complain.",
-      "grammar": "Verbs: quero, ver, reclamar. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'I want to see you complain.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "quero (1sg present), ver, reclamar; watch case/contracao after prepositions; Meaning: 'I want to see you complain.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 68.9,
       "text": "Quero ver cê não me amar",
       "translation": "I want to see you not love me.",
-      "grammar": "Verbs: quero, ver, amar. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'I want to see you not love me.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "quero (1sg present), ver, amar; watch case/contracao after prepositions; Meaning: 'I want to see you not love me.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 73.4,
       "text": "Vou te encher de flor",
       "translation": "I'll shower you with flowers.",
-      "grammar": "Verbs: vou, encher. Prepositions/case: de + article contracts (do/da/dos/das). Meaning: 'I'll shower you with flowers.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "vou (common past ending), encher; de + article contracts (do/da/dos/das); Meaning: 'I'll shower you with flowers.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 77.2,
       "text": "Eu vou",
       "translation": "I go",
-      "grammar": "Verbs: vou. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'I go'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "vou (common past ending); watch case/contracao after prepositions; Meaning: 'I go'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 78.9,
       "text": "(Vai lá, vai lá)",
       "translation": "(Go there, go there)",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: '(Go there, go there)'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "watch case/contracao after prepositions; Meaning: '(Go there, go there)'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 82.0,
       "text": "Vai lá entregador de flor",
       "translation": "Go ahead, flower delivery man!",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: de + article contracts (do/da/dos/das). Meaning: 'Go ahead, flower delivery man!'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "de + article contracts (do/da/dos/das); Meaning: 'Go ahead, flower delivery man!'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 85.8,
       "text": "Dar assistência pra isso",
       "translation": "To provide assistance for this.",
-      "grammar": "Verbs: dar, isso. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'To provide assistance for this.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "dar, isso (1sg present); watch case/contracao after prepositions; Meaning: 'To provide assistance for this.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 88.9,
       "text": "Que eu e ela tá chamando de amor",
       "translation": "What she and I are calling love",
-      "grammar": "Verbs: chamando. Prepositions/case: de + article contracts (do/da/dos/das). Meaning: 'What she and I are calling love'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "chamando (1sg present); de + article contracts (do/da/dos/das); Meaning: 'What she and I are calling love'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 94.8,
       "text": "Meu coração se acostumou",
       "translation": "My heart got used to it.",
-      "grammar": "Verbs: coração, acostumou. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'My heart got used to it.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "coração (1sg present), acostumou (common past ending); watch case/contracao after prepositions; Meaning: 'My heart got used to it.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 97.9,
       "text": "Que de sete em sete dias",
       "translation": "That every seven days",
-      "grammar": "Verbs: dias. Prepositions/case: de + article contracts (do/da/dos/das); em + article contracts (no/na/nos/nas). Meaning: 'That every seven days'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "dias (2sg present); de + article contracts (do/da/dos/das); em + article contracts (no/na/nos/nas); Meaning: 'That every seven days'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 102.4,
       "text": "Eu já mando um novo, por que o outro murchou",
       "translation": "I'll send a new one right away, because the other one went shriveled up.",
-      "grammar": "Verbs: mando, novo, outro. Prepositions/case: por (cause/path). Meaning: 'I'll send a new one right away, because the other one went shriveled up.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "mando (1sg present), novo (1sg present), outro (1sg present); por (cause/path); Meaning: 'I'll send a new one right away, because the other one went shriveled up.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 109.7,
       "text": "Pra não dar tempo dela me esquecer",
       "translation": "So she doesn't have time to forget me.",
-      "grammar": "Verbs: dar, tempo, esquecer. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'So she doesn't have time to forget me.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "dar, tempo (1sg present), esquecer; watch case/contracao after prepositions; Meaning: 'So she doesn't have time to forget me.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 114.9,
       "text": "Toda semana eu mando um buquê",
       "translation": "Every week I send a bouquet.",
-      "grammar": "Verbs: mando. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Every week I send a bouquet.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "mando (1sg present); watch case/contracao after prepositions; Meaning: 'Every week I send a bouquet.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 119.4,
       "text": "Eu vou te encher de flor minha flor",
       "translation": "I'm going to shower you with flowers, my flower.",
-      "grammar": "Verbs: vou, encher. Prepositions/case: de + article contracts (do/da/dos/das). Meaning: 'I'm going to shower you with flowers, my flower.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "vou (common past ending), encher; de + article contracts (do/da/dos/das); Meaning: 'I'm going to shower you with flowers, my flower.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 125.3,
       "text": "Vou te encher de beijos de amor",
       "translation": "I'm going to shower you with loving kisses.",
-      "grammar": "Verbs: vou, encher. Prepositions/case: de + article contracts (do/da/dos/das). Meaning: 'I'm going to shower you with loving kisses.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "vou (common past ending), encher; de + article contracts (do/da/dos/das); Meaning: 'I'm going to shower you with loving kisses.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 130.5,
       "text": "Quero ver cê reclamar",
       "translation": "I want to see you complain.",
-      "grammar": "Verbs: quero, ver, reclamar. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'I want to see you complain.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "quero (1sg present), ver, reclamar; watch case/contracao after prepositions; Meaning: 'I want to see you complain.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 133.6,
       "text": "Quero ver cê não me amar",
       "translation": "I want to see you not love me.",
-      "grammar": "Verbs: quero, ver, amar. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'I want to see you not love me.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "quero (1sg present), ver, amar; watch case/contracao after prepositions; Meaning: 'I want to see you not love me.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 138.1,
       "text": "Vou te encher de flor minha flor",
       "translation": "I'm going to shower you with flowers, my flower.",
-      "grammar": "Verbs: vou, encher. Prepositions/case: de + article contracts (do/da/dos/das). Meaning: 'I'm going to shower you with flowers, my flower.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "vou (common past ending), encher; de + article contracts (do/da/dos/das); Meaning: 'I'm going to shower you with flowers, my flower.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 143.3,
       "text": "Vou te encher de beijos de amor",
       "translation": "I'm going to shower you with loving kisses.",
-      "grammar": "Verbs: vou, encher. Prepositions/case: de + article contracts (do/da/dos/das). Meaning: 'I'm going to shower you with loving kisses.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "vou (common past ending), encher; de + article contracts (do/da/dos/das); Meaning: 'I'm going to shower you with loving kisses.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 148.5,
       "text": "Quero ver cê reclamar",
       "translation": "I want to see you complain.",
-      "grammar": "Verbs: quero, ver, reclamar. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'I want to see you complain.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "quero (1sg present), ver, reclamar; watch case/contracao after prepositions; Meaning: 'I want to see you complain.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 151.6,
       "text": "Quero ver cê não me amar",
       "translation": "I want to see you not love me.",
-      "grammar": "Verbs: quero, ver, amar. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'I want to see you not love me.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "quero (1sg present), ver, amar; watch case/contracao after prepositions; Meaning: 'I want to see you not love me.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 156.1,
       "text": "Vou te encher de flor minha flor",
       "translation": "I'm going to shower you with flowers, my flower.",
-      "grammar": "Verbs: vou, encher. Prepositions/case: de + article contracts (do/da/dos/das). Meaning: 'I'm going to shower you with flowers, my flower.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "vou (common past ending), encher; de + article contracts (do/da/dos/das); Meaning: 'I'm going to shower you with flowers, my flower.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 161.3,
       "text": "Vou te encher de beijos de amor",
       "translation": "I'm going to shower you with loving kisses.",
-      "grammar": "Verbs: vou, encher. Prepositions/case: de + article contracts (do/da/dos/das). Meaning: 'I'm going to shower you with loving kisses.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "vou (common past ending), encher; de + article contracts (do/da/dos/das); Meaning: 'I'm going to shower you with loving kisses.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 166.5,
       "text": "Quero ver cê reclamar",
       "translation": "I want to see you complain.",
-      "grammar": "Verbs: quero, ver, reclamar. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'I want to see you complain.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "quero (1sg present), ver, reclamar; watch case/contracao after prepositions; Meaning: 'I want to see you complain.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 169.6,
       "text": "Quero ver cê não me amar",
       "translation": "I want to see you not love me.",
-      "grammar": "Verbs: quero, ver, amar. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'I want to see you not love me.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "quero (1sg present), ver, amar; watch case/contracao after prepositions; Meaning: 'I want to see you not love me.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 174.1,
       "text": "Vou te encher de flor",
       "translation": "I'll shower you with flowers.",
-      "grammar": "Verbs: vou, encher. Prepositions/case: de + article contracts (do/da/dos/das). Meaning: 'I'll shower you with flowers.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "vou (common past ending), encher; de + article contracts (do/da/dos/das); Meaning: 'I'll shower you with flowers.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 177.9,
       "text": "Eu vou",
       "translation": "I go",
-      "grammar": "Verbs: vou. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'I go'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "vou (common past ending); watch case/contracao after prepositions; Meaning: 'I go'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 179.6,
       "text": "Vou te encher de flor",
       "translation": "I'll shower you with flowers.",
-      "grammar": "Verbs: vou, encher. Prepositions/case: de + article contracts (do/da/dos/das). Meaning: 'I'll shower you with flowers.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "vou (common past ending), encher; de + article contracts (do/da/dos/das); Meaning: 'I'll shower you with flowers.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 183.4,
       "text": "Eu vou",
       "translation": "I go",
-      "grammar": "Verbs: vou. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'I go'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "vou (common past ending); watch case/contracao after prepositions; Meaning: 'I go'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     },
     {
       "time": 185.1,
       "text": "Pode bater palma e fazer barulho Brasília",
       "translation": "You can clap and make noise, Brasília.",
-      "grammar": "Verbs: bater, fazer, barulho. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'You can clap and make noise, Brasília.'. Conjugations mark person/tense; contractions with articles; clitic pronouns may attach."
+      "grammar": "bater, fazer, barulho (1sg present); watch case/contracao after prepositions; Meaning: 'You can clap and make noise, Brasília.'; Conjugations carry person/tense; contractions with articles are common; clitic pronouns may attach."
     }
   ]
 }

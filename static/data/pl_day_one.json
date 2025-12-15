@@ -13,409 +13,409 @@
       "time": 0.0,
       "text": "Atut!",
       "translation": "Asset!",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Asset!'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "watch case/contracao after prepositions; Meaning: 'Asset!'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 1.2,
       "text": "Od Produktu nie wróciłem do domu bez zrobienia se z kimś selfie",
       "translation": "Since Product I haven't returned home without taking a selfie with someone",
-      "grammar": "Verbs: wróciłem (prefix w- affects meaning). Prepositions/case: od + genitive (from/because of); do + genitive (toward); bez + genitive (without); z/ze + genitive (from/out of). Meaning: 'Since Product I haven't returned home without taking a selfie with someone'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "wróciłem (prefix w-, past 1sg); od → genitive (from/because of); do → genitive (toward); bez → genitive (without); z/ze → genitive (from/out of); Meaning: 'Since Product I haven't returned home without taking a selfie with someone'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 5.712,
       "text": "A nie zawsze mam fit LV, i nieskończoność energii",
       "translation": "And I don't always have fit LV, and endless energy",
-      "grammar": "Verbs: mam. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'And I don't always have fit LV, and endless energy'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "mam (present 1sg); watch case/contracao after prepositions; Meaning: 'And I don't always have fit LV, and endless energy'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 9.172,
       "text": "Wiem, że wygoda jest wrogiem sukcesu",
       "translation": "I know that comfort is the enemy of success",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'I know that comfort is the enemy of success'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "watch case/contracao after prepositions; Meaning: 'I know that comfort is the enemy of success'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 11.58,
       "text": "Co mi po tej willi na tym Airbnb?",
       "translation": "What do I need this villa on this Airbnb for?",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: po + loc/acc; na + acc (onto) / loc (on). Meaning: 'What do I need this villa on this Airbnb for?'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "po → loc/acc; na → acc (onto) / loc (on); Meaning: 'What do I need this villa on this Airbnb for?'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 14.689,
       "text": "Najlepsze numery robiłem na trapie",
       "translation": "I did my best tricks on the gangplank.",
-      "grammar": "Verbs: robiłem. Prepositions/case: na + acc (onto) / loc (on). Meaning: 'I did my best tricks on the gangplank.'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "robiłem (past 1sg); na → acc (onto) / loc (on); Meaning: 'I did my best tricks on the gangplank.'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 16.746,
       "text": "Jak chcę zrobić papier to śpię na kanapie, baby",
       "translation": "If I want to make paper, I sleep on the couch, baby",
-      "grammar": "Verbs: chcę, zrobić (prefix z- affects meaning), śpię. Prepositions/case: na + acc (onto) / loc (on). Meaning: 'If I want to make paper, I sleep on the couch, baby'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "chcę (1sg ending -ę), zrobić (prefix z-), śpię (1sg ending -ę); na → acc (onto) / loc (on); Meaning: 'If I want to make paper, I sleep on the couch, baby'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 20.206,
       "text": "Opiłem się trochę już wody sodowej i sobie nią bekam jak David (David)",
       "translation": "I've already had some soda and I'm burping it like David.",
-      "grammar": "Verbs: opiłem (prefix o- affects meaning), się, trochę. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'I've already had some soda and I'm burping it like David.'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "opiłem (prefix o-, past 1sg), się (1sg ending -ę), trochę (1sg ending -ę); watch case/contracao after prepositions; Meaning: 'I've already had some soda and I'm burping it like David.'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 25.069,
       "text": "Opowiem Ci jak się utrzymasz na topie",
       "translation": "I'll tell you how to stay on top",
-      "grammar": "Verbs: się, utrzymasz (prefix u- affects meaning). Prepositions/case: na + acc (onto) / loc (on). Meaning: 'I'll tell you how to stay on top'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "się (1sg ending -ę), utrzymasz (prefix u-, present 2sg); na → acc (onto) / loc (on); Meaning: 'I'll tell you how to stay on top'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 27.827,
       "text": "Choć szanse są slim jak Shady (Shady)",
       "translation": "Though the odds are slim as Shady (Shady)",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Though the odds are slim as Shady (Shady)'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "watch case/contracao after prepositions; Meaning: 'Though the odds are slim as Shady (Shady)'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 30.585,
       "text": "Na tracku masz Poland's finest, Taco i Oki jak Biggie jak Jay-Z",
       "translation": "On the track you have Poland's finest, Taco and Oki like Biggie like Jay-Z",
-      "grammar": "Verbs: masz. Prepositions/case: na + acc (onto) / loc (on); z/ze + genitive (from/out of). Meaning: 'On the track you have Poland's finest, Taco and Oki like Biggie like Jay-Z'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "masz (present 2sg); na → acc (onto) / loc (on); z/ze → genitive (from/out of); Meaning: 'On the track you have Poland's finest, Taco and Oki like Biggie like Jay-Z'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 35.799,
       "text": "Zapraszam do stołu i zanim zagramy Ci powiem zasady tej gierki",
       "translation": "I invite you to the table and before we play, I will tell you the rules of this game.",
-      "grammar": "Verbs: zapraszam (prefix z- affects meaning). Prepositions/case: do + genitive (toward). Meaning: 'I invite you to the table and before we play, I will tell you the rules of this game.'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "zapraszam (prefix z-, present 1sg); do → genitive (toward); Meaning: 'I invite you to the table and before we play, I will tell you the rules of this game.'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 39.961,
       "text": "Zasada pierwsza — pierwszy hit i się grono zagęszcza",
       "translation": "Rule one – the first hit and the crowd grows",
-      "grammar": "Verbs: się. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Rule one – the first hit and the crowd grows'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "się (1sg ending -ę); watch case/contracao after prepositions; Meaning: 'Rule one – the first hit and the crowd grows'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 43.07,
       "text": "W furze brakuje miejsca, więc już się busem przemieszczasz",
       "translation": "There's not enough space in the van, so you're already traveling by bus.",
-      "grammar": "Verbs: się, busem, przemieszczasz (prefix prze- affects meaning). Prepositions/case: w/we + acc (into) / loc (in). Meaning: 'There's not enough space in the van, so you're already traveling by bus.'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "się (1sg ending -ę), busem (present 1sg), przemieszczasz (prefix prze-, present 2sg); w/we → acc (into) / loc (in); Meaning: 'There's not enough space in the van, so you're already traveling by bus.'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 46.53,
       "text": "Będziesz miał pierwszy leak i zerwany film na backstage'ach",
       "translation": "You will have the first leak and broken film on backstage",
-      "grammar": "Verbs: będziesz. Prepositions/case: na + acc (onto) / loc (on). Meaning: 'You will have the first leak and broken film on backstage'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "będziesz (present 2sg); na → acc (onto) / loc (on); Meaning: 'You will have the first leak and broken film on backstage'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 50.34,
       "text": "Uważaj na social media i patrz kto robi Ci zdjęcia",
       "translation": "Be careful on social media and watch who takes your photos",
-      "grammar": "Verbs: uważaj (prefix u- affects meaning). Prepositions/case: na + acc (onto) / loc (on). Meaning: 'Be careful on social media and watch who takes your photos'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "uważaj (prefix u-); na → acc (onto) / loc (on); Meaning: 'Be careful on social media and watch who takes your photos'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 54.151,
       "text": "Zasada druga — nie idź do celu po trupach",
       "translation": "Rule two - don't walk over dead bodies to your destination",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: do + genitive (toward); po + loc/acc. Meaning: 'Rule two - don't walk over dead bodies to your destination'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "do → genitive (toward); po → loc/acc; Meaning: 'Rule two - don't walk over dead bodies to your destination'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 57.26,
       "text": "Nie opierdalaj produkcji, że nie smakuje Ci zupa",
       "translation": "Don't criticize the production if you don't like the soup.",
-      "grammar": "Verbs: opierdalaj (prefix o- affects meaning). Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Don't criticize the production if you don't like the soup.'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "opierdalaj (prefix o-); watch case/contracao after prepositions; Meaning: 'Don't criticize the production if you don't like the soup.'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 60.369,
       "text": "Na planie klipu płacze stylistka, make-upistka Cię wkurwia",
       "translation": "On the set of the video, the stylist is crying, the makeup artist is pissing you off",
-      "grammar": "Verbs: cię. Prepositions/case: na + acc (onto) / loc (on). Meaning: 'On the set of the video, the stylist is crying, the makeup artist is pissing you off'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "cię (1sg ending -ę); na → acc (onto) / loc (on); Meaning: 'On the set of the video, the stylist is crying, the makeup artist is pissing you off'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 63.829,
       "text": "Po paru burdach kręcisz sam, nie masz kogo zatrudniać",
       "translation": "After a few fights, you're on your own, you have no one to hire",
-      "grammar": "Verbs: kręcisz, sam, masz. Prepositions/case: po + loc/acc. Meaning: 'After a few fights, you're on your own, you have no one to hire'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "kręcisz (present 2sg), sam (present 1sg), masz (present 2sg); po → loc/acc; Meaning: 'After a few fights, you're on your own, you have no one to hire'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 67.289,
       "text": "Zasada trzecia — nie jesteś z ulic tylko z przedmieścia",
       "translation": "Rule three - you're not from the streets, you're from the suburbs",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: z/ze + genitive (from/out of). Meaning: 'Rule three - you're not from the streets, you're from the suburbs'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "z/ze → genitive (from/out of); Meaning: 'Rule three - you're not from the streets, you're from the suburbs'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 70.749,
       "text": "Więc nie nawijaj o Roadmanach i shooterach w tych wersach (po-po-po)",
       "translation": "So don't talk about Roadmen and shooters in these lines (po-po-po)",
-      "grammar": "Verbs: nawijaj (prefix na- affects meaning). Prepositions/case: o + loc/acc depending on phrase; w/we + acc (into) / loc (in); po + loc/acc. Meaning: 'So don't talk about Roadmen and shooters in these lines (po-po-po)'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "nawijaj (prefix na-); o → loc/acc depending on phrase; w/we → acc (into) / loc (in); po → loc/acc; Meaning: 'So don't talk about Roadmen and shooters in these lines (po-po-po)'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 75.612,
       "text": "Porównując sceny, my chodzimy w Pampersach",
       "translation": "Comparing scenes, we are walking around in Pampers",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: w/we + acc (into) / loc (in). Meaning: 'Comparing scenes, we are walking around in Pampers'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "w/we → acc (into) / loc (in); Meaning: 'Comparing scenes, we are walking around in Pampers'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 78.02,
       "text": "Ciągle nawijasz o oppsach (mówimy tu o tych chłopcach?)",
       "translation": "You keep going on about opps (are we talking about those boys here?)",
-      "grammar": "Verbs: nawijasz (prefix na- affects meaning). Prepositions/case: o + loc/acc depending on phrase. Meaning: 'You keep going on about opps (are we talking about those boys here?)'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "nawijasz (prefix na-, present 2sg); o → loc/acc depending on phrase; Meaning: 'You keep going on about opps (are we talking about those boys here?)'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 81.479,
       "text": "Następnie zasada piąta — mordo, przeczytaj ten kontrakt",
       "translation": "Then rule five – dude, read this contract",
-      "grammar": "Verbs: przeczytaj (prefix prze- affects meaning). Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Then rule five – dude, read this contract'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "przeczytaj (prefix prze-); watch case/contracao after prepositions; Meaning: 'Then rule five – dude, read this contract'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 84.238,
       "text": "Wiem, że jest długi, a już chcesz mieć tę zaliczkę na kontach",
       "translation": "I know it's long, and you already want to have that advance on your accounts",
-      "grammar": "Verbs: chcesz, mieć, zaliczkę (prefix z- affects meaning). Prepositions/case: na + acc (onto) / loc (on). Meaning: 'I know it's long, and you already want to have that advance on your accounts'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "chcesz (present 2sg), mieć, zaliczkę (prefix z-, 1sg ending -ę); na → acc (onto) / loc (on); Meaning: 'I know it's long, and you already want to have that advance on your accounts'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 88.75,
       "text": "Dziś nawet label independent ma praktyki z majorsa",
       "translation": "Nowadays, even independent labels have experience with majors.",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: z/ze + genitive (from/out of). Meaning: 'Nowadays, even independent labels have experience with majors.'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "z/ze → genitive (from/out of); Meaning: 'Nowadays, even independent labels have experience with majors.'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 91.859,
       "text": "Wszystko wydałeś na pendant, potem pytasz, \"Gdzie forsa?\" (Let's go!)",
       "translation": "You spent it all on a pendant, then you ask, \"Where's the money?\" (Let's go!)",
-      "grammar": "Verbs: potem (prefix po- affects meaning), pytasz. Prepositions/case: na + acc (onto) / loc (on). Meaning: 'You spent it all on a pendant, then you ask, \"Where's the money?\" (Let's go!)'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "potem (prefix po-, present 1sg), pytasz (present 2sg); na → acc (onto) / loc (on); Meaning: 'You spent it all on a pendant, then you ask, \"Where's the money?\" (Let's go!)'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 96.021,
       "text": "Twoje day one'y, Twoje day one'y Cię zostawią",
       "translation": "Your day ones, your day ones will leave you",
-      "grammar": "Verbs: cię. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Your day ones, your day ones will leave you'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "cię (1sg ending -ę); watch case/contracao after prepositions; Meaning: 'Your day ones, your day ones will leave you'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 99.831,
       "text": "Pusty backstage jak już będziesz mniej znany (pojebane)",
       "translation": "Empty backstage once you're less known (fucked up)",
-      "grammar": "Verbs: będziesz. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Empty backstage once you're less known (fucked up)'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "będziesz (present 2sg); watch case/contracao after prepositions; Meaning: 'Empty backstage once you're less known (fucked up)'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 102.94,
       "text": "Dziś są Gucci glasses, a nie Ray-bany",
       "translation": "Today it's Gucci glasses, not Ray-Bans",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Today it's Gucci glasses, not Ray-Bans'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "watch case/contracao after prepositions; Meaning: 'Today it's Gucci glasses, not Ray-Bans'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 106.05,
       "text": "Każdy jest wydripowany, miało być na dom dla mamy, lecz (ej)",
       "translation": "Everyone is dripping, it was supposed to be for a house for my mom, but (hey)",
-      "grammar": "Verbs: być. Prepositions/case: na + acc (onto) / loc (on). Meaning: 'Everyone is dripping, it was supposed to be for a house for my mom, but (hey)'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "być; na → acc (onto) / loc (on); Meaning: 'Everyone is dripping, it was supposed to be for a house for my mom, but (hey)'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 110.211,
       "text": "Twoje day one'y, Twoje day one'y Cię zostawią",
       "translation": "Your day ones, your day ones will leave you",
-      "grammar": "Verbs: cię. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Your day ones, your day ones will leave you'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "cię (1sg ending -ę); watch case/contracao after prepositions; Meaning: 'Your day ones, your day ones will leave you'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 114.022,
       "text": "Pusty backstage jak już będziesz mniej znany (pojebane)",
       "translation": "Empty backstage once you're less known (fucked up)",
-      "grammar": "Verbs: będziesz. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Empty backstage once you're less known (fucked up)'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "będziesz (present 2sg); watch case/contracao after prepositions; Meaning: 'Empty backstage once you're less known (fucked up)'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 117.131,
       "text": "Dziś są Gucci glasses, a nie Ray-bany",
       "translation": "Today it's Gucci glasses, not Ray-Bans",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Today it's Gucci glasses, not Ray-Bans'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "watch case/contracao after prepositions; Meaning: 'Today it's Gucci glasses, not Ray-Bans'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 120.24,
       "text": "Każdy jest wydripowany, miało być na dom dla mamy, lecz",
       "translation": "Everyone is dripping, it was supposed to be for a house for my mom, but",
-      "grammar": "Verbs: być. Prepositions/case: na + acc (onto) / loc (on). Meaning: 'Everyone is dripping, it was supposed to be for a house for my mom, but'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "być; na → acc (onto) / loc (on); Meaning: 'Everyone is dripping, it was supposed to be for a house for my mom, but'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 124.051,
       "text": "Zasada numer six — nie wydaj fortuny na drip",
       "translation": "Rule number six - don't spend a fortune on drip",
-      "grammar": "Verbs: wydaj (prefix wy- affects meaning). Prepositions/case: na + acc (onto) / loc (on). Meaning: 'Rule number six - don't spend a fortune on drip'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "wydaj (prefix wy-); na → acc (onto) / loc (on); Meaning: 'Rule number six - don't spend a fortune on drip'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 127.16,
       "text": "Nie płać im sumy za feat, jak i tak w sumie jest mid",
       "translation": "Don't pay them a fortune for the feat, it's basically mid anyway",
-      "grammar": "Verbs: płać. Prepositions/case: w/we + acc (into) / loc (in). Meaning: 'Don't pay them a fortune for the feat, it's basically mid anyway'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "płać; w/we → acc (into) / loc (in); Meaning: 'Don't pay them a fortune for the feat, it's basically mid anyway'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 132.023,
       "text": "Jak żądasz duży plik, bierzesz hajsy grube za geek",
       "translation": "If you demand a large file, you get big bucks for geek",
-      "grammar": "Verbs: żądasz, bierzesz. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'If you demand a large file, you get big bucks for geek'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "żądasz (present 2sg), bierzesz (present 2sg); watch case/contracao after prepositions; Meaning: 'If you demand a large file, you get big bucks for geek'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 135.483,
       "text": "To chociaż nawiń coś na żywo, tak nie umie już nikt",
       "translation": "At least say something live, no one can do that anymore",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: na + acc (onto) / loc (on). Meaning: 'At least say something live, no one can do that anymore'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "na → acc (onto) / loc (on); Meaning: 'At least say something live, no one can do that anymore'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 139.644,
       "text": "Zasada ósma — weź się nie podpisuj na biustach",
       "translation": "Rule eight - don't sign your breasts",
-      "grammar": "Verbs: się. Prepositions/case: na + acc (onto) / loc (on). Meaning: 'Rule eight - don't sign your breasts'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "się (1sg ending -ę); na → acc (onto) / loc (on); Meaning: 'Rule eight - don't sign your breasts'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 142.753,
       "text": "Ej, stary, zrobiłem to raz, wiem, widziałem na grupkach",
       "translation": "Hey man, I did it once, I know, I saw it on groups",
-      "grammar": "Verbs: zrobiłem (prefix z- affects meaning), widziałem (prefix w- affects meaning). Prepositions/case: na + acc (onto) / loc (on). Meaning: 'Hey man, I did it once, I know, I saw it on groups'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "zrobiłem (prefix z-, past 1sg), widziałem (prefix w-, past 1sg); na → acc (onto) / loc (on); Meaning: 'Hey man, I did it once, I know, I saw it on groups'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 146.213,
       "text": "Nie bierz tych groupies na hotel, nie lej im wódy do kubka",
       "translation": "Don't take these groupies to the hotel, don't pour vodka into their cup",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: na + acc (onto) / loc (on); do + genitive (toward). Meaning: 'Don't take these groupies to the hotel, don't pour vodka into their cup'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "na → acc (onto) / loc (on); do → genitive (toward); Meaning: 'Don't take these groupies to the hotel, don't pour vodka into their cup'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 150.725,
       "text": "Strzel fotę, sklej pionę, no i powiedz jej, \"Good luck\"",
       "translation": "Take a photo, glue the piece together, and tell her, \"Good luck!\"",
-      "grammar": "Verbs: fotę, pionę. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Take a photo, glue the piece together, and tell her, \"Good luck!\"'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "fotę (1sg ending -ę), pionę (1sg ending -ę); watch case/contracao after prepositions; Meaning: 'Take a photo, glue the piece together, and tell her, \"Good luck!\"'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 154.536,
       "text": "Number nine should've been number one to me",
       "translation": "Number nine should've been number one to me",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Number nine should've been number one to me'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "watch case/contracao after prepositions; Meaning: 'Number nine should've been number one to me'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 157.996,
       "text": "Tutaj każdy chce Cię przyciąć, więc negocjuj fit",
       "translation": "Here everyone wants to trim you, so negotiate fit",
-      "grammar": "Verbs: tutaj, cię. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Here everyone wants to trim you, so negotiate fit'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "tutaj, cię (1sg ending -ę); watch case/contracao after prepositions; Meaning: 'Here everyone wants to trim you, so negotiate fit'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 161.105,
       "text": "I to jasne, każdy z nas chce być jak ODB",
       "translation": "And it's clear, each of us wants to be like ODB",
-      "grammar": "Verbs: być. Prepositions/case: z/ze + genitive (from/out of). Meaning: 'And it's clear, each of us wants to be like ODB'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "być; z/ze → genitive (from/out of); Meaning: 'And it's clear, each of us wants to be like ODB'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 164.916,
       "text": "Ale jak budujesz funbase, daj im show za free",
       "translation": "But if you're building a funbase, give them a show for free.",
-      "grammar": "Verbs: budujesz, daj. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'But if you're building a funbase, give them a show for free.'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "budujesz (present 2sg), daj; watch case/contracao after prepositions; Meaning: 'But if you're building a funbase, give them a show for free.'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 168.376,
       "text": "I zasada dziesięć — szanuj fanów kieszeń",
       "translation": "And rule ten - respect your fans' pockets",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'And rule ten - respect your fans' pockets'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "watch case/contracao after prepositions; Meaning: 'And rule ten - respect your fans' pockets'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 170.783,
       "text": "Nie-nie-nie wydawaj byle czego, nie kuś tanim merchem",
       "translation": "No-no-don't spend just anything, don't tempt with cheap merchandise",
-      "grammar": "Verbs: wydawaj (prefix wy- affects meaning). Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'No-no-don't spend just anything, don't tempt with cheap merchandise'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "wydawaj (prefix wy-); watch case/contracao after prepositions; Meaning: 'No-no-don't spend just anything, don't tempt with cheap merchandise'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 174.594,
       "text": "Bo Cię kochają, wezmą wszystko, co im wpadnie w ręcę",
       "translation": "Because they love you, they will take anything they can get their hands on.",
-      "grammar": "Verbs: cię, kochają, ręcę. Prepositions/case: w/we + acc (into) / loc (in). Meaning: 'Because they love you, they will take anything they can get their hands on.'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "cię (1sg ending -ę), kochają (present 3pl), ręcę (1sg ending -ę); w/we → acc (into) / loc (in); Meaning: 'Because they love you, they will take anything they can get their hands on.'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 178.405,
       "text": "Będzie Ci głupio wozić dupę dojebanym Benzem, wuh",
       "translation": "You'll feel bad driving around in a shitty Benz, wuh",
-      "grammar": "Verbs: wozić (prefix w- affects meaning), dupę, benzem. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'You'll feel bad driving around in a shitty Benz, wuh'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "wozić (prefix w-), dupę (1sg ending -ę), benzem (present 1sg); watch case/contracao after prepositions; Meaning: 'You'll feel bad driving around in a shitty Benz, wuh'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 181.514,
       "text": "Twoje day one'y, Twoje day one'y Cię zostawią",
       "translation": "Your day ones, your day ones will leave you",
-      "grammar": "Verbs: cię. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Your day ones, your day ones will leave you'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "cię (1sg ending -ę); watch case/contracao after prepositions; Meaning: 'Your day ones, your day ones will leave you'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 185.324,
       "text": "Pusty backstage jak już będziesz mniej znany (pojebane)",
       "translation": "Empty backstage once you're less known (fucked up)",
-      "grammar": "Verbs: będziesz. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Empty backstage once you're less known (fucked up)'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "będziesz (present 2sg); watch case/contracao after prepositions; Meaning: 'Empty backstage once you're less known (fucked up)'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 188.434,
       "text": "Dziś są Gucci glasses, a nie Ray-bany",
       "translation": "Today it's Gucci glasses, not Ray-Bans",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Today it's Gucci glasses, not Ray-Bans'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "watch case/contracao after prepositions; Meaning: 'Today it's Gucci glasses, not Ray-Bans'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 191.543,
       "text": "Każdy jest wydripowany, miało być na dom dla mamy, lecz (ej)",
       "translation": "Everyone is dripping, it was supposed to be for a house for my mom, but (hey)",
-      "grammar": "Verbs: być. Prepositions/case: na + acc (onto) / loc (on). Meaning: 'Everyone is dripping, it was supposed to be for a house for my mom, but (hey)'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "być; na → acc (onto) / loc (on); Meaning: 'Everyone is dripping, it was supposed to be for a house for my mom, but (hey)'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 195.704,
       "text": "Twoje day one'y, Twoje day one'y Cię zostawią",
       "translation": "Your day ones, your day ones will leave you",
-      "grammar": "Verbs: cię. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Your day ones, your day ones will leave you'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "cię (1sg ending -ę); watch case/contracao after prepositions; Meaning: 'Your day ones, your day ones will leave you'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 199.515,
       "text": "Pusty backstage jak już będziesz mniej znany (pojebane)",
       "translation": "Empty backstage once you're less known (fucked up)",
-      "grammar": "Verbs: będziesz. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Empty backstage once you're less known (fucked up)'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "będziesz (present 2sg); watch case/contracao after prepositions; Meaning: 'Empty backstage once you're less known (fucked up)'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 202.624,
       "text": "Dziś są Gucci glasses, a nie Ray-bany",
       "translation": "Today it's Gucci glasses, not Ray-Bans",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Today it's Gucci glasses, not Ray-Bans'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "watch case/contracao after prepositions; Meaning: 'Today it's Gucci glasses, not Ray-Bans'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 205.733,
       "text": "Każdy jest wydripowany, miało być na dom dla mamy, lecz",
       "translation": "Everyone is dripping, it was supposed to be for a house for my mom, but",
-      "grammar": "Verbs: być. Prepositions/case: na + acc (onto) / loc (on). Meaning: 'Everyone is dripping, it was supposed to be for a house for my mom, but'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "być; na → acc (onto) / loc (on); Meaning: 'Everyone is dripping, it was supposed to be for a house for my mom, but'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 209.544,
       "text": "Zasada czwarta — jak dobrego masz Day One'a masz farta",
       "translation": "Rule Four - If you have a good Day One, you're lucky",
-      "grammar": "Verbs: masz. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Rule Four - If you have a good Day One, you're lucky'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "masz (present 2sg); watch case/contracao after prepositions; Meaning: 'Rule Four - If you have a good Day One, you're lucky'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 213.354,
       "text": "Lecz sprawdź czy jest z tobą zawsze, czy tylko gdy lejesz szampan",
       "translation": "But check if he is always with you or only when you pour champagne.",
-      "grammar": "Verbs: lejesz. Prepositions/case: z/ze + genitive (from/out of). Meaning: 'But check if he is always with you or only when you pour champagne.'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "lejesz (present 2sg); z/ze → genitive (from/out of); Meaning: 'But check if he is always with you or only when you pour champagne.'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 217.867,
       "text": "Czy jak powierzysz tajemnice nie wyśpiewa jak Sampha",
       "translation": "If you tell him your secrets, won't he sing like Sampha?",
-      "grammar": "Verbs: powierzysz (prefix po- affects meaning). Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'If you tell him your secrets, won't he sing like Sampha?'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "powierzysz (prefix po-, present 2sg); watch case/contracao after prepositions; Meaning: 'If you tell him your secrets, won't he sing like Sampha?'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 220.976,
       "text": "Gdy się zacznie wycofywać, niech zapali się lampka",
       "translation": "When he starts to retreat, let the light go on",
-      "grammar": "Verbs: się, wycofywać (prefix wy- affects meaning). Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'When he starts to retreat, let the light go on'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "się (1sg ending -ę), wycofywać (prefix wy-); watch case/contracao after prepositions; Meaning: 'When he starts to retreat, let the light go on'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 224.085,
       "text": "Zasada siódma — pamiętaj, branża bywa okrutna",
       "translation": "Rule Seven - Remember, the industry can be cruel",
-      "grammar": "Verbs: pamiętaj. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Rule Seven - Remember, the industry can be cruel'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "pamiętaj; watch case/contracao after prepositions; Meaning: 'Rule Seven - Remember, the industry can be cruel'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 226.493,
       "text": "Czasami przyjaźń jest piękna, czasami przyjaźń jest złudna",
       "translation": "Sometimes friendship is beautiful, sometimes friendship is illusory",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Sometimes friendship is beautiful, sometimes friendship is illusory'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "watch case/contracao after prepositions; Meaning: 'Sometimes friendship is beautiful, sometimes friendship is illusory'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 229.602,
       "text": "Nie warto wsadzać wszystkich naraz do tego samego pudła",
       "translation": "It's not worth putting everyone in the same box at once.",
-      "grammar": "Verbs: wsadzać (prefix w- affects meaning). Prepositions/case: do + genitive (toward). Meaning: 'It's not worth putting everyone in the same box at once.'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "wsadzać (prefix w-); do → genitive (toward); Meaning: 'It's not worth putting everyone in the same box at once.'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 233.062,
       "text": "Nie każdy day one jest złotem, nie każdy obcy to kurwa",
       "translation": "Not every day one is gold, not every stranger is a whore",
-      "grammar": "Verbs: złotem (prefix z- affects meaning). Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Not every day one is gold, not every stranger is a whore'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "złotem (prefix z-, present 1sg); watch case/contracao after prepositions; Meaning: 'Not every day one is gold, not every stranger is a whore'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     }
   ]
 }

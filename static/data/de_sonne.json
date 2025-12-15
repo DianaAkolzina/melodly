@@ -13,241 +13,241 @@
       "time": 0.0,
       "text": "Eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, aus",
       "translation": "One, two, three, four, five, six, seven, eight, nine, out",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: aus + dative. Meaning: 'One, two, three, four, five, six, seven, eight, nine, out'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "aus → dative (out of); Meaning: 'One, two, three, four, five, six, seven, eight, nine, out'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 3.672,
       "text": "Alle warten auf das Licht",
       "translation": "Everyone is waiting for the light",
-      "grammar": "Verbs: warten. Prepositions/case: auf + acc (onto) / dat (on). Meaning: 'Everyone is waiting for the light'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "warten (infinitive/plural); auf → acc (onto) / dat (on); Meaning: 'Everyone is waiting for the light'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 5.659,
       "text": "Fürchtet euch, fürchtet euch nicht",
       "translation": "Fear not, fear not",
-      "grammar": "Verbs: fürchtet. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Fear not, fear not'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "fürchtet (3sg/2pl present); watch case/contracao after prepositions; Meaning: 'Fear not, fear not'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 7.645,
       "text": "Die Sonne scheint mir aus den Augen",
       "translation": "The sun is shining out of my eyes",
-      "grammar": "Verbs: scheint, den. Prepositions/case: aus + dative. Meaning: 'The sun is shining out of my eyes'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "scheint (3sg/2pl present), den (infinitive/plural); aus → dative (out of); Meaning: 'The sun is shining out of my eyes'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 10.306,
       "text": "Sie wird heut Nacht nicht untergeh'n",
       "translation": "She will not go down tonight",
-      "grammar": "Verbs: heut. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'She will not go down tonight'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "heut (3sg/2pl present); watch case/contracao after prepositions; Meaning: 'She will not go down tonight'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 12.966,
       "text": "Und die Welt zählt laut bis zehn",
       "translation": "And the world counts aloud to ten",
-      "grammar": "Verbs: zählt, laut. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'And the world counts aloud to ten'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "zählt (3sg/2pl present), laut (3sg/2pl present); watch case/contracao after prepositions; Meaning: 'And the world counts aloud to ten'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 15.627,
       "text": "Eins, hier kommt die Sonne",
       "translation": "One, here comes the sun",
-      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'One, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "kommt (3sg/2pl present); watch case/contracao after prepositions; Meaning: 'One, here comes the sun'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 17.613,
       "text": "Zwei, hier kommt die Sonne",
       "translation": "Two, here comes the sun",
-      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Two, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "kommt (3sg/2pl present); watch case/contracao after prepositions; Meaning: 'Two, here comes the sun'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 19.6,
       "text": "Drei, sie ist der hellste Stern von allen",
       "translation": "Three, she is the brightest star of all",
-      "grammar": "Verbs: ist, allen. Prepositions/case: von + dative. Meaning: 'Three, she is the brightest star of all'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "ist (2sg present), allen (infinitive/plural); von → dative (from); Meaning: 'Three, she is the brightest star of all'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 22.598,
       "text": "Vier, hier kommt die Sonne",
       "translation": "Four, here comes the sun",
-      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Four, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "kommt (3sg/2pl present); watch case/contracao after prepositions; Meaning: 'Four, here comes the sun'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 24.584,
       "text": "Die Sonne scheint mir aus den Händen",
       "translation": "The sun shines from my hands",
-      "grammar": "Verbs: scheint, den. Prepositions/case: aus + dative. Meaning: 'The sun shines from my hands'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "scheint (3sg/2pl present), den (infinitive/plural); aus → dative (out of); Meaning: 'The sun shines from my hands'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 27.245,
       "text": "Kann verbrennen, kann euch blenden",
       "translation": "It can burn you, it can blind you",
-      "grammar": "Verbs: verbrennen, blenden. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'It can burn you, it can blind you'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "verbrennen (infinitive/plural), blenden (infinitive/plural); watch case/contracao after prepositions; Meaning: 'It can burn you, it can blind you'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 29.231,
       "text": "Wenn sie aus den Fäusten bricht",
       "translation": "When it breaks from the fists",
-      "grammar": "Verbs: den, bricht. Prepositions/case: aus + dative. Meaning: 'When it breaks from the fists'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "den (infinitive/plural), bricht (3sg/2pl present); aus → dative (out of); Meaning: 'When it breaks from the fists'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 31.554,
       "text": "Legt sich heiß auf das Gesicht",
       "translation": "It lies hot on the face",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: auf + acc (onto) / dat (on). Meaning: 'It lies hot on the face'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "auf → acc (onto) / dat (on); Meaning: 'It lies hot on the face'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 33.878,
       "text": "Sie wird heut Nacht nicht untergeh'n",
       "translation": "She will not go down tonight",
-      "grammar": "Verbs: heut. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'She will not go down tonight'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "heut (3sg/2pl present); watch case/contracao after prepositions; Meaning: 'She will not go down tonight'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 36.538,
       "text": "Und die Welt zählt laut bis zehn",
       "translation": "And the world counts aloud to ten",
-      "grammar": "Verbs: zählt, laut. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'And the world counts aloud to ten'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "zählt (3sg/2pl present), laut (3sg/2pl present); watch case/contracao after prepositions; Meaning: 'And the world counts aloud to ten'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 39.199,
       "text": "Eins, hier kommt die Sonne",
       "translation": "One, here comes the sun",
-      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'One, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "kommt (3sg/2pl present); watch case/contracao after prepositions; Meaning: 'One, here comes the sun'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 41.185,
       "text": "Zwei, hier kommt die Sonne",
       "translation": "Two, here comes the sun",
-      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Two, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "kommt (3sg/2pl present); watch case/contracao after prepositions; Meaning: 'Two, here comes the sun'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 43.172,
       "text": "Drei, sie ist der hellste Stern von allen",
       "translation": "Three, she is the brightest star of all",
-      "grammar": "Verbs: ist, allen. Prepositions/case: von + dative. Meaning: 'Three, she is the brightest star of all'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "ist (2sg present), allen (infinitive/plural); von → dative (from); Meaning: 'Three, she is the brightest star of all'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 46.17,
       "text": "Vier, hier kommt die Sonne",
       "translation": "Four, here comes the sun",
-      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Four, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "kommt (3sg/2pl present); watch case/contracao after prepositions; Meaning: 'Four, here comes the sun'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 48.156,
       "text": "Fünf, hier kommt die Sonne",
       "translation": "Five, here comes the sun",
-      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Five, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "kommt (3sg/2pl present); watch case/contracao after prepositions; Meaning: 'Five, here comes the sun'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 50.142,
       "text": "Sechs, hier kommt die Sonne",
       "translation": "Six, here comes the sun",
-      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Six, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "kommt (3sg/2pl present); watch case/contracao after prepositions; Meaning: 'Six, here comes the sun'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 52.128,
       "text": "Sieben, sie ist der hellste Stern von allen",
       "translation": "Seven, it is the brightest star of all",
-      "grammar": "Verbs: ist, allen. Prepositions/case: von + dative. Meaning: 'Seven, it is the brightest star of all'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "ist (2sg present), allen (infinitive/plural); von → dative (from); Meaning: 'Seven, it is the brightest star of all'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 55.126,
       "text": "Acht, neun, hier kommt die Sonne",
       "translation": "Eight, nine, here comes the sun",
-      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Eight, nine, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "kommt (3sg/2pl present); watch case/contracao after prepositions; Meaning: 'Eight, nine, here comes the sun'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 57.45,
       "text": "Die Sonne scheint mir aus den Händen",
       "translation": "The sun shines from my hands",
-      "grammar": "Verbs: scheint, den. Prepositions/case: aus + dative. Meaning: 'The sun shines from my hands'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "scheint (3sg/2pl present), den (infinitive/plural); aus → dative (out of); Meaning: 'The sun shines from my hands'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 60.111,
       "text": "Kann verbrennen, kann dich blenden",
       "translation": "It can burn you, it can blind you",
-      "grammar": "Verbs: verbrennen, blenden. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'It can burn you, it can blind you'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "verbrennen (infinitive/plural), blenden (infinitive/plural); watch case/contracao after prepositions; Meaning: 'It can burn you, it can blind you'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 62.097,
       "text": "Wenn sie aus den Fäusten bricht",
       "translation": "When it breaks from the fists",
-      "grammar": "Verbs: den, bricht. Prepositions/case: aus + dative. Meaning: 'When it breaks from the fists'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "den (infinitive/plural), bricht (3sg/2pl present); aus → dative (out of); Meaning: 'When it breaks from the fists'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 64.42,
       "text": "Legt sich heiß auf dein Gesicht",
       "translation": "It lies hot on your face",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: auf + acc (onto) / dat (on). Meaning: 'It lies hot on your face'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "auf → acc (onto) / dat (on); Meaning: 'It lies hot on your face'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 66.744,
       "text": "Legt sich schmerzend auf die Brust",
       "translation": "It lies painfully on the chest",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: auf + acc (onto) / dat (on). Meaning: 'It lies painfully on the chest'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "auf → acc (onto) / dat (on); Meaning: 'It lies painfully on the chest'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 69.067,
       "text": "Das Gleichgewicht wird zum Verlust",
       "translation": "The balance becomes a loss",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'The balance becomes a loss'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "watch case/contracao after prepositions; Meaning: 'The balance becomes a loss'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 71.053,
       "text": "Lässt dich hart zu Boden geh'n",
       "translation": "It brings you down hard.",
-      "grammar": "Verbs: hart. Prepositions/case: zu + dative. Meaning: 'It brings you down hard.'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "hart (3sg/2pl present); zu → dative (toward); Meaning: 'It brings you down hard.'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 73.714,
       "text": "Und die Welt zählt laut bis zehn",
       "translation": "And the world counts aloud to ten",
-      "grammar": "Verbs: zählt, laut. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'And the world counts aloud to ten'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "zählt (3sg/2pl present), laut (3sg/2pl present); watch case/contracao after prepositions; Meaning: 'And the world counts aloud to ten'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 76.375,
       "text": "Eins, hier kommt die Sonne",
       "translation": "One, here comes the sun",
-      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'One, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "kommt (3sg/2pl present); watch case/contracao after prepositions; Meaning: 'One, here comes the sun'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 78.361,
       "text": "Zwei, hier kommt die Sonne",
       "translation": "Two, here comes the sun",
-      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Two, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "kommt (3sg/2pl present); watch case/contracao after prepositions; Meaning: 'Two, here comes the sun'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 80.347,
       "text": "Drei, sie ist der hellste Stern von allen",
       "translation": "Three, she is the brightest star of all",
-      "grammar": "Verbs: ist, allen. Prepositions/case: von + dative. Meaning: 'Three, she is the brightest star of all'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "ist (2sg present), allen (infinitive/plural); von → dative (from); Meaning: 'Three, she is the brightest star of all'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 83.345,
       "text": "Vier, und wird nie vom Himmel fallen",
       "translation": "Four, and will never fall from the sky",
-      "grammar": "Verbs: fallen. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Four, and will never fall from the sky'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "fallen (infinitive/plural); watch case/contracao after prepositions; Meaning: 'Four, and will never fall from the sky'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 86.006,
       "text": "Fünf, hier kommt die Sonne",
       "translation": "Five, here comes the sun",
-      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Five, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "kommt (3sg/2pl present); watch case/contracao after prepositions; Meaning: 'Five, here comes the sun'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 87.992,
       "text": "Sechs, hier kommt die Sonne",
       "translation": "Six, here comes the sun",
-      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Six, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "kommt (3sg/2pl present); watch case/contracao after prepositions; Meaning: 'Six, here comes the sun'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 89.979,
       "text": "Sieben, sie ist der hellste Stern von allen",
       "translation": "Seven, it is the brightest star of all",
-      "grammar": "Verbs: ist, allen. Prepositions/case: von + dative. Meaning: 'Seven, it is the brightest star of all'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "ist (2sg present), allen (infinitive/plural); von → dative (from); Meaning: 'Seven, it is the brightest star of all'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     },
     {
       "time": 92.977,
       "text": "Acht, neun, hier kommt die Sonne",
       "translation": "Eight, nine, here comes the sun",
-      "grammar": "Verbs: kommt. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Eight, nine, here comes the sun'. V2 word order; separable prefixes move to clause end; cases follow prepositions."
+      "grammar": "kommt (3sg/2pl present); watch case/contracao after prepositions; Meaning: 'Eight, nine, here comes the sun'; Remember V2 word order; separable prefixes often sit at the end; cases follow the given prepositions."
     }
   ]
 }

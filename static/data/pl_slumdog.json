@@ -13,265 +13,265 @@
       "time": 0.0,
       "text": "Yeah, yeah, teraz by chcieli być jak ja",
       "translation": "Yeah, yeah, now they want to be like me",
-      "grammar": "Verbs: być. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Yeah, yeah, now they want to be like me'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "być; watch case/contracao after prepositions; Meaning: 'Yeah, yeah, now they want to be like me'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 3.089,
       "text": "Nie raz nie robisz nic, jak ja",
       "translation": "You don't do anything like me sometimes",
-      "grammar": "Verbs: robisz. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'You don't do anything like me sometimes'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "robisz (present 2sg); watch case/contracao after prepositions; Meaning: 'You don't do anything like me sometimes'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 5.829,
       "text": "Mieć sos i taki fit—",
       "translation": "Have sauce and such fit—",
-      "grammar": "Verbs: mieć. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Have sauce and such fit—'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "mieć; watch case/contracao after prepositions; Meaning: 'Have sauce and such fit—'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 7.872,
       "text": "Ej, ej, ej (yo)",
       "translation": "Hey, hey, hey (yo)",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Hey, hey, hey (yo)'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "watch case/contracao after prepositions; Meaning: 'Hey, hey, hey (yo)'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 9.566,
       "text": "Dawaj mi klucze do miasta, bo jak wracam tam, to czuję się jak Slumdog",
       "translation": "Give me the keys to the city, because when I go back there I feel like Slumdog Millionaire.",
-      "grammar": "Verbs: dawaj, wracam (prefix w- affects meaning), tam. Prepositions/case: do + genitive (toward). Meaning: 'Give me the keys to the city, because when I go back there I feel like Slumdog Millionaire.'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "dawaj, wracam (prefix w-, present 1sg), tam (present 1sg); do → genitive (toward); Meaning: 'Give me the keys to the city, because when I go back there I feel like Slumdog Millionaire.'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 14.746,
       "text": "Nie śmigam na pieszo, lecz z daleka słychać warkot",
       "translation": "I'm not on foot, but I can hear the roar from afar",
-      "grammar": "Verbs: śmigam, słychać. Prepositions/case: na + acc (onto) / loc (on); z/ze + genitive (from/out of). Meaning: 'I'm not on foot, but I can hear the roar from afar'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "śmigam (present 1sg), słychać; na → acc (onto) / loc (on); z/ze → genitive (from/out of); Meaning: 'I'm not on foot, but I can hear the roar from afar'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 18.183,
       "text": "Za mną kordon na rowerach i ktoś jedzie rafką",
       "translation": "Behind me there is a cordon of bikes and someone is riding a raft",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: na + acc (onto) / loc (on). Meaning: 'Behind me there is a cordon of bikes and someone is riding a raft'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "na → acc (onto) / loc (on); Meaning: 'Behind me there is a cordon of bikes and someone is riding a raft'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 21.621,
       "text": "Zatrzymują mnie na światłach i chcą fotkę — mówię: \"bardzo proszę\"",
       "translation": "They stop me at a traffic light and want a photo - I say, \"Please.\"",
-      "grammar": "Verbs: fotkę, mówię, proszę. Prepositions/case: na + acc (onto) / loc (on). Meaning: 'They stop me at a traffic light and want a photo - I say, \"Please.\"'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "fotkę (1sg ending -ę), mówię (1sg ending -ę), proszę (1sg ending -ę); na → acc (onto) / loc (on); Meaning: 'They stop me at a traffic light and want a photo - I say, \"Please.\"'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 25.406,
       "text": "Wjeżdżam w tę alejkę, co łączy się z moim blokiem",
       "translation": "I enter this alley that connects with my block",
-      "grammar": "Verbs: wjeżdżam (prefix w- affects meaning), alejkę, się. Prepositions/case: w/we + acc (into) / loc (in); z/ze + genitive (from/out of). Meaning: 'I enter this alley that connects with my block'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "wjeżdżam (prefix w-, present 1sg), alejkę (1sg ending -ę), się (1sg ending -ę); w/we → acc (into) / loc (in); z/ze → genitive (from/out of); Meaning: 'I enter this alley that connects with my block'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 29.192,
       "text": "Idzie młody, a ja idę o stówę, że niesie koper (smoke)",
       "translation": "Here comes the young one, and I bet he's carrying some smoke",
-      "grammar": "Verbs: idę, stówę. Prepositions/case: o + loc/acc depending on phrase. Meaning: 'Here comes the young one, and I bet he's carrying some smoke'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "idę (1sg ending -ę), stówę (1sg ending -ę); o → loc/acc depending on phrase; Meaning: 'Here comes the young one, and I bet he's carrying some smoke'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 33.327,
       "text": "Tam, gdzie po tej bibie spałem, zbudowali hotel",
       "translation": "Where I slept after that party, they built a hotel",
-      "grammar": "Verbs: tam, spałem. Prepositions/case: po + loc/acc. Meaning: 'Where I slept after that party, they built a hotel'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "tam (present 1sg), spałem (past 1sg); po → loc/acc; Meaning: 'Where I slept after that party, they built a hotel'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 36.415,
       "text": "Sprawdzam zmiany na osiedlu jak jebany deweloper (oh)",
       "translation": "I'm checking the changes in the estate like a fucking developer (oh)",
-      "grammar": "Verbs: sprawdzam. Prepositions/case: na + acc (onto) / loc (on). Meaning: 'I'm checking the changes in the estate like a fucking developer (oh)'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "sprawdzam (present 1sg); na → acc (onto) / loc (on); Meaning: 'I'm checking the changes in the estate like a fucking developer (oh)'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 39.504,
       "text": "I nas wyganiali z dachu, bo mieli to za głupotę",
       "translation": "And they threw us off the roof because they thought it was stupid.",
-      "grammar": "Verbs: głupotę. Prepositions/case: z/ze + genitive (from/out of). Meaning: 'And they threw us off the roof because they thought it was stupid.'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "głupotę (1sg ending -ę); z/ze → genitive (from/out of); Meaning: 'And they threw us off the roof because they thought it was stupid.'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 43.29,
       "text": "Ale jak wyganiali mnie wtedy, nie wiedzieli, że jestem kotem",
       "translation": "But when they were throwing me out, they didn't know I was a cat.",
-      "grammar": "Verbs: jestem, kotem. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'But when they were throwing me out, they didn't know I was a cat.'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "jestem (present 1sg), kotem (present 1sg); watch case/contracao after prepositions; Meaning: 'But when they were throwing me out, they didn't know I was a cat.'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 47.076,
       "text": "Teraz ich dzieci do szkoły mówią: \"mamo, proszę do tej\"",
       "translation": "Now their children go to school saying: \"Mom, please go to this one\"",
-      "grammar": "Verbs: proszę. Prepositions/case: do + genitive (toward). Meaning: 'Now their children go to school saying: \"Mom, please go to this one\"'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "proszę (1sg ending -ę); do → genitive (toward); Meaning: 'Now their children go to school saying: \"Mom, please go to this one\"'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 50.861,
       "text": "No bo Jeżyk dał tam płytę, która pokryła się złotem (wow)",
       "translation": "Well, because Jeżyk released an album there that went gold (wow)",
-      "grammar": "Verbs: tam, płytę, się. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Well, because Jeżyk released an album there that went gold (wow)'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "tam (present 1sg), płytę (1sg ending -ę), się (1sg ending -ę); watch case/contracao after prepositions; Meaning: 'Well, because Jeżyk released an album there that went gold (wow)'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 54.996,
       "text": "Ja, teraz by chcieliby być jak ja",
       "translation": "Me, now they would like to be like me",
-      "grammar": "Verbs: być. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Me, now they would like to be like me'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "być; watch case/contracao after prepositions; Meaning: 'Me, now they would like to be like me'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 57.736,
       "text": "Nie raz nie robić nic, jak ja",
       "translation": "More than once do nothing, like me",
-      "grammar": "Verbs: robić. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'More than once do nothing, like me'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "robić; watch case/contracao after prepositions; Meaning: 'More than once do nothing, like me'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 60.476,
       "text": "Mieć sos i taki fit jak ja",
       "translation": "Have sauce and be as fit as me",
-      "grammar": "Verbs: mieć. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Have sauce and be as fit as me'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "mieć; watch case/contracao after prepositions; Meaning: 'Have sauce and be as fit as me'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 63.216,
       "text": "A wiesz, nie chcieli być jak ja",
       "translation": "And you know, they didn't want to be like me.",
-      "grammar": "Verbs: wiesz (prefix w- affects meaning), być. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'And you know, they didn't want to be like me.'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "wiesz (prefix w-, present 2sg), być; watch case/contracao after prepositions; Meaning: 'And you know, they didn't want to be like me.'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 65.956,
       "text": "Teraz by chcieliby być jak ja",
       "translation": "Now they would like to be like me",
-      "grammar": "Verbs: być. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Now they would like to be like me'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "być; watch case/contracao after prepositions; Meaning: 'Now they would like to be like me'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 68.348,
       "text": "Nie raz nie robić nic, jak ja",
       "translation": "More than once do nothing, like me",
-      "grammar": "Verbs: robić. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'More than once do nothing, like me'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "robić; watch case/contracao after prepositions; Meaning: 'More than once do nothing, like me'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 71.088,
       "text": "Mieć sos i taki fit jak ja",
       "translation": "Have sauce and be as fit as me",
-      "grammar": "Verbs: mieć. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Have sauce and be as fit as me'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "mieć; watch case/contracao after prepositions; Meaning: 'Have sauce and be as fit as me'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 73.828,
       "text": "A wiesz, nie chcieli—",
       "translation": "And you know, they didn't want—",
-      "grammar": "Verbs: wiesz (prefix w- affects meaning). Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'And you know, they didn't want—'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "wiesz (prefix w-, present 2sg); watch case/contracao after prepositions; Meaning: 'And you know, they didn't want—'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 75.522,
       "text": "Właśnie mijam dupę — ona mnie nie chciała, też jej nie chcę teraz",
       "translation": "I'm just passing by the ass - she didn't want me, I don't want her now either",
-      "grammar": "Verbs: mijam, dupę, chcę. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'I'm just passing by the ass - she didn't want me, I don't want her now either'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "mijam (present 1sg), dupę (1sg ending -ę), chcę (1sg ending -ę); watch case/contracao after prepositions; Meaning: 'I'm just passing by the ass - she didn't want me, I don't want her now either'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 80.005,
       "text": "Ale wtedy bym się pociął za nią, zmienił et cetera",
       "translation": "But then I would cut myself for her, change her, etc.",
-      "grammar": "Verbs: się. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'But then I would cut myself for her, change her, etc.'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "się (1sg ending -ę); watch case/contracao after prepositions; Meaning: 'But then I would cut myself for her, change her, etc.'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 83.791,
       "text": "Śmiała się z tych portków i mnie miała za pozera",
       "translation": "She laughed at those pants and thought I was a poseur.",
-      "grammar": "Verbs: się. Prepositions/case: z/ze + genitive (from/out of). Meaning: 'She laughed at those pants and thought I was a poseur.'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "się (1sg ending -ę); z/ze → genitive (from/out of); Meaning: 'She laughed at those pants and thought I was a poseur.'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 87.577,
       "text": "A na trasie coś pisała, czy na backstage ją zabieram? (Woo)",
       "translation": "Did she write anything on the tour, should I take her backstage? (Woo)",
-      "grammar": "Verbs: zabieram (prefix z- affects meaning). Prepositions/case: na + acc (onto) / loc (on). Meaning: 'Did she write anything on the tour, should I take her backstage? (Woo)'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "zabieram (prefix z-, present 1sg); na → acc (onto) / loc (on); Meaning: 'Did she write anything on the tour, should I take her backstage? (Woo)'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 91.711,
       "text": "Ty, a ta z pierwszej ławki była spoko niby (taa)",
       "translation": "You, and the one in the first row was kind of cool (yeah)",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: z/ze + genitive (from/out of). Meaning: 'You, and the one in the first row was kind of cool (yeah)'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "z/ze → genitive (from/out of); Meaning: 'You, and the one in the first row was kind of cool (yeah)'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 95.497,
       "text": "Po lekcjach paliła hajs, z Maroko niby",
       "translation": "After classes she smoked cash, supposedly from Morocco",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: po + loc/acc; z/ze + genitive (from/out of). Meaning: 'After classes she smoked cash, supposedly from Morocco'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "po → loc/acc; z/ze → genitive (from/out of); Meaning: 'After classes she smoked cash, supposedly from Morocco'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 98.237,
       "text": "Co by nie mówić — zawsze miała jakieś perspektywy",
       "translation": "Whatever you say, she always had some prospects",
-      "grammar": "Verbs: mówić. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Whatever you say, she always had some prospects'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "mówić; watch case/contracao after prepositions; Meaning: 'Whatever you say, she always had some prospects'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 101.326,
       "text": "Najwyższe oceny w klasie i prezerwatywy",
       "translation": "Top marks in class and condoms",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: w/we + acc (into) / loc (in). Meaning: 'Top marks in class and condoms'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "w/we → acc (into) / loc (in); Meaning: 'Top marks in class and condoms'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 103.717,
       "text": "Yo, powiedz koleżankom, niech wystawią kolumny na balkon",
       "translation": "Yo, tell your friends to put the speakers on the balcony",
-      "grammar": "Verbs: Identify the main verb and tense/aspect clues.. Prepositions/case: na + acc (onto) / loc (on). Meaning: 'Yo, tell your friends to put the speakers on the balcony'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "na → acc (onto) / loc (on); Meaning: 'Yo, tell your friends to put the speakers on the balcony'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 106.806,
       "text": "Spodoba się to nawet sąsiadkom",
       "translation": "Even the neighbors will like it",
-      "grammar": "Verbs: się. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Even the neighbors will like it'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "się (1sg ending -ę); watch case/contracao after prepositions; Meaning: 'Even the neighbors will like it'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 108.849,
       "text": "Zwołaj tu każdego, kto tu był — ja będę bandą",
       "translation": "Call everyone who was here - I'll be the gang",
-      "grammar": "Verbs: zwołaj (prefix z- affects meaning), będę. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Call everyone who was here - I'll be the gang'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "zwołaj (prefix z-), będę (1sg ending -ę); watch case/contracao after prepositions; Meaning: 'Call everyone who was here - I'll be the gang'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 112.286,
       "text": "A jak coś tu rozjebiemy, to w końcu mam na to banknot",
       "translation": "And if we mess something up here, I finally have a banknote for it.",
-      "grammar": "Verbs: mam. Prepositions/case: w/we + acc (into) / loc (in); na + acc (onto) / loc (on). Meaning: 'And if we mess something up here, I finally have a banknote for it.'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "mam (present 1sg); w/we → acc (into) / loc (in); na → acc (onto) / loc (on); Meaning: 'And if we mess something up here, I finally have a banknote for it.'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 116.769,
       "text": "Ja, teraz by chcieliby być jak ja",
       "translation": "Me, now they would like to be like me",
-      "grammar": "Verbs: być. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Me, now they would like to be like me'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "być; watch case/contracao after prepositions; Meaning: 'Me, now they would like to be like me'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 119.509,
       "text": "Nie raz nie robić nic, jak ja",
       "translation": "More than once do nothing, like me",
-      "grammar": "Verbs: robić. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'More than once do nothing, like me'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "robić; watch case/contracao after prepositions; Meaning: 'More than once do nothing, like me'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 122.249,
       "text": "Mieć sos i taki fit jak ja",
       "translation": "Have sauce and be as fit as me",
-      "grammar": "Verbs: mieć. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Have sauce and be as fit as me'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "mieć; watch case/contracao after prepositions; Meaning: 'Have sauce and be as fit as me'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 124.989,
       "text": "A wiesz, nie chcieli być jak ja",
       "translation": "And you know, they didn't want to be like me.",
-      "grammar": "Verbs: wiesz (prefix w- affects meaning), być. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'And you know, they didn't want to be like me.'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "wiesz (prefix w-, present 2sg), być; watch case/contracao after prepositions; Meaning: 'And you know, they didn't want to be like me.'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 127.729,
       "text": "Teraz by chcieliby być jak ja",
       "translation": "Now they would like to be like me",
-      "grammar": "Verbs: być. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Now they would like to be like me'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "być; watch case/contracao after prepositions; Meaning: 'Now they would like to be like me'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 130.121,
       "text": "Nie raz nie robić nic, jak ja",
       "translation": "More than once do nothing, like me",
-      "grammar": "Verbs: robić. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'More than once do nothing, like me'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "robić; watch case/contracao after prepositions; Meaning: 'More than once do nothing, like me'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 132.861,
       "text": "Mieć sos i taki fit jak ja",
       "translation": "Have sauce and be as fit as me",
-      "grammar": "Verbs: mieć. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'Have sauce and be as fit as me'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "mieć; watch case/contracao after prepositions; Meaning: 'Have sauce and be as fit as me'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     },
     {
       "time": 135.601,
       "text": "A wiesz, nie chcieli być jak—",
       "translation": "And you know, they didn't want to be like—",
-      "grammar": "Verbs: wiesz (prefix w- affects meaning), być. Prepositions/case: Note preposition-driven case or contractions here.. Meaning: 'And you know, they didn't want to be like—'. Aspect and prefixes shift meaning; prepositions choose case."
+      "grammar": "wiesz (prefix w-, present 2sg), być; watch case/contracao after prepositions; Meaning: 'And you know, they didn't want to be like—'; Aspect and prefixes reshape meaning; prepositions enforce specific cases."
     }
   ]
 }
