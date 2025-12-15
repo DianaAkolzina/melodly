@@ -866,14 +866,7 @@
             </label>
           </div>
 
-          <div class="card" id="tsLogCard">
-            <div class="panel-title" style="margin-bottom:6px; display:flex; align-items:center; gap:8px;">
-              <span>Timestamping Log</span>
-              <span style="font-size:.8rem; color: var(--muted);">(last 100 lines)</span>
-              <span id="tsPhaseText" style="margin-left:auto; font-size:.8rem; color: var(--muted);"></span>
-            </div>
-            <pre id="tsLogBox" style="max-height:180px; overflow:auto; background:#0c121e; color:#e8edf7; padding:10px; border-radius:10px; border:1px solid var(--border);"></pre>
-          </div>
+          <div id="tsPhaseText" style="margin:6px 0 12px; font-size:.9rem; color: var(--muted);"></div>
 
           <audio id="audio" preload="none" hidden></audio>
 
@@ -1357,19 +1350,18 @@
   // ---------- Timestamp editing (removed) ----------
   function ensureTsControls() {
     if (els.tsModeChk) return;
-    // Inject a small editor block into the playback pane
     const pane = document.querySelector('.pane + .pane');
     if (!pane) return;
-      const card = document.createElement('div');
-      card.className = 'card';
-      card.innerHTML = `
-        <div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
-        <label style="display:flex; align-items:center; gap:8px; margin-right:8px;"><input id=\"tsModeChk\" type=\"checkbox\" /> Edit timestamps</label>
-        <button id=\"tsMarkBtn\" class=\"btn\" type=\"button\">Mark (T)</button>
-        <button id=\"tsSaveBtn\" class=\"btn secondary\" type=\"button\">Save</button>
-        <span id=\"tsStatus\" style=\"color: var(--muted);\"></span>
+    const card = document.createElement('div');
+    card.className = 'card';
+    card.innerHTML = `
+      <div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
+        <label style="display:flex; align-items:center; gap:8px; margin-right:8px;"><input id="tsModeChk" type="checkbox" /> Edit timestamps</label>
+        <button id="tsMarkBtn" class="btn" type="button">Mark (T)</button>
+        <button id="tsSaveBtn" class="btn secondary" type="button">Save</button>
+        <span id="tsStatus" style="color: var(--muted);"></span>
       </div>`;
-      pane.insertBefore(card, pane.firstChild);
+    pane.insertBefore(card, pane.firstChild);
     els.tsModeChk = document.getElementById('tsModeChk');
     els.tsMarkBtn = document.getElementById('tsMarkBtn');
     els.tsSaveBtn = document.getElementById('tsSaveBtn');
