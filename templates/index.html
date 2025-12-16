@@ -669,7 +669,6 @@
         <span class="topnav__title">Meelange</span>
       </div>
       <button class="cta-connect" id="spotifyConnectTopBtn" type="button">Connect Spotify</button>
-      <span class="status-pill" id="spotifyStatusPill" aria-live="polite" style="display:none">Spotify: Connected</span>
       <button class="topnav__burger" id="burgerBtn" aria-label="Open menu">☰</button>
       <ul class="topnav__menu" id="topMenu">
         <li><a href="/">Home</a></li>
@@ -883,7 +882,7 @@
     aboutOk: document.getElementById('aboutOk'),
     aboutBackdrop: document.getElementById('aboutBackdrop'),
     spotifyConnectTopBtn: document.getElementById('spotifyConnectTopBtn'),
-    spotifyStatusPill: document.getElementById('spotifyStatusPill'),
+    spotifyStatusPill: null,
   };
 
   function applyTheme(dark) {
@@ -952,7 +951,7 @@
     autoScrollChk: document.getElementById('autoScrollChk'),
     progressRange: document.getElementById('progressRange'),
     spotifyConnectTopBtn: document.getElementById('spotifyConnectTopBtn'),
-    spotifyStatusPill: document.getElementById('spotifyStatusPill'),
+    spotifyStatusPill: null,
     spotifyConnectBannerBtn: document.getElementById('spotifyConnectBannerBtn'),
     connectBanner: document.getElementById('connectBanner')
   };
@@ -1925,11 +1924,9 @@
   function updateSpotifyStatus() {
     if (!hasSpotifyAuth) { 
       els.spotifyStatus.textContent = '';
-      if (els.spotifyStatusPill) { els.spotifyStatusPill.style.display = 'none'; }
       return; 
     }
     els.spotifyStatus.textContent = spotifyDeviceReady ? 'Spotify connected' : 'Spotify connected (no active device)';
-    if (els.spotifyStatusPill) { els.spotifyStatusPill.style.display = 'inline-block'; els.spotifyStatusPill.textContent = 'Spotify: Connected'; }
   }
 
   // Init
