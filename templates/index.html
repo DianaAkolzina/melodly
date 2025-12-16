@@ -61,22 +61,9 @@
       position: relative;
     }
 
-    .glow {
-      position: absolute;
-      inset: 0;
-      pointer-events: none;
-      z-index: 0;
-      background:
-        radial-gradient(180px 180px at 18% 8%, rgba(141, 250, 214, 0.06), transparent 50%),
-        radial-gradient(220px 220px at 80% 0%, rgba(126, 184, 255, 0.08), transparent 50%);
-    }
+    .glow { display: none; }
 
     /* Decorative shapes */
-    .shape { position: absolute; pointer-events: none; opacity: 0.12; filter: saturate(110%); z-index: 0; }
-    .blob { background: url('/static/assets/shapes/blob-1.svg') no-repeat center / contain; }
-    .blob--tl { top: -60px; left: -80px; width: 280px; height: 280px; }
-    .blob--br { bottom: -80px; right: -100px; width: 340px; height: 340px; transform: rotate(22deg); }
-
     /* Top Navigation */
     .topnav {
       position: sticky;
@@ -322,25 +309,6 @@
       border: 1px solid var(--border);
       box-shadow: var(--shadow);
     }
-    .header-badges {
-      display: flex;
-      gap: 8px;
-      flex-wrap: wrap;
-      margin-bottom: 12px;
-    }
-    .pill {
-      background: rgba(255,255,255,0.06);
-      color: var(--text);
-      border: 1px solid var(--border);
-      padding: 6px 10px;
-      border-radius: 10px;
-      font-size: 0.85rem;
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
-    }
-    .pill--accent { border-color: rgba(196,181,253,0.6); background: rgba(196,181,253,0.16); color: #0b1220; font-weight: 700; }
-
     .controls {
       display: grid;
       grid-template-columns: 1fr 1fr auto;
@@ -720,12 +688,6 @@
   <div class="app-container">
     <div class="glow" aria-hidden="true"></div>
     <!-- Decorative shapes (non-interactive) -->
-    <div class="shape blob blob--tl" aria-hidden="true"></div>
-    <div class="shape blob blob--br" aria-hidden="true"></div>
-    <img src="/static/assets/shapes/circleelement.png" class="shape" style="top:-30px;left:-30px;width:180px;height:180px;opacity:.10" alt="" aria-hidden="true" />
-    <img src="/static/assets/shapes/circleelement.png" class="shape" style="top:-40px;right:-40px;width:160px;height:160px;opacity:.08" alt="" aria-hidden="true" />
-    <img src="/static/assets/shapes/circleelement.png" class="shape" style="bottom:-40px;left:-40px;width:200px;height:200px;opacity:.10" alt="" aria-hidden="true" />
-    <img src="/static/assets/shapes/circleelement.png" class="shape" style="bottom:-50px;right:-60px;width:220px;height:220px;opacity:.10" alt="" aria-hidden="true" />
     <!-- Left Sidebar - Song List -->
     <aside class="sidebar">
       <div class="sidebar-header">
@@ -765,12 +727,6 @@
             <div class="subtitle">Learn with synced lyrics</div>
           </div>
         </div>
-        <div class="header-badges">
-          <span class="pill pill--accent">Live lyric sync</span>
-          <span class="pill">Auto-scroll ready</span>
-          <span class="pill">Timestamp logging</span>
-        </div>
-
         <div class="card" id="connectBanner" style="display:none; margin-bottom:12px; border-style: dashed;">
           <div style="display:flex; align-items:center; gap:12px; justify-content:space-between;">
             <div>
@@ -1016,6 +972,7 @@
   let lastTsSongIdStarted = null; // song id for which a timestamp job has been started
   let tsStartInFlight = false; // guard against overlapping auto-starts
   const TIMESTAMP_MODEL = 'large';
+  const TS_EDIT_ENABLED = {{ config.get("TIMESTAMP_EDIT_ENABLED", False) | tojson }};
 
   // Spotify state
   let hasSpotifyAuth = false;
@@ -1036,7 +993,7 @@
   let lastActiveIndex = -1; // Track last highlighted line to drive auto-grammar
   // Progress drag state
   let isDraggingProgress = false;
-    // Timestamp auto-marking handled by backend mic/whisper
+  // Timestamp auto-marking handled by backend mic/whisper; UI toggled by server config
 
   // Auto-scroll functions
   function setupAutoScroll() {
@@ -1279,6 +1236,7 @@
     if (tsPollActive) return;
     tsPollActive = true;
     try {
+      if (!TS_EDIT_ENABLED) { tsPollActive = false; return; }
       const stRes = await fetch('/api/timestamps/status', { cache: 'no-store' });
       const st = await stRes.json().catch(()=>({}));
       const jobSong = st?.song_id || null;
@@ -1353,7 +1311,7 @@
 
   // ---------- Timestamp editing (removed) ----------
   function ensureTsControls() {
-    if (els.tsModeChk) return;
+    if (!TS_EDIT_ENABLED || els.tsModeChk) return;
     const pane = document.querySelector('.pane + .pane');
     if (!pane) return;
     const card = document.createElement('div');
@@ -1966,14 +1924,11 @@
 
   function updateSpotifyStatus() {
     if (!hasSpotifyAuth) { 
-      els.spotifyStatus.textContent = 'Spotify: Not connected'; 
+      els.spotifyStatus.textContent = '';
       if (els.spotifyStatusPill) { els.spotifyStatusPill.style.display = 'none'; }
       return; 
     }
-    const parts = ['Spotify: Authed'];
-    if (spotifyDeviceReady) parts.push('Device ready');
-    if (spotifyCurrent.name) parts.push(`Track: ${spotifyCurrent.name} — ${spotifyCurrent.artists || ''}`);
-    els.spotifyStatus.textContent = parts.join(' • ');
+    els.spotifyStatus.textContent = spotifyDeviceReady ? 'Spotify connected' : 'Spotify connected (no active device)';
     if (els.spotifyStatusPill) { els.spotifyStatusPill.style.display = 'inline-block'; els.spotifyStatusPill.textContent = 'Spotify: Connected'; }
   }
 
